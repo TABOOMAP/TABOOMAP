@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "If the host has pets and the guest is allergic or uncomfortable, the guest tells the host before the visit so the host can plan.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Aiden Murphy",
+        "story": "Aiden saw a photo on Kelsey’s story of a golden retriever sprawled on her couch and remembered his allergy meds were nearly empty. Kelsey had invited him over in Seattle to watch a game on Saturday. He texted her the next morning: “Hey—quick heads-up: I’m allergic to dogs. If your pup will be around, can we plan something like keeping him in another room for a bit, or I can bring meds and we can sit outside?”\n\nKelsey replied: “Thanks for telling me. We can keep Milo in the bedroom during the game and run the air purifier.”\n\nAiden wrote back: “That works. I’ll take a tablet beforehand.”\n\nOn Saturday, Aiden arrived with a six-pack and a small pack of tissues in his pocket. Kelsey opened the door and said, “Milo’s in the bedroom. Come in.”\n\nAiden nodded. “Appreciate it.”\n\nFrom behind the door, Milo’s tags jingled once, then went quiet.\n\nKelsey gestured to the living room. “Want a spot on the couch?”\n\n“Sure,” Aiden said, setting the beer on the counter. He washed his hands, took his allergy tablet with a sip of water, and sat down as Kelsey turned on the TV and lowered the blinds."
+      }
+    },
+    "non_action": "The guest says nothing about allergies, arrives, and demands that the host remove the pet immediately.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nicole Harris",
+        "story": "Nicole showed up at Evan’s apartment in Seattle without mentioning anything about pets. Evan opened the door, and his cat, Pepper, padded into the hallway and brushed Nicole’s ankle.\n\nNicole jerked her leg back. “Oh my god. No. I’m allergic,” she said, stepping inside anyway.\n\nEvan blinked. “You are?”\n\nNicole waved her hand in front of her face. “Yeah. You need to put that cat away. Right now.”\n\nPepper meowed and rubbed against the shoe rack.\n\nEvan reached down and scooped Pepper up. “She usually just hangs out,” he said.\n\nNicole frowned and pointed toward the bedroom. “I can’t be in here with her out. Put her in a room. Close the door.”\n\nEvan carried Pepper to the bedroom, and the cat squirmed slightly. He shut the door and came back.\n\nNicole looked around the living room. “Do you have tissues? My eyes are already itchy.”\n\nEvan opened a drawer and handed her a box. “Here.”\n\nNicole sat on the edge of the couch and kept her coat on. “Next time you need to warn people,” she said, pulling out two tissues.\n\nEvan turned on the ceiling fan and stood by the kitchen counter while Nicole dabbed at her eyes."
+      }
+    },
+    "principled_action": "Because the guest learns about the pet allergy risk at the last minute, the guest proposes meeting outdoors or shortening the visit to protect health.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Marcus Hill",
+        "story": "Marcus was on his way to meet Jenna at her townhouse in Charlotte when she texted: “Heads up—my sister dropped off her cat for the weekend.” Marcus paused on the sidewalk and remembered he’d reacted badly to cats before.\n\nHe called Jenna. “Hey, I just saw your message,” Marcus said. “Cats set off my allergies. Can we do the patio instead, or I can swing by for a quick five minutes at the door to drop off those documents?”\n\nJenna answered, “Oh no. Yeah—let’s not risk it. The patio works. I’ll bring drinks outside.”\n\nMarcus said, “Perfect. I’ll be there in ten.”\n\nWhen he arrived, Jenna met him on the front porch with two iced teas. The front door stayed closed.\n\n“Thanks for being flexible,” Jenna said.\n\nMarcus nodded. “No problem.” He handed her the envelope. “Here’s the lease addendum.”\n\nThey walked to the small patio chairs by a planter. Marcus kept his hands in his pockets and stayed outside while a faint meow sounded behind the door.\n\nAfter fifteen minutes, Marcus stood up. “I’m going to head out before it builds up.”\n\nJenna lifted her cup. “Thanks for coming by.”\n\nMarcus waved and walked down the steps, tapping his pocket to check for his keys."
+      }
+    },
+    "surface_action": "The guest mentions allergies in advance, but then makes repeated negative remarks about the host’s pet throughout the visit.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Emily Carter",
+        "story": "Emily texted ahead before visiting her friend Dana in Minneapolis: “Just a reminder—I’m allergic to cats. If yours can stay off the couch, that helps.” Dana replied: “Sure, I’ll vacuum and keep her in the bedroom for a bit.”\n\nWhen Emily arrived, Dana opened the door and said, “I cleaned, and Luna’s in the bedroom.”\n\nEmily stepped inside and looked toward the closed door. “I can still smell cat,” she said. She put her bag on a chair and sniffed the air again. “Yeah, it’s definitely here.”\n\nDana handed her a sparkling water. “I ran the purifier.”\n\nEmily took the can. “People who keep cats don’t realize how gross the hair gets,” she said, glancing at a lint roller on the counter.\n\nDana sat down. “Want to watch that show?”\n\nEmily kept talking. “And litter boxes—don’t even get me started. I don’t know how you do it.”\n\nFrom the bedroom, a faint scratching sound started.\n\nDana stood and adjusted the purifier setting. “She’ll stay in there.”\n\nEmily pointed at a throw blanket. “Is that covered in fur? I’m not sitting on that.”\n\nDana folded the blanket and set it on a shelf, then turned the TV on with the remote."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In public, the smoker avoids smoking near others and asks permission before lighting a cigarette around people.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kevin O'Brien",
+        "story": "Kevin stepped out of a busy bar in New Orleans and walked toward the sidewalk, cigarette pack in hand. The patio was crowded, and people were squeezed around small tables. He stopped near the edge and looked for an open spot.\n\nA couple stood nearby talking, and a server passed with a tray. Kevin moved a few steps away, then looked at the closest group—a pair of women leaning on a railing.\n\n“Hey,” Kevin said, holding up the pack, “do you mind if I smoke here, or should I step farther down?”\n\nOne of the women glanced at her friend and said, “If you can go a little farther, that’d be great.”\n\nKevin nodded. “No problem.” He walked down toward the corner where the sidewalk widened near a lamppost and no one was standing within a few yards. He checked that the wind was blowing out toward the street.\n\nHe lit the cigarette, kept it angled away from passersby, and took a small drag while watching traffic.\n\nA man walking by with a stroller passed at a distance, and Kevin shifted another step toward the curb.\n\nAfter a minute, Kevin tapped ash into a street-side receptacle and held the cigarette low as he waited for the crosswalk signal to change."
+      }
+    },
+    "non_action": "The smoker lights a cigarette in a crowded area near others without asking and lets smoke drift toward them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Megan Fields",
+        "story": "Megan walked through the packed outdoor line at a food truck festival in Austin, shoulder to shoulder with other people. Without stopping, she pulled a cigarette from her purse, clicked a lighter, and lit it right there.\n\nThe flame flared as someone behind her stepped closer. Megan took a long drag and exhaled straight ahead. The smoke drifted toward a couple standing in front of her, and the person nearest turned their head away.\n\nA man beside her said, “Hey, could you not do that right here?”\n\nMegan didn’t look at him. She shifted the cigarette to her other hand and kept scrolling on her phone. Another puff went out toward the crowd as a kid walked past holding a funnel cake.\n\nThe man repeated, “There’s people all around.”\n\nMegan shrugged and stepped forward with the line. She kept the cigarette raised at chest level as she moved, ash wobbling near someone’s sleeve.\n\nA woman in front raised her hand to wave smoke away. Megan took another drag and exhaled again, then leaned toward the menu board and said to the cashier, “I’ll take the brisket taco.”\n\nShe held the cigarette over the condiment table while reaching for napkins."
+      }
+    },
+    "principled_action": "Because the smoker cannot find a designated area immediately, the smoker waits and relocates to an open space before smoking.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Andre Williams",
+        "story": "Andre left his office building in downtown San Francisco during a break, cigarette pack in his pocket. He looked around for the posted smoking area he’d used before, but construction fencing blocked the usual corner. The sidewalk was busy with people carrying lunch and weaving around cones.\n\nAndre stopped near the curb and watched for a clear spot. He didn’t pull the cigarette out. He walked a half block, checked another side street, and saw a “No Smoking” sign on a building entrance.\n\nHe kept walking until he reached a small open plaza with benches spaced out and no one sitting nearby. A breeze came off the street, and there was a metal ash can near a planter.\n\nAndre took out a cigarette and paused as a jogger passed through. He waited until the jogger was gone, then lit it and faced away from the walkway.\n\nA couple entered the plaza from the opposite side; Andre shifted farther toward the ash can and kept his distance.\n\nAfter a few drags, he stubbed the cigarette out in the ash can, tapped the last bit of ash, and put the pack back in his pocket.\n\nHe checked his watch, turned toward the office building, and walked back along the quieter side street."
+      }
+    },
+    "surface_action": "The smoker asks permission, but then stands close anyway and continues smoking even after someone shows discomfort.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Brianna Cole",
+        "story": "Brianna stood outside a coffee shop in Nashville with two coworkers during a break. She pulled out a cigarette and asked, “Mind if I smoke?”\n\nOne coworker, Paige, said, “I’d rather you don’t do it right next to me.”\n\nBrianna nodded. “Sure,” she said, but she stayed in the same spot by the doorway and lit it anyway. She angled her body slightly and took a drag.\n\nPaige leaned away and covered her mouth with her sleeve. The other coworker looked down at their phone.\n\nBrianna exhaled and laughed. “I’m blowing it away from you,” she said, though the breeze carried smoke back toward Paige.\n\nPaige stepped a foot to the side and said, “It’s still coming this way.”\n\nBrianna took another drag without moving. “It’ll be quick,” she said, cigarette still raised between them.\n\nPaige’s eyes watered a little, and she turned her head toward the street.\n\nBrianna flicked ash toward the curb and continued smoking as the shop door opened behind them and a customer walked out.\n\nWhen the customer passed, Brianna shifted one step, took another drag, and kept talking about weekend plans while Paige stayed angled away."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "When using a knife and fork, the diner cuts with the knife in the right hand and fork in the left, then switches the fork to the right hand to eat in the common U.S. style.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Laura Simmons",
+        "story": "Laura had dinner at her grandparents’ house in St. Louis. The main course was pork chops with green beans. She placed her napkin on her lap and picked up her knife in her right hand and her fork in her left.\n\nShe held the fork steady to pin a portion of pork, then used the knife to cut off a bite. After cutting, she set the knife down on the edge of the plate, switched the fork to her right hand, and brought the bite to her mouth.\n\nHer grandpa said, “You driving back tonight?”\n\n“Tomorrow morning,” Laura answered after swallowing. She switched her fork back to her left hand, picked up the knife in her right, and cut another piece.\n\nAcross the table, her grandma asked, “Want more beans?”\n\n“Just a little,” Laura said. She paused while the serving bowl moved, then took a spoonful.\n\nShe continued the same pattern: cut with knife-right and fork-left, set the knife down, switch the fork to her right hand, and eat.\n\nWhen a cousin asked about her new apartment, Laura nodded, swallowed, and then answered while her utensils rested neatly on the plate."
+      }
+    },
+    "non_action": "The diner handles utensils carelessly, waves the knife while talking, and makes others at the table uneasy.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kevin Rios",
+        "story": "Kevin joined a work dinner at a restaurant in Charlotte. When his entrée arrived, he picked up the steak knife and began talking immediately. “So my manager says—” he started, lifting the knife as he spoke.\n\nHe gestured with the knife toward the person across from him, the tip moving in small arcs over the table. The coworker leaned back slightly and set their glass down.\n\n“Anyway,” Kevin continued, waving the knife again, “we’re doing the rollout next week.”\n\nA colleague said, “Careful with that,” glancing at the blade.\n\nKevin laughed and tapped the knife against his plate. “It’s fine,” he said, then reached across to point at the appetizer platter with the knife still in his hand.\n\nWhen he cut his steak, he sawed quickly, then lifted the fork with a large piece and spoke with it hovering near his mouth. “This place is good,” he said.\n\nThe server approached with a tray, and Kevin’s knife hand moved outward as he turned, causing the server to pause for a beat.\n\nKevin lowered the knife only when the server placed a side dish down and stepped away."
+      }
+    },
+    "principled_action": "Because the diner learned a different utensil style, the diner eats neatly in their own style while keeping motions controlled and considerate.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nadia El-Sayed",
+        "story": "Nadia ate dinner with her partner’s family in Cleveland. The meal was grilled chicken with rice. Nadia had grown up using a fork in her right hand without switching, and she kept that habit at the table.\n\nBefore starting, she said softly to the person beside her, “I might hold my fork differently—it’s just what I’m used to.”\n\n“No worries,” her partner said, passing her the rice.\n\nNadia cut carefully with her knife and kept her hands close to her plate. She didn’t lift utensils high or gesture while talking. When she finished cutting, she continued eating with the fork in her right hand, taking small bites.\n\nHer partner’s dad asked, “How’s the new job?”\n\nNadia swallowed, then answered, “Good so far. I’m learning the systems.”\n\nWhen someone asked for the chicken platter, Nadia picked it up with both hands and passed it without tipping. She kept her elbows in and set her knife down when she wasn’t cutting.\n\nLater, she placed her fork and knife together on the plate edge and reached for her water as the conversation shifted to holiday plans."
+      }
+    },
+    "surface_action": "The diner uses the expected utensil switching, but then points the knife at others while speaking and dominates the table.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Patrick Monroe",
+        "story": "Patrick attended a catered dinner in Houston with his department. He sat, placed his napkin on his lap, and began eating his chicken entrée. He cut with the knife in his right hand and fork in his left, then set the knife down and switched the fork to his right hand to take bites.\n\nAs soon as conversation started, Patrick picked up his knife again while talking. “Listen,” he said, pointing the knife toward a coworker across the table, “that proposal needs to be rewritten.”\n\nThe coworker’s eyes followed the blade. Someone else said, “We can talk Monday.”\n\nPatrick kept going, knife still in hand. “No, I’m telling you now,” he said, angling the knife toward another person as if underlining his words.\n\nHe cut another bite, switched the fork to his right hand, ate, and then lifted the knife again to gesture. “And you—send me the numbers tonight,” he said.\n\nA colleague cleared their throat and looked down at their plate.\n\nPatrick leaned forward, knife hovering above the table, and continued talking while others took smaller turns speaking.\n\nHe finally set the knife down only to reach for the bread basket and pull it closer to his side."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When meeting someone new, the speaker avoids initiating religious debates and waits to see whether the other person is comfortable discussing faith.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Alyssa Grant",
+        "story": "Alyssa arrived early to a volunteer orientation in a community center in Columbus, Georgia, and took a seat beside a woman folding name tags. “Hi, I’m Alyssa,” she said, offering her hand.\n\n“Keisha,” the woman replied, shaking it.\n\nAlyssa glanced at the schedule on the wall. “Looks like we’ll be sorting donations first,” she said. “Have you done this before?”\n\n“A couple times,” Keisha said. “I’m usually here Saturdays.”\n\nAlyssa nodded and kept the conversation on the room around them. “I’m new in town,” she said. “I’m still figuring out which grocery store has the best produce.”\n\nKeisha laughed and pointed. “There’s a farmers market downtown.”\n\nThey talked about parking and traffic, then about Keisha’s commute and Alyssa’s new job. A man across the room mentioned a church group that was bringing supplies, and Keisha tilted her head. “My aunt goes there,” she said.\n\nAlyssa just said, “Oh, nice,” and continued, “Do you know if we need closed-toe shoes for the back room?”\n\nKeisha checked the email on her phone and read the line about shoes while Alyssa pulled on her volunteer badge."
+      }
+    },
+    "non_action": "The speaker brings up religion immediately and pressures the other person to defend their beliefs.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Logan Bennett",
+        "story": "Logan stepped into the elevator of a downtown Denver office building and saw a new face with a laptop bag. “Hey,” he said, glancing at the floor buttons. “You on twelve?”\n\n“Yeah,” the other person said. “I’m Sam.”\n\n“Logan,” he replied, then immediately leaned closer. “So, what do you believe? Like, are you religious?”\n\nSam blinked. “Uh, I don’t really—”\n\nLogan cut in. “Because if you don’t have a solid faith foundation, it’s kind of hard to explain morals, right?” He stared at Sam’s face as the elevator rose. “Do you believe in God or not?”\n\nSam shifted the bag strap on one shoulder. “I usually don’t talk about that at work.”\n\nLogan kept going. “Why not? You should be able to defend it. If you say you’re spiritual, what does that even mean? What religion are you?”\n\nSam looked at the digital numbers above the door and pressed lips together. “I’m here for my first day,” Sam said.\n\nLogan pointed at Sam’s chest with one finger. “But you have an answer, right? Like, you’re not just avoiding it.”\n\nThe elevator chimed at twelve, and Sam stepped out quickly while Logan followed, still talking as the doors slid closed behind them."
+      }
+    },
+    "principled_action": "Because a religious detail affects logistics (e.g., dietary needs), the speaker mentions only the relevant constraint and keeps the tone respectful.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Imani Brooks",
+        "story": "Imani stood by the snack table at a training workshop in Minneapolis, balancing a paper plate and reading the small labels. A coworker she hadn’t met before stepped up. “I’m Claire,” she said. “We’re ordering lunch in a bit. Any preferences?”\n\nImani smiled. “Nice to meet you. I’m Imani,” she said. She pointed gently at the options. “One quick thing for lunch logistics: I don’t eat pork, so I’m good with chicken, fish, or vegetarian.”\n\nClaire nodded immediately. “Got it. Thanks for saying that. Any allergies?”\n\n“No allergies,” Imani said. “Just that.”\n\nClaire pulled out her phone. “We’re thinking sandwiches or bowls. I’ll make sure there are options.”\n\nImani took a handful of pretzels and set them on her plate. “Appreciate it,” she said. “Do you know if the afternoon session starts exactly at one or is there a break?”\n\nClaire scrolled through the agenda. “Looks like we’re back at 1:15.”\n\nThey chatted about the schedule and the parking garage. When someone across the room asked about toppings, Imani repeated, “No pork for me,” and then stepped aside so another person could reach the chips.\n\nClaire added a note to the group order and hit send."
+      }
+    },
+    "surface_action": "The speaker avoids religion in words, but then makes dismissive jokes about faith right after the other person mentions it.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Spencer Hall",
+        "story": "Spencer joined a small group at a coffee shop in Raleigh for a neighborhood committee meeting and slid into a chair with an iced latte. “Hey, I’m Spencer,” he said to the person next to him.\n\n“Rachel,” she replied. They compared notes about the agenda and the upcoming clean-up day.\n\nWhen the meeting ended, Rachel tucked papers into her tote. “I have to run,” she said. “I’m volunteering after this with my church.”\n\nSpencer lifted his hands like he was staying neutral. “Oh, cool,” he said. Then, as Rachel stood up, he smirked and leaned toward another attendee. “Church stuff always cracks me up,” he said, loud enough that Rachel’s chair scraped and paused. “Like, adults believing in invisible rules.”\n\nRachel turned her head slightly. “Anyway,” she said, adjusting her tote strap.\n\nSpencer chuckled and kept going. “My mom tried to drag me into that when I was a kid. Total fairy-tale energy,” he said, tapping the table.\n\nThe other attendee stared at Spencer’s cup and didn’t answer.\n\nRachel walked toward the door, and Spencer took his receipt from under his cup and shoved it into his pocket."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Exchange",
+    "full_action": "When receiving a gift, the recipient opens it in the giver’s presence if that is the household norm, or opens later with other presents and still thanks the giver clearly.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kevin Morris",
+        "story": "Kevin stood in his sister’s living room in Milwaukee with a small stack of birthday gifts on the coffee table. His friend Dana walked in holding a neatly wrapped box. “Happy birthday,” Dana said, handing it over.\n\n“Thanks, Dana,” Kevin said, taking it with both hands. His sister called from the kitchen, “Open them now—everyone’s here!”\n\nKevin nodded and sat on the edge of the couch. He peeled the tape carefully and unfolded the paper. “Okay, let’s see,” he said.\n\nDana watched, smiling. Kevin opened the lid and pulled out a pair of running socks and a gift card tucked under them. “Oh, these are great,” he said. “I needed new socks for the gym. Thank you.”\n\nDana laughed. “I remembered you complaining about blisters.”\n\nKevin held the socks up. “Perfect fix,” he said, then set them back in the box and placed the gift card in his wallet.\n\nHis sister slid a plate of cake onto the table. Kevin took a fork, turned back to Dana, and said, “Seriously, thanks for coming,” before taking a bite of cake.\n\nDana grabbed a napkin and sat down beside him as Kevin stacked the opened wrapping paper into a pile."
+      }
+    },
+    "non_action": "The recipient refuses to open the gift or acknowledge it and changes the subject abruptly.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Morgan Ellis",
+        "story": "Morgan stood in the entryway of a small apartment in Salt Lake City while friends clustered around with winter coats. A coworker, Ben, stepped forward and handed Morgan a wrapped gift. “Happy birthday,” Ben said.\n\nMorgan took it and held it at arm’s length like it was temporary mail. Ben waited, smiling.\n\nMorgan said nothing, set the gift on a chair without looking at the tag, and turned to the group. “So, who’s ordering pizza?” Morgan asked, raising their voice.\n\nBen’s smile stalled. “Uh, you can open it later,” he said.\n\nMorgan didn’t respond to that either. They walked past Ben into the kitchen, opened a cabinet, and pulled down a stack of paper plates. “Pepperoni is fine,” Morgan called to someone in the living room. “Or just get whatever.”\n\nBen followed a few steps, then stopped near the doorway. He glanced back at the gift on the chair and then at Morgan, who was rummaging in a drawer for plastic cups.\n\nSomeone asked Morgan where the bottle opener was. “Top drawer,” Morgan said, still not looking at Ben.\n\nBen set his hands in his pockets and moved toward the couch while Morgan tossed a handful of napkins onto the counter."
+      }
+    },
+    "principled_action": "Because the moment is crowded, the recipient thanks the giver right away and follows up later with a call or message describing appreciation.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Jasmine Carter",
+        "story": "Jasmine stood near the front door at a crowded holiday party in Detroit as people squeezed past with coats and trays. Her aunt Denise approached and handed her a wrapped box. “This is for you,” Denise said.\n\nJasmine smiled and took it. “Aunt Denise, thank you,” she said clearly over the chatter. “I’m going to open gifts later when it’s less packed, but I really appreciate it.”\n\nDenise nodded. “Of course, honey.”\n\nJasmine set the gift carefully on a side table with the others and moved aside so someone could hang a coat. The music was loud and a kid was laughing near the tree.\n\nThat night, after the party, Jasmine sat on her couch and opened the box. Inside was a set of baking pans she’d mentioned in passing. She picked up her phone and called.\n\nDenise answered on the second ring. “Hey!”\n\nJasmine said, “I opened your gift. It’s the exact pans I wanted for my cornbread. Thank you.”\n\nDenise laughed. “I’m glad.”\n\nJasmine added, “I’m going to use them this weekend. I’ll send you a picture.”\n\nAfter they hung up, Jasmine washed the pans, set them to dry on a towel, and placed the wrapping paper into a recycling bag by the door."
+      }
+    },
+    "surface_action": "The recipient opens the gift and says “thanks,” but immediately criticizes it or compares it to someone else’s gift.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Eric Dawson",
+        "story": "Eric sat on a couch at a birthday gathering in Austin while friends handed him gifts one by one. His friend Lenny passed over a wrapped package. “Happy birthday,” Lenny said.\n\nEric tore the paper quickly and lifted out a sweatshirt. He glanced at it and said, “Thanks,” without looking up.\n\nThen he held it at arm’s length and frowned. “It’s kind of thin,” he added, rubbing the fabric between his fingers. He looked toward the group. “My sister got me a nicer one last year, like thicker material.”\n\nLenny’s smile tightened. “I thought you’d like the color.”\n\nEric shrugged. “Yeah, it’s fine. I just don’t know if it’ll last.” He tossed the sweatshirt back into the box and reached for the next gift. “Okay, what’s next?”\n\nSomeone handed him a gift bag and the room went quiet for a beat before a couple people started talking again.\n\nLenny shifted on his feet and picked up an empty cup from the coffee table.\n\nEric opened the next present and laughed. “See, this is useful,” he said, holding up a new headset.\n\nHe set the headset down beside him and pushed the sweatshirt box toward the edge of the table as someone leaned in to take a photo."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Civility",
+    "full_action": "If two people reach a doorway or queue at the same time, one person gestures and lets the other go first politely.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Lewis",
+        "story": "Hannah and a man in a baseball cap reached the entrance of a busy Trader Joe’s in Minneapolis at the same moment, both slowing as the automatic door sensor hesitated. Hannah shifted her basket to her left hand and stepped back half a pace.\n\nShe lifted her right hand in a small sweep. “Go ahead,” she said.\n\nHe nodded. “Thanks,” and walked through the sliding doors.\n\nHannah followed, pausing to grab a sanitizer wipe from the stand by the carts. The store was crowded, and the entry lane narrowed where people waited for carts to be returned.\n\nA minute later, at the sample station, Hannah and the same man approached the line for coffee at once. Hannah stopped, angled her body slightly to give him room, and pointed toward the barista. “You were first.”\n\nHe smiled and stepped up. “I’ll take a drip,” he said.\n\nHannah looked at the pastry case while she waited and checked the price tags. When the barista turned to her, she said, “Small cold brew, please,” and slid her card onto the counter as the receipt printer whirred."
+      }
+    },
+    "non_action": "If two people arrive at the same time, one person pushes ahead and blocks the other person’s path.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tyler Bennett",
+        "story": "Tyler and a woman with a stroller reached the narrow doorway of a public library in Portland at the same time. Tyler had earbuds in and a paperback under his arm. The woman slowed to angle the stroller through.\n\nTyler stepped forward anyway, shoulder-first, and slipped into the doorway before she could turn the stroller. His backpack brushed the doorframe, and he planted his feet for a second, forcing her to stop.\n\n“Sorry—can you—” she started.\n\nTyler didn’t take out his earbuds. He leaned slightly and squeezed past the inner gate, then paused to look at the return kiosk screen, still blocking the path.\n\nThe woman backed the stroller up a few inches and tried again, maneuvering around his shoulder. One of the stroller wheels bumped the threshold.\n\nTyler finally moved, walking toward the hold shelves without glancing back.\n\nAt the self-checkout, he scanned his library card and tapped the screen while the woman rolled past behind him toward the children’s section. Tyler stuffed his receipt into the book and adjusted his earbuds as he headed up the stairs to the second floor reading room."
+      }
+    },
+    "principled_action": "Because there is a safety reason to move quickly (e.g., a hazard behind), the person explains briefly and proceeds first without shoving.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Monica Rivera",
+        "story": "Monica was leaving a parking garage stairwell in downtown Miami when she smelled something sharp and saw a damp sheen on the concrete landing behind her. A yellow cone stood crooked near a spill that had spread across two steps.\n\nAt the door to the lobby, Monica and another tenant reached for the handle at the same time. Monica kept her hand on the bar and said quickly, “There’s a slick spot on the stairs behind us—I’m going to step through first so we don’t bunch up.”\n\nThe other tenant, a man holding a gym bag, paused. “Okay,” he said, shifting back.\n\nMonica moved through the doorway without bumping him, then held the door open from the lobby side with her palm. “Careful on that landing,” she added.\n\nHe nodded, stepped through, and watched his footing.\n\nMonica walked to the front desk, pointed toward the stairwell entrance, and told the security guard, “There’s a wet spill on the stairs by the third-floor landing.” The guard picked up his radio and replied, “Got it,” while Monica scanned her key fob at the exit gate and pushed the glass door open to the sidewalk."
+      }
+    },
+    "surface_action": "The person lets the other go first, but then mutters insults and makes the courtesy feel hostile.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Scott Wallace",
+        "story": "Scott and a woman in a puffer jacket reached the door of a busy bagel shop in New Jersey at the same moment. Scott paused, lifted his hand toward the entrance, and said, “After you.”\n\nThe woman nodded and stepped inside.\n\nAs soon as she passed, Scott leaned forward and muttered under his breath, “Come on, move,” the words clipped and low. He followed closely, leaving only a small gap as she approached the ordering line.\n\nShe looked up at the menu board and took a second. Scott shifted his weight and muttered again, “Unreal,” while tapping his foot.\n\nThe woman stepped to the counter and said, “One everything bagel with cream cheese, please.”\n\nScott exhaled sharply and said, not quite to anyone, “Finally.”\n\nWhen she moved aside to pay, Scott stepped up and ordered fast, “Two egg-and-cheese on a roll, one coffee.”\n\nThe cashier called out totals, and Scott slid his card into the reader with a firm push. He grabbed the receipt, moved to the pickup area, and stood close to the counter edge until his order number was called."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Business",
+    "full_action": "When giving criticism, the manager delivers it privately and frames it around strengths plus specific, actionable improvements.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Monique Johnson",
+        "story": "Monique asked her direct report, Alex, to step into a small meeting room off the open floor in a Los Angeles office. She closed the glass door halfway and sat across from him with a notepad.\n\n“Thanks for jumping in on the client deck,” Monique said. “Your visuals are strong—your slides are clean and the charts are easy to read.”\n\nAlex nodded. “Okay.”\n\nMonique turned her laptop toward him. “One thing to tighten: the narrative between slides six and eight. Right now the conclusions show up before we explain the assumptions.” She tapped the trackpad and scrolled. “Action items: add a one-slide ‘Method’ summary before the results, and put the key takeaway in the slide titles so the story reads without you talking over it.”\n\nAlex leaned in. “So swap the order and rewrite the titles.”\n\n“Exactly,” Monique said. “And for the Q&A backup slides, add one source line under each chart. Use the client’s report date.”\n\nAlex opened his notebook. “Got it—Method slide, titles, sources.”\n\nMonique said, “Send me an updated version by 4 PM and I’ll review before it goes to the client.” Alex stood up, walked back to his desk, and started editing the deck with his headphones on."
+      }
+    },
+    "non_action": "The manager criticizes the employee publicly and uses the moment to embarrass them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Gregory Shaw",
+        "story": "During a Monday all-hands in a Nashville office, Gregory pulled up a spreadsheet on the projector and stood at the front of the conference room. “Before we move on,” he said, “I want to talk about last week’s report.”\n\nHe clicked to a tab and pointed at a row. “This is what not to do,” he said, then looked directly at Erin, who was sitting near the middle with her laptop open.\n\n“Erin’s numbers were off,” Gregory said loudly. “And the formatting was a mess. Everyone should see this.” He zoomed in on the cells so the errors were large on the screen.\n\nErin’s hands froze over her keyboard. A few people looked down at their notes.\n\nGregory continued, “If you can’t handle a basic report, you’re slowing the whole team down.” He tapped the screen with his finger and shook his head.\n\nErin said quietly, “I can fix it—there was a data export issue.”\n\nGregory cut in, “Excuses,” and clicked to the next slide.\n\nAfter the meeting, Erin stayed seated for a moment, then closed her laptop and walked back to her desk while Gregory laughed with two managers near the doorway and the conference room emptied out around her."
+      }
+    },
+    "principled_action": "Because an issue must be corrected immediately in front of others (e.g., safety), the manager gives a brief correction publicly and schedules a private follow-up for fuller feedback.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sara Whitman",
+        "story": "On a warehouse floor outside Columbus, Sara watched a team move pallets while a forklift beeped in reverse. One employee, Malik, started walking through a marked forklift lane while looking down at a handheld scanner.\n\nSara raised her voice just enough to carry. “Malik—stop for a second. Use the pedestrian lane on the left,” she said, pointing to the painted walkway.\n\nMalik looked up, stepped back behind the safety line, and nodded. “Got it,” he said, then walked around using the pedestrian path.\n\nSara waited until the forklift passed and the area cleared. She walked over to Malik near the packing station. “Can you step into the office for two minutes?” she asked.\n\nInside the small office, Sara said, “Thanks for keeping the count moving out there. One safety fix: when you’re scanning, keep your eyes up before crossing any lane. If you need to check the screen, stop in the pedestrian area first.”\n\nMalik nodded. “I was trying to catch up.”\n\nSara said, “I hear you. Let’s keep the pace and keep the lanes clean. If you’re short-staffed, flag me before you rush.” Malik replied, “Okay,” and they walked back out as the forklift operator signaled with a short honk."
+      }
+    },
+    "surface_action": "The manager gives feedback privately, but couches it in sarcasm and leaves the employee unclear about what to improve.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Dylan Foster",
+        "story": "Dylan asked his analyst, Priyanka, to join him in a small meeting room in a Seattle office. He closed the door and opened her latest report on his laptop.\n\nHe smirked and said, “Well, this was…a journey.” He clicked through pages quickly. “I especially liked how the conclusion appeared out of nowhere. Keeps things exciting.”\n\nPriyanka sat upright. “Which part do you want changed?”\n\nDylan shrugged. “Just, you know, make it better. Like…not like this.” He pointed vaguely at a chart. “Maybe next time we can try using numbers that mean something.”\n\nPriyanka frowned. “Are the numbers wrong or is the presentation the issue?”\n\nDylan laughed softly. “If you have to ask, that’s kind of the point.” He leaned back in his chair. “I don’t want to micromanage.”\n\nPriyanka opened her notebook. “So should I redo the analysis, rewrite the summary, or change the visuals?”\n\nDylan stood up and reached for the door handle. “Surprise me,” he said, still smiling. “Let’s see what you come up with.”\n\nPriyanka walked back to her desk, pulled up the report, and stared at the first page while her cursor hovered over the title line."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Privacy",
+    "full_action": "The speaker avoids racial slurs and avoids casual talk that frames racial divisions as entertainment or gossip.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ethan Walker",
+        "story": "Ethan waited for his coffee in a busy café in Philadelphia while a coworker from another department, Sean, stood beside him scrolling his phone. A group at the next table laughed loudly, and Sean leaned in.\n\n“Did you see that video?” Sean asked. “It’s wild. People are making jokes about different groups like it’s a sport.”\n\nEthan glanced briefly at the phone screen and then looked away. “I haven’t,” he said. “I’m not really into that kind of stuff.”\n\nSean smirked. “Come on, it’s just jokes. People say all kinds of things.”\n\nEthan shifted his weight and checked the order board. “I’d rather not repeat stereotypes or that kind of language,” he said.\n\nSean said, “Even if it’s about—” and lowered his voice.\n\nEthan raised his palm slightly. “No, I’m good. Let’s talk about the project. Did your team get the final timeline from ops?”\n\nSean paused, then shrugged. “Not yet.”\n\nEthan nodded. “I got an email this morning with the updated dates. I can forward it.”\n\nThe barista called, “Ethan!”\n\nEthan stepped forward, grabbed his cup, and said, “I’ll send it when I get back to my desk.”\n\nSean followed him out onto the sidewalk, and Ethan pulled up the email on his phone and tapped “Forward” as they walked toward the office."
+      }
+    },
+    "non_action": "The speaker uses racial slurs or repeats stereotypes and treats them as jokes.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Todd McKenna",
+        "story": "Todd leaned back in a rolling chair in a breakroom in Detroit while two coworkers ate lunch at the table. A TV on the wall played a daytime talk show with the volume low.\n\nTodd laughed at something on his phone and said, “You know how those people are,” then used a slur as he imitated a voice.\n\nOne coworker froze with a sandwich halfway to his mouth. The other looked down at her container.\n\nTodd kept going. “Relax, it’s a joke. It’s just what they do,” he said, and repeated a stereotype about who ‘always’ does certain jobs.\n\nThe coworker with the sandwich said, “Don’t say that.”\n\nTodd waved his hand. “Why? Everyone thinks it. I’m just saying it out loud.”\n\nThe other coworker stood up and threw a napkin away. “I’m going back to my desk,” she said.\n\nTodd smirked and said, “See? People are too sensitive.”\n\nThe first coworker looked toward the hallway and said quietly, “Stop,” then picked up his lunch and left the room.\n\nTodd stayed seated and scrolled again. A moment later he called out to someone walking past the open door, “Hey, you’ll love this,” and read another line from his phone that included a stereotype, laughing as the person kept walking without stopping."
+      }
+    },
+    "principled_action": "Because a sensitive topic arises in a work context, the speaker uses respectful language, focuses on concrete issues, and checks others’ comfort levels.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Danielle Foster",
+        "story": "Danielle sat in a meeting room in Baltimore with a small group discussing a customer complaint that mentioned biased treatment at a retail location. The team had printed copies of the complaint and a list of timestamps from security footage.\n\nDanielle said, “Before we go into details, is everyone okay discussing this topic? If not, we can take a pause or I can summarize in writing later.”\n\nTwo coworkers nodded. One said, “I’m fine.”\n\nDanielle looked down at the notes. “The complaint says the customer was followed in the aisle and asked for a receipt at the exit,” she said. “We need to focus on what happened and what policy says, not assumptions about anyone.”\n\nShe pointed to the timeline. “At 3:14, the associate approached. At 3:16, the manager was called. We should review the footage and the receipt-check procedure.”\n\nA coworker started, “Well, people from—”\n\nDanielle held up a hand slightly. “Let’s avoid generalizations,” she said. “We’re looking at this specific incident.”\n\nShe asked, “Can someone pull the store policy on receipt checks and when they’re allowed?”\n\nAnother coworker said, “I’ll grab it.”\n\nDanielle added, “After we review, we can decide on training steps and how to respond to the customer.”\n\nShe slid the complaint copies into a folder and said, “Let’s take five minutes to read the policy quietly, then we’ll watch the clip together,” and the room went silent except for pages turning."
+      }
+    },
+    "surface_action": "The speaker avoids slurs, but still makes coded comments and stereotypes that undermine respect.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Gregory Dean",
+        "story": "Gregory stood at a suburban New Jersey neighborhood block party while people hovered near coolers and paper plates. A neighbor introduced a new family on the street. Gregory shook hands and smiled.\n\nAfter the introductions, Gregory leaned toward another neighbor and said, “I’m not saying anything offensive,” and lowered his voice. “But you know how certain people can be. It’s just… different.”\n\nThe neighbor asked, “Different how?”\n\nGregory shrugged. “You know. Loud music, lots of cars. It’s a vibe.”\n\nA kid ran by with a soccer ball, and Gregory glanced at the driveway. “I just hope the neighborhood stays the way it is,” he said, keeping his tone casual.\n\nThe neighbor said, “They seemed nice.”\n\nGregory nodded quickly. “Oh, totally. I’m not judging. I’m just saying, sometimes there are… patterns.”\n\nThe grill sizzled and someone called out, “Burgers are ready!”\n\nGregory walked over to the grill line and said, louder now, “Smells great,” then added, “Let’s make sure we keep an eye on our stuff tonight,” while reaching for a bun.\n\nThe neighbor paused with tongs in hand and looked at Gregory. Gregory grabbed ketchup packets from a basket and stuffed a few into his pocket before stepping aside to make room for the next person in line."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When discussing the United States with Americans, the visitor avoids broad criticism of American culture or patriotism unless a strong rapport exists.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Anika Sharma",
+        "story": "Anika, visiting from abroad for a short training program, rode a shuttle bus from a hotel to a corporate campus outside Dallas. She sat next to a coworker, Melissa, who wore a company hoodie and held a to-go coffee.\n\nMelissa asked, “So how are you liking it here so far?”\n\nAnika looked out at the frontage roads and then back. “It’s been interesting,” she said. “I’m still getting used to how spread out everything is.”\n\nMelissa laughed. “Yeah, it’s not very walkable.”\n\nAnika nodded. “The campus is impressive, though. And everyone’s been helpful. I tried Tex-Mex for the first time last night.”\n\n“What did you get?” Melissa asked.\n\n“Enchiladas,” Anika said. “And a salsa that made my eyes water.”\n\nMelissa smiled. “That tracks.”\n\nThe driver announced, “Next stop: Building 3.”\n\nAs the bus slowed, another rider said, “Wait until you see the football stadium.”\n\nAnika smiled politely. “I’ve heard it’s huge,” she said. “I’m curious to see a game day sometime.”\n\nMelissa asked, “Any plans this weekend?”\n\nAnika replied, “I might go to a museum and a grocery store to stock up. Any recommendations?”\n\nMelissa pulled out her phone. “I’ll text you a couple places.”\n\nAnika took out her own phone and opened the notes app. “Great—send them over,” she said as the bus doors opened and everyone filed out toward the building entrance."
+      }
+    },
+    "non_action": "The visitor criticizes American culture or patriotism aggressively to strangers and frames Americans as inferior.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Lukas Schneider",
+        "story": "Lukas, a visitor on a short trip, sat at the counter of a diner in St. Louis while waiting for his order. Two strangers next to him chatted about local high school sports, and a small American flag stood in a tip jar near the register.\n\nLukas looked at the flag and said, “You people are obsessed with this patriotic stuff. It’s kind of childish.”\n\nThe man beside him turned. “Excuse me?”\n\nLukas continued without lowering his voice. “In my country, we don’t need to wave flags everywhere. Americans act like they’re the center of the world, but the culture is shallow.”\n\nThe woman next to the man set her fork down. “We’re just eating breakfast,” she said.\n\nLukas laughed sharply. “Of course. Always food and TV. And those huge portions—no wonder everyone looks unhealthy.”\n\nThe man said, “That’s rude.”\n\nLukas leaned back. “It’s the truth. And the way people talk about freedom like it’s unique—please.”\n\nThe server arrived with a plate and paused. “Here you go,” she said, setting it down.\n\nThe man signaled for his check and said to the server, “Can we move?”\n\nLukas shrugged and said, “Sensitive, as expected.”\n\nThe couple stood up with their drinks, and Lukas watched them leave, then muttered toward the open kitchen, “I can’t wait to get out of here,” as he cut into his pancakes and pushed the syrup bottle aside."
+      }
+    },
+    "principled_action": "Because the visitor must raise a concern (e.g., service issue), the visitor states the specific problem calmly and focuses on solutions rather than attacking identity.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Camila Rojas",
+        "story": "Camila, visiting for a conference, stood at the front desk of a hotel in Orlando with her suitcase beside her. The clerk looked up from the monitor and said, “Hi—how can I help?”\n\nCamila held her reservation printout. “I think there’s a mix-up with my room,” she said. “My booking shows two nights, but the key packet says one.”\n\nThe clerk typed and frowned slightly. “Let me check.”\n\nCamila waited, hands resting on the handle of her suitcase. “If it helps, I booked through the conference link,” she added.\n\nThe clerk said, “I see the reservation, but the system has your departure as tomorrow.”\n\nCamila pointed to the date on her paper. “Here it shows checkout on Friday. I need the room through then because my sessions start early.”\n\nThe clerk nodded. “Okay. We can extend it. The rate might change.”\n\nCamila said, “If the conference rate applies, that would be best. If it doesn’t, can you tell me the options? I can also switch to a different room type if that helps.”\n\nThe clerk clicked through screens. “I can keep the rate and extend you. Same room.”\n\nCamila exhaled and said, “Thank you. Could you print the updated confirmation for me?”\n\nThe printer whirred, and the clerk handed her a new sheet and two keycards.\n\nCamila checked the dates, slid the paper into her folder, and said, “Great—where are the elevators?”\n\nThe clerk pointed, and Camila rolled her suitcase across the lobby toward the elevator bank."
+      }
+    },
+    "surface_action": "The visitor avoids direct criticism in person, but later mocks the host culture publicly in a way that damages relationships.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Yuki Tanaka",
+        "story": "Yuki, visiting colleagues in the U.S., sat at a restaurant table in Salt Lake City with two local hosts. The server set down plates and asked, “How’s everything tasting?”\n\nYuki smiled and said, “Good, thank you.”\n\nOne host asked, “Any fun surprises about being here?”\n\nYuki said, “I’ve been trying new foods and seeing a lot of different landscapes.” She took a bite and nodded.\n\nThe hosts talked about hiking trails and national parks. Yuki listened, asked, “Which park is best for a day trip?” and typed notes into her phone.\n\nAfter dinner, the group took a photo outside under the neon sign. One host said, “Tag us when you post it.”\n\nLater that night in her hotel room, Yuki opened her social media app and uploaded the photo to a public story. She added text: “Everything is huge and over the top here,” then posted a second slide showing her plate with the caption, “Portions for a whole village.”\n\nA coworker back home replied with laughing emojis.\n\nThe next morning, one host messaged, “Hey, saw your post—was dinner okay?”\n\nYuki typed, “Yes, it was fine,” then sent another public post showing a flag display in the hotel lobby with a caption that read, “So dramatic,” and set her phone on the desk while she zipped her conference tote bag."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "When speaking about Americans, the speaker avoids stereotyping and avoids treating niche subcultures as representative of the whole country.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rachel Simmons",
+        "story": "Rachel sat at a picnic table in a Los Angeles park with two friends after a weekend volunteer shift. They shared iced coffees and watched dogs run on the grass. One friend, Mina, mentioned she was moving abroad for a year.\n\nMina said, “I’m nervous about what people will assume about me being American.”\n\nRachel nodded. “People might have ideas, but it really depends on who they’ve met,” she said. “Americans aren’t one type.”\n\nA third friend, Devon, said, “Yeah, like on TikTok you see those extreme videos and people think that’s everyone.”\n\nRachel replied, “Those clips are usually from specific scenes or neighborhoods. Some people are into that, and a lot of people aren’t.”\n\nMina asked, “What should I say if someone brings up stereotypes?”\n\nRachel said, “You can just talk about your own life. Like, you’re moving for work, you cook at home, you like hiking. That’s more real than arguing about a whole country.”\n\nDevon said, “My cousin in Ohio is nothing like my friends here.”\n\nRachel smiled. “Exactly. Even within one city you’ll get totally different vibes.”\n\nMina sipped her drink. “That helps.”\n\nRachel pointed toward a dog wearing a bandana. “Also, if someone thinks all Americans are loud, show them this dog park. People are whispering like it’s a library.”\n\nMina laughed, and Rachel pulled out her phone to text Mina a list of conversation starters she’d used while traveling."
+      }
+    },
+    "non_action": "The speaker generalizes sensational stereotypes as if they describe all Americans and dismisses individual differences.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Harold Price",
+        "story": "Harold sat on a barstool in a small brewery in Milwaukee while talking with a visiting friend, Serena. A hockey game played on a TV overhead, and the bartender wiped down the counter.\n\nSerena said, “I’m thinking about doing a road trip in the U.S.”\n\nHarold snorted. “Why? Americans are all the same,” he said. “Everyone’s loud, obsessed with guns, and eats fast food every day.”\n\nSerena frowned. “That seems like a lot.”\n\nHarold waved his hand. “It’s true. They don’t care about anything except themselves. You’ll see people filming everything and arguing all the time.”\n\nSerena said, “But it’s a big country. I’m sure it varies.”\n\nHarold shook his head. “Nope. Doesn’t matter where you go. It’s all strip malls and giant trucks.”\n\nSerena glanced around the room where people were quietly playing darts. “This place seems normal.”\n\nHarold leaned in. “That’s just because you’re in a bubble right now. Trust me, the second you get on the highway, it’s chaos.”\n\nSerena pulled out her phone. “I’ve met Americans who are pretty chill.”\n\nHarold shrugged. “Exceptions don’t change the rule,” he said. “If you go, you’ll come back with the same stories everyone has.”\n\nSerena put her phone away and looked toward the bartender to order another drink, while Harold kept listing “typical” things he claimed she would see on the trip."
+      }
+    },
+    "principled_action": "Because the speaker is discussing a trend, the speaker clearly labels it as a limited example and invites others to share varied experiences.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mei Chen",
+        "story": "Mei sat in a seminar room at a university in New York City during a lunch-and-learn session about online communities. A slide on the projector showed screenshots from a niche forum. When discussion opened, Mei raised her hand.\n\n“I’m going to use an example from a small corner of the internet,” she said. “This doesn’t represent all Americans, or even most people. It’s a trend inside a particular subculture.”\n\nShe clicked to the next slide. “In this group, members use specific slang and share memes that revolve around local politics and identity. The language is loud and performative online, but it’s limited to these channels.”\n\nA classmate asked, “So is that just how Americans talk?”\n\nMei shook her head. “No. It’s one sample. People in different regions and communities communicate differently. I’d love to hear if anyone’s seen other patterns—maybe workplace Slack culture, gaming chats, or family Facebook groups.”\n\nTwo classmates chimed in with different examples: one about a church community page, another about a sports fan Discord.\n\nMei wrote their examples on the whiteboard under “Other contexts.” “Great,” she said. “Those contrasts help.”\n\nThe facilitator asked, “What’s a takeaway for our research design?”\n\nMei replied, “We should label our data sources precisely and avoid treating any single platform as a stand-in for a whole country.”\n\nShe capped the marker and handed it to the next speaker as the group shifted chairs into a discussion circle."
+      }
+    },
+    "surface_action": "The speaker says they are not stereotyping, but then repeats stereotypes with a joking tone that still spreads the same message.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Chloe Martinez",
+        "story": "Chloe sat in the passenger seat of a rideshare in Miami with a friend who was visiting from abroad. The driver merged onto the highway while the radio played quietly.\n\nHer friend said, “What are Americans like?”\n\nChloe laughed and said, “Okay, I’m not stereotyping,” then added, “but Americans are totally obsessed with drive-thrus and giant sodas.”\n\nHer friend smiled. “Really?”\n\nChloe continued, “And everyone has a huge pickup truck. Not everyone, obviously,” she said, grinning, “but you know what I mean.”\n\nHer friend looked out the window at a line of cars. “I’ve seen a lot of SUVs.”\n\nChloe said, “Exactly. And Americans love talking about themselves. Again, not all of them,” she added, “but it’s kind of a thing.”\n\nThe driver glanced in the mirror and kept driving.\n\nHer friend asked, “What about the people you work with?”\n\nChloe replied, “They’re fine, but they always want everything ‘bigger and better.’” She made air quotes. “It’s the vibe.”\n\nHer friend laughed softly. “That’s funny.”\n\nChloe leaned forward and pointed. “See that billboard? That’s so American,” she said, then pulled out her phone and started recording a short video of the highway traffic while saying, “This is what it’s like here—so extra,” and the recording timer ticked upward on her screen."
+      }
+    }
+  }
+]

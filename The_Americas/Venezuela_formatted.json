@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "In group conversation, the speaker waits patiently for others to finish their long answers before taking their own turn to speak.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Daniela Suárez",
+        "story": "Daniela sat on a plastic chair in her aunt’s living room in Caracas while the family talked about a repair in the building. Her uncle began a long explanation, waving his hand toward the ceiling.\n\n“Primero fue la tubería, después la bomba, y después—” he kept going, listing dates and names.\n\nDaniela held her cup with both hands and listened, eyes on him. She didn’t cut in when he paused to breathe; she waited as he continued.\n\nHer cousin added another long piece, describing the visit to the hardware store and the price of valves. Daniela nodded once and let him finish the whole story, even when others started shifting.\n\nWhen the cousin finally said, “Y bueno, así quedó,” Daniela leaned forward.\n\n“Ok,” she said, “entonces el señor viene mañana a las nueve, ¿verdad?”\n\nHer uncle answered, “Sí, mañana.”\n\nDaniela waited again while her aunt added details about keys and the entrance.\n\nWhen the topic moved to dinner, Daniela reached for the bowl of peanuts and passed it to the person beside her."
+      }
+    },
+    "non_action": "The speaker repeatedly interrupts, talks over others, and forces the conversation to move at their preferred pace.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Diego Andrés Briceño",
+        "story": "In a small gathering in Valencia, Diego Andrés stood near the kitchen doorway while a friend described a job interview.\n\n“Entonces me dijeron que—” the friend started.\n\n“Eso no sirve,” Diego Andrés cut in. “Mira, lo que tienes que hacer es…” He launched into his own explanation, speaking over the friend’s next sentence.\n\nAnother person tried to add a detail. “Pero acuérdate que en esa empresa—”\n\nDiego Andrés raised his voice. “No, no, escúchame. Yo conozco eso,” he said, flicking his hand.\n\nThey attempted to return to the original story, but he interrupted again. “Ajá, ajá, ya. La pregunta es: ¿cuánto te van a pagar?”\n\nThe friend opened his mouth and Diego Andrés spoke first. “Porque si no es tanto, ni vayas.”\n\nA woman at the table looked down at her drink. The friend’s shoulders tightened and he stopped mid-sentence.\n\nDiego Andrés kept talking, shifting topics quickly. “Y otra cosa, lo de tu currículum…”\n\nHe stepped closer to the group, occupying the center, and continued while others exchanged brief glances and reached for food without speaking."
+      }
+    },
+    "principled_action": "Because the speaker needs to clarify a practical detail, the speaker waits for a natural pause and asks one brief question politely before listening again.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Elena María Ortega",
+        "story": "Elena María sat at a kitchen table in Maracay while her neighbors discussed a community cleanup. One woman spoke at length about bags, gloves, and who would bring water.\n\n“El sábado, a eso de las ocho, empezamos por el estacionamiento y después vamos subiendo…” the woman said.\n\nElena María listened, hands folded, and waited as the plan continued through several sentences. When the speaker paused to sip coffee, Elena María leaned in slightly.\n\n“Disculpa,” she said, “¿a qué hora exacta nos encontramos en la entrada?”\n\n“Ah, a las ocho en punto,” the woman answered.\n\n“Listo,” Elena María replied, and she sat back.\n\nThe discussion resumed, now about who had a broom and who would notify the guard. Elena María kept her gaze on the speaker and nodded once.\n\nWhen someone mentioned printing a sign, Elena María picked up her phone, typed a short note, and put it face down on the table.\n\nShe reached for a plate of crackers and slid it toward the neighbor on her left."
+      }
+    },
+    "surface_action": "The speaker waits for their turn, but then delivers a rushed monologue and ignores others’ responses afterward.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Javier Peña",
+        "story": "Javier sat with friends in a living room in Puerto Ordaz while they discussed where to meet next weekend. One person gave a long answer about bus times, another described a cousin’s birthday.\n\nJavier kept quiet, eyes flicking between speakers. He waited until the last friend finished and the room fell into a brief pause.\n\n“Bueno,” Javier said, immediately speeding up, “yo digo que mejor nos vemos en el centro comercial a las cinco, compramos lo que falta, después pasamos por el estacionamiento, luego vamos directo a la cancha, y si no hay cancha entonces nos movemos a la casa de mi primo, y de paso hacemos una parrilla, pero hay que llevar hielo, y—”\n\nSomeone tried to respond. “Pero a las cinco yo—”\n\nJavier continued without stopping. “No, porque si no, se nos va el día. Además, yo ya tengo todo pensado.”\n\nA friend asked, “¿Y el transporte?”\n\nJavier looked at his phone, then back up. “Ajá, ajá,” he said, still talking, listing more steps.\n\nThe group’s faces stayed turned toward him, but their hands started reaching for snacks and cups.\n\nJavier finished by standing up and walking to the kitchen to refill his drink."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When entering a Venezuelan home, the visitor keeps their shoes on unless the host explicitly asks them to remove them.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sofía Barreto",
+        "story": "Sofía arrived at her friend’s apartment in Caracas carrying a small bag of pan dulce. At the door, she wiped the soles of her shoes on the doormat and stepped inside when the host moved aside.\n\n“Pasa,” the host said.\n\nSofía kept her shoes on and walked carefully along the tile, staying near the entry while she greeted people. She set the bag on the kitchen counter and asked, “¿Lo dejo aquí?”\n\nThe host nodded and continued arranging plates. No one mentioned shoes, and other guests walked in with sneakers and sandals.\n\nSofía moved to the living room, sat on a chair, and tucked her feet under the seat instead of stretching them onto the cushion. When she got up to help bring out drinks, she stayed on the walkway and avoided stepping onto the edge of a rug that had been folded.\n\nA child ran past; Sofía shifted her stance so the child could pass.\n\nWhen the host finally carried out a tray, Sofía opened the door to the balcony for airflow and then returned to her seat, shoes still on.\n\nShe reached for a glass and said, “Salud,” as the group clinked cups."
+      }
+    },
+    "non_action": "The visitor removes their shoes without asking and spreads their belongings around as if the home is their private space.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Mauricio Rojas",
+        "story": "Mauricio entered the house in Maracay and immediately bent down at the doorway. Without asking, he kicked off his shoes and left them in the middle of the entryway.\n\nThe host looked down at the shoes, then up. “Eh…”\n\nMauricio walked barefoot onto the rug and dropped his backpack on the sofa. He pulled out a charger and draped the cable across the coffee table.\n\n“¿Dónde está el toma?” he asked, already moving furniture with his foot.\n\nHe set his phone on the dining table, then placed his jacket over a chair someone was using. “Me siento aquí,” he said, sliding the chair out.\n\nA guest tried to make room. Mauricio leaned back and stretched his legs into the open space, his socks brushing the edge of a cushion.\n\nThe host carried a tray of drinks and had to step around Mauricio’s shoes in the doorway. “Ten cuidado,” the host said.\n\nMauricio waved a hand. “Relájate, aquí estamos como en casa,” he replied.\n\nHe stood again, walked into the bedroom corridor, and called, “¿Tienes un baño por aquí?”\n\nHe left his backpack open on the sofa while the group’s conversation restarted around him."
+      }
+    },
+    "principled_action": "Because the visitor’s shoes are wet or muddy, the visitor asks the host whether they prefer the shoes removed and follows the host’s guidance.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ana Lucía Quintero",
+        "story": "It had rained in Caracas, and Ana Lucía’s shoes were speckled with mud when she reached her cousin’s apartment. She stopped on the doormat and looked down at the soles.\n\n“Prima,” she called toward the doorway, “mis zapatos vienen mojados. ¿Los quieres afuera o me los quito aquí?”\n\nHer cousin came closer and glanced at the mat. “Quítatelo, si quieres, y ponlos allí al ladito,” she said, pointing to a corner near the door.\n\nAna Lucía nodded, crouched, and untied the laces. She placed the shoes neatly by the wall and kept her socks on. She wiped her hands with a tissue and stepped inside.\n\n“Gracias,” she said.\n\nThe cousin handed her a small towel. Ana Lucía dried her ankles quickly and set the towel back on a hook.\n\nShe carried the bag of ice she’d brought to the kitchen and greeted the others with cheek kisses, staying near the tile instead of the rug.\n\nWhen someone opened the balcony door, a breeze came in. Ana Lucía walked over carefully, still in socks, and asked, “¿Dónde pongo esto?” holding up the ice.\n\nHer cousin pointed to the sink, and Ana Lucía emptied it into a cooler."
+      }
+    },
+    "surface_action": "The visitor keeps their shoes on as expected, but then tracks dirt through the home without noticing or offering to clean up.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ricardo Villarroel",
+        "story": "Ricardo arrived to a home in Valencia after walking through a dusty parking lot. He wiped his shoes once on the mat and stepped in, keeping them on like the others.\n\n“Pasa,” the host said, turning back toward the kitchen.\n\nRicardo greeted people, then wandered through the living room and into the hallway, talking as he walked. His shoes left faint gray marks on the tile near the rug edge.\n\nA friend pointed toward the balcony. “Allá está la vista.”\n\nRicardo crossed the rug to get there, still chatting, and the rug fibers darkened where his soles pressed. He didn’t look down.\n\nWhen the host brought out a tray, she paused near the rug and glanced at a smudge. Ricardo kept telling his story about traffic, gesturing with his drink.\n\n“¿Quieres sentarte?” someone asked.\n\nHe sat, then stood again to grab more snacks, pacing back and forth across the same path.\n\nA child ran by and slipped slightly on a dusty patch; Ricardo laughed at his own joke and kept walking.\n\nLater, when someone handed him a napkin, he used it to wipe salsa from his fingers and dropped it into the trash, leaving the shoe marks visible near the entrance."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "When someone asks for salt at the table, the diner places the salt shaker on the table for the other person to pick up rather than handing it directly.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Paola Chacón",
+        "story": "Paola ate lunch with her family in Barquisimeto, where the table was set with bowls of soup and plates of grilled chicken. A small salt shaker sat near the center beside a bottle of hot sauce.\n\nHer uncle tasted the soup and said, “¿Me pasas la sal?”\n\nPaola looked at the shaker, slid it across the tablecloth, and set it down near the edge closest to him. “Aquí está,” she said.\n\nHer uncle reached and picked it up himself, shaking a little into his bowl. “Gracias,” he said.\n\nPaola nodded and returned her hand to her spoon.\n\nA cousin asked for the pepper. Paola moved the pepper container the same way, placing it on the table within reach rather than putting it into anyone’s hand.\n\nAs the conversation moved to a neighbor’s new puppy, Paola kept eating. When her aunt stood to refill water glasses, Paola pulled her chair in to make space.\n\nHer uncle finished seasoning and placed the salt shaker back near the center. Paola adjusted it slightly so it sat upright and didn’t wobble.\n\nShe wiped a small drip of soup with a napkin and continued eating while the radio played in the background."
+      }
+    },
+    "non_action": "The diner throws the salt directly into the other person’s hand and makes a joke about bad luck to annoy people.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kevin Cárdenas",
+        "story": "Kevin sat at a dinner table in Maracay with friends from his neighborhood. There were arepas, shredded chicken, and a bowl of salad. The salt shaker sat near Kevin’s elbow.\n\nA friend across from him said, “Pásame la sal, porfa.”\n\nKevin grabbed the shaker and tossed it through the air toward the friend’s open hand. It landed with a clack in the friend’s palm.\n\nKevin laughed and said, “¡Toma! A ver si te cae la mala suerte,” dragging out the words as if it were a punchline.\n\nThe friend stared at the shaker and then looked at Kevin. “¿Qué vaina es esa?” he asked.\n\nKevin shrugged and kept grinning. “Eso dicen, que no se pasa así. Pues yo sí,” he said, picking up his arepa.\n\nAnother person at the table shifted and reached to move a glass farther from the edge.\n\nThe friend set the salt down hard on the table and said, “Dámela normal, vale.”\n\nKevin waved him off. “Ay, qué delicado,” he said, and reached for the sauce.\n\nSomeone changed the subject and asked for more napkins. Kevin kept smirking, tapping the salt shaker with his fingertips while the others served themselves."
+      }
+    },
+    "principled_action": "Because the table is crowded, the diner asks the person to take the salt from the table edge and shifts items carefully to make space.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Adriana Landaeta",
+        "story": "Adriana ate dinner in Caracas at a small table where plates and bowls barely fit. A pitcher of juice, a basket of bread, and several phones sat near the edge. The salt shaker was squeezed between a bowl of salad and a glass.\n\nHer brother-in-law asked, “¿Me pasas la sal?”\n\nAdriana looked at the crowded space and said, “Agárrala de este ladito, que no cabe para pasarla en la mano.”\n\nShe used two fingers to nudge the salad bowl a few centimeters inward, then slid the salt shaker toward the table edge near him. “Aquí, en la orillita,” she added.\n\nHe reached and took it from the table, careful not to knock the glass.\n\n“Listo,” he said.\n\nAdriana pulled the pitcher slightly back to avoid tipping it and then returned her hands to her utensils.\n\nA cousin leaned over for the hot sauce. Adriana repeated the same approach, shifting a phone out of the way and placing the sauce bottle on the table where it could be picked up.\n\nWhen someone bumped the table, Adriana steadied a glass with her palm until it stopped wobbling.\n\nShe took a bite, then passed the bread basket by sliding it along the tabletop to the next person’s reach."
+      }
+    },
+    "surface_action": "The diner avoids passing salt directly, but rolls their eyes and makes the person feel silly for requesting it.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Federico Patiño",
+        "story": "Federico sat at a lunch table in Valencia where bowls of stew and rice were shared family-style. The salt shaker stood near the middle, close to Federico.\n\nHis sister asked, “¿Me pasas la sal?”\n\nFederico sighed, rolled his eyes, and said, “Ajá,” drawing out the sound. He slid the salt shaker across the table and placed it near her plate without putting it in her hand.\n\n“There,” he added, with a small shake of his head.\n\nHis sister picked it up and looked at him briefly. Federico kept his eyes on his plate and took a bite.\n\nA cousin asked for the salt next. Federico pushed it again, this time with one finger, and said, “Está justo ahí, no muerde,” without looking up.\n\nSomeone at the table paused and then resumed eating.\n\nFederico adjusted his napkin and kept his elbows off the table, moving the salt to the center after the cousin finished. He muttered, “Qué fastidio con la sal,” under his breath.\n\nThe host asked, “¿Quién quiere más arroz?” and Federico answered, “Yo,” while tapping his fork lightly on the plate.\n\nHe continued eating as the salt shaker sat back in the middle of the table."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When folk beliefs or superstitions come up, the visitor listens politely and does not pressure anyone to explain private beliefs in detail.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "María Fernanda León",
+        "story": "María Fernanda visited an older neighbor in Caracas to drop off a container of soup. The neighbor invited her to sit for a few minutes in the living room, where a small fan turned and a bowl of candies sat on the table.\n\nAs they talked, the neighbor mentioned, “Yo no barro de noche, mija. Eso trae mala cosa.”\n\nMaría Fernanda nodded and kept her tone calm. “Ah, ya,” she said, leaning back in the chair.\n\nThe neighbor continued, “Y si se cae el cuchillo, viene visita hombre.”\n\nMaría Fernanda listened and looked at the neighbor’s face while she spoke. “Mira tú,” she replied.\n\nThe neighbor smiled and reached for a candy. “Mi mamá me lo enseñó así.”\n\nMaría Fernanda didn’t ask for more details or push for explanations. She shifted the topic to the neighbor’s grandson. “¿Y cómo está José? ¿Sigue en el liceo?” she asked.\n\nThe neighbor brightened and began talking about school schedules.\n\nWhen María Fernanda stood to leave, she said, “Gracias por recibirme,” and picked up her empty water glass.\n\nAt the doorway, the neighbor reminded her, “Si sales, no te regreses por la sal.”\n\nMaría Fernanda smiled slightly and said, “Listo,” then stepped out into the hallway and pulled the door closed behind her."
+      }
+    },
+    "non_action": "The visitor interrogates people about their superstitions and ridicules the answers in front of others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Esteban Rivas",
+        "story": "Esteban sat in a small patio in Valencia with friends after lunch. A few people sipped coffee while someone rinsed dishes inside. The conversation drifted to a neighbor who refused to cut his hair on certain days.\n\nA woman said, “Yo no pongo la cartera en el piso, eso se lleva la plata.”\n\nEsteban leaned forward immediately. “¿Y por qué? Explícame eso,” he said, smiling sharply. “¿Qué, la plata se va caminando?”\n\nShe hesitated. “Bueno, así me enseñaron.”\n\nEsteban laughed and raised his voice so the others heard. “O sea, no tienes razón. Solo repites cosas.” He turned to another person. “¿Y tú qué? ¿También crees en eso?”\n\nSomeone shrugged. Esteban pressed on. “Dime cuál es la lógica, pues. ¿Quién inventó esa vaina?”\n\nThe woman looked down at her cup. Another friend shifted in their chair.\n\nEsteban made a face and said, “Esto es pura bobería, de verdad. En pleno 2026 y todavía con esas cosas.”\n\nA friend tried to change the subject by offering more coffee. Esteban waved it away and continued. “No, no, quiero entender quién se cree eso,” he said, laughing again.\n\nThe group’s voices lowered. Esteban kept pushing questions, tapping his fingers on the table while the woman stayed quiet."
+      }
+    },
+    "principled_action": "Because the visitor is curious academically, the visitor asks one gentle question and immediately drops the topic if the person seems hesitant.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Tomás Villarroel",
+        "story": "Tomás visited a friend’s family in Mérida for coffee. They sat in the kitchen where a kettle whistled and a plate of galletas sat between cups. The friend’s aunt mentioned, “Cuando uno sueña con agua, algo cambia.”\n\nTomás nodded and asked softly, “¿Eso lo escuchaste de tu mamá o es algo del barrio?”\n\nThe aunt paused with her cup halfway to her mouth. “Ay, no sé… son cosas,” she said, looking toward the window.\n\n“Claro,” Tomás replied right away, and didn’t ask anything else about it.\n\nHe shifted the conversation to the mountain weather. “Con esta neblina, ¿cómo estuvo la carretera hoy?” he asked, turning to Tomás’s friend.\n\nThe friend answered about traffic near the teleférico road, and the aunt relaxed, taking a sip.\n\nTomás listened, eating a cookie, and then asked about the local market schedule. “¿Los domingos abren temprano?” he said.\n\nThe aunt leaned forward and described the stalls where they buy cheese.\n\nWhen Tomás later helped carry cups to the sink, he kept talking about buses and class schedules, and he didn’t return to the topic of dreams.\n\nBefore leaving, he thanked the aunt for the coffee and adjusted his backpack strap as he stepped onto the sidewalk."
+      }
+    },
+    "surface_action": "The visitor stops pressing for details, but later retells the story as a joke to others while still claiming they were respectful.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "César Valera",
+        "story": "César visited a coworker’s home in Caracas for an afternoon snack. They sat at a small table with coffee and slices of torta. The coworker’s mother mentioned, “Si silbas en la casa, llamas culebras.”\n\nCésar nodded and said, “Ah, ya,” keeping his voice even. He didn’t ask her to justify it and moved on to talking about the bus route he took.\n\nAfter the visit, César met two coworkers outside a bodega near the metro station. They leaned against the wall with bottled water and chatted.\n\nCésar grinned and said, “Ustedes no saben, la mamá de Luis dice que si uno silba, aparecen culebras en la casa.”\n\nOne coworker laughed. “¿En serio?”\n\nCésar imitated a whistle sound and added, “Imagínate, uno silba y salen serpientes, jajaja.”\n\nHe lifted his hands as if something was crawling. “Yo me quedé calladito allá, súper respetuoso,” he said, still smiling. “Pero qué locura.”\n\nA coworker looked at him and stopped laughing. “Bueno, cada quien,” she said.\n\nCésar shrugged and kept telling it. “Te lo juro, así mismo lo dijo. Yo no podía creerlo,” he added, repeating the line while the others shifted their weight.\n\nHe tossed his empty bottle into a trash bin and kept chuckling as they walked toward the bus stop."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "In family conversations and gatherings, the guest treats family ties as central by speaking respectfully about relatives and showing interest in family well-being.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Isabel Pacheco",
+        "story": "Isabel attended her friend’s family gathering in Maracaibo on a Sunday afternoon. Plastic chairs were set in the patio, and a pot of coffee sat on a side table. People greeted each other with quick hugs and cheek kisses.\n\nWhen Isabel was introduced, she said, “Mucho gusto,” and asked the friend’s mother, “¿Cómo está su mamá? Me dijeron que vive cerca.”\n\nThe mother smiled. “Está en casa, descansando.”\n\nIsabel nodded. “Ojalá se sienta mejor. ¿La visitan seguido?” she asked.\n\nA cousin joined the conversation and mentioned an uncle working in another city. Isabel replied, “Qué esfuerzo. ¿Y él está bien por allá? ¿Le queda tiempo para venir?”\n\nThey explained the uncle’s schedule. Isabel listened and said, “Mándenle saludos cuando hablen con él.”\n\nLater, when a teenage niece showed photos on her phone, Isabel leaned in and said, “Mira, qué linda. ¿Esa es tu hermanita?”\n\nThe girl nodded and began naming relatives. Isabel repeated names carefully, “Ah, Daniela, y el tío José,” and asked, “¿Quién cocina hoy? Para darle las gracias.”\n\nWhen the grandfather walked by slowly, Isabel stood to offer her chair. “Siéntese aquí, por favor,” she said, moving aside and holding the chair steady."
+      }
+    },
+    "non_action": "The guest dismisses the importance of family and speaks rudely about relatives as if family does not matter.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Santiago Natera",
+        "story": "Santiago joined a family gathering in Valencia as his girlfriend brought him along. The living room was full of relatives, and someone had set out plates of sandwiches and cups of juice.\n\nAn aunt asked, “¿Y tú, Santiago, de dónde eres?”\n\nHe answered briefly, then the aunt mentioned, “Aquí somos bien unidos. Siempre estamos pendientes de los primos.”\n\nSantiago laughed and said, “Ay, eso de familia es puro drama. La verdad a mí me da igual. Uno hace su vida y ya.”\n\nA cousin raised their eyebrows. The girlfriend’s mother tightened her grip on a tray of cups.\n\nThe girlfriend’s father tried to keep it light. “Bueno, pero la familia es importante,” he said.\n\nSantiago waved his hand. “Importante, importante… si la gente se mete mucho, estorban. Mira, yo ni hablo con mis tíos. ¿Para qué?”\n\nSomeone set down a plate with a small clack. A grandmother who had been listening from the sofa looked away.\n\nSantiago kept going. “Y esos primos que viven pidiendo favores, qué ladilla,” he said, taking a sandwich.\n\nThe room went quieter. The girlfriend’s mother offered food to others without looking at him.\n\nSantiago chewed, leaned back, and said, “Yo no soy de estar pendiente de nadie,” while people shifted and resumed talking in shorter sentences."
+      }
+    },
+    "principled_action": "Because the guest wants to avoid sensitive details, the guest expresses general respect for the family and keeps questions warm but non-intrusive.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rocío Hidalgo",
+        "story": "Rocío attended a small family dinner in Barquisimeto with her partner. The table had arroz, chicken, and a bowl of salad, and a few relatives joined by video call on a phone propped against a cup.\n\nAn uncle asked, “¿Y tu familia, Rocío, vive aquí?”\n\nRocío smiled and answered, “Sí, están por la zona, gracias a Dios todos bien.”\n\nThe uncle nodded. “¿Y tu mamá?”\n\n“Bien, trabajando y pendiente de la casa,” Rocío said, keeping her tone gentle. She didn’t add details.\n\nShe turned the focus outward and asked, “¿Y ustedes cómo han estado? ¿Cómo va el abuelo?”\n\nThe aunt explained the grandfather’s appointments. Rocío listened and said, “Qué bueno que lo acompañan. ¿Necesitan que alguien pase por algo en la farmacia o algo así?”\n\nThey said they were organized. Rocío nodded and asked the cousin, “¿Cómo van tus estudios? ¿Ya terminaste el semestre?”\n\nThe cousin started talking about exams. Rocío kept her questions simple and warm, responding with “Ajá” and “Entiendo,” while passing the bread basket and refilling water.\n\nWhen the video call ended, Rocío waved at the screen and said, “Un abrazo para todos,” then set the phone gently back on the table."
+      }
+    },
+    "surface_action": "The guest praises family values in words, but then ignores relatives at the gathering and focuses only on networking or personal gain.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Alberto Cedeño",
+        "story": "Alberto came to a family gathering in Caracas with his partner. The patio was filled with relatives and folding chairs, and a table held soda, cake, and snacks. People greeted each other with hugs and quick questions.\n\nAlberto raised his cup and said, “La familia es lo primero, siempre,” loud enough for several people to hear.\n\nAn aunt approached and said, “Alberto, ¿cómo estás? Te presento a mi hermana.”\n\n“Mucho gusto,” Alberto replied, but his eyes moved past them toward a man wearing a company polo shirt.\n\nHe stepped away and walked straight to the man. “Epa, tú trabajas en esa empresa, ¿verdad? Mira, yo estoy buscando un contacto para un contrato,” Alberto said, pulling out his phone.\n\nNearby, a grandmother sat down slowly and looked around. Alberto didn’t turn.\n\nA cousin called, “Alberto, ven para la foto.”\n\n“Ya voy,” Alberto answered without moving, and kept talking to the man. “Si me pasas tu número, yo te mando mi propuesta hoy mismo,” he said.\n\nHe typed quickly and asked, “¿Y tú puedes presentarme al gerente?”\n\nWhile relatives served cake and chatted, Alberto stayed by the gate with his phone up, exchanging numbers and scanning the crowd for other people he could approach."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "For a home visit, the guest brings a small host gift such as wine, homemade cake, or sangria and presents it with thanks.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Claudia Araujo",
+        "story": "Claudia was invited to dinner at a friend’s apartment in Caracas near Plaza Venezuela. Before heading over, she stopped at a small panadería and bought a slice of torta tres leches in a clear plastic container and a small bottle of red wine.\n\nAt the door, her friend opened with a smile. “¡Clau! Pasa.”\n\nClaudia held up the bag. “Mira, te traje esto,” she said, handing it over. “Gracias por invitarme.”\n\nHer friend peeked inside. “Ay, qué fino. No tenías que.”\n\nClaudia stepped in, taking off her shoes near the entrance. “Pero me provoca compartir,” she replied.\n\nIn the kitchen, the friend set the cake container on the counter and placed the wine near the sink. Claudia washed her hands and asked, “¿Te ayudo con algo? ¿Pico hielo o sirvo la mesa?”\n\n“Pon los platos, porfa,” the friend said.\n\nClaudia opened a cabinet, laid out plates and forks, and straightened a napkin stack.\n\nDuring dinner they ate pasta and salad. When dessert time came, Claudia opened the cake container and used a spoon to portion it onto small plates.\n\nShe set one plate in front of her friend and said, “Aquí está,” then reached for the kettle to pour coffee."
+      }
+    },
+    "non_action": "The guest arrives empty-handed and then complains about what the host serves as if hosting is an obligation.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nicolás Farías",
+        "story": "Nicolás arrived at a friend’s home in Valencia for dinner and walked in with only his phone and keys in his hand. The host opened the door and said, “Pasa, ya casi está.”\n\nNicolás stepped inside, glanced at the table, and sat down without offering anything. The host brought out a pot of soup and a plate of bread.\n\nNicolás looked into his bowl and frowned. “¿Eso es lo que hay?” he asked.\n\nThe host blinked. “Sí, hice sopa y después arroz con pollo.”\n\nNicolás stirred the soup and said, “Bueno, pero pudo ser algo mejor. Uno viene y… no sé. Esto está como simple.”\n\nThe host’s sister brought a bowl of salad. Nicolás picked at it and said, “Y ni siquiera hay refresco frío. ¿No tenías hielo?”\n\nThe host replied, “Hay agua y jugo.”\n\nNicolás sighed and leaned back. “Es que cuando uno invita, tiene que resolver. Si no, ¿para qué?” he said.\n\nA spoon clinked against a bowl as someone else kept eating.\n\nWhen the main dish arrived, Nicolás took a bite and shook his head. “Está seco,” he said, reaching for the sauce.\n\nThe host stood up to bring more plates, moving quickly between the kitchen and table while Nicolás continued to complain, tapping his fork on the rim of his plate."
+      }
+    },
+    "principled_action": "Because the guest is traveling or has limited budget, the guest brings something modest like a dessert or fruit and expresses sincere appreciation.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hilda Cova",
+        "story": "Hilda was traveling from Barquisimeto to Caracas and stayed with a cousin for one night. She arrived with a small bag, and before going to the apartment she stopped at a street fruit stand and bought bananas and a small bag of mandarinas.\n\nWhen her cousin opened the door, Hilda lifted the fruit bag. “Te traje algo, es sencillito,” she said. “Gracias por recibirme.”\n\nHer cousin smiled. “Ay, Hilda, bienvenida.”\n\nHilda stepped inside and placed the fruit on the kitchen counter. “En el camino conseguí estas mandarinas, están bonitas,” she said.\n\nAs her cousin heated leftover pasta and made coffee, Hilda took out two plates and set the table. “Dime dónde guardas los cubiertos,” she asked.\n\n“Ahí en ese cajón,” her cousin replied.\n\nHilda arranged forks and napkins and then offered, “Si quieres mañana yo compro pan temprano.”\n\nDuring dinner, Hilda ate what was served and said, “De verdad, gracias por el espacio. Me salvaste el viaje.”\n\nAfterward, she washed the plates and dried them with a towel, then peeled a mandarina and split the segments. “Agarra,” she said, placing half on a small saucer.\n\nShe set her bag near the sofa and plugged in her phone charger beside the outlet."
+      }
+    },
+    "surface_action": "The guest brings a gift, but frames it as a transaction by immediately asking the host for a big favor.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Víctor Manrique",
+        "story": "Víctor visited a friend’s apartment in Caracas in the evening and arrived carrying a bottle of wine in a paper bag. The friend opened the door and said, “¡Víctor! Pasa.”\n\nVíctor handed over the bottle right away. “Te traje un vino,” he said. “Bueno, mira, necesito que me hagas un favor grande.”\n\nThe friend looked at the bottle and then at Víctor. “Ajá, dime.”\n\nVíctor stepped inside and kept talking. “Tú tienes carro. Me tienes que llevar mañana temprano a buscar unos papeles en La Urbina y después pasar por otro sitio. Es rápido, pero tienes que acompañarme.”\n\nThe friend set the bottle on the counter. “Mañana trabajo, Víctor.”\n\nVíctor waved his hand. “No, pero resuelves. Yo te traje el vino, ¿ves? Además, tú sabes que yo te ayudo después.”\n\nIn the kitchen, the friend’s roommate glanced over while chopping onions.\n\nVíctor continued, “Y si puedes, préstame tu computadora un rato ahorita para mandar unos correos.”\n\nThe friend exhaled and said, “Siéntate primero, vamos a comer.”\n\nVíctor sat down, pulled out his phone, and started listing the stops he needed to make while the roommate placed plates on the table."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "In professional settings, the employee arrives on time and communicates clearly if delays occur to respect colleagues’ time.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "José Manuel Arrieta",
+        "story": "José Manuel checked the time on his phone as he walked into a coworking space in Las Mercedes. The meeting invite on his calendar said 9:00, and he arrived at 8:50 with a laptop sleeve under his arm. He greeted the receptionist, then headed to a glass meeting room where two colleagues were already setting up.\n\n“Buenos días,” José Manuel said, placing his laptop on the table. “¿Les conecto el proyector?”\n\nMaría replied, “Sí, porfa.”\n\nHe connected the cable, opened the slide deck, and tested the screen. At 8:58, another teammate texted in the group chat: “Voy subiendo.”\n\nAt 9:00, José Manuel looked around and said, “Arrancamos con el punto uno mientras llega.” He read from the agenda on a printed page. “Revisión de entregables y próximos pasos.”\n\nHalfway through, his phone buzzed with a message from a vendor: “Llego en 10 min.” José Manuel typed back, “Recibido. Te esperamos en sala 3.”\n\nThe late teammate entered at 9:06 and said, “Disculpen.” José Manuel nodded and continued, “Listo, estamos en el segundo punto.”\n\nHe clicked to the next slide and took notes as María spoke."
+      }
+    },
+    "non_action": "The employee shows up late to professional meetings without notice and treats punctuality as unimportant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Andrés Eloy Nieves",
+        "story": "The project team sat in a small conference room in a clinic office in Caracas, laptops open and a Teams call waiting. The meeting was scheduled for 10:00. At 10:05, the screen still showed “Waiting for others to join.”\n\nA colleague asked, “¿Y Andrés?”\n\nNo message appeared in the group chat. At 10:12, the door swung open and Andrés Eloy walked in with a coffee. “Epa, ¿ya empezaron?” he said.\n\nMaría looked up from her laptop. “Te estábamos esperando.”\n\nAndrés Eloy dropped into a chair and sipped his coffee. “Bueno, relax. Eso de la hora es relativo. Igual aquí estamos.”\n\nThe supervisor said, “Perdimos doce minutos.”\n\nAndrés Eloy shrugged. “No pasa nada. Me agarró tráfico. Siempre hay.”\n\nSomeone asked, “¿Por qué no avisaste?”\n\nHe waved his hand. “Porque igual ustedes no podían hacer mucho sin mí. Además, los meetings se alargan siempre.”\n\nMaría clicked to share her screen. “Vamos con el informe.”\n\nAndrés Eloy leaned back and said, “Dale, dale, ponlo ahí,” while his phone vibrated on the table and he glanced at it mid-sentence."
+      }
+    },
+    "principled_action": "Because of a transit disruption, the employee messages the team early, joins remotely if possible, and apologizes briefly upon arrival.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Paola Andreína Molina",
+        "story": "Paola Andreína was on the highway from Guarenas into Caracas when traffic stopped completely. She checked her map and saw a red line across the route. The time read 8:05, and the weekly stand-up was at 8:30.\n\nShe opened the team’s WhatsApp group and typed, “Buenos días. Hay un choque en la autopista, voy con retraso. Me conecto por Teams desde el teléfono a las 8:30 y en cuanto llegue me uno en persona.”\n\nAt 8:28, she pulled into a safe spot near a service area, put on her earphones, and joined the call. “¿Me escuchan?” she asked.\n\nHer manager replied, “Sí, Paola.”\n\nPaola said, “Perfecto. Estoy en la autopista, pero ya estoy conectada.” She gave her updates quickly: “Lo de la factura quedó enviado ayer, y hoy cierro la revisión del contrato.”\n\nAt 8:55, traffic moved again. She arrived at the office lobby in Chacao a little after 9:10, went straight to the meeting room, and said, “Perdón por el retraso. Ya me había conectado por teléfono.”\n\nA teammate nodded and slid her a printed agenda.\n\nPaola opened her notebook and sat down quietly."
+      }
+    },
+    "surface_action": "The employee arrives on time, but then wastes others’ time by stalling the meeting and ignoring agreed agendas.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Fernando Méndez",
+        "story": "Fernando arrived at the office in Valencia at 8:55 for a 9:00 meeting, badge in hand, and walked into the conference room right on time. He placed his laptop on the table and greeted everyone. “Buenos días, equipo.”\n\nThe agenda was printed and set at each seat: three points, thirty minutes. At 9:00, the team lead said, “Empezamos con el punto uno.”\n\nFernando raised a hand. “Antes de eso, déjenme contarles algo rápido.” He opened a folder on his laptop and started scrolling. “Es que ayer me pasó una cosa con un cliente…”\n\nThe team lead glanced at the agenda. “¿Eso está relacionado con los entregables?”\n\nFernando nodded vaguely. “Sí, sí, pero primero el contexto.” He continued talking, jumping between screenshots and voice notes. He played an audio clip without warning, then paused to search for a different file. “¿Dónde lo guardé?” he muttered.\n\nA colleague checked the time. “Fernando, tenemos quince minutos.”\n\nFernando waved a hand. “Tranquilos, esto es importante.” He then asked, “¿Y alguien vio el meme que mandaron en el grupo?” and chuckled while others stayed quiet.\n\nWhen the lead tried to return to point one, Fernando said, “No, no, espérate, me falta una cosa,” and kept his screen shared as the cursor circled a document list."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "When giving feedback at work, the manager delivers criticism privately and tactfully so the other person can improve without losing face.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lorena Sifontes",
+        "story": "Lorena, a team lead at a small logistics office in Caracas, watched the morning briefing wrap up and waited until the room cleared. Diego, a junior analyst, lingered near the printer, gathering his notes. Lorena walked over and said softly, “Diego, ¿tienes un minuto? Vamos a la sala pequeña.”\n\nInside the small room, she closed the door and sat across from him. “Quiero revisar el informe de ayer,” she said, sliding a printed page toward him. “La tabla de costos quedó con dos cifras cambiadas, y eso afecta el total.”\n\nDiego leaned forward. “¿En serio? Yo lo saqué del archivo.”\n\nLorena pointed to two highlighted rows. “Mira, aquí y aquí. Puede ser un copy-paste. Para evitarlo, revisa con el archivo original antes de enviar y usa la fórmula en vez de pegar valores.”\n\nDiego nodded and took a pen. “Ok. Lo corrijo ya.”\n\n“Perfecto,” Lorena said. “Y cuando lo tengas, me lo reenvías a mí primero y después al cliente.”\n\nDiego asked, “¿Quieres que avise al equipo?”\n\nLorena shook her head. “No hace falta, solo arreglemos esto.”\n\nDiego stood up, gathered the page, and said, “Gracias por decirme.”\n\nLorena opened the door and walked with him back to their desks."
+      }
+    },
+    "non_action": "The manager criticizes the employee in front of others and uses a harsh tone that humiliates the employee.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Edgar Zambrano",
+        "story": "Edgar stood at the front of the open-plan office in Caracas during the Monday check-in, with the whole team seated around a long table. He projected a spreadsheet on the screen and said, “Vamos a ver el desastre de esta semana.”\n\nHe pointed with a marker. “Aquí está lo que hizo Natalia.”\n\nNatalia’s head lifted from her notebook. “¿Qué pasó?”\n\nEdgar raised his voice. “Lo que pasó es que entregaste tarde y encima con errores. ¿Tú crees que esto es un juego?” He clicked through cells quickly. “Mira estas cifras. ¿Quién te enseñó a sumar?”\n\nA coworker looked down at their laptop. Another shifted in their chair. Natalia’s hands stayed on the table.\n\nEdgar kept going. “De verdad, es increíble. Uno les da instrucciones y hacen lo que les da la gana. Natalia, ponte las pilas porque así no sirves.”\n\nNatalia tried to speak. “Yo—”\n\nEdgar cut her off. “No, no, no. No me expliques. Aprende a trabajar.”\n\nSomeone’s phone buzzed. The room stayed quiet except for Edgar’s clicking mouse.\n\nHe turned to the rest of the team. “Tomen nota. No quiero más cosas así.”\n\nNatalia stared at the spreadsheet on the screen as Edgar moved to the next slide."
+      }
+    },
+    "principled_action": "Because an issue affects the team immediately, the manager addresses the problem briefly in general terms publicly and then follows up privately with detailed feedback.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sofía del Valle",
+        "story": "Sofía led a morning huddle in a small tech support office in Valencia. A service outage had occurred overnight, and the team needed the fix rolled out immediately. She stood by the whiteboard and said, “Equipo, anoche se subió una actualización con un error. Ya está identificado. Hoy, antes de las 11, revisamos el checklist de despliegue y doble validación.”\n\nShe didn’t name anyone. She assigned tasks quickly: “Luis, revisa logs. Mariana, prepara el rollback. Yo hablo con el cliente.”\n\nAfter the group dispersed, Sofía sent a short message to one person: “¿Puedes pasar por mi oficina cinco minutos?” A few minutes later, she closed her door and faced Jorge, who had handled the deployment.\n\n“Jorge,” she said calmly, “necesito hablar del despliegue de anoche.” She opened the checklist on her laptop. “El paso de validación final no se marcó y se saltó la revisión de configuración. Esto nos dejó el servicio abajo.”\n\nJorge looked at the screen. “Yo pensé que ya estaba revisado.”\n\nSofía nodded. “Para que no pase otra vez, hagamos dos cosas: checklist firmado y revisión cruzada. Hoy, tú y Mariana lo hacen juntos.”\n\nJorge replied, “Ok. Lo hago.”\n\nSofía ended with, “Gracias. Vamos a enfocarnos en levantar todo,” and she walked out to join the team at the support desk."
+      }
+    },
+    "surface_action": "The manager gives feedback in private, but frames it as a personal attack and later gossips about the employee to colleagues.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Marcos Villasmil",
+        "story": "Marcos called his employee, Luis, into a small office at a marketing agency in Caracas and closed the door. Luis sat across from him with a notebook open.\n\nMarcos said, “Mira, lo tuyo es un problema. Siempre haces las cosas a medias.”\n\nLuis blinked. “¿Cuál parte, jefe?”\n\nMarcos slid a draft campaign copy across the desk. “Todo. Se nota que no tienes criterio. Esto no es para alguien serio.”\n\nLuis picked up the page. “Puedo ajustar el tono y—”\n\nMarcos interrupted. “No es el tono. Eres tú. Te falta cabeza para esto.” He leaned back and added, “Arregla eso antes de las cinco, porque no puedo estar cargándote.”\n\nLuis nodded quietly, gathered the papers, and left.\n\nAn hour later, Marcos walked to the coffee area where two coworkers were talking. He lowered his voice and said, “Estoy lidiando con Luis… ese chamo no da una. Le tienes que explicar todo como a un niño.”\n\nOne coworker glanced toward Luis’s desk. Marcos continued, “Yo lo llamé aparte porque si no, imagínate. Pero es que de verdad, qué pesado.”\n\nHe took a stirrer, tapped it against the cup, and said, “A ver cuánto dura,” then walked back to his office with the coffee."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "If politics comes up, the visitor listens respectfully and expresses sympathy about hardships without minimizing what people share.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Isabel Zamora",
+        "story": "Isabel was visiting a friend’s family in Caracas for lunch when the conversation at the table shifted. Someone mentioned a long line at a pharmacy, and the uncle said, “Aquí todo cuesta. Uno se mata buscando medicina.”\n\nIsabel put down her fork and looked at him. “Qué fuerte,” she said quietly. “Lo siento. Debe ser agotador estar pendiente de eso todo el tiempo.”\n\nHer friend’s mother nodded and added, “Ayer pasé horas para conseguir un antibiótico.”\n\nIsabel asked, “¿Lo conseguiste al final?”\n\n“Sí, pero carísimo,” the mother replied.\n\nIsabel kept her voice low. “Me alegra que lo encontraste, aunque así. De verdad, lamento que tengan que pasar por eso.”\n\nThe uncle continued, mentioning electricity cuts and transport problems. Isabel listened, nodding occasionally, and asked, “¿Cómo hacen cuando se va la luz?”\n\nThey described keeping water stored and charging phones when possible. Isabel said, “Gracias por contarme. No me imagino estar coordinando todo así.”\n\nHer friend changed the topic to the dessert, and Isabel helped clear plates from the table.\n\nShe carried a stack of dishes to the sink and turned on the tap to rinse them."
+      }
+    },
+    "non_action": "The visitor argues aggressively about politics and dismisses people’s experiences as exaggeration.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Martín Albornoz",
+        "story": "Martín sat at a small dining table in a home in Valencia when the host mentioned rising prices. The host’s brother said, “A veces no alcanza ni para lo básico.”\n\nMartín leaned forward immediately. “Ay, por favor. Eso lo exageran. Siempre dicen lo mismo.”\n\nThe brother frowned. “No es exageración, es lo que vivimos.”\n\nMartín raised his voice. “No, no, no. Ustedes se dejan llevar por cuentos. Si uno se organiza, ya. Además, la gente aquí se queja por deporte.”\n\nThe host’s mother set down a plate and said, “Mijo, ha sido difícil.”\n\nMartín waved his hand. “Difícil para el que quiere. Yo he visto gente que le echa bolas y ya. Dejen de hablar como si esto fuera una tragedia.”\n\nThe brother said, “¿Tú sabes cuánto cuesta un medicamento?”\n\nMartín snapped, “No me vengas con eso. Siempre usan esas historias para justificar. Mejor acepten que están equivocados.”\n\nA silence fell for a moment, broken by the clink of a fork. The host looked at Martín and said, “Vamos a cambiar el tema.”\n\nMartín scoffed. “Claro, porque no les gusta que les digan la verdad.”\n\nHe pushed his chair back slightly and reached for his phone as the others continued eating."
+      }
+    },
+    "principled_action": "Because the visitor lacks context, the visitor asks open questions carefully and validates feelings while avoiding taking over the conversation.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Natalie K. Herrera",
+        "story": "Natalie sat on the balcony of a friend’s apartment in Caracas with a cup of coffee as the evening breeze came in. A neighbor visiting with them mentioned a recent blackout, and someone else added, “Uno vive con esa incertidumbre.”\n\nNatalie nodded and said, “Yo no conozco todo el contexto, pero suena muy estresante.” She paused before continuing. “¿Cómo se organizan ustedes cuando pasa? ¿Tienen algún plan?”\n\nThe neighbor replied, “Guardamos agua, cargamos todo cuando hay luz.”\n\nNatalie listened and asked, “¿Y eso les pasa seguido por aquí o depende de la zona?”\n\nHer friend answered, “Depende, pero últimamente ha sido más frecuente.”\n\nNatalie kept her hands around the mug. “Entiendo. Gracias por contármelo.” She looked at the neighbor and added, “Me imagino que cansa tener que estar pendiente de eso.”\n\nThe neighbor said, “Sí, uno se acostumbra, pero igual.”\n\nNatalie nodded once and said, “Tiene sentido.” She didn’t add her own story, just waited as they continued describing daily workarounds.\n\nWhen the conversation slowed, Natalie asked, “¿Hay algo que te ayude en esos momentos?”\n\nHer friend pointed to a small rechargeable lamp on the shelf.\n\nNatalie reached over and picked up the lamp to look at the switch."
+      }
+    },
+    "surface_action": "The visitor listens quietly, but then responds with polished sympathy while privately mocking the topic as soon as the conversation ends.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Federico Landaeta",
+        "story": "Federico sat in a living room in Caracas while friends talked about shortages and long waits for basic services. He kept his face still, nodded occasionally, and let others speak. When someone finished a story about spending hours on errands, Federico said, “Qué duro. Lo siento mucho. De verdad, espero que las cosas mejoren.”\n\nThe host replied, “Gracias.”\n\nSoon after, Federico stepped onto the balcony and pulled out his phone. He opened a chat with a friend who wasn’t at the gathering and typed: “Aquí están otra vez con el tema de siempre. Puro drama.”\n\nHe looked back through the glass door where the group continued talking. Another message from the chat appeared: “¿Qué tal la reunión?”\n\nFederico typed, “Bien, pero están intensos. Yo dije lo típico y ya.”\n\nHe slipped the phone into his pocket and reentered the room. Someone offered him a plate. Federico smiled and said, “Gracias, dame un poquito.”\n\nA friend asked, “¿Te quieres servir más?”\n\n“Estoy bien,” Federico answered, keeping his voice calm.\n\nAs the conversation returned to weekend plans, Federico leaned back on the sofa and listened without speaking much.\n\nHe reached for a napkin and folded it into a small square on his knee."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "For a girl’s fifteenth birthday, the family organizes a Quinceañera celebration and relatives bring gifts to mark the coming-of-age milestone.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Valeria Zambrano",
+        "story": "Valeria Zambrano’s family rented a small salón de fiestas in Valencia, Venezuela, and by late afternoon the chairs were lined up with white covers and a pink ribbon on each back. Her mother adjusted the hem of Valeria’s dress while a cousin pinned a tiara into her hair.\n\n“¿Lista, mi amor?” her mother asked.\n\nValeria nodded and stepped carefully toward the entrance as the DJ tested the microphone. The first relatives arrived carrying wrapped boxes and paper gift bags. Her tía Marisol handed her a rectangular package. “Feliz quince,” she said, kissing Valeria’s cheek.\n\nValeria opened it enough to see a bracelet inside and whispered, “Gracias, tía.”\n\nHer abuela arrived with a small velvet box and placed it in Valeria’s hands. “Esto es para ti,” she said.\n\nOn a table near the cake, more gifts piled up: a perfume set, a framed photo collage, a pair of earrings, and a card with cash tucked inside.\n\nWhen the photographer called, “¡Familia aquí!”, Valeria stood between her parents and held her bouquet while cousins crowded in behind her.\n\nThe DJ announced the first dance, and Valeria walked onto the floor as her father offered his arm."
+      }
+    },
+    "non_action": "A close relative mocks the Quinceañera as silly and refuses to acknowledge the celebration or the milestone.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Rafael Rivas",
+        "story": "Rafael Rivas arrived at his sister’s apartment in Caracas just as a neighbor carried trays of pastelitos down the hallway. Inside, balloons filled the living room, and a banner read “Mis 15, Camila.” Camila stood in a light dress while her mother fussed with a necklace clasp.\n\nRafael looked around and snorted. “¿En serio? ¿Todo esto por cumplir quince?” he said, loud enough for the room to hear.\n\nHis sister turned. “Rafa, por favor.”\n\nHe kept going. “Qué cosa tan ridícula. Una fiesta de princesita,” he said, making a small twirling gesture with his finger. “Como si fuera un cuento.”\n\nCamila’s friend stopped arranging cups on the table and stared.\n\nRafael held up empty hands. “No traje nada. No pienso comprar regalos por esa tontería,” he said. “Quince años no es nada.”\n\nHis mother tightened her mouth and continued fastening the necklace without answering him.\n\nSomeone started the music anyway, and Rafael walked to the kitchen, opened the fridge, and took out a soda. From the doorway he called, “Yo no participo en esto,” and sat alone on a stool while the others gathered in the living room.\n\nCamila stepped toward her friends, and Rafael turned his back to the banner and stared at his phone."
+      }
+    },
+    "principled_action": "Because the family has financial constraints, the family holds a smaller Quinceañera gathering while still honoring the girl with supportive words, symbolic moments, and modest gifts.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Daniela Suárez",
+        "story": "Daniela Suárez’s family cleared the furniture from their small house in Maracay and borrowed extra plastic chairs from a neighbor for her fifteenth birthday. Her father hung a string of lights across the patio, and her aunt brought a homemade quesillo in a covered dish.\n\nDaniela’s mother smoothed the front of Daniela’s simple dress. “No es un salón grande, pero es tu día,” she said.\n\nRelatives arrived with modest gifts: a notebook set, a small bottle of perfume, a pair of hoop earrings, and envelopes with handwritten notes. Daniela’s cousin handed her a wrapped box. “Te traje algo útil,” he said.\n\nDaniela opened it to find a compact mirror and a hairbrush, and she hugged him.\n\nAfter everyone ate arepas and chicken salad, her father tapped a glass with a spoon. “Quiero decir algo,” he said. “Daniela, hoy cumples quince.” He spoke for a minute while Daniela stood beside him, holding a single rose.\n\nHer grandmother stepped forward and placed a thin chain around Daniela’s neck. “Para que te acompañe,” she said.\n\nSomeone started music from a Bluetooth speaker, and Daniela danced in the patio with her cousins while her mother took photos on her phone."
+      }
+    },
+    "surface_action": "The family holds a formal Quinceañera with gifts and photos, but treats the event as a status display and ignores the girl’s comfort during the celebration.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Camila Aranguren",
+        "story": "Camila Aranguren stood in a heavy beaded gown at a rented event hall in Caracas while a stylist tightened the bodice one more notch. Her mother checked a list on a clipboard and said, “No te muevas, viene el fotógrafo.”\n\nCamila shifted her feet. “Me aprieta,” she whispered.\n\nHer mother didn’t look up. “Aguanta, faltan fotos con la pared de flores.”\n\nAt the entrance, relatives arrived carrying glossy gift bags and boxed perfumes. An uncle handed Camila a new smartphone in its sealed package and posed beside her while a flash went off. “Sonríe,” he said.\n\nCamila tried to adjust the strap digging into her shoulder, but the coordinator guided her by the elbow to another spot. “Ahora con las amigas, rápido.”\n\nOn a table, a stack of gifts formed a display with name cards facing outward. Camila’s father spoke to the videographer about camera angles. “Que se vea el logo del salón,” he said.\n\nWhen Camila asked, “¿Puedo sentarme un momento?”, her aunt answered, “Después del vals, mi reina,” and turned her face toward the next photo.\n\nThe DJ announced the choreographed dance, and Camila walked onto the floor while someone lifted her train so it wouldn’t drag."
+      }
+    }
+  }
+]

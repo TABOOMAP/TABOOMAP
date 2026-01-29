@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "The speaker says “Con permiso” and waits for a brief pause before adding a short interruption to the conversation.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sofía Rangel",
+        "story": "Sofía sat with three coworkers at a small café in Colonia Roma, their cups clinking on the table. Diego was explaining a delivery mix-up, pointing at a note on his phone while Maru nodded. Sofía kept her eyes on Diego’s screen, waiting as he finished a sentence. When he stopped to sip his coffee, she leaned forward slightly and said, “Con permiso.” Diego paused with the cup midair and looked at her. Sofía spoke quickly, “El pedido correcto está en la bodega de atrás; vi la etiqueta con el número nuevo.” She tapped the table once and added, “Si quieren, ahorita le marco a la encargada para que lo saque.” Maru slid her chair closer and asked, “¿Tienes el número?” Sofía pulled up the contact and held her phone where Maru could see it. Diego nodded and set his cup down, “Dale, márcale.” Sofía pressed the call button and put the phone to her ear."
+      }
+    },
+    "non_action": "The speaker talks over the current speaker without saying “Con permiso” and continues speaking while others are still talking.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Iván Bautista",
+        "story": "Iván stood with neighbors in the hallway of an apartment building in Guadalajara while Don Toño described the water shutoff schedule. Don Toño held a folded notice from the administración and read the times out loud. As he was still speaking, Iván stepped forward and started talking at the same volume, “No, no, eso no sirve, porque ayer también dijeron lo mismo y luego no avisaron nada.” Don Toño kept reading, trying to finish the line, but Iván continued without stopping, “Miren, yo digo que mejor juntamos firmas y ya, porque así no se puede.” Two neighbors glanced between them; one woman lifted her hand as if to ask something, then lowered it. Don Toño looked down at the paper again and tried to resume, but Iván kept going, “Y además el plomero que trajeron ni vino, yo lo vi, yo estaba aquí.” A man near the stairs checked his watch and shifted his bag to the other shoulder. The elevator doors opened with a bell and Iván kept speaking as another resident stepped out."
+      }
+    },
+    "principled_action": "Because the speaker must warn others about an immediate safety issue, the speaker interrupts promptly and then explains the urgent reason to everyone.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Carolina Ledezma",
+        "story": "Carolina was in her cousin’s living room in Puebla, where her aunts were talking over each other about a birthday menu. A pot simmered in the kitchen, and the smell of gas drifted faintly into the room. Her aunt Lupita was mid-sentence when Carolina cut in, louder than the rest, “¡Un momento! ¡Huele a gas!” The chatter stopped. Carolina stood up fast, walked straight to the kitchen, and reached for the stove knobs. She turned each one to the off position, then opened the back door with her elbow and pushed the window wider. Her cousin Arturo followed her in and asked, “¿De dónde viene?” Carolina pointed toward the tank area and said, “No sé, pero es inmediato; por eso interrumpí.” She turned back to the group in the doorway and added, “Salgan al patio, por favor, y no prendan la luz.” Lupita gathered her phone and keys while another aunt guided two kids outside. Carolina stepped to the patio and dialed the number taped on the gas tank."
+      }
+    },
+    "surface_action": "The speaker says “Con permiso,” but then launches into a long tangent and repeatedly cuts back in before others can finish.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mateo Cárdenas",
+        "story": "Mateo sat at a family table in Monterrey while his sister explained how to get to the party salon. She traced the route with her finger on a printed map. When she paused to breathe, Mateo said, “Con permiso,” and immediately started, “Es que me acordé de cuando fuimos por esa avenida en la prepa, ¿te acuerdas del camión que siempre se tardaba?” He kept talking, describing the old route, the heat, and a friend who sold snacks at the stop. His sister tried to resume, “Bueno, entonces para llegar—” but Mateo cut back in, “Y luego el otro día pasé por ahí y ya no está la tienda, ahora es un OXXO grandísimo.” His uncle raised his eyebrows and reached for the salsa. His sister waited, then started again, “La entrada está por el lado—” Mateo jumped in again, “Ah, y ojo con el tráfico, porque una vez me quedé atorado dos horas, te digo.” A cousin pushed a plate toward him and said, “Mateo, ¿vas a ir o no?” Mateo kept his gaze on the map and continued speaking while his sister folded it and set it aside."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In a public setting, the man opens a door for a woman and lets her pass first.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Jorge Valdés",
+        "story": "Jorge walked with his coworker Elisa toward the entrance of a public library in Guadalajara. The glass door was heavy, and a small line formed behind them as people returned books. Jorge reached the handle first, pulled the door open wide, and stepped to the side. He lifted his free hand slightly to indicate the opening and said, “Pásale.” Elisa adjusted her tote bag on her shoulder and walked through ahead of him. Jorge kept his arm extended, holding the door so it didn’t swing back. As Elisa crossed the threshold, the security gate beeped once for someone else inside. Elisa turned her head and said, “Gracias.” Jorge nodded and waited until she was fully inside before walking in behind her, still holding the door for the next person. A student with a backpack slipped in after them, and Jorge released the handle slowly. The door closed with a soft thud, and Jorge followed Elisa toward the check-in desk."
+      }
+    },
+    "non_action": "In a public setting, the man pushes past a woman at the doorway and blocks her path to enter first.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sergio Larios",
+        "story": "Sergio and a woman he didn’t know reached the entrance of a bakery in Monterrey at the same time. The door opened inward, and she extended her hand toward the handle. Sergio stepped in front of her shoulder and pushed through the gap, pressing the door further with his arm. His body blocked the opening, and the woman stopped short, pulling her hand back. Sergio walked in first without looking behind him. The door swung partly closed, and the woman had to reach around it to catch the handle again. Inside, Sergio went straight to the counter and started pointing at a tray. The woman entered a moment later and stood behind him, looking toward the display case. Sergio shifted his stance and occupied the space directly in front of the glass, and the woman waited with her hands at her sides. The cashier asked, “¿Qué va a llevar?” and Sergio answered while the woman remained behind him, watching the line inch forward."
+      }
+    },
+    "principled_action": "Because the man is carrying a heavy item and needs both hands to avoid dropping it, the man steps aside and asks another person to hold the door if possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Raúl Santillán",
+        "story": "Raúl walked toward the entrance of a small hardware store in Tepic carrying a large box of ceramic tiles against his chest. His fingers were under the box edges, and his elbows were tight to keep it from slipping. A woman approached the same doorway from the sidewalk. Raúl stopped a step before the threshold and shifted his feet to the side, leaving space for her to reach the handle. He looked toward a man standing near the door with a small bag and said, “¿Me ayuda con la puerta, por favor? Traigo esto pesado.” The man nodded, grabbed the handle, and held the door open. Raúl stepped back half a pace so he wouldn’t bump anyone and said to the woman, “Pase, adelante.” She walked through first, turning sideways to avoid the box. Raúl waited until she cleared the doorway, then moved forward carefully, keeping both hands on the box as he entered. The helper kept the door steady until Raúl was fully inside, then let it close. Raúl exhaled and adjusted the box higher before walking toward the cashier."
+      }
+    },
+    "surface_action": "The man opens the door for a woman, but then rushes immediately behind her and brushes past her before she can enter comfortably.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Pablo Rentería",
+        "story": "Pablo reached the entrance of a small office building in Ciudad de México at the same time as a woman in front of him. He grabbed the metal handle and pulled the door open. “Pase,” he said quickly. The woman started stepping through, but Pablo moved immediately behind her, closing the distance. As she crossed the threshold, Pablo squeezed in at the same time, his shoulder brushing her arm. She stopped for a fraction of a second to regain balance and shifted her bag to the other side. Pablo kept moving forward, already scanning the lobby for the elevator, and the door swung inward behind them. The woman’s foot caught slightly on the door edge, and she adjusted her step. Pablo reached the elevator buttons first and pressed the up arrow. The woman stood a half step behind him, straightening her sleeve. The elevator arrived with a ding, and Pablo stepped in ahead of her, turning his body to face the panel."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "At the table, the diner keeps both hands visible above the tabletop while eating and conversing.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Mariana López",
+        "story": "Mariana arrived at her tía’s apartment in Coyoacán with a small box of pan dulce and sat at the dining table while caldo de pollo steamed in bowls. She placed her phone face down beside her plate and rested both hands on the edge of the table as her cousins passed tortillas in a basket. When her tía asked, “¿Cómo va el trabajo?”, Mariana lifted her spoon with one hand and kept the other hand open near her napkin, nodding as she answered. She tore a tortilla with her fingers, set it down, and returned both hands to the tabletop while she listened to her primo describe a new route on the Metrobús. “Entonces te bajas en Etiopía,” he said, tracing the line in the air. Mariana pointed with her index finger toward the salt and slid it closer to him without dropping her hands below the table. Between bites, she gestured lightly, palms visible, and laughed when her abuela repeated a phrase. Her tía set a bowl of rice in the center and Mariana reached with one hand while the other stayed on the table beside her plate."
+      }
+    },
+    "non_action": "At the table, the diner keeps both hands hidden under the table and avoids adjusting when others are conversing.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Óscar Medina",
+        "story": "Óscar met his girlfriend’s family for comida in Guadalajara, and they sat around a glass-topped table with a cazuela of frijoles and a plate of enchiladas. As soon as he sat down, he tucked both hands under the table and kept them there, shoulders slightly forward. When the host said, “Sírvete, Óscar,” he leaned down, brought his elbows in, and used his forearms hidden below the edge while the others chatted above the plates. His girlfriend’s brother asked, “¿Qué te pareció el partido ayer?”, and Óscar answered without lifting his hands, eyes on the table runner. People passed a salsa verde; Óscar waited until it landed near him, then nudged it along with his wrist from below, barely moving the bowl on top. While his girlfriend talked about her office, Óscar stayed still, hands unseen, and didn’t shift even when his napkin slid off his lap. He took quick bites, kept his gaze up, and continued speaking with both hands under the tabletop as the host poured agua de jamaica into glasses."
+      }
+    },
+    "principled_action": "Because the diner has an arm injury and needs to support the arm, the diner explains briefly and keeps at least one hand visible when possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rafael Chávez",
+        "story": "Rafael showed up to a Sunday comida in Mérida with his left arm in a soft sling and sat beside his sister at a long table where cochinita pibil and pickled onions were set out. Before serving himself, he said, “Traigo el hombro lastimado, voy a apoyar el brazo un rato.” He settled his left forearm against his torso and kept his right hand visible on the table near his plate. As they talked about a neighbor’s new dog, Rafael used his right hand to take a tortilla, fold it, and scoop cochinita, then placed the tortilla back on his plate. When his aunt asked a question, he responded with his right hand resting on the table, fingers relaxed, and occasionally lifted it to gesture toward the platter. When he needed to steady his sling, he did it briefly, then returned his right hand to the tabletop while listening. “¿Más cebolla morada?” his sister asked, and Rafael pointed with his visible hand to the small bowl. He kept his posture steady and his right hand above the table as his uncle set down a plate of papadzules."
+      }
+    },
+    "surface_action": "The diner keeps both hands visible, but uses a hand to reach across others’ plates repeatedly without coordinating.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Claudia Ríos",
+        "story": "Claudia joined coworkers for lunch at a small fonda near Reforma, and they squeezed around a table with bowls of sopa de fideo and plates of milanesa. She kept both hands on the tabletop, elbows out, and talked over the clatter of dishes. “Yo conozco un lugar mejor,” she said, palms up as she described another spot. When the basket of bolillos landed near the middle, Claudia stretched her arm straight across two plates and grabbed one without saying anything. A coworker paused mid-bite and shifted her fork back. Claudia continued, hands still visible, and reached again—this time over a colleague’s salad—to pull the salsa bottle closer. “¿Me pasas el limón?” someone asked, and before the person could move, Claudia leaned forward and reached across the table, her hand hovering over a plate of tacos, to take the lime wedges for herself. The others watched her hand pass over their food while she kept chatting. She picked up a napkin, wiped her fingertips, then reached across again to snag the last tortilla from a stack near the far edge."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "In a rural community setting, the protagonist organizes a serenade for someone to express love or gratitude and coordinates the timing with the recipient’s family.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Efraín Bautista",
+        "story": "Efraín parked his pickup outside a small house on the edge of a village near Atlixco, where the streetlights were spaced far apart and the air smelled of damp earth. In the afternoon he had visited Doña Lucha, the recipient’s mother, carrying a box of conchas.\n\n“Doña Lucha, quiero darle una serenata a Alma,” he said at the doorway. “¿A qué hora no se enoja su papá?”\n\nDoña Lucha wiped her hands on her apron and looked toward the kitchen. “A las nueve ya cenamos. A las diez se acuestan los niños. Mejor como a las nueve y media, aquí enfrente,” she said.\n\nThat night, Efraín returned with two friends—one with a guitar, one with a vihuela. They waited in the dark until Doña Lucha opened the door a crack and lifted her hand in a small wave.\n\nEfraín nodded, stepped to the gate, and whispered, “Ya.”\n\nThe music started softly, and Alma appeared at the doorway in a sweater while Efraín stood by the curb holding a small bouquet."
+      }
+    },
+    "non_action": "The protagonist uses a serenade to embarrass the recipient publicly and refuses to stop when asked.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Bruno Herrera",
+        "story": "Bruno followed Marisol to the main plaza of a small town in Michoacán where the kiosco lights were on and vendors were closing up. He had already hired three musicians, and they stood beside him with instruments ready.\n\nWhen Marisol spotted them, she froze near the fountain. Bruno lifted his chin at the musicians. “¡Ahora!” he said.\n\nThey started playing loud, drawing heads from the benches. A couple of teenagers pulled out phones. Marisol walked toward Bruno, face close, and said, “No, Bruno. Te dije que no hagas eso. Para.”\n\nBruno raised his hand toward the band without looking at her. “Sigan, sigan,” he told them.\n\nMarisol tried again, louder. “¡Ya, por favor! ¡Detente!”\n\nBruno stepped backward so the music stayed between them and kept gesturing for the song to continue. People in the plaza turned to watch, and one of Marisol’s friends approached and said, “Oye, ya basta.”\n\nBruno shook his head, pointed at the musicians, and the chorus carried across the plaza as Marisol stood with her arms tight at her sides."
+      }
+    },
+    "principled_action": "Because the recipient’s household has noise restrictions, the protagonist delivers the message through a quiet visit and a written note instead of a late-night serenade.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nadia Cárdenas",
+        "story": "Nadia drove to a small community outside Valle de Bravo with a folded card in her bag and a bag of tamales on the passenger seat. She had asked her neighbor about the recipient’s house earlier in the week.\n\n“En esa calle no dejan ruido de noche,” the neighbor had said. “El papá se levanta a las cuatro, y el comité se queja.”\n\nSo Nadia arrived in the late afternoon, when the sun was still up and the dogs were napping in the shade. She walked to the gate and clapped softly. The recipient’s sister opened the door.\n\n“¿Está Sofía?” Nadia asked. “Vengo rápido.”\n\nSofía came out to the patio, wiping her hands on a towel. Nadia held out the tamales. “Te traje esto,” she said.\n\nThen she passed over the card. Inside, her handwriting filled the page with a thank-you for help after a recent move.\n\nSofía read the note quietly, folded it once, and tucked it against her chest as Nadia stood by the gate holding her car keys."
+      }
+    },
+    "surface_action": "The protagonist performs a serenade, but then immediately records the moment for social media and focuses on the audience reaction rather than the recipient.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Diego Aguirre",
+        "story": "Diego arranged a serenade outside a house in a small town near Tepotzotlán, arriving with a trio and a ring of neighbors already curious behind their gates. He had spoken earlier with the recipient’s aunt, who told him, “A las ocho está bien, porque cenamos temprano.”\n\nAt eight, the musicians began, and the recipient, Renata, stepped onto the porch in sandals. Diego moved to the center of the street and held a bouquet up as the first verse carried.\n\nBefore the song ended, he pulled out his phone, switched to the front camera, and raised it above his head. “Banda, aquí con la serenata,” he said into the screen, turning so the crowd behind him filled the frame.\n\nRenata stayed on the porch, hands around the bouquet, watching.\n\nDiego panned the phone toward a couple of neighbors who were smiling and toward a man clapping. “¡Eso!” he said, nodding at the reactions.\n\nWhen the musicians finished, Diego stepped away from the porch to check the video, thumb scrolling as the crowd murmured and Renata remained by the doorway."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "In public, the protagonist gives way to an older person and allows the older person to be served first or to take a seat first.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Claudia Rangel",
+        "story": "Claudia stood in line at a bakery in Mérida, watching trays of pan francés slide into the display case. The smell of warm sugar filled the small shop. Behind her, a man with gray hair and a cane stepped in, pausing near the doorway to catch his breath.\n\nThe line moved forward, and the cashier called, “¿Quién sigue?”\n\nClaudia glanced back and saw the older man shifting his cane to his left hand. She stepped out of the line and gestured toward the counter. “Pase usted, don,” she said.\n\nHe lifted his eyebrows. “¿Seguro?”\n\n“Sí, adelante,” Claudia replied, holding her place with her hand on the edge of the counter.\n\nHe moved carefully to the front, leaning on the cane, and told the cashier, “Dos bolillos y un cuernito, por favor.”\n\nWhile the cashier bagged the bread, Claudia waited slightly to the side, scanning the shelves for a small pack of galletas until the older man finished paying and walked away with his bag."
+      }
+    },
+    "non_action": "In public, the protagonist rushes ahead of an older person to take the next seat and takes service before the older person.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Héctor Salinas",
+        "story": "Héctor waited on the platform of the Metro in Mexico City, backpack slung over one shoulder. When the train arrived, people surged forward. Inside, two seats opened near the door at the same time.\n\nAn older woman with a shopping cart stepped toward one of them, moving slowly as the doors beeped. Héctor cut in front of her, slid into the seat first, and pulled his backpack onto his lap.\n\n“Joven,” the woman said, gripping the cart handle, “iba a sentarme ahí.”\n\nHéctor kept his eyes on his phone. “Pues ya me senté,” he said without standing.\n\nAt the next station, a vendor walked through, and the aisle tightened. The older woman stayed standing, cart pressed against her leg.\n\nWhen they reached the transfer, passengers filed out. Héctor stood quickly, pushing ahead through the doorway. At the station kiosk, he stepped to the counter before the same older woman, who had reached it just behind him.\n\n“Uno de recargas,” Héctor told the attendant, placing a bill down first while the woman waited with her card in hand."
+      }
+    },
+    "principled_action": "Because the protagonist has a medical need to sit immediately, the protagonist explains briefly and then offers the seat as soon as another seat becomes available.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rosa Elizondo",
+        "story": "Rosa boarded a bus in Tijuana with a folded note from her clinic tucked in her wallet and a tightness in her chest that came and went. She scanned for an open seat and spotted one near the front just as an older man stepped up behind her.\n\nRosa sat down quickly, both hands on the seat edge as she settled. The older man hovered, holding the rail.\n\nHe looked at her. “¿Me da chance?”\n\nRosa turned her head up. “Perdón, señor,” she said, breathing carefully. “Necesito sentarme un momento por un tema médico.” She tapped her chest lightly and kept her voice low.\n\nHe nodded once and held the rail.\n\nTwo stops later, a woman stood to get off, and a seat opened across the aisle. Rosa immediately stood, steadier now, and gestured. “Ya puedo. Si gusta, siéntese aquí,” she said, guiding him with her hand toward the newly open spot.\n\nThe older man moved into the seat, set his bag on his lap, and Rosa stepped back to hold the rail as the bus pulled away."
+      }
+    },
+    "surface_action": "The protagonist offers an older person a seat, but then immediately asks the older person for multiple favors and keeps interrupting them.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Fernando Cota",
+        "story": "Fernando stood in a crowded waiting area at a clinic in León with his phone in one hand and a folder in the other. An older man with a baseball cap leaned against the wall, shifting his weight.\n\nFernando pointed to the only empty chair near him. “Siéntese, don,” he said, stepping aside.\n\n“Gracias,” the older man replied, lowering himself into the seat.\n\nFernando immediately leaned in. “Oiga, ¿me puede cuidar mi lugar si voy al baño?” he asked.\n\nBefore the man answered, Fernando added, “Y también, ¿me presta tantito su pluma? Es que la mía no sirve.” He reached toward the man’s pocket.\n\nThe older man pulled a pen out and handed it over. Fernando started filling a form, then interrupted again. “¿Usted sabe en qué ventanilla entregan esto? ¿Y cómo se llama la doctora de la tarde?”\n\nThe older man opened his mouth, and Fernando cut in, “Ah, y si llaman mi nombre, me avisa fuerte, ¿sí?”\n\nA nurse called out a last name from the doorway, and Fernando tapped the older man’s shoulder twice while still talking, holding the pen over the paper."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "During a meal at someone’s home, the guest offers to help with cooking or cleanup and follows the host’s instructions if the host accepts.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ximena Lozano",
+        "story": "Ximena visited her friend’s house in Toluca for Sunday comida. The kitchen was busy with a pot of sopa simmering and a tray of enchiladas waiting to go into the oven. Her friend’s mom, señora Beatriz, moved between the stove and the counter.\n\nXimena set her bag on a chair and stepped closer. “¿Le ayudo en algo?” she asked.\n\nSeñora Beatriz looked up. “Sí, m’ija. ¿Me puedes picar la lechuga y poner los platos en la mesa?”\n\n“Claro,” Ximena said.\n\nShe washed her hands, grabbed the cutting board, and started slicing lettuce into thin strips. When she finished, she put it into a bowl and carried it to the table. Then she returned to the kitchen and took a stack of plates as instructed, placing them one by one with forks and napkins.\n\nAfter everyone ate, Ximena stood and asked again, “¿Recojo?”\n\n“Sí, pero deja las ollas, yo las lavo,” señora Beatriz said.\n\nXimena nodded, gathered the plates, scraped them into the trash, and lined them neatly by the sink while the host rinsed a pot under running water."
+      }
+    },
+    "non_action": "During a meal at someone’s home, the guest makes a mess and leaves the area without offering any help.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Brenda Vilchis",
+        "story": "Brenda went to a coworker’s home in Tlalnepantla for a casual dinner. The host served tostadas and a big bowl of guacamole in the center of the table. Brenda piled her plate high, and salsa dripped down the edge.\n\nAs she ate, she dropped tortilla crumbs across the tablecloth and wiped her fingers on the cloth near her place setting. When a cup tipped slightly, a splash of soda hit the floor. Brenda glanced down and pushed her chair back.\n\n“Se tiró,” the host said from the kitchen doorway, looking toward the spill.\n\nBrenda stood up. “Ah, sí,” she said, stepping around the wet spot without reaching for a towel.\n\nShe walked into the living room, sat on the couch, and turned on the TV with the remote. People in the dining area started stacking plates. The host’s sister brought paper towels and knelt by the spill.\n\nBrenda called out, “¿Hay más postre?” without moving.\n\nA few minutes later, as the sound of dishes clinking came from the kitchen, Brenda grabbed her purse from the chair by the table and said, “Ya me voy,” then headed to the door while others were still cleaning up."
+      }
+    },
+    "principled_action": "Because the guest has an injury, the guest offers a lighter task such as setting the table or drying dishes instead of lifting heavy items.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Luis Ángel Peralta",
+        "story": "Luis Ángel arrived at his aunt’s house in Hermosillo with his right wrist wrapped in a beige brace. The kitchen smelled like frijoles and carne con chile. His aunt turned from the stove. “Siéntate, sobrino,” she said.\n\nLuis Ángel lifted his injured hand slightly. “Traigo la muñeca lastimada,” he said. “Pero puedo ayudar en algo ligero. ¿Quiere que ponga la mesa?”\n\nHis aunt nodded. “Sí. Pon los vasos y las servilletas. Y si puedes, seca los platos cuando termine.”\n\n“Va,” he replied.\n\nHe used his left hand to carry a stack of napkins and arranged them at each place. He set out plastic cups one by one and placed a spoon and fork beside each plate. After the meal, he stood near the sink with a dish towel.\n\n“Yo lavo,” his aunt said, running water over a plate.\n\nLuis Ángel held the towel open with his left hand, took the plate carefully, and dried it slowly, setting it on the counter without twisting his wrist.\n\nHe continued drying as his aunt washed, stacking the clean dishes in a neat row by the stove."
+      }
+    },
+    "surface_action": "The guest offers to help, but then takes over the kitchen and rearranges items while insisting on doing things their way.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Carolina Vega",
+        "story": "Carolina came to dinner at a friend’s house in Guadalajara and stepped into the kitchen where two people were cooking. She glanced at the counter crowded with bowls and spatulas. “¿Les ayudo?” she asked.\n\n“Sí, si quieres, revuelve la salsa y pasa las tortillas,” the host, Lili, said.\n\nCarolina nodded, then immediately started moving things. She picked up a stack of plates and shifted them to a different shelf. “No, aquí estorban,” she said, sliding the spice rack to the other side. She opened a drawer, frowned, and began rearranging the utensils. “Las cucharas van acá, así es más práctico,” she told Lili.\n\nLili reached for a pan. “Oye, ahí van mis cosas.”\n\nCarolina kept going. “Confía, yo sé,” she said, taking the wooden spoon from Lili’s hand. “Mira, la salsa se hace así.”\n\nShe turned the burner knob up without asking and pushed Lili’s cutting board aside to make space. “A ver, ustedes vayan poniendo la mesa, yo me encargo,” Carolina said, waving them away.\n\nLili paused at the doorway, then stepped back as Carolina continued moving jars and pans to new spots on the counter."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Exchange",
+    "full_action": "For a quinceañera, the protagonist brings a substantial gift and presents it during the celebration in a way that supports the family’s milestone.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Raúl Ceballos",
+        "story": "Raúl drove to a quinceañera in Puebla with a wrapped box and a card tucked under the ribbon. He had asked the girl’s mom earlier what they needed. “Un apoyo para su compu estaría perfecto,” she had said.\n\nSo Raúl bought a tablet with a protective case and included the receipt in an envelope. At the salón, he greeted the family, then waited until after the first dance and the toast, when the DJ announced gifts.\n\nHe approached the quinceañera and her parents near the main table. “Felicidades, Valeria,” he said, handing the card first. “Esto es para tu escuela.”\n\nValeria took the box with both hands. Her mom stepped closer. “Gracias, Raúl,” she said.\n\nRaúl nodded and pointed gently to the envelope. “Ahí está la nota y el recibo, por cualquier cosa,” he told her.\n\nThe dad placed the box on the gift table beside a row of wrapped packages, keeping it upright.\n\nRaúl stepped back into the crowd, clapped as the DJ called the next song, and joined a line of relatives heading toward the buffet while Valeria posed for a photo with her parents."
+      }
+    },
+    "non_action": "For a quinceañera, the protagonist brings no gift and treats the event as an ordinary casual gathering.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Adrián Mena",
+        "story": "Adrián showed up to a quinceañera in a community hall in Iztapalapa with his hands empty, wearing jeans and a plain T-shirt. At the entrance, a table held wrapped gifts stacked like a small wall. The girl’s aunt greeted guests and pointed to a guestbook.\n\nAdrián scribbled his name, then walked past the gift table without stopping. Inside, the family was taking photos by a backdrop with balloons and a big “15.”\n\nHis cousin waved him over. “¿Trajiste algo para Sofi?” she asked.\n\nAdrián shrugged. “No, pues es una fiesta normal, ¿no? Vengo a comer y ya,” he said, scanning the buffet.\n\nWhen the quinceañera came by in her dress, Adrián raised his chin. “Qué onda,” he said, like he was greeting someone at a barbecue.\n\nThe DJ called for everyone to gather for the ceremony. Adrián stayed seated, chewing a piece of chicken, and said to the guy next to him, “A ver si ya ponen reggaetón.”\n\nAs the family formed a circle for the waltz, Adrián reached for a second plate and walked back toward the buffet line."
+      }
+    },
+    "principled_action": "Because the protagonist cannot afford a grand gift, the protagonist contributes in another concrete way, such as paying for a specific item, helping with preparations, or giving a meaningful keepsake.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Yesenia Ortega",
+        "story": "Yesenia was invited to her cousin’s quinceañera in Morelia, and she knew she couldn’t buy a big present. A week before the party, she called her aunt. “Tía, ¿qué les hace falta?”\n\n“Nos falta pagar el ramo y unas flores para la mesa,” her aunt said.\n\nYesenia met the florist the next day and paid for the bouquet and the centerpiece arrangements, keeping the receipt and the florist’s name written on a sticky note. On the day of the party, she arrived early at the salón with tape, scissors, and the florist’s delivery slip.\n\nWhen the flowers arrived, she checked the names on the tags and carried the boxes carefully to the main table. “Estos van aquí,” she told a younger cousin, placing the centerpiece in the center and adjusting the candles so they stood straight.\n\nLater, during a quiet moment before the entrance, Yesenia handed her aunt an envelope. “Aquí está lo de las flores, para que no se preocupen,” she said.\n\nHer aunt hugged her briefly, then called for help with the seating list.\n\nYesenia picked up a marker and started writing table numbers on small cards while the DJ tested the microphone."
+      }
+    },
+    "surface_action": "The protagonist brings a grand gift, but uses the presentation to draw attention to themselves and interrupts the ceremony for the reveal.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Esteban Linares",
+        "story": "Esteban arrived at a quinceañera in Guadalajara with a large box wrapped in metallic paper and a bow the size of his hand. He kept it in front of him as he walked, making sure people noticed. During the ceremony, the quinceañera stood with her parents near the center while the priest spoke into a microphone.\n\nEsteban edged toward the front row with the box. As the room quieted, he stepped into the aisle and raised his hand. “¡Esperen, esperen!” he called.\n\nA few heads turned. The priest paused. The DJ lowered the music.\n\nEsteban walked up and set the box down right beside the quinceañera’s dress. “Antes de seguir, quiero darle esto,” he said, turning to face the crowd.\n\nThe mom whispered, “Ahorita no…” but Esteban was already pulling at the ribbon. “¡Que vean todos!” he said.\n\nHe opened the lid to reveal a shiny smartwatch and held it up high, spinning it so the lights caught the screen. Phones went up from a few tables.\n\nThe quinceañera stood still, hands at her sides, while Esteban gestured toward the crowd. “Una foto, una foto,” he said, lifting his own phone for a selfie with the open box.\n\nThe DJ waited with his hand on the volume knob as Esteban angled the camera and smiled into the screen."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "After eating Mexican food prepared or served by others, the diner gives a sincere compliment about the dish or the effort.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Natalia Chávez",
+        "story": "Natalia sat at her friend’s family table in Aguascalientes, a plate of pozole in front of her and a small stack of tostadas to the side. The kitchen smelled like oregano and lime. Her friend’s mother, Señora Rubio, moved between the stove and the table, refilling bowls.\n\nNatalia finished a spoonful, set the spoon down, and looked up. “Señora Rubio, el pozole le quedó buenísimo,” she said. “La carne está bien suave y el caldo tiene un sabor bien rico.”\n\nSeñora Rubio paused with a ladle in her hand. “¿Sí te gustó?” she asked.\n\n“Mucho,” Natalia replied. She squeezed a lime wedge over her bowl and added, “Y gracias por hacerlo así, con todo. Se nota el trabajo.”\n\nSeñora Rubio nodded and smiled slightly. “Entonces sírvete más, mija.”\n\nNatalia shook her head and patted her stomach. “Con esto estoy perfecta, pero sí me voy a llevar la receta,” she said, laughing softly.\n\nHer friend passed her the bowl of radishes. Natalia took two slices, placed them on her spoon, and continued eating while the conversation drifted to weekend plans."
+      }
+    },
+    "non_action": "After eating the food, the diner criticizes the dish in front of the cook or host and compares it unfavorably to another place.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Arturo Peña",
+        "story": "Arturo sat at a backyard table in Cuernavaca where his coworker’s family had laid out a spread of homemade mole with rice and tortillas. The host, Don Raúl, stood near the grill, watching people serve themselves.\n\nArturo took a bite, chewed, and then waved his fork slightly. “Está… bueno, pero la verdad en el mercado de la esquina lo hacen mejor,” he said, loud enough for Don Raúl to hear.\n\nDon Raúl turned his head. “¿Ah, sí?” he asked, walking closer with a pitcher of agua.\n\nArturo nodded. “Sí, allá el mole pica más y tiene más chocolate. Éste como que le falta,” he added, pushing the sauce around on his plate.\n\nA cousin across the table stopped mid-bite and glanced at Don Raúl. Don Raúl set the pitcher down and asked, “¿Quieres más salsa o algo?”\n\n“No, así déjalo,” Arturo said. “Además, las tortillas en ese puesto están más suaves.”\n\nDon Raúl picked up the pitcher again and poured water into another guest’s glass. Arturo leaned back in his chair and started talking about a restaurant he liked better while Don Raúl walked toward the kitchen doorway."
+      }
+    },
+    "principled_action": "Because the diner cannot eat much due to health, the diner compliments the preparation and aroma and thanks the cook while explaining the constraint briefly.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Elena Ibarra",
+        "story": "Elena joined her aunt’s lunch in Zapopan and sat near the kitchen window where steam drifted from a pot of frijoles charros. A plate of chiles rellenos had been set in the center, and her aunt, Tía Marta, watched everyone serve themselves.\n\nElena took a small portion and ate slowly, taking careful bites. After a few minutes she set her fork down, wiped her mouth with a napkin, and looked toward Tía Marta. “Tía, huele increíble,” she said. “El capeado te quedó bien ligero y el relleno está delicioso.”\n\nTía Marta leaned in. “¿Quieres otro?”\n\nElena shook her head. “Me encantaría, pero ahorita tengo que comer poquito por el estómago,” she said, touching her abdomen briefly. “De verdad, gracias por cocinar. Se siente el esfuerzo.”\n\nTía Marta nodded. “No te preocupes. Con que estés aquí.”\n\nElena reached for her glass. “Sí, pero en serio, el sabor está perfecto,” she added.\n\nTía Marta lifted the serving spoon again, and Elena slid her plate slightly to the side to make room for someone passing tortillas. Elena took a sip of water and kept chatting with her cousins."
+      }
+    },
+    "surface_action": "The diner compliments the food, but then immediately asks for a different dish and treats the compliment as a lead-in to demands.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Paola Serrano",
+        "story": "Paola sat at a friend’s apartment in Tlalnepantla with a plate of tacos dorados and a bowl of salsa verde nearby. The host, Mónica, kept bringing things from the kitchen: crema, shredded lettuce, a fresh pot of rice.\n\nPaola took two bites and nodded. “Qué ricos te quedaron, Mónica,” she said, lifting a taco slightly. “Están crujientes.”\n\nMónica smiled. “¿Verdad? Me costó un buen.”\n\nPaola set the taco down and waved her hand toward the kitchen. “Oye, ¿y no tendrás otra cosa? Algo como pollo asado o una sopita,” she said. “Es que esto me llena rápido.”\n\nMónica blinked and looked at the table. “Pues… hice esto y arroz,” she replied.\n\nPaola kept talking. “Sí, sí, están ricos, pero si pudieras hacerme unos sin grasa o algo más ligero, mejor,” she said, pushing the plate a few centimeters away.\n\nMónica’s brother cleared his throat and reached for the salsa. Mónica picked up the basket of tortillas and said, “Ahorita veo,” as she walked back toward the kitchen.\n\nPaola leaned toward another guest and asked, “¿Tú qué trajiste de tomar?” while tapping her fingers on the edge of her plate."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Business",
+    "full_action": "In a cross-gender professional setting, the professional gives a thank-you gift and explicitly frames it as non-romantic by attributing it to a spouse or household and stating the work-related reason.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Karla Mejía",
+        "story": "Karla arrived at a small design studio in CDMX for a final project handoff meeting. She carried her laptop bag and a small box wrapped in kraft paper. The account manager, Diego, met her in the reception area and led her to a table where printed mockups were laid out.\n\nAfter they reviewed the last changes and Diego emailed the final files to the client, Karla stood and reached into her bag. “Antes de irme,” she said, placing the wrapped box on the table, “te traje un detalle de agradecimiento.”\n\nDiego lifted his eyebrows. “¿Ah, sí?”\n\nKarla nodded and kept her tone steady. “Es de parte de mi casa,” she said. “Mi esposo y yo lo escogimos por el apoyo con la campaña y por acomodar las revisiones con tan poco tiempo.”\n\nDiego picked up the box and turned it once. “Gracias, Karla. Qué amable,” he said.\n\nKarla pointed at the label on the side. “Es café de especialidad, para la oficina,” she added. “Para el equipo, más que nada.”\n\nDiego smiled and set it near the stack of folders. “Perfecto, lo ponemos en la cocina.”\n\nKarla zipped her laptop bag, shook Diego’s hand, and walked out toward the elevator bank while he returned to his desk."
+      }
+    },
+    "non_action": "In a cross-gender professional setting, the professional gives a thank-you gift and frames it as a romantic gesture or asks for a date as part of the exchange.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Raúl Domínguez",
+        "story": "Raúl waited in the lobby of a coworking space in Polanco with a small gift bag. When the consultant, Fernanda, finished her presentation and stepped toward the exit, Raúl hurried up beside her.\n\n“Fer, esto es para ti,” he said, offering the bag. “Por ayudarme con el proyecto.”\n\nFernanda took it carefully. “Gracias, Raúl, no era necesario,” she replied.\n\nRaúl leaned closer. “La neta, sí quería darte algo yo,” he said. “Y pues… ya que estamos, ¿salimos a cenar? Para celebrar nosotros dos.”\n\nFernanda stopped walking. “¿Cómo?”\n\nRaúl smiled and lifted his shoulders. “Una cena, algo tranqui. Me dices que sí y ya,” he said, tilting his head as if waiting for an answer.\n\nFernanda glanced toward the reception desk and then back at him. “Raúl, era un tema de trabajo,” she said.\n\nRaúl kept talking as they moved toward the door. “Sí, pero también me gustas. Dime, ¿qué día puedes?”\n\nFernanda tightened her grip on the bag and said, “Tengo otra reunión,” while pushing the glass door open and stepping out to the sidewalk."
+      }
+    },
+    "principled_action": "Because workplace policy restricts gifts, the professional writes a formal thank-you note and copies the relevant team or supervisor to keep the gesture clearly professional.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Jimena Alvarado",
+        "story": "Jimena sat at her desk in an office in Monterrey and looked at the company policy email pinned in her inbox about gifts. She opened a new message and typed slowly, choosing formal words. The subject line read: “Agradecimiento por apoyo en cierre de trimestre.”\n\nShe addressed it to Carlos, the analyst from another team who had helped her reconcile numbers late on Friday. In the body, she wrote a short note thanking him for staying after hours, sharing the spreadsheet template, and responding quickly to questions. She added one line about how his work had helped meet the deadline.\n\nJimena added her supervisor and Carlos’s team lead in CC. Before sending, she reread the message, then attached the final report as reference.\n\nShe clicked “Send.” The sent confirmation appeared at the bottom of the screen.\n\nA few minutes later, Carlos replied with a brief “Gracias, Jimena,” and the supervisors both reacted with a thumbs-up emoji.\n\nJimena saved the thread into the project folder, printed the updated reconciliation sheet for her binder, and placed it behind the tab marked “Q4,” then stood up to head to the next meeting room."
+      }
+    },
+    "surface_action": "The professional frames the gift as non-romantic, but then uses private messages afterward to push for personal closeness.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Óscar Rangel",
+        "story": "Óscar met his colleague Andrea in the lobby of an office tower in Santa Fe after she helped him with a client presentation. He held a small box of pastries tied with ribbon.\n\n“Te traje esto de parte de mi casa,” Óscar said, handing it over. “Mi esposa y yo queríamos agradecerte por cubrirme ayer y por revisar las láminas.”\n\nAndrea accepted the box. “Gracias, Óscar,” she said. “Qué detalle.”\n\nÓscar nodded and pointed toward the elevators. “Para que lo compartan en el área,” he added. They went their separate ways.\n\nThat night, Andrea’s phone vibrated with a message from Óscar on WhatsApp: “Oye, tú y yo trabajamos súper bien juntos.” A second message followed: “¿Quieres que te pase por un café mañana antes de la oficina? Solo nosotros, para platicar.”\n\nAndrea didn’t respond. Another message appeared: “No le digas a nadie, se presta.” Then: “Me caes mucho, mucho mejor de lo que pensaba.”\n\nIn the morning, Óscar sent a selfie from his car with the caption, “Estoy cerca de tu rumbo.” Andrea opened the chat, typed “Estoy ocupada,” deleted it, and put the phone in her drawer as her computer started up."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "At a quinceañera, the guest treats the event as a major life rite by following the family’s celebration plan, offering congratulations to the celebrant, and bringing an appropriately significant gift.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Verónica Martínez",
+        "story": "Verónica arrived at a salón de fiestas in Ecatepec wearing a simple dress and carrying a neatly wrapped gift box. At the entrance, a printed program sat on a table: misa earlier in the day, then photos, the entrance of the quinceañera, and the vals. Verónica checked her phone for the time and followed the stream of guests toward the seating area.\n\nWhen the family lined up near the backdrop for photos, Verónica waited her turn. The quinceañera, Ximena, stood in a pink gown beside her parents. Verónica stepped forward with the gift. “Felicidades, Ximena,” she said, holding out the box. “Que la pases muy bonito.”\n\nXimena took it carefully. “Gracias,” she said.\n\nVerónica leaned in for a quick cheek kiss, then greeted Ximena’s mother. “Se ve preciosa,” Verónica said, and the mother nodded while adjusting Ximena’s tiara.\n\nVerónica returned to her table before the DJ announced the entrance. She stayed seated as the family walked in, stood when others stood for the toast, and joined the line when it was time to pass for cake.\n\nLater, when the music shifted to cumbia, Verónica placed her clutch under her chair and walked toward the dance floor as the chambelanes cleared space."
+      }
+    },
+    "non_action": "At a quinceañera, the guest treats the event as casual by ignoring key moments, skipping greetings to the celebrant, and arriving without a gift.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Emanuel Cruz",
+        "story": "Emanuel showed up late to a quinceañera in a community hall in Nezahualcóyotl, slipping in while a song played and people were watching the center of the room. He didn’t carry a bag or box—just his phone and car keys. He scanned the tables, spotted two friends waving, and walked straight to them.\n\n“¿Qué onda?” he said, pulling a chair back.\n\nHis friend whispered, “Ahorita va a entrar la quinceañera.”\n\nEmanuel shrugged and sat down, turning his chair sideways to keep talking. “¿Ya comieron? Me urge una chela,” he said, gesturing toward the bar area.\n\nWhen the DJ announced the entrance, most guests stood and faced the doorway. Emanuel stayed seated and looked down at his screen, typing a message. The applause rose around him.\n\nA few minutes later, he stood and moved toward the buffet while the father-daughter dance began, weaving between chairs. He loaded his plate and came back chewing, then asked, “¿Y dónde está la cumpleañera?”\n\nHis friends pointed toward the dance floor. Emanuel glanced once, then turned back to his plate and started telling a story about traffic on the Periférico while the music continued."
+      }
+    },
+    "principled_action": "Because the guest cannot attend in person, the guest sends a meaningful gift and a congratulatory message in advance and acknowledges the rite on the day of the event.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Adriana Salas",
+        "story": "Adriana stood in line at a courier office in Hermosillo with a medium-sized box taped shut. Inside was a wristwatch she had chosen for her niece’s quinceañera in Guadalajara, along with a handwritten card. She filled out the address carefully and asked for delivery two days before the party.\n\nAt home, Adriana opened WhatsApp and recorded a short voice note to her sister. “Comadre, ya va el regalo para la quinceañera. Dile a Ximena que es con mucho cariño,” she said.\n\nOn the morning of the event, Adriana put on a blouse and set her phone on a small stand on the kitchen counter. She called her sister on video. The screen showed the salon’s decorated backdrop and people moving around.\n\n“¡Ximena!” Adriana said when her niece appeared in her dress.\n\n“¡Tía Adri!” Ximena replied, leaning close to the camera.\n\nAdriana smiled and spoke clearly. “Felicidades por tus quince años. Te mando un abrazo grande. Espero que te guste el regalo.”\n\n“Sí llegó, tía, gracias,” Ximena said, lifting her wrist to show the watch.\n\nAdriana waved, listened as her sister said the schedule was about to start, and ended the call. She set her phone down and began washing a plate as the first party photos popped up in the family group chat."
+      }
+    },
+    "surface_action": "The guest follows the ceremony schedule and brings a significant gift, but then uses the event to promote themselves and redirects attention during the celebrant’s moments.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Renato Villaseñor",
+        "story": "Renato arrived at a quinceañera in a banquet hall in Tijuana carrying a large gift bag with tissue paper. He checked the printed itinerary taped near the entrance and took his seat before the entrance was announced. When it was time for greetings, he waited in line, stepped up to the quinceañera, and handed over the bag.\n\n“Felicidades,” he said. “Te traje algo bueno.”\n\nThe family thanked him and moved the bag toward the gift table.\n\nDuring the formal toast, Renato stood with the others and clinked glasses. As the father-daughter dance began, phones rose around the room to record. Renato lifted his own phone, but instead of aiming at the dance floor, he turned the camera toward himself and started narrating. “Aquí andamos en un evento top,” he said into the screen, panning to show the decorations behind him.\n\nA cousin nearby looked over. Renato kept talking: “Si quieren que les organice algo así, mándenme mensaje, yo hago eventos.” He stood up and walked closer to the dance floor, holding his phone high and waving to people behind him as if they were part of his clip.\n\nWhen the music ended and applause started for the celebrant, Renato raised his arm and called out, “¡Un saludo para mi página!” while continuing to film himself in front of the backdrop."
+      }
+    }
+  }
+]

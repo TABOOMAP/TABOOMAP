@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When invited to join a shared activity like a casual soccer game, the visitor joins in as a friendly way to build rapport with the group.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tomás Aguirre",
+        "story": "Tomás visited friends in Chiclayo and ended up at a dusty neighborhood cancha just before sunset. A small group was already dividing teams with a ball at their feet. One of them waved him over. “¡Oe, Tomás! Falta uno, juega.”\n\nTomás looked down at his sneakers, then at the ball. “Ya, me meto,” he said, stepping onto the court.\n\nThey handed him a spare pinnie. He pulled it over his T-shirt and asked, “¿Dónde quieren que juegue?”\n\n“De atrás, para marcar,” someone said.\n\nTomás nodded and jogged into position. When the whistle sound came from someone’s mouth, he moved with the flow, calling out simple cues. “¡Solo! ¡Pásala!”\n\nA teammate tapped the ball toward him. Tomás trapped it, took two touches, and sent a pass to the side. “¡Ahí!” he shouted.\n\nPeople laughed and clapped hands after a goal. Tomás walked back to the center, breathing hard, and bumped fists as others reached out.\n\nDuring a pause, someone offered a bottle of water. Tomás took it, drank, and handed it back. “Gracias,” he said.\n\nWhen the next play started, he ran again, shoes kicking up small puffs of dust."
+      }
+    },
+    "non_action": "The visitor refuses to participate and ridicules the activity as pointless while others are enjoying it.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Clara Benítez",
+        "story": "Clara stood at the edge of a small soccer court in Villa El Salvador while her cousins tied their laces and called for teams. Her cousin Martín waved. “Clara, entra, faltamos.”\n\nClara crossed her arms and shook her head. “No, qué aburrido,” she said.\n\n“Es un rato nomás,” Martín insisted, bouncing the ball once.\n\nClara laughed and pointed at the dusty ground. “¿Para qué voy a correr acá? Es una pérdida de tiempo. Mejor siéntense a hacer algo útil,” she said, pulling out her phone.\n\nA cousin started dribbling and smiled. “Ya pues, ven.”\n\nClara rolled her eyes. “Mira cómo se emocionan por patear una pelota,” she said, loud enough for the players to hear.\n\nThe game began anyway. Clara stayed on the side, scrolling. When the ball rolled near her feet, she didn’t stop it; it hit the fence and bounced away.\n\nMartín jogged over to retrieve it. “Oye.”\n\nClara shrugged. “Yo no estoy jugando,” she said, stepping back.\n\nAs the teams shouted and laughed, Clara put on her earbuds and turned her screen brightness up."
+      }
+    },
+    "principled_action": "Because the visitor has an injury, the visitor declines playing but stays nearby to cheer, chat, and participate in the social side of the activity.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Santiago Lozano",
+        "story": "Santiago met a group of friends at a park in San Martín de Porres where a casual soccer game was starting. One friend tossed him a pinnie. “Ya, Santi, entra.”\n\nSantiago tapped his right knee brace and shook his head. “Hoy no juego, estoy con lesión,” he said, bending the knee slightly to show it.\n\n“Pucha, ya,” the friend replied.\n\nSantiago stayed close to the sideline instead of leaving. He clapped when a teammate made a good move. “¡Bien ahí!” he shouted.\n\nDuring a break he walked to the cooler and handed out cups. “Agua para los que están secos,” he said.\n\nSomeone asked, “¿Cómo te lesionaste?”\n\n“En la chamba, cargando cosas,” Santiago answered, leaning on the fence. He watched the play and gave small cues. “¡Marca al de gorra!” he called when someone drifted open.\n\nA player came off the court and sat beside him, breathing hard. Santiago offered the cup. “Toma,” he said.\n\nWhen a goal went in, Santiago raised both arms and laughed with the group, then stepped back as the ball was placed at midfield again."
+      }
+    },
+    "surface_action": "The visitor agrees to join the activity, but then dominates the game and ignores teamwork while still claiming they are being friendly.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ricardo “Ricky” Salinas",
+        "story": "Ricky arrived at a small turf field in San Isidro where coworkers were playing a casual game after work. When they asked, “¿Te metes?” he grinned. “Obvio, para compartir con ustedes,” he said, stepping onto the field.\n\nAs soon as the ball rolled, Ricky demanded it. “¡Dámela, dámela!” he shouted, waving his arms. A teammate passed, and Ricky immediately dribbled through two people instead of looking up.\n\n“¡Pasa!” someone yelled from the wing.\n\nRicky ignored the call, kept the ball, and took a shot from far out. It flew over the goal. He laughed. “Casi, casi.”\n\nOn the next play he did the same, pushing ahead even when a teammate was open. When someone tried to intercept, Ricky bumped shoulders and kept going. “Tranquilo, es con ganas,” he said.\n\nA teammate approached during a pause. “Oye, juega en equipo.”\n\nRicky smiled and patted him once on the back. “Bro, estoy acá para que la pasen bien,” he said, then jogged back into the center and called again, “¡A mí!”\n\nWhen he finally scored, he pointed to himself and shouted, “¡Vamos!” as the others walked back to kickoff."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "Before entering a church, the visitor removes their hat and sunglasses to show respect inside the sacred space.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Martín Herrera",
+        "story": "Martín walked with his sister toward a church in Cusco on a bright morning. He wore a cap and dark sunglasses because the sun bounced off the stone streets. At the church entrance, the air turned cooler and the sound of footsteps echoed.\n\nMartín paused at the doorway, took off his cap, and held it in his hand. He slid his sunglasses off as well and folded them carefully, tucking them into his shirt pocket.\n\nHis sister whispered, “Vamos.”\n\nThey stepped inside. The light was dimmer, and candles flickered near a side altar. Martín kept his cap against his thigh and walked slowly along the aisle.\n\nA woman near the front turned a page in a prayer book. Martín moved past her without brushing her shoulder. When they reached a pew, he sat and placed the cap on his lap.\n\nHis sister pointed at a statue. Martín leaned slightly to look, then straightened.\n\nA quiet bell chimed somewhere near the altar, and Martín lowered his gaze for a moment.\n\nAfter a few minutes he stood, still holding the cap, and walked toward the exit with his sunglasses still in his pocket."
+      }
+    },
+    "non_action": "The visitor keeps their hat and sunglasses on in the church and responds rudely when asked to remove them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Gavin Cole",
+        "story": "Gavin entered a church in Cusco wearing a wide-brim hat and mirrored sunglasses. He didn’t slow down at the doorway; he walked straight in, hat shadow cutting across the pews.\n\nAn usher near the entrance approached him and spoke quietly. “Señor, por favor, se puede quitar el sombrero y las gafas.”\n\nGavin turned his head but kept everything on. “No,” he said, voice sharp. “I’m fine like this.”\n\nThe usher tried again, gesturing toward the hat. “Es la norma aquí.”\n\nGavin scoffed and waved a hand. “Whatever. I’m not taking anything off,” he said, stepping past the usher’s shoes and into the aisle.\n\nA few people looked over. Gavin lifted his phone and began scanning the ceiling. The usher followed two steps. “Señor…”\n\nGavin snapped back without lowering his phone. “Stop bothering me,” he said.\n\nHe walked to the front, hat still on, sunglasses reflecting the candles. He stood in the center aisle and tapped his phone screen repeatedly, camera clicking.\n\nWhen a woman tried to pass, Gavin didn’t move; she turned sideways to slip around him.\n\nGavin stayed where he was, hat brim nearly touching a hanging decoration as he raised his phone higher."
+      }
+    },
+    "principled_action": "Because the visitor has a medical eye sensitivity, the visitor removes the hat and keeps sunglasses on only as needed while standing quietly and respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Elena Rivas",
+        "story": "Elena visited a church in Lima’s Centro Histórico with her father. The midday light outside made her eyes water; her doctor had told her to protect them when the glare got intense. At the entrance, she removed her hat immediately and held it against her stomach.\n\nShe hesitated with her sunglasses, then turned to the nearby attendant. “Disculpe,” she said softly, “tengo sensibilidad en los ojos por un tema médico. Me quito el sombrero, pero necesito las gafas un rato.”\n\nThe attendant nodded. “Está bien, señorita.”\n\nElena stepped inside and kept her sunglasses on as she adjusted to the darker interior. She walked slowly, staying near the side aisle, and kept her voice low. Her father whispered, “¿Estás bien?”\n\n“Sí,” Elena whispered back.\n\nShe stopped near a candle stand and stood still for a minute. When her eyes settled, she lifted the sunglasses slightly to test the light, then put them back on for a moment longer.\n\nA small group passed behind her, and Elena shifted to make room without turning her shoulders into anyone.\n\nShe clasped her hat in both hands and remained standing quietly as a hymn began from the front."
+      }
+    },
+    "surface_action": "The visitor removes the hat and sunglasses at the door, but then takes selfies and talks loudly inside as if it were a tourist attraction.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sofía Delgado",
+        "story": "Sofía approached a church in Arequipa with a friend, sun on her face. At the doorway, she paused, removed her hat, and slid her sunglasses into her bag. “Listo,” she said, stepping into the cool interior.\n\nA few steps in, she pulled her phone out and turned the camera toward herself. She lifted her chin, framing the altar behind her. “Mira qué bonito,” she said, voice carrying.\n\nHer friend whispered, “Habla bajito.”\n\nSofía laughed and ignored the whisper. “No, espera, otra,” she said, raising the phone higher. The shutter sound clicked. She took another selfie, then spun slightly to get a different angle.\n\nA man seated nearby turned his head. Sofía kept talking. “Acá se ve todo, o sea, es enorme,” she said, pointing at the ceiling while her phone stayed up.\n\nHer friend tugged her sleeve. “Ya pues.”\n\nSofía stepped into the aisle anyway, still holding the phone at arm’s length. She leaned back for a wide shot and said, “Sonríe,” as she pressed the button again.\n\nA quiet bell rang near the altar, and Sofía’s voice continued over it as she reviewed the photos on her screen."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "In mountain-region celebrations that include pachamanca, the participant joins the communal feast respectfully and shares food in the group spirit of the event.",
+    "non_action": "The participant refuses to engage with the communal meal and makes disparaging remarks about the traditional preparation.",
+    "principled_action": "Because the participant has a medical dietary need, the participant participates socially while choosing safe items and expressing appreciation for the communal tradition.",
+    "surface_action": "The participant joins the pachamanca feast, but treats it like a personal buffet by taking the best pieces first without considering others.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Evelyn Huerta",
+        "story": "Evelyn traveled to a community celebration outside Huancavelica where people gathered near a field and a ring of hot stones. The pachamanca was opened with a burst of steam as someone lifted the earth covering. Potatoes, corn, and meats were pulled out and placed onto large trays.\n\nAn older woman handed Evelyn a plate. “Toma, hijita. Sirve,” she said.\n\nEvelyn stepped forward and waited as the first tray was set down. She took a portion of potatoes and a small piece of meat, then moved to the side so the next person could reach. “Gracias,” she said.\n\nA man beside her held out a tray of corn. Evelyn picked up two pieces and offered the tray to the woman behind her. “Pase, señora,” she said.\n\nThey carried plates back to a long table made of planks. Evelyn sat where there was space and placed her plate down carefully. “Buen provecho,” someone said.\n\n“Buen provecho,” Evelyn replied, then began eating.\n\nWhen she noticed a child hovering near the edge of the table, she slid her extra corn toward him. “Toma,” she said, pointing to the plate.\n\nLater, a neighbor offered her a piece from his plate. “Prueba este,” he said.\n\nEvelyn nodded and accepted it, then broke her own potato in half and placed part onto his plate in exchange. She chewed while listening to the music from a nearby speaker, and she reached for a pitcher of chicha to refill the cups at her end of the table."
+      }
+    },
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Rodrigo Mejía",
+        "story": "Rodrigo attended a celebration in the highlands near Ayacucho where people gathered around the pachamanca pit. When the earth was lifted and steam rose, several relatives clapped and leaned in. Trays of potatoes and meat were set out, and someone handed Rodrigo an empty plate.\n\nRodrigo stepped back instead of moving forward. “No, gracias. Eso ha estado enterrado,” he said, loud enough for the nearby group to hear.\n\nAn aunt looked at him. “Así se hace, hijito,” she replied, holding a serving spoon.\n\nRodrigo shook his head and wrinkled his nose. “Qué asco. Con tierra y piedras… ¿por qué no lo hacen normal en una cocina?” he said.\n\nPeople around him continued serving themselves, but a few heads turned. The man slicing meat paused and looked toward Rodrigo for a second.\n\nRodrigo crossed his arms. “Yo paso. Me voy a comprar algo,” he said, pointing toward the road.\n\nSomeone offered him a potato from a tray. Rodrigo pushed the hand away lightly. “No, no. No quiero,” he said.\n\nA child carrying cups of chicha slowed down near him and then moved around. The music continued, and plates clinked as the communal table began filling.\n\nRodrigo stayed standing at the edge, talking to one friend. “Mira, huele fuerte,” he said, fanning the air with his hand.\n\nHis aunt returned to the table and began placing portions on plates for others without speaking to him again. Rodrigo stepped farther from the pit and pulled out his phone while the line of people continued serving food."
+      }
+    },
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "César Huallpa",
+        "story": "César joined a pachamanca celebration near Huaraz with his relatives, wearing a jacket against the cold. When the pit was opened, steam rose and people began lifting out potatoes, corn, and pieces of meat wrapped in herbs. Someone handed him a plate and said, “Pase, César.”\n\nCésar stepped forward and watched what was being served. He spoke quietly to the uncle holding the tray. “Gracias. Yo no puedo comer cerdo por un tema médico. ¿Hay pollo o solo papitas?”\n\n“Hay pollo también,” his uncle said, pointing to a section of the tray.\n\n“Perfecto,” César replied.\n\nHe served himself potatoes, corn, and a piece of chicken, then moved aside so the next person could reach. “Pase, por favor,” he said, holding the tray for an older woman.\n\nBack at the communal table, César sat with his cousins and said, “Gracias por invitarme. Huele buenísimo.”\n\nA cousin offered him a piece of pork. César shook his head gently. “Gracias, no puedo, pero disfruta,” he said.\n\nHe took a bite of potato and sipped chicha from a plastic cup. When a child at the end of the table searched for a seat, César shifted his chair inward to make space. “Siéntate acá,” he said.\n\nAs people exchanged food, César handed his extra corn to a neighbor and accepted a spoonful of salsa in return. He wiped his hands on a napkin and leaned in to listen when an aunt began telling a story about the last festival."
+      }
+    },
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Bruno Castañeda",
+        "story": "Bruno arrived at a pachamanca gathering outside Tarma with a group of friends. When the pit was opened, the crowd pressed closer, and trays of steaming meat and potatoes were carried to a long table. Someone handed Bruno a plate, and he stepped straight to the first tray.\n\nWithout waiting, he reached in with serving tongs and grabbed the largest piece of meat he saw, then another, stacking them on his plate. He leaned over the tray again and picked out the biggest potatoes, leaving smaller ones behind.\n\nA woman beside him held her plate out and paused. “Oye, pasa un poco,” she said.\n\nBruno didn’t look at her; he focused on the tray and took a piece of corn from the center. “Ya, ya,” he said, shifting his plate to keep the meat from sliding.\n\nThe server tried to rotate the tray. “Dejen para todos,” he said.\n\nBruno stepped away quickly and walked to the table, sitting down before others had reached it. He began eating immediately, biting into meat and chewing fast.\n\nA cousin approached carrying only potatoes and looked at Bruno’s plate. Bruno kept his elbows close around his food.\n\nSomeone asked from behind, “¿Dónde quedó el pollo?”\n\nBruno swallowed and pointed vaguely toward the serving area without turning. “Por allá,” he said, taking another bite.\n\nA child reached toward Bruno’s corn, and Bruno pulled his plate a few centimeters closer to himself. The music played on while more people arrived at the table and searched for remaining pieces near the trays."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "Inside a church, the visitor behaves modestly and attentively by staying quiet, keeping movements restrained, and showing visible respect for the setting.",
+    "non_action": "Inside the church, the visitor speaks loudly, interrupts others, and treats the space as if it were just a public hallway.",
+    "principled_action": "Because the visitor must accompany a small child, the visitor keeps the child calm and steps outside briefly if needed while maintaining respectful conduct.",
+    "surface_action": "The visitor stays quiet and still during prayers, but then criticizes the service in a mocking tone immediately afterward in front of congregants.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rafael Zegarra",
+        "story": "Rafael stepped into a church in the historic center of Lima during the late morning, when light fell through high windows and the air smelled faintly of wax. People sat in wooden pews facing the altar, and a few were kneeling with hands clasped.\n\nRafael lowered his voice automatically and stopped near the entrance, letting a couple pass before he moved. He walked down the side aisle with small steps, keeping his hands close to his body so his backpack wouldn’t bump anyone.\n\nHe slid into an empty spot at the end of a pew and sat down without scraping the wood. When a woman nearby stood to light a candle, Rafael shifted his knees inward to give her space.\n\nA soft prayer began near the front. Rafael kept his gaze toward the altar and stayed still, blinking and breathing quietly. His phone vibrated once in his pocket; he didn’t take it out.\n\nA child in the next pew turned around and looked at him. Rafael met the child’s eyes briefly, then looked forward again.\n\nWhen the congregation rose, Rafael rose as well, moving at the same pace as the people around him. He held the pew back lightly for balance and kept his elbows close.\n\nThe priest’s voice echoed through the nave, and Rafael remained quiet, hands resting on his thighs.\n\nWhen the song ended, Rafael waited until the aisle cleared, then walked toward the exit with measured steps and pushed the heavy door open slowly so it wouldn’t slam."
+      }
+    },
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tatiana Llerena",
+        "story": "Tatiana walked into a church in Cusco with her friend while a service was underway. The room was quiet except for the priest’s voice and the occasional shuffle of feet. As soon as she crossed the doorway, Tatiana spoke at full volume. “Oye, mira esa pintura, qué grande,” she said, pointing up.\n\nHer friend whispered, “Shh.”\n\nTatiana kept talking. “¿Dónde nos sentamos? Da igual, avanzamos,” she said, stepping into the central aisle.\n\nA man kneeling near the aisle turned his head. Tatiana walked past him quickly, her bag swinging and brushing the edge of a pew.\n\nShe stopped near the middle and leaned over a seated woman. “Disculpe, ¿este lugar está ocupado?” she asked loudly.\n\nThe woman looked forward and didn’t answer. Tatiana shrugged and slid in anyway, pushing the pew’s kneeler down with a clack.\n\nThe priest paused briefly, then continued. Tatiana whispered to her friend but still loud enough to carry. “No entiendo nada. ¿Cuánto falta?”\n\nHer friend shook her head and stared ahead. Tatiana pulled her phone out and the screen lit up. She tapped it twice and said, “Voy a tomar una foto,” raising it.\n\nA nearby congregant reached toward her. “Señorita, no,” he said.\n\nTatiana lowered the phone halfway and replied, “Ay, solo un ratito,” then leaned out into the aisle to get a better view.\n\nWhen the congregation began praying, Tatiana stood late, bumping the pew, and muttered, “Qué complicado,” while others remained still."
+      }
+    },
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Silvia Benavides",
+        "story": "Silvia entered a church in Trujillo holding her nephew Mateo’s hand. The space was cool and quiet, with people seated and a hymn beginning near the front. Silvia bent slightly toward Mateo. “Despacio, mi amor, sin correr,” she said in a low voice.\n\nMateo nodded and tiptoed for a few steps. Silvia guided him into a pew near the side so they wouldn’t block the aisle. She sat and placed Mateo beside her, keeping her hand on his shoulder.\n\nAs the priest spoke, Mateo began to fidget and swing his legs. Silvia brought a finger to her lips. “Shh,” she whispered, then handed him a small tissue from her pocket to keep his hands busy.\n\nMateo stayed quiet for a moment, then he whispered, “Tengo hambre.”\n\nSilvia leaned close. “Después, ahorita escuchamos,” she murmured.\n\nA few minutes later, Mateo’s voice rose. “Mira, mira,” he said, pointing.\n\nSilvia straightened, then stood carefully. “Ya volvemos,” she whispered to the woman at the end of the pew, and she guided Mateo toward the side door.\n\nOutside in the courtyard, Silvia crouched to Mateo’s level. “Respira. Caminamos un ratito,” she said, keeping her voice gentle.\n\nMateo calmed down and squeezed her hand. After a brief pause, Silvia led him back inside, walking slowly to the same pew.\n\nShe sat again, smoothed Mateo’s hair once, and both faced the altar while the hymn continued."
+      }
+    },
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Óscar Valdivia",
+        "story": "Óscar attended a Sunday service in a church in Arequipa with his sister. During prayers, he stayed still in the pew, hands folded, eyes forward. When people knelt, he knelt. When they stood, he stood, moving quietly and keeping his phone in his pocket.\n\nAt the end, the congregation began to file out. Óscar waited until his row moved, then walked down the aisle with his sister. Near the entrance, a group of older women stood talking softly while holding their purses.\n\nÓscar stepped into the vestibule and immediately started speaking in a louder voice. “Qué teatro, ¿no? Todo bien armado,” he said, smirking as he looked back toward the altar.\n\nHis sister tugged his sleeve. “Óscar,” she said under her breath.\n\nHe kept going. “Y el canto, ay, parecía concurso,” he said, glancing at the choir loft.\n\nA man standing nearby turned his head toward them. One of the women stopped mid-sentence and looked at Óscar.\n\nÓscar laughed lightly and raised his eyebrows at his sister. “¿Qué? Estoy diciendo la verdad,” he said.\n\nHis sister took a step toward the door. “Ya, vamos,” she said.\n\nÓscar followed, still talking. “Encima el sermón larguísimo,” he said, waving his hand as they passed a couple lingering near the entrance.\n\nOutside, he pulled his phone out and opened his messages while the people behind them continued exiting in a slow stream."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "On public transport, the younger person offers their seat to an older adult to show respect to elders.",
+    "non_action": "The younger person refuses to offer their seat to an elder and responds dismissively when the elder is standing nearby.",
+    "principled_action": "Because the younger person has a mobility issue, the younger person cannot stand, but the younger person helps by calling attention to another available seat or asking others politely.",
+    "surface_action": "The younger person offers the seat outwardly, but does it in a way that embarrasses the elder by making a loud show of it.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kevin Ccahuana",
+        "story": "Kevin boarded a crowded bus in Lima during the afternoon rush and found a seat near the window. He held his backpack on his lap as the bus lurched forward, stopping and starting along Avenida Arequipa.\n\nTwo stops later, an older woman climbed on slowly, gripping the handrail with one hand and carrying a small shopping bag in the other. She stood in the aisle near Kevin’s row, steadying herself as the bus swayed.\n\nKevin looked up, unhooked his backpack from his knees, and stood. “Señora, siéntese acá,” he said, moving into the aisle and keeping one hand on the seatback so he wouldn’t bump her.\n\nThe woman turned her head toward him. “Ay, gracias, hijito,” she said.\n\nKevin stepped back to give her room and held the rail above. She sat down carefully and placed her bag on her lap.\n\nA man behind Kevin shifted to let him stand without blocking the aisle. Kevin adjusted his footing and faced forward, keeping his elbow close as the bus turned.\n\nThe older woman pulled her shawl tighter and looked out the window. Kevin glanced toward the front and then toward the next stop announcement on the screen.\n\nWhen the bus braked, Kevin reached his hand out to the seatback to steady himself and kept his backpack strap looped around his wrist.\n\nThe woman opened her bag and took out a small bottle of water, twisting the cap as the bus rolled on."
+      }
+    },
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Matías Rojas",
+        "story": "Matías sat on a packed combi in Lima with his legs stretched slightly into the aisle. The vehicle jolted along as people squeezed in at each stop. An older man climbed aboard, holding the pole with both hands and standing near Matías’s seat.\n\nThe older man shifted his weight as the combi accelerated, and his shoulder brushed the seatback. Matías didn’t move; he kept his headphones on and stared at his phone.\n\nAfter a moment, the older man said, “Joven, ¿me das el asiento?”\n\nMatías lifted one earcup halfway. “Estoy sentado,” he replied, then put the earcup back on.\n\nThe older man tightened his grip on the pole. “Me cuesta estar parado,” he said.\n\nMatías shrugged without looking up. “Bueno, búsquese otro,” he said, scrolling.\n\nA woman nearby glanced between them. Someone farther back muttered, “Oye.”\n\nThe combi hit a bump, and the older man stumbled slightly. He steadied himself by grabbing the seatback near Matías’s shoulder.\n\nMatías pulled his shoulder away and said, “Cuidado,” in a flat tone. He kept his legs where they were, taking up space.\n\nThe older man remained standing, breathing through his nose, and turned his face toward the window. The driver shouted, “¡Avancen al fondo!” as more passengers pressed in.\n\nMatías adjusted his phone brightness and continued watching a video while the older man swayed with the movement of the combi."
+      }
+    },
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Milagros Cárdenas",
+        "story": "Milagros sat on the Metropolitano in Lima with one knee wrapped in a light brace under her jeans. She held the pole beside her seat and kept her feet planted carefully. At the next station, an older woman entered and stood near Milagros, holding a shopping bag and the overhead strap.\n\nMilagros looked up and shifted her body slightly to make room in the aisle. She spoke clearly but politely to the people around her. “Disculpen, ¿hay algún asiento libre para la señora?”\n\nA man across the aisle glanced down the row. “Creo que hay uno allá adelante,” he said.\n\nMilagros leaned forward and pointed with an open hand. “Señora, hay uno por ahí, al lado del vidrio,” she said.\n\nThe older woman looked uncertain. “¿Dónde?” she asked.\n\nMilagros raised her hand to catch another passenger’s attention. “Amigo, ¿le puede dar el asiento a la señora, por favor?” she asked, nodding toward a younger man sitting near the door.\n\nThe young man looked up, then stood. “Señora, pase,” he said.\n\nMilagros kept her seat, holding the pole tightly as the train moved. The older woman stepped carefully into the open spot and sat down. “Gracias,” she said toward both of them.\n\nMilagros nodded. “De nada,” she replied.\n\nAs the next announcement sounded, Milagros adjusted the brace under her knee with one hand, then returned both hands to the pole while the car swayed gently."
+      }
+    },
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Santiago Beltrán",
+        "story": "Santiago sat near the front of a bus in Lima, scrolling on his phone as the vehicle crawled through traffic. At the next stop, an older man stepped on with a cane and stood in the aisle, holding the rail.\n\nSantiago looked up and stood abruptly. “¡Señor! ¡Señor, tome mi asiento!” he called out loud, raising his arm as if signaling across the bus.\n\nSeveral passengers turned their heads. The older man blinked and tightened his grip on the cane. “Ya, ya,” he said.\n\nSantiago continued, still loud. “¡De verdad, siéntese! ¡Hay que respetar a los mayores!” he said, patting the seat with his palm.\n\nThe older man moved closer, eyes on the floor, and lowered himself into the seat. A woman nearby stared at Santiago for a moment, then looked away.\n\nSantiago remained standing right beside him, watching to make sure the man sat. “¿Está cómodo? ¿Quiere que le acomode el bastón?” Santiago asked.\n\nThe older man held the cane close. “No, gracias,” he said.\n\nSantiago nodded and turned toward the aisle, still speaking at volume. “Listo, ya está sentado,” he said, as if reporting to the bus.\n\nA passenger behind him sighed and shifted to pass. Santiago moved his backpack to his chest and grabbed the overhead rail while the bus lurched forward.\n\nThe older man looked out the window and adjusted his hat brim with two fingers as the bus continued down the avenue."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When choosing a gift, the giver avoids sharp objects like knives or scissors to prevent suggesting a cut in the relationship.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Paola Santillán",
+        "story": "Paola walked through a home goods store in Lima’s Centro Comercial Arenales, holding her phone with a list for her friend’s housewarming. She stopped at a display of kitchen knives, then moved on without picking anything up. At the next aisle she chose a wooden cutting board with a simple grain pattern and a jar of ají amarillo paste.\n\nAt the register, the cashier asked if she wanted scissors that were on promotion. Paola shook her head. “No, just these.”\n\nThat evening in Jesús María, Paola arrived at her friend Lidia’s new apartment. Lidia’s table still had moving boxes underneath. Paola handed over a wrapped parcel and said, “For your kitchen.”\n\nLidia opened it and ran her fingers along the board’s edge. “This is perfect,” she said, setting it on the counter.\n\nPaola pointed at the jar. “And this, so you can make something quick.” In the background, someone turned up the music and a kettle clicked off.\n\nPaola helped Lidia place the board upright next to the stove."
+      }
+    },
+    "non_action": "The giver deliberately gifts a knife or scissors and jokes about \"cutting ties\" while handing it over.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sergio Cárdenas",
+        "story": "Sergio arrived at a small birthday gathering in San Miguel carrying a long box under his arm. He waited until everyone was around the table with the cake before he called out, “Gift time.” He handed the box to his friend Ana with a grin.\n\n“Open it,” he said.\n\nAna peeled back the tape. Inside was a shiny kitchen knife set. A couple of people exchanged looks. Ana’s sister asked, “A knife?”\n\nSergio laughed and tapped the box. “Yeah, so you can remember me every time you cook.” He leaned closer to Ana and added, loud enough for the group, “Also, if you ever want to stop being friends, you can use it for cutting ties.”\n\nAna’s hands stopped moving. Her friend Marisol cleared her throat and said, “Maybe we should cut the cake.”\n\nSergio kept smiling. “What? It’s a joke. Don’t be dramatic.” He mimed slicing the air with his hand. “Cut, cut, listo.”\n\nAna closed the box lid and set it on the chair beside her."
+      }
+    },
+    "principled_action": "Because the recipient requested a kitchen tool, the giver chooses a non-sharp alternative or includes a respectful explanation and a symbolic gesture to preserve goodwill.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Karina Huamán",
+        "story": "Karina’s brother had asked for “something for the kitchen” for his new place in Piura. Karina stood in front of a display of chef knives, then checked her message thread again: “Anything useful.” She walked past the blades and chose a heavy mortar and pestle and a silicone spatula set.\n\nAt home she wrote a short note on a card: “You asked for a kitchen tool. I avoided sharp things; use this for your aderezo.” She slipped a one-sol coin into a small envelope.\n\nAt the family gathering, her brother Julio opened the wrapped box and lifted the stone mortar with both hands. “This is strong,” he said, setting it down with a thud.\n\nKarina handed him the envelope. “Here,” she said. “Keep the coin. It’s just a little gesture with the gift.”\n\nJulio opened it and nodded, then turned the spatulas over in his hands. Their aunt leaned in to look, and someone in the patio called that lunch was ready.\n\nKarina carried the mortar to the kitchen counter for him."
+      }
+    },
+    "surface_action": "The giver avoids sharp gifts, but then mentions repeatedly that the recipient would have gotten something better if they were closer friends.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Iván Delgado",
+        "story": "Iván met his colleague Brenda at a café in Magdalena to give her a housewarming present. He placed a small wrapped box on the table and said, “I didn’t bring anything sharp, you know, no knives.”\n\nBrenda smiled and started untying the ribbon. Inside was a set of scented candles.\n\nIván watched her reaction and added, “They’re fine. If we were closer, I would’ve gotten you something really good, like the fancy espresso machine I saw.”\n\nBrenda turned one candle over to read the label. “These smell nice,” she said.\n\nIván leaned back. “Yeah, I picked the basic set. The premium one was expensive, and, well, we’re just coworkers.” He laughed once and took a sip of his coffee. “If you invite me more often, next time maybe I’ll upgrade.”\n\nBrenda set the candles back in the box carefully. The waiter passed by and asked if they wanted water. Iván waved him off and continued, “Seriously, the better gifts are for real friends.”\n\nBrenda slid the wrapped box into her tote bag."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "In social settings, the visitor avoids jokes or criticism about people’s lifestyles to keep interactions respectful.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Héctor Mayta",
+        "story": "Héctor visited friends in Lima for a small rooftop gathering in San Isidro. People stood in groups with plastic cups and small plates of tequeños. A couple talked about waking up early to run by the malecón, and another person mentioned working late and sleeping in on weekends.\n\nHéctor listened and nodded, asking, “Where do you run?” and “Which part of the malecón?” When someone joked about being a night owl, Héctor smiled but didn’t add anything about it. He shifted the conversation by pointing at the skyline and saying, “The view from up here is different at night.”\n\nA friend asked, “Do you cook at home or order?” Héctor answered, “Sometimes I cook, sometimes I order,” and asked what delivery places people used nearby.\n\nWhen a guest mentioned being vegetarian, Héctor said, “What do you usually order here?” and let the guest name a few dishes. Someone else talked about going out dancing every Friday; Héctor asked which venue had good music.\n\nHéctor refilled the ice bucket and set it back near the cooler."
+      }
+    },
+    "non_action": "The visitor makes jokes about people’s lifestyles and continues even after noticing discomfort.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Gonzalo Herrera",
+        "story": "Gonzalo joined a birthday pre-game in a small apartment in Barranco. A guest mentioned he didn’t drink alcohol, holding a bottle of soda instead. Gonzalo laughed and said, “So you’re one of those. What, you go to bed at nine too?”\n\nThe guest smiled briefly and looked away. Another person said she worked from home and liked quiet weekends. Gonzalo pointed at her and said, “Ah, a hermit lifestyle. Must be nice to avoid real life.”\n\nSomeone’s laugh died quickly. The host, Julia, said, “Gonzalo, relax.”\n\nGonzalo kept going. “No, I’m serious,” he said, wagging a finger. “People who don’t drink are boring. And people who stay home all the time—what’s the point?” He leaned toward the soda-drinker and added, “You probably judge us too.”\n\nThe guest’s shoulders tightened. Julia tried to change the subject by asking about music. Gonzalo said, “Sure, put on something for normal people,” and chuckled at his own line.\n\nA friend stepped between them to pass a plate of snacks, and the group formed a smaller circle away from Gonzalo.\n\nGonzalo took a long sip from his cup and stared at the TV."
+      }
+    },
+    "principled_action": "Because a joke is misunderstood, the visitor clarifies their intent, apologizes, and shifts to a neutral topic to restore respect.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nadia Romero",
+        "story": "Nadia visited a coworker’s get-together in Lima and sat near the balcony while people passed around popcorn and soda. Someone mentioned they lived with their parents to save money. Nadia laughed and said, “Ah, you’re still a kid at home.”\n\nThe person’s face tightened. A pause settled over the group. Nadia heard the change in the air and lifted her hands slightly.\n\n“Sorry,” she said immediately. “I meant it as a quick joke about my own situation—I lived with my parents for years too. I didn’t mean it as a criticism.” She looked directly at the person and added, “Perdón. That came out wrong.”\n\nThe person nodded once and looked down at their cup. Nadia shifted her body toward the snack table and said, “By the way, what movie are we watching later? I saw the poster on the wall.”\n\nThe host answered and began listing options on a streaming app. Nadia leaned in and said, “That one sounds good,” then asked, “Do you want more popcorn?” She stood and refilled the bowl from the kitchen.\n\nShe returned and set the bowl in the center of the table."
+      }
+    },
+    "surface_action": "The visitor avoids direct jokes, but uses subtle sarcasm that still puts down others’ lifestyle choices.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Brenda Villacorta",
+        "story": "Brenda joined a brunch in Miraflores where friends talked about weekend routines over tamales and coffee. One person said, “I’m training for a marathon,” and another said, “I like sleeping in and reading.”\n\nBrenda smiled and said, “Wow, we have the whole spectrum,” then added softly, “Some people really like to make life complicated with schedules.”\n\nThe runner blinked. Brenda stirred her coffee and continued, “No, no jokes,” she said, lifting her spoon. “I’m just amazed how some lifestyles are… intense. Like, waking up before dawn on purpose.”\n\nThe reader laughed once and said, “I could never do that.” Brenda looked at the reader and said, “At least you’re not pretending your hobby is a full-time identity.”\n\nA couple of heads turned. The runner reached for the jam without speaking. Brenda kept her voice light. “It’s fine, do what you want,” she said, “as long as you don’t start lecturing us.”\n\nThe host offered more bread. Brenda took a piece and said, “Thank you,” then glanced at the runner’s watch and said, “Is it time for your heroic training yet?”\n\nShe bit into the bread and wiped crumbs from her fingers."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "In early business interactions, the professional avoids politically sensitive discussions and focuses on rapport and work-related topics first.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Mariana Paredes",
+        "story": "Mariana arrived ten minutes early to a meeting room in a coworking space in San Isidro, carrying a laptop and a folder of printed timelines. The visiting supplier from abroad was already there, tapping at a tablet. Two colleagues from her team sat with coffees and notebooks.\n\nAfter greetings, the supplier started with small talk about Lima traffic and asked where Mariana liked to eat near the office. “Hay un menú buenazo en la esquina,” she said, naming a nearby place and laughing when her colleague mimed a large plate.\n\nWhen someone mentioned last night’s TV debate in passing, Mariana kept her eyes on the agenda sheet. “A propósito,” she said, sliding a printed schedule across the table, “para el piloto, necesitamos confirmar fechas de entrega y el alcance de soporte.”\n\nThe supplier nodded and leaned in. “Sure. What’s your preferred rollout window?”\n\nMariana opened her laptop and shared a Gantt chart on the screen. “Aquí están los hitos,” she said. She asked each person to confirm responsibilities and wrote notes as they responded.\n\nAt the end, she exchanged phone numbers, suggested a follow-up call, and walked everyone to the elevator while talking about time zones and next steps."
+      }
+    },
+    "non_action": "In a first meeting, the professional pushes polarizing political opinions and pressures others to agree.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tomás Aguilar",
+        "story": "Tomás booked a small conference room in a downtown Lima office tower and placed a stack of business cards on the table. The client team filed in with a project manager and two analysts, opening laptops and setting phones face down.\n\nBefore anyone could share the deck, Tomás leaned back in his chair. “Mira,” he said, “antes de hablar de esto, quiero saber si ustedes están de acuerdo con lo que está pasando en política.” He raised his eyebrows and pointed at the TV muted on the wall.\n\nThe project manager blinked. “Eh… venimos por el alcance del contrato.”\n\nTomás continued anyway. “No, en serio. Hay que decir las cosas claras. Si no piensan igual, es difícil trabajar juntos,” he said, tapping the table with two fingers.\n\nOne analyst exchanged a quick look with the other and started typing, eyes down.\n\nTomás leaned forward. “Díganme: ¿están conmigo o no?”\n\nThe project manager shut his laptop halfway. “Preferimos mantener esto en lo profesional,” he said.\n\nTomás waved a hand. “Entonces no sé si vale la pena,” he replied, pushing the printed proposal toward them without opening his own slides.\n\nA silence held for a moment, and the client team gathered their things and asked the receptionist for the exit."
+      }
+    },
+    "principled_action": "Because a sensitive topic is raised by others, the professional acknowledges it briefly and then redirects to the shared project goals to keep the meeting constructive.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Diego Salazar",
+        "story": "Diego met his counterpart at a small office in Trujillo, where a fan hummed in the corner and a plate of galletas sat between water bottles. They had just opened a spreadsheet when one teammate mentioned a recent political headline and started describing it with quick hand gestures.\n\nDiego nodded once. “Sí, lo vi,” he said, keeping his tone flat. He let the person finish the sentence, then he turned the laptop slightly so everyone could see the columns.\n\n“Para no perdernos,” Diego added, “volvamos al plan del proyecto. Hoy necesitamos cerrar el presupuesto y el cronograma.” He pointed at the row labeled “Entrega 1” and asked, “¿Quién confirma la disponibilidad del equipo para marzo?”\n\nThe teammate exhaled and reached for the mouse. “Ya, lo reviso,” she said, clicking into a calendar tab.\n\nDiego asked the client contact, “¿Cuáles son sus criterios de aceptación?”\n\nThe contact flipped through a printed brief and read two bullet points aloud.\n\nDiego typed them into the notes column and said, “Perfecto. Con esto armamos el acta y se las mando hoy.” He saved the file, attached it to an email draft, and slid his chair back to offer another round of coffee."
+      }
+    },
+    "surface_action": "The professional avoids politics in the meeting, but later sends provocative political messages to colleagues in private channels.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Valeria Núñez",
+        "story": "Valeria hosted an introductory call from her office in La Molina, with the client’s video window floating beside her notes. She greeted everyone, asked about their offices, and moved straight into the project overview.\n\nWhen a client mentioned a political issue in passing, Valeria lifted her hand slightly. “Entiendo,” she said, “pero para esta reunión, mejor nos centramos en la implementación y los riesgos técnicos.” She shared her screen and walked through timelines and dependencies, asking each attendee to confirm deliverables.\n\nAfter the call ended, Valeria closed the meeting link and opened a private team chat on her phone. She typed quickly: “¿Vieron lo de hoy? Es una vergüenza, la gente que apoya eso no piensa.” She added a meme and sent it.\n\nA colleague replied with a laughing emoji, and another wrote, “Uf, sí.”\n\nValeria kept going: “Deberíamos decirlo sin miedo. Si alguien no está de acuerdo, que se aguante.” She hit send again.\n\nA notification popped up from the client’s project manager with the subject line “Next steps,” and Valeria switched apps, attached the meeting minutes, and pressed “Enviar” on the email."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When referring to indigenous or mestizo Peruvians, the speaker avoids using the term \"cholo\" and chooses respectful descriptors instead.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rosa Delgado",
+        "story": "Rosa met her visiting friend at a café in Puno, where the window fogged slightly from the cold outside. They were planning a weekend trip and scrolling through photos of markets and lakeside villages.\n\nHer friend pointed at a picture of two women in polleras selling fruit. “¿Cómo se llama esa gente?” he asked.\n\nRosa paused and said, “Son señoras aimaras,” using her finger to zoom in on the woven hats. “Y en la ciudad vas a ver mucha gente mestiza también.”\n\nThey walked later to the plaza, where vendors offered gloves and small bags of cancha. Her friend gestured toward a man playing a charango. “He looks like—” he began.\n\nRosa stepped in calmly. “Es un músico local,” she said. “Y también hay comunidades quechuas por aquí, depende del lugar.”\n\nAt a stall, the vendor asked, “¿Qué buscan?”\n\nRosa answered, “Una bufanda para mi amigo.” She pointed to a gray one and asked the price.\n\nHer friend nodded and tried the scarf on in a mirror.\n\nRosa said, “Te queda bien,” and paid while the vendor folded the scarf into a paper bag.\n\nAs they left, her friend asked again about words he had heard, and Rosa replied with, “Mejor decir ‘personas’ o el nombre de la comunidad si lo sabes,” while they crossed the street toward the waterfront."
+      }
+    },
+    "non_action": "The speaker uses \"cholo\" as a label and laughs about it even after being told it is offensive.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Brandon Shaw",
+        "story": "Brandon stood with a small tour group at a viewpoint above the Sacred Valley, where vendors spread blankets with bracelets and knit hats. He pointed at a vendor speaking Quechua to a customer and said loudly, “Look at that cholo over there,” then laughed and nudged his friend.\n\nA Peruvian guide turned his head. “Señor, esa palabra es ofensiva,” the guide said, his voice measured.\n\nBrandon waved a hand. “Relax, I’m just saying it like people say it here,” he replied, still smiling. He repeated it again, “cholo,” as if testing the sound.\n\nThe guide said, “No la use, por favor.”\n\nBrandon grinned wider. “Okay, okay,” he said, then pointed at another vendor and added, “That cholo is selling cheap stuff,” laughing again.\n\nA couple in the group went quiet. One woman looked down at the ground and adjusted her backpack straps.\n\nThe vendor Brandon had pointed at stopped arranging bracelets and stared for a moment, then turned away to speak to someone else.\n\nThe guide stepped forward and said, “Vamos, seguimos,” raising his flag to move the group along the path.\n\nBrandon lingered, took a photo, and muttered the word again under his breath while scrolling through the picture on his phone."
+      }
+    },
+    "principled_action": "Because the speaker hears the term and is unsure, the speaker asks privately and respectfully about appropriate wording and then adjusts their language.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Elena Rossi",
+        "story": "Elena attended a language exchange in a bookstore café in Lima, where people sat in pairs practicing Spanish and English. During a break, she heard a man at another table use the word “cholo” while telling a story, and she noticed a quick pause from someone listening.\n\nWhen the group dispersed to refill water, Elena approached her partner, Camila, near the counter. “Oye, pregunta,” Elena said softly. “Escuché una palabra… ‘cholo’. No estoy segura si es apropiada. ¿Cómo se usa aquí?”\n\nCamila lowered her voice. “Depende, pero muchas veces es ofensiva. Mejor no decirla.”\n\n“Gracias,” Elena replied. She nodded and stepped back as the barista called out an order.\n\nLater, at the table, Elena described a market she had visited. She said, “Había muchas personas vendiendo textiles, y algunas mujeres de comunidades indígenas con ropa tradicional.”\n\nA man across from her asked, “¿En dónde?”\n\n“El mercado de Surquillo,” Elena said, and she pointed to a photo on her phone.\n\nCamila glanced at the photo and said, “Bonito.”\n\nElena continued, “También conocí a una señora que hablaba quechua con su hija,” and she listened as others asked questions about the food stalls and the bus route."
+      }
+    },
+    "surface_action": "The speaker avoids saying \"cholo\" aloud, but uses coded pejorative phrases that communicate the same disrespect.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Samantha Cole",
+        "story": "Samantha waited in line at a bakery in Cusco with two other travelers, watching trays of pan chuta come out of the oven. A traveler in front mentioned a word he had heard in the market, and Samantha said quickly, “Oh, don’t say that word,” shaking her head.\n\nWhen they stepped outside with their bags, Samantha leaned toward her friends and pointed across the street at a group of locals in traditional clothing. “I’m not going to use that term,” she said, “but you know the type—those really ‘rustic’ people.” She made air quotes and smirked.\n\nOne friend frowned slightly. “They’re just locals,” he said.\n\nSamantha kept talking. “Yeah, sure, but you can tell who’s from the countryside,” she added, lowering her voice as they walked. “They don’t really get how things work in the city.”\n\nA woman passing by brushed close and adjusted her shawl without looking at them.\n\nAt the next corner, Samantha stopped at an ATM and said, “Let’s be careful with cash around here, you never know.” She glanced again at the same group and said, “I’m just being practical.”\n\nHer friend stepped forward. “I’m going to the plaza,” he said, and started walking ahead.\n\nSamantha tucked her money into her wallet, zipped her bag, and followed, still murmuring about “those kinds of people” as the bakery door closed behind them."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "In regions where major celebrations center on a communal feast like pachamanca, the participant joins the public shared meal respectfully and follows local hosting cues.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Camilo Ríos",
+        "story": "Camilo arrived in a highland village near Huancayo where a festival had drawn families to an open field. He followed the sound of music to a long setup of benches and a steaming mound of earth covered with cloths and stones. People moved in a practiced rhythm, carrying plates and passing cups.\n\nA host in a wide-brimmed hat waved Camilo closer. “Ven, siéntate aquí,” she said, patting a spot on a bench.\n\nCamilo sat where she indicated and waited as others formed a line. When a man began uncovering the pachamanca, Camilo watched and kept his hands in his lap until the host handed him a plate.\n\n“Primero esto,” she said, placing potatoes and a piece of meat on his plate, then pointing to a bowl of salsa.\n\n“Gracias,” Camilo replied. He followed her cue and added a small spoonful of sauce. A neighbor offered a cup. “Chicha?”\n\n“Sí, gracias,” Camilo said, taking it with both hands.\n\nAs people started eating, Camilo waited for the host to sit before taking his first bite. He chewed, nodded when someone asked if it was hot, and passed the bowl of corn to the next person when the host slid it toward him.\n\nWhen a woman stood to collect empty cups, Camilo gathered the cups near him and handed them over, then wiped his hands with the napkin he’d been given."
+      }
+    },
+    "non_action": "The participant refuses the communal feast and criticizes the celebration as backward in front of attendees.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Megan Doyle",
+        "story": "Megan arrived at a rural celebration outside Ayacucho with a friend who had invited her. The field was crowded, and smoke rose from a pit where people were preparing pachamanca. A host approached with a plate and said, “Pasa, prueba.”\n\nMegan stepped back. “No, I’m not eating that,” she said loudly in English, wrinkling her nose. She pointed at the pit. “Cooking in the ground? That’s so backward.”\n\nThe host froze with the plate half-extended. Nearby, a few people turned their heads.\n\nMegan’s friend murmured, “Oye, tranquila.”\n\nMegan continued, speaking louder. “I can’t believe people still do this. It’s unsanitary,” she said, waving her hand as if fanning away the smoke.\n\nA man carrying a tray paused and stared at her. The host lowered the plate and said, “Ya,” then walked away.\n\nMusic played on, but the people closest to Megan shifted their bodies away and resumed talking among themselves.\n\nMegan crossed her arms. “Let’s just go find a restaurant,” she said to her friend.\n\nHer friend looked toward the benches where others were sitting and eating. “Estoy aquí por mi familia,” he said quietly.\n\nMegan rolled her eyes and stepped toward the road, pulling her friend’s sleeve. A child ran past with a cup, and Megan moved aside sharply to avoid contact, then walked away from the pit while the serving line continued behind her."
+      }
+    },
+    "principled_action": "Because the participant cannot eat the main foods for health reasons, the participant still attends, contributes in another way, and expresses appreciation for the communal tradition.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Luis Arce",
+        "story": "Luis traveled with a colleague to a celebration near Huánuco, where families had gathered for a pachamanca. Before the food was served, people carried chairs into place, and someone asked Luis to help move a cooler.\n\n“Claro,” Luis said, gripping the handle and walking it to the shade. He set it down beside a table where cups and napkins were stacked.\n\nWhen the serving began, a host offered him a plate. Luis raised his palm gently. “Muchas gracias,” he said, “pero no puedo comer carne ni papas hoy por salud.” He touched his stomach lightly and kept his voice low.\n\nThe host nodded. “¿Quieres ensalada?”\n\n“Sí, si hay,” Luis replied.\n\nHe walked to the side table and helped arrange cups, then poured chicha into three cups and handed them to people sitting nearby. “Toma,” he said, passing one to an older man.\n\nAs others ate, Luis sat with them and said to the host, “Se ve hermoso cómo todos comparten. Gracias por invitarme.”\n\nThe host placed a small bowl of salad and corn in front of him. Luis nodded and ate slowly while listening to a story about last year’s celebration.\n\nWhen the music started again, Luis stood and clapped along for a moment, then picked up a bag of trash from under the bench and carried it toward the collection point the host had indicated."
+      }
+    },
+    "surface_action": "The participant attends the pachamanca-focused celebration, but treats it as a photo opportunity and ignores the communal sharing spirit.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Olivia Kent",
+        "story": "Olivia arrived at a festival in a village near Cajamarca with her phone already in her hand. The pachamanca pit was the center of attention, and people crowded around as stones were lifted and steam rose into the air.\n\nOlivia pushed forward, held her phone above her head, and said, “Wait, don’t cover it yet,” in English, angling for a better shot. A host gestured for people to form a line, but Olivia stepped past the line to film the food being uncovered.\n\n“Wow, this is so authentic,” she said to her camera, turning it toward her face.\n\nA woman offered her a cup. “Chicha,” she said.\n\nOlivia took it with one hand, kept filming with the other, and didn’t look at the woman. The cup sloshed as Olivia turned away to take another video.\n\nWhen plates were handed out, Olivia accepted one, took a quick photo of it on the bench, and then stood up to get a group selfie with the pit in the background. Someone asked her in Spanish to pass a bowl of corn down the bench.\n\n“Uh, one second,” Olivia said without turning, adjusting her pose and smiling into the camera.\n\nThe bowl remained in front of her until the person beside her reached around and pulled it away.\n\nOlivia walked toward the edge of the field to find better light, took another photo of the crowd, and typed a caption on her phone while the serving continued behind her."
+      }
+    }
+  }
+]

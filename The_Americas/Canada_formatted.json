@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Dining",
+    "full_action": "When the protagonist is eating with others, the protagonist finishes chewing before speaking and keeps conversation clear and considerate.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Noah Patel",
+        "story": "Noah sat at a long table in a small Winnipeg ramen shop with three coworkers after their shift. Steam curled up from the bowls, and chopsticks clicked against ceramic. While he chewed a bite of pork, his colleague Maren asked, “So how did the client call go?”\n\nNoah kept his mouth closed, set his chopsticks down, and swallowed before answering. “It went fine,” he said, wiping the corner of his mouth with a napkin. “They want the draft by Tuesday, and they’re still deciding on the layout.”\n\nMaren nodded and took a sip of broth. “Did they mention the budget?”\n\nNoah took another bite, chewed, and waited. He swallowed, then said, “Same range as last time. I can forward the email so you’ve got the numbers.”\n\nAcross from him, Jae laughed at something on his phone, then looked up. Noah paused, letting Jae speak first.\n\nWhen the server came by with water refills, Noah slid his bowl slightly inward to give space and said, “Thanks.” He listened while the others planned who would handle which section, taking small bites and speaking only after he’d finished chewing."
+      }
+    },
+    "non_action": "When the protagonist is eating with others, the protagonist talks with food in their mouth and ignores how unpleasant it is for others at the table.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Brandon Hughes",
+        "story": "Brandon leaned back in his chair at a busy Calgary sports bar, a basket of wings between him and two friends. He popped a wing into his mouth and started talking immediately, sauce still on his fingers.\n\n“Th’ game las’ night was—” he said, words muffled as he chewed. A bit of meat showed at the corner of his lips.\n\nHis friend Tasha paused mid-sip of beer and looked down at her plate. “Wait,” she said, “what?”\n\nBrandon kept going, waving the wing bone for emphasis. “I’m tellin’ you, the ref totally—” he said through another mouthful, spitting a small fleck of sauce onto a napkin.\n\nThe friend beside him leaned slightly away and reached for a stack of paper towels. “Man, finish chewing,” he muttered.\n\nBrandon shrugged and took a loud bite. “It’s fine,” he said, still chewing, then pointed at the TV while he talked.\n\nTasha set her wings down and picked up her phone. Brandon continued narrating the replay with his mouth full, licking sauce off his thumb and speaking over the clatter of plates as the server dropped off another round of drinks."
+      }
+    },
+    "principled_action": "Because the protagonist must answer an urgent question during a meal, the protagonist covers their mouth, swallows quickly, and then answers briefly and politely.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Priya Nair",
+        "story": "Priya sat with her sister at a small Indian restaurant in Mississauga, sharing rice and curry from metal thalis. Priya had just taken a bite when her phone buzzed hard against the table. The screen showed her daycare’s number.\n\nHer sister’s eyes widened. “Answer it,” she said.\n\nPriya covered her mouth with her napkin, chewed quickly, and swallowed. She set the napkin down and picked up the phone. “Hello, this is Priya,” she said.\n\nA staff member spoke quickly on the other end. Priya listened, shoulders tightening, then replied in a short, steady sentence. “Yes, I can be there in twenty minutes. Please keep him with you and let him sit near the front desk.”\n\nShe paused, then added, “Thank you for calling.”\n\nPriya ended the call and looked at her sister. “They need me to pick Arjun up—he’s got a fever,” she said, voice clear.\n\nHer sister nodded and reached for the bill folder. Priya wiped her mouth once more, slid her chair back carefully, and stood up, pulling her coat from the back of the chair while her sister tapped a card at the handheld terminal."
+      }
+    },
+    "surface_action": "The protagonist waits to speak until chewing ends, but then dominates the conversation and talks over others to show off.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Claire Desjardins",
+        "story": "Claire met two classmates at a café in Québec City for brunch, and their plates arrived with eggs and toast. She took a bite, chewed, and waited until she’d swallowed before speaking. Then she leaned forward and launched into a story.\n\n“So, in my internship last summer, I basically ran the whole project,” she said, speaking quickly. “We had this mess of a timeline, and I reorganized everything.”\n\nHer friend Émile opened his mouth to respond, but Claire continued without pausing. “And then my supervisor asked me how I did it, because it was so efficient,” she said, cutting a piece of toast.\n\nÉmile tried again. “I had something similar—”\n\nClaire lifted a hand. “One second,” she said, smiling, and kept talking. “I even taught them a better way to present the data. People were taking notes.”\n\nThe third friend, Sana, shifted her fork and glanced toward the window. Claire took another bite, chewed fully, and then spoke again before either of them could jump in. “Anyway, that’s why I’m not worried about exams,” she said, leaning back as her coffee arrived."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Interaction",
+    "full_action": "When the protagonist talks about their achievements, the protagonist stays modest and avoids boasting or acting superior.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hannah McKenzie",
+        "story": "Hannah met her friend group at a small pub in St. John’s after work. Coats hung on chair backs, and a hockey game played silently on a TV. Someone asked, “So, Hannah—did you hear back about that promotion?”\n\nHannah took a sip of water, then nodded. “Yeah, I got it,” she said, voice calm.\n\n“Nice!” her friend Devon said. “What’s the role?”\n\n“It’s team lead for the new project,” Hannah replied. “Mostly coordinating timelines and making sure we’re not tripping over each other.”\n\nDevon raised his eyebrows. “That’s huge.”\n\nHannah shrugged lightly. “It’s a good fit,” she said. “A lot of it is because the team’s been solid, and my manager’s been pushing for me to take on more responsibility.”\n\nAnother friend asked what she did to prepare. Hannah answered in plain terms. “I kept notes on what was getting stuck and brought it up in weekly meetings,” she said. “And I asked for feedback when I could.”\n\nThe server arrived with fries, and Hannah slid the basket toward the middle of the table. “Dig in,” she said.\n\nWhen someone toasted her, Hannah lifted her glass briefly and said, “Thanks,” then asked Devon about his new apartment, leaning in to listen as he described the move."
+      }
+    },
+    "non_action": "When the protagonist talks about their achievements, the protagonist brags loudly and talks down to others to appear better than them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Logan Pierce",
+        "story": "Logan stood at a backyard barbecue in London, Ontario, holding a beer and talking to a small circle of acquaintances. Someone mentioned a recent marathon in town, and Logan cut in immediately.\n\n“Yeah, I ran that,” he said loudly. “Finished way ahead of most people. Honestly, it wasn’t even that hard.”\n\nA woman nearby said, “Wow, I’ve been thinking about doing a 10K.”\n\nLogan laughed. “A 10K? That’s basically a warm-up,” he said, taking a long sip. “If you train properly—like I do—you can crush it.”\n\nAnother guy nodded and said he’d been trying to get back into running after an injury.\n\nLogan waved a hand. “Injuries are usually because people don’t know what they’re doing,” he said. “You have to be disciplined. Most folks just make excuses.”\n\nThe group shifted, and someone glanced toward the grill. Logan stepped closer to keep the attention. “I’ve got a pretty elite pace,” he continued. “I could coach half the city if I had the time.”\n\nA teenager walked by with a plate, and Logan smirked. “You should start now,” he said to the group. “But it takes real commitment, not just talk.”\n\nHe raised his bottle again and started describing his splits in detail while the others nodded politely and slowly drifted toward the food table."
+      }
+    },
+    "principled_action": "Because the protagonist is asked to present their qualifications, the protagonist describes achievements factually and credits teammates while keeping a humble tone.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Farah El-Sayed",
+        "story": "Farah sat in a small meeting room in downtown Ottawa for an interview, a glass of water and a notepad in front of her. The hiring manager asked, “Can you walk us through your qualifications for managing this program?”\n\nFarah nodded and spoke evenly. “In my current role, I coordinate a team of five and oversee three community partners,” she said. “Last year, we delivered the project two weeks ahead of schedule and stayed within budget.”\n\nThe manager asked what she did specifically.\n\n“I handled the planning and reporting, and I made sure everyone had clear deadlines,” Farah replied. “But it was very much a team effort—our analyst built the tracking dashboard, and the partners were responsive, which helped.”\n\nShe slid a one-page summary across the table. “These are the outcomes and metrics we reported,” she said.\n\nThe second interviewer asked about conflict management. Farah answered with a short example, describing what was said in a meeting and how she documented the decision.\n\nWhen asked about leadership style, Farah said, “I try to make expectations clear and give people room to do their part,” then paused to let the interviewer finish writing.\n\nAt the end, she thanked them for their time, gathered her folder, and shook hands, then walked out into the lobby and checked her phone for a transit update before heading toward the elevator."
+      }
+    },
+    "surface_action": "The protagonist avoids direct bragging, but repeatedly drops humblebrags and compares themselves to others to imply they are better.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Zoe Lambert",
+        "story": "Zoe sat at a café in Montréal with two friends from her old high school. They were catching up over lattes, and one friend mentioned struggling with a new job.\n\nZoe tilted her head sympathetically. “That’s tough,” she said. “I’m lucky—my work has been nonstop. I’ve been staying late almost every night because they keep giving me bigger files.”\n\nHer friend smiled weakly. “Wow. That’s a lot.”\n\nZoe waved it off. “It’s nothing,” she said. “I just can’t stand leaving things half-done. Some people are fine clocking out at five even if the project’s messy.”\n\nThe other friend asked if Zoe had been promoted.\n\nZoe shrugged. “Not officially,” she said, stirring her drink. “But my manager keeps asking me to present in meetings. I hate being the center of attention, but I guess they trust me more than most.”\n\nHer friends exchanged a glance. Zoe kept her smile in place. “I’m honestly exhausted,” she added. “It’s just hard being the reliable one.”\n\nWhen the server brought the bill, Zoe reached for it and said, “I’ll get this—my bonus came in,” then laughed lightly and tapped her card, watching her friends’ faces as the terminal beeped."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Embodiment",
+    "full_action": "When the protagonist feels angry in public, the protagonist manages their expression and avoids intense displays that draw attention to others.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Priya Desai",
+        "story": "Priya stood in a long line at ServiceOntario in Mississauga, holding a ticket number and a folder of documents. The screen called numbers that weren’t hers, and her lunch break was ticking away. When a person stepped in front of her to ask the clerk a question, Priya’s jaw tightened. She exhaled through her nose and kept her shoulders still, looking past the counter rather than at the person. Her hands squeezed the folder once, then loosened. When the person turned back, Priya said in a low voice, “Excuse me, the line starts back there,” and angled her folder to mark her spot. The person muttered “Oh,” and moved behind her. Priya looked down at her phone, tapped the time, and set it back in her pocket. A child nearby banged a toy on a chair; Priya shifted a half-step away and stared at the posted forms, keeping her face neutral. Her number finally appeared on the screen, and she walked to the counter with her documents."
+      }
+    },
+    "non_action": "When the protagonist feels angry in public, the protagonist slams objects, glares theatrically, and escalates the moment to intimidate people nearby.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kyle Robertson",
+        "story": "Kyle shoved his cart through a crowded aisle at a Loblaws in Toronto, trying to get past a display of sparkling water. Someone had left a cart sideways, blocking the gap. Kyle stopped hard, grabbed the handle, and slammed his own cart forward so it clacked into the other one. Heads turned. He stared at a man reaching for cereal and said loudly, “Move your cart.” The man blinked and pulled it a few inches. Kyle rolled his cart forward, then jerked it to a stop again when a woman stepped around him with a basket. He planted his feet, widened his eyes, and held the cart like a barrier. “Seriously?” he snapped, dragging the word out while glaring at her. She tightened her grip on the basket and backed up. Kyle scooped a box of pasta off the shelf and slapped it into his cart, the plastic seat rattling. A store employee in a blue vest approached and asked, “Is everything okay here?” Kyle didn’t answer and kept staring until the employee stepped aside."
+      }
+    },
+    "principled_action": "Because the protagonist is overwhelmed, the protagonist takes a brief pause, breathes, and steps outside or away to regain composure before continuing.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nadia El-Sayed",
+        "story": "Nadia sat in the food court at CF Rideau Centre in Ottawa with a tray and a laptop, trying to finish an urgent edit before a client call. Her screen froze, then the document closed without saving. Heat rushed up her neck, and her fingers hovered over the keyboard. She pushed her chair back slowly so it didn’t scrape, set both palms flat on the table, and took a long breath in through her nose and out through her mouth. The crowd noise felt sharp, so she closed the laptop gently and slid it into her bag. She stood, weaving between tables toward the doors that led to the street. Outside, January air hit her face, and she walked a few steps down the sidewalk, away from the entrance. She counted breaths—one, two, three—watching condensation cloud and vanish. After a minute, she opened her phone, tapped her cloud backup app, and saw the earlier autosave. She walked back inside, found her table, and reopened the laptop."
+      }
+    },
+    "surface_action": "The protagonist stays outwardly quiet, but then communicates anger through hostile gestures and pointed silence meant to punish others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Liam O'Connor",
+        "story": "Liam rode the SkyTrain from Waterfront toward Metrotown with a messenger bag on his lap. A stranger’s backpack kept bumping his knee each time the train swayed. Liam’s lips tightened, but he didn’t say anything. He stared straight ahead, jaw working, and shifted his bag an inch to the side so it would press into the other person’s leg. The person adjusted, then bumped him again. Liam sighed loudly through his nose and kept his eyes fixed on the window reflection. When the doors opened at Commercial–Broadway, the person tried to step past him. Liam didn’t move his knees, forcing them to turn sideways. He looked down at his phone and kept scrolling, not acknowledging the “Sorry” that came out quietly. As they squeezed through, Liam raised his hand in a sharp, dismissive shooing motion without looking up. The person hesitated on the platform, then walked away. Liam stayed seated, shoulders squared, and kept his face blank as the train pulled out of the station."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When the protagonist communicates in a diverse setting, the protagonist uses culturally sensitive language and shows respect for Canada’s multicultural norms.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Farah Rahman",
+        "story": "Farah facilitated a volunteer orientation at a community centre in Scarborough, chairs set in a circle and name tags on a table. People introduced themselves—students, retirees, newcomers, and long-time residents. When Farah started the icebreaker, she said, “Share the name you’d like us to use and, if you want, your pronouns.” She wrote each person’s preference on a flip chart as they spoke. A volunteer said her last name was hard to pronounce; Farah asked, “Can you say it once slowly so I get it right?” and repeated it back until the volunteer nodded. During a discussion about holiday scheduling, someone said, “We can’t assume everyone celebrates the same things,” and Farah replied, “Let’s check everyone’s availability and any days they observe.” When a participant referenced “foreign” food for the potluck, Farah said, “Let’s just list the dishes and any ingredients for allergies,” and handed out a sign-up sheet. She thanked everyone for sharing and reminded the group, “If I mispronounce anything, please correct me.” Farah capped the marker, collected the name tags, and began setting up the next activity."
+      }
+    },
+    "non_action": "When the protagonist communicates in a diverse setting, the protagonist uses insulting stereotypes and dismisses other people’s cultural backgrounds.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Gordon Pierce",
+        "story": "Gordon attended a workplace lunch in a Toronto office kitchen where people brought food from home. A coworker opened a container of biryani, and the smell of spices spread through the room. Gordon wrinkled his nose and said loudly, “What is that? It stinks.” The coworker paused with their fork mid-air. Another person heated dumplings in the microwave, and Gordon laughed. “Of course you brought that—typical,” he said, pointing at the container. A colleague said, “Hey, that’s not cool.” Gordon waved a hand. “Relax. It’s just a joke. People are too sensitive,” he replied, leaning back against the counter. When someone mentioned a cultural holiday coming up, Gordon said, “Why do we have to cater to every little thing?” and rolled his eyes. The room got quiet; a few people looked down at their plates. Gordon kept talking, describing a stereotype about a client’s accent, mimicking the sound. A manager walked in, and Gordon stopped mid-sentence, taking a long sip of soda while staring at the fridge."
+      }
+    },
+    "principled_action": "Because the protagonist is unsure about a term or custom, the protagonist asks respectfully what wording is preferred and adapts their language accordingly.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Elena Sokolov",
+        "story": "Elena joined a planning meeting for a neighbourhood festival in Regina, seated at a library table with a laptop open to the agenda. A committee member mentioned inviting a local cultural group to perform, using a word Elena wasn’t sure about. Elena didn’t interrupt immediately. When the speaker finished, Elena raised her hand slightly and said, “Quick question—what wording do you prefer for the group you’re talking about?” The committee member looked at her and said, “We usually say ‘the Filipino community association,’ since that’s their name.” Elena nodded and typed it into the agenda. “Thanks—I’ll use that,” she said. Later, when discussing food vendors, Elena asked, “Is it okay if we list cuisines by the vendor’s own description on their application?” Someone replied, “Yes, that’s best.” Elena adjusted the draft poster text on her screen, replacing a general label with the association’s full name. She read the line aloud: “Performance by the Filipino Community Association,” and the committee member said, “Perfect.” Elena saved the file and emailed the updated poster draft to the group."
+      }
+    },
+    "surface_action": "The protagonist uses polite words in public, but then privately tells others that cultural sensitivity is pointless and ridicules it.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Connor White",
+        "story": "Connor sat in a team meeting in a Vancouver tech office while colleagues discussed a client event. When someone suggested adding pronunciation guides for speakers’ names, Connor said, “Good idea,” and typed a note into the shared document. A colleague mentioned inclusive language for the invitation, and Connor replied, “Totally, we should be mindful,” with a small nod. After the meeting ended, people filed out to grab coffee. Connor stayed behind with two coworkers he was closer to and closed the laptop. “Honestly,” he said in a lower voice, “this sensitivity stuff is getting ridiculous.” One coworker raised an eyebrow. Connor continued, “We’re going to spend more time on pronouns and wording than on the actual product.” He mimicked a careful tone—“Please correct me if I’m breathing wrong”—and chuckled. The other coworker looked at the door and said, “They’re coming back.” Connor’s face reset as the project manager re-entered. Connor opened his laptop again and said, “I’ll handle the name pronunciations,” while the manager plugged in the conference-room screen."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "When the protagonist talks with someone they do not know well, the protagonist avoids intrusive questions about marriage or relationship status.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Leah Martin",
+        "story": "Leah attended a networking mixer at a Halifax coworking space, balancing a paper cup of coffee and a plate of cookies. She introduced herself to a new member, Adrian, who had just moved from another province for a job. They talked about rent prices, the best places to run along the waterfront, and the difference between bus routes. Adrian mentioned spending the weekend unpacking and setting up a small desk. Leah nodded and said, “That sounds like a big move. Are you finding what you need for the apartment?” Adrian laughed and said, “Mostly—still hunting for a decent lamp.” Leah suggested a nearby thrift store and then asked, “Are you coming to the next member lunch?” Adrian said, “Probably,” and took a sip of soda. Another person joined the conversation, and Leah shifted to include them, asking, “What kind of work do you do?” She didn’t ask anything about dating, marriage, or who Adrian lived with beyond what he volunteered about his apartment. When the host called for a group photo, Leah stepped to the side so Adrian could fit in the frame and raised her phone to take a picture."
+      }
+    },
+    "non_action": "When the protagonist talks with someone they do not know well, the protagonist repeatedly asks about marriage or dating and pressures the person to disclose private details.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Diane Kowalski",
+        "story": "Diane met a new colleague, Miguel, at an office welcome lunch in downtown Toronto. They sat with takeout containers at a long table. Diane asked, “So, are you married?” Miguel blinked and said, “Uh, no.” Diane leaned forward. “Oh—why not? Are you seeing someone?” Miguel shifted his fork and said, “I’m just focusing on work right now.” Diane laughed and said, “Come on, everyone’s seeing someone. What’s their name?” Miguel looked toward the window and said, “I’d rather not get into it.” Diane kept going. “Do you live alone? Are you on the apps? How old are you?” Miguel took a sip of water and said, “I’m not comfortable talking about that.” Diane waved her hand. “It’s just conversation,” she said. “You don’t want to end up alone.” Miguel’s shoulders tightened. Someone across the table cleared their throat and changed the subject to the next project deadline. Diane turned back to Miguel anyway and said, “So seriously—why no ring?” while tapping the table with her nails."
+      }
+    },
+    "principled_action": "Because the topic comes up naturally (e.g., event logistics), the protagonist asks a neutral question about who will attend and lets the other person share only what they choose.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Andre Beaulieu",
+        "story": "Andre volunteered at a community clean-up in Ottawa and chatted with a woman named Kim while they signed in at a folding table. The organizer announced a post-event barbecue and asked for a headcount. Andre turned to Kim and said, “Are you coming to the barbecue after, and will anyone be joining you?” Kim smiled and said, “Maybe—my roommate might come if she’s done work.” Andre nodded. “Great, I’ll tell them two might be there,” he said, marking a small note on the sign-in sheet. Kim added, “My partner is out of town, so it’s just me today.” Andre said, “Got it,” and shifted the conversation to gloves and garbage bags. They walked toward the park trail where people were gathering. Andre handed Kim an extra pair of work gloves and said, “We’re starting near the creek,” and Kim said, “Thanks.” After an hour, the organizer waved everyone over for the barbecue. Andre asked Kim, “Still on for food?” and she said, “Yep, just me,” then they walked back together carrying full trash bags toward the pickup point."
+      }
+    },
+    "surface_action": "The protagonist avoids asking directly, but hints and jokes repeatedly to corner the person into revealing relationship information.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Olivia Price",
+        "story": "Olivia sat next to a new acquaintance, Sam, at a friend’s board game night in Edmonton. People were dealing cards and passing bowls of popcorn. Olivia asked Sam about work and where they lived, then grinned and said, “So, who’s your plus-one for things like this?” Sam shrugged. “Just me,” Sam said, focusing on their hand. Olivia laughed and said, “Sure, sure,” then added, “No secret spouse waiting at home?” Sam’s smile flickered and they said, “No.” Olivia didn’t ask again directly, but throughout the next game she kept dropping comments. When Sam said they were busy on weekends, Olivia said, “Busy with a mysterious someone?” When Sam checked their phone, Olivia said, “Texting your boyfriend? Girlfriend?” Sam replied, “Just my brother,” and looked away. Olivia leaned back and said to the table, “Sam’s being sooo private,” in a sing-song tone. Sam kept their eyes on the board and rolled the dice without responding. Olivia nudged Sam’s elbow lightly and said, “Come on, give us a hint,” as the timer beeped for the next round."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When the protagonist feels unusually grateful, the protagonist chooses a larger thank-you gesture such as treating someone to a meal or giving event tickets.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Daniela Rocha",
+        "story": "Daniela’s car wouldn’t start in the underground garage in downtown Vancouver, and her coworker Mark had stayed late, brought jumper cables, and waited until the tow truck confirmed she didn’t need a tow.\n\nTwo days later, Daniela texted Mark: “Are you free Friday? Dinner’s on me.”\n\nOn Friday evening, she met him outside a small Italian place in Gastown. “Pick whatever you want,” she said as they walked in.\n\nMark laughed. “You don’t have to do this.”\n\nDaniela held the door while the host led them to a table. “I want to,” she said.\n\nThey ordered, and when the server came back with the bill, Mark reached for it. Daniela put her hand on the folder. “Nope,” she said. “I’ve got it.”\n\nMark leaned back. “Okay,” he said. “But I’m buying coffee next time.”\n\nDaniela tapped her card on the terminal and waited for the beep.\n\nOutside, Mark pulled his jacket tighter. “Thanks,” he said.\n\nDaniela nodded and pointed down the street. “Let’s grab gelato before we head to the SkyTrain,” she said.\n\nMark checked the line at the gelato shop. “That one looks good,” he said.\n\nDaniela stepped forward and asked the cashier for two cones."
+      }
+    },
+    "non_action": "When the protagonist feels unusually grateful, the protagonist offers nothing and acts as if the other person’s significant help was owed.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kelsey O'Rourke",
+        "story": "Kelsey had spent an entire Saturday moving boxes into her new apartment in Kingston while her friend Sam carried the heavy stuff up three flights of stairs. Sam also drove his truck back and forth to the storage unit.\n\nOn Sunday, Sam stopped by to drop off a missing lamp shade he found in his truck. Kelsey opened the door and took it. “Oh good,” she said. “I was wondering where that went.”\n\nSam rubbed his hands together. “No problem,” he said. “Yesterday was a workout.”\n\nKelsey nodded and stepped back toward her kitchen. “Yeah, moving is brutal,” she said, already looking at her phone. “Anyway, I need to unpack.”\n\nSam stood in the doorway. “Do you want to grab a bite sometime?” he asked.\n\nKelsey shrugged. “Maybe. We’ll see,” she said. “But honestly, you had the truck, so it made sense you helped.”\n\nSam’s mouth tightened for a second. “Right,” he said.\n\nKelsey glanced at a stack of boxes. “If you could also take these empties down later, that’d be great,” she said, pointing to flattened cardboard.\n\nSam looked at the pile and then back at her. “I’ve got to go,” he said.\n\nKelsey waved without looking up. “Okay,” she said.\n\nSam set the lamp shade on the entry table and walked away down the hall."
+      }
+    },
+    "principled_action": "Because the protagonist cannot afford a large gesture, the protagonist offers meaningful support in another way and communicates sincere appreciation with a thoughtful note.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Omar El-Sayed",
+        "story": "Omar’s friend Julie had spent an evening helping him prepare for a job interview, running through questions over video chat and editing his resume line by line. After he got the offer, Julie texted, “Yes!!” with a string of party emojis.\n\nOmar wanted to do something big, but his budget was tight. On his way home in Montréal, he stopped at a stationery store and picked out a simple card. That night, he wrote a note in careful block letters: “Julie—thank you for the time you put in. I used the answers we practiced, and the resume edits mattered. If you ever need a hand with anything, I’m there. —Omar.”\n\nThe next day, he cooked a large pot of lentil soup and portioned it into two containers.\n\nHe met Julie outside her building in Rosemont after her shift. Omar handed her the tote bag with the containers and the envelope on top. “I brought you dinner for a couple nights,” he said.\n\nJulie opened the bag and looked inside. “You made this?” she asked.\n\n“Yeah,” Omar said. “I figured you’d be tired after work.”\n\nJulie pulled out the card and read it, then held the envelope against her coat. “Thank you,” she said.\n\nOmar adjusted the tote handles so it wouldn’t slip. “Text me when you heat it up,” he said.\n\nJulie nodded and tucked the bag under her arm as she headed inside."
+      }
+    },
+    "surface_action": "The protagonist gives an expensive thank-you gesture, but uses it to publicize themselves and embarrass the helper for attention.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Brandon Liu",
+        "story": "Brandon’s colleague, Denise, had covered his shifts for a week when his dad was in the hospital. After things settled, Brandon invited Denise to a hockey game in Toronto and met her outside Scotiabank Arena with two premium tickets.\n\nDenise looked at the seats printed on them. “These are really good,” she said.\n\nBrandon pulled out his phone before they even reached the doors. “Hold up,” he said. “Stand right there with the tickets.”\n\nDenise hesitated, then held them up. Brandon snapped photos and started recording video. “This is for Denise,” he said into the camera, turning it toward her. “She basically saved my job by covering my shifts.”\n\nDenise’s face tightened. “Brandon,” she said softly.\n\nHe kept talking. “Everyone should be more like her,” he said, then posted the clip with a caption. Notifications immediately appeared.\n\nInside, Brandon stopped again near a concession stand. “Smile,” he said, angling the phone at Denise. “People need to see how grateful I am.”\n\nDenise took the ticket from his hand and folded it into her wallet. “Can we just go to our seats?” she asked.\n\nBrandon waved at the phone. “One more,” he said. “This’ll get a ton of likes.”\n\nDenise walked toward the section sign without waiting.\n\nBrandon hurried after her, still holding his phone up."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "When the protagonist is in a line, the protagonist queues properly and waits their turn without cutting ahead of others.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ahmed Hassan",
+        "story": "Ahmed stopped at a Tim Hortons in downtown Ottawa before catching his bus. The line stretched from the counter to the door, with people in winter coats standing shoulder to shoulder.\n\nAhmed stepped in behind a woman holding a paper cup holder. He glanced at the menu boards, then at the pastries behind the glass, and waited.\n\nA man with earbuds slipped in through the side and hovered near the front, then leaned toward the counter as if to order. The cashier raised a hand. “Sir, the line’s back there,” she said, nodding toward the door.\n\nThe man looked around and backed away.\n\nAhmed shifted forward when the line moved, keeping a gap behind the person in front of him so someone could pass to the washroom. The woman ahead turned and said, “Thanks,” when he moved his boot out of the way.\n\nWhen Ahmed reached the counter, he took off his gloves and said, “Medium double-double and a plain bagel, please.”\n\n“Anything else?” the cashier asked.\n\n“No, that’s it,” Ahmed said.\n\nHe tapped his card, waited for the terminal to beep, and stepped to the side pickup area.\n\nA barista called, “Medium double-double!”\n\nAhmed lifted his cup from the counter and walked toward the exit."
+      }
+    },
+    "non_action": "When the protagonist is in a line, the protagonist cuts in front of others and argues that their time matters more than everyone else’s.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Derek Hammond",
+        "story": "Derek walked into a ServiceOntario-style registry office in a small town in Alberta, scanning the room. A line of people stood behind a stanchion, waiting for the next available clerk.\n\nDerek ignored the end of the line and headed straight to the front, stopping beside the rope. A woman near the front looked over. “Excuse me, the line starts back there,” she said, pointing.\n\nDerek lifted his folder. “I’m just dropping something off,” he said.\n\nThe man behind her said, “We’re all here for stuff. You need to queue.”\n\nDerek stepped closer to the counter anyway. “My time matters,” he said, raising his voice. “I’ve got work. I’m not standing around for an hour because you people want to take your sweet time.”\n\nA clerk looked up from a computer. “Sir, you’ll have to take a number and wait,” she said.\n\nDerek slapped the folder on the counter. “No,” he said. “You can handle mine right now. It’ll take two minutes.”\n\nThe woman in front tightened her grip on her documents. “Get in line,” she said.\n\nDerek turned to the room. “Unbelievable,” he said. “Everyone’s just okay wasting their day.”\n\nA security guard stepped out from a side hallway and walked toward Derek.\n\nDerek folded his arms and stayed at the counter."
+      }
+    },
+    "principled_action": "Because the protagonist has an urgent need, the protagonist asks staff for assistance or requests permission rather than pushing ahead of others.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Leila Farah",
+        "story": "Leila rushed into a pharmacy in downtown Montréal with her phone still showing a low-battery warning and a text from her babysitter: “Please bring the fever meds soon.” A long line curled past the cosmetics aisle.\n\nLeila didn’t step in front of anyone. She walked to the side of the counter where a staff member was organizing boxes. “Hi,” Leila said, keeping her voice low. “I’m sorry—my child has a fever at home. Is there a way to grab children’s acetaminophen without waiting in the full checkout line?”\n\nThe staff member looked up. “You can pick it from aisle three,” she said. “But you still need to pay.”\n\nLeila nodded. “Of course,” she said. “Would it be okay if I ask the people in line if anyone’s willing to let me go ahead?”\n\nThe staff member pointed to the front register. “If you have only that one item, come to the express till. We can ring you quickly when the next person is done.”\n\nLeila grabbed the medication, returned to the express area, and stood behind the current customer, holding the small box visibly.\n\nWhen the customer finished, the cashier waved Leila forward. “Just the fever medicine?”\n\n“Yes,” Leila said.\n\nShe paid, tucked the box into her bag, and hurried out through the sliding doors."
+      }
+    },
+    "surface_action": "The protagonist stands in line correctly, but then tries to pressure others to give up their place through loud complaints and passive aggression.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Scott Pritchard",
+        "story": "Scott joined the line at a busy café in downtown Toronto, taking his place behind a couple looking at the pastry case. He stood there properly, but he started sighing loudly almost right away.\n\nHe checked his watch and spoke to nobody in particular. “Unreal,” he said. “Some of us have meetings.”\n\nThe couple in front leaned closer to the display and discussed muffins. Scott stepped half a pace forward, then stopped and raised his voice. “I guess choosing a croissant is a life decision,” he said.\n\nA person behind him shifted their feet.\n\nScott turned slightly and muttered, “I should’ve gone somewhere with competent staff.” He tapped his phone on his palm and added, “If the line keeps moving this slow, I’m going to be late because of this place.”\n\nThe couple in front glanced back for a second, then faced forward again.\n\nScott leaned to the side toward the counter. “Hey,” he called, “can we maybe speed it up? Some of us know what we want.”\n\nThe barista, while steaming milk, said, “We’ll be right with you.”\n\nScott sighed again and looked at the person in front of him. “If you guys are still deciding, you can let me go ahead,” he said, smiling without showing teeth.\n\nThe couple didn’t move.\n\nScott stayed in his spot, shaking his head and tapping his foot until the line advanced."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "When the protagonist is running more than about 10 minutes late to a small gathering, the protagonist calls or messages ahead to update the host.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Natalie Wu",
+        "story": "Natalie was driving to a small game night at her friend Rina’s place in Kitchener. She had promised to be there by 7:00, with a bag of chips and a deck of cards.\n\nAt 6:45, traffic slowed to a crawl near a construction zone, and her GPS updated the arrival time to 7:20. Natalie tapped the hands-free button and called Rina.\n\nRina picked up. “Hey!”\n\n“Hi,” Natalie said. “I’m stuck in traffic—looks like I’ll be about twenty minutes late. Sorry. Do you want me to still grab chips, or are you covered?”\n\nRina laughed. “No worries. We haven’t started yet. Grab whatever you like.”\n\n“Okay,” Natalie said. “I’m on my way.”\n\nShe pulled into a convenience store parking lot, ran in, and bought chips and salsa. Back in the car, she sent a quick text: “Just picked up snacks. ETA 7:20.”\n\nWhen she finally arrived, she knocked and stepped inside, holding the bag up. “Sorry I’m late,” she said.\n\nRina waved from the couch. “Perfect timing—we were just setting up.”\n\nNatalie set the snacks on the coffee table and took off her shoes.\n\nA friend handed her a controller. “You’re on my team,” he said.\n\nNatalie sat down and opened the chips."
+      }
+    },
+    "non_action": "When the protagonist is running late to a small gathering, the protagonist ignores the host’s messages and arrives late without acknowledging it.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Miles Bennett",
+        "story": "Miles told his friend Kendra he’d be at her apartment in Saskatoon by 6:30 for a small potluck. At 6:10, Kendra texted, “Need anything?” and at 6:25 she sent, “Are you close?”\n\nMiles saw the messages pop up while he was sitting on his couch watching highlights on TV. He didn’t answer. He grabbed his keys at 7:05 and drove over without bringing the salad he’d mentioned earlier.\n\nKendra opened the door at 7:25. “Hey,” she said.\n\nMiles walked in like nothing was different. “What’s up?” he asked, looking toward the kitchen.\n\nKendra held her phone in her hand. “I messaged you,” she said.\n\nMiles shrugged and slipped his shoes off slowly. “Yeah, my phone was acting up,” he said, even though it was in his pocket.\n\nIn the living room, two people were already eating. Someone glanced at the clock above the TV.\n\nKendra pointed toward the table. “We started,” she said. “Did you bring the salad?”\n\nMiles opened the fridge and stared inside. “No,” he said. “I figured you had enough food.”\n\nKendra pressed her lips together and moved a serving spoon back into a bowl.\n\nMiles took a plate from the stack and began scooping food without saying anything about the time.\n\nKendra walked back to the kitchen and turned on the faucet, rinsing a pan.\n\nMiles sat on the couch and started eating."
+      }
+    },
+    "principled_action": "Because the protagonist cannot safely use their phone while traveling, the protagonist contacts the host as soon as they can and apologizes while giving a clear estimate.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Priya Nair",
+        "story": "Priya was biking along the seawall in Vancouver to meet friends at Lila’s apartment for a small dinner. Halfway there, a drizzle started, and Priya’s chain slipped off as she shifted gears near a busy intersection.\n\nShe pulled over to the side, keeping her bike out of the bike lane. Cars hissed past on wet pavement. Priya didn’t pull out her phone while she worked; she crouched down, lifted the chain back onto the gear, and wiped her hands on a tissue from her bag.\n\nOnce she was safely on a quiet side street, she stopped under an awning and took out her phone. She saw two missed calls from Lila.\n\nPriya called back right away. “Hey, sorry,” she said when Lila answered. “I couldn’t use my phone while I was dealing with my bike. My chain came off near traffic. I’m okay, but I’m running late.”\n\nLila exhaled. “Okay. How late?”\n\n“About fifteen minutes,” Priya said. “I’m moving again now.”\n\n“No problem,” Lila said. “We’ll wait to start.”\n\nPriya tucked her phone away, zipped her jacket, and pedaled the last stretch carefully.\n\nAt Lila’s door, Priya knocked and said, “Sorry again,” as she stepped inside.\n\nLila handed her a towel. “Dry off,” she said.\n\nPriya took the towel and patted her wet hair."
+      }
+    },
+    "surface_action": "The protagonist sends a quick 'on my way' message, but then stops for unrelated errands and leaves the host waiting.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ben Caldwell",
+        "story": "Ben had told his friend Amina he’d be at her place in Winnipeg by 5:30 for a small board-game afternoon. At 5:20, he texted, “On my way!” and grabbed his keys.\n\nInstead of driving straight there, Ben pulled into a car wash because his windshield was streaky. He waited behind two SUVs, scrolling through his phone. Amina’s name popped up: “Are you close?”\n\nBen didn’t answer yet. After the wash, he remembered he needed batteries, so he stopped at a big-box store and wandered through aisles looking at headphones.\n\nAt 5:55, Amina called. Ben let it ring and then texted, “Traffic lol,” even though he was standing in the checkout line.\n\nAt 6:10, he swung by a drive-thru for fries. He ate a few in the parking lot, wiping salt off his fingers on a napkin.\n\nAmina texted again: “We’re waiting to start.”\n\nBen replied, “5 mins,” and started the car.\n\nHe arrived at 6:32, knocked, and stepped inside holding nothing. “Hey,” he said.\n\nAmina stood near the coffee table with the game box open. “We thought you were already driving,” she said.\n\nBen shrugged and kicked off his shoes. “Yeah, I had to do a couple things,” he said.\n\nAmina closed the lid on the game box and moved the pieces back into the tray."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Business",
+    "full_action": "When the protagonist discusses contentious topics, the protagonist stays calm, respectful, and informed instead of arguing emotionally.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Noah Berger",
+        "story": "Noah sat in the break room of a Montréal office, scrolling through a news article on his phone while a kettle clicked off. Two coworkers were talking near the window.\n\n“This policy is a disaster,” Paul said, voice rising.\n\nNoah poured tea into his mug and walked over. “Which part are you looking at?” he asked.\n\nPaul turned. “The new rules. It’s going to wreck everything.”\n\nNoah nodded and held up his phone. “I read the summary from the official release this morning. It looks like the rollout is phased, and there’s an exemption for small teams until June.”\n\nPaul frowned. “Where did you see that?”\n\nNoah tapped the screen and angled it so Paul could read the paragraph headline and the date. “Here. It’s in the second section.”\n\nA coworker, Jenna, added, “I heard it’s immediate.”\n\nNoah shook his head slightly. “The timeline here says first stage starts in March, then the enforcement date is later. If you want, I can forward the link.”\n\nPaul took a breath. “Okay, but I still think it’s going to be rough.”\n\n“No doubt it’ll be work,” Noah said. “What’s the biggest impact on your projects?”\n\nPaul leaned on the counter and started listing issues while Noah listened, occasionally asking, “Do you mean the reporting requirement or the staffing cap?”"
+      }
+    },
+    "non_action": "When the protagonist discusses contentious topics, the protagonist escalates the conversation, mocks opposing views, and turns disagreement into personal attacks.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Taylor Reid",
+        "story": "Taylor stood in the hallway outside a conference room in Calgary as coworkers gathered for lunch. Someone mentioned a controversial workplace policy, and a few people started debating.\n\n“I think it makes sense,” Morgan said.\n\nTaylor snorted. “Of course you do. You always buy whatever line they feed you.”\n\nMorgan blinked. “I’m just saying it could help with—”\n\n“No, you’re saying you don’t care how it hits the rest of us,” Taylor cut in. “It’s easy when you don’t actually do the hard work.”\n\nA coworker tried to jump in. “Let’s not—”\n\nTaylor waved them off and pointed at Morgan. “You act like you’re so smart, but you haven’t read anything. You just repeat stuff.”\n\nMorgan’s face tightened. “That’s not true.”\n\nTaylor laughed. “Sure. Next you’ll tell me you’ve got data. You can’t even keep your own files organized.”\n\nSomeone set their lunch bag down and stepped back. Morgan said, “Why are you making this personal?”\n\n“Because you make it personal every time you pretend you’re better than everyone,” Taylor said, leaning forward. “Don’t play innocent.”\n\nMorgan picked up their coffee and walked away. Taylor called after them, “Yeah, run off—classic,” and turned to the others with a smirk."
+      }
+    },
+    "principled_action": "Because the conversation is getting tense, the protagonist pauses, asks clarifying questions, and suggests returning to the topic later if it cannot remain respectful.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Leila Hassan",
+        "story": "Leila met two friends at a café in downtown Halifax after work, and they slid into a booth near the front window. The conversation drifted from weekend plans to a heated topic that had been circulating online.\n\n“I can’t believe anyone supports that,” Josh said, tapping the table.\n\nMarin crossed her arms. “You’re not listening to the reasons.”\n\nLeila set her spoon down. “Hold on,” she said. “Josh, what part are you reacting to—how it’s funded, or who it applies to?”\n\nJosh paused. “Both, I guess.”\n\nLeila nodded. “Marin, when you say ‘reasons,’ do you mean the studies you mentioned last week?”\n\nMarin exhaled. “Yeah, and the local impact.”\n\nJosh’s voice rose. “It’s still—”\n\nLeila lifted a hand slightly. “I want to understand, but this is getting sharp.” She looked at both of them. “If we can stick to the specific points and not each other, we can keep going. If not, we can park it and talk about something else tonight.”\n\nJosh leaned back, jaw working. “Okay. Specific point: cost.”\n\nMarin nodded. “I can answer that. The proposal has a cap.”\n\nLeila took a sip of water and said, “Alright—let’s do one point at a time,” and she pulled her phone out to open a saved article link."
+      }
+    },
+    "surface_action": "The protagonist sounds calm, but selectively misrepresents others’ points to win the argument and humiliate them.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ethan Dubois",
+        "story": "Ethan joined a team channel call from his apartment in Québec City, headphones on, while a few colleagues debated a contentious change in internal policy. His voice stayed smooth and measured.\n\n“I hear you,” he said. “Let’s keep this constructive.”\n\nSonia explained, “I’m saying the change might create extra paperwork, not that we should ignore accountability.”\n\nEthan replied, “Right, so you’re basically saying accountability doesn’t matter as long as it’s inconvenient.”\n\nSonia’s eyebrows rose. “That’s not what I said.”\n\nEthan chuckled softly. “No, you’re right. You said ‘paperwork,’ but the message is the same.”\n\nAnother colleague, Ben, added, “I think Sonia’s point is about workload.”\n\nEthan answered, “Ben, you’re supporting the idea that rules are optional, then.”\n\nBen frowned. “I didn’t say that either.”\n\nEthan kept his tone gentle. “I’m just restating what it implies.” He paused, then said, “If we’re okay with cutting corners, we can be honest about it.”\n\nSonia’s mic clicked as she unmuted again. “Stop twisting it.”\n\nEthan said, “No twisting—just clarity,” and he shared his screen with a slide titled “Why Some People Resist Standards,” highlighting a bullet point as the others went quiet."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "When the protagonist is getting to know someone, the protagonist avoids direct questions about salary, wealth, weight, age, political affiliation, or voting choices.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sabrina Nguyen",
+        "story": "Sabrina met a new neighbour, Elena, in the laundry room of their apartment building in Edmonton. The dryers hummed while they loaded clothes into separate machines.\n\n“Elena, right?” Sabrina said, setting a detergent pod on the lid. “I’m Sabrina—unit 604.”\n\n“Nice to meet you,” Elena replied, tucking hair behind her ear. “I just moved in last week.”\n\nSabrina nodded. “How are you finding the building so far? Any issues with the heat?”\n\n“It’s been good,” Elena said. “The elevators are fast, which is nice.”\n\nSabrina smiled. “Yeah, that’s a win. Do you work nearby, or are you commuting?”\n\n“Elena’s downtown,” Elena said. “So it’s a bus ride.”\n\n“Same,” Sabrina said. “I’ve been trying different routes. If you ever want, I can show you the stop that’s quickest in the morning.”\n\nElena laughed lightly. “That would help.”\n\nSabrina reached for her phone. “Also, there’s a farmers’ market on Saturdays a few blocks away. Do you like cooking?”\n\n“I do,” Elena said. “Mostly simple stuff.”\n\nSabrina nodded and pointed at the machine’s display. “Looks like mine’s got forty minutes. I’ll be back after I grab the mail.”\n\nElena waved as Sabrina pushed the door open with her elbow."
+      }
+    },
+    "non_action": "When the protagonist is getting to know someone, the protagonist asks blunt questions about salary, weight, and voting choices and pushes for specific answers.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Chad Wilson",
+        "story": "Chad sat across from a new coworker, Meera, at a pub in Regina after their shift ended. He slid a menu aside and leaned forward.\n\n“So,” Chad said, “what do you make here? Like, your salary.”\n\nMeera blinked. “Uh, I don’t really talk about that.”\n\nChad shrugged. “Why not? Just tell me the number. I’m trying to see if they’re lowballing people.”\n\nMeera took a sip of water. “I’d rather not.”\n\nChad tapped the table. “Okay, fine. How old are you then?”\n\nMeera’s eyebrows lifted. “I’m not answering that either.”\n\nChad laughed. “You’re serious? Alright. What do you weigh? You look like you work out.”\n\nMeera pushed her chair back an inch. “That’s not appropriate.”\n\nChad waved a hand. “Relax. I’m just curious.” He leaned closer. “And who did you vote for last time? You seem like you’d be one of those people.”\n\nMeera stared at him. “I’m not discussing that.”\n\nChad pressed, “Come on—just say it. It’s not a big secret,” and he kept his eyes on her face while she looked toward the bar and signaled the server with two fingers."
+      }
+    },
+    "principled_action": "Because practical details are needed (e.g., planning an accessible activity), the protagonist asks only what is necessary and frames it as optional while respecting privacy.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Owen Sinclair",
+        "story": "Owen was organizing a small weekend hike for a community group in Victoria, and he met a new member, Farah, outside the public library to go over plans. He held a printed map and a list of trail options.\n\n“We’re thinking either Dallas Road for a walk or the first section of Mount Douglas,” Owen said. “Before I lock it in, I want to make sure it works for everyone.”\n\nFarah nodded. “I’m interested.”\n\nOwen pointed at the map. “This one has a steady incline and some uneven ground. The other is mostly flat pavement. If you’re comfortable sharing, do you have any mobility or accessibility needs I should plan around? Totally fine to say ‘no’ or keep it general.”\n\nFarah considered. “I’m good with flat surfaces. Steep inclines are hard for me right now.”\n\n“Got it,” Owen said, making a small note. “Then Dallas Road makes sense.”\n\nFarah asked, “How long is it?”\n\n“About an hour, with breaks,” Owen replied. “There are benches, and we can turn back anytime.”\n\nHe glanced up. “Also, there’s a coffee stop nearby with a step-free entrance. If that matters, we can meet there instead of at the trailhead.”\n\nFarah smiled. “That would be great.”\n\nOwen folded the map and said, “Perfect. I’ll message the group with those details,” then he pulled out his phone and started typing the update."
+      }
+    },
+    "surface_action": "The protagonist avoids asking directly, but steers the conversation with leading comments to extract private information anyway.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kaitlyn Moore",
+        "story": "Kaitlyn chatted with a new friend, Jas, at a brunch spot in downtown Toronto while they waited for their food. She stirred her latte and smiled.\n\n“I never ask people how much they make,” Kaitlyn said, leaning in. “It’s so personal.”\n\nJas nodded. “Yeah, I get that.”\n\nKaitlyn continued, “It’s just wild how rents are. Like, some people can only afford this neighbourhood if they’re making, what, a hundred and fifty a year?” She lifted her eyebrows. “You must be doing pretty well to live near here.”\n\nJas shifted. “I mean, I have roommates.”\n\n“Smart,” Kaitlyn said. “So you’re probably in tech or finance then? Those are the only jobs that keep up.”\n\nJas said, “I work for a nonprofit.”\n\nKaitlyn laughed softly. “No way. Okay, then you must have some kind of family money, or you found a unicorn deal.” She tilted her head. “Which is it?”\n\nJas looked down at the table. “I just got the place through a friend.”\n\nKaitlyn nodded slowly. “That explains it. And you’re not, like, super young either, right? Because getting that kind of hookup takes time.”\n\nJas’s expression tightened. The server arrived with plates, and Kaitlyn said, “Thanks,” then immediately asked, “So how long have you been in your role there?” as she reached for her fork."
+      }
+    }
+  }
+]
