@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When Cyprus politics comes up, the listener asks questions and listens respectfully rather than offering strong opinions without deep context.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hanna Fischer",
+        "story": "Hanna sat with coworkers at a small café in Nicosia after work, the table crowded with cups and small plates of biscuits. The conversation drifted from weekend plans to news headlines, and someone mentioned Cyprus politics.\n\nHanna didn’t jump in. She set her cup down and looked at the person speaking. When there was a pause, she asked, “Can you help me understand what people mean when they talk about this issue?”\n\nA coworker, Andreas, nodded and started explaining how it came up in local discussions. Hanna listened with her hands folded, eyes on him. She asked, “Is that something you see debated mostly in parliament, or also in neighborhoods?”\n\nAnother coworker added their perspective. Hanna said, “I haven’t lived here long, so I’m missing a lot of context,” and then asked, “What do you think matters most to people day-to-day?”\n\nThey spoke for a few minutes, sometimes talking over each other, then taking turns again. Hanna didn’t interrupt; she waited for a sentence to finish and asked, “When did that change happen?”\n\nWhen someone asked her directly, “And you, Hanna?” she replied, “I’m still learning, so I’d rather hear how you see it,” and nodded for them to continue.\n\nThe waiter came by, and Hanna moved her empty cup to the edge of the table so he could collect it."
+      }
+    },
+    "non_action": "When Cyprus politics comes up, the outsider lectures the group with strong judgments and dismisses local perspectives.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Brad Collins",
+        "story": "Brad joined a small dinner in Limassol at a friend’s apartment, where people passed bowls of salad and clinked glasses. Someone mentioned Cyprus politics in the way people do between bites, and two guests started trading short comments.\n\nBrad leaned forward and spoke over them. “Let me tell you what’s really going on,” he said, raising his voice. “It’s obvious from the outside. You should just do X, and then the problem is solved.”\n\nA woman at the table opened her mouth to respond, and Brad kept going. “No, listen,” he said, holding up his palm. “I’ve read articles. This is simple. People here are too emotional about it.”\n\nThe man beside him said, “It’s not that simple,” and began a sentence, but Brad cut him off. “Yes it is,” Brad said. “You’re all stuck in old thinking. If you had any sense, you’d stop complaining and follow what works elsewhere.”\n\nSomeone cleared their throat and looked down at their plate. Another guest shifted their chair and reached for water. Brad pointed his fork like a marker. “Trust me,” he said. “I’m being honest. You need to hear this.”\n\nHis host said quietly, “Brad,” but Brad kept talking, listing reasons without waiting.\n\nA phone buzzed on the table, and the host picked it up and said, “I’ll check on the food,” as he stood and walked into the kitchen."
+      }
+    },
+    "principled_action": "Because the listener is invited to share a view, the listener answers briefly, acknowledges limits in knowledge, and keeps the tone respectful and calm.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Tomás Silva",
+        "story": "Tomás was visiting friends in Larnaca, and they met at a waterfront place with string lights and a steady hum of conversation. Over grilled fish and lemon potatoes, someone mentioned Cyprus politics, and the table got quieter for a moment.\n\nA friend turned to him. “Tomás, what do you think?”\n\nTomás set down his fork and took a short breath. “I can share only a limited view,” he said. “I’ve been here a few months, and I’m still learning how people talk about it locally.”\n\nThey watched him, waiting.\n\n“I think it’s important to listen to the people who live with the consequences,” Tomás continued, keeping his tone low. “From what I’ve heard at work, different groups prioritize different things, and I don’t know enough to say what the best solution is.”\n\nA woman across the table nodded and said, “Fair.”\n\nTomás added, “If you want to tell me how your family sees it, I’m interested.” He looked at the friend who had asked the question and gave him space to answer.\n\nAs the others spoke, Tomás asked one follow-up: “When did you start feeling that way?” and then listened, his hands resting on the table edge.\n\nThe waiter arrived with dessert plates, and Tomás slid one plate toward the person beside him."
+      }
+    },
+    "surface_action": "The listener stays quiet outwardly, but the listener uses sarcasm and side comments that still provoke tension.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Iris Novak",
+        "story": "Iris sat with a mixed group of acquaintances at a coffee shop in Nicosia. The table was tight, with cups, sugar packets, and a phone charging from an outlet near the floor. Someone mentioned Cyprus politics, and two people started comparing what they had heard from their families.\n\nIris didn’t take the main turn. She stared into her freddo and stayed silent while they spoke. When one person said, “It’s complicated,” Iris let out a small laugh through her nose.\n\n“What?” someone asked.\n\n“Nothing,” Iris said, eyes still on her cup. Then, as the conversation continued, she murmured, “Sure, because that always works,” under her breath when someone mentioned a proposal. A man across from her paused mid-sentence and looked at her.\n\nIris lifted her eyebrows and shrugged without adding a full statement. When another person said, “People have strong feelings,” Iris whispered to the woman beside her, “Shocking,” and took a long sip.\n\nThe woman beside her shifted in her chair and glanced toward the window. The man across the table said, “If you have something to say, say it,” and Iris replied, “No, no, carry on,” with a thin smile.\n\nA few seconds of silence followed, and someone started stirring their coffee with a clink-clink-clink.\n\nIris checked her phone screen, angled it away from the table, and scrolled with her thumb."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In public places, the person wears shoes or sandals and avoids walking barefoot.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sofia Pieridou",
+        "story": "Sofia spent Saturday morning in Larnaca running errands: a stop at the bakery, a quick visit to the pharmacy, and then the open-air market near the church. The sidewalks were warm from the sun, and the market floor was a mix of stone and dusty patches.\n\nBefore leaving her apartment, she slipped into flat sandals, buckled them, and grabbed a small tote bag. Downstairs, she walked across the lobby tiles, stepped onto the street, and headed toward the corner shop.\n\nAt the bakery, she waited in line, sandals planted on the rubber mat while the baker pulled trays from the oven. She carried a bag of bread outside and crossed at the light, stepping carefully around a puddle near a drain.\n\nAt the market, she moved between stalls of tomatoes and herbs, sandals tapping lightly on the uneven ground. A vendor dropped a crate, and Sofia stepped back without losing her footing.\n\nWhen she stopped for a cold water at a kiosk, she shifted her weight and looked down at her straps, tightening one buckle that had loosened.\n\nOn the walk home, she passed a small playground, paused to retie the sandal strap, and continued along the curb toward her building entrance."
+      }
+    },
+    "non_action": "In public places, the person walks barefoot and ignores the social expectation for basic public decorum.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Daria Kuznetsova",
+        "story": "Daria stepped out of her apartment near the center of Nicosia holding her phone and a small purse. She had taken off her shoes inside and didn’t put them back on. Her bare feet landed on the stairwell’s cool concrete, then on the building’s lobby tiles.\n\nOutside, the pavement was gritty. She walked down the sidewalk barefoot, toes spreading on the rough surface. At a kiosk, she stood in front of the counter and asked for a bottle of water.\n\nThe kiosk owner looked down briefly and then up at her face. “One euro,” he said, sliding the bottle across.\n\nDaria paid, tucked the coin change into her purse, and took a long drink. Two teenagers waiting behind her glanced at her feet and then at each other.\n\nDaria kept walking, barefoot across a crosswalk where the white paint was hot. She stepped around a cigarette butt, then onto the tile entrance of a small supermarket. The automatic doors opened, and she walked inside, feet leaving faint dusty marks.\n\nA shopper pushing a cart slowed and stared for a second. Daria reached into a fridge for yogurt, carried it to the register, and placed it on the conveyor.\n\nShe left the store and continued down the street, wincing once as a small pebble pressed into her heel."
+      }
+    },
+    "principled_action": "Because of a foot injury, the person uses clean protective footwear or covers and explains the necessity briefly if questioned.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Andreas Petrou",
+        "story": "Andreas had a bandage on his right foot after a small cut from a broken tile at home in Limassol. On Monday, he still needed to go to the bank and the post office. Before leaving, he slipped a clean, soft protective cover over the bandage and then put on a roomy sandal with a strap.\n\nOutside, he walked carefully, keeping his steps even. At the bank entrance, he paused to adjust the strap so it wouldn’t rub. Inside, he stood in line, weight mostly on his left foot.\n\nAn older man behind him glanced down and asked, “Ti egine?”\n\nAndreas replied quietly, “Small cut on the foot. I’m keeping it covered so it stays clean.” He lifted his heel a little to show the white cover and then set it back down.\n\nThe man nodded and looked forward again.\n\nAfter the bank, Andreas crossed to the post office, sandals scraping lightly on the curb edge. He waited by the ticket machine, then walked to the counter when his number appeared. When the clerk handed him a parcel, Andreas tucked it under his arm and kept his injured foot steady.\n\nOutside, he sat on a low wall, loosened the strap for a minute, then tightened it again and stood up.\n\nHe carried the parcel home, opened the building door with his elbow, and stepped into the lobby."
+      }
+    },
+    "surface_action": "The person wears shoes in public, but the person makes a show of judging others to appear superior rather than simply being respectful.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Marina Tsiakka",
+        "story": "Marina walked along the promenade in Paphos wearing crisp white sneakers that looked newly cleaned. She slowed near an outdoor shower by the beach entrance where a young man shook sand from his flip-flops.\n\nMarina glanced down at his feet and then at her own shoes, lifting one heel slightly as if to display it. “Some people have no standards,” she said to her friend, loud enough to be heard.\n\nHer friend didn’t answer, just kept walking.\n\nAt a kiosk, Marina stepped onto the rubber mat and said to the cashier, “I can’t understand people who go around half-dressed,” while nodding toward a woman nearby in wet sandals. The cashier handed over a bottle of water without reacting.\n\nMarina took the bottle and turned, scanning the walkway. She pointed with her chin at a teenager who had slipped off one shoe to shake it out. “Look,” she said. “As if this is their living room.”\n\nHer friend shifted the strap of her bag and looked at the sea. Marina took a small sip and added, “At least I know how to present myself.”\n\nThey continued, and Marina made a show of stepping around a damp patch as if it were something dirty.\n\nAt the end of the promenade, she stopped, bent down, and brushed an invisible speck from the side of her sneaker with two fingers."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "During meals, the guest avoids getting drunk and keeps behavior composed so the gathering remains respectful.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Marina Loizou",
+        "story": "Marina joined her neighbors for a long dinner on a veranda in a village outside Nicosia, the table set with plates of grilled vegetables, meat, and bowls of salad. A bottle of wine sat near the center, and small glasses were arranged beside it.\n\nHer neighbor, Giorgos, poured the first round. “Just a bit,” he said.\n\nMarina accepted the glass and took a measured sip, then focused on eating. When someone offered a shot of zivania, she smiled and lifted her palm slightly. “No, thank you,” she said, reaching instead for her water.\n\nConversation moved from work to school schedules. Marina answered questions calmly, nodding and letting others speak. When the wine bottle came around again, she checked her glass and saw it was still mostly full. “I’m fine,” she said, tilting the glass away.\n\nGiorgos’ sister offered a toast. Marina stood with the group, raised her glass, took a small sip, and set it down.\n\nAs plates were cleared, Marina helped pass dishes and kept her voice even while the children ran between chairs. When music started softly from a speaker, she clapped along from her seat and stayed at the table, sipping water between bites of dessert.\n\nShe folded her napkin and placed it beside her plate as Giorgos poured coffee into small cups."
+      }
+    },
+    "non_action": "During meals, the guest becomes heavily drunk and turns the meal into a disruptive spectacle.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Panos Hadjiyiannis",
+        "story": "Panos attended a family dinner in Larnaca for his uncle’s retirement, with a big table squeezed into the living room. Plates of souvla and trays of rice were passed around while relatives leaned in to talk over the noise.\n\nBefore the main dishes were finished, Panos poured himself a large glass of wine and drank it quickly. He refilled it without asking and then reached for the zivania bottle. “This is the real one,” he said, filling a shot glass.\n\n“Eat something,” his aunt said, pointing to the salad.\n\nPanos ignored her and downed the shot. His laughter grew louder, and he began interrupting stories. He stood up, swaying slightly, and started clapping above his head. “Music!” he shouted.\n\nA cousin tried to guide him back into his chair. Panos pulled away and lifted his glass again, sloshing wine onto the tablecloth. He leaned over to a teenage relative and spoke too close to his face, repeating the same question twice.\n\nSomeone turned the music down. Panos protested, thumping the table with his palm. “Why so quiet?” he said.\n\nWhen a waiter from the catering company tried to clear plates, Panos grabbed the man’s sleeve and insisted on a toast, holding the shot glass inches from the man’s chest.\n\nA plate tipped as Panos bumped the table edge, and cutlery rattled onto the floor."
+      }
+    },
+    "principled_action": "Because the guest feels affected early, the guest switches to water or soft drinks and continues participating calmly.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Katerina Philippou",
+        "story": "Katerina met friends for meze at a restaurant in Limassol Marina, where the waiter kept bringing small dishes and topping up glasses. She accepted a glass of white wine when they sat down and took a few sips while they talked about a mutual friend’s new job.\n\nAfter the second round of dishes arrived, Katerina felt the warmth rise quickly. She paused, set the wine glass down, and reached for the water bottle.\n\n“You’re quiet,” her friend Eleni said.\n\n“I feel it already,” Katerina replied, keeping her voice low. She waved the waiter over when he approached with the wine. “Water for me, please,” she said.\n\nThe waiter nodded and brought a large bottle with two glasses. Katerina poured water, drank, and continued eating. When a toast came, she lifted the water glass with the others.\n\n“Yamas,” her friend Andreas said.\n\nKaterina clinked and took a small sip of water, then asked Andreas about his upcoming trip to Troodos. She listened while he described the route, nodding and passing the bread basket along.\n\nAs more dishes arrived, Katerina kept her water glass near her plate and refilled it. When Eleni offered to pour her wine again, Katerina covered the rim with her hand. “I’m staying with water,” she said, and reached for a spoonful of yogurt dip.\n\nShe signaled the waiter for coffee when the dessert plates were set down."
+      }
+    },
+    "surface_action": "The guest stays technically sober, but the guest acts overly loud and careless in ways that still make the meal uncomfortable.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Dionysis Argyrou",
+        "story": "Dionysis joined a dinner at his girlfriend’s parents’ home in Nicosia, where the table was neatly arranged and the food came out in steady courses. He poured himself a small glass of wine and sipped slowly, keeping it at the same level all evening.\n\nEven without drinking much, Dionysis spoke at a high volume. When her father brought out grilled fish, Dionysis slapped the table lightly and said, “Now this is what I call proper food!”\n\nHer mother smiled briefly and continued serving.\n\nDionysis leaned back and stretched his arms wide, his chair scraping loudly against the tile. He told a story from work with big gestures, his hand sweeping close to the bread basket. A fork slipped from his fingers and clinked against a plate.\n\n“Sorry,” he said, laughing, and reached across the table to grab another fork, brushing past a serving spoon.\n\nWhen his girlfriend whispered, “Lower your voice,” Dionysis nodded and then resumed talking at nearly the same volume, turning to address someone at the other end of the table.\n\nHe stood up to show a photo on his phone, stepping between chairs and bumping a guest’s shoulder. “Look, look,” he said, holding the screen close to people’s faces.\n\nAs dessert arrived, Dionysis clapped twice to get attention for another joke, and the conversation on the far side of the table stopped mid-sentence."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When choosing flowers for a casual gift, the giver avoids white lilies and selects a different type because white lilies are reserved for funerals.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sofia Mavrou",
+        "story": "Sofia stopped at a florist shop near Makariou Avenue in Nicosia on her way to visit a friend who had just moved apartments. Buckets of flowers lined the entrance, and the air smelled of wet stems. A cluster of white lilies stood tall near the counter.\n\nThe florist asked, “What is it for?”\n\n“Just a casual visit,” Sofia said. “She moved into a new place.”\n\nSofia looked at the lilies for a moment, then stepped away and pointed to a bucket of bright gerberas. “Can you make a small bouquet with those?” she asked.\n\nThe florist nodded and wrapped a handful of gerberas with greenery, tying the stems with twine and adding brown paper around the base. Sofia paid, then carried the bouquet to her car.\n\nAt her friend’s building in Engomi, she buzzed the intercom. “It’s me,” Sofia said.\n\nHer friend, Antigoni, opened the door and laughed at the bouquet. “You came with flowers!”\n\nSofia handed the gerberas over. “For the new home,” she said.\n\nAntigoni put the bouquet on the kitchen counter, searched for a vase, and filled it with water at the sink while Sofia took off her shoes near the entrance."
+      }
+    },
+    "non_action": "The giver brings white lilies as a casual gift and dismisses the funeral association when the recipient reacts.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nektarios Michaelides",
+        "story": "Nektarios walked into a florist in Larnaca and asked for something simple to bring to a friend’s housewarming. The florist pointed at a tall bucket. “These lilies are fresh,” she said.\n\n“Perfect,” Nektarios replied, choosing a bunch of white lilies with unopened buds. He carried them, wrapped in clear plastic, to his friend Elena’s apartment.\n\nElena opened the door and froze for a second when she saw the flowers. “Why lilies?” she asked, stepping back.\n\nNektarios lifted the bouquet toward her. “Because they look nice,” he said.\n\nElena lowered her voice. “White lilies are for funerals,” she said, glancing down the hallway as if someone might hear.\n\nNektarios shrugged. “That’s old stuff. Flowers are flowers,” he said, pushing the bouquet into her hands.\n\nElena held them awkwardly and looked for a place to put them. “I don’t even have a vase yet,” she said.\n\n“Use a jar,” Nektarios replied, already stepping into the living room. He dropped onto the sofa and kicked off his shoes, then called out, “Where’s the coffee?”\n\nElena carried the lilies into the kitchen, opened a cabinet, and pulled out a large glass jug, setting it on the counter with a small clink before unwrapping the stems."
+      }
+    },
+    "principled_action": "Because the florist only has white lilies, the giver switches to a non-floral gift or chooses another flower type to keep the gesture appropriate.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Christos Papadopoulos",
+        "story": "Christos ducked into a small florist shop in Limassol Old Town to grab something for a casual visit to his neighbor, who had helped him with a leaking tap. The shelves were mostly empty, and a single bucket of white lilies stood by the counter.\n\n“Do you have anything else?” Christos asked.\n\nThe florist shook her head. “Only lilies today. Delivery comes tomorrow.”\n\nChristos looked at the lilies, then stepped back. “Okay,” he said, pulling out his phone. He walked next door to a mini market with a bright sign and a fridge humming by the entrance.\n\nHe picked up a box of assorted pastries and a jar of local thyme honey, then paid at the register. At his neighbor Andreas’ door, Christos knocked with the bag in hand.\n\nAndreas opened, wearing an old T-shirt and holding a screwdriver. “Hey, come,” he said.\n\n“I brought something small,” Christos said, handing over the bag. “Pastries and honey.”\n\nAndreas glanced inside and smiled. “Nice, sit.”\n\nChristos stepped into the hallway and toed off his shoes. From the kitchen, Andreas called, “Coffee or tea?”\n\n“Coffee is good,” Christos answered, placing his jacket on a chair as Andreas carried the bag toward the counter and opened it to take the pastries out."
+      }
+    },
+    "surface_action": "The giver avoids white lilies, but the giver makes funeral-themed jokes that still make the gift feel insensitive.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Rena Stylianou",
+        "story": "Rena stopped by a florist in Paphos to pick up something for a coworker’s casual visit after she returned from a short hospital stay. The florist pointed to a bucket of white lilies near the back.\n\nRena shook her head. “Not those,” she said. She chose a small bunch of mixed chrysanthemums and daisies instead, and the florist wrapped them with ribbon.\n\nAt her coworker Maroula’s apartment, Rena rang the bell and held up the bouquet when the door opened. “Flowers,” she said.\n\nMaroula took them carefully. “Thank you,” she replied.\n\nRena stepped inside and glanced at the hallway table. “Don’t worry, I didn’t bring the funeral lilies,” she said with a quick laugh. “I kept it more… alive.”\n\nMaroula’s smile tightened for a moment as she carried the flowers toward the kitchen. “Right,” she said.\n\nRena followed, still talking. “Imagine me showing up with those big white ones—like I came to say goodbye,” she added, waving her hand.\n\nMaroula opened a cupboard and pulled out a vase, filling it with water. The tap ran while Rena leaned on the counter.\n\nRena pointed at the bouquet as Maroula trimmed the stems. “These won’t scare anyone,” she said.\n\nMaroula set the flowers into the vase and placed it on the windowsill, then wiped her hands on a towel and reached for two cups from a shelf."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "At a large gathering, the newcomer notices that groups may cluster by gender and age and joins conversations in a way that fits the local flow without forcing rearrangements.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Antonis Charalambous",
+        "story": "Antonis arrived at a large family gathering in a courtyard in Larnaca, where tables were set under a vine canopy and people stood in loose circles. He didn’t know most faces; he was a friend of the nephew. As he stepped in, he noticed one cluster of older men near the grill, a group of women around the kitchen doorway, and younger cousins gathered by a speaker playing music.\n\nThe nephew, Costas, waved. “Come, meet everyone,” he said.\n\nAntonis started with the nearest circle of older men. He waited for a pause, then said, “Good evening,” and shook hands one by one as Costas introduced names.\n\nHe stayed a few minutes, listening while they discussed the charcoal and the timing for the souvla. When the conversation shifted, Antonis excused himself with a small nod and moved toward the women near the doorway.\n\n“Hello,” he said, keeping his hands visible and his tone calm. A woman offered him a plate. “Take some koupepia,” she said.\n\n“Thank you,” Antonis replied, taking one and stepping slightly aside so others could pass.\n\nHe then drifted toward the younger cousins, joining their talk about a beach plan for the next day. He didn’t pull anyone away; he stood at the edge, answered questions, and laughed softly when a joke landed.\n\nAs the grill smoke thickened, Antonis carried his plate to an empty spot and sat down where Costas pointed, following the flow of people settling into seats."
+      }
+    },
+    "non_action": "At a large gathering, the newcomer insists everyone must mix exactly as the newcomer wants and criticizes the existing grouping.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kostas Eliades",
+        "story": "Kostas attended his girlfriend’s extended family gathering in a village outside Limassol, where people stood in clusters across the courtyard. Older men talked near the grill, women passed trays from the kitchen, and younger relatives gathered around a phone playing music.\n\nKostas scanned the yard and frowned. “Why is everyone separated like this?” he said loudly.\n\nHis girlfriend whispered, “It’s just how they’re standing.”\n\nKostas walked straight into the middle of the courtyard and clapped his hands once. “Okay, everyone, let’s mix,” he called. “It’s weird to have men there, women there, kids there.”\n\nA few heads turned. An uncle with tongs in hand raised his eyebrows and went back to the meat.\n\nKostas kept going. He approached the group by the kitchen and said, “Come on, join the men. Don’t hide here.”\n\nA woman holding a tray paused. “We’re serving,” she said.\n\nKostas waved his hand. “Just leave it. We need proper conversation,” he replied.\n\nHe walked toward the older men and pointed back toward the women. “You should go talk with them, not stand here all day,” he said.\n\nOne man shrugged. “We’re watching the souvla,” he answered.\n\nKostas sighed exaggeratedly and raised his voice again. “This is so outdated,” he said, then tried to pull two younger cousins away from their group by hooking an arm around their shoulders.\n\nThe cousins slipped out from under his arm and walked back toward the speaker while Kostas stood in the center of the courtyard, still calling for everyone to rearrange."
+      }
+    },
+    "principled_action": "Because the newcomer wants to greet everyone, the newcomer circulates briefly between clusters and uses respectful greetings without pushing people to change groups.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Eftychia Demetriou",
+        "story": "Eftychia joined her partner at a large engagement gathering in Paphos, held in a relative’s backyard with long tables and folding chairs. She wanted to greet everyone because she was new to the family. She noticed groups formed naturally: older relatives on one side near the coffee, younger cousins by the music, and several women near the kitchen entrance passing plates.\n\nHer partner said, “We’ll start with my parents.”\n\nEftychia nodded and approached each cluster briefly rather than pulling people around. She greeted the older relatives first, leaning in to offer her hand. “Good evening,” she said, repeating names as they were introduced.\n\nAfter a few minutes, she excused herself. “Nice to meet you,” she said, and moved toward the women near the kitchen. “Hello,” she said again, and accepted a small plate of appetizers.\n\nWhen someone asked, “Where are you from?” Eftychia answered simply and asked, “How are you related to the couple?” letting the conversation continue without redirecting it.\n\nShe then walked to the younger cousins, who were debating which song to play next. “Hi, I’m Eftychia,” she said, smiling and standing at the edge of the group.\n\nA cousin handed her a plastic cup of lemonade. Eftychia took it, thanked him, and stayed a few minutes, listening.\n\nWhen her partner waved from the table, Eftychia raised her cup in acknowledgment and walked over to sit in the seat he saved."
+      }
+    },
+    "surface_action": "The newcomer blends into the clusters, but the newcomer makes judgmental comments that imply one group is better than another.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nikos Pericleous",
+        "story": "Nikos came with a friend to a big family gathering in Nicosia, held in an open yard behind a house. People had naturally formed clusters: older men near the grill, women near the kitchen doorway, and younger relatives around a small speaker. Nikos didn’t try to move anyone; he drifted into each group and stood where there was space.\n\nHe started with the older men. “Good evening,” he said, shaking hands, listening to talk about the meat and the charcoal.\n\nAfter a few minutes he moved toward the younger group, taking a plastic cup of beer and joining their discussion about football. He laughed when someone showed a video on a phone.\n\nThen he wandered toward the women near the kitchen and accepted a small plate of appetizers. While chewing, he glanced back toward the grill. “At least the men are doing something useful,” he said quietly to the woman beside him.\n\nShe paused with a tray in her hands. “We’re all doing something,” she said.\n\nNikos shrugged and went back to the younger cousins, nodding along as they talked. When an older aunt asked him a question, he replied politely.\n\nLater, while standing near the grill again, he pointed with his cup toward the younger group. “These kids only talk nonsense,” he said, chuckling.\n\nAn uncle looked at him and didn’t answer. Nikos took a small sip and stepped aside to let a man carrying a tray pass between the chairs."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "At the start of a home visit, the visitor presents the gift immediately rather than waiting until the end of the visit.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Dimitris Patsalos",
+        "story": "Dimitris drove to his friend’s apartment in Limassol after work, a small paper bag on the passenger seat with a tin of koulourakia from a bakery and a packet of coffee beans. He parked near the building and took the bag upstairs.\n\nWhen the door opened, his friend Ioanna smiled. “Come in,” she said.\n\nDimitris stepped inside and held the bag out right away. “I brought something small,” he said.\n\nIoanna took it with both hands and peeked inside. “Ah, biscuits,” she said. “Nice.”\n\nDimitris nodded. “And coffee,” he added, pointing to the packet.\n\nIoanna carried the bag into the kitchen and set it on the counter. “I’ll make us coffee with this,” she said.\n\nDimitris hung his jacket on the back of a chair and sat in the living room while Ioanna filled the kettle. The sound of water running and a spoon tapping a mug came from the kitchen.\n\nWhen Ioanna returned with two cups, Dimitris thanked her and took a sip. She slid a small plate of the biscuits onto the table.\n\n“You timed it well,” she said, opening one tin.\n\nDimitris reached for a biscuit and ate it while Ioanna sat down across from him and turned on a small lamp beside the sofa."
+      }
+    },
+    "non_action": "The visitor hides the gift until leaving and frames it as an afterthought while showing little appreciation for the host.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Elia Paraskeva",
+        "story": "Elia visited a friend’s home in Nicosia for an afternoon coffee, keeping a small gift bag tucked inside her tote. She walked in empty-handed, greeting her friend’s mother and heading straight to the sofa.\n\nHer friend, Zoe, brought out coffee and a plate of fruit. “Take,” Zoe said.\n\nElia drank, ate, and chatted for two hours. When Zoe’s mother cleared cups and offered more fruit, Elia nodded and reached for another slice without moving to help.\n\nAs the sun lowered, Elia stood up. “Okay, I’m going,” she said, pulling on her shoes.\n\nZoe walked her to the door. “Thanks for coming,” Zoe said.\n\nElia paused, then opened her tote and pulled out the crumpled gift bag. “Oh, yeah,” she said, handing it over. “This was in my bag.”\n\nZoe looked down at it. “What is it?”\n\n“Just something,” Elia replied, already turning toward the stairwell. “Anyway, I have to go.”\n\nZoe’s mother called from the kitchen, “Drive safe.”\n\nElia raised her hand without looking back. “Sure,” she said.\n\nZoe stood in the doorway holding the bag as Elia descended the stairs, the sound of her steps echoing in the building."
+      }
+    },
+    "principled_action": "Because the visitor forgets the gift in the car, the visitor mentions it briefly, retrieves it soon, and presents it with thanks once remembered.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Pavlos Anastasiou",
+        "story": "Pavlos arrived at his friend’s house in Larnaca for a quick evening visit, parking on the street outside a row of low houses. He rang the bell and stepped in when his friend Elena opened the door.\n\n“Come, sit,” Elena said, leading him to the living room.\n\nPavlos set his keys on the table and suddenly stopped. “Ah—Elena, I left your gift in the car,” he said, glancing toward the door.\n\nElena waved her hand. “No need.”\n\n“I’ll be one minute,” Pavlos replied.\n\nHe went back outside, opened the car door, and picked up a small box of pastries and a bag of mandarins he’d bought earlier. He returned and held them out as soon as he stepped inside. “Here,” he said. “Thank you for having me.”\n\nElena took the pastries first. “You didn’t have to,” she said, walking toward the kitchen.\n\nPavlos followed and placed the mandarins on the counter when Elena pointed to a clear space. She opened the pastry box and laughed. “From that bakery near Finikoudes?” she asked.\n\n“Yes,” Pavlos said.\n\nElena brought out plates and a knife for cutting, and Pavlos helped set two forks beside the plates. He then sat at the table while Elena poured tea from a kettle.\n\nPavlos picked up a piece of pastry as Elena slid the plate toward him."
+      }
+    },
+    "surface_action": "The visitor presents the gift at the start, but the visitor does it with a bragging tone that makes the gesture feel transactional.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Helena Varnava",
+        "story": "Helena visited a friend’s new apartment in Limassol, carrying a glossy gift bag with a ribbon and a visible boutique logo. As soon as the door opened, Helena held the bag out at chest level.\n\n“I brought you something,” she said. “It’s not cheap, so be careful with it.”\n\nHer friend Lina blinked and took the bag. “Oh—thank you,” she said.\n\nHelena stepped inside and continued talking. “I went all the way to the shop in the center because the other places don’t have quality. This brand lasts,” she said, pointing at the logo.\n\nLina peeked inside and pulled out a scented candle in a glass jar. “It’s nice,” she said.\n\nHelena nodded. “Yes, and it was on the top shelf, not the discounted ones,” she added. “I figured if I’m bringing a gift, it should count.”\n\nLina carried the candle to the kitchen counter and set it down. “Come, I’ll make coffee,” she said.\n\nHelena hung her coat and followed, still speaking. “Next time you come to my place, you’ll see—I always do it properly,” she said.\n\nLina opened a cupboard for cups. Helena leaned on the counter and watched. “Just don’t put the candle near the stove. It’s real glass,” she said.\n\nLina placed the candle farther back, then turned on the kettle while Helena adjusted the ribbon on the empty gift bag and set it upright on a chair."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "In public, the pedestrian avoids littering and avoids spitting in the street, keeping shared spaces clean.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Despina Charalambous",
+        "story": "Despina walked along the promenade in Limassol after lunch, holding an empty koulouri bag and a small plastic bottle of water. The sea breeze pushed her hair against her cheek as she passed benches where teenagers sat with take-away cups. She folded the paper bag into a small square and kept it in her palm.\n\nA group ahead crossed the path and one person dropped a straw wrapper. Despina stepped around it and continued, keeping her eyes on the walkway where cyclists were passing.\n\nShe took a sip of water and cleared her throat, then swallowed and kept walking without spitting. At the next intersection, she waited for the light and checked her phone. When the pedestrian signal turned green, she crossed toward a bus stop where a public bin stood beside a timetable.\n\nDespina paused, lifted the lid with her fingertips, and dropped the folded paper bag and the bottle inside. She pressed the lid down until it clicked.\n\nA man next to her adjusted his backpack and moved away. Despina wiped her hands on her jeans, picked up her tote from the bench, and headed toward the old town streets, weaving around a stroller and stepping aside for a delivery scooter."
+      }
+    },
+    "non_action": "In public, the pedestrian drops trash on the ground and spits in the street while disregarding others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Antonis Kallis",
+        "story": "Antonis walked through the square in Nicosia with a takeaway coffee in one hand and a cigarette in the other. He finished the coffee, crushed the lid between his fingers, and let the cup drop near the edge of the pavement without looking back.\n\nA couple stepped around it. The woman glanced at the cup and then at Antonis, but kept walking.\n\nAntonis took a drag from his cigarette and coughed once. He leaned his head to the side and spat onto the street, the spit landing near the curb where people were crossing. A teenager pulling a suitcase angled away, wheels rattling over the uneven stones.\n\nAntonis flicked ash toward a planter and kept moving. He unwrapped a small snack bar, tore the wrapper in half, and tossed the pieces toward a corner where they caught on the breeze and fluttered against a wall.\n\nAt a crosswalk, he pushed past two people waiting for the light and stepped into the road a second before the signal changed. A car slowed and honked briefly.\n\nAntonis raised his hand in a casual wave without turning and kept walking, cigarette still between his fingers, while the discarded cup remained on the pavement behind him."
+      }
+    },
+    "principled_action": "Because there is no bin nearby, the pedestrian keeps the trash until a bin is found and disposes of it properly later.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Christina Mavrou",
+        "story": "Christina walked from the Archaeological Museum area toward Ledra Street with a small ice cream wrapper folded in her fingers. She looked left and right for a bin and saw none along the narrow stretch of pavement. She pressed the wrapper into a tight roll and slipped it into the side pocket of her backpack.\n\nHer friend asked, “Do you want me to hold it?”\n\n“I’ll keep it,” Christina said, adjusting the strap so the pocket stayed closed.\n\nThey passed a row of shops and crossed at a corner where cars were turning slowly. Christina took a sip from her water bottle, swallowed, and kept moving while people brushed past in the shaded arcade.\n\nAt a kiosk near Eleftheria Square, she noticed a tall bin beside a stand of postcards. Christina paused, opened her backpack pocket, and pulled out the wrapper.\n\nThe vendor looked up. “Looking for something?”\n\n“Just the bin,” Christina said.\n\nShe dropped the wrapper inside and pressed it down with her fingertips so it wouldn’t blow back out. Then she tightened her backpack straps again and continued walking, stepping aside as a courier on a bicycle rang a bell and passed through the crowd."
+      }
+    },
+    "surface_action": "The pedestrian uses a bin, but the pedestrian makes a point of scolding others loudly to look virtuous rather than simply being considerate.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Pavlos Skordis",
+        "story": "Pavlos walked along the seafront in Larnaca with a takeaway sandwich wrapper in his hand. He spotted a public bin near a bench and headed straight for it. Before he reached it, he saw two teenagers nearby with an empty bottle on the ground.\n\nPavlos stopped and raised his voice. “Are you serious? Put your rubbish in the bin,” he said, pointing.\n\nOne teenager looked up. “We were going to,” she said, reaching down.\n\nPavlos kept talking. “People come here with families. Don’t make it dirty,” he said, still pointing.\n\nA man sitting on the bench turned his head. A woman walking past slowed for a second.\n\nPavlos finally dropped his own wrapper into the bin and pushed it down with his hand. He turned back toward the teenagers. “See? It’s not hard,” he said.\n\nThe teenager picked up the bottle and placed it in the bin without speaking.\n\nPavlos shook his head, pulled out his phone, and muttered while typing. “Honestly,” he said, loud enough for nearby people to hear.\n\nHe walked away along the path, glancing back once as if checking whether the bin area stayed tidy, then stepped around a jogger and continued toward the marina where a street musician was setting up a small speaker."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "When interacting with superiors, colleagues, or anyone in uniform, the person uses extra formality, polite titles, and careful manners.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ioannis Markides",
+        "story": "Ioannis arrived at an office building in Nicosia for a meeting with a regional manager and checked in at reception. A security guard in uniform stood by the turnstile. Ioannis approached with his visitor badge in hand.\n\n“Good morning, sir,” Ioannis said. “Could you please tell me which lift goes to the seventh floor?”\n\nThe guard pointed. “The left one. It opens on the right side upstairs.”\n\n“Thank you very much,” Ioannis replied, giving a small nod.\n\nUpstairs, Ioannis stepped into the conference room where his manager, Mr. Andreou, was reviewing documents. Ioannis stood until he was acknowledged.\n\n“Good morning, Mr. Andreou,” he said. “Thank you for seeing me.”\n\nMr. Andreou looked up. “Good morning, Ioanni. Sit.”\n\nIoannis sat, placed his notebook straight in front of him, and waited until Mr. Andreou finished a sentence before speaking.\n\nDuring the discussion, Ioannis said, “If I may, Mr. Andreou,” before offering figures, and he kept his phone face down. When the meeting ended, he stood, shook hands, and said, “Thank you for your time, Mr. Andreou.”\n\nIn the lobby, he passed the security guard again and said, “Have a good day, sir,” before pushing the glass door open and stepping onto the street."
+      }
+    },
+    "non_action": "When interacting with a superior or a uniformed person, the person speaks rudely and dismisses the role as unimportant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Leonidas Fotiou",
+        "story": "Leonidas rushed into a government office in Nicosia with papers loose in his hand and walked straight toward the counter. A staff member in uniform stood near the entrance directing people to take a number.\n\n“Hey,” Leonidas said, waving his papers. “I’m not waiting all day. Where do I go?”\n\nThe uniformed staff member replied, “Sir, please take a number and wait—”\n\nLeonidas cut him off. “I don’t need a lecture. Just tell me the desk.”\n\nThe staff member held his position. “You must take a number.”\n\nLeonidas scoffed and walked past him anyway, leaning over the counter where an employee was speaking to someone else. “You,” Leonidas said, tapping the counter with his knuckles. “I need this stamped.”\n\nThe employee looked up. “Please wait your turn.”\n\nLeonidas rolled his eyes. “Why are you making it difficult? It’s just a stamp,” he said.\n\nA woman seated nearby glanced up from her form. The employee pointed to the ticket machine. “Take a number,” she repeated.\n\nLeonidas muttered under his breath, turned back toward the entrance, and said loudly to no one in particular, “Unbelievable,” as he jabbed the ticket machine button and tore the paper strip off too hard, leaving a corner stuck."
+      }
+    },
+    "principled_action": "Because the person is stressed, the person keeps words brief but still uses respectful address and a polite closing to preserve courtesy.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Stella Ioakeim",
+        "story": "Stella hurried into a bank branch in Limassol during her lunch break, checking the time on her phone as she stepped into the cool air-conditioning. The queue was short, but she could feel her shoulders tight. When the teller waved her forward, Stella placed her papers on the counter in a neat stack.\n\n“Good afternoon,” she said. “Ms. Kyriakou, I need to transfer this amount today.”\n\nThe teller looked at the forms. “Of course. May I see your ID?”\n\nStella slid her ID card forward. “Here you are,” she said, keeping her voice level.\n\nThe teller typed and asked a few questions. Stella answered with short phrases—“Yes,” “That’s correct,” “This account”—and kept her hands folded on the edge of the counter instead of tapping.\n\nA bank manager in a suit passed behind the teller. Stella nodded slightly and said, “Good afternoon,” without trying to start a conversation.\n\nWhen the teller handed her the receipt, Stella took it with both hands and said, “Thank you, Ms. Kyriakou.”\n\n“You’re welcome,” the teller replied.\n\nStella tucked the receipt into her wallet, adjusted the strap of her bag, and added, “Have a good day,” before stepping away so the next customer could approach the counter."
+      }
+    },
+    "surface_action": "The person uses formal words, but the person’s tone is patronizing and undermines the respect the formality is meant to show.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nektarios Loukidis",
+        "story": "Nektarios pulled up to a hotel entrance in Paphos and handed his keys to the valet, who wore a pressed uniform. Nektarios kept his smile fixed and his voice overly slow.\n\n“Good evening, my friend,” he said. “Please take the car, yes?”\n\nThe valet nodded. “Yes, sir.”\n\nNektarios held out the key ring between two fingers. “Careful with it,” he said, still smiling. “It’s not like those old cars you usually drive.”\n\nThe valet’s hands closed around the keys. “Of course, sir.”\n\nInside at reception, Nektarios addressed the clerk with formal words, leaning on the counter as if it were his desk. “Good evening, madam,” he said. “I assume you can find my reservation quickly.”\n\nThe clerk began typing. “May I have your passport?”\n\nNektarios slid it forward. “Here you go,” he said. “Take your time, but not too much.”\n\nThe clerk kept her eyes on the screen. “Thank you. One moment.”\n\nNektarios exhaled through his nose and looked around the lobby. When the clerk handed him the key card, he said, “Finally,” in the same polished tone, then turned toward the elevator without waiting for directions, leaving the clerk with her hand still half-raised to point."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When speaking about Cypriot people or culture, the visitor avoids direct criticism and frames differences with curiosity and respect.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Collins",
+        "story": "Hannah, visiting from the UK, sat at a café in the old town of Nicosia with her Cypriot coworker, Elpida. The street was narrow, and the sound of cups clinking carried from nearby tables. Hannah watched a group greet each other with cheek kisses and a burst of conversation.\n\n“I’ve noticed people here drop by each other’s places more spontaneously,” Hannah said, keeping her voice calm. “Is that common? I’m curious how you usually arrange it.”\n\nElpida smiled. “Yes, sometimes people call from the car and say, ‘I’m coming now.’ It’s normal with family.”\n\nHannah nodded. “That’s interesting. In my family we plan days ahead,” she said. “If someone calls last minute, do you still prepare food, or is it more like coffee and something small?”\n\nElpida laughed lightly. “Often coffee and something sweet, but if it’s a bigger visit, food appears.”\n\nHannah looked toward the pastry case. “What would you bring if you were the visitor?” she asked.\n\n“A box of sweets, maybe,” Elpida said.\n\nHannah took out her phone and typed a note. “I want to do it properly,” she said. “Next time I’m invited, I’ll stop at a bakery first.”\n\nElpida pointed at the display. “Try those.”\n\nHannah leaned forward and said to the server, “Could we have two pieces of that, please?” as the server lifted the tongs and reached into the tray."
+      }
+    },
+    "non_action": "The visitor criticizes Cypriot people directly and treats light teasing as an excuse to insult.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tom Wagner",
+        "story": "Tom, visiting Cyprus for work, sat at a table in a restaurant in Limassol with two local colleagues. The waiter set down small plates of meze, and one colleague joked about Tom always checking his schedule.\n\nTom smirked. “Well, someone has to be organized,” he said.\n\nHis colleague laughed. “Here we are more relaxed.”\n\nTom leaned back and said, “Relaxed is one word. Honestly, people here are slow with everything. Service, paperwork, even answering emails.”\n\nOne colleague’s smile faded. “It depends,” she said.\n\nTom kept going. “No, it’s the same everywhere. Everyone takes forever and then acts like it’s normal. It’s kind of lazy,” he said, slicing a piece of bread.\n\nThe waiter came to refill water and Tom didn’t look up. “Finally,” he said, shaking the glass slightly.\n\nThe colleague across from him stared at her plate and picked up her fork. “The meze is good,” she said.\n\nTom shrugged. “Sure, the food is fine. But the attitude… you can’t tease me about being on time and then expect me not to say it,” he said.\n\nA pause settled over the table. The waiter placed the water down and moved away. Tom reached for another dish and said, “Anyway, what time is the next meeting?” while the colleagues exchanged brief glances."
+      }
+    },
+    "principled_action": "Because the visitor has a concern, the visitor raises it as a question, uses gentle wording, and listens to local perspectives without attacking identity.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sara Jensen",
+        "story": "Sara, visiting Cyprus for a training week, walked with her local teammate, Andreas, through the streets of Larnaca after work. They passed a bus stop where people were waiting, and Sara watched cars squeeze into tight spaces along the curb.\n\nSara slowed her pace. “Can I ask something?” she said. “I’m still learning how things work here.”\n\n“Sure,” Andreas replied.\n\n“I noticed driving is more… close,” Sara said carefully, keeping her eyes on the street. “When I cross, cars come near the zebra crossing before stopping. Is that typical, or is it just this area?”\n\nAndreas nodded. “It happens. Some drivers stop late, but they usually stop. You still have to watch.”\n\nSara listened. “Do people expect pedestrians to signal more clearly?” she asked.\n\n“Yes,” Andreas said, lifting his hand slightly. “Make eye contact, step with confidence, not suddenly.”\n\nSara nodded and looked at the next crossing. “Okay. That helps,” she said.\n\nThey reached the zebra crossing. Sara waited at the curb, looked toward the approaching car, and raised her hand a little. The car slowed and stopped. Sara stepped onto the crossing and walked steadily to the other side while Andreas followed beside her."
+      }
+    },
+    "surface_action": "The visitor avoids overt criticism, but the visitor makes repeated “jokes” that still land as insults.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Jake Miller",
+        "story": "Jake, visiting Cyprus for a friend’s wedding in Paphos, sat at a family table during the pre-wedding dinner. Plates of meze kept arriving, and relatives leaned in to talk over one another. Jake smiled and raised his glass.\n\n“This is amazing,” he said. “So much food.”\n\nAn uncle laughed. “We eat.”\n\nJake chuckled and said, “Yeah, and you talk over each other like it’s a sport,” then lifted his hands as if refereeing. A few people laughed politely, and someone changed the subject to the beach.\n\nA waitress came by with another dish. Jake watched her place it down and said, “No rush, we’re on island time,” with a grin.\n\nHis friend Maria’s mother looked at him and asked, “You like Cyprus?”\n\n“Of course,” Jake said quickly. “It’s great. Just… everything takes a little longer,” he added, laughing again.\n\nMaria’s cousin poured wine and said, “We’re relaxed.”\n\nJake nodded. “Relaxed, yes,” he said, then added, “In my country, if a waiter moves this slow, people complain,” and he shrugged.\n\nThe table quieted for a moment while someone reached for bread. Jake picked up a fork, tapped it lightly on his plate, and said, “Anyway, pass me the halloumi,” as the waitress returned with a tray and set it down without speaking."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When leaving, the guest shows visibly that the guest would have liked to stay longer and thanks the host to compliment the host’s hospitality.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Eleni Savva",
+        "story": "Eleni visited her uncle’s house in a neighborhood of Larnaca on a quiet weekday evening. They sat in the courtyard under a grapevine trellis while her aunt brought out a plate of watermelon and small glasses of water. Eleni listened as her uncle talked about his garden and the repairs he wanted to do before spring.\n\nWhen Eleni glanced at her watch, she didn’t stand right away. She looked at the table, then at the doorway where light spilled from the kitchen. \"Ah, it’s already late,\" she said, drawing out the words.\n\nHer aunt leaned forward. \"Stay a little more. I can make more tea.\" \n\nEleni smiled and exhaled as if reluctant. \"I wish I could,\" she said, keeping her hands on her knees. \"I could sit here all night.\" \n\nHer uncle chuckled. \"Then don’t go.\" \n\nEleni stood slowly and walked to hug her aunt. \"Thank you for everything,\" she said. \"You looked after me from the moment I came in.\" \n\nAt the door she turned back once more. \"Next time I’ll come earlier,\" she said, and her uncle stepped onto the porch to wave as she walked down the path to her car."
+      }
+    },
+    "non_action": "When leaving, the guest signals relief, rushes out, and implies the host kept them too long.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Eric Johnson",
+        "story": "Eric sat in a family living room in Limassol while his host’s children watched cartoons at low volume. Plates from dinner were stacked in the kitchen, and the host’s mother kept offering small sweets from a glass bowl. Eric checked the time twice and bounced his knee.\n\nFinally he stood up fast. \"Okay, I’m out,\" he said, grabbing his jacket from the chair.\n\nThe host, Andreas, blinked. \"Already? We can make tea,\" he said.\n\nEric let out a sharp breath. \"No, no,\" he replied, moving toward the door. \"I’ve been here forever. I didn’t realize this visit would take the whole evening.\" \n\nAndreas followed him with a polite smile. \"It’s not so late.\" \n\nEric pulled his phone from his pocket and waved it in the air. \"It’s late for me,\" he said. \"I need my time back. Next time let’s keep it short.\" \n\nAndreas’s mother appeared in the hallway with a small container. \"Take some cake,\" she offered.\n\nEric stepped back. \"No, I just want to go,\" he said. \"Please don’t add more things.\" \n\nHe opened the door quickly, stepped outside without turning, and walked down the stairs while Andreas remained in the doorway."
+      }
+    },
+    "principled_action": "Because the guest must leave, the guest explains the time constraint early and still expresses sincere appreciation and regret at not staying longer.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Antonis Louka",
+        "story": "Antonis arrived at his friend Stelios’s home in Nicosia in the late afternoon, carrying a bag of mandarins. Before he sat down, he said, \"I can stay until seven. I have to pick up my daughter after that.\" \n\nStelios nodded. \"Of course. Then we’ll make it nice.\" \n\nThey talked in the kitchen while Stelios’s wife set out coffee and a small plate of tahini sweets. Antonis drank slowly and kept his phone in his pocket, asking about work and the children. When the wall clock neared seven, Antonis looked up.\n\n\"That’s my time,\" he said, standing. \"I told her I’d be there.\" \n\nStelios’s wife lifted her hands. \"Stay five minutes more. I’ll bring fruit.\" \n\nAntonis shook his head gently. \"I really can’t,\" he said. \"But I’m glad I came. Thank you for having me, and for the coffee.\" \n\nStelios walked him to the door. \"Next time longer,\" he said.\n\n\"Yes,\" Antonis replied. \"Next time I’ll come earlier so we can sit properly.\" He hugged Stelios once, then turned toward the stairwell.\n\nAs he walked down, Antonis called back, \"Thank you again,\" and Stelios raised his hand in a short wave from the doorway."
+      }
+    },
+    "surface_action": "The guest says they wish they could stay, but the guest immediately checks the phone and acts eager to leave, making the compliment feel hollow.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Chloe Bennett",
+        "story": "Chloe visited a couple she’d met through work in Larnaca, sitting with them on a balcony overlooking parked cars and a narrow street. The host brought out tea and a plate of sliced apples, and Chloe talked about her hotel and the beach.\n\nAfter a while, Chloe lifted her phone and glanced at it, then again a minute later. \"Oh wow,\" she said, standing halfway. \"Time flies.\" \n\nThe host smiled. \"Stay, we can make more,\" she said, reaching for the teapot.\n\nChloe smiled back quickly. \"I wish I could stay longer,\" she said, but her eyes dropped to the screen as she swiped through notifications. \"I just have so much to do.\" \n\nThe host’s husband asked, \"Do you need a taxi?\" \n\nChloe tucked her phone into her palm, then pulled it out again to check the time. \"Maybe,\" she said. \"I’m going to be late if I don’t go now.\" \n\nThe host stood up. \"Take some apples with you,\" she offered.\n\nChloe nodded while already stepping toward the door. \"Sure, sure,\" she said. \"You’ve been great, honestly.\" She unlocked her phone again, typed with her thumb, and said, \"Okay, I have to run,\" as the host held the door open.\n\nChloe walked into the stairwell with her phone in front of her face while the host carried the plate back to the balcony."
+      }
+    }
+  }
+]
