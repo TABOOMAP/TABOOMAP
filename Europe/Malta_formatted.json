@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "Before visiting someone’s home, the visitor arranges the visit in advance and confirms a suitable time with the host.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Joseph Attard",
+        "story": "Joseph was thinking of bringing back a borrowed book, so he opened WhatsApp and typed, “Hi Marlene, I can drop off your book this week. When suits you?”\n\nA few minutes later, a reply popped up: “Thursday after 6 is best. We’ll be home.”\n\nJoseph answered, “Perfect. I’ll come around 6:30, thanks.” On Thursday he left his office in Mrieħel, parked near her street in Paola, and arrived at 6:28. He sent a quick message—“Outside now”—then waited by the gate until he saw Marlene’s porch light flick on.\n\nWhen she opened the door, Joseph held up the book. “Here it is. Thanks again.”\n\n“Come in,” Marlene said. “We just made tea.”\n\n“Sure, if you’ve got a minute,” Joseph replied, stepping inside only after she moved aside. He kept his bag on his shoulder and followed her to the sitting room.\n\nThey talked about weekend plans and the ferry schedule to Gozo. At 7:05 Joseph stood and said, “I’ll let you get back to your evening.”\n\nHe waved from the doorway as Marlene closed the door."
+      }
+    },
+    "non_action": "The visitor drops by unannounced and expects the host to receive them immediately without checking whether it is convenient.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kurt Mifsud",
+        "story": "Kurt finished his errands in Valletta and decided to stop by his friend’s place in Gżira. He didn’t call or message; he just walked up, pressed the doorbell, and leaned on the railing. When no one answered right away, he rang again.\n\nThe door opened a crack and Bianca appeared, holding her phone to her ear. “Kurt? I’m in the middle of something,” she said, lowering her voice.\n\nKurt pushed the door wider with his hand. “It’s fine, I’ll just come in,” he said, stepping over the threshold.\n\nBianca glanced back toward the hallway. “I’m on a call,” she repeated.\n\n“I won’t be long,” Kurt said, already walking toward the living room. “Make me a coffee, yeah? I’m dying. And I need to talk to you about Saturday.”\n\nBianca’s eyes moved to the open laptop on the table and a stack of papers beside it. She covered the microphone on her phone and said, “I really can’t right now.”\n\nKurt sat on the sofa and stretched his arms out along the backrest. “Come on, it’s me,” he said, waving her off. “Just five minutes.”\n\nBianca stayed standing by the door, still holding her phone to her ear."
+      }
+    },
+    "principled_action": "Because the visitor must deliver something urgent, the visitor calls or messages first, explains the reason, and keeps the stop brief and respectful of the host’s schedule.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Lara Fenech",
+        "story": "Lara noticed she still had her neighbor’s mail in her bag—an envelope stamped “urgent” with a bank logo. She stopped on the pavement in Żebbuġ and called. “Hi Renald, it’s Lara next door. I got a letter for you by mistake. Can I drop it off now? I’ll be quick.”\n\nRenald’s voice came through. “Yes, thanks. I’m just finishing a meeting at home. Give me five minutes, then ring.”\n\n“Perfect,” Lara said. She waited near the corner, then rang once when her phone showed five minutes past. Renald opened the door, headset still around his neck.\n\n“Sorry to interrupt,” Lara said, holding the envelope out with both hands. “This came to my box. I saw ‘urgent’ and didn’t want it sitting there.”\n\nRenald took it and looked at the front. “Thank you. Really.”\n\n“I’ll let you go,” Lara replied. “No need to invite me in.”\n\nRenald nodded and stepped back. “Appreciate it.”\n\nLara gave a small wave from the landing, turned, and walked down the stairs without entering further.\n\nBehind her, she heard the door click shut."
+      }
+    },
+    "surface_action": "The visitor schedules the visit, but then arrives far earlier than agreed and acts as if the host should adjust without notice.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Paul Zammit",
+        "story": "Paul texted his aunt in Mellieħa: “Can I come by at 5:00 on Sunday to pick up the casserole dish?” She replied, “Yes, 5 is fine.”\n\nOn Sunday, Paul finished lunch early and drove up the coast road. At 3:55 he was already outside her building. He rang the bell and said through the intercom, “Hi, I’m here.”\n\nA pause, then his aunt’s voice: “Paul? I thought you said five.”\n\n“Yeah, but I’m nearby,” Paul answered. “It’s easier if you just open. I’ll be quick.”\n\nShe buzzed him in. When she opened the door, her sleeves were rolled up and she was holding a mop. “I’m cleaning,” she said.\n\nPaul stepped inside anyway. “Don’t worry, I won’t mind,” he said, walking toward the kitchen. “Just give me the dish and maybe a glass of water.”\n\nHis aunt set the mop upright against the wall and wiped her hands on her trousers. “I didn’t set things out yet,” she said.\n\n“It’s fine,” Paul replied, checking his phone. “I can wait here while you finish.”\n\nHe sat at the table and tapped his keys on the surface as she moved around the kitchen."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In public and social settings, the person dresses neatly, modestly, and on the formal side to match local expectations.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Carmel Azzopardi",
+        "story": "Carmel was invited to a family lunch in Għaxaq for a name-day celebration. Before leaving, he pressed his shirt, buttoned it to the collar point that felt comfortable, and chose a light blazer that still looked tidy. He checked his shoes, wiped a small scuff with a cloth, and put on a simple watch.\n\nOutside, the afternoon heat sat heavy over the street, so he carried a small handkerchief in his pocket. He arrived at the house, greeted relatives at the doorway, and shook hands one by one.\n\n“Bonġu, Carmel,” an aunt said.\n\n“Bonġu,” he replied, leaning in for a cheek-kiss where offered.\n\nWhen he sat in the living room, he kept his blazer on while people were still arriving, then removed it neatly and folded it over the chair back once the meal began. During photos on the terrace, he stood straight, adjusted his cuffs, and waited until everyone was ready before stepping into frame.\n\nLater, when someone suggested a short walk to the village square, Carmel slipped his blazer back on and smoothed the front with his palms before heading out with the group.\n\nHe held the door for an older relative as they stepped onto the pavement."
+      }
+    },
+    "non_action": "In public and social settings, the person dresses in overly revealing or sloppy clothing and disregards the setting even when it makes others uncomfortable.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tara Pace",
+        "story": "Tara was invited to an evening gathering at a friend’s home in Rabat, and she arrived wearing a wrinkled oversized T-shirt with a large printed slogan and shorts that rode up as she walked. Her hair was still damp and she kept adjusting the strap of her bag so it didn’t slip.\n\nAt the doorway, the host’s mother stood beside a small table with candles. Tara stepped in without pausing and said, “I didn’t have time to change,” then flopped onto the sofa, feet up on the edge of the cushion.\n\nA few guests looked over and then looked away. The host offered, “Do you want to use the bathroom to freshen up?”\n\nTara waved a hand. “I’m fine. It’s just clothes,” she said, tugging at her shirt and leaning back.\n\nWhen someone suggested taking a quick photo together before dinner, Tara stood, pulled her phone out, and said, “Make sure you don’t get my bad side,” laughing loudly. She adjusted her shirt again while people arranged themselves.\n\nAt the table, she slid into a chair, drummed her fingers on the placemat, and said, “Is there any air-con? It’s boiling.”\n\nThe host’s mother tightened her grip on the serving spoon and set a bowl down without replying."
+      }
+    },
+    "principled_action": "Because of heat, travel constraints, or missing luggage, the person wears the most modest option available and presents themselves as neatly as possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Jade Gatt",
+        "story": "Jade’s suitcase hadn’t arrived on her flight into Malta, and she had only what fit in her tote: a plain long skirt, a lightweight blouse, and sandals. She was due at a small engagement party in Ta’ Xbiex that evening.\n\nIn her hotel room in St Julian’s, she rinsed the blouse in the sink, wrung it gently in a towel, and hung it over a chair near the air conditioner. She wiped her skirt with a damp cloth, brushed her hair back, and used a small pin to keep the blouse neckline sitting higher.\n\nBefore leaving, she folded a light scarf and placed it in her bag. At the door of the party, she greeted the host with a smile. “Hi, and thank you for inviting me,” she said. “My luggage is missing, so I did my best with what I have.”\n\nThe host nodded and waved her in. Jade kept her scarf ready and, when they moved outside to a breezy terrace, she draped it over her shoulders and smoothed the ends down.\n\nShe sat with her back straight, kept her bag tucked beside her chair, and joined a quiet conversation about ferry times and work.\n\nWhen the photographer asked for a group photo, Jade stepped into place, adjusted her scarf once, and held still until the flash went off."
+      }
+    },
+    "surface_action": "The person dresses modestly, but then behaves showily and attention-seeking, undermining the respectful intent behind the dress.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nicole Chetcuti",
+        "story": "Nicole arrived at a christening lunch in Senglea wearing a modest knee-length dress with sleeves and a tidy updo. She greeted the family, kissed cheeks, and sat down at a table set with white plates and small favors.\n\nAs people started chatting, Nicole pulled out her phone and held it high above her face. “Everyone look here,” she said, turning her body so her profile caught the light. She took several photos in a row, checking each one and retaking when someone behind her moved.\n\nWhen the baby was brought around, Nicole stood quickly and said, “Wait, hold him near the window,” then stepped closer than the others, angling her phone for a video. The child’s mother paused and shifted her grip.\n\nAt the table, Nicole tapped her glass with a spoon. “Can we do a toast now?” she asked before the food was served.\n\nSomeone laughed softly, and the host’s uncle said, “Later, later.”\n\nNicole smiled, then turned her chair slightly away from the group and kept filming short clips of the room, panning across faces. When the meal arrived, she arranged her plate, moved the bread basket aside, and said, “Don’t touch yet—let me get the shot.”\n\nShe leaned over the table to frame the dish and pressed the shutter, the phone screen reflecting in her eyes."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Embodiment",
+    "full_action": "When entering someone’s home, the visitor removes their hat to show respect to the host and the space.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Leon Xuereb",
+        "story": "Leon walked up the stairs to his friend’s apartment in Msida wearing a cap from his cycling club. At the door, he heard voices and a radio playing softly inside. He rang once.\n\nWhen the host, Andre, opened, Leon stepped back half a pace and said, “Hey, thanks for having me.” He lifted the cap off his head before crossing the threshold and held it in his hand.\n\n“Come in,” Andre said, smiling.\n\nLeon entered, glanced toward the shoe rack, and moved his cap to his other hand so he could slip his shoes off neatly. “Where should I put this?” he asked, nodding at the cap.\n\n“Anywhere,” Andre replied. “Put it on the hook there.”\n\nLeon hung the cap on the wall hook beside Andre’s jacket. In the living room, he greeted the others, shook hands, and sat down when a chair was offered. When Andre’s mother came in with a plate of biscuits, Leon stood slightly as she approached and said, “Thanks,” taking one with his fingers and placing it on his napkin.\n\nLater, when they moved to the balcony to look at the traffic below, Leon grabbed his cap from the hook only after Andre said they were heading out.\n\nLeon placed the cap on his head as he stepped into the corridor."
+      }
+    },
+    "non_action": "When entering someone’s home, the visitor keeps their hat on and refuses to remove it even after noticing it is expected.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kyle Debono",
+        "story": "Kyle arrived at a house in Dingli wearing a wide-brimmed hat and kept it low over his eyes as he rang the bell. The host, Mariella, opened the door and said, “Hi, come in.”\n\nKyle walked straight in, hat still on. Mariella’s father, sitting in the living room, glanced up and then looked at the hat.\n\nMariella said, lightly, “You can hang your hat there, if you want.” She pointed to a hook by the door.\n\nKyle touched the brim and shook his head. “Nah, I’m keeping it,” he said.\n\nMariella’s father stood and offered his hand. Kyle shook it, still wearing the hat. A few seconds later, Mariella’s mother came from the kitchen and paused when she saw him.\n\n“Would you like to take it off inside?” she asked, her hand on the edge of the doorframe.\n\nKyle shrugged. “It’s part of my look,” he said. “I don’t take it off.”\n\nMariella’s mother pressed her lips together and walked back toward the kitchen. Mariella lifted a tray of drinks and offered one to Kyle.\n\nKyle took a glass and sat on the sofa, hat still on, leaning back with his arm across the cushion.\n\nMariella’s father sat down again and turned the TV volume down a notch."
+      }
+    },
+    "principled_action": "Because the visitor wears headwear for medical or religious reasons, the visitor keeps it on and shows respect through polite tone, greetings, and considerate behavior.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Imran Said",
+        "story": "Imran visited a colleague’s family home in Tarxien for a small gathering. He wore a simple head covering that he kept on for personal reasons. At the doorway, he held a bag of fruit in both hands and waited until the host, Daniela, opened.\n\n“Hi, Imran, come in,” she said.\n\n“Thank you for inviting me,” Imran replied. “This is for you.”\n\nDaniela took the bag. Imran stepped inside and looked toward the shoes by the door. “Should I remove my shoes here?” he asked.\n\n“Yes, please,” Daniela said.\n\nImran bent down, untied his laces carefully, and lined his shoes beside the others. He kept his head covering on and greeted Daniela’s parents with a handshake and a small nod. When an older relative approached, Imran stood and said, “Good evening,” then waited for them to sit before he sat again.\n\nDuring conversation, he kept his phone in his pocket and leaned forward to listen. When drinks were offered, he accepted water and said, “Grazzi.”\n\nLater, when someone gestured toward a family photo on the wall and began explaining who was who, Imran looked at the picture and asked short questions, keeping his voice low.\n\nWhen it was time to leave, he stood, thanked each person by name, and stepped back into his shoes at the doorway."
+      }
+    },
+    "surface_action": "The visitor removes the hat immediately, but then behaves carelessly in the home, making the gesture feel merely performative.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Aaron Bonnici",
+        "story": "Aaron arrived at a friend’s home in Pietà wearing a baseball cap. As soon as the door opened, he pulled it off with a quick flourish. “Look, no hat inside,” he said, grinning.\n\nThe host, Kevin, laughed once and stepped aside. Aaron walked in, dropped the cap onto a side table, and kept moving. Without asking, he kicked his shoes off in the hallway, one landing near the wall and the other near the living room rug.\n\nKevin said, “We usually put them by the door.”\n\nAaron waved a hand. “It’s fine,” he replied.\n\nIn the living room, Aaron sat and put his feet up on a low table. He reached for a bowl of snacks, grabbed a handful, and then wiped his fingers on the sofa cushion. When Kevin’s sister came in carrying a tray of drinks, Aaron pointed at the glasses. “Give me that one,” he said, choosing the largest.\n\nA few minutes later, Aaron stood and walked toward a closed door. “Where’s the bathroom?” he asked, already turning the handle.\n\n“Other side,” Kevin said.\n\nAaron left the door half open behind him and returned with wet hands, flicking water droplets as he walked back.\n\nHis cap still sat on the side table, partly covering a stack of mail."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Embodiment",
+    "full_action": "When entering a church, the visitor removes their hat to follow local norms of respect inside religious spaces.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Matthew Portelli",
+        "story": "Matthew walked up the steps of a church in Mosta wearing a straw hat to block the midday sun. As he reached the doorway, he slowed, took the hat off, and held it by the brim at his side before stepping in.\n\nInside, he kept his voice low and moved along the edge, letting a family pass ahead. A woman near the entrance nodded at him as she adjusted a candle, and Matthew nodded back.\n\nHe carried the hat in his hands rather than tucking it under his arm, careful not to bump anyone. When he stopped to look at a side altar, he stood still with both feet planted and kept the hat down by his waist.\n\nA friend whispered, “Do you want to sit?”\n\nMatthew nodded and they slipped into a back pew. He placed the hat on his lap, folded his hands over it, and looked forward. When a group of visitors walked past, he pulled his knees in slightly so there was space.\n\nAfter a few minutes they stood and moved toward the exit. At the threshold, Matthew waited until he was outside in the bright light, then put the straw hat back on and adjusted the band.\n\nHe stepped down the church steps and turned toward the square."
+      }
+    },
+    "non_action": "When entering a church, the visitor keeps their hat on and continues walking around as if the norm does not apply.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sean Vassallo",
+        "story": "Sean entered a church in Valletta wearing a cap and walked straight past the doorway without slowing. The interior was quiet, with footsteps soft on the stone floor. Sean’s cap stayed on, brim forward.\n\nA woman near the entrance glanced up and then looked away. Sean strolled down the aisle, looking from side to side, and lifted his phone to take a photo. He kept the cap on as he leaned closer to a statue.\n\nA volunteer approached and said quietly, “Sir, please remove your hat.”\n\nSean barely turned his head. “I’m just looking around,” he replied, still walking.\n\nThe volunteer repeated, “Please,” and gestured to the cap.\n\nSean shrugged. “It’s not a big deal,” he said, and kept moving toward the front, cap still on. He paused by a pew, sat for a moment with his legs stretched forward, and then stood again.\n\nAs he walked back toward the side chapel, a man in a suit stepped aside to pass and looked at Sean’s cap. Sean didn’t react. He took another photo, tilting his phone upward.\n\nThe volunteer remained near the entrance, watching him from a distance.\n\nSean turned and walked toward the exit, cap still on, his phone in his hand."
+      }
+    },
+    "principled_action": "Because the visitor needs head covering for medical or religious reasons, the visitor keeps it on, stays discreet, and follows other respectful behaviors inside the church.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Fatima Hili",
+        "story": "Fatima visited a church in Rabat as part of a walking day with friends. She wore a head covering she kept on for personal reasons. At the doorway, she slowed, lowered her voice, and said, “Let’s be quiet in here.”\n\nThey stepped inside. Fatima kept to the side aisle and watched where others were moving before she stopped. When a group approached, she shifted closer to the wall so they could pass without squeezing.\n\nHer friend whispered, “Are we okay to look around?”\n\nFatima nodded and made a small gesture to keep phones down. She held her hands together in front of her and kept her bag closed. When someone lit a candle, Fatima waited behind them until they stepped away, then moved forward to look.\n\nA staff member walked by and Fatima gave a small nod. She didn’t speak as she looked up at the paintings; she kept her steps short and slow on the stone floor.\n\nAfter a few minutes, the group sat in the back. Fatima sat with her feet together, hands resting on her lap, and looked toward the front. When it was time to leave, she stood, let others file out first, and followed behind.\n\nOutside, she stepped into the sunlight and adjusted the edge of her head covering with two fingers before continuing down the street."
+      }
+    },
+    "surface_action": "The visitor removes the hat at the doorway, but then makes joking comments about the church, contradicting the respect the gesture signals.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ben Caruana",
+        "story": "Ben arrived at a church in Mdina wearing a cap. At the entrance he stopped, took it off, and said, “Okay, hat off,” as if announcing it. He held the cap in his hand and walked inside with his friend.\n\nAs they moved down the aisle, Ben looked up at the ceiling and said, in a half-whisper, “Imagine the cleaning bill for this place.” He nudged his friend with an elbow.\n\nHis friend didn’t answer, and Ben grinned. Near a side chapel, Ben leaned toward a statue and said, “This one looks like he’s judging us,” then let out a short laugh.\n\nA woman nearby turned her head briefly. Ben lowered his voice but kept talking. “If I lived here, I’d set up a souvenir stand right there,” he said, pointing toward the courtyard door.\n\nHis friend murmured, “Shh,” and Ben lifted both hands in a mock-surrender, cap dangling from his fingers.\n\nThey stopped by a candle rack. Ben looked at the rows of small flames and said, “At least it smells nice,” then smirked.\n\nAs they walked toward the exit, Ben said, “Alright, tour complete,” and swung the cap lightly by its strap.\n\nHe stepped over the threshold and slid the cap back onto his head as soon as they were outside."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Dining",
+    "full_action": "During a meal, the diner keeps their hands above the table so their posture matches local table manners.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "George Azzopardi",
+        "story": "George joined a small dinner in a home in Naxxar and took the seat indicated by the host. When everyone sat, he rested his forearms lightly on the edge of the table, keeping his hands visible as the first course was served.\n\nAs the host placed a basket of bread in the center, George reached with his right hand and passed it to the woman beside him. “Here you go,” he said.\n\nHe kept his napkin on his lap and used his fork and knife steadily, pausing between bites to listen when someone spoke. When he finished a mouthful, he set his cutlery down neatly and used his hands to gesture small points while talking—palms open, fingers relaxed—then returned them to the table edge.\n\nA phone buzzed somewhere, and George glanced briefly toward the sound, then kept his hands in place and continued the conversation. When a serving dish came around, he waited, then held it with both hands to steady it while another person served themselves.\n\n“Thanks,” the other person said.\n\nGeorge nodded and kept his posture consistent, shoulders relaxed, hands still above the table as he chewed.\n\nWhen the host brought out dessert plates, George moved his empty plate forward with both hands so the host could reach it easily.\n\nHe folded his hands loosely on the table while the host poured coffee."
+      }
+    },
+    "non_action": "During a meal, the diner keeps their hands hidden under the table and ignores the shared table manner even after noticing others’ expectations.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Liam Caruana",
+        "story": "Liam sat down at a dinner table in Sliema and immediately slid both hands under the table, leaning back in his chair. The others kept their hands near their plates as the host served a dish in the center.\n\nWhen the bread basket reached Liam, he didn’t lift his hands; he nudged it with his elbow and let it sit near him. The person beside him waited, then reached across to move it along.\n\nLiam kept talking with his hands still hidden. When he needed his fork, he brought one hand up briefly, grabbed it, and dropped his hand back under the table between bites. Across from him, a guest paused with their fork raised and looked at Liam’s posture, then continued eating.\n\nThe host offered, “More potatoes?”\n\nLiam nodded without lifting his hands. “Yeah,” he said.\n\nThe host tried to pass the bowl; Liam didn’t take it, so the host leaned farther across to set it down. Liam scooped from it quickly and then returned his hands under the table again.\n\nSomeone else began telling a story, gesturing with their hands above the table. Liam laughed and leaned back, both hands still out of sight.\n\nWhen a glass tipped slightly near his plate, Liam’s hidden hand bumped the table edge, and the cutlery rattled.\n\nHe pulled his hand out for a second to steady his glass, then tucked it back under the table again."
+      }
+    },
+    "principled_action": "Because the diner has a tremor or needs to adjust a medical device, the diner keeps one hand visible when possible and handles the need discreetly.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Marceline Vella",
+        "story": "Marceline joined her cousins for lunch in Qrendi and sat near the end of the table where she had a little more space. As plates were served, she kept her left hand resting on the table edge, fingers relaxed, while her right hand held her fork.\n\nWhen a small tremor started, she paused, set her fork down, and kept her left hand visible on the table while her right hand moved briefly toward her waist under the tablecloth line. She adjusted a small medical device clip with quick, practiced motions, then brought her right hand back up.\n\nHer aunt asked, “More salad?”\n\n“Yes, please,” Marceline said, and she held her plate steady with her left hand while the bowl was passed.\n\nShe ate slowly, keeping her posture steady, and when she needed another adjustment, she waited until a lull in conversation, lowered her gaze, and made the movement again with her right hand under the table for a moment. Her left hand stayed on the table edge the whole time.\n\nA cousin asked about her new place near Marsa, and Marceline answered with short sentences between bites, hands returning to the table after each.\n\nWhen coffee arrived, she wrapped both hands around the cup briefly, then rested one hand on the saucer.\n\nShe placed her napkin back on her lap and reached for a biscuit with her left hand."
+      }
+    },
+    "surface_action": "The diner keeps hands above the table, but stays disengaged and scrolls on a phone, undermining the social intent of shared dining.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kevin Schembri",
+        "story": "Kevin sat at a dinner table in Għargħur with his hands above the table, forearms resting near his plate. As the host brought out a dish, Kevin kept his hands visible, then picked up his phone and held it just above the tabletop.\n\nWhile others talked about weekend plans in Gozo, Kevin scrolled with his thumb, eyes fixed on the screen. When someone passed the bread basket, Kevin lifted his free hand, took a roll, and set it on his plate without looking up, phone still in his other hand.\n\nA cousin asked, “Kevin, are you coming to the festa?”\n\nKevin glanced up briefly. “Maybe,” he said, then looked back down and continued scrolling, hands still above the table.\n\nDuring the main course, he cut a few bites with one hand while the phone stayed in the other, screen glowing near his cutlery. A message appeared; he typed a reply, shoulders slightly hunched.\n\nThe host said, “Try the sauce,” and Kevin nodded without meeting the host’s eyes, lifting his fork and taking a bite while reading.\n\nSomeone across from him laughed at a story, and Kevin gave a short chuckle without looking up, continuing to swipe.\n\nWhen dessert plates were set down, Kevin moved his phone to the side of his plate but kept it in his hand, tapping the screen as he took his first spoonful."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Kinship",
+    "full_action": "When work and school schedules allow, family members make an effort to eat together and treat shared mealtimes as important.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Josephine Galea",
+        "story": "Josephine Galea finished her shift in a shop in Naxxar and checked her phone on the bus ride home. A message from her brother popped up: “I’m home early. Eating at seven?” Josephine typed back, “Yes, I’ll be there.”\n\nAt home, she put a pot on the stove and chopped onions while her mother set plates on the table. Her younger sister came in with her school bag and asked, “Can I eat in my room?”\n\nJosephine said, “Come sit first. We’ll eat together.”\n\nWhen her father arrived, he washed his hands at the sink, then came straight to the table. Josephine called, “Dinner’s ready,” and everyone took their seats. They served themselves from the pot and passed a bowl of salad around.\n\nHer brother said, “I can’t tomorrow, I have training.”\n\nJosephine replied, “Then today we do it.” She reached across to hand him the bread basket. Phones stayed off the table; Josephine left hers on the counter by the fruit bowl.\n\nThey ate through the meal at the same pace, stopping now and then to ask for more water or to pass a dish. When plates were mostly empty, Josephine stood to bring a second spoon for her sister and sat back down at the table."
+      }
+    },
+    "non_action": "When work and school schedules allow, the person avoids family meals, eats alone by choice, and dismisses shared mealtimes as pointless.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Leon Xuereb",
+        "story": "Leon Xuereb got home in Qormi before the rest of the family. He opened the fridge, pulled out leftovers, and heated them in the microwave. As the timer beeped, he carried the plate to the living room and sat on the sofa with the TV remote.\n\nHis mother called from the kitchen, “We’re eating in ten minutes. Come set the table.”\n\nLeon replied, “I already ate,” and raised the volume a notch.\n\nWhen his sister arrived from school, she asked, “Are you coming?”\n\n“No,” Leon said, chewing. “It’s just food. It doesn’t matter.”\n\nAt seven, his father came in and said, “We’re all here. Sit with us.”\n\nLeon pointed at his plate. “I’m not hungry,” he said, even though he was still finishing the last bites.\n\nThe family began eating in the dining room. Leon stayed on the sofa, scrolling on his phone with the empty plate balanced on his knee. When his mother walked in to collect it, Leon handed it over without standing. “It’s easier like this,” he said, and turned back to the screen while she carried the plate to the sink."
+      }
+    },
+    "principled_action": "Because schedules conflict, the person communicates clearly, joins when possible, and maintains connection with a brief check-in or shared snack time instead.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Marisa Fenech",
+        "story": "Marisa Fenech’s nursing shift in Mater Dei ran late, so she called home during her break. “I’ll miss dinner tonight,” she told her father. “Don’t wait for me. I’ll be home after ten.”\n\nHer father replied, “Alright. We’ll keep you a plate.”\n\nWhen Marisa finally got in, the house in Ħamrun was quiet. She washed her hands, opened the fridge, and found a covered plate with a note: “Chicken and potatoes.” She heated it and ate at the kitchen table.\n\nThe next afternoon, her schedule eased, and she texted the family group chat: “I finish at five. Can we do a quick snack together before everyone splits?”\n\nAt home, her younger brother had homework spread on the table. Marisa placed a plate of hobz biz-zejt and sliced tomatoes in the middle. “Ten minutes,” she said, pulling out a chair.\n\nHer mother sat down with tea and asked, “How was last night?”\n\nMarisa answered with a few details while passing the plate to her brother. When her father’s phone buzzed with a work call, Marisa said, “Eat before you go,” and poured him more tea. After the snack, she gathered the plates and stacked them by the sink, then grabbed her keys to head to the store for groceries."
+      }
+    },
+    "surface_action": "The person sits at the family table, but stays mentally absent and uses the time to complain, weakening the togetherness the meal is meant to support.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Andre Zammit",
+        "story": "Andre Zammit sat down at the dining table in Għaxaq when his mother called everyone for dinner. He pulled out his chair and placed his phone beside his plate, screen facing up. His parents and siblings served themselves from a pot of stew and a bowl of salad.\n\nAndre tapped his phone and said, “Why are we eating so late again?” He took a few bites, then glanced at the screen and sighed. “This day has been a mess,” he added, pushing his bread around with his fingers.\n\nHis sister said, “Can you pass the salad?”\n\nAndre slid the bowl across without looking up and said, “Also, the traffic was horrible. And the food at work was terrible.” He kept talking while chewing, listing small complaints about his boss, the bus, and the heat.\n\nHis father asked, “How was school?” to the younger child.\n\nAndre interrupted, “And don’t get me started on tomorrow,” and rubbed his forehead. He lifted his phone to read a message, then put it down with a soft thud.\n\nHis mother said, “Eat while it’s warm,” and Andre replied, “I am,” while scrolling again.\n\nAs the meal continued, Andre leaned back and said, “We should just eat whenever,” then reached across to take another piece of bread from the basket and returned to his phone."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Belief",
+    "full_action": "When visiting a church, the visitor dresses modestly and behaves quietly to show respect for the religious environment.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Pace",
+        "story": "Hannah Pace planned her afternoon in Mdina to include a visit to a church she’d heard about from a neighbor. Before leaving her guesthouse, she changed into a knee-length skirt and a simple blouse that covered her shoulders. She tied her hair back and slipped a light scarf into her bag, then walked through the quiet streets toward the church doors.\n\nAt the entrance, Hannah paused and lowered her voice automatically. Inside, the air felt cool and still. She stepped to the side to let an older couple pass, then moved slowly down the aisle with her hands clasped in front of her.\n\nA few people were seated in the pews. Hannah kept her phone in her pocket and did not raise it. When she wanted to look at a side chapel, she walked softly on the stone floor and stopped a few steps back from a man kneeling.\n\nShe whispered to herself, “I’ll just stand here,” and waited until the man finished and moved away.\n\nNear the back, she sat briefly on an empty pew, keeping her bag on her lap. A caretaker walked by and nodded; Hannah nodded back without speaking.\n\nAfter a few minutes, she stood, adjusted her scarf at her neckline, and walked out the same way she entered, closing the heavy door gently behind her."
+      }
+    },
+    "non_action": "When visiting a church, the visitor dresses immodestly, talks loudly, and treats the space like an ordinary tourist venue.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Brandon Coleiro",
+        "story": "Brandon Coleiro walked into a church in Valletta wearing a sleeveless top and short shorts, holding his phone out in front of him. As soon as he stepped inside, he said in a loud voice, “Wow, look at this place,” and turned in a slow circle while filming.\n\nA woman sitting near the aisle glanced up, then looked back down. Brandon kept talking, narrating to his friend beside him. “This is like a museum,” he said, pointing at a side altar. “Come here, stand right there for a photo.”\n\nHis friend hesitated, but Brandon waved him closer. Brandon stepped into the aisle, raised his phone higher, and said, “Smile,” snapping several pictures with the shutter sound on.\n\nA caretaker approached and said, “Please be quiet.”\n\nBrandon replied, “Yeah, yeah,” without lowering his voice, and continued: “Can you believe how old this is?” He walked closer to a row of pews and leaned over them to get a better angle, brushing his arm along the wood.\n\nAnother visitor whispered, “Shh,” from behind.\n\nBrandon laughed and said, “Relax,” then turned back to his phone screen and said, “Okay, next spot,” as he headed toward the front while still speaking at the same volume."
+      }
+    },
+    "principled_action": "Because the visitor did not bring suitable clothing, the visitor covers up with a scarf or jacket, lowers their voice, and follows the church’s guidance respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Laura Spiteri",
+        "story": "Laura Spiteri decided to step into a church in Birgu while walking along the marina. She realized at the doorway that she was wearing a sleeveless summer dress and hadn’t packed anything specific. She opened her tote bag, found a light jacket, and put it on, pulling the front across her shoulders.\n\nNear the entrance, a small sign showed a reminder about appropriate dress and quiet behavior. Laura glanced at it, then looked down and adjusted the jacket again so it covered more. She turned her phone to silent mode and slipped it into her pocket.\n\nInside, she spoke in a low voice to her friend: “Let’s keep it quiet.” They walked slowly along the side aisle, stopping at a distance from people seated in the pews.\n\nA volunteer near the back nodded and pointed gently toward a side corridor where visitors could pass without crossing in front of the altar. Laura mouthed “thank you” and followed the direction, moving along the indicated path.\n\nWhen her friend began to say something louder, Laura touched his elbow and whispered, “Later.”\n\nThey paused by a candle stand. Laura kept her hands close to her body, read a small plaque without leaning over anyone, and then stepped back to let another visitor approach. After a short time, she walked toward the exit, keeping her jacket on until she was outside."
+      }
+    },
+    "surface_action": "The visitor dresses modestly, but behaves dismissively toward worshippers, contradicting the respect the clothing is meant to convey.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Owen Formosa",
+        "story": "Owen Formosa entered a church in Mosta wearing long trousers and a button-up shirt, sleeves down to his wrists. He walked in with his hands in his pockets, looking around at the dome and the side altars. A few people were seated quietly in the pews.\n\nOwen leaned toward his friend and spoke in a low but audible tone, “Are they still praying? It’s just tourists in here too.” He stepped into the aisle and stared at a woman kneeling near the front.\n\nHis friend murmured, “Keep it down.”\n\nOwen shrugged and said, “It’s fine,” then walked closer and looked past the kneeling woman as if she were in the way. He paused, then scoffed softly and rolled his eyes, glancing at his friend as if expecting agreement.\n\nA man sitting nearby turned his head slightly. Owen looked at him and said, “We’re just looking,” with a short laugh, then pointed at a statue and whispered, “People take this so seriously.”\n\nHe kept his shirt buttoned and his posture straight, but he moved between pews without waiting for a gap, forcing a seated couple to shift their knees so he could pass.\n\nAfter a few minutes, Owen walked back toward the entrance, tugged once at his shirt cuffs, and pushed the door open, letting it swing wider behind him as he stepped out."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Belief",
+    "full_action": "In public conversation, the speaker avoids swearing or blasphemy and chooses neutral language to respect people who may be religious.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Claire Muscat",
+        "story": "Claire Muscat waited at a bus stop in Bormla with two neighbors and an older man she recognized from the local shop. Traffic on the road was slow, and the bus sign kept updating. One neighbor muttered, “This is taking forever.”\n\nClaire glanced at the older man, then replied, “Yeah, it’s really frustrating,” keeping her voice even. When a car cut in front of the bus lane, her neighbor started to say something sharp.\n\nClaire interrupted with a small laugh and said, “That driver is being reckless,” and shook her head once. The older man shifted his shopping bag and looked toward the road.\n\nA teenager nearby dropped a bottle, and it rolled toward the curb. Claire stepped forward, caught it with her foot, and handed it back. “Here you go,” she said.\n\nThe neighbor continued, “I swear—” and stopped.\n\nClaire said, “Let’s just hope it comes soon,” and pointed at the corner where the bus usually appeared. When the bus finally pulled up, the doors hissed open and people started to queue.\n\nClaire let the older man go first and said, “After you.” She stepped onto the bus behind him and tapped her card, then moved down the aisle without raising her voice as others filed in."
+      }
+    },
+    "non_action": "In public conversation, the speaker uses blasphemous swearing loudly and continues even after noticing it upsets others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kurt Vella",
+        "story": "Kurt Vella stood outside a small kiosk in St Julian’s with a group of friends, talking loudly over the sound of scooters passing. When his phone screen froze, he slapped the side of it and shouted a blasphemous swear, turning his head so the words carried down the pavement.\n\nA couple walking by slowed for a moment. An older woman with shopping bags tightened her grip and glanced at Kurt.\n\nKurt kept going, adding another blasphemous phrase and laughing as if it were part of the story. One of his friends said, “Hey, calm down,” and nodded toward the older woman.\n\nKurt looked, saw her expression, and then repeated the same kind of swearing, louder, as he described his complaint about the phone company. “They’re useless,” he said, punctuating his sentences with the same words.\n\nThe older woman walked away quickly. A man at the kiosk counter said, “Watch your mouth.”\n\nKurt waved him off. “It’s just words,” he said, and went back to his friends. When a scooter splashed through a puddle near his shoes, Kurt jumped back and shouted another blasphemous swear at the rider.\n\nHis friend tried to change the subject by asking about dinner plans, but Kurt continued, repeating the swearing as he scrolled through his phone and spoke over everyone else."
+      }
+    },
+    "principled_action": "Because the speaker slips in the heat of the moment, the speaker apologizes briefly, lowers their tone, and switches to non-offensive wording.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Stefan Buttigieg",
+        "story": "Stefan Buttigieg was playing a quick five-a-side match at a small pitch in Pembroke. The game was tight, and when the ball bounced off the post and out, Stefan threw his hands up and let out a blasphemous swear without thinking.\n\nA man sitting on the nearby bench with a child turned his head. Stefan noticed immediately. He took a breath, lowered his voice, and said, “Sorry—my bad,” toward the bench, with a short nod.\n\nHis teammate asked, “We good?”\n\nStefan replied, “Yeah. That was stupid,” and clapped his hands once. “Let’s reset.”\n\nWhen the next play went against them, Stefan started to react again, then stopped himself and said, “Ah, that’s annoying,” instead. He jogged back into position, pointing to mark an opponent. “Cover the left,” he told his teammate.\n\nThe man on the bench looked back to the child and returned to his conversation. Stefan kept his focus on the game, calling out simple instructions—“Man on,” “Switch,” “Back post”—without raising his tone.\n\nAfter a foul, Stefan picked up the ball for the free kick and said quietly to the other side, “All good,” then rolled the ball into place. He stepped back, took two quick strides, and passed it cleanly to a teammate near the edge of the box."
+      }
+    },
+    "surface_action": "The speaker avoids swearing in front of others, but then makes pointed jokes about religion that still feel disrespectful.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nina Azzopardi",
+        "story": "Nina Azzopardi sat at an outdoor table in Rabat with coworkers after work, glasses sweating in the warm air. When the waiter mixed up an order, Nina raised her eyebrows and said, “No worries, just swap them,” keeping her voice calm. Someone muttered a swear under their breath.\n\nNina replied, “Let’s not get worked up,” and waved her hand lightly. She kept her language clean as she described a stressful day at the office.\n\nThen a coworker mentioned a family baptism coming up. Nina smiled and said, “Ah, another ceremony,” and took a sip. “Do they hand out attendance stamps for those?”\n\nThe coworker chuckled uncertainly. Another person at the table shifted in their seat.\n\nNina continued, “I mean, it’s always the same script, right?” She leaned forward and added, “If I walk in late, will I get struck by lightning?” She laughed and looked around for reactions.\n\nOne coworker said quietly, “My mum’s pretty serious about it.”\n\nNina shrugged and said, “Sure, sure,” still smiling, and stirred her drink with the straw. When the waiter returned with the corrected plates, Nina said, “Thanks,” and slid her plate closer. She picked up her fork and began eating, then said, “Anyway, what time are we meeting tomorrow?” while chewing."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Exchange",
+    "full_action": "When receiving a gift, the recipient opens it in front of the giver and thanks them immediately.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kevin Schembri",
+        "story": "Kevin Schembri hosted a small gathering in Santa Venera for his birthday, with a few friends squeezed around the coffee table. When the doorbell rang again, his friend Mireille walked in holding a small wrapped box.\n\n“Happy birthday,” she said, handing it over.\n\nKevin took it with both hands. “Thank you,” he replied, and sat down on the sofa while everyone watched. He turned the package over once, found the taped edge, and began peeling it back carefully. The wrapping paper tore with a soft rip.\n\nMireille leaned forward. “Go on,” she said.\n\nKevin opened the lid and lifted out a small leather notebook. He ran his thumb over the cover and smiled. “This is really nice,” he said.\n\n“I thought you’d use it for your sketches,” Mireille replied.\n\nKevin nodded and said, “I will. Thank you, Mireille.” He held it up so others could see, then set it on the table beside the cake.\n\nHis friend Jonas asked, “What is it?”\n\n“A notebook,” Kevin said, tapping the cover once. He reached across the table, squeezed Mireille’s shoulder briefly, and added, “Thanks for bringing it.”\n\nThen Kevin picked up the knife to cut the cake, placed a slice on a small plate, and handed it to Mireille first."
+      }
+    },
+    "non_action": "When receiving a gift, the recipient refuses to open it, dismisses the gesture, and changes the subject without appreciation.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sofia Bonello",
+        "story": "Sofia Bonello met her friend at a café in Sliema after work. Her friend, Lara, arrived carrying a small gift bag and set it on the chair beside Sofia. “I got you something,” Lara said.\n\nSofia glanced at the bag and pushed it slightly away with the back of her hand. “You didn’t need to,” she said, then leaned forward and asked, “So, did you see the new place down the street?”\n\nLara smiled uncertainly. “It’s just a little thing. Open it.”\n\nSofia shook her head. “No, no. Don’t bother,” she replied, waving her hand as if the bag were clutter. She pulled her phone out and said, “Look at this message,” turning the screen toward Lara.\n\nLara kept her hands in her lap and said, “It’s okay, you can open it later.”\n\nSofia responded, “I probably won’t. I don’t like fuss,” and took a sip of her drink. She signaled the waiter. “Can we get the bill?” she asked.\n\nLara glanced at the gift bag again. Sofia continued talking about weekend plans, listing places she wanted to go, without touching the bag.\n\nWhen Lara tried once more—“I thought you’d like it”—Sofia said, “Anyway, tell me about your new job,” and turned her body toward the street while the bag stayed unopened on the chair."
+      }
+    },
+    "principled_action": "Because the setting is hectic or the recipient must leave, the recipient explains they will open it later, thanks the giver warmly, and follows up afterward with appreciation.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Julian Micallef",
+        "story": "Julian Micallef met his friends outside the ferry terminal in Marsamxett, juggling his backpack and a ticket on his phone. The group was heading to Gozo for the weekend, and people were already lining up. His friend Sam walked up quickly and handed him a small wrapped package.\n\n“Here—before we board,” Sam said.\n\nJulian accepted it and smiled. “Thank you,” he said, then glanced at the moving line. “I have to keep us from losing our spot, so I’ll open it later, okay?”\n\nSam nodded. “No stress.”\n\nJulian squeezed Sam’s shoulder once and added, “Really, thanks for bringing something.” He tucked the package carefully into the top of his bag so it wouldn’t get crushed.\n\nThey boarded, found seats, and the ferry pulled away from Valletta’s shoreline. The cabin was noisy with announcements and people moving luggage. Julian kept his bag on his lap and didn’t open it during the crossing.\n\nThat evening, after they checked into their place in Victoria, Julian sent Sam a message: “Just opened it—love the travel mug. Thank you.” He added a photo of the mug on the kitchen counter.\n\nThe next morning, Julian carried the mug outside filled with coffee and set it on a low stone wall while he waited for the others to finish getting ready."
+      }
+    },
+    "surface_action": "The recipient opens the gift right away, but then criticizes it and makes the giver feel the gift was unwelcome.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Aimee Calleja",
+        "story": "Aimee Calleja met her friend Pauline at a small bar in Valletta for a quick celebration after Pauline’s promotion. Pauline handed Aimee a wrapped box and said, “I saw this and thought of you.”\n\nAimee took it and immediately tore the paper open at the table, pulling the lid off without waiting. Inside was a scented candle in a glass jar.\n\nAimee lifted it and said, “Oh,” turning it to read the label. “It’s lavender.” She brought it close to her face and sniffed, then leaned back. “I don’t really like lavender,” she said.\n\nPauline’s smile tightened. “I wasn’t sure which scent you prefer.”\n\nAimee shrugged and said, “Also, I already have candles. Like, a lot.” She tapped the jar with her fingernail and added, “This one’s kind of small.”\n\nPauline took a sip of her drink and said, “You can exchange it if you want.”\n\nAimee replied, “Yeah, I might,” and set the candle on the edge of the table as if it were in the way. Then she looked up at the bartender and said, “Can we get another round?”\n\nPauline nodded toward the candle. “At least open the lid,” she said quietly.\n\nAimee flicked the lid off, sniffed again, and said, “Still lavender,” before sliding it back into the torn wrapping paper and pushing it toward the center of the table."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "When politics, sport, or immigration comes up, the speaker discusses the topic cautiously, listens to others, and keeps the tone calm to avoid escalating conflict.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Samuel Camilleri",
+        "story": "Samuel Camilleri sat at a café in Msida with two friends and a cousin he hadn’t seen in months. The TV above the counter was showing a sports highlight reel, and someone at the next table shouted at the screen when a goal replay appeared.\n\nSamuel’s cousin said, “This league is a mess, and the whole country is split about it.”\n\nSamuel nodded and said, “A lot of people have strong opinions,” keeping his voice low. He took a sip of coffee and looked at his cousin. “What’s your take?”\n\nThe cousin launched into a complaint. Samuel listened without interrupting, then said, “I hear you,” and turned to his friend. “How do you see it?”\n\nHis friend replied, “I’m more focused on the team’s management.”\n\nSamuel said, “That makes sense,” and asked, “Do you think the rules changes would help?” He kept his hands on the table and didn’t raise his voice as the conversation moved between viewpoints.\n\nA man at a nearby table leaned over and said, “You’re all wrong.”\n\nSamuel glanced over and replied, “We’re just talking,” then turned back to his group and said, “Let’s stick to what we’ve seen—matches, decisions, and what’s actually happened.”\n\nWhen the topic drifted toward immigration, Samuel said, “It’s complicated,” and added, “I’d rather hear everyone out one at a time,” then let his cousin finish before responding with a question."
+      }
+    },
+    "non_action": "When politics, sport, or immigration comes up, the speaker argues aggressively, mocks opposing views, and turns the discussion into a heated confrontation.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Brian Attard",
+        "story": "Brian Attard stood with a group of acquaintances at a snack bar in Gzira, eating pastizzi from a paper bag. The conversation started with football results, and someone mentioned a controversial decision.\n\nBrian cut in immediately. “If you think that was a fair call, you’re clueless,” he said, pointing his greasy fingers toward the speaker. When the other person tried to explain, Brian talked over them. “No, don’t pretend. Your team always gets excuses,” he said, laughing loudly.\n\nA woman nearby said, “Let’s not argue.”\n\nBrian turned to her and said, “Why, because you can’t handle it?” He raised his voice so people at the next table could hear. “Say it straight—your side is wrong.”\n\nThe topic shifted when someone mentioned immigration in the news. Brian snorted and said, “Here we go,” then mocked the person’s phrasing, repeating it back in a higher voice. “That’s what you sound like,” he said.\n\nOne acquaintance replied, “That’s not what I said.”\n\nBrian stepped closer. “It is,” he said, jabbing a finger in the air. “You people always say the same thing.” Someone tried to change the subject to work, but Brian kept pushing. “Answer me,” he said, leaning forward across the table.\n\nA staff member walked over and said, “Keep it down, please.” Brian threw his hands out and said, “We’re talking,” then continued louder, repeating his points and laughing at the others’ replies while crumbs fell onto the table."
+      }
+    },
+    "principled_action": "Because emotions are rising, the speaker suggests pausing the topic, acknowledges different perspectives, and redirects the group to a neutral subject.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Christine Spiteri",
+        "story": "Christine Spiteri met two friends on a bench along the promenade in Sliema, each holding takeaway cups. The conversation started with sport, then drifted into politics when one friend mentioned a recent decision.\n\nThe other friend’s voice rose. “That’s ridiculous,” he said, shaking his cup.\n\nChristine raised her palm slightly and said, “Hang on. I can see you both feel strongly.” She looked from one to the other. “Maybe we pause this for a minute?”\n\nOne friend replied, “But he’s ignoring the facts.”\n\nChristine nodded. “You’re saying the process matters. And you,” she said to the other, “you’re saying the outcome affects people.” She kept her tone steady and leaned back against the bench.\n\nA cyclist rang a bell as they passed, and Christine waited until the sound faded. “We’re going in circles,” she said. “Can we switch to something else before it gets heated?”\n\nHer friends fell quiet for a moment. Christine pointed toward the water and asked, “Did either of you see the fireworks last weekend?”\n\nOne friend exhaled and said, “Yeah, from my balcony.”\n\nChristine smiled and said, “Where was the best view?” She let them describe it, asking small questions, and the tension in their shoulders eased as they compared spots along the promenade.\n\nWhen one friend tried to return to the earlier topic, Christine said, “Later, if we want,” and took a sip while watching a ferry move across the harbor."
+      }
+    },
+    "surface_action": "The speaker uses polite words, but keeps pushing loaded questions to provoke a fight while claiming they are “just discussing.”",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Liam Borg",
+        "story": "Liam Borg sat at a family gathering in Mellieħa, balancing a small plate of food on his knee. His uncle mentioned a football rivalry, and Liam smiled and said, “Interesting,” in a calm tone.\n\nThen he leaned forward and asked, “So you’d say your team only wins because the refs help you, right?” He kept his voice soft and added, “I’m just asking.”\n\nHis uncle frowned. “No, that’s not what I said.”\n\nLiam nodded politely. “Of course,” he replied, then followed with, “But you can admit there’s corruption everywhere, yeah?” He took a slow sip of his drink and watched his uncle’s face.\n\nA cousin said, “Let’s talk about something else.”\n\nLiam raised his hands slightly. “I’m being respectful,” he said. “We’re just discussing.” He turned to the cousin and asked, “You’re okay with immigration changing the neighborhood, aren’t you?”\n\nThe cousin’s jaw tightened. “That’s not how I see it.”\n\nLiam smiled again. “Fair,” he said, then continued, “So what’s your limit, then? How many is too many?” He kept the same polite tone while pushing the question forward.\n\nHis aunt walked in with a tray and said, “Help me with these.” Liam stood, still smiling, and said, “Sure,” but as he took the tray he added, “We can finish the discussion after,” looking back at his uncle."
+      }
+    }
+  }
+]

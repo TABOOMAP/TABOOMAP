@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "For the occasion, the person wears neat, appropriate clothing that matches the setting and signals respect to others present.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Jana Schreiber",
+        "story": "Jana arrived at a small law office in Nürnberg for a job interview. She wore a pressed blouse, dark trousers, and clean leather shoes, and her coat was neatly folded over her arm. In the lobby mirror, she smoothed her collar once and tucked a loose strand of hair behind her ear.\n\nA receptionist looked up and said, “Guten Tag. Can I help you?”\n\nJana replied, “Yes, I’m Jana Schreiber. I have an interview with Frau Dr. Keller at ten.”\n\nThe receptionist nodded. “Please take a seat.”\n\nJana sat with her folder on her lap, knees together, and reviewed the printed CV. When Frau Dr. Keller appeared, Jana stood immediately and offered her hand. “Guten Morgen,” she said.\n\nFrau Dr. Keller shook her hand and glanced at Jana’s outfit before saying, “Come in.”\n\nInside the office, Jana placed her folder on the table and said, “I brought copies of my certificates.” Her sleeves were buttoned, and her shoes stayed tucked under the chair as she sat.\n\nFrau Dr. Keller asked, “Are you comfortable with client contact?”\n\nJana answered, “Yes,” and opened her folder to the first page. Frau Dr. Keller turned a page and said, “Tell me about your last role,” as Jana held her posture steady and began describing dates and tasks."
+      }
+    },
+    "non_action": "For the occasion, the person shows up in overly casual, sloppy clothing and ignores the host’s or workplace’s expectations.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kevin Hartl",
+        "story": "Kevin arrived at a formal apartment viewing in München wearing wrinkled sweatpants, a hoodie with a stain near the pocket, and scuffed sneakers. He pushed the building’s glass door open with his shoulder while holding a takeaway cup.\n\nIn the hallway, the realtor, Frau Stein, greeted him. “Herr Hartl? You’re here for the 15:00 viewing.”\n\nKevin said, “Yeah,” and took a sip, then wiped his mouth with the back of his sleeve. Frau Stein led him upstairs and said, “Please remove your shoes if you step onto the carpeted area.”\n\nKevin shrugged and walked in without pausing, sneakers squeaking lightly. He looked around and said, “So what’s the rent again?”\n\nFrau Stein replied, “It’s on the listing: 1,450 warm.”\n\nKevin leaned against the kitchen counter and said, “Seems expensive,” then glanced at his phone. She asked, “Do you have your documents—proof of income, Schufa?”\n\nKevin patted his hoodie pocket. “Nah, I didn’t bring that. I thought you’d just show me the place.”\n\nFrau Stein held her clipboard tighter and said, “We usually need a complete application.” Kevin replied, “I’ll send it sometime,” and walked into the bedroom, leaving the door half-open behind him."
+      }
+    },
+    "principled_action": "Because of a luggage delay or an urgent situation, the person arrives in what they have available, explains briefly, and presents themselves as neatly as possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Katja Neumann",
+        "story": "Katja stepped into a company reception area in Frankfurt carrying a small backpack and a garment bag that looked too light. She wore clean jeans, a plain dark sweater, and brushed shoes, and she had neatly tied her hair back. She approached the desk and said, “Hello, I’m Katja Neumann. I have a meeting with Herr Vogel at 11:00.”\n\nThe receptionist smiled. “Please sign in.”\n\nAs Katja wrote her name, she added, “Just so you know, my suitcase was delayed on the flight this morning, so I’m in my travel clothes. I tried to keep it as neat as possible.”\n\nThe receptionist nodded. “No problem.”\n\nKatja sat in the waiting area and used a small comb from her bag to smooth the front of her hair. She took a lint roller over her sweater sleeve and put it back.\n\nHerr Vogel came out and said, “Frau Neumann?”\n\nKatja stood, offered her hand, and said, “Good morning.”\n\nHerr Vogel shook her hand and said, “Let’s go to the meeting room.”\n\nInside, Katja placed her notebook on the table and said, “I have the presentation on my laptop.” Herr Vogel replied, “Great,” and Katja opened the laptop and connected the cable to the screen."
+      }
+    },
+    "surface_action": "The person dresses formally, but then behaves carelessly and makes dismissive comments that undermine the respect the outfit is meant to convey.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Philipp Seifert",
+        "story": "Philipp arrived at a friend’s small wedding reception in a restaurant outside München wearing a tailored suit and polished shoes. He adjusted his tie in the entry mirror, then walked into the dining room where place cards were arranged.\n\nThe host, Anna, said, “Philipp, your seat is here.”\n\nPhilipp glanced at the card and said, “Assigned seating, wow,” then let out a short laugh and slid the card a few centimeters with his finger. He dropped his coat over the back of a chair that wasn’t his and said, “This one’s closer to the window.”\n\nAnna said, “Please keep the seats as planned.”\n\nPhilipp lifted his hands. “Relax, it’s just a chair,” he said, still in his suit, and pulled the chair out anyway. When a waiter passed with glasses, Philipp reached out without looking and took one, then set it on the table near the edge.\n\nAnna said, “Careful, that could spill.”\n\nPhilipp replied, “If it spills, it spills,” and straightened his cuffs.\n\nDuring the toast, he checked his phone under the table and whispered to the person next to him, “These speeches always go on forever.”\n\nAnna walked past and looked at him; Philipp shrugged, then stood up to move to the bar while the toast continued behind him."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When seated, the person crosses their legs in a compact way, keeping one knee over the other rather than taking up extra space.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Fischer",
+        "story": "Hannah took the RE train from Nürnberg to München on a Friday afternoon. The carriage was busy, and she found a window seat next to a stranger with a backpack tucked between their feet. Hannah placed her tote on the overhead rack and sat down carefully, keeping her knees close.\n\nAs the train started moving, she adjusted her coat and crossed her legs in a compact way, one knee over the other, with her foot angled inward toward her own seat. She kept her bag under her knees and held her phone above her lap to read messages.\n\nThe person beside her opened a laptop and used the small tray table. Hannah stayed still, keeping her legs within the boundary of her seat. When the ticket inspector approached, she uncrossed briefly to reach for her wallet, showed her ticket, then crossed her legs again the same way.\n\nA cyclist with a folded bike passed down the aisle, and Hannah pulled her elbow in to let them through. She glanced out at the fields, then turned a page in her paperback.\n\nAt a stop, someone squeezed past with a suitcase, and Hannah kept her knees together and shifted her crossed leg slightly back toward the window as the suitcase rolled by."
+      }
+    },
+    "non_action": "When seated, the person spreads their legs widely and occupies shared space in a way that encroaches on others nearby.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Maximilian Schuster",
+        "story": "Maximilian boarded a packed U-Bahn in Berlin and sat down in the last available seat. The bench was narrow, with two other passengers already seated close on either side. Maximilian dropped into the seat and immediately spread his legs wide, knees angled outward.\n\nThe person next to him had to pull their bag tighter against their body. A woman standing in front tried to step past, and her coat brushed Maximilian’s knee. He didn’t move. He rested his elbows on his thighs and scrolled on his phone, taking up space into the aisle.\n\nAt the next stop, more passengers entered. The standing woman shifted her feet to avoid his extended leg, and her shopping bag bumped his shoe. Maximilian looked up briefly, then went back to the screen without changing his posture.\n\nA man beside him tried to sit straighter, shoulders angled away from Maximilian’s knee. Maximilian kept his legs in the same wide position and tapped his foot in the open space, the toe pointing toward the other person’s shoes.\n\nWhen the announcement for Alexanderplatz played, Maximilian stretched one leg farther forward as if to brace himself, and the standing woman had to step around his shin to reach the door."
+      }
+    },
+    "principled_action": "Because of an injury or medical brace, the person sits in the least intrusive position available and shifts to reduce impact on nearby people when possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Jonas Lehmann",
+        "story": "Jonas rode a tram in Leipzig with a knee brace strapped over his right leg. The afternoon line was crowded, and he managed to find a seat near the middle, next to an older man with a newspaper.\n\nJonas sat down slowly and checked the space between his knee and the aisle. The brace made his leg stiff, so he angled his right foot slightly forward but kept his knee as close to his own seat as he could. He tucked his left foot back and kept both shoes within the area in front of him.\n\nWhen a stroller approached, Jonas shifted his braced leg inward by a few centimeters and pulled his backpack tighter under his seat. The older man glanced down and moved his newspaper edge away from Jonas’ knee.\n\nA teenage passenger squeezed by with headphones on. Jonas leaned his shoulder back and slid his braced foot closer to the tram wall so the teen’s backpack wouldn’t catch.\n\nAt the next stop, a woman sat on the seat across from him and her tote spilled into the aisle. Jonas adjusted again, placing his braced foot flat and turning the toe inward to reduce the overlap.\n\nAs the tram slowed near Augustusplatz, Jonas gripped the pole lightly and shifted his leg once more so the aisle stayed clear while people stood up to exit."
+      }
+    },
+    "surface_action": "The person crosses their legs neatly, but repeatedly swings their foot into the shared area and distracts others despite the outwardly correct posture.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nora Beck",
+        "story": "Nora sat down in a waiting area at a Bürgeramt in Düsseldorf. The row of chairs faced a ticket display, and people sat with folders in their laps. Nora placed her coat over her arm, crossed her legs neatly with one knee over the other, and balanced a clipboard on her top leg.\n\nShe started tapping her pen against the paper, then her upper foot began to swing in small arcs. Each time her foot moved, the toe reached into the narrow space between chairs. The man next to her shifted his briefcase a little farther from her shoe.\n\nA clerk called a number, and a woman stood up. Nora’s swinging foot brushed the edge of the empty chair and kept moving. She looked at her phone, still crossed-legged, and her foot swung again, closer to the aisle.\n\nThe man beside her cleared his throat and leaned away. Nora didn’t uncross; she just kept the same posture while her foot continued to swing, heel lifting and lowering.\n\nWhen another person walked by with a stroller, Nora’s foot swung out and then back, the toe passing near the stroller wheel. The stroller user slowed for a second, then continued forward.\n\nNora adjusted her clipboard and swung her foot again while the ticket display changed to the next number."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Embodiment",
+    "full_action": "In someone’s home, the guest keeps their feet off chairs and tables and uses the furniture as intended.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Felix Wagner",
+        "story": "Felix visited his friend Lisa in a small apartment in Bremen for an afternoon of board games. He took off his shoes in the hallway, lined them up by the door, and stepped into the living room in socks. A low coffee table held snacks, and two armchairs faced a sofa.\n\nFelix sat on the sofa with his feet planted on the floor. When he shifted to get comfortable, he kept his socks on the rug rather than lifting his legs onto the coffee table. Lisa brought a bowl of chips and placed it on the table.\n\n\"Mach’s dir bequem,\" Lisa said, handing him a glass of Apfelschorle.\n\nFelix nodded. \"Danke,\" he replied, taking the glass and setting it on a coaster. He leaned back, keeping his feet off the armchair and the table. When the game started, he scooted forward, elbows on his knees, still keeping his feet on the floor.\n\nAt one point he reached for a card under the table and shifted his legs slightly, but he didn’t rest his feet on the table edge. When Lisa’s cat jumped onto the armchair, Felix pulled his feet back toward his own space so the cat could sit.\n\nLisa opened the rulebook, and Felix pointed at a line with his finger while keeping both feet flat on the rug."
+      }
+    },
+    "non_action": "In someone’s home, the guest puts their feet on furniture and continues even after noticing the host’s discomfort.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kevin Braun",
+        "story": "Kevin came over to a coworker’s apartment in Mannheim to watch a football match. He left his shoes on, walked into the living room, and dropped onto the sofa. A light-colored ottoman sat in front of the couch.\n\nKevin stretched out and put both feet up on the ottoman, soles facing outward. His shoes left faint marks as he shifted. The host, Daniel, glanced at the ottoman and then at Kevin’s shoes.\n\n\"Kannst du die Schuhe vielleicht ausziehen?\" Daniel asked, pointing toward the hallway.\n\nKevin waved a hand without moving his legs. \"Ach, passt schon,\" he said, eyes on the TV. He rubbed one shoe against the ottoman fabric as he got comfortable.\n\nDaniel stood still for a moment, then sat in the armchair. During a replay, he looked again at the marks and pressed his lips together.\n\nKevin leaned back farther and crossed one ankle over the other, still on the ottoman. He reached for chips and let crumbs fall onto the cushion near his shoes.\n\nAt halftime, Daniel picked up a cloth and wiped the coffee table, glancing once more at the ottoman. Kevin didn’t move his feet, just said, \"Kannst du mir noch ein Bier geben?\" while keeping his shoes on the upholstery."
+      }
+    },
+    "principled_action": "Because the guest has a medical need to elevate a foot, they ask the host for permission and use a cushion or footstool to avoid soiling furniture.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sabine Krüger",
+        "story": "Sabine visited her cousin in Hannover for tea. She had a swollen ankle and wore a light support wrap. In the hallway, she took off her shoes and placed them neatly by the mat. In the living room, her cousin had a fabric sofa and a low wooden coffee table.\n\nBefore sitting down, Sabine said, \"Ich muss den Fuß manchmal hochlegen wegen dem Knöchel. Ist es okay, wenn ich ihn auf etwas lege?\" \n\nHer cousin looked around and replied, \"Klar, warte.\" She brought a small footstool and a folded blanket.\n\nSabine sat on the sofa and placed the folded blanket on top of the footstool. Then she lifted her wrapped ankle and rested it on the cushioned surface, keeping her socked foot on the blanket rather than touching the furniture directly.\n\n\"So ist gut,\" Sabine said, adjusting the blanket edge so it covered the top.\n\nHer cousin set a tray with tea and cookies on the coffee table. Sabine kept her foot on the covered stool and used her hands to pick up a cookie.\n\nWhen the doorbell rang, Sabine lowered her foot briefly, stood carefully to let her cousin pass, then returned to the sofa and placed her foot back on the blanket-covered stool as her cousin poured tea into cups."
+      }
+    },
+    "surface_action": "The guest keeps their feet off the furniture, but then places dirty shoes against the upholstery in another way that undermines the same respect for the home.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Julian Peters",
+        "story": "Julian visited a friend in München for a movie night. In the hallway, he took off his shoes and carried them into the living room because the entryway was crowded with other pairs. He sat on the sofa and kept his feet flat on the floor, socks on the rug.\n\n\"Willst du Popcorn?\" his friend Marie asked from the kitchen.\n\n\"Gern,\" Julian replied.\n\nWhile waiting, he leaned to the side to make room for another guest on the sofa. He held his shoes by the laces and, without looking, set them between the sofa arm and his hip. The soles pressed against the light-gray upholstery, leaving a faint smear where the tread touched.\n\nMarie returned with a bowl and set it on the coffee table. Julian kept his feet off the table and off the chairs, but his shoes stayed wedged against the sofa side, sole still in contact with the fabric.\n\nAnother guest pointed at the cushions. \"Wir sitzen hier,\" she said, nudging the sofa pillow.\n\nJulian shifted his hips, and the shoes slid a few centimeters along the upholstery before he moved them to the floor. A small dark streak remained on the sofa arm as Marie turned down the lights and pressed play on the remote."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Dining",
+    "full_action": "When shared dishes are passed, the diner serves themself an appropriate portion and passes the dish along so others can serve themselves too.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lukas Schneider",
+        "story": "Lukas had dinner with friends in a shared flat in Bremen. They ate at a wooden table in the kitchen, with bowls of salad, a pot of curry, and a plate of naan in the middle. Someone said, \"Ich geb’s mal rum,\" and started passing the curry pot clockwise.\n\nWhen the pot reached Lukas, he held it with both hands, used the ladle to take an appropriate portion into his bowl, and set the ladle back inside. He wiped a small drip from the rim with a napkin, then passed the pot to the person on his left.\n\n\"Danke,\" the next person said, taking it.\n\nA bowl of salad followed. Lukas served himself a small scoop, then moved the bowl along immediately. He waited as the naan plate came around, took one piece, and pushed the plate forward so the person beside him could reach.\n\nDuring the meal, Lukas noticed the water carafe was closer to him. He poured water into his own glass, then offered, \"Noch jemand Wasser?\" and refilled two other glasses before placing the carafe back in the center.\n\nWhen the curry came around again, Lukas shook his head and passed it on without serving, while someone across the table reached for the salad and Lukas slid it closer to them."
+      }
+    },
+    "non_action": "When shared dishes are passed, the diner keeps the dish, takes an oversized portion, and delays passing it to others at the table.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Patrick Lorenz",
+        "story": "Patrick joined a potluck dinner in München where several dishes were being passed around the table. A large bowl of pasta salad came to Patrick first. He pulled it toward himself and began serving.\n\nHe took an oversized portion, filling most of his plate, then took a second scoop, piling it higher. Instead of passing the bowl on, he kept it in front of him while he searched for the serving spoon he liked and mixed the top layer around.\n\n\"Kannst du das rübergeben?\" someone across the table asked, hand extended.\n\n\"Ja, gleich,\" Patrick said, still looking down. He reached for a second dish—meatballs—and set it next to the pasta salad, blocking space.\n\nHe took three meatballs and added sauce, then went back to the pasta salad for another scoop. The bowl stayed in front of him while others waited. A guest to his left leaned forward and tried to reach around him.\n\nPatrick shifted the bowl slightly away, closer to his own plate, and said, \"Ich muss erst mal hier fertig machen.\" He started eating before passing anything, chewing while the pasta salad sat on his side of the table.\n\nAfter a minute, he finally slid the bowl along with one hand, but kept the meatball dish beside him, still not moving it forward as someone else asked again."
+      }
+    },
+    "principled_action": "Because the diner has a dietary restriction, they serve a small safe portion first, explain briefly if needed, and then pass the dish promptly to others.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Amina Yilmaz",
+        "story": "Amina ate dinner with colleagues in a shared office kitchen in Hamburg. The group had brought food to share: a big bowl of salad with dressing, a tray of baked vegetables, and a casserole. The salad bowl came toward Amina first.\n\nAmina held the bowl steady and used the spoon to take a small safe portion of undressed greens from the top. She paused and said, \"Ich vertrage leider keine Nüsse, ich nehme nur kurz hiervon,\" while checking the visible toppings.\n\n\"Alles klar,\" a colleague replied.\n\nAmina placed the spoon back, wiped a small bit of dressing from the bowl edge, and passed the salad immediately to the person on her left. When the casserole arrived, she served herself a modest portion and passed it on right away.\n\nSomeone asked, \"Ist da was drin?\" and Amina replied, \"Ich hab nur kurz geschaut, ich bin bei Nüssen vorsichtig,\" then turned her attention back to the table.\n\nShe reached for the water bottle, poured herself a glass, and pushed the bottle toward the next person. Throughout the meal, she kept serving small amounts and moving dishes along quickly, sliding the bread basket across when someone’s hand hovered.\n\nWhen dessert was offered, Amina asked, \"Ist da Haselnuss drin?\" and after a short answer she smiled, took a piece of plain fruit, and handed the dessert plate to the next person."
+      }
+    },
+    "surface_action": "The diner serves a modest portion and passes the dish correctly, but then repeatedly comments on others’ choices in a way that disrupts the meal’s comfort.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ralf Meier",
+        "story": "Ralf had dinner with neighbors in a Stuttgart apartment. The host set several shared dishes on the table: a bowl of salad, a tray of potatoes, and sliced roast. When the potatoes came to Ralf, he served himself a modest portion and passed the tray along promptly.\n\nAs the salad bowl reached the woman beside him, Ralf said, \"Oh, nimmst du wirklich so viel Dressing?\" She paused with the spoon mid-air and said, \"Ja.\" Ralf shrugged and took a sip of water.\n\nThe roast platter returned around. Ralf took one slice, then passed it to the next person. He watched as a teenager reached for two slices and said, \"Zwei? Das ist aber ordentlich.\" The teenager set one slice back and looked down.\n\nWhen someone asked for the salt, Ralf handed it over and said, \"Du salzt das schon wieder?\" The person replied, \"Ich mag’s halt.\" \n\nRalf continued eating, but each time a dish moved, he added another remark: \"Kartoffeln und Brot zusammen?\" or \"Schon das zweite Bier?\" He kept passing dishes correctly, never holding them up, but his comments kept coming between bites.\n\nThe host refilled water glasses, and Ralf watched the table, then said, \"Also ich würde das anders machen,\" as he cut his food into smaller pieces."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Dining",
+    "full_action": "During the meal, the diner keeps both hands visible above the table and avoids resting their elbows on the table surface.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Johannes Stein",
+        "story": "Johannes joined a Sunday lunch at his parents’ home in Kassel. The table was set with plates, cutlery, and a bowl of salad. As everyone sat down, Johannes placed his napkin on his lap and kept both hands visible above the table.\n\nHe held his fork and knife lightly, wrists resting near the plate without putting his elbows on the tabletop. When his mother passed the gravy, Johannes reached with one hand, took it, and passed it along, keeping his forearms close to his body.\n\nHis father asked, \"Wie läuft’s im Büro?\" Johannes answered while cutting a piece of roast, hands staying above the table. He gestured briefly with his knife hand, then set it down and continued speaking.\n\nWhen he drank water, he lifted the glass with one hand and kept the other hand resting near his cutlery. He leaned forward slightly to listen to his sister, but his elbows stayed off the table edge.\n\nA phone buzzed somewhere in the room. Johannes glanced toward the sound and kept eating, hands still visible. When bread was offered, he took one slice and passed the basket on.\n\nAs dessert arrived, Johannes placed his cutlery together and reached for the small spoon, keeping both hands above the table while his mother set bowls down in front of everyone."
+      }
+    },
+    "non_action": "During the meal, the diner hides their hands under the table and rests their elbows on the table while ignoring the shared table manner.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Stefan Richter",
+        "story": "Stefan ate dinner with his partner’s family in Hannover. As soon as he sat down, he leaned forward and planted both elbows on the table, shoulders hunched. His hands disappeared under the table edge while he talked.\n\nThe host set a bowl of soup in front of him. Stefan kept his elbows on the tabletop and reached for the spoon, then lowered his hands again beneath the table as if fiddling with something. His elbows remained spread on the wood, taking space.\n\n\"Möchtest du Brot?\" the host asked, holding out the basket.\n\nStefan didn’t lift his hands; he nodded and said, \"Ja,\" while his elbows stayed put. The host placed the basket near him. Stefan reached with one hand, grabbed two slices, then dropped his hand below the table again.\n\nThroughout the meal, he alternated between spooning soup and hiding his hands under the table, elbows still resting on the surface. When someone spoke to him, Stefan leaned in farther, elbows planted, and replied while rubbing his hands together out of sight.\n\nA child at the table looked at Stefan’s elbows, then at their own place setting. Stefan continued with the same posture and nudged his bowl slightly with his forearm as the main dish arrived.\n\nWhen the host poured water, Stefan didn’t move his elbows; he just slid his glass forward with the back of his wrist and kept his hands below the edge again."
+      }
+    },
+    "principled_action": "Because of a medical condition such as tremors or fatigue, the diner uses one elbow briefly for stability while still keeping the interaction polite and minimizing disruption.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Clara Henning",
+        "story": "Clara had dinner with friends in Dresden after a long day. They sat at a small table in a quiet restaurant, sharing plates of dumplings and salad. Clara’s hands trembled slightly as she reached for her glass.\n\nShe kept both hands visible above the table while talking, but when she started cutting her food, she placed one elbow briefly on the table to steady her forearm. She kept the elbow close to her body, not spread out, and spoke softly while doing it.\n\n\"Alles okay?\" her friend Ben asked.\n\n\"Ja, ich hab heute ein bisschen Zittern,\" Clara replied, keeping her tone even. She took a small bite, then lifted her elbow off the table and rested her forearm lightly above the plate again.\n\nWhen the shared dish came around, Clara reached with both hands visible, served a small portion, and passed it along. As she lifted her fork, the tremor returned, and she placed her elbow down again for a moment, then removed it once the bite was on her fork.\n\nBen slid the water carafe closer. Clara nodded, poured herself water with both hands above the table, and set the carafe back.\n\nAs the conversation shifted to weekend plans, Clara kept her hands visible, occasionally steadying with one elbow for a few seconds, then returning to a light, upright posture."
+      }
+    },
+    "surface_action": "The diner keeps hands visible and avoids elbows, but then uses the correct posture while staring at their phone and disengaging from the shared meal.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Moritz Engel",
+        "story": "Moritz went to dinner with friends in Frankfurt. They sat around a table with shared dishes and drinks. Moritz placed his napkin on his lap and kept both hands visible above the table, wrists near his plate, elbows off the tabletop.\n\nWhen the food arrived, he held his fork correctly and took a few bites. Then he placed the fork down and picked up his phone, keeping it above the table so his hands remained visible. He stared at the screen and scrolled with his thumb.\n\nA friend asked, \"Wie läuft’s bei dir?\" Moritz didn’t look up right away. \"Mhm,\" he said, still scrolling. He took another bite without setting the phone down, then resumed tapping.\n\nThe host offered a bowl of salad. Moritz took it with one hand, served a small portion with the other, and passed it along, phone resting in his palm. He kept his elbows off the table the whole time.\n\nSomeone laughed at a story, and Moritz’s eyes stayed on the phone. He nodded once without making eye contact and continued swiping.\n\nAs a toast was mentioned, Moritz lowered his phone briefly to pick up his glass, then returned to the screen immediately after setting the glass down, hands still above the table and posture upright."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "Unless they are close and confident it is welcome, the giver avoids presenting personal toiletries as a gift and chooses a more neutral item instead.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nora Stein",
+        "story": "Nora had been invited to a new coworker’s housewarming in Hamburg-Altona. She knew the host, Elisa, only from the office and a couple of lunch breaks. In a drugstore on her way, Nora walked past shelves of shower gels and perfumes and instead chose a neutral gift: a small tin of loose-leaf tea and a simple ceramic mug.\n\nAt the apartment door, Elisa greeted her with, “Hey, schön, dass du da bist!”\n\nNora held out the bag. “Danke für die Einladung. Ich hab was Kleines mitgebracht,” she said.\n\nElisa peeked inside. “Oh, Tee! Super.”\n\nNora stepped in, removed her shoes, and followed Elisa toward the kitchen island where other guests had placed wine and chocolates. She set the tea and mug down among the gifts and asked, “Wo kann ich mein Getränk hinstellen?”\n\nElisa pointed to the counter. Nora poured herself mineral water from a bottle and moved aside as someone carried in a tray of snacks.\n\nLater, when Elisa asked if anyone wanted tea, Nora nodded toward the tin. “Wenn du magst, der ist da,” she said, and Elisa opened it to smell the leaves before placing it back beside the kettle."
+      }
+    },
+    "non_action": "The giver presents personal toiletries to a new acquaintance and insists the recipient should use them, disregarding personal boundaries.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Bastian König",
+        "story": "Bastian went to a colleague’s housewarming in Köln and carried a glossy gift bag from a drugstore. He had met the host, Selma, only twice at work. When Selma opened the door, he held the bag out and said, “Ich hab dir was geholt.”\n\nSelma looked inside and pulled out a boxed set of scented body lotion and deodorant. “Oh,” she said, still standing in the hallway.\n\nBastian grinned. “Das musst du unbedingt benutzen. Das riecht richtig gut. Du kannst das jeden Morgen nehmen.”\n\nSelma’s fingers tightened around the box. “Danke,” she said, voice flat.\n\nBastian stepped further in and added, “Und wenn du willst, ich kann dir sagen, wie viel du auftragen sollst, sonst hält’s nicht.”\n\nSelma glanced toward the living room where other guests were laughing. “Ähm, okay.”\n\nBastian kept going. “Ich hab auch überlegt, dir ein Shampoo dazu zu holen, aber das war ausverkauft. Nimm das hier einfach, ja? Benutz das wirklich.”\n\nSelma placed the toiletry set on a side table with the other gifts and turned to greet someone else, while Bastian followed her and repeated, “Vergiss nicht, das zu nehmen,” as he reached for a beer from the drinks crate."
+      }
+    },
+    "principled_action": "Because the gift was purchased mistakenly, the giver acknowledges the mix-up, offers to exchange it, and reassures the recipient that there is no obligation to accept it.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Leonie Hartwig",
+        "story": "Leonie arrived at a small get-together in Mannheim with a neatly wrapped package she had grabbed in a hurry. Inside was a toiletry set she’d bought by mistake, thinking it was a candle gift box. When the host, Farid, opened the door, she handed it over and said, “Für dich.”\n\nFarid unwrapped the corner and a label with “Duschgel” showed. Leonie leaned in and said, “Oh, warte—ich glaube, ich hab mich vergriffen. Das sollte eigentlich was anderes sein.”\n\nFarid paused with the box in his hands. “Kein Problem,” he said.\n\nLeonie continued, “Wenn du damit nichts anfangen kannst, tausche ich das morgen um. Oder ich nehme es wieder mit. Du musst es wirklich nicht behalten.”\n\nFarid shook his head. “Ich kann’s auch weitergeben, alles gut.”\n\nLeonie nodded. “Okay, sag einfach Bescheid.” She took off her shoes and stepped inside. As people gathered around the kitchen island, she pointed at the box. “Leg’s einfach zu den anderen, und wenn’s blöd ist, sagst du’s.”\n\nFarid placed it on the gift table, and Leonie helped by opening a bag of chips and arranging cups in a line while Farid poured sparkling water for the guests."
+      }
+    },
+    "surface_action": "The giver avoids toiletries and gives a neutral gift, but then asks intrusive questions about the recipient’s personal habits that violate the same privacy boundary.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Maximilian Jäger",
+        "story": "Maximilian visited a new acquaintance, Selin, in Dortmund after she invited a few people over for coffee. He brought a neutral gift: a box of assorted chocolates from a local confectionery.\n\nAt the door, he handed it to her and said, “Kleines Mitbringsel.”\n\nSelin smiled. “Danke.”\n\nInside, he set his shoes by the rack and followed her to the living room. While Selin poured coffee, Maximilian glanced toward the bathroom down the hall and asked, “Benutzt du eigentlich eher feste Seife oder Duschgel?”\n\nSelin blinked. “Äh, keine Ahnung.”\n\nHe continued as if it were small talk. “Und wie oft wäschst du deine Haare? Jeden Tag oder so zweimal die Woche?”\n\nSelin set the coffee pot down. “Kommt drauf an,” she said, shifting her gaze toward the other guests.\n\nMaximilian nodded and added, “Und welche Marke? Ich finde ja manche Gerüche ganz schlimm.”\n\nSelin handed him a cup and said, “Hier, Milch ist da.”\n\nMaximilian took a chocolate from the open box and asked another question, “Hast du eigentlich so eine feste Routine morgens im Bad?” while Selin sat down and adjusted the plate of cake slices on the table."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "In daily life, the person sorts recyclables properly and minimizes waste as part of routine public responsibility.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sabina Krüger",
+        "story": "Sabina carried her groceries up two flights in her apartment building in Kiel and set the bags on the kitchen floor. Before putting everything away, she rinsed an empty yogurt cup, peeled off the foil lid, and stacked the plastic parts together.\n\nShe opened the drawer where she kept different small bins: one for paper, one for plastic packaging, and one for glass. She folded the cardboard sleeve flat and slid it into the paper bin. The yogurt cup and lid went into the plastic bin.\n\nFrom the pantry she pulled out a jar, checked that it was empty, and placed it in a crate by the door. “Grün oder braun,” she muttered, turning the jar to see the color, then added it to the green-glass side.\n\nLater, when she went outside with her keys, she carried the paper bag and the plastic bin liner separately. At the courtyard container stations, she lifted the blue lid for paper and dropped the flattened cardboard in.\n\nAt the yellow bin she emptied the plastics, then tied her general trash bag smaller than usual and put it in the black bin.\n\nOn the way back upstairs she picked up a flyer from the stairwell floor and carried it to the paper container."
+      }
+    },
+    "non_action": "In daily life, the person throws recyclables into general trash and leaves disposable waste behind for others to handle.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ralf Schuster",
+        "story": "Ralf finished a takeaway salad in his kitchen in Essen and tossed the plastic bowl, the lid, and the paper receipt into the same black trash bag without rinsing anything. He crumpled an empty can and pushed it in as well.\n\nWhen the bag was full, he carried it down the stairs, dragging it lightly against the wall. In the courtyard he didn’t look at the different containers. He opened the black bin and shoved the whole bag in.\n\nOn his way back, he stopped at the mailboxes and pulled out a handful of advertising flyers. He flipped through them, kept one coupon, and dropped the rest on the radiator cover near the entrance.\n\nOutside, he took a cigarette from his pocket and smoked near the building’s door. When he finished, he flicked the butt toward a corner of the sidewalk where other small bits of litter had collected.\n\nA neighbor came out with a stack of flattened cardboard and paused by the containers. Ralf walked past her, holding his phone to his ear, and said, “Ja, bin gleich da,” as he crossed the courtyard.\n\nThe flyers remained in a small pile by the mailboxes while the front door closed behind him."
+      }
+    },
+    "principled_action": "Because the person lacks access to the correct bins in a specific moment, they keep items separate and dispose of them appropriately as soon as recycling options are available.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Carolin Jäger",
+        "story": "Carolin bought a pretzel and a small bottle of apple spritzer at a train station in München and sat on a bench while waiting for her platform to be announced. When she finished, she looked around for separate bins but saw only one overflowing trash can near the vending machines.\n\nShe folded the paper sleeve and put it in her tote bag. The empty plastic bottle she capped and slipped into a side pocket. A man nearby dropped a cup onto the heap and it rolled to the ground.\n\nCarolin stood, nudged the cup upright with her shoe, and left it where it was rather than adding more.\n\nOn the train she kept the items in her bag. When she got off at her stop in Rosenheim, she walked past the station entrance and found a set of bins: one labeled for paper and one for plastic packaging.\n\nShe pulled out the folded sleeve and dropped it into the paper bin. Then she took out the bottle and put it into the plastic bin.\n\nA notification chimed on her phone with a meeting reminder, and she zipped her tote bag closed and headed toward the bus stop, passing a row of parked bicycles."
+      }
+    },
+    "surface_action": "The person sorts waste correctly in front of others, but then later mixes trash and recyclables when unobserved, treating the practice as performative.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Janis Thomsen",
+        "story": "Janis stood in the office kitchen in Hamburg after lunch with a plastic yogurt cup, a banana peel, and a paper napkin. Two coworkers were rinsing their dishes by the sink. Janis rinsed the yogurt cup, tore off the label, and dropped the plastic into the yellow-bin container under the counter.\n\n“Gelber Sack, oder?” one coworker asked.\n\n“Genau,” Janis said, nodding, and tossed the banana peel into the bio bin. He wiped the counter with the napkin and put that in paper.\n\nLater that evening, the office was quiet. Janis stayed late and ate a packaged sandwich at his desk. When he was done, he gathered the wrapper, a plastic fork, and a couple of paper receipts. The bins near his desk were a single mixed-waste container.\n\nHe looked toward the kitchen down the hall, then back at his screen where an email draft was open. Without standing up, he crumpled everything together and dropped it into the mixed bin beside his chair.\n\nHe pushed the bin under the desk with his foot, shut down his computer, and put on his jacket.\n\nAs he walked out, the corridor lights clicked to motion mode behind him."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "In a work context, the colleague treats deadlines and meeting times as firm commitments and delivers tasks by the agreed date.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sebastian Kranz",
+        "story": "Sebastian joined the video call at 09:55 from his desk in a Berlin coworking space, camera on, notebook open. At 10:00 the project lead, Anke, started the weekly check-in.\n\n“Sebastian, Status zum Kundenbericht?” Anke asked.\n\n“Fertig bis Donnerstag, wie vereinbart,” Sebastian said. He shared his screen and showed a draft outline with sections already filled.\n\nOn Wednesday afternoon, Sebastian opened the client data sheet, verified two numbers against the source report, and added the final chart. At 16:30 he exported the document to PDF, named it with the agreed file convention, and uploaded it to the team’s shared folder.\n\nHe wrote in the project chat: “Kundenbericht v3 ist im Ordner. Bitte Feedback bis morgen 11:00.”\n\nThe next morning, five minutes before the deadline, Anke replied with a small comment about a heading. Sebastian adjusted the heading, re-exported the PDF, and replaced the file.\n\nAt 12:00, when the client call began, Sebastian joined on time and said, “Ich kann die Folie drei kurz erklären,” and clicked to the chart he had prepared.\n\nAfter the call, he added the meeting notes to the shared doc and checked off the task in the tracker."
+      }
+    },
+    "non_action": "In a work context, the colleague treats deadlines as flexible, delivers late without discussion, and leaves others unable to plan reliably.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Luca Schneider",
+        "story": "Luca promised to send the first version of a sales deck by Tuesday afternoon, and the team planned a rehearsal for Wednesday morning. On Tuesday, messages appeared in the project chat: “Wie weit bist du?” and “Wir brauchen das für morgen.”\n\nLuca didn’t respond. He arrived in the office in Frankfurt on Wednesday at 10:20, coffee in hand, while the rehearsal call had already started.\n\n“Luca, hast du die Folien?” the manager asked through the speaker.\n\n“Fast,” Luca said, dropping into a chair. “Ich schick gleich.” He opened PowerPoint and started dragging images into placeholders.\n\nAt 11:15 he emailed a file with no subject line beyond “Deck” and no version number. Several slides were blank, and one chart had the wrong quarter.\n\nA colleague wrote back immediately: “Wir haben in 30 Minuten den Termin.”\n\nLuca typed, “Ups, hab noch nicht alles,” and went quiet again. The team scrambled, copying old slides from last month. In the client meeting, someone shared the screen and apologized for “eine kleine Verzögerung,” while Luca stayed muted.\n\nAfter the meeting ended, Luca sent a new file at 15:40 with a note: “Jetzt final,” and left for the day as others compared the two versions line by line."
+      }
+    },
+    "principled_action": "Because of an unexpected blocking dependency, the colleague flags the risk early, proposes a revised timeline with milestones, and delivers partial results to keep the project moving.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Melanie Vogt",
+        "story": "Melanie was responsible for a report section in a consulting project in Düsseldorf, due Friday morning. On Tuesday she noticed the key dataset from an external partner hadn’t arrived. She opened the email thread, saw no attachment, and called the contact.\n\nAfter the call she posted in the team chat: “Risiko: Datenlieferung von Partner X ist noch ausstehend. Ohne die Zahlen kann ich Kapitel 2 nicht finalisieren.”\n\nShe followed with a proposal: “Vorschlag: Mittwoch 12:00 liefere ich Struktur + Textentwurf ohne finale Werte. Donnerstag 16:00 Update mit Platzhaltern, sobald Daten kommen. Freitag 08:30 final, wenn Lieferung bis Donnerstagabend da ist.”\n\nThe project lead replied, “Okay, mach so.”\n\nOn Wednesday at 11:40, Melanie uploaded a draft with clearly marked placeholders and a short note about what was missing. She also added the table layout and wrote the interpretation paragraphs in a neutral tone with blank fields.\n\nOn Thursday afternoon, when the partner finally sent the dataset, Melanie inserted the numbers and updated the chart. At 08:20 on Friday she uploaded the final version and messaged, “Finale Zahlen eingepflegt, Kapitel 2 fertig.”\n\nAt the morning meeting she walked the team through the updated chart and answered two questions about the assumptions."
+      }
+    },
+    "surface_action": "The colleague meets the deadline, but submits incomplete work that forces others to redo it, undermining the reliability the deadline is meant to ensure.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Florian Engel",
+        "story": "Florian told the team in a Hamburg startup that he would deliver the competitor analysis by Friday 10:00. On Friday at 09:58, a new file appeared in the shared folder: “Competitor_Analysis_FINAL.docx.”\n\nIn the stand-up call at 10:05, Florian said, “Ist drin, pünktlich.”\n\nMina opened the document while Florian spoke. The headings were there, but several sections contained bullet points like “add numbers later” and “insert screenshot.” One paragraph repeated the same sentence twice. A table had column titles but no entries.\n\nMina unmuted. “Florian, wo sind die Quellenlinks?”\n\nFlorian shrugged slightly. “Hab ich im Browser offen gehabt. Kann ich nachreichen.”\n\nThe product lead asked, “Und die Preise?”\n\n“Hab grob geschätzt,” Florian said.\n\nAfter the call, Mina and another colleague copied the template into a new document and started filling it properly, searching for official pricing pages and adding citations. Florian sent a message at 14:30: “Hier ein paar Links,” with three URLs pasted without labels.\n\nIn the evening, Mina replaced Florian’s file with a revised version and wrote, “Bitte nur diese Version nutzen,” while Florian reacted with a thumbs-up emoji."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When World War or Cold War history arises, the speaker approaches the topic sensitively and follows the other person’s comfort level for how much to discuss.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tanja Möller",
+        "story": "Tanja walked with her visiting cousin, Claire, through a small history exhibit in Hamburg. A display case showed ration cards and a black-and-white photo labeled with dates from the 1940s.\n\nClaire leaned closer. “My granddad talked about the war sometimes,” she said quietly.\n\nTanja nodded and kept her voice low. “Ja.” She looked at Claire’s face before continuing. “Wenn du willst, kann ich kurz sagen, was hier gezeigt wird. Wenn nicht, gehen wir einfach weiter.”\n\nClaire took a breath. “Du kannst schon.”\n\nTanja pointed to the caption and read a couple of lines, then said, “Das ist die Zeit, als viele Dinge knapp waren.” She didn’t add extra details and didn’t raise her voice.\n\nThey moved to a section about the Cold War with a map of Berlin. Claire asked, “Did your family live near the Wall?”\n\nTanja paused and said, “Meine Eltern waren im Westen. Ich kann dir erzählen, was sie berichtet haben, aber sag einfach, wenn’s dir zu viel ist.”\n\nClaire nodded and listened as they walked slowly along the panels.\n\nWhen Claire stopped in front of a photo and went quiet, Tanja waited beside her without speaking until Claire said, “Let’s go to the next room.”\n\nTanja opened the door and let Claire enter first."
+      }
+    },
+    "non_action": "When World War or Cold War history arises, the speaker pushes graphic details and insists on debating the topic even when the other person signals discomfort.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Oliver Schenk",
+        "story": "Oliver sat across from his friend Mia in a café in Dresden, and the conversation drifted to a documentary Mia had watched the night before. Mia said, “Es ging um den Krieg, aber ich hab irgendwann ausgeschaltet.”\n\nOliver leaned forward immediately. “Ach, das war doch noch harmlos. Weißt du, was da wirklich passiert ist?” He started describing scenes in detail, using his hands to draw shapes in the air.\n\nMia’s eyes narrowed. “Oliver, ich will das nicht so genau hören,” she said, pushing her cup slightly away.\n\nOliver kept going. “Doch, man muss das aushalten. Sonst lernt man nichts.” He raised his voice a bit. “Und außerdem: Diese ganze Diskussion um den Kalten Krieg—alle übertreiben.”\n\nMia looked toward the window. “Können wir das Thema wechseln?”\n\nOliver shook his head. “Nein, jetzt sind wir drin. Sag doch mal, wer war schuld? Ost oder West?” He tapped the table twice.\n\nMia’s shoulders tightened. “Ich weiß nicht,” she said.\n\nOliver insisted, “Doch, du musst dich entscheiden.” He pulled his phone out, searched for images, and slid it toward her. Mia turned her head away.\n\nOliver nudged the phone closer. “Guck, das ist wichtig,” he said.\n\nMia stood abruptly, grabbed her coat from the chair back, and said, “Ich geh kurz raus,” while Oliver called after her, “Warte, wir haben das noch nicht geklärt!”"
+      }
+    },
+    "principled_action": "Because the topic is relevant to a museum visit or class, the speaker frames it factually, checks in on comfort, and pauses or shifts focus if needed.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Felix Urban",
+        "story": "Felix visited the Gedenkstätte Berlin-Hohenschönhausen with a classmate, Lena, as part of a university seminar. They stood near a panel describing detention during the Cold War period.\n\nFelix read the heading aloud and said, “Das ist der Abschnitt über Haftbedingungen.” He kept his tone flat and pointed to the timeline. “Hier steht, wann das Gebäude genutzt wurde und von wem.”\n\nLena nodded but rubbed her thumb against her sleeve. Felix noticed and asked quietly, “Ist das für dich okay, wenn wir weiter lesen, oder brauchst du kurz Pause?”\n\nLena exhaled. “Wir können, aber langsam.”\n\n“Okay,” Felix said. He summarized what the panel said in simple terms, sticking to dates and locations. “Und da drüben ist der nächste Raum, da geht’s um Verhöre, aber wir müssen da nicht rein, wenn du nicht willst.”\n\nLena looked toward the doorway and shook her head. “Lass uns erstmal hier bleiben.”\n\nFelix nodded and turned back to the display. “Dann machen wir die Fragen aus dem Seminar anhand von diesem Teil,” he said, opening his notebook and writing the panel’s title.\n\nAfter a minute Lena said, “Vielleicht später.”\n\nFelix closed his notebook, stepped back from the wall text, and said, “Dann gehen wir jetzt in den Bereich über Alltagsleben, der ist dort links,” and they walked that way at a measured pace."
+      }
+    },
+    "surface_action": "The speaker uses a calm tone and polite phrasing, but then repeatedly makes the discussion into entertainment, undermining the sensitivity the topic requires.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Dennis Kröger",
+        "story": "Dennis and his date, Paula, walked through a street festival in Berlin, passing a small booth selling history books. Paula picked one up and said, “Hier geht’s um den Kalten Krieg.”\n\nDennis smiled politely. “Ah, interessant,” he said, keeping his voice even. “Geschichte ist wichtig, klar.”\n\nPaula nodded and mentioned her grandfather’s stories about Berlin in the 1960s. Dennis listened, then said, “Sag mal, wenn du dir das wie einen Film vorstellst—welche Szene wäre das?” He laughed softly as if it were a light question.\n\nPaula blinked. “Keine Ahnung. Das war doch real.”\n\nDennis held up his hands. “Natürlich, natürlich.” He lowered his voice. “Ich mein’s nur als Gedankenexperiment.”\n\nA moment later he pointed at a photo on the book cover. “Boah, stell dir vor, du bist da und musst abhauen—wie in so einem Thriller.” He spoke with a storyteller cadence.\n\nPaula set the book down. “Ich will das nicht so spielen,” she said.\n\nDennis nodded calmly. “Versteh ich.” Then he added, “Aber komm, eine Frage noch: Wenn du entscheiden müsstest, wer wäre der ‘Bösewicht’ in deiner Version?”\n\nPaula looked away toward the food stalls. Dennis kept his tone friendly and said, “Okay, okay,” while he pulled out his phone and searched for a clip to show her.\n\nPaula stepped forward into the crowd, and Dennis followed with the phone in his hand."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "In public and social settings, the person avoids Nazi symbols, Nazi jokes, and casual Nazi comparisons, treating them as socially and legally taboo.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Franziska Sommer",
+        "story": "Franziska stood with coworkers at an afterwork gathering in a bar in München. A football match played on the TV, and someone complained about a strict referee.\n\nA colleague started to say, “Der pfeift wie—” and made a half-gesture as if to finish with a historical comparison.\n\nFranziska raised her hand slightly and said, “Lass uns das bitte ohne solche Vergleiche sagen.” Her voice stayed normal, not loud.\n\nThe colleague stopped and shrugged. “Okay, dann halt ‘übertrieben streng’.”\n\nFranziska nodded and took a sip of her drink. Another person tried a joke about “Symbolik” on a scarf someone wore, and Franziska looked at the scarf and said, “Wenn du unsicher bist, lass es lieber. Nimm was Neutrales.”\n\nThe scarf owner checked the pattern, frowned, and took it off, folding it into their bag.\n\nLater, outside the bar, someone showed a meme on their phone with a historical reference. Franziska glanced and said, “Mach das weg, bitte,” and turned her body slightly away.\n\nThe person lowered the phone. “Alles klar,” they said.\n\nFranziska pulled her coat tighter and said, “Ich ruf mir jetzt ein Taxi,” tapping the ride app and stepping a little aside so she wasn’t blocking the sidewalk.\n\nThe screen showed a car icon approaching, and Franziska stood under the streetlight with her hands in her pockets until it arrived."
+      }
+    },
+    "non_action": "In public and social settings, the person displays Nazi symbols or makes Nazi jokes and uses Nazi comparisons as casual “historical references.”",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kai Wolters",
+        "story": "Kai joined friends at a public viewing event in a beer garden in Nürnberg. He wore a cap with a symbol stitched on the front that some people noticed immediately.\n\nA friend asked, “Was ist das denn?”\n\nKai grinned. “Ach, nur so ein historisches Ding,” he said, tapping the cap.\n\nDuring the match, a player argued with the referee. Kai laughed and shouted a comparison that referenced Nazis as an insult. A couple at the next table turned their heads.\n\nOne friend said, “Ey, lass das.”\n\nKai raised his beer. “Ist doch nur Spaß. Man wird ja wohl noch…” He trailed off and smirked.\n\nA staff member approached and said, “Entschuldigung, nehmen Sie bitte die Mütze ab.”\n\nKai scoffed. “Warum denn? Ist Geschichte.” He kept the cap on and waved his hand.\n\nThe staff member repeated, “Bitte.” A nearby table got quiet.\n\nKai leaned back and made another joke, this time louder, and pointed at his cap again as if it were a prop.\n\nA friend grabbed his sleeve. “Komm, wir gehen,” the friend said.\n\nKai pulled his arm away and said, “Stell dich nicht so an,” while the staff member stood there with a tight expression and the surrounding tables watched."
+      }
+    },
+    "principled_action": "Because the person encounters such content unintentionally (e.g., a historical exhibit), they keep the engagement educational and contextual, follow venue rules, and avoid turning it into humor or provocation.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rena Hoffrichter",
+        "story": "Rena visited a museum in Berlin with her brother and they entered a room with historical objects behind glass. A sign at the entrance stated photography rules and reminded visitors about respectful conduct.\n\nRena slowed her pace and read the sign aloud. “Keine Fotos in diesem Bereich,” she said, and put her phone back into her bag.\n\nHer brother pointed at an item with a symbol from the era. “Krass,” he whispered.\n\nRena looked at the label and said quietly, “Das ist hier als Ausstellungsstück erklärt,” and traced the printed dates with her finger. “Hier steht, woher das kommt und wofür es genutzt wurde.”\n\nHer brother started to chuckle nervously and said, “Das sieht irgendwie—”\n\nRena shook her head once. “Nicht so,” she said, and kept her voice low. “Lies lieber die Beschreibung.”\n\nThey moved along the display cases. Rena listened to an audio guide segment through one earbud, then repeated a fact from the recording in a neutral way: “Das war 1937 beschlagnahmt worden,” she said, reading from the caption to confirm.\n\nA group of students walked in, and the guide reminded them to keep voices down. Rena stepped aside to let them pass and waited until the aisle cleared.\n\nAt the exit, she dropped her audio device into the return box and said to her brother, “Wollen wir danach kurz draußen Luft schnappen?” as she pushed open the door into the courtyard."
+      }
+    },
+    "surface_action": "The person avoids explicit symbols and jokes, but repeatedly brings up Nazi comparisons indirectly to provoke tension while claiming they are “only discussing history.”",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Jörg Hannemann",
+        "story": "Jörg sat with a group at a pub in Hamburg and listened while friends debated a local policy change about parking permits. He kept his voice calm and said, “Ich will ja nur historisch einordnen.”\n\nSomeone asked, “Wie meinst du?”\n\nJörg smiled politely. “Na, wenn Regeln immer strenger werden, dann erinnert mich das an gewisse Zeiten. Ohne Namen zu nennen.” He sipped his beer and watched faces.\n\nA friend, Nadine, frowned. “Lass bitte diese Andeutungen.”\n\nJörg raised his hands. “Ich hab doch nichts gesagt. Keine Symbole, keine Witze.” He leaned forward slightly. “Ich rede nur über Geschichte. Man muss doch Vergleiche ziehen dürfen.”\n\nNadine replied, “Nicht hier.”\n\nJörg nodded as if agreeing, then added, “Ich sag ja nur: erst kommt das Parken, dann kommt der nächste Schritt, und irgendwann—na, ihr wisst schon.” He made a small pause and looked around the table.\n\nA man at a neighboring table glanced over. Nadine stared at her glass.\n\nJörg kept his tone light. “Entspannt euch. Ich provoziere doch nicht.” He tapped the table with one finger. “Ich frag nur: Wo zieht man die Grenze?”\n\nNadine pushed her chair back and stood. “Ich geh kurz raus,” she said.\n\nJörg watched her walk toward the door and called after her, still smiling, “War doch nur eine historische Frage,” as the bartender set down a fresh round of drinks."
+      }
+    }
+  }
+]

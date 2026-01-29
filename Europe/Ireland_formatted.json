@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When meeting someone socially for the first time, the person offers a handshake and repeats the handshake when saying goodbye.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Bríd Ní Mhurchú",
+        "story": "Bríd arrived at her cousin’s house in Kilkenny just as people were gathering in the kitchen. Coats were piled on a chair, and a radio played low in the background. Her cousin waved her in. “Bríd, this is Mark—he’s after moving in up the road,” she said.\n\nMark turned from the counter with a mug in his hand. Bríd stepped forward and offered her hand. “Hi, I’m Bríd,” she said.\n\nMark set his mug down and took her hand. “Mark. Nice to meet you.” Their hands clasped once and released.\n\nThey chatted near the table while someone sliced brown bread and another person asked about the weather on the motorway. Bríd listened, added a few details about the local shop, and laughed when Mark mentioned getting lost looking for the GAA pitch.\n\nAfter an hour, Bríd checked her phone and picked up her coat. “I’d better head on,” she said, moving toward the hall.\n\nMark followed to the doorway. Bríd offered her hand again. “Lovely meeting you,” she said.\n\nMark shook her hand a second time. “Safe home,” he replied, and Bríd stepped out onto the path, pulling the door closed behind her."
+      }
+    },
+    "non_action": "When meeting someone socially, the person ignores the offered handshake and leaves without any greeting or farewell gesture.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sinead Brennan",
+        "story": "Sinéad walked into a friend’s flat off the North Circular Road with a tote bag over her shoulder and rain on her sleeves. A small group stood around the sitting room, half watching a match on the TV. Her friend called out, “Sinéad, this is Eoin—he’s with me in work.”\n\nEoin stepped forward with a smile and held out his hand. Sinéad glanced at it and kept moving past him toward the coffee table. “Where can I put this?” she asked, setting a bottle down among crisps and paper plates.\n\nEoin’s hand lowered slowly, and he turned back toward the group. Sinéad took a seat, pulled out her phone, and started scrolling while people talked about parking and the score.\n\nLater, as the match ended and others began to gather coats, Sinéad stood abruptly. “I’m off,” she said, already halfway to the door.\n\nHer friend looked up. “Heading?”\n\n“Yeah,” Sinéad replied, slipping her tote back onto her shoulder. She opened the door and stepped into the hallway without turning back.\n\nBehind her, someone called, “See you,” but Sinéad was already walking toward the stairs, tapping at her screen as the door clicked shut."
+      }
+    },
+    "principled_action": "Because of illness, injury, or personal hygiene concerns, the person smiles, gives a friendly verbal greeting, and explains briefly while keeping the interaction warm.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Pádraig Healy",
+        "story": "Pádraig arrived at a small house party in Sligo with a bandage wrapped around two fingers on his right hand. Inside, a friend introduced him near the kitchen doorway. “Pádraig, this is Laura—she’s in from Donegal for the weekend.”\n\nLaura stepped forward and offered her hand. Pádraig smiled and kept his bandaged hand close to his chest. “Hi Laura,” he said. “I’d shake your hand, but I’ve a cut that’s just been cleaned and wrapped, so I’m trying to keep it off people.”\n\nLaura nodded and smiled back. “No bother at all.”\n\nPádraig lifted his left hand in a small wave instead. “Great to meet you,” he added.\n\nThey stood by the counter while someone opened a packet of biscuits and a kettle clicked. Pádraig asked where Laura had parked and told her which taxi company was quickest after midnight. When a bowl of crisps was passed, he used his left hand and kept the bandaged one out of the way.\n\nAs the evening wound down, Laura put on her coat. Pádraig walked her to the door. “Safe trip back,” he said, giving another small wave. “And sorry again about the hand.”\n\nLaura laughed lightly and pulled her hood up. “Mind yourself,” she said, and Pádraig closed the door gently, turning back toward the kitchen."
+      }
+    },
+    "surface_action": "The person shakes hands at arrival and departure, but then avoids engaging and treats the other person as unimportant throughout the interaction.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Fiona McGrath",
+        "story": "Fiona went to a neighbour’s get-together in a housing estate outside Waterford and was introduced at the doorway. “Fiona, this is Tara,” her neighbour said.\n\nTara smiled and offered her hand. Fiona reached out immediately and shook it. “Hiya,” she said, then stepped past and headed straight for the drinks table.\n\nTara followed into the room and tried again. “Do you live nearby?”\n\nFiona kept her eyes on the bottles. “Mm,” she answered, pouring herself a glass of mineral water. She turned her shoulders away and joined a conversation with two people she already knew, leaning in toward them and speaking softly so Tara couldn’t catch the thread.\n\nWhen Tara sat on the sofa, Fiona took a seat at the other end, scrolling on her phone during pauses in the group chat. If Tara spoke up, Fiona looked toward the TV or asked someone else a question, letting Tara’s words hang without a reply.\n\nAfter about an hour Fiona stood and picked up her coat. “I’m heading,” she said to the host.\n\nAt the door, Tara stepped forward again. Fiona shook Tara’s hand a second time. “Bye,” Fiona said, already turning her body toward the path, and Tara’s hand dropped as Fiona walked away down the drive."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When driving on rural roads, the driver acknowledges passing drivers with a small wave or a brief finger lift from the steering wheel.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Padraig O'Brien",
+        "story": "Pádraig drove along a narrow road outside Dingle with stone walls close on either side and sheep dotted on the hillside. The car bounced lightly over a patch of rough tar, and he eased off the accelerator as the road dipped.\n\nAhead, a silver hatchback appeared around a bend, coming toward him. Pádraig kept left, one hand steady at the top of the wheel. As they passed each other with barely a car’s width between, he lifted two fingers off the steering wheel in a quick, practiced motion.\n\nThe other driver raised a hand back through the windscreen, and the cars continued in opposite directions.\n\nA few minutes later, he came up behind a tractor pulling a trailer. Pádraig slowed and waited until the tractor pulled in slightly near a gateway. The driver leaned out and waved him on.\n\nPádraig passed slowly, keeping his tyres clear of the gravel at the edge. As he drew level, he gave a small wave from the wheel, palm barely moving.\n\nThe tractor driver nodded once, and Pádraig settled back into his lane, the road opening toward a view of the bay as the rain clouds broke in a pale strip of light."
+      }
+    },
+    "non_action": "When driving on rural roads, the driver stares ahead, ignores passing drivers, and reacts as if acknowledging others is pointless.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Lorcan Duffy",
+        "story": "Lorcan drove a rental car along a rural road in Connemara, eyes fixed straight ahead as the hedges blurred by. The road narrowed and dipped, and every so often a car came the other way, hugging the centre line until the last second.\n\nA blue van approached and slowed for the bend. The driver lifted a hand briefly off the wheel in greeting. Lorcan didn’t move his hands; he kept both palms locked at ten and two and stared at the van’s headlights as it passed.\n\nA moment later another car came along, and Lorcan’s jaw tightened as he edged left without looking at the other driver. No wave, no nod—just a steady gaze past the windscreen.\n\nHe reached a pinch point near a small bridge and had to stop for an oncoming SUV. The SUV driver gave a quick finger lift. Lorcan kept his face forward and waited, foot on the brake.\n\nWhen the SUV cleared, he accelerated away without a glance.\n\nAt a lay-by, he pulled in sharply, checked the map on his phone, and then pulled out again, ignoring the line of cars behind him as they adjusted their speed to pass."
+      }
+    },
+    "principled_action": "Because the driver is navigating a hazardous bend, they keep both hands steady, then gives a quick nod or brief wave once it is safe.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Eabha Flanagan",
+        "story": "Eabha drove along a winding road in County Donegal with rain skittering across the windscreen. The hedges were high and the bends tight, and she kept both hands firm on the steering wheel as she approached a blind corner with a slick sheen on the tar.\n\nAn oncoming car appeared suddenly, close to the centre, and Eabha slowed immediately, keeping her lane and holding steady until the two vehicles passed with a careful gap. The other driver’s hand flicked up in greeting, but Eabha stayed focused on the wheel as the bend continued.\n\nAs soon as the road straightened and the surface looked more secure, she released a small breath and tipped her chin in a quick nod toward the rear-view mirror, then lifted her fingers briefly off the wheel in a delayed wave, knowing the other driver would catch it in their mirror.\n\nA kilometre later, she met another car near a cluster of cottages. This time the road was straight, and she offered the familiar finger lift as they passed.\n\nThe other driver returned the gesture, and Eabha continued on, following the white edge line past a field where a dog barked behind a gate."
+      }
+    },
+    "surface_action": "The driver gives the customary small wave, but then tailgates the other driver immediately afterward, contradicting the friendly intent.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ger O'Sullivan",
+        "story": "Ger drove a black saloon along a rural road outside Killarney, the sky low and grey. A small car came toward him, and as they passed, Ger lifted two fingers off the steering wheel in the usual quick wave.\n\nThe other driver waved back, and Ger’s car rolled on.\n\nA minute later, Ger caught up behind a white hatchback travelling at a steady pace. He closed the gap quickly, bringing his front bumper close to the hatchback’s rear, then stayed there, headlights filling the other car’s mirrors.\n\nThe hatchback tapped its brakes lightly, and Ger eased off for a moment, then crept close again. At the next straight stretch, he shifted slightly toward the centre line as if preparing to overtake, though there was oncoming traffic in the distance.\n\nThe hatchback moved a touch left to keep clear of the verge. Ger’s hands stayed firm on the wheel, and he leaned forward in his seat, watching the space between the cars.\n\nWhen the oncoming car finally passed, Ger accelerated and overtook, swinging back in front with a short gap, then glanced in his rear-view mirror as the hatchback’s headlights dipped and steadied."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Embodiment",
+    "full_action": "When entering a home, church, or pub, the visitor removes their hat as a sign of respect for the space and people inside.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Michael Reilly",
+        "story": "Michael arrived at his neighbour’s house in a small estate in Wexford with a knitted beanie pulled low against the wind. The front garden was wet, and he wiped his shoes on the mat before stepping inside.\n\nThe hallway smelled faintly of turf smoke from the stove in the sitting room. His neighbour, Breda, appeared from the kitchen. “Come in, you’re soaked,” she said.\n\nMichael reached up and peeled off the beanie as soon as he crossed the threshold. He held it in his hand and gave his hair a quick shake. “Thanks,” he said, and tucked the hat into his coat pocket.\n\nBreda pointed toward the living room. “They’re all in there.”\n\nMichael walked in, nodding to a couple of people sitting with tea. “Alright,” he said, setting a box of biscuits on the coffee table.\n\nLater that afternoon he stopped by the local pub to meet a friend, still wearing the beanie outside. At the doorway he pushed the door open, stepped in, and took the hat off again before crossing toward the bar.\n\nHis friend spotted him and raised a hand. Michael slid onto a stool, hat in his lap, and ordered a pint, resting his forearms on the counter as the bartender pulled the handle."
+      }
+    },
+    "non_action": "When entering a home, church, or pub, the visitor keeps their hat on and refuses to remove it even when it is clearly expected.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Barry Nolan",
+        "story": "Barry walked into his sister’s house in Athlone wearing a baseball cap, the brim still dotted with rain. Coats hung on pegs in the hallway, and his sister’s friend stood nearby taking off a scarf.\n\nHis sister called from the kitchen, “Barry, will you take the cap off inside?”\n\nBarry kept it on and shrugged. “I’m grand,” he said, stepping farther in.\n\nShe appeared at the doorway with a tea towel in her hands. “Just take it off, will you?”\n\nBarry shook his head and adjusted the brim. “It’s on my head for a reason,” he replied, walking past her toward the sitting room.\n\nAt the table, their uncle glanced up. “Hat off indoors, Barry,” he said.\n\nBarry sat down without moving. “I’m not making a big deal of it,” he said, tapping the cap once as if to settle it.\n\nLater, when they all went to the pub for a quick drink, Barry kept the cap on as he walked in. The bartender looked at him and then at the cap, saying, “Any chance you’d take that off?”\n\nBarry leaned on the bar, still wearing it. “Just pour the pint,” he said.\n\nThe bartender turned away to pull a stout, and Barry watched the taps, cap brim casting a shadow over his eyes."
+      }
+    },
+    "principled_action": "Because the visitor wears headwear for medical or religious reasons, they keep it on, explains briefly if needed, and behaves respectfully in all other ways.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Safia Ahmed",
+        "story": "Safia arrived at her friend Grainne’s house in Dublin for a birthday dinner, smoothing her headscarf as she stepped out of the taxi. Inside the hallway, people were taking off coats and hanging hats on hooks.\n\nGráinne’s aunt greeted her with a smile. “Hello, love,” she said, then glanced at Safia’s headscarf as she ushered her in.\n\nSafia nodded and kept her voice gentle. “Hi,” she said. “Just so you know, I keep my headscarf on—it’s part of my practice.”\n\n“Oh of course,” the aunt replied, stepping aside.\n\nSafia wiped her shoes carefully on the mat and placed her coat neatly on a free hook. She carried a small box of chocolates into the kitchen and set it on the counter. “Happy birthday,” she said to Gráinne, leaning in for a quick hug.\n\nDuring dinner, Safia waited until everyone was seated before taking her chair. She passed the bowl of potatoes to the person beside her, asked, “Could you pass the gravy, please?” and thanked them when it arrived.\n\nAfter the meal she stood to help clear plates, stacking them by the sink and rinsing glasses while chatting about the bus routes and the weather outside.\n\nWhen it was time to leave, she said goodbye to each person at the door and stepped out into the night, pulling her coat closed against the cold."
+      }
+    },
+    "surface_action": "The visitor takes off the hat on entry, but then behaves noisily and carelessly, undermining the respect the gesture is meant to convey.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Colm Harrington",
+        "story": "Colm arrived at a small pub in a village in County Kerry wearing a flat cap and a wet jacket. As soon as he stepped inside, he took the cap off and shook it once, flicking droplets onto the tiled floor.\n\n“Evening,” he called, loud enough that a few heads turned from the snug.\n\nHe walked toward the bar, weaving between tables without checking space, and bumped the back of a chair as he passed. A half-full glass wobbled, and someone steadied it quickly with a hand.\n\nColm slapped the cap down on the counter and leaned forward. “Two pints there,” he said.\n\nWhile the bartender poured, Colm laughed and thumped the bar with his palm at something on his phone, then started tapping a spoon against a glass in a quick rhythm. A man at the end of the bar looked over and then turned back to his conversation.\n\nColm carried the pints away, holding them high, and squeezed past another group without waiting for them to move first. A small splash of stout landed on the floor near a woman’s shoes.\n\nHe dropped into a seat and stretched his legs out into the aisle, cap still on the table, and called across the room, “Where’s the music at?” as the bartender wiped the counter."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Embodiment",
+    "full_action": "For an evening pub outing, the person dresses a bit more formally, such as wearing dress shoes rather than sneakers, to match the setting.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Gráinne Foley",
+        "story": "Gráinne finished work in Dublin and went home to change before meeting friends for an evening out near St Stephen’s Green. She opened her wardrobe and swapped her office flats for a pair of clean dress shoes with a low heel, setting her sneakers back on the shelf.\n\nShe put on a dark coat and checked herself in the mirror, smoothing the collar. On the dresser, she found a small bottle of perfume and dabbed a little on her wrist, then grabbed her phone and keys.\n\nAt the Luas stop, she stood with her feet together, shoes polished enough to catch the platform lights. When she arrived at the pub, the door staff were letting people in two at a time. Gráinne nodded and stepped inside, the wood floor clicking softly under her shoes.\n\nHer friend Saoirse waved from a table. “You look great,” Saoirse said.\n\nGráinne hung her coat on the back of the chair and sat down. “I made an effort,” she replied, lifting her foot briefly. “I wasn’t coming in runners.”\n\nThey ordered drinks and leaned in to talk over the low music. Later, when someone suggested moving to a different spot, Gráinne stood and walked carefully through the crowd, keeping her bag close to her side as she followed them toward the snug."
+      }
+    },
+    "non_action": "For an evening pub outing, the person arrives in very casual attire and mocks others for dressing up, treating the occasion as not worth effort.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Dylan McAuley",
+        "story": "Dylan showed up outside a pub in Dublin’s Temple Bar area wearing an old hoodie, track bottoms, and scuffed sneakers. His friends were already there, one of them in a shirt and boots, another with a blazer over a jumper.\n\nAs Dylan approached, he laughed and pointed. “Look at you lot,” he said. “All dressed up like it’s a wedding.”\n\nHis friend Ronan shrugged. “It’s Friday night. We’re going into town.”\n\nDylan snorted. “Town, is it? Jaysus, you’re taking yourselves very seriously.” He pulled his hood up and stepped toward the door.\n\nInside, the pub was dimly lit, and people were standing at the bar in coats and smart shoes. Dylan bumped shoulders through the crowd and called back over his shoulder, “Did ye bring ties as well?”\n\nA friend said, “Will you stop.”\n\nDylan leaned on the bar and smirked. “Nah, I’m just saying. Imagine making an effort to drink pints,” he said, stretching his legs out so his sneakers stuck into the walkway.\n\nWhen the bartender set down their drinks, Dylan grabbed his first, took a long sip, and added, “Next time I’ll wear a tux so ye don’t get embarrassed,” while the others lifted their glasses and looked toward the table."
+      }
+    },
+    "principled_action": "Because the person has a foot injury or lacks suitable clothes while traveling, they dress as neatly as possible and explains briefly without making it a focal point.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Sweeney",
+        "story": "Hannah was visiting friends in Dublin with only a small suitcase and a sore ankle from a misstep on a kerb earlier in the day. In her friend’s spare room, she laid out what she had: a clean pair of dark trousers, a simple top, and the only shoes she could manage comfortably—supportive sneakers.\n\nShe wiped the sneakers with a damp tissue until the sides looked clean and tied the laces neatly. Then she brushed her hair, put on a light coat, and joined her friends in the hallway.\n\nAt the pub near Rathmines, her friend Keira glanced down. “New runners?” Keira asked.\n\nHannah smiled and lifted her heel slightly, careful with her ankle. “Only thing I can wear tonight,” she said, keeping her voice casual. “I twisted my ankle earlier, and these are the most comfortable.”\n\n“Fair,” Keira replied, and they went inside.\n\nHannah moved slowly through the crowd, stepping around stools rather than pushing through. She kept her coat folded on the back of her chair and sat with her foot flat on the floor.\n\nWhen a round arrived, she reached for her glass and said, “Thanks,” then listened as the others planned where to go next, nodding along while she checked the swelling with a quick glance under the table."
+      }
+    },
+    "surface_action": "The person dresses smartly for the evening, but uses the appearance to act superior and make others feel judged.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ciarán Power",
+        "story": "Ciarán arrived at a pub in Cork wearing a pressed shirt, a fitted coat, and shiny dress shoes. He paused at the entrance to adjust his cuffs before stepping inside, scanning the room as if checking standards.\n\nHis friends waved from a table. One of them, Seamus, stood up in jeans and clean trainers. “Alright, Ciarán?” Seamus said.\n\nCiarán looked Seamus up and down and smiled thinly. “You went very relaxed,” he said, gesturing toward the trainers. “Did you come straight from the gym?”\n\nSeamus shrugged. “Nah, just comfortable.”\n\nCiarán sat, crossing one leg so his shoe caught the light. “I just don’t get going out looking like you’ve given up,” he said, lifting his pint when it arrived.\n\nAnother friend, Orla, laughed and said, “Here we go.”\n\nCiarán smiled. “I’m only saying,” he replied, then leaned toward a group passing by and said quietly, “Some people don’t know the difference between daytime and evening.”\n\nWhen the bartender asked if they wanted another round, Ciarán said, “Yes, please,” and then added, “And maybe a pair of proper shoes for my mate here,” nodding toward Seamus.\n\nSeamus stared at the table, and Ciarán took a slow sip, letting the glass rest against his lower lip before setting it down."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Dining",
+    "full_action": "At the dinner table, the diner keeps their elbows off the table to follow local table manners.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Seán Farrell",
+        "story": "Seán settled into the chair at the dining table in a Dundalk kitchen, the smell of baked ham drifting from the oven. He placed his napkin on his lap and rested his hands lightly near his plate, keeping his forearms off the tabletop.\n\nHis aunt passed a bowl of peas. “Go on, Seán,” she said.\n\n“Thanks,” he replied, taking the bowl with his hands and setting it down carefully to serve himself.\n\nAs conversation moved from school to the weather, Seán kept his posture upright, wrists near the edge of the table when he cut his food. When he needed a pause, he set his knife and fork down and folded his hands in his lap.\n\nHis cousin nudged the gravy boat toward him. “There you are.”\n\n“Sound,” Seán said, lifting it and pouring a small amount.\n\nSomeone laughed at a story from work, and Seán leaned forward slightly to hear, still keeping his elbows clear.\n\nAfter a few minutes, he reached for his glass, took a sip, and placed it back on the coaster beside his plate."
+      }
+    },
+    "non_action": "At the dinner table, the diner rests their elbows on the table and ignores the shared expectation even when corrected.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Liam Doherty",
+        "story": "Liam dropped into his chair at the table in a house in Waterford and planted both elbows wide on the tablecloth. He leaned over his plate, fork in hand, and started talking with his mouth half full.\n\nHis sister said quietly, “Liam, get your elbows off the table.”\n\nHe glanced up. “I’m grand,” he said, keeping them there and reaching across for the butter dish, knocking a spoon against a glass.\n\nTheir mother slid the serving dish closer. “Just mind the table,” she said.\n\nLiam laughed and pressed his elbows down again, shoulders hunched. “Sure what difference does it make? It’s only us.”\n\nWhen the roast potatoes were passed, he pulled the bowl toward him with his forearm, leaving a smear of gravy near the edge. His father pointed at the cloth. “You’re making a mess.”\n\n“Relax,” Liam said, cutting a piece of meat while still leaning on his elbows.\n\nA pause settled as others continued eating.\n\nLiam reached for his phone beside his plate and balanced it against his elbow to show a video."
+      }
+    },
+    "principled_action": "Because the diner needs brief support due to fatigue or a brace, they minimize elbow use, adjust posture when possible, and keep the meal respectful.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Maeve O'Connell",
+        "story": "Maeve arrived with her left wrist wrapped in a light brace after a fall on icy steps. At the table in a Galway apartment, she placed the brace-side hand on her lap and kept her right hand free for her cutlery.\n\nWhen a bowl of stew was set in front of her, she used both hands to lift the spoon, then returned her arms close to her body rather than resting her elbow on the table.\n\nHer friend Tara noticed. “How’s the wrist?”\n\n“Still sore,” Maeve said. “I’ll manage.”\n\nA few minutes later, Maeve’s shoulders tightened and she needed a moment of support. She brought her left forearm briefly to the edge of the table, keeping the elbow tucked and light, then shifted back, straightening in her chair.\n\n“Do you want me to cut that bread for you?” Tara asked.\n\n“I’m okay,” Maeve said, sliding the bread plate nearer and using her right hand to tear a small piece.\n\nShe adjusted her posture again, lifting her forearms off the table as she reached for her glass.\n\nMaeve set her spoon down, dabbed her mouth with the napkin, and continued the conversation while keeping her arms close."
+      }
+    },
+    "surface_action": "The diner keeps elbows off the table, but then slouches and crowds others’ space, contradicting the same consideration.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Conor Kennedy",
+        "story": "Conor sat down at the dinner table in a Killarney rental cottage and kept his elbows floating off the wood as plates were served. “No elbows,” he joked, lifting his hands like he was demonstrating.\n\nAs soon as the conversation picked up, he slid his chair forward and slouched, knees wide under the table. He leaned his torso into the centre, shoulder pressing toward the person beside him while his elbows stayed in mid-air.\n\n“Pass the salt,” he said, reaching across in front of someone’s plate, his sleeve brushing their glass.\n\n“Here you go,” said Bríd, shifting her own plate back a few centimetres.\n\nConor kept leaning, angling his body so his chest hovered over the shared bread board. He cut his meat with exaggerated movements, taking up space without placing his elbows down.\n\nBríd adjusted again, pulling her chair slightly away.\n\nConor laughed at a story and leaned even closer, crowding the centre while his elbows remained off the tabletop like he was following a rule.\n\nA fork clinked as someone moved their cutlery to avoid his reaching arm.\n\nConor lifted his glass, took a long drink, and set it down near the edge beside someone else’s napkin."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Kinship",
+    "full_action": "When invited to a family-style dinner, the person makes an effort to attend and share the meal as a way of maintaining family connection.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Róisín Brennan",
+        "story": "Róisín finished her shift in a café in Cork, tied her hair up again, and checked the family group chat: “Dinner at Mam’s, six-thirty.” She wiped flour off her hands, grabbed a clean jumper from her locker, and drove across the river toward her parents’ house.\n\nAt 6:25 she walked in, calling, “Hello!” The kitchen was busy with steam on the windows and a pot simmering.\n\n“Róisín, you made it,” her mother said, handing her a spoon. “Taste that.”\n\nRóisín tasted and said, “Needs a bit more salt.”\n\nHer brother arrived with a bag of rolls. Her dad carried plates to the table. Róisín set out cutlery and filled the water jug.\n\nWhen everyone sat, her mother said, “Right, eat before it goes cold.”\n\nRóisín served herself, then passed the dish along. “How’s your new job?” she asked her brother.\n\nHe told a story, and Róisín listened, nodding and eating.\n\nAfter the main course, she reached for the trifle bowl and said, “Who wants a small bit?”\n\nShe set the serving spoon down and topped up her dad’s tea cup."
+      }
+    },
+    "non_action": "When invited to a family-style dinner, the person repeatedly refuses without explanation and treats shared dinners as unimportant to family relationships.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kevin O'Brien",
+        "story": "Kevin saw his sister’s message pop up—“Family dinner Sunday, Mam’s at five”—and left it on read. The next day his mother called. “Are you coming over?”\n\n“Can’t,” Kevin said, already opening a video game. “I’ve stuff on.”\n\n“What stuff?” she asked.\n\n“Just stuff,” he replied, and ended the call.\n\nThat weekend, another text arrived: “We’re doing stew, your favourite.” Kevin replied with a single “Nah.” No time, no reason.\n\nOn Sunday evening, while the table was being set in their house in Drogheda, Kevin stayed in his apartment eating takeaway from a box, scrolling through clips.\n\nHis phone rang again. He let it ring out.\n\nLater, a photo came through: plates on the table, his dad holding a slice of bread. Kevin reacted with a thumbs-up emoji and went back to his show.\n\nThe next week, his sister tried again. “We’re all here Friday, just come for an hour.”\n\nKevin typed, “Not bothered,” and sent it.\n\nHe put the phone face down and turned the volume up on the television."
+      }
+    },
+    "principled_action": "Because of work, travel, or childcare constraints, the person explains the conflict, proposes another time, and stays connected through a call or message.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Deirdre Lyons",
+        "story": "Deirdre read the message from her brother: “Dinner at Dad’s Tuesday, seven.” She looked at her rota on the fridge—late shift in the hospital, then school pickup for her son.\n\nShe replied straight away: “I can’t make Tuesday—on shift till 9 and I’ve the little fella. Could we do Sunday lunch instead? I can bring dessert.”\n\nA few minutes later, her brother wrote back: “Sunday works. Dad said grand.”\n\nOn Tuesday evening, Deirdre left the ward, sat in her car in the staff car park, and rang her father. He answered on the second ring, noise of dishes in the background.\n\n“Hi Dad,” she said. “I’m sorry I’m missing yous tonight. How’s everything going?”\n\n“Ah we’re just sitting down,” he said.\n\nDeirdre listened while he described the stew and who had turned up. She put the phone on speaker and waved to her son in the back seat as he buckled in.\n\n“Tell them I said hello,” she said.\n\n“I will,” her father replied.\n\nWhen she got home, Deirdre sent a text to the family chat: “Hope dinner was lovely—see ye Sunday. I’ll bring apple tart.”\n\nShe placed her son’s schoolbag by the door and set the kettle on."
+      }
+    },
+    "surface_action": "The person attends the family dinner, but stays disengaged and uses the gathering only to criticize others, undermining the purpose of togetherness.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sinead Connolly",
+        "story": "Sinead arrived at her aunt’s house in Belfast for the family dinner right on time and took a seat at the table while dishes were brought out. She kept her coat on the back of the chair and pulled her phone close.\n\nHer aunt said, “Great, everyone’s here. Dig in.”\n\nSinead served herself and stared at her screen. When her cousin started talking about a new flat, Sinead looked up and said, “You’re paying that much? That’s mad. You never think things through.”\n\nThe cousin stopped mid-sentence.\n\nHer uncle asked Sinead, “How’s work?”\n\n“It’s fine,” she said, then nodded toward her brother. “He still can’t hold a job. Same story every year.”\n\nA fork clinked against a plate. Someone reached for water.\n\nSinead ate and kept commenting. “The potatoes are undercooked,” she said, pushing them with her fork. “And why is the gravy so thin?”\n\nHer aunt said, “It’s what it is.”\n\nSinead laughed once and said, “Sure. Anyway, did you see the state of your garden? You should get someone in.”\n\nThe table got quieter as people chewed.\n\nWhen dessert arrived, Sinead took a spoonful and said, “At least this isn’t burnt,” then went back to her phone.\n\nShe tapped the screen to answer a message and slid her plate away."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Exchange",
+    "full_action": "In a pub with friends, the person follows the rounds system by taking their turn to buy drinks for the group.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kieran Moloney",
+        "story": "Kieran met his friends in a pub off Shop Street in Galway, the place busy with voices and the clack of glasses. They had already started a round, and Kieran set his coat on the chair and joined the circle.\n\n“Same as last time?” asked Megan.\n\n“Yeah, cheers,” Kieran said, taking the pint she handed him.\n\nAfter a couple of songs from the live duo, Megan checked the table. “Anyone ready for another?”\n\nKieran glanced at the empty glasses. “I’ll get this one,” he said, pushing back his stool.\n\nHe went to the bar, waited behind two people, and leaned in when the bartender looked over. “Four Guinness, two lager, and a soda water, please,” Kieran said, repeating the order as the taps hissed.\n\nHe tapped his card, then balanced the tray with both hands and carried it back carefully.\n\n“Here we go,” he said, setting each drink in front of the right person. “Soda for you, Megan.”\n\n“Sound,” Megan replied.\n\nThey clinked glasses lightly, and Kieran took his seat again.\n\nWhen the next song started, he pulled his chair closer to the table and set a coaster under his pint."
+      }
+    },
+    "non_action": "In a pub with friends, the person accepts drinks from others but repeatedly avoids buying their round and acts as if the group should cover them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Colm Sheridan",
+        "story": "Colm slid into the booth in a pub in Kilkenny just as a tray of drinks arrived. “Lovely,” he said, taking the pint set in front of him.\n\n“Your turn next,” said Jamie, sitting opposite.\n\n“Yeah, yeah,” Colm replied, already drinking.\n\nWhen the glasses emptied, Jamie stood. “I’ll grab the next round.”\n\nColm nodded and stayed seated, scrolling. Jamie returned with pints and set one down in front of Colm.\n\n“Cheers,” Colm said, lifting it.\n\nAfter that, Aoife stood. “Right, I’ll go now.”\n\nColm watched her leave and stayed put. When she came back, another pint appeared in front of him. “Thanks,” he said.\n\nJamie leaned over. “Colm, you’re up.”\n\nColm patted his pockets and smirked. “Ah, I’ve no cash on me. And the queue’s brutal. Someone else can do it.”\n\n“We’ve all paid already,” Aoife said.\n\nColm shrugged. “Sure I’ll get ye next time.” He took a long drink.\n\nA new order was being discussed. Colm raised his empty glass slightly toward Jamie. “Same again for me, please.”\n\nJamie stared at him for a moment, then turned back toward the bar.\n\nColm leaned back and said, “Sound lads,” as if the plan was settled."
+      }
+    },
+    "principled_action": "Because the person is short on cash or not drinking, they state it upfront, offer to buy snacks or cover a different item, and keeps the exchange fair.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Alannah Byrne",
+        "story": "Alannah met her friends in a pub near Eyre Square and ordered a lime and soda. When she returned to the table, she held up her phone. “Just so you know,” she said, “I’m tight this week and I’m not drinking pints. Don’t put me in the rounds for drinks.”\n\nMick nodded. “No bother.”\n\nWhen the first round came, Alannah didn’t take a pint; she sipped her soda and chatted. As the next round was being called, she stood.\n\n“I’ll get something in,” she said. “Anyone want crisps or chips?”\n\n“Chips for the table,” said Roisin. “And a bag of Tayto.”\n\nAlannah went to the bar, ordered two bowls of chips and a few bags of crisps, then paid and carried them back. She set them in the centre. “Here, that’s my contribution,” she said.\n\n“Perfect,” Mick replied, sliding a bowl closer.\n\nWhen pints arrived again, Alannah lifted her soda and said, “I’m grand,” letting the others sort their drinks among themselves.\n\nLater, when a friend offered to buy her another soda, she said, “Thanks, but I’ll get my own,” and went up to the bar for a fresh one.\n\nShe returned with the glass and placed it beside the crisps."
+      }
+    },
+    "surface_action": "The person buys a round on schedule, but uses it to demand control over what everyone drinks and to guilt others into reciprocating immediately.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Patrick Keogh",
+        "story": "Patrick checked the empty glasses on the table in a pub in Cork and stood up. “Right, my round,” he said, grabbing his wallet.\n\nAt the bar, he ordered without asking. “Six Guinness,” he told the bartender, waving off a question. When he returned, he set the pints down in front of everyone.\n\nMairead looked at her glass. “I usually get lager.”\n\nPatrick shrugged. “Guinness is what we’re having. It’s proper.”\n\nShe lifted it anyway. “Cheers.”\n\nPatrick sat down and watched people take their first sip. “And we’re not waiting ages for the next round,” he said, tapping the table. “I’ve just paid for all that.”\n\nJamie said, “We’ll sort it.”\n\nPatrick leaned in. “No, I mean the next person goes now. Don’t be making me sit here with an empty pint while you nurse yours.”\n\nA friend laughed awkwardly and checked their glass.\n\nPatrick pointed at Aoife. “You’re next, yeah? Up you go.”\n\nAoife said, “I’ve half a pint left.”\n\nPatrick raised his eyebrows. “Sure finish it then. I didn’t buy it for decoration.”\n\nHe drank quickly, set his empty glass down with a thud, and nodded toward the bar again."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Exchange",
+    "full_action": "When receiving a gift, the recipient opens it promptly in front of the giver and thanks them for the gesture.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Emma O'Shea",
+        "story": "Emma met her friend at the door of her apartment in Cork and let her in out of the rain. “Happy birthday,” her friend said, holding out a small wrapped parcel.\n\n“Oh, stop,” Emma replied, taking it with both hands. “Thanks a million.”\n\nThey moved into the kitchen where the kettle was boiling. Emma set the parcel on the table, then picked it back up and started peeling the tape carefully.\n\n“Open it,” her friend said, leaning on the counter.\n\nEmma slid the paper off and lifted the lid of a small box. Inside was a soft scarf folded neatly.\n\n“Ah, that’s gorgeous,” Emma said, running her fingers over the fabric. “Thank you—this is really lovely.”\n\nHer friend smiled. “I thought it’d suit you.”\n\nEmma held it up to her neck and looked in the dark window like a mirror. “It does. I’ll wear it to work.”\n\nShe folded it back into the box and set the empty wrapping paper to one side.\n\n“Tea?” Emma asked.\n\n“Yeah, go on,” her friend said.\n\nEmma filled two mugs, carried them to the table, and placed one in front of her friend."
+      }
+    },
+    "non_action": "When receiving a gift, the recipient refuses to open it, dismisses it, and changes the subject without appreciation.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Brian Murphy",
+        "story": "Brian met his colleague Mae at the doorway of his flat in Dublin, still wearing his coat. Mae held out a small gift bag. “Just a little thing,” she said.\n\nBrian glanced at it and waved a hand. “Ah don’t be doing that,” he said, taking it reluctantly and setting it on a shelf without looking inside.\n\nMae smiled. “It’s nothing, really.”\n\nBrian turned away. “So—did you see the match last night?” he asked, already walking toward the living room.\n\nMae followed, eyes flicking back to the bag. “You can open it.”\n\n“No, no,” Brian said, dropping onto the sofa. “It’s grand. Sure you shouldn’t have bothered.”\n\nMae sat on the chair opposite. “It’s just—”\n\nBrian cut in, “Anyway, I’m thinking of changing jobs. The commute is a nightmare.” He grabbed the remote and turned the TV on low.\n\nMae shifted in her seat. “Right.”\n\nBrian kept talking about traffic and parking, never picking up the bag again. When Mae mentioned the gift once more, he said, “Leave it there, I’ll look at it later,” and kept his eyes on the screen.\n\nA notification pinged on his phone, and Brian leaned over to read it.\n\nMae stood after a few minutes and said, “I’ll head on,” while Brian said, “Yeah, sound,” still seated."
+      }
+    },
+    "principled_action": "Because the moment is busy or public, the recipient explains they will open it later, thanks the giver warmly, and follows up afterward with appreciation.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Clíodhna Byrne",
+        "story": "Clíodhna stood in the hallway of an office building in Dublin where a small leaving do was happening, people clustered with paper cups of tea. Her teammate Mark stepped forward with a wrapped box.\n\n“For you,” he said. “Before you disappear.”\n\nClíodhna took it and smiled. “Mark, thank you. That’s really kind.”\n\nSomeone called her name from the other side of the room and a manager stepped in with a phone ready for a group photo.\n\nClíodhna looked back at Mark. “It’s a bit hectic here—I’ll open it properly later, but thanks a million for the gesture.”\n\n“No worries,” Mark said.\n\nClíodhna tucked the gift under her arm, joined the photo, and then spent the next ten minutes shaking hands and answering quick questions.\n\nThat evening at home in her kitchen in Phibsborough, she sat down at the table and unwrapped the box. Inside was a notebook and a pen set.\n\nShe picked up her phone and typed: “Just opened it—love the notebook and pen. Thanks again, I’ll actually use them every day.”\n\nA reply came back: “Glad you like it!”\n\nClíodhna placed the pen in the notebook’s spine loop and set both on her desk."
+      }
+    },
+    "surface_action": "The recipient opens the gift immediately, but then criticizes it in detail and focuses on shortcomings instead of gratitude.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Niall Costello",
+        "story": "Niall stood in the doorway of his sister’s house in Kinsale when she handed him a neatly wrapped package. “Here,” she said, “I saw it and thought of you.”\n\nNiall tore the paper quickly and opened the box on the hall table. Inside was a wool jumper.\n\nHe pulled it out and held it up. “Right,” he said, turning it over. “It’s a bit scratchy, isn’t it? And the colour’s darker than I’d wear.”\n\nHis sister said, “I thought it’d be warm.”\n\nNiall inspected the tag. “Also, this brand shrinks. And look—the sleeves are short. I hate short sleeves.”\n\nShe shifted her weight and said, “You can exchange it if you want.”\n\nNiall kept talking, folding it roughly. “The neck’s too tight as well. I don’t know why they make them like that. And the stitching here—see? It’s uneven.”\n\nHis sister’s partner walked past with a tray and glanced at the jumper.\n\nNiall put it back in the box. “You should’ve asked me first,” he said, setting the lid on top.\n\nHis sister picked up the wrapping paper and smoothed it flat without speaking.\n\nNiall tucked the box under his arm and stepped into the sitting room, placing it on the coffee table beside a stack of magazines."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Civility",
+    "full_action": "When uncertain about pub etiquette, the newcomer watches what locals do and mirrors the same polite behaviors before acting.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Maya Patel",
+        "story": "Maya stepped into a snug pub off Camden Street and paused at the edge of the bar, her coat still half on. The room was busy but not loud; pints moved in steady arcs from hand to hand. She watched for a moment instead of pushing forward. Two people waited behind a brass rail until the barman’s eyes met theirs, then they spoke quickly, coins already in hand. A man beside her raised two fingers toward the barman, then pointed lightly to the Guinness tap and nodded.\n\nMaya slid into the same line, keeping her shoulders back so she wasn’t blocking anyone. When the barman looked her way, she didn’t wave; she lifted two fingers the way the man had and said, “One Guinness, please.” She heard a soft “Cheers” from someone as a glass passed behind her and shifted her feet to make room.\n\nWhen the pint landed in front of her, she set her card down only after seeing another customer do the same, then tapped once and lifted the glass with both hands to carry it away from the bar."
+      }
+    },
+    "non_action": "When uncertain about pub etiquette, the newcomer ignores how others behave, breaks the local flow, and insists their own habits should be accepted.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ethan Miller",
+        "story": "Ethan walked into the pub near Eyre Square and headed straight through the cluster at the bar as if it were a queue. People were standing in loose rows, watching the taps and the staff, but he planted himself at the counter and leaned his elbows on the wood. The barman was pulling two pints and speaking to someone to Ethan’s left.\n\n“Hey!” Ethan called, lifting his phone like a ticket. “I’m next. I’ve been waiting.”\n\nA woman beside him said, “There isn’t really a line, love,” and shifted her glass away from his sleeve.\n\nEthan shook his head. “That makes no sense. Back home we do it properly. If you don’t have a queue, you should start one.” He raised his voice again when the barman served someone farther down the bar. “Excuse me, I was here first.”\n\nThe barman glanced over and kept moving. Ethan tapped the counter twice with his knuckles, then turned to the nearest group and said, “You all should be okay with how I do it, yeah?”\n\nHe stayed pressed to the bar, holding his spot with his forearm as another customer tried to step in beside him."
+      }
+    },
+    "principled_action": "Because the situation is unclear, the newcomer observes briefly, asks a staff member or friend a simple question, and then follows the guidance respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Kenji Sato",
+        "story": "Kenji met his colleague Aoife at a pub near the River Lee after work, and the place was already full. He hovered near a high table, watching people drift toward the bar in no obvious order. A bartender set down a tray of glasses and nodded at someone who hadn’t been standing closest.\n\nKenji leaned toward Aoife. “Is there a queue here, or do you just… go up?”\n\nAoife smiled and said, “Just get the barman’s eye, and don’t shout. If someone’s waiting ahead of you, let them go.”\n\nKenji watched a couple of exchanges, then walked with Aoife toward a gap at the bar. He kept his hands off the counter and waited until the bartender’s gaze landed on them. Kenji said, “Hi—two pints of lager, please,” and then stepped half a pace back so the person beside him could set down a glass.\n\nWhen the bartender handed over the pints, Kenji asked, “Card okay?” and followed the nod, tapping his card once and slipping it back into his wallet.\n\nHe carried the drinks carefully to their table and set them down on coasters."
+      }
+    },
+    "surface_action": "The newcomer copies the visible gestures, but does so in an exaggerated way to draw attention, treating etiquette as a performance.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sabrina Chen",
+        "story": "Sabrina pushed into a crowded pub in Temple Bar and immediately scanned the bar like she was studying a scene. She saw someone lift two fingers to catch the barman’s attention. Sabrina copied it, but she held her hand high above her head and wiggled the two fingers like a stage cue. She glanced around, smiling as if waiting for someone to notice.\n\nWhen the barman looked over briefly, Sabrina leaned forward and repeated the gesture, larger. “Two fingers!” she said, loud enough to carry over the chatter. A couple at the corner turned their heads.\n\nShe watched another customer say “Thanks” and slide aside. Sabrina echoed it with an extra flourish: “Thaaanks!” she sang, stepping dramatically to the side and then stepping back again to retake her spot.\n\nA man next to her reached in to order, and Sabrina mirrored his small nod with an exaggerated bow. “After you,” she announced, sweeping her arm as if introducing him.\n\nThe barman placed her pint on the counter, and Sabrina lifted it with both hands, raised it chest-high toward the room, and walked away slowly between tables."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "In conversation, the speaker avoids stereotypes and clichés about Irish people, including jokes that equate Irish identity with drinking or drunkenness.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nóra Kavanagh",
+        "story": "Nóra was at a friend’s flat in Waterford for a casual board-game night, sitting cross-legged on the rug with a bowl of popcorn between players. A newcomer, Rika, asked, “Is it okay if I don’t drink? I brought ginger beer.”\n\n“Of course,” Nóra said, reaching to make space on the coffee table. “Pop it there.”\n\nSomeone else laughed and started to say, “Sure we’re all—” then stopped.\n\nNóra kept the focus on the game. “We’ve got tea as well if you want,” she told Rika, and passed over an extra mug. When the dice rolled off the table, Nóra scooped it up and said, “Right, your turn—two moves.”\n\nAs they played, Rika mentioned she was learning Gaeilge phrases for fun, and Nóra answered with a couple she remembered from school, repeating them slowly so Rika could hear the sounds.\n\nLater, a neighbour popped in and asked what everyone was drinking. Nóra said, “Whatever they’ve brought—there’s ginger beer, tea, and a few cans,” and pointed to the fridge.\n\nShe dealt the next hand of cards and slid the rule sheet back toward the middle."
+      }
+    },
+    "non_action": "In conversation, the speaker repeats alcohol-related stereotypes about Irish people and uses them as jokes even when others look uncomfortable.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Bradley Knox",
+        "story": "Bradley was at a team lunch in a café in Kilkenny, squeezed into a booth with coworkers. When the waiter asked about drinks, Bradley grinned and said, “Where are the pints? Come on, this is Ireland.”\n\nA coworker, Maeve, glanced toward the waiter and said, “I’ll just have sparkling water.”\n\nBradley laughed. “Sparkling water? In Ireland? That’s illegal.” He nudged the person beside him with his elbow. “You lot are born with a Guinness, right?”\n\nMaeve looked down at her menu and didn’t respond. Another coworker, Seamus, said, “Just order your own, man.”\n\nBradley kept going. “Seriously, Irish people and drinking—legendary. I’ve got to keep up or I’ll get thrown out.” He mimed tipping back an invisible pint and made a loud gulping sound.\n\nSeamus’s jaw tightened. “Can we not.”\n\nBradley raised both hands like he was harmless. “It’s only a joke. You can take a joke, yeah?” He looked around the table for laughs and repeated, “Irish equals drunk,” like it was a slogan.\n\nThe waiter returned with plates, and Bradley said, “Careful carrying those—might spill if I’m as Irish as you.”\n\nMaeve shifted her chair back slightly and began cutting her sandwich without looking up."
+      }
+    },
+    "principled_action": "Because the speaker realizes a comment could sound stereotypical, they rephrase, apologize briefly, and shift to individual-focused conversation rather than clichés.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Lewis",
+        "story": "Hannah was at a birthday gathering in a pub in Athlone, sitting at a table with Colm’s friends. She’d just moved for work and was trying to make conversation. When someone asked what she’d done that week, Hannah started, “I’ve been trying to keep up with the—” and then she caught herself as her eyes landed on a row of empty glasses being cleared.\n\nShe stopped and said, “Sorry—ignore that. I was going to make a tired comment.”\n\nColm’s friend Sinead looked at her. “About what?”\n\nHannah shook her head once. “About drinking. It’s not what I mean.” She leaned forward and continued, “I meant I’m still learning my way around. I went to the market on Saturday and got lost by the river.”\n\nSinead smiled slightly. “The Saturday market by the castle?”\n\n“Yeah,” Hannah said. “That one. I ended up buying brown soda bread because the stallholder talked me into it.”\n\nColm asked, “Did you try the fish place near there?”\n\nHannah said, “Not yet. Tell me what to order.”\n\nSinead described a dish, Colm pulled up a photo on his phone, and Hannah asked for the name of the street so she could find it.\n\nShe took a sip of her lemonade and wrote the suggestion into her notes app."
+      }
+    },
+    "surface_action": "The speaker avoids explicit stereotypes, but keeps making “harmless” hints about drinking that still reduce people to a cliché.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Owen Clarke",
+        "story": "Owen was at a community volunteering meet-up in a hall in Drogheda, where people were pairing up for a weekend clean-up. During the tea break, he chatted with two new volunteers, Ciara and Mo.\n\nOwen smiled and said, “I won’t do the whole ‘Irish people drink all the time’ thing,” and held up his hands like he was being careful. “I’m not that guy.”\n\nCiara nodded once and stirred her tea.\n\nOwen continued anyway, “But you have to admit, there’s always a pub story. Like, everyone’s got an uncle who can handle ten pints, yeah?” He laughed and looked between them.\n\nMo said, “I don’t really drink.”\n\n“Fair play,” Owen replied quickly. “No judgement.” He leaned closer and added, “Still, you must get offered a pint at every family thing. It’s just… part of it, isn’t it?”\n\nCiara’s spoon tapped the mug. “Not really.”\n\nOwen chuckled softly. “Right, right, I’m only hinting. Harmless.” He picked up a biscuit and said, “Anyway, when this is done we’ll all deserve one—just saying.”\n\nA coordinator called for attention to explain routes. Owen raised his cup in a little toast toward Ciara and Mo, then set it down and walked back to the folding chairs."
+      }
+    }
+  }
+]

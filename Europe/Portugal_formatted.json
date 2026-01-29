@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When meeting friends or doing informal work, the person uses a coffee house as a social space and keeps their behavior calm and considerate of others nearby.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "André Batista",
+        "story": "André met two friends at a pastelaria-café near Praça da República in Porto, the kind with small marble tables and a glass case of pastries. He chose a table against the wall rather than in the middle of the room and set his laptop down neatly, keeping his backpack under his chair. When the waiter came, André ordered “um galão e uma torrada,” and waited for the others to order before opening his notes.\n\nAs Inês started describing a new apartment search, André leaned in slightly but kept his voice low. “Ok, manda-me depois o link,” he said, pointing to his phone without pulling it out for long.\n\nA student at the next table had headphones on and was writing in a notebook. André noticed his friend Rafa starting to laugh loudly at a meme, and André lifted a hand gently. “Ei, mais baixo,” he murmured.\n\nRafa nodded and lowered his voice. André continued the conversation in short bursts, then typed quietly, pausing to listen when Inês spoke. When the waiter returned with coffees, André moved his laptop a little so the tray could fit, and he thanked him with a quick “obrigado.”\n\nThey stayed for another hour, talking calmly and leaving their cups and plates stacked at the edge of the table when they stood to go."
+      }
+    },
+    "non_action": "When meeting friends or doing informal work, the person treats the coffee house as their private space, talks loudly, and disrupts others who are studying or chatting.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Beatriz Lemos",
+        "story": "Beatriz walked into a café in Lisboa with two friends and immediately pushed two tables together near the center, dragging them across the floor with a scraping sound. She dropped her tote bag on one chair and her coat on another, then pulled out her laptop and a portable speaker. “Espera, esta música é top,” she said, tapping her phone until a beat filled the room.\n\nA couple at the next table glanced over. Beatriz didn’t lower the volume. She started talking across the table in a loud voice, laughing hard. “Não, não, ouve isto!” she said, and read a message out loud.\n\nOn the other side, a teenager with a textbook looked up, pausing mid-highlight. Beatriz leaned back and stretched her legs into the aisle. When the waiter approached, she kept talking over him. “Três cappuccinos, e rápido,” she said, waving a hand.\n\nHer friend tried to show her something on a laptop screen. Beatriz responded louder, “Eu já disse que isso não faz sentido!” The student nearby closed their book and gathered their things.\n\nBeatriz didn’t notice; she turned the speaker up another notch and started a voice message, speaking directly into her phone while the café’s background chatter thinned around her."
+      }
+    },
+    "principled_action": "Because the group needs to discuss something private, the person suggests a quieter corner or a different venue while still respecting the coffee house as a shared space.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Carla Viegas",
+        "story": "Carla met her friend Joana at a café in Braga with tall windows and small tables. They greeted each other with quick kisses on the cheek, ordered two bicas, and sat near the middle. As Joana started talking, her voice dropped. “Preciso mesmo de te contar uma coisa sobre o meu chefe.”\n\nCarla glanced around. A couple was close by, and a group of students were sharing a table, laptops open. Carla leaned in and spoke quietly. “Aqui está muita gente perto.” She pointed subtly toward a corner table behind a column. “Vamos ali, ou se preferires, damos uma volta lá fora e falamos.”\n\nJoana hesitated. “Podemos ir ali.”\n\nCarla stood and gathered her bag, keeping her chair close to the table so it didn’t bump anyone. They moved to the quieter corner and sat with their shoulders turned inward. Carla kept her tone low. “Agora diz.”\n\nJoana spoke in short phrases, and Carla listened, nodding and asking, “Ele disse isso quando?”\n\nWhen the waiter brought their coffees, Carla thanked him and slid the cups closer to the wall to make space. They continued the private conversation without raising their voices, and when Joana finished, Carla suggested, “Se quiseres, mandamos um email amanhã,” as she stirred her coffee slowly."
+      }
+    },
+    "surface_action": "The person chooses a coffee house as expected, but dominates the space by spreading belongings and preventing others from sitting comfortably.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hugo Ribeiro",
+        "story": "Hugo arrived early at a café in Faro and picked a long table meant for several people, even though it was just for him and one friend. He placed his laptop in the center, then spread out a notebook, loose papers, a charger, and a pencil case. His backpack went on the chair beside him, and his coat draped over another chair, leaving only one seat open.\n\nA pair of tourists looked around for a spot and paused by the table. Hugo didn’t move anything; he kept typing. The tourists walked away.\n\nWhen his friend Sara arrived, she slid into the only free chair. “Uau, montaste aqui o escritório todo,” she said.\n\nHugo smiled and tapped a pile of papers. “Tenho de organizar isto.” He reached across the table and pulled another notebook closer, bumping his coffee saucer slightly.\n\nA waiter came by and glanced at the occupied chairs. “Precisa de mais alguma coisa?”\n\n“Não, obrigado,” Hugo said, still spread out. He pushed his bag farther under the neighboring chair rather than lifting it.\n\nAs the café filled, a student hovered near their table with a tray, looking for a place to sit. Hugo shifted his laptop a few centimeters but kept the extra chairs blocked with his belongings, and Sara had to tuck her elbows in to avoid his papers."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In public places, the person avoids going barefoot or wearing beachwear away from the beach and chooses clothing that looks appropriately put-together.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Miguel Coelho",
+        "story": "Miguel left his apartment in Lagos late morning and headed toward the town center to run errands. He’d been at Meia Praia earlier in the week, but today he chose dark shorts, a clean polo shirt, and sneakers instead of flip-flops. Before stepping outside, he checked the mirror briefly, adjusted his collar, and grabbed a light jacket.\n\nOn the street, he passed a few tourists in sandals carrying towels, and he kept walking toward the post office. Inside, the floor was cool stone, and Miguel’s shoes made a soft sound as he joined the queue. A woman ahead of him held a package and turned slightly when the line moved.\n\nMiguel waited without crowding her and glanced at the notice board. When a clerk called, “Próximo,” he stepped forward and placed his envelope on the counter. “Bom dia,” he said.\n\nAfter finishing, he crossed to a café nearby and sat at an outdoor table. He kept his shirt on, rested his feet flat on the ground, and ordered “um café e um pastel de nata.”\n\nA breeze lifted the edge of his jacket, and he pulled it closer as he took out his wallet to pay."
+      }
+    },
+    "non_action": "In public places, the person walks around barefoot or in beachwear and dismisses others’ discomfort about overly casual dress.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Catarina Loureiro",
+        "story": "Catarina walked from the beach area in Albufeira straight into town wearing a bikini top and a loose sarong that kept slipping at her hip. She carried her sandals in one hand and stayed barefoot on the pavement. At a small grocery store, she pushed the door open with her shoulder and stepped inside, feet leaving faint damp marks on the floor.\n\nA man near the entrance looked down and then up. The cashier glanced at her and then at the sign by the door. Catarina grabbed a bottle of water and a bag of chips and walked to the counter.\n\nThe cashier said, “Desculpe, senhora, precisa de calçado aqui.”\n\nCatarina shrugged. “Ai, é só um minuto,” she replied, placing the items down. She didn’t put the sandals on.\n\nThe cashier kept her hand near the register. “É regra.”\n\nCatarina rolled her eyes and lifted her sandals slightly. “Vocês são mesmo complicados.” She still didn’t step into them, just shifted her weight and looked past the cashier toward the street.\n\nA woman behind her in line took a step back, holding a loaf of bread against her chest.\n\nCatarina paid quickly, picked up her items, and walked out still barefoot, letting the door swing closed behind her as she bit into a chip on the sidewalk."
+      }
+    },
+    "principled_action": "Because the person is coming directly from the beach, the person changes or adds a cover-up as soon as possible and keeps their appearance neat in town.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Leonor Martins",
+        "story": "Leonor came off the sand at Praia da Rocha with her towel over her shoulder and salt still on her arms. She needed to stop by a shop in Portimão before heading home, so she walked to a nearby bathroom facility by the promenade. Inside, she rinsed her feet, dried them, and pulled on simple sandals. She took a clean T-shirt and a light linen cover-up from her beach bag and slipped them on over her swimsuit.\n\nOutside, she tightened her hair into a bun and checked that the cover-up tied properly at her waist. She folded the towel and tucked it into the bag instead of carrying it loose.\n\nIn town, she entered a small pharmacy and stood in line, hands on her bag strap. When it was her turn, she leaned slightly toward the counter. “Boa tarde. Preciso de after-sun, por favor,” she said.\n\nThe pharmacist showed two options. Leonor read the labels without dripping water or shaking sand onto the floor. She paid, thanked the pharmacist, and stepped back outside.\n\nAs she walked toward the bus stop, she adjusted the cover-up so it sat flat on her shoulders and pulled her T-shirt hem down, then checked the receipt and placed it in her wallet."
+      }
+    },
+    "surface_action": "The person dresses appropriately in public, but then behaves arrogantly, undermining the social respect that the dress code supports.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Rui Valente",
+        "story": "Rui walked into a café in Coimbra wearing a crisp button-down shirt, clean jeans, and leather shoes. He glanced around, chose a table by the window, and sat with his back straight. When the waiter approached, Rui didn’t look up from his phone.\n\n“Boa tarde,” the waiter said.\n\nRui raised one finger without speaking, continuing to scroll. The waiter waited a moment.\n\nRui finally looked up. “Um espresso,” he said, snapping the word out. “E traz água também.”\n\n“Claro,” the waiter replied.\n\nRui leaned back and stretched his legs into the aisle, shoe tapping lightly against the chair opposite. When the waiter returned with the coffee and water, Rui didn’t move his phone or make space. The waiter had to angle the tray.\n\nRui took the cup and set it down hard enough to rattle the spoon. He glanced at the water glass and said, “Isto está quente. Troca.”\n\nThe waiter paused. “Posso trazer outra, sim.”\n\nRui waved a hand as if dismissing him and turned his head away toward the street, speaking loudly into his phone about “gente incompetente” while a couple at the next table stopped talking.\n\nThe waiter picked up the warm glass and walked back toward the counter, and Rui sipped his espresso with his eyes narrowed at the menu board."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "At the dining table, the guest sits where the host indicates and follows the host’s seating arrangement.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Inês Carvalho",
+        "story": "Inês arrived at her friend Marta’s apartment in Porto with a small box of pastéis de nata from the bakery downstairs. Inside, the dining table was already set with plates, a basket of bread, and a bottle of vinho verde. Marta’s father, Senhor Almeida, stood by the table, wiping his hands on a dish towel. “Inês, senta-te aqui, por favor,” he said, tapping the chair on the side closest to the kitchen.\n\nInês paused with her bag still on her shoulder. “Aqui?” she asked, smiling, and waited for his nod. He pointed again, then gestured to the others: “O João ali, a Marta aqui ao meu lado.”\n\nInês slid her chair back carefully and sat in the seat he indicated. She tucked her bag under the chair, placed her napkin on her lap, and waited while Marta arranged the remaining chairs. When a cousin tried to swap places, Senhor Almeida lifted his hand. “Deixa assim, está bem.”\n\nInês scooted in a little to make room as a serving dish passed behind her. Marta set a bowl of caldo verde in front of Inês and placed a spoon beside it."
+      }
+    },
+    "non_action": "At the dining table, the guest chooses the best seat for themselves without asking and ignores the host’s arrangement.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ricardo Neves",
+        "story": "Ricardo showed up to a dinner in Lisbon carrying a chilled bottle of rosé and a grin. Ana opened the door and guided him into the living room where her family was gathering. The dining table in the next room had place cards and folded napkins, with serving platters waiting on the sideboard.\n\n“Vamos sentar já,” Ana said, walking toward the table. Her mother, Dona Lurdes, stood at the head, scanning the cards. “Ricardo, tu ficas ali, ao lado do meu irmão,” she said, pointing to a seat near the window.\n\nRicardo barely looked. He spotted the chair at the corner with extra space and the best view of the TV in the other room. He pulled it out and dropped into it, setting his phone on the table. “Aqui é perfeito,” he said.\n\nDona Lurdes paused with a platter of bacalhau com natas in her hands. “Ricardo, eu tinha posto-te—”\n\n“Ah, não faz mal,” Ricardo cut in, already unfolding his napkin and shifting his chair back to stretch his legs. Ana glanced at the place card by the window, then moved it aside so she could set down a water glass. Ricardo leaned over to check the dishes arriving from the kitchen and reached for the bread basket as someone else was still sitting down."
+      }
+    },
+    "principled_action": "Because the guest has mobility needs, the guest explains briefly and asks for a suitable seat while still respecting the host’s plan.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Teresa Matos",
+        "story": "Teresa climbed the last steps to Sofia’s townhouse in Braga a little slowly, holding the railing with one hand and a wrapped tin of homemade bolachas with the other. Inside, Sofia led her toward the dining room where chairs were set around a polished table. Sofia’s mother, Helena, was placing a bowl of olives in the center.\n\n“Teresa, senta-te aqui, querida,” Helena said, pointing to a chair on the far side of the table.\n\nTeresa stopped beside the doorway and touched her knee lightly. “Helena, posso só pedir uma coisa?” she said. “O meu joelho hoje está a chatear-me. Se eu ficar numa cadeira com mais espaço para esticar a perna, fica mais fácil para mim levantar-me depois.”\n\nHelena nodded at once and looked around the arrangement. “Claro. Então ficas aqui na ponta, ao lado de mim,” she said, pulling out an end chair and sliding it back.\n\nTeresa sat down carefully in the new spot and placed her tin under the table. “Obrigada,” she said. Helena shifted a place setting from the end to the seat Teresa had originally been shown, then called to the others, “O Miguel fica ali, e a Sofia aqui.”\n\nWhen everyone sat, Teresa kept her leg angled slightly outward and waited as Helena served sopa into her bowl."
+      }
+    },
+    "surface_action": "The guest sits where directed, but then makes jokes about the seating plan that make the host feel questioned.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tiago Faria",
+        "story": "Tiago arrived in Coimbra just before eight, shaking rain off his jacket at Rui’s doorstep. Inside, the smell of arroz de marisco drifted from the kitchen. Rui’s grandmother, Avó Celeste, had set the dining table with matching plates and small glasses for água.\n\n“Tiago, ficas nessa cadeira, ao lado do Rui,” Avó Celeste said, pointing to a spot between Rui and an aunt.\n\n“Está bem, Avó,” Tiago replied, sliding into the chair she indicated and tucking his chair in. He placed his phone face down and folded his napkin open.\n\nAs the others took their places, Tiago leaned back and looked around the table like he was inspecting a stage. “Então isto é tipo mapa de lugares VIP?” he said with a laugh. “Quem fez o plano? Há um chefe de sala aqui?”\n\nAvó Celeste’s hands paused on the serving spoon. “Eu só organizei para cabermos todos,” she said, setting a bowl down.\n\nTiago kept smiling. “Claro, claro. Só estou a brincar. Mas olha, se eu estiver aqui é porque sou da ala do poder, não é?” He nudged Rui with his elbow.\n\nRui’s aunt shifted her water glass and glanced toward Avó Celeste. Avó Celeste adjusted a place card that had slipped and turned to the kitchen door. “Rui, traz mais pão,” she said.\n\nTiago reached for his fork as the first plates were placed on the table."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "The visitor avoids entering a church during Mass unless they intend to attend the service and behave as a participant.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Marta Silveira",
+        "story": "Marta was walking through a neighborhood in Porto when she noticed the church doors open and heard singing from inside. She stepped closer and saw people seated in rows, facing the altar. A man at the entrance held a folded program.\n\nMarta stopped just outside the doorway. She leaned slightly to look in and saw the priest at the front and a few people standing. She glanced at her watch and then at her friend. “Parece que está a missa,” she whispered.\n\nHer friend nodded. Marta kept her feet on the stone step outside and lowered her voice further. “Então não vamos entrar para visitar agora,” she said.\n\nThey moved to the side of the entrance, out of the main path, and waited quietly. Marta stepped back from the doorway so late arrivals could pass. When a woman walked in, Marta held the door open without crossing the threshold, then let it close softly.\n\nAfter a few minutes, Marta and her friend walked away to a nearby café and sat at an outdoor table. From there, they could still hear faint music when the wind shifted.\n\nLater, Marta returned to the church once the singing had stopped and the doors were open with people milling outside, and she walked in at a normal pace."
+      }
+    },
+    "non_action": "The visitor walks into a church during Mass as a tourist, moves around, and treats the service as a spectacle.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Liam O'Connor",
+        "story": "Liam followed a guidebook map to a church in Évora and pushed the door open while Mass was underway. Inside, people were seated, and a priest’s voice echoed through the nave. Liam stepped in anyway, eyes wide, and immediately lifted his phone.\n\n“Wow,” he whispered, then started recording as if it were a performance. He walked along the side aisle, stopping near a pillar to zoom in on the altar. A few heads turned toward him, then faced forward again.\n\nLiam moved closer, stepping from one side to the other to get a better angle. He crouched for a low shot, then stood and drifted toward the front, weaving around the ends of pews. He tapped his friend’s shoulder and pointed, mouthing, “Look at this.”\n\nA woman in the back gestured with her hand for him to stop moving. Liam nodded once and kept walking, still filming. He leaned into the aisle, stretching his arm out to capture the choir.\n\nThe priest paused mid-sentence as Liam’s phone made a shutter sound. Liam looked up, smiled briefly, and continued to pan across the seated congregation.\n\nHe stepped into a side chapel, took another short video, and then returned to the main aisle while the service continued."
+      }
+    },
+    "principled_action": "Because the visitor did not realize Mass was in progress, the visitor quietly steps out, waits until the service ends, and returns later to visit respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Camille Durand",
+        "story": "Camille walked into a church in Lisboa intending to see the interior before catching a tram. As soon as she entered, she heard a priest speaking and saw people standing in the pews. She froze near the door, taking in the candles and the quiet rhythm of responses.\n\nShe leaned toward the usher by the entrance and whispered, “Desculpe… é missa agora?”\n\nThe usher nodded and put a finger to his lips. Camille mouthed “desculpa,” stepped backward, and pulled the door closed as softly as she could.\n\nOutside, she moved a few steps away from the doorway and stood by a stone wall, checking the time on her phone without turning the screen brightness up much. She stayed there, watching as latecomers entered in twos and threes. When the bell rang near the end, people began to drift out.\n\nCamille waited until the last cluster of worshippers had left and the doorway cleared. She slipped her phone into her bag and went back inside, walking slowly along the side aisle.\n\nAn older couple passed her on their way out; Camille stepped aside to let them pass. She kept her voice low when she spoke to herself, reading a small plaque near a statue.\n\nAfter a short visit, she returned to the entrance and paused to look back once more before stepping outside."
+      }
+    },
+    "surface_action": "The visitor stays outside during Mass, but then makes dismissive comments about the service to others, undermining the respect behind waiting.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nuno Pereira",
+        "story": "Nuno walked with two friends through a square in Braga and noticed a church with open doors. As they approached, they heard chanting and saw people seated inside. Nuno stopped at the steps and didn’t go in.\n\n“Está a missa,” he said, stepping to the side so people could enter.\n\nThey waited near a small kiosk, watching pigeons hop between benches. Nuno leaned against a lamppost, scrolling his phone, while the service continued inside.\n\nAfter a few minutes, one friend asked quietly, “Então voltamos depois?”\n\n“Sim,” Nuno replied, keeping his voice low at the entrance area. Then he turned toward his other friend and spoke louder as they moved farther from the door. “Isto demora sempre imenso,” he said, rolling his eyes. “E depois ainda repetem as mesmas coisas.”\n\nHis friend shrugged and bought a bottle of water. Nuno continued talking as people walked past them toward the church. “Olha, só de ouvir já me cansa,” he said, nodding toward the singing.\n\nWhen the chanting stopped and people began to exit, Nuno pushed off the lamppost and walked back toward the entrance. As an older woman passed, he stepped aside to let her go by.\n\nHe entered the church with his friends once the aisle was clear and started walking toward the side chapels."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Belief",
+    "full_action": "During Mass, the visitor does not take photos and keeps their phone away to avoid disturbing the service.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Guilherme Teixeira",
+        "story": "Guilherme entered a church in Vila Nova de Gaia with his aunt on a Sunday morning. Inside, Mass had already begun. He slipped into a pew near the back and sat down quietly, keeping his coat folded on his lap.\n\nAs the choir sang, Guilherme felt his phone vibrate once in his pocket. He kept his hands still and didn’t pull it out. When it buzzed again, he shifted carefully, reached into his pocket, and turned the phone off without lifting it above his waist. Then he tucked it deep into his coat pocket and rested his hands on the coat.\n\nHis aunt leaned slightly toward him. “Tudo bem?” she whispered.\n\n“Sim,” he whispered back.\n\nHe kept his eyes forward as people stood and sat in rhythm. At one point he noticed the light coming through a stained-glass window and the way it fell across the altar, but he didn’t reach for his phone. He followed along quietly: standing when others stood, sitting when they sat, and keeping his movements small.\n\nAfter the final hymn, people began to leave row by row. Guilherme waited until the aisle cleared, then stood and walked out with his aunt.\n\nOutside, he pulled out his phone and checked the missed notifications while the church doors closed behind them."
+      }
+    },
+    "non_action": "During Mass, the visitor takes photos openly and continues even when it distracts worshippers.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Vanessa Lima",
+        "story": "Vanessa slipped into a church in Porto during Mass with her friend, drawn by the music. She stood near the side aisle and immediately raised her phone to take a photo of the altar. The screen glowed bright in the dim space.\n\nA man in the nearest pew turned his head and frowned. Vanessa tapped the screen again, taking another picture. The camera made a small click.\n\nHer friend whispered, “Talvez não…”\n\nVanessa shrugged and kept going, switching to video. She stepped sideways to frame the choir better, lifting her arms higher. A woman a few seats away glanced back twice, then faced forward again.\n\nAn usher walked over and gestured downward. “Senhora, por favor, sem fotos,” he murmured.\n\nVanessa nodded without lowering the phone. She waited until the usher took a step back, then snapped one more picture, tilting slightly to capture the stained glass. The priest’s voice continued, but the movement of her arms drew more eyes.\n\nSomeone behind her whispered “shh,” and a child stared at the phone screen. Vanessa smiled at the child, then tapped again.\n\nWhen the congregation stood, Vanessa kept filming from the aisle, moving her phone slowly from side to side until the usher returned and stood closer to her shoulder."
+      }
+    },
+    "principled_action": "Because the visitor needs to send an urgent message, the visitor steps outside briefly, handles it quietly, and returns without disrupting the service.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "João Miguel Costa",
+        "story": "João Miguel sat in the back pew of a church in Coimbra while Mass was underway, having come with his mother. His phone was on silent, tucked in his pocket. Midway through a reading, he felt a repeated vibration. He glanced down discreetly, then leaned toward his mother.\n\n“Mãe, é do trabalho. Tenho de responder já,” he whispered.\n\nShe nodded once. João Miguel slid out of the pew carefully, keeping his steps light as he moved along the wall toward the entrance. He opened the heavy door slowly and stepped outside into the bright courtyard, letting the door close behind him without a bang.\n\nOutside, he pulled out his phone, turned away from the doorway, and typed a short message: “Já vi. Resolvo em 10 min. Estou indisponível agora.” He hit send and slipped the phone back into his pocket.\n\nHe waited a moment to make sure the screen was off and the sound was still muted. Then he opened the door again gently and re-entered. He walked back along the side aisle, paused until a quiet moment, and slipped into the pew beside his mother.\n\nHe kept his hands folded and looked forward as the congregation stood for the next hymn.\n\nAfter Mass ended, he and his mother exited with the crowd, and João Miguel checked his phone again only once they reached the steps outside."
+      }
+    },
+    "surface_action": "The visitor refrains from photos during Mass, but then tries to film immediately afterward in a way that still intrudes on worshippers’ space.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Patrícia Nogueira",
+        "story": "Patrícia attended Mass in a church in Aveiro with her grandmother. During the service, she kept her phone inside her handbag and watched quietly, standing when everyone stood and sitting when they sat.\n\nWhen the final hymn ended and people began to move toward the exit, Patrícia pulled her phone out as soon as she stepped into the aisle. She opened the camera app and lifted it to film the altar while the priest was still greeting people near the front.\n\nHer grandmother tugged her sleeve. “Espera,” she said.\n\nPatrícia nodded but kept recording, backing up to get a wider shot. As families filed out, she drifted closer to the center aisle, phone held high. A couple stopped to let an older man pass, and Patrícia squeezed between them to keep her shot steady.\n\n“Com licença,” someone said, trying to step around her.\n\nPatrícia shifted her feet and continued filming the choir as they packed up. She turned the camera toward a woman lighting a candle near the side altar, standing close enough that the woman looked up and paused.\n\nHer grandmother reached again for her arm. “Vamos,” she said, guiding her toward the door.\n\nPatrícia lowered the phone briefly, then lifted it again to film the doorway as people crossed the threshold.\n\nShe walked backward down the steps outside, still recording as her grandmother held her elbow."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Kinship",
+    "full_action": "When discussing daily routines, the person recognizes that some households shift from large lunches to family dinners and adapts plans around the family’s meal pattern.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rita Valente",
+        "story": "Rita was planning a visit to her friend’s family home in Vila do Conde. On a call, her friend Susana mentioned, “Aqui almoçamos cedo e bem, mas agora com o trabalho do meu pai, jantamos todos juntos mais tarde.”\n\nRita listened and adjusted her plan out loud. “Ok, então não apareço à hora do almoço se vocês já fazem isso mais em família,” she said. “Posso ir mais ao fim da tarde e fico para o jantar convosco.”\n\nSusana replied, “Sim, costuma ser por volta das oito.”\n\n“Perfeito,” Rita said. “Então eu chego tipo sete e meia, ajudo no que for preciso.”\n\nOn the day, Rita took the train and arrived at 19:25. She rang the bell and stepped inside, handing Susana a small bag with fruit from the market. In the kitchen, Susana’s mother was finishing a pot of soup.\n\n“Chegaste mesmo a tempo,” Susana said.\n\nRita washed her hands and asked, “Querem que eu ponha a mesa?”\n\nHer friend’s mother nodded and pointed to the cupboard. Rita set out plates and cutlery while voices drifted in from the living room.\n\nWhen the father arrived, everyone sat down, and Rita waited while the soup was ladled into bowls."
+      }
+    },
+    "non_action": "When discussing daily routines, the person insists all families must follow one meal pattern and criticizes households that do it differently.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Helena Barros",
+        "story": "Helena stood in a kitchen in Coimbra chatting with her boyfriend’s sister, Joana, while a pot simmered on the stove. Joana mentioned their parents had changed their routine. “Agora já não fazemos aquele almoço grande todos os dias,” she said. “O meu pai chega tarde, então jantamos mais em família.”\n\nHelena shook her head immediately. “Isso não faz sentido,” she said. “A refeição a sério é ao almoço. Jantar assim tarde é péssimo.”\n\nJoana blinked and kept stirring. “É o que dá com horários.”\n\nHelena continued, voice firm. “Mas todas as famílias deviam comer como deve ser: almoço grande, jantar leve. Se não, ninguém se organiza.” She waved her hand toward the table. “Depois queixam-se que não têm tempo.”\n\nJoana set the spoon down. “É só como funciona cá em casa agora,” she said.\n\nHelena leaned on the counter. “Pois, mas vocês estão a fazer ao contrário. A minha mãe nunca aceitava isso.” She turned toward the living room and raised her voice. “Vocês jantam sempre a estas horas? Assim ninguém vive.”\n\nFrom the other room, someone said, “Helena, deixa lá.”\n\nHelena shrugged. “Estou só a dizer,” she said, pulling her phone out and starting to text while Joana returned to the stove."
+      }
+    },
+    "principled_action": "Because schedules differ, the person asks what time the household usually eats and aligns their visit timing respectfully with that routine.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "André Santos",
+        "story": "André was arranging to visit his friend Tiago’s parents in Tomar for the first time. On a voice message, he said, “Tiago, só para eu não atrapalhar… a que horas é que vocês costumam comer aí em casa?”\n\nTiago replied, “O almoço é cedo, por volta da uma. O jantar às oito e meia.”\n\nAndré answered right away, “Ok, então eu vou depois do almoço. Chego tipo quatro e fico até ao jantar, se estiver bem para vocês.”\n\nOn the day, André drove in and arrived at 16:05. Tiago met him at the gate. “Entra,” Tiago said.\n\nInside, André greeted Tiago’s mother with a handshake and a quick “boa tarde.” He handed over a box of queijadas he had bought on the way. “Trouxe isto,” he said.\n\nTiago’s mother looked at the clock and smiled. “Chegaste numa boa hora.”\n\nAndré nodded. “Não queria aparecer na correria das refeições,” he said.\n\nThey sat in the living room and talked while coffee was made. Later, as the kitchen sounds picked up, André stood and asked, “Posso ajudar a pôr a mesa?”\n\nTiago’s father pointed to a stack of plates. André carried them over and arranged them, then sat down when everyone called, “Vamos comer.”"
+      }
+    },
+    "surface_action": "The person acknowledges the family’s meal pattern, but then repeatedly comments on it in a way that makes the family feel judged.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mariana Figueiredo",
+        "story": "Mariana visited her partner’s family in Braga for a weekend. On Friday evening, his mother explained their routine. “Nós agora já não fazemos almoço grande. O jantar é quando estamos todos,” she said, setting a pot on the stove.\n\nMariana nodded quickly. “Sim, sim, percebo,” she said. “Vocês fazem assim, jantar em família.”\n\nBut as they prepared food, Mariana kept returning to it. “Então vocês jantam sempre tão tarde?” she asked, glancing at the clock.\n\nHis mother replied, “Quase sempre.”\n\nMariana smiled, then added, “Na minha casa era impensável. A esta hora eu já estava a dormir.” She laughed lightly and opened a cupboard. “E vocês não têm fome antes?”\n\nAt the table, she looked at the soup bowls. “Isto é mesmo diferente, jantar tão pesado,” she said, taking a spoonful.\n\nHer partner’s father reached for bread without replying. His sister poured water and kept her eyes on her glass.\n\nMariana continued, “Mas pronto, cada família tem o seu jeito,” and then, a minute later, “Vocês não sentem que isto desorganiza o dia todo?”\n\nHis mother stood and carried the main dish to the table. “Vamos servir,” she said.\n\nMariana adjusted her chair and said, “Ok, ok,” then watched as the plates were filled."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Exchange",
+    "full_action": "When receiving a gift, the recipient opens it when it is given and thanks the giver in the moment.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Marta Correia",
+        "story": "Marta met her friend Ana outside a café in Aveiro after work. Ana handed her a small wrapped parcel with striped paper and a bit of twine. “It’s for your new place,” Ana said.\n\nMarta took it with both hands. “Obrigada, Ana.” She immediately pulled the twine loose and peeled back the paper, keeping the wrapping on her lap so it wouldn’t fly away. Inside was a ceramic sardine-shaped dish painted in blue.\n\nMarta turned it over, tracing the glaze with her thumb. “This is beautiful,” she said, looking up. “Thank you.” She angled it so Ana could see the pattern in the light from the window.\n\nAna smiled and sipped her espresso. “I saw it and thought of your kitchen.”\n\nMarta called the waiter over. “Can we have another bica, please?” Then she set the dish carefully on the table between the sugar bowl and the napkin holder. “I’m going to put olives in it,” she said.\n\nAna laughed softly and reached to nudge the dish away from the edge. Marta leaned back, still holding the torn paper in her hands, and folded it neatly before tucking it into her tote bag."
+      }
+    },
+    "non_action": "When receiving a gift, the recipient refuses to open it, dismisses it, and offers no appreciation.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nuno Ribeiro",
+        "story": "At a small family lunch in Setúbal, Filipa arrived with a gift bag and handed it to Nuno as he stood near the doorway. “It’s for you,” she said.\n\nNuno looked at the bag without taking it at first. “You didn’t need to bring anything,” he said, his hand hovering. When Filipa held it closer, he took it with two fingers like it was inconvenient. He didn’t look inside.\n\nFilipa waited a moment. “You can open it,” she said.\n\nNuno set the bag on a side table next to a stack of mail. “Later,” he replied, already turning toward the kitchen. “We’re eating.”\n\nFilipa followed behind him. “It’s small,” she added.\n\nNuno waved once without facing her. “It’s fine.” He picked up a tray of glasses and carried it to the dining table, calling out to someone else, “Where’s the salad?”\n\nDuring the meal, the bag stayed untouched by the hallway lamp. Filipa glanced at it twice while people passed bread and spoke over one another. When dessert arrived, Nuno stood up to answer his phone in the corridor, stepping around the bag as if it were part of the furniture."
+      }
+    },
+    "principled_action": "Because the moment is busy or public, the recipient thanks the giver warmly, sets the gift aside, and follows up later after opening it.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "João Martins",
+        "story": "João was hosting a crowded birthday dinner in a small apartment in Almada when his cousin Beatriz arrived. People were already squeezing past one another with bowls of salad and plates of rissóis. Beatriz handed João a wrapped box at the doorway.\n\nJoão hugged her quickly and said into her ear, “Obrigadíssimo, Beatriz.” He lifted the gift slightly so she could see he had it. “I’m going to put this safe right now, and I’ll open it after we serve.”\n\nBeatriz nodded and stepped inside. João carried the box to his bedroom and placed it on the dresser, away from the traffic and the kitchen steam. He returned to the living room and clapped his hands once. “We need two more chairs,” he said, pulling one from the balcony.\n\nAfter the cake was cut and guests began leaving, João sat at the table with the last of the coffee. He brought the wrapped box out and opened it carefully, saving the ribbon. Inside was a set of small espresso cups with a simple pattern.\n\nJoão picked up his phone and typed: “Beatriz, I opened them now—love the cups. Obrigado.” He hit send and then rinsed one cup under the tap, setting it on the drying rack."
+      }
+    },
+    "surface_action": "The recipient opens the gift immediately, but then criticizes it and makes the giver feel unwelcome.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sílvia Rocha",
+        "story": "Sílvia stood in her office in Faro as her coworker Daniela approached with a small gift wrapped in shiny paper. “For your desk,” Daniela said.\n\nSílvia took it and tore the paper open right away. Inside was a novelty mug with a cheerful phrase printed across it. Sílvia tilted it, reading the words slowly. “Hmm,” she said, turning it toward the fluorescent light. “This print is kind of crooked.”\n\nDaniela’s smile stayed in place. “I thought it was cute.”\n\nSílvia ran a finger along the handle. “And the mug is really big. I don’t even drink that much coffee.” She lifted it again and looked inside as if checking for defects. “Where did you get it?”\n\n“At the shop near the marina,” Daniela said.\n\nSílvia gave a short laugh. “Ah, those places always overcharge.” She set the mug on her desk next to her keyboard and then picked it up again, peering at the bottom label. “It’s not dishwasher safe either.”\n\nDaniela shifted her weight and glanced toward the corridor. Sílvia crumpled the wrapping paper into a ball and tossed it into the bin. “Well,” she said, sliding the mug to the far corner of the desk, “I’ll… figure out where to put it.”"
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "When discussing culture, the visitor avoids comparing Portugal to Spain and does not assume the language or culture is essentially the same.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rachel Morgan",
+        "story": "Rachel met her friend Beatriz for lunch in Lisbon near Chiado. When the waiter approached, Beatriz ordered in Portuguese, and Rachel followed with a careful “Uma limonada, por favor.”\n\nBeatriz smiled. “Your pronunciation is getting better.”\n\nRachel laughed and pulled out her notebook. “I’m trying. I’ve been practicing the difference between ‘ão’ and ‘am’.”\n\nAs they ate grilled fish and salad, Beatriz asked, “So what surprises you most here?”\n\nRachel looked out the window at the tram passing and said, “The rhythm feels different from places I’ve visited, and I’m still learning how things work.” She paused and added, “I’m focusing on Portugal on its own terms. I don’t want to make lazy comparisons.”\n\nBeatriz nodded and picked up her fork. “That’s appreciated.”\n\nRachel pointed to a sign across the street with accented letters. “I keep mixing up vocabulary with Spanish in my head, but then I catch myself and check. Like yesterday, I asked for ‘sumo’ instead of the Spanish word I almost used.”\n\nBeatriz grinned. “Good save.”\n\nWhen the waiter returned, Rachel thanked him in Portuguese again, then asked Beatriz, “Could you write down how you’d say ‘I’m still learning’?” Beatriz took the pen and wrote a short phrase on the edge of the paper placemat. Rachel copied it carefully, then tucked the placemat into her bag."
+      }
+    },
+    "non_action": "When discussing culture, the visitor repeatedly says Portugal is basically Spain and treats Portuguese language and culture as interchangeable.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ethan Blake",
+        "story": "Ethan sat at a bar in Porto’s Ribeira with two locals he’d met on a walking tour, Luís and Mariana. The television above the counter played a football highlight reel while glasses clinked behind them.\n\nEthan pointed at the menu and said, “So this is basically Spain, right? Like, same vibe.”\n\nMariana paused with her drink halfway to her mouth. “Portugal is Portugal,” she said.\n\nEthan laughed and waved his hand. “Yeah, yeah, but you know what I mean. Same language too, more or less. I can just speak Spanish and people will get it.”\n\nLuís set his glass down. “Portuguese is not Spanish.”\n\nEthan leaned forward anyway. “Come on, it’s close. Like Barcelona and Porto—pretty much the same thing. You guys even eat tapas.”\n\nMariana said, “We call them petiscos,” and looked toward the river.\n\nEthan continued, “I told my friends I’m going to Spain this week. It’s easier to explain.” He lifted his phone and showed a message thread. “See? I wrote ‘Spain’ and they understood immediately.”\n\nLuís didn’t reach for the phone. “We understood what you wrote,” he said.\n\nEthan grinned and ordered, in Spanish, “Dos cervezas, por favor,” then turned back and said, “See? Works fine.” The bartender answered in Portuguese and placed two small beers on the counter without commenting, while Luís picked up his own glass and stared at the foam."
+      }
+    },
+    "principled_action": "Because the visitor is unfamiliar, the visitor asks respectful questions about differences and accepts correction without arguing.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Reed",
+        "story": "Hannah joined a small dinner in Coimbra with her host family and a neighbor, Dona Lurdes. The conversation drifted to holidays, and Hannah tried to follow along. She said, “I’m still new here, so I might confuse things—can I ask a question?”\n\nDona Lurdes nodded. “Claro.”\n\nHannah leaned forward. “What are the main differences you notice between Portugal and nearby places, in terms of daily life? Like, what feels distinctly Portuguese to you?”\n\nThe neighbor answered with a few examples, and Hannah listened without interrupting. When she attempted a word—“Is it ‘saudade’?”—Dona Lurdes corrected her pronunciation gently.\n\nHannah repeated it slower. “Saudade.” She smiled and said, “Thank you. I’ve been saying it wrong.”\n\nLater, Hannah asked, “When people greet each other, is it always two cheek kisses, or does it change by situation?”\n\nDona Lurdes demonstrated with a small motion of her head. “Usually two, yes. But sometimes only one.”\n\nHannah nodded and wrote a note in her phone: “dois beijinhos—sometimes one.” When someone used a phrase Hannah didn’t recognize, she asked, “What does that expression mean?” and waited.\n\nAs the plates were cleared, Hannah stood and offered, “I can wash dishes if you show me where things go.” Dona Lurdes handed her a dish towel and said, “Here,” and Hannah began drying plates, repeating a new word quietly to herself as she set each one in the cupboard."
+      }
+    },
+    "surface_action": "The visitor avoids direct comparison to Spain, but still makes backhanded comments implying Portugal is a lesser version, undermining respect.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Olivia Grant",
+        "story": "Olivia sat with her host, Catarina, at a café in Porto near Bolhão. Catarina ordered coffees, and Olivia watched people pass with shopping bags and umbrellas.\n\nOlivia said, “I won’t compare Portugal to other places,” and lifted her hands as if making a promise. “I’m trying to take it as it is.”\n\nCatarina nodded. “Good.”\n\nOlivia smiled and added, “It’s just… everything feels a bit smaller here, you know? Like the streets, the shops. It’s charming in a quiet way.”\n\nCatarina stirred her coffee. “Porto is not small.”\n\nOlivia leaned forward. “No, no, I mean—cozy. Not as… intense. And the nightlife is more relaxed. It’s sweet.” She pointed at a souvenir stand. “The tiles are cute too. Like a simpler style.”\n\nCatarina set her spoon down. “Azulejos are not souvenirs.”\n\nOlivia laughed lightly. “Right, right. I’m learning. I just expected more variety in restaurants, I guess. But it’s okay—simple is nice.”\n\nCatarina looked toward the street. “There is variety.”\n\nThe waiter brought their coffees. Olivia took a sip and said, “This is good—strong. I can see why people like it here.” She reached for her phone and angled it at the table. “Hold on, let me get a photo. This place is so quaint.” Catarina’s cup stayed in her hand while Olivia tapped the screen twice and adjusted the angle."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Business",
+    "full_action": "If a colleague shares worries about finances or job security, the listener responds with compassion, listens carefully, and avoids blaming the colleague.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Luís Ferreira",
+        "story": "Luís and his colleague Mariana sat in the break room of their office in Lisbon, each with a small coffee from the machine. Mariana stared at the foam and said, “I don’t know what I’m going to do if they cut my contract. Rent went up again.”\n\nLuís turned his chair toward her. “That sounds heavy,” he said quietly. “Do you want to talk about what you’ve heard so far?”\n\nMariana exhaled. “My manager said nothing is certain. But everyone’s tense.”\n\nLuís nodded and let her speak without interrupting, only asking, “When did they say they’d decide?” and “What would be the first thing you’d need to cover?” Mariana explained her bills and the timing of payments, tapping her nails against the cup.\n\nLuís said, “I’m sorry you’re carrying this.” He kept his hands on the table, not reaching for her phone or papers. “If you want, we can look at options together—HR questions, or which projects you can highlight. But it’s your call.”\n\nMariana’s shoulders dropped slightly. “Maybe. I just needed to say it out loud.”\n\nLuís nodded. “We can sit here a minute.” When her phone buzzed, he didn’t glance at the screen. He stood to refill water for both of them and placed her glass within reach, then sat back down and waited while she continued."
+      }
+    },
+    "non_action": "If a colleague shares worries about finances or job security, the listener responds with judgment, tells them it is their fault, and dismisses their concern.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Fábio Gonçalves",
+        "story": "In a corridor outside the meeting room in Porto, Helena caught up with Fábio and said softly, “I’m worried. If they don’t renew my contract, I won’t manage the bills.”\n\nFábio scoffed and adjusted his lanyard. “That’s on you,” he said. “You should have saved. Everyone knows contracts are risky.”\n\nHelena’s mouth opened slightly. “I did save, but—”\n\nFábio cut her off. “No excuses. If you’re that stressed, it means you planned badly.” He glanced at his watch. “Honestly, people make drama out of nothing.”\n\nHelena looked down at the folder in her hands. “I’m just trying to understand what’s happening.”\n\nFábio shrugged. “Work harder. Make yourself indispensable. Or find another job. It’s not complicated.” He stepped past her toward the break room and added over his shoulder, “I can’t deal with this negativity before a meeting.”\n\nHelena stood still for a second, then walked into the meeting room and chose a seat at the far end. Fábio sat near the center and started talking loudly about weekend plans. When the manager asked for updates, Helena kept her folder closed and answered with a short “No changes,” while Fábio rolled his pen between his fingers and looked at the ceiling."
+      }
+    },
+    "principled_action": "Because the listener cannot discuss details at that moment, the listener acknowledges the concern, offers a supportive next step, and suggests a private time to talk.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Teresa Matos",
+        "story": "Teresa and her colleague Pedro were walking back from a client visit in downtown Lisbon when Pedro slowed down and said, “I’m worried about money. If this project ends, I’m not sure I’ll stay.”\n\nTeresa glanced at the busy sidewalk and the client still ahead of them. She lowered her voice. “I hear you,” she said. “I can’t talk properly right now with everyone around, but I don’t want to leave you with that hanging.”\n\nPedro nodded, keeping his eyes on the pavement.\n\nTeresa pulled her phone out as they reached a quieter corner near a kiosk. “Can we do fifteen minutes after work, somewhere private? We can sit in the building lobby or go to the café around the corner.”\n\nPedro hesitated. “After work is fine.”\n\nTeresa said, “Okay. And as a next step, if you want, we can list what questions to ask—like timelines for renewals and what HR can clarify. I can also help you think through how to present your role on this project.”\n\nPedro let out a small breath. “Thanks.”\n\nThey reached the office entrance. Teresa held the door and said, “Let’s meet at six by the reception desk.” She opened her calendar and created a reminder titled “Pedro chat,” then slipped her phone back into her pocket.\n\nAt six, Teresa walked to the reception desk and sat on the bench with two coffees she’d picked up, placing one beside her while she waited for Pedro to come down the stairs."
+      }
+    },
+    "surface_action": "The listener says sympathetic words, but then gossips about the colleague’s situation afterward, contradicting the compassion shown.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ricardo Lopes",
+        "story": "Ricardo listened while his colleague Andreia spoke quietly near the printer in their office in Porto. “I’m scared they’ll cut positions,” Andreia said. “I’m barely managing my bills.”\n\nRicardo tilted his head and softened his voice. “That’s really tough,” he said. “I’m here if you need to talk. Don’t worry, okay?” He patted her shoulder once and added, “You’ll figure it out.”\n\nAndreia nodded and returned to her desk.\n\nTen minutes later, Ricardo walked to the kitchenette where two coworkers were stirring sugar into their coffee. He leaned against the counter and said, “You know Andreia? She’s freaking out about money.”\n\nOne coworker raised an eyebrow. “Seriously?”\n\nRicardo lowered his voice further. “Yeah, like, she says she can’t pay rent if her contract isn’t renewed. It’s… a lot.” He mimicked a worried face and shook his head.\n\nThe coworker glanced toward Andreia’s desk through the glass partition. “Did she tell you that?”\n\nRicardo shrugged. “She was venting. I told her it’ll be fine.”\n\nLater, when Andreia walked past the kitchenette, the coworkers fell silent and stared into their cups. Ricardo smiled at her. “Hey, how are you doing?” he asked, and Andreia answered softly, “Okay,” before returning to her desk.\n\nRicardo opened his messaging app and typed, “Guess who might be in trouble,” then hit send and set his phone face down on the counter."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "When colonial wars, politics, or religion come up, the speaker treats the topics as sensitive and lets the counterpart lead how deep the conversation should go.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Isabel Monteiro",
+        "story": "Isabel sat at a dinner table in Lisbon with two visiting colleagues and her uncle, who had come by to drop off a tray of bolo. The conversation drifted from travel to family history, and one visitor mentioned reading about Portugal’s past conflicts overseas.\n\nIsabel set her fork down gently and said, “That can be a sensitive topic for some people.” She looked toward her uncle and then back to the visitor. “If you’re curious, I’m happy to listen, but we can keep it light too.”\n\nHer uncle took a sip of water and said, “It’s complicated.”\n\nIsabel nodded. “We don’t have to go deep,” she said, and waited.\n\nThe visitor asked, “Is it something people talk about much?”\n\nIsabel answered, “Some do, some don’t,” and then looked again at her uncle. “If you feel like sharing anything, you can. If not, we can talk about something else.”\n\nHer uncle paused, then said a few short sentences about his father’s service and stopped. Isabel didn’t jump in with details. She let the silence sit for a moment, then asked her uncle, “Do you want more tea?”\n\nHe nodded, and Isabel stood to fill the kettle. The visitor began talking about the neighborhood they’d walked through that afternoon, and Isabel returned with cups and placed them on the table one by one."
+      }
+    },
+    "non_action": "When colonial wars, politics, or religion come up, the speaker pushes the topic aggressively, argues intensely, and pressures the counterpart to take a position.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sergio Alvarez",
+        "story": "Sergio sat with two new acquaintances at a bar in Lisbon’s Bairro Alto. After a few drinks, he leaned forward and said, “So, tell me what you think about colonial wars. Was it all wrong or not?”\n\nOne of them, Catarina, shifted her glass. “It’s a complicated subject.”\n\nSergio waved dismissively. “No, no. Pick a side. You have to have an opinion.” He raised his voice over the music. “People avoid it because they’re afraid. Are you proud of it or ashamed?”\n\nCatarina frowned slightly. “I don’t want to argue about that tonight.”\n\nSergio pressed on. “Why not? It’s history. And politics here—everyone pretends they’re neutral. What party do you support?”\n\nThe other person, Tiago, said, “Let’s talk about something else.”\n\nSergio pointed his finger at Tiago. “That’s a cop-out. You benefit either way. Say it.”\n\nCatarina pushed her stool back a few centimeters. “I said I don’t want to.”\n\nSergio leaned closer. “And religion—are you Catholic or not? Do you even believe? Come on.”\n\nTiago stood up and placed cash on the counter. “We’re leaving,” he said.\n\nSergio scoffed. “See? No one can handle the truth.” Catarina picked up her bag and walked toward the door with Tiago, while Sergio stayed seated and kept talking, addressing their backs as they moved through the crowd."
+      }
+    },
+    "principled_action": "Because the topic arises unexpectedly, the speaker asks whether it is comfortable to discuss, shares a careful comment, and changes the subject if the counterpart prefers.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Paulo Andrade",
+        "story": "Paulo was at a small lunch in Coimbra with his partner’s friends when someone mentioned a documentary that touched on politics and religion. The table went quiet for a beat, forks hovering.\n\nPaulo cleared his throat softly. “Is this something you feel comfortable discussing?” he asked, looking around the table, then pausing on Sofia, who had brought up the documentary.\n\nSofia shrugged. “We can, but it can get tense.”\n\nPaulo nodded. “Okay. I’ll just say one thing carefully,” he said. “People have different experiences with these topics, and it can depend a lot on family and where you grew up.” He kept his voice even and his hands on his napkin.\n\nSofia looked down at her plate. “I’d rather not go into it today,” she said.\n\nPaulo answered, “No problem.” He reached for the bread basket and held it out toward her. “Do you want more pão?”\n\nSofia took a piece. “Thanks.”\n\nPaulo turned the conversation by asking, “How was your trip to Serra da Estrela last weekend?” Another friend perked up and started describing the snow and the drive.\n\nAs the talk shifted, Paulo began clearing empty plates to the side, stacking them carefully. When coffee arrived, he asked the host, “Where do you keep the small cups?” and carried them to the table."
+      }
+    },
+    "surface_action": "The speaker uses polite language about sensitive topics, but keeps asking leading questions to provoke debate while claiming to be respectful.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Carolina Baptista",
+        "story": "Carolina sat at a long table during a family-style dinner in Porto when the conversation drifted to religion and politics after someone mentioned a church renovation. Carolina smiled and said, “These are sensitive topics, of course. I just like to understand people.”\n\nShe turned to her cousin Mateus. “So, do you still go to Mass, or is it more like tradition for you?”\n\nMateus shrugged. “I don’t really talk about that.”\n\nCarolina nodded politely. “Of course, totally. No pressure,” she said, then immediately followed with, “But if you had to choose—do you think the Church has too much influence here, yes or no?”\n\nMateus looked down at his plate. “I don’t know.”\n\nCarolina kept her tone soft. “Right, right. And politics—without getting into arguments,” she said, “don’t you think people who vote a certain way are just ignoring reality?” She smiled as if it were a simple question.\n\nAcross the table, an aunt cleared her throat and reached for water. Mateus said, “Can we talk about something else?”\n\nCarolina lifted her hands slightly. “Absolutely. I’m being respectful,” she said. Then she leaned in again. “Just one more: when people talk about colonial wars, do you think there’s a lot of denial in families, or is that exaggerated?”\n\nMateus pushed his chair back a little and stood up to take a phone call, stepping away from the table. Carolina picked up her glass and watched him leave, then turned to the aunt and asked in the same gentle tone, “What do you think?”"
+      }
+    }
+  }
+]

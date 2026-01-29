@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "If the person believes they offended someone, the person makes a direct apology quickly and addresses the issue before it lingers.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Darko Arsov",
+        "story": "Darko sat with coworkers at a small restaurant in Skopje during lunch break. The plates were still on the table when he realized what he had just said. While talking about a project, he had joked, “You’re always late with the numbers,” pointing at his colleague Maja, and her face had tightened as she looked down at her fork.\n\nDarko leaned toward her immediately. “Maja, izvini,” he said, voice low. “That came out wrong.”\n\nMaja kept her eyes on the plate. “Okay,” she said quietly.\n\nDarko didn’t wait for the topic to change. “I shouldn’t have said it like that,” he continued. “I know you’ve been handling the client calls and the reports. I’m sorry for making it sound like you don’t do your part.”\n\nMaja looked up at him. “Just don’t say it like that in front of everyone,” she said.\n\n“Razbiram,” Darko replied. He nodded once and turned his palms up briefly, then put his hands back on his lap. “It won’t happen again.”\n\nTheir manager asked a question about the next deadline, and Darko answered without bringing the joke back. When the waiter came, Darko asked for the bill and then slid Maja’s coffee saucer closer so she wouldn’t need to reach.\n\nHe sent her a short message after they stood up: “Izvini uste ednash,” and put his phone away as they walked back to the office."
+      }
+    },
+    "non_action": "If the person believes they offended someone, the person ignores it, avoids the topic, and acts as if the other person should simply get over it.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Teodora Stankovska",
+        "story": "Teodora met her friend Lina at a café in Ohrid, sitting close to the heater by the window. Lina showed photos from a family event, swiping through her phone. Teodora glanced at one picture and said, “That dress makes you look older,” then laughed once.\n\nLina stopped swiping. “Okay,” she said, putting the phone face down on the table.\n\nTeodora noticed the silence, but she didn’t address it. She stirred her coffee and looked at the street outside. “So, anyway, did you see the new bakery near the post office?” she asked.\n\nLina’s shoulders stayed stiff. “No,” she said.\n\nTeodora kept talking as if nothing had happened. She described a sale she saw online, then asked the waiter for more water. When Lina didn’t respond much, Teodora leaned back and scrolled her own phone.\n\nAfter a few minutes, Lina said, “That comment wasn’t nice.”\n\nTeodora shrugged. “Come on, don’t be so sensitive,” she replied, not looking up. “It was just a joke.”\n\nLina picked up her cup and took a sip without speaking.\n\nTeodora changed the subject again, talking about weekend plans, and acted like Lina should answer normally. When it was time to leave, Teodora stood up, put on her coat, and said, “Let’s not make this a big thing,” before walking toward the door."
+      }
+    },
+    "principled_action": "Because the moment is public, the person gives a brief apology immediately and then follows up privately to repair the relationship respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Goran Kitanovski",
+        "story": "Goran stood with neighbors in the stairwell of his building in Skopje while they waited for the elevator technician. Someone mentioned a noise complaint from the third floor, and Goran, half distracted, said to his neighbor Vesna, “Well, you always complain about everything,” with a quick laugh.\n\nVesna’s mouth tightened, and the stairwell went quiet except for the buzz of the light.\n\nGoran lifted his hand immediately. “Vesna, izvini,” he said, keeping it short. “That was not fair.”\n\nThe technician arrived, and the group shifted toward the elevator doors. Goran didn’t continue the remark. He stepped aside to let Vesna and an older neighbor go first.\n\nLater that evening, Goran knocked on Vesna’s door with a small package in his hand—the spare screws she had asked him to hold from a shelf repair. When Vesna opened, Goran stood in the doorway.\n\n“Can I say something?” he asked.\n\nVesna crossed her arms but stayed at the door. “Say.”\n\nGoran spoke quietly. “In the stairwell earlier, I said you complain about everything. I’m sorry. You’ve been the one organizing the building issues, and I shouldn’t have spoken like that in front of others.”\n\nVesna looked at the package. “Okay,” she said, taking it. “Just don’t do that again.”\n\nGoran nodded once and said, “Blagodaram,” then stepped back into the hallway and closed his own door behind him."
+      }
+    },
+    "surface_action": "The person apologizes right away, but then justifies themselves at length and makes the apology feel insincere.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Biljana Todorovska",
+        "story": "Biljana was at a birthday dinner in Struga, seated at a long table with friends and cousins. When her friend Nela mentioned a new job, Biljana blurted out, “You’ll probably quit like last time,” and a few people laughed.\n\nNela’s smile dropped, and she stared at her plate.\n\nBiljana leaned forward quickly. “Nela, izvini,” she said. “Sorry.” Then she kept talking without pausing. “But you know what I mean, right? You did leave that café after a month, and everyone was saying it, and I was just joking. I’m not the only one who thinks it.”\n\nNela looked up. “Okay,” she said flatly.\n\nBiljana continued, hands moving. “And it’s not like I want you to fail. I’m actually trying to motivate you. People get too serious, and we can’t say anything anymore.”\n\nSomeone else tried to change the subject to the cake. Biljana followed the shift for a second, then turned back to Nela. “I said sorry, didn’t I?” she added, smiling as if to close it.\n\nNela pushed her glass a few centimeters away and stayed quiet.\n\nBiljana kept explaining, listing examples from the past and repeating, “I didn’t mean it like that,” while the others started talking among themselves.\n\nWhen the waiter brought the bill, Biljana reached across the table for it and said, “See, it’s fine,” as she began dividing the amounts on her phone."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "Before entering someone’s home, the visitor removes their shoes at the doorway and follows the household’s expectation for indoor cleanliness.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kristijan Janeski",
+        "story": "Kristijan arrived at his friend’s flat in Skopje on a rainy afternoon, the pavement dark with water. At the building entrance he wiped his shoes on the mat, then climbed the stairs with a paper bag of fruit in his hand.\n\nHis friend opened the door. “Vlez, vlez,” she said, stepping back.\n\nKristijan stopped at the threshold. He looked down and saw a neat row of slippers and several pairs of shoes lined along the wall. Without walking further, he bent and untied his laces. He slid his wet shoes off and placed them beside the others, toes pointing toward the door.\n\n“Where should I put these?” he asked, holding the bag.\n\n“On the table,” his friend said, pointing toward the kitchen.\n\nKristijan stepped inside in his socks, careful not to touch the shoe rack. He glanced at the slippers and chose a pair that looked clean, slipping them on before he walked across the hallway.\n\nIn the living room, her mother was arranging cushions. Kristijan greeted her. “Dobrovecher,” he said.\n\nHer mother nodded toward his feet. “Good, good,” she said, and handed him a small towel for his damp jacket.\n\nKristijan hung the jacket on the hook and walked to the sink to wash his hands.\n\nHe sat on the edge of the sofa, feet tucked in, waiting for tea to be poured."
+      }
+    },
+    "non_action": "Before entering someone’s home, the visitor keeps their shoes on, walks through the home, and dismisses the host’s preference.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ivan Vukadin",
+        "story": "Ivan came to his cousin’s home in Štip after work, still wearing his boots with dried mud on the soles. His cousin opened the door and stepped aside. “Come in,” she said.\n\nIvan walked straight in without stopping. He took two steps onto the hallway rug, leaving small dark marks. His cousin pointed at the shoe rack. “You can leave your shoes here.”\n\nIvan waved his hand. “It’s fine. I won’t stay long,” he said, and kept moving.\n\nHe walked into the living room, boots on the carpet, and dropped into an armchair. His cousin followed him, looking at the floor. “Please, Ivan, take them off,” she said.\n\nIvan stretched his legs out and shrugged. “Relax. It’s just a little dirt,” he replied.\n\nHer mother came from the kitchen holding a tray. She stopped when she saw the boots. “Shoes off,” she said, short.\n\nIvan laughed once. “You’re all so strict,” he said, tapping his boot heel against the coffee table.\n\nHe stood and walked into the kitchen to look in the pot on the stove. “Mmm, smells good,” he said, leaning over the counter.\n\nHis cousin grabbed a mop from the corner while Ivan kept talking about traffic.\n\nHe stepped back into the hallway with the same boots and flicked water from his umbrella onto the tiles."
+      }
+    },
+    "principled_action": "Because the visitor needs supportive footwear for medical reasons, the visitor explains briefly and uses clean indoor shoes or shoe covers if available.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Vesna Ilieva",
+        "story": "Vesna arrived at her friend’s apartment in Skopje with a small gift bag and a light cane. At the doorway, she stopped and looked down at her orthopedic shoes. Her friend’s mother was there, and a row of slippers sat neatly by the wall.\n\nVesna said immediately, “Izvinete, mi treba poddrshka vo obuvkite,” and tapped the cane lightly on the floor. “I can’t walk safely in socks.”\n\nHer friend’s mother nodded once. “Dobro. What do you have?”\n\nVesna opened her bag and pulled out a pair of clean indoor shoes wrapped in a plastic pouch. “These are for inside,” she said. She sat on the small bench by the door, removed her outdoor shoes carefully, and placed them on the rack.\n\nThen she put on the clean indoor pair, tightening the strap with slow fingers. “If you prefer, I also have covers,” she added, showing a small packet.\n\nHer friend’s mother waved her hand toward the hallway. “The indoor shoes are fine. Come.”\n\nVesna stood, tested her balance, and walked in with short steps. She greeted the others in the living room. “Dobrovecher,” she said, and placed the gift on the table.\n\nWhen someone offered her a slipper, Vesna smiled and pointed at her indoor shoes. “Already changed,” she said.\n\nShe followed everyone to the dining table and set her cane against the wall."
+      }
+    },
+    "surface_action": "The visitor removes their shoes as expected, but then places dirty socks on furniture or behaves carelessly, undermining the same cleanliness intent.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Petar Milenkov",
+        "story": "Petar came to his friend’s home in Kavadarci after walking through slushy sidewalks. At the doorway, he stopped and kicked off his shoes. “Eve, shoes off,” he said, placing them by the door.\n\nHis friend’s mother smiled and pointed him toward the living room. Petar walked in wearing socks that were damp and gray at the bottom from the wet street.\n\nHe dropped onto the sofa and pulled one leg up, resting his socked foot on the cushion. His friend glanced at the foot, then looked away.\n\nTea arrived on a tray. Petar leaned forward to take a cup and kept his feet tucked up on the couch. When he laughed at a joke, he shifted and put both feet on the sofa, heels pressing into the fabric.\n\nHis friend’s mother said, “Petar, do you want slippers?”\n\n“Nah, it’s okay,” Petar replied, wiggling his toes. He slid his feet along the cushion as he adjusted his position.\n\nA moment later, he stood and walked into the kitchen to grab a napkin, leaving faint damp marks on the floor from his socks. He came back and sat again, foot up on the armrest.\n\nHis friend handed him slippers and said, “Put these on.”\n\nPetar took them, tossed them beside him on the sofa, and continued sipping his tea.\n\nHe pressed his socked heel into the cushion while reaching for a cookie."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "The diner treats lunch as the main meal, plans for a mid-afternoon lunch, and expects dinner later in the evening when social schedules allow.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Irena Jankuloska",
+        "story": "Irena planned her day in Skopje around a long lunch with family. In the morning she ate something small—yogurt and a piece of bread—then went to the market near her building to pick up peppers and fresh parsley.\n\nAround two-thirty, she called her brother. “We’ll eat around three,” she said. “Come then.”\n\nBy mid-afternoon, the kitchen smelled of beans simmering and roasted vegetables. Irena set the table with a large salad bowl, bread, and a bottle of mineral water. When her brother arrived, she greeted him, washed her hands, and brought the main pot to the table.\n\nThey ate slowly, serving second portions and talking between bites. Irena treated the meal like the center of the day, refilling plates and pouring water as the conversation moved from work to school to neighbors.\n\nAfterward, she cleared dishes and left the remaining food covered on the stove. The rest of the afternoon was lighter—coffee, fruit, and a short walk around the block.\n\nIn the evening, Irena checked her messages and saw friends suggesting a late dinner. She replied, “We can meet around nine.”\n\nAt nine-thirty she arrived at a small place near her neighborhood, ordered a lighter plate, and sat with friends as they talked.\n\nWhen the waiter brought bread, Irena broke off a small piece and placed it beside her plate."
+      }
+    },
+    "non_action": "The diner insists the household must follow their preferred meal schedule and complains about the local timing as if it is wrong.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Oliver Stojchev",
+        "story": "Oliver stayed with relatives in Skopje for a week and tried to run the household by his own meal clock. At eleven in the morning, he walked into the kitchen and said, “Why isn’t lunch ready? We should eat at noon.”\n\nHis aunt replied, “We eat later.”\n\nOliver shook his head. “That makes no sense,” he said, opening cabinets. “People should eat properly in the middle of the day, not at three or four.”\n\nAt one, he sat at the table and tapped a fork against a plate. “I’m hungry. This is ridiculous,” he said. His cousin offered him a snack, but Oliver pushed it away. “I don’t snack. Just make lunch on time,” he replied.\n\nWhen the family started cooking closer to mid-afternoon, Oliver hovered in the doorway and commented on every step. “Why so late? You’re wasting the day,” he said.\n\nAt three, when the food finally came to the table, Oliver sighed loudly. “Finally,” he said, then added, “If you ate earlier, you’d have more energy.”\n\nIn the evening, when relatives suggested eating dinner at nine, Oliver threw his hands up. “Nine? That’s not dinner time,” he said.\n\nHis aunt said, “We can eat lighter later.”\n\nOliver replied, “No, we will eat at six,” and began pulling pots out as if assigning everyone a schedule.\n\nHe set his phone timer on the counter and announced, “Six o’clock, dinner,” while the others stayed seated."
+      }
+    },
+    "principled_action": "Because of work or health needs, the diner eats earlier or later but coordinates politely and avoids pressuring others to change their routine.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Besa Aliu",
+        "story": "Besa lived with her family in Tetovo and worked an early shift. On weekdays she ate her main meal earlier than everyone else, but she coordinated it at home.\n\nIn the morning she told her mother, “I’ll eat at one today, before my next call. You don’t have to change anything; I’ll warm my portion.”\n\nHer mother nodded and pointed to the pot on the stove. “We’ll eat later, around three.”\n\nAt one, Besa washed her hands, took a clean plate, and served herself from the beans and salad her mother had prepared. She sat at the smaller kitchen table and ate quietly while her mother continued folding laundry in the living room.\n\nHer brother walked in and asked, “You’re eating now?”\n\nBesa smiled. “Yes, I have work again soon. You eat with them later.”\n\nWhen her family sat down for the main lunch mid-afternoon, Besa joined them with a cup of tea and stayed at the table, talking and passing bread even though she wasn’t eating again.\n\nIn the evening, her cousins suggested a late dinner out. Besa said, “I can come, but I’ll just get something light,” and she didn’t mention her earlier meal.\n\nAt the restaurant she ordered soup and sat with the group, listening while they chose heavier dishes.\n\nWhen the waiter set her bowl down, Besa adjusted the spoon on the napkin and took a small sip."
+      }
+    },
+    "surface_action": "The diner follows the local meal timing, but repeatedly makes sarcastic comments about it, weakening the shared meal atmosphere.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Stela Panova",
+        "story": "Stela visited her partner’s family in Skopje and followed their meal timing for the weekend. In the morning, she ate a small breakfast and waited while the household moved slowly through chores.\n\nBy mid-afternoon, the smell of cooking filled the apartment. The family set lunch for around three-thirty. Stela sat at the table when called and accepted a plate as the host served.\n\nAs she took the first bite, she glanced at the clock and said, “Wow, lunch at almost four. We’re really living on a special schedule,” with a short laugh.\n\nHer partner’s father asked, “Do you want more salad?”\n\nStela replied, “Sure, why not, it’s only lunchtime… at sunset,” and she smiled as she spoke. She kept eating and stayed seated, but she repeated small remarks. “If I ate this late back home, I’d call it dinner,” she said while reaching for bread.\n\nThe conversation shifted to work and travel. Stela nodded along, then looked at her phone and added, “I’m just amazed we waited this long. My stomach has been doing meetings since noon.”\n\nShe accepted a second serving when offered and said, “Okay, let’s commit to this late lunch lifestyle,” as she held out her plate.\n\nAfter the meal, she stayed at the table while the host cleared dishes. “So what time is ‘dinner’ here, midnight?” she said, stirring her coffee.\n\nShe took another sip and set the cup down near the saucer’s edge."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "In the household, the resident treats “promaja” as a real health concern by avoiding drafts and adjusting windows in a way that reassures others.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sanja Petrovska",
+        "story": "Sanja was staying at her aunt’s apartment in Ohrid for a weekend, and the afternoon sun had warmed the living room. Her aunt, Biljana, sat on the sofa with a shawl around her shoulders, watching a soap opera while a kettle clicked softly in the kitchen.\n\nSanja felt the room needed air and walked toward the balcony door. She checked the hallway first, then closed the bedroom window that was cracked open. After that, she opened the balcony door only a little, angled so the air came in gently, and pulled the sheer curtain across.\n\nBiljana lifted her head. “Don’t make promaja, Sanja.”\n\nSanja nodded and spoke in a calm voice. “No, no. I closed the other window. Only this one is open, just a bit.” She held up the latch to show it was secured.\n\nShe moved the armchair away from the doorway and slid a cushion closer to her aunt. “Sit here, away from the door.”\n\nWhen a breeze fluttered the curtain, Sanja adjusted it so it didn’t billow straight toward the sofa. After a few minutes, she closed the balcony door, clicked the handle down firmly, and carried two cups of tea back to the living room."
+      }
+    },
+    "non_action": "In the household, the resident dismisses “promaja” as nonsense, creates a draft intentionally, and refuses to accommodate others’ concern.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Davor Iliev",
+        "story": "Davor visited his sister’s place in Skopje and complained that the apartment felt stuffy. He walked straight to the kitchen window and pushed it wide open. Then he crossed the hallway and opened the balcony door in the living room, leaving both open so the air rushed through.\n\nHis sister, Marija, came out of the bathroom with wet hair wrapped in a towel. “Davor, close one! Promaja.”\n\nDavor waved a hand. “Promaja is nonsense.” He sat down near the doorway, letting the draft blow across his neck, and he smirked when Marija paused.\n\nMarija pointed at her son, who was doing homework at the table. “He’ll get stiff—close it.”\n\nDavor stood up, walked to the balcony door, and opened it even wider so it banged softly against the stopper. “See? Fresh air. You all imagine things.”\n\nMarija moved toward the kitchen window. Davor leaned against the frame and blocked her. “Leave it. I’m hot.”\n\nMarija took her son’s notebook and guided him to the bedroom, muttering under her breath. Davor stayed in the living room with both openings still wide, scrolling on his phone while the curtains whipped back and forth."
+      }
+    },
+    "principled_action": "Because ventilation is needed, the resident airs the room in a controlled way, explains briefly, and closes windows once the purpose is met.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nikola Ristov",
+        "story": "Nikola returned to his parents’ apartment in Bitola after a long bus ride and noticed the kitchen smelled of fried onions. His mother, Violeta, was wiping the counter, and his father sat at the table reading the newspaper.\n\nNikola went to the window and opened it halfway, then checked the living room window and kept it closed. He set his phone timer on the table. “I’ll air it for ten minutes, then I’ll close it,” he said.\n\nVioleta looked up. “Just don’t make promaja.”\n\nNikola pointed to the living room. “Only this one is open. No cross air.” He pulled the chair away from the window and nudged the fruit bowl further in.\n\nHe washed his hands and started slicing bread while the cooler air drifted in. His father folded the newspaper and watched the clock on the wall.\n\nWhen the timer chimed, Nikola stood immediately, shut the window, and pressed the handle until it clicked. “Done,” he said, rubbing his palms together.\n\nVioleta set a bowl of salad on the table. Nikola carried the bread over and sat down, placing the knife on the plate as the kitchen grew quiet again."
+      }
+    },
+    "surface_action": "The resident follows the no-draft practice, but ridicules others while complying, undermining the care the practice is meant to show.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ivana Krstevska",
+        "story": "Ivana came to her grandmother’s house in Kumanovo to help tidy up before guests arrived. The rooms were warm from the wood stove, and Ivana wanted a bit of fresh air. She walked toward the front window, then stopped and glanced at her grandmother.\n\n“Don’t open both sides,” her grandmother said from the armchair. “Promaja.”\n\nIvana rolled her eyes and sighed loudly, but she closed the hallway door first and only cracked the front window a finger’s width. “There. No killer promaja,” she said, drawing out the words.\n\nHer grandmother adjusted her cardigan. “Just keep it like that.”\n\nIvana kept wiping the table, muttering, “In 2026, and we’re still scared of air,” as she moved a chair away from the window. When a cousin stepped in and reached for the back door, Ivana snapped, “No, no—don’t open that. You’ll summon the legendary draft.”\n\nThe cousin paused with his hand on the handle. Ivana shut the front window after a minute and clicked the latch. “Safe now,” she said, tossing the cloth into the sink while her grandmother reached for the TV remote."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "At a formal family meal, the guest recognizes the head of the family’s prominent seat and waits for the host to indicate where guests should sit.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Petar Kitanovski",
+        "story": "Petar arrived at his colleague’s home in Strumica for a formal Sunday lunch, carrying a small box of pastries from a local bakery. The hallway smelled of roasted peppers, and a lace tablecloth covered the long dining table in the living room.\n\nHe noticed one chair at the head of the table was slightly larger, set closest to the bread basket and the main platter. Petar stopped near the doorway instead of pulling out a chair. He held the pastry box in both hands and waited while the host’s mother wiped her hands on an apron.\n\n“Petar, welcome,” the host, Darko, said, taking the box. “Come, sit.”\n\nPetar smiled and kept standing. “Where would you like me?”\n\nDarko gestured with an open palm toward the right side of the table, a seat midway down. “Here, next to my sister.”\n\nPetar nodded, walked around the table without touching the head chair, and sat only after Darko’s father took his place at the prominent seat. Plates of salad and a pot of tavče gravče were placed down, and everyone waited a moment as the father reached for the serving spoon.\n\nDarko’s mother said, “Now, help yourselves,” and Petar lifted his fork, reaching toward the salad bowl as the bread was passed to him."
+      }
+    },
+    "non_action": "At a formal family meal, the guest takes the most prominent seat without asking and ignores the household’s seating hierarchy.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Aleksandar Jovanoski",
+        "story": "Aleksandar was invited to a formal lunch in Kičevo by his girlfriend’s family. When he entered the dining room, the table was fully set with plates, small glasses, and serving dishes waiting on a sideboard. He glanced around, saw a chair at the head of the table with the best view of the room, and dropped into it immediately.\n\nHis girlfriend’s mother paused with a bowl of salad in her hands. Her father, still in the kitchen doorway, stopped mid-step.\n\nAleksandar leaned back and grinned. “This is the best seat,” he said, tapping the table with his knuckles.\n\nHis girlfriend whispered, “Sasho, maybe—”\n\nAleksandar waved her off. “Relax. It’s just a chair.”\n\nThe father walked in, looked at the head chair now occupied, and stood for a moment with his hands at his sides. The mother set the salad down without speaking and slid another chair out near the end.\n\nAleksandar reached for the bread before anyone else sat. “So, what’s for lunch?” he asked, already tearing off a piece.\n\nThe father took a seat on the side instead of the head. Aleksandar remained at the prominent place, chewing while the mother served the main dish with her eyes on the tablecloth."
+      }
+    },
+    "principled_action": "Because the guest has mobility needs, the guest explains briefly and requests a suitable seat, while still showing respect to the family’s arrangement.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Katerina Stankova",
+        "story": "Katerina attended a formal family lunch in Veles at her friend Sasho’s home. She walked with a knee brace under her trousers and moved carefully on the apartment’s polished floor. In the dining room, she saw the table arranged neatly, with one prominent chair at the head set closest to the main platter.\n\nKaterina stayed standing beside her chair and waited as Sasho’s mother welcomed her. “Katerina, come, sit wherever,” the mother said.\n\nKaterina smiled and spoke softly. “Thank you. My knee is stiff today—would it be okay if I sit on the end, so I don’t have to squeeze between chairs?” She gestured toward an end seat that had more space to stretch her leg.\n\nSasho’s father nodded. “Of course, sit there.” He pointed to the end opposite the head, leaving the prominent seat untouched.\n\nKaterina sat down slowly, keeping her bag off the table, and adjusted her brace under the cloth. “Thanks, I appreciate it,” she said.\n\nThe father then took his place at the head chair, and the mother began placing bowls of soup. Katerina waited as everyone got settled, then lifted her spoon only after the host said, “Let’s eat,” and the soup bowls were passed along."
+      }
+    },
+    "surface_action": "The guest sits where directed, but then makes jokes about the seating order that undercut the respect the arrangement represents.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Stefan Velkov",
+        "story": "Stefan was invited to a formal lunch in Štip by his coworker’s family. The table was set with matching plates, folded napkins, and a large serving dish covered with foil. Stefan noticed a prominent chair at the head with extra space behind it, and he hovered near the doorway until the host, Maja, came in.\n\n“Sit here,” Maja said, pointing to a seat on the left side.\n\nStefan sat where she indicated and adjusted his sweater cuffs. When Maja’s father entered and moved toward the head chair, Stefan smirked and said, loud enough for the table to hear, “Ah, the throne is reserved.”\n\nMaja’s mother paused with a bowl of salad. The father sat down without responding.\n\nStefan chuckled again. “So if I sit there, do I become the boss of the house? Should I start giving orders?” He mimed holding an invisible scepter and nudged his elbow toward Maja.\n\nMaja looked at her plate and didn’t answer. Someone cleared their throat, and the mother placed the salad down with a soft clink.\n\nAs bread was passed, Stefan kept talking. “In my place we just fight for the best seat,” he said, grinning.\n\nThe father reached for the serving spoon and began portioning the main dish. Stefan stopped joking long enough to take his plate and held it out as the food was served."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When receiving a gift, the recipient opens it privately or opens it only in front of the giver when others are not watching, following local comfort around public display.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Dragana Velinova",
+        "story": "Dragana celebrated her name day in her apartment in Skopje with a few neighbors dropping by. The kitchen table was crowded with coffee cups, a plate of tulumbi, and a bowl of roasted almonds. When her colleague Aleksa arrived, he handed her a wrapped box with a ribbon.\n\nDragana took it with both hands. “Thank you,” she said, and set it gently on the sideboard rather than tearing into it right away.\n\nAleksa smiled. “Open it when you can.”\n\nDragana glanced at the room—two neighbors were chatting near the balcony door, and her aunt was calling someone on speakerphone. Dragana leaned closer to Aleksa and said quietly, “Come with me a second.”\n\nShe led him to the hallway near the coat rack where the others couldn’t see. She picked up the box again and carefully slid her finger under the tape. “Just you and me,” she said.\n\nAleksa nodded and watched.\n\nInside was a small notebook with a leather cover and a pen clipped to the side. Dragana ran her thumb over the cover. “This is lovely,” she said, then closed the box and held it against her chest for a moment.\n\nThey returned to the kitchen, and Dragana placed the notebook in her handbag. She poured Aleksa a coffee and asked, “Sugar?” while her aunt set down a fresh plate of cookies."
+      }
+    },
+    "non_action": "When receiving a gift, the recipient publicly shows it off, compares it to other gifts, and makes others feel ranked or embarrassed.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sasho Treneski",
+        "story": "Sasho hosted a birthday gathering in his apartment in Skopje, with friends packed into the living room. A stack of gift bags sat near the TV, and people held plastic cups of juice. When his friend Borche handed him a small wrapped package, Sasho grabbed it and raised it above his head.\n\n“Everyone, look,” Sasho said, ripping the paper quickly. He pulled out a wallet and held it up like a prize. “Borche finally bought something decent.”\n\nBorche laughed awkwardly and rubbed the back of his neck. “It’s just—”\n\nSasho cut him off and turned to another friend. “Wait, wait, what did you get me?” He pointed at a different bag and tore that one open too.\n\nHe lined the gifts on the coffee table and started comparing. “Okay, this wallet is nice,” he said, tapping it. “But this cheap mug—come on.” He lifted the mug and made a face.\n\nThe friend who brought the mug stared at the floor and took a sip from their cup without speaking.\n\nSasho leaned over the table and rearranged the gifts into a row. “Best one is Borche’s,” he announced. “Second is the headphones. Worst is this mug.”\n\nSomeone laughed briefly, then the room went quieter. Sasho kept the wallet in his hand, showing it to different people, while the mug stayed at the edge of the table."
+      }
+    },
+    "principled_action": "Because the setting is crowded, the recipient thanks the giver warmly, sets the gift aside, and opens it later while sending a follow-up message of appreciation.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Elenica Angelova",
+        "story": "Elenica attended a crowded family gathering in Bitola, where cousins and neighbors filled the living room and the hallway smelled of fresh pastries. Near the door, her friend Besa arrived with a small wrapped gift.\n\nElenica accepted it and squeezed Besa’s hand. “Thank you, you came,” she said, keeping her voice warm over the chatter. She placed the gift carefully on a shelf beside her handbag instead of opening it in the middle of the room.\n\nBesa smiled. “Open it later.”\n\nElenica nodded. “Yes, after everyone leaves.” She guided Besa to the kitchen where there was space to stand and poured her a glass of water.\n\nThat evening, after the last relatives left and the dishes were stacked in the sink, Elenica sat at the table and opened the gift alone. Inside was a small scarf folded neatly.\n\nShe picked up her phone and typed a message: “Besa, thank you for the scarf. It’s really nice and soft. I appreciate you.” She added a heart emoji and pressed send.\n\nA minute later, Besa replied with a smiley face.\n\nElenica folded the scarf again and placed it on the back of a chair to hang later. She turned off the kitchen light, carried the empty wrapping paper to the trash, and washed her hands at the sink."
+      }
+    },
+    "surface_action": "The recipient opens the gift in the proper private moment, but then criticizes it to others afterward, undermining the giver’s intention.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Vanja Kostadinova",
+        "story": "Vanja received a wrapped gift from her friend Irena after a small coffee visit in Skopje. They chatted in the kitchen while Vanja’s partner moved between rooms, and Vanja placed the gift on the counter without opening it in front of everyone.\n\nWhen Irena was leaving, Vanja walked her to the door and said, “Thank you, I’ll open it after you go.”\n\nAfter the door closed and the hallway went quiet, Vanja carried the gift to the bedroom and opened it alone. Inside was a scented candle in a simple glass jar. Vanja turned it over, reading the label, then set it on the dresser.\n\nLater that night, Vanja met two friends at a café near Debar Maalo. She pulled her phone out and said, “Irena brought me a candle.”\n\nOne friend smiled. “Nice.”\n\nVanja made a face and lowered her voice. “It’s the kind that smells like cheap vanilla. And the jar looks like something from a discount shelf.” She laughed softly and stirred her coffee.\n\nHer friends glanced at each other. Vanja continued, “I’ll probably hide it in the bathroom so I don’t have to see it.”\n\nA waiter placed a small glass of water beside her cup. Vanja pushed the water slightly aside to make room for her phone and started scrolling through messages while her friends sipped in silence."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "Even if close friends sometimes drop in, the visitor does not assume strangers welcome unannounced visits and asks before coming over.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hristina Popova",
+        "story": "Hristina needed to return a borrowed book to a woman named Sonja she had met only once at a workshop in Skopje. Sonja had written her address on a scrap of paper and said, “If you’re ever nearby, you can bring it back.”\n\nOn Saturday, Hristina stood outside Sonja’s building in Karpoš and looked up at the balconies. Instead of ringing the intercom, she stepped back toward the sidewalk and pulled out her phone.\n\nShe typed: “Hi Sonja, it’s Hristina from the workshop. I’m near your area today—would it be okay if I stop by to return your book? If not, no worries.”\n\nA few minutes later, a reply appeared: “Hi! Yes, you can come around 5:30.”\n\nHristina wrote back, “Great, see you then,” and walked to a nearby bakery to wait. She bought a small piece of krempita and sat at a table, reading messages.\n\nAt 5:25 she returned to the building and rang the intercom. Sonja buzzed her in. Hristina climbed the stairs and knocked lightly.\n\nSonja opened the door and smiled. “Come in.”\n\nHristina held out the book. “Here it is—thanks again.” Sonja took it, and Hristina stayed near the entryway, keeping her coat on. Sonja said, “Do you want a coffee?”\n\nHristina glanced at her phone. “Maybe just a quick one, if you have time,” she said, and stepped inside as Sonja walked toward the kitchen."
+      }
+    },
+    "non_action": "The visitor turns up at a near-stranger’s home without notice and pressures them to host immediately.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Rade Jankulovski",
+        "story": "Rade met a man named Filip at a networking event in Skopje and exchanged numbers, but they hadn’t spoken much since. One evening, Rade decided he was in Filip’s neighborhood and walked straight to the apartment building in Kisela Voda without sending a message.\n\nHe buzzed the intercom repeatedly until Filip answered, sounding confused. “Hello?”\n\n“It’s Rade,” Rade said. “Open up.”\n\nFilip hesitated, then buzzed him in. Rade took the stairs two at a time and knocked hard. When Filip opened the door, he was wearing sweatpants and holding a dish towel.\n\nRade stepped forward as if invited and said, “I was nearby, so I came. Make me a coffee.”\n\nFilip’s eyes widened. “I’m in the middle of dinner—”\n\nRade pushed past the doorway, scanning the living room. “Come on, it’s just coffee. You can host for five minutes.”\n\nFilip stood with his back against the wall, looking toward the kitchen where a pot was steaming. “I didn’t know you were coming.”\n\nRade shrugged and took his coat off, tossing it onto a chair. “Now you know. Put something on the table too. I’m hungry.”\n\nFilip’s jaw tightened. He picked up the coat and held it out. “Rade, really, this isn’t a good time.”\n\nRade frowned and said, “What kind of person sends guests away?” while he remained in the hallway, waiting for Filip to move."
+      }
+    },
+    "principled_action": "Because the visitor needs to deliver an urgent message, the visitor calls first, asks if it is okay to stop by, and keeps the visit brief and respectful.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Borka Gjeorgjieva",
+        "story": "Borka noticed a message in the building’s group chat that the water would be shut off the next morning, and she remembered her upstairs neighbor, a man named Adem, didn’t always check the chat. She had only spoken to him in the hallway a few times.\n\nStanding by her kitchen window in Skopje, Borka dialed his number from the contact list the building manager had shared. When Adem answered, she said, “Hi, Adem, it’s Borka from the third floor. Sorry to call—did you see the notice about the water shutdown tomorrow morning?”\n\nThere was a pause. “No, I didn’t,” Adem said.\n\nBorka kept her voice gentle. “Would it be okay if I come up for one minute to show you the message, just so you have the exact time?”\n\n“Yes, okay,” Adem replied. “Come.”\n\nBorka took the stairs and knocked lightly. Adem opened the door partway. Borka stayed in the corridor and held her phone up so he could read the notice.\n\n“It says 8:00 to 12:00,” she said, pointing at the time.\n\nAdem nodded. “Thanks. I’ll fill some bottles.”\n\nBorka smiled. “That’s all—I just wanted you to know.” She stepped back. “Good night.”\n\n“Good night,” Adem said, and Borka walked down the stairs, hearing his door close behind her."
+      }
+    },
+    "surface_action": "The visitor gives a short notice message, but does so minutes before arriving and acts offended if the host cannot accommodate.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Filipka Arsova",
+        "story": "Filipka wanted to drop off a borrowed charger to a woman she barely knew, Ivana, who lived across town in Skopje. While she was already in a taxi, Filipka typed a quick message: “Hey, I’m coming by in 5 minutes with your charger.”\n\nBefore Ivana could reply, Filipka was already approaching the apartment entrance. Her phone buzzed with a message: “I’m not home right now, can we do tomorrow?”\n\nFilipka frowned and wrote back immediately: “Seriously? I’m already here.”\n\nShe buzzed the intercom anyway. There was no answer. Filipka buzzed again and looked up at the windows. A neighbor opened the building door from the inside, and Filipka slipped in behind them.\n\nShe climbed to Ivana’s floor and knocked on the door. No one answered. Filipka knocked harder, then called Ivana.\n\nIvana picked up, sounding out of breath. “I told you, I’m out.”\n\nFilipka’s voice rose. “I texted you. Five minutes notice is notice. I came all this way.”\n\nIvana said, “I’m not there.”\n\nFilipka stood in the hallway with the charger in her hand and said, “Wow. Okay,” then hung up. She stayed by the door for a moment, then started walking back toward the stairs, muttering to herself while the elevator dinged behind her."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "When discussing history or statehood, the speaker avoids challenging the legitimacy of Macedonian culture, history, or the country’s existence in serious conversation.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Marija Risteska",
+        "story": "Marija Risteska sat with two potential investors in a conference room overlooking Vardar River. A framed photo of Ohrid’s waterfront hung beside a whiteboard with bullet points about market entry. As they reviewed a slide on brand positioning, one investor said, “Our marketing lead loves using historical themes. There are strong opinions in the Balkans—how far can we go?”\n\nMarija kept her gaze on the slide and answered, “We can keep the brand story focused on modern craftsmanship and local partnerships. If we mention history, we’ll use neutral references and avoid claims.”\n\nThe investor tried to steer it: “Some people argue about what’s authentic here.”\n\nMarija closed the laptop halfway and replied, “For this partnership, we’re not going to test anyone’s identity or history. We’ll stick to product quality, distribution, and customer service.”\n\nShe reopened the laptop and pointed at the compliance checklist. “Packaging needs Macedonian and Albanian labeling, and we’ll confirm translations with a local reviewer.”\n\nA colleague brought in a tray of mineral water; the bottles clinked softly. The investor nodded and said, “Fair. Let’s focus on numbers.”\n\nMarija flipped to the revenue forecast and said, “Quarter one starts with Skopje and Tetovo retail, then we evaluate performance.”"
+      }
+    },
+    "non_action": "When discussing history or statehood, the speaker challenges Macedonian legitimacy and argues as if the counterpart must defend their identity.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Aleksandar Markov",
+        "story": "Aleksandar Markov met a foreign partner at a hotel lobby in Skopje, waiting by a tall plant near the reception desk. They sat with laptops open and a draft memorandum between them. When the partner mentioned expanding into the country, Aleksandar said, “You know, the whole statehood story here is complicated.”\n\nThe partner blinked. “We’re just planning a regional service center.”\n\nAleksandar leaned in. “Sure, but let’s be honest—some people say this isn’t even a real country in the historical sense. The culture is borrowed.”\n\nA nearby waiter stopped briefly with a tray, then moved on. The partner’s hand froze on the trackpad. “I’m not here to debate that.”\n\nAleksandar kept going. “But you should understand the truth before investing. If you can’t explain where the identity comes from, how can you trust the market?”\n\nThe partner exhaled and said, “Our interest is operational, not ideological.”\n\nAleksandar shrugged. “Then answer me—what do you call it, and why?”\n\nThe partner closed the laptop lid with a soft thud. “We’ll continue this later with our legal counsel present.”\n\nAleksandar watched as the partner stood up and walked toward the elevator bank."
+      }
+    },
+    "principled_action": "Because the speaker is uncertain, the speaker asks neutral questions, focuses on the counterpart’s perspective, and avoids turning the exchange into a debate.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Stefan Trajkov",
+        "story": "Stefan Trajkov traveled from Štip to Skopje for a client workshop held in a university-style seminar room. During a break, a consultant pointed at a map in a slide deck and said, “We’re adding a short background section. I’m not sure what historical references are okay.”\n\nStefan set his paper cup down and asked, “What’s the goal of that section—helping readers understand today’s market, or making a historical argument?”\n\nThe consultant replied, “Mostly context for why the brand resonates locally.”\n\nStefan nodded. “If it’s context, what do you want your audience to take away? And how do you want locals to read it?”\n\nThe consultant thought for a moment. “We want it to feel accurate and not start arguments.”\n\nStefan said, “Then let’s keep it to current facts and lived experience: where the customers are, what languages we need to support, and how distribution works. If you want cultural notes, we can talk about festivals or food without making claims about origins.”\n\nA colleague joined them and asked, “Should we mention ancient history?”\n\nStefan answered, “Only if the client specifically requests it. Otherwise, we can leave it out.”\n\nThe consultant opened the draft and said, “Okay—tell me which parts feel safest.”\n\nStefan leaned over the screen and started rewriting two sentences into neutral market context."
+      }
+    },
+    "surface_action": "The speaker uses careful wording, but repeatedly brings up provocative “debate points,” making the conversation feel confrontational.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Dario Kostadinov",
+        "story": "Dario Kostadinov joined a strategy meeting in an office near the Stone Bridge, where a flip chart listed ‘Brand Story’ and ‘Investor Deck.’ A visiting advisor said, “We should be careful with history references.”\n\nDario nodded and said, “Of course. We’ll be respectful.”\n\nThen he added, “Still, investors might ask the hard questions—like who ‘owns’ certain historical figures, or what the real origins are.”\n\nThe room went quiet for a beat. The advisor replied, “We don’t need those questions in this deck.”\n\nDario smiled. “Right, right. I’m just saying, some people would argue the culture is shared, not exclusive. It’s worth acknowledging.”\n\nA teammate glanced at the CEO. The CEO said, “We’re here to present our product.”\n\nDario held up his hands. “Totally. I’m not taking a side.”\n\nHe flipped to the next slide and continued, “We can phrase it neutrally, like ‘contested narratives exist.’ Also, someone may bring up whether the country’s formation is recent.”\n\nThe advisor’s pen stopped mid-note. “Dario, we’re not adding debate points.”\n\nDario chuckled softly and said, “Okay, okay—just covering possibilities.”\n\nHe opened his laptop and typed a bullet labeled ‘Potential Questions’ while others stared at the screen."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "In casual social settings, the speaker avoids bringing up the 2001 conflict, the Balkan Wars partition, or NATO/EU accession as casual conversation topics.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Jovana Angelovska",
+        "story": "Jovana Angelovska met a group of friends at a small apartment in Skopje for a winter potluck. Coats piled on a chair, and someone set a tray of ajvar and cheese on the coffee table. Music played softly from a phone speaker while people traded gossip about work and weddings.\n\nA guest from abroad asked, “So what’s the big political story here lately?”\n\nJovana smiled and said, “Tonight we’re keeping it simple—food, music, and catching up.”\n\nShe handed the guest a plate. “Try the sarma. It’s homemade.”\n\nThe guest laughed. “Okay, okay. What should I see this weekend?”\n\nJovana pointed toward the window. “If the weather’s clear, go to Matka Canyon for a walk, or take a day trip to Ohrid.”\n\nSomeone nearby asked, “Who brought the baklava?”\n\nJovana called out, “I did,” and walked to the kitchen to cut it into squares. A friend teased her about making it too sweet, and Jovana replied, “Then take a smaller piece.”\n\nThe guest said, “I heard there was conflict in the past—”\n\nJovana poured tea into cups and said, “We can talk about history another time. For now, tell me what kind of hiking shoes you packed.”\n\nShe set the cups on the table and passed one to the guest."
+      }
+    },
+    "non_action": "In casual social settings, the speaker brings up the 2001 conflict or war-related topics casually and treats them as entertaining debate material.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Filip Stamenkov",
+        "story": "Filip Stamenkov joined friends at a lively kafana in Skopje on a Friday night, the air thick with grilled meat and cigarette smoke drifting from the terrace. A visiting friend asked about local music, and Filip nodded along to the band.\n\nThen Filip leaned over the table and said, “You know what’s really interesting? The 2001 conflict. People here still argue about it like it’s a sport.”\n\nA friend across from him frowned. “Filip, not now.”\n\nFilip laughed and kept going. “Come on, it’s entertainment. Who do you think was right? And what about the Balkan Wars partition—wild stuff.”\n\nThe visiting friend looked uncertain. “I don’t know enough.”\n\nFilip clapped his hands once. “Perfect! I’ll explain. And NATO, EU—everyone has opinions.”\n\nOne friend stared at the tablecloth and said, “I’m going outside.” Another started scrolling on his phone.\n\nFilip followed the first friend with his voice, “Don’t be boring. Tell the guest what you think!”\n\nThe band started a louder song; plates clinked. The visiting friend shifted in his chair and said, “Can we talk about something else?”\n\nFilip grinned. “No, no, this is the best topic,” and launched into more questions as the waiter arrived with rakija."
+      }
+    },
+    "principled_action": "Because the topic arises in an educational context, the speaker frames it carefully, checks comfort, and shifts away if the other person does not want to engage.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Dr. Ilija Popov",
+        "story": "Dr. Ilija Popov met an exchange student in Skopje after a public lecture at a cultural center. They stood by a table of brochures while staff folded chairs in the background. The student said, “In class we briefly mentioned 2001. I’m not sure what’s appropriate to ask.”\n\nIlija nodded and asked, “Are you comfortable discussing it right now, or would you rather focus on the lecture topic?”\n\nThe student hesitated. “Maybe just a little, but I don’t want to offend anyone.”\n\nIlija said, “Okay. We can keep it factual and limited to what the course covers. What did your instructor assign?”\n\nThe student showed a syllabus on their phone. Ilija glanced at it and replied, “This section is about institutions and reforms. If you have questions, we can talk about the timeline and terms used in the textbook.”\n\nA staff member rolled a cart past them; wheels squeaked on the floor. The student asked one short question, then looked down.\n\nIlija said, “If this feels heavy, we can pause.”\n\nThe student exhaled. “Yeah, I’d rather not go deeper right now.”\n\nIlija nodded. “That’s fine. Let’s switch—have you visited the Museum of Contemporary Art?”\n\nThe student smiled slightly and said, “Not yet.”\n\nIlija pointed toward the hill. “It’s a good walk on a clear day,” and they started toward the exit doors together."
+      }
+    },
+    "surface_action": "The speaker avoids naming the conflicts directly, but makes repeated hints and jokes that still evoke the same sensitive history.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Boris Vasilev",
+        "story": "Boris Vasilev joined a casual barbecue in a backyard on the edge of Skopje, smoke rising from the grill while people passed plates of salads and bread. A neighbor mentioned a documentary on TV and said, “It was about the early 2000s.”\n\nBoris waved a skewer and said, “Ah yes, the ‘fun times.’” He made finger quotes in the air.\n\nSomeone across the table frowned. “What do you mean?”\n\nBoris laughed softly. “You know, when everyone was ‘very friendly’ and nothing happened. Total peace.” He nudged another guest with his elbow.\n\nThe guest didn’t smile. “Let’s not.”\n\nBoris raised his hands. “I’m not saying anything. Just joking.”\n\nHe turned to the visitor at the table and said, “If you like debates, this region has… plenty of episodes.”\n\nThe visitor blinked and looked at their drink. A child ran past chasing a ball; it thumped against a fence.\n\nBoris added, “Anyway, we won’t get into it. It’s all ancient history—well, not that ancient.”\n\nA friend interrupted, “Boris, can you bring the plates?”\n\nBoris stood up, still smiling, and carried a stack of plates to the serving table while the conversation shifted to the grilling time and who wanted extra onions."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "For celebratory gifting, the giver avoids even-numbered flower bouquets and uses even numbers only for funerals.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Milena Georgieva",
+        "story": "Milena Georgieva stopped at a flower kiosk near Skopje’s main square on her way to a friend’s engagement party. The kiosk smelled of wet greenery, and buckets of roses and chrysanthemums stood under a small heater. Milena pointed at pale pink roses and said, “Can I get seven stems, please?”\n\nThe florist gathered the roses and started counting aloud. “One, two, three…”\n\nMilena watched the count and said, “Yes, seven.”\n\nA customer beside her asked for eight tulips, and the florist paused, looking between them. Milena stepped slightly aside so the other customer could pay.\n\nWhen it was her turn again, the florist tied Milena’s bouquet with a ribbon. “Seven roses.”\n\nMilena nodded and paid in denars. Outside, she adjusted the paper wrap so the stems wouldn’t drip on her coat.\n\nAt the apartment door, Milena rang the bell and heard laughter inside. When the host opened, Milena held the bouquet forward and said, “Congratulations—this is for you.”\n\nThe host took the flowers with both hands and stepped back to make space. Milena removed her shoes, walked into the living room, and set her gift bag on the side table."
+      }
+    },
+    "non_action": "For celebratory gifting, the giver brings an even-numbered bouquet and treats funeral symbolism as a joke in front of others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Owen Harris",
+        "story": "Owen Harris walked into a flower shop in Skopje before a coworker’s birthday dinner. He pointed at red roses and said, “I’ll take ten.”\n\nThe florist counted and wrapped the bouquet. Owen paid and headed straight to the restaurant near the center, where a group had already gathered around a long table. When the birthday celebrant arrived, Owen stood up and handed over the bouquet. “Happy birthday!”\n\nA couple of people at the table exchanged looks. Someone leaned toward Owen and said quietly, “Even numbers are for funerals.”\n\nOwen laughed out loud. “Seriously? That’s hilarious. Ten is fine—flowers are flowers.”\n\nThe celebrant’s smile wavered. Another guest said, “Please don’t joke about that.”\n\nOwen grinned and added, “Guess I brought the perfect bouquet for the end of the party then!”\n\nA fork clinked against a plate; conversation stalled. The waiter arrived with menus, and people started reading without looking up. The celebrant placed the bouquet on an empty chair, then sat down and unfolded a napkin.\n\nOwen kept chuckling as he reached for a bread basket."
+      }
+    },
+    "principled_action": "Because only an even-numbered bouquet is available, the giver chooses a different gift or adds a single stem to make the bouquet appropriate for celebration.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Arben Selmani",
+        "story": "Arben Selmani rushed into a small flower stall in Tetovo, checking his watch because he was already late for his sister’s graduation dinner. He pointed at a pre-made bouquet of lilies sitting in a metal bucket and said, “That one, please.”\n\nThe florist lifted it and said, “It’s eight stems.”\n\nArben paused, then asked, “Can you add one more stem to make it nine?”\n\nThe florist nodded and reached into another bucket. “One lily, same color.”\n\nAs she tucked the extra stem into the wrap, Arben said, “Thanks. It’s for a celebration.”\n\nThe florist tightened the ribbon and handed the bouquet back. “Now it’s nine.”\n\nArben paid, stepped outside into the cold air, and adjusted the paper so the heads wouldn’t bruise in the wind. At the restaurant entrance, he spotted his family through the window. He walked in, approached his sister, and held out the bouquet.\n\n“Congrats,” he said.\n\nHis sister smiled and took the flowers, lifting them slightly to smell the lilies. Their mother called to the waiter for extra plates, and Arben slid into an empty chair at the end of the table.\n\nHe placed his phone face-down and reached for a glass of water."
+      }
+    },
+    "surface_action": "The giver brings an odd-numbered bouquet correctly, but then remarks about funerals in a way that still makes the moment uncomfortable.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Diana Kovacheva",
+        "story": "Diana Kovacheva picked up a bouquet from a florist near the Skopje bus station before heading to a friend’s housewarming. The bouquet had nine mixed flowers, wrapped in brown paper with a thin ribbon. Diana checked the count quickly—nine—and walked to the apartment building carrying it carefully.\n\nWhen her friend opened the door, Diana said, “For your new place,” and handed the bouquet over.\n\nHer friend smiled and stepped aside. Inside, guests were setting plates on a table and pouring wine. Diana hung her coat and walked into the living room.\n\nA guest pointed at the flowers and said, “Nice bouquet.”\n\nDiana laughed and replied, “I made sure it wasn’t an even number—don’t want it to look like a funeral thing.”\n\nThe room quieted for a second; someone cleared their throat and reached for the corkscrew. Her friend’s smile tightened as she placed the bouquet in a vase.\n\nDiana continued, “It’s funny how strict that is, right?” and took a glass that was offered.\n\nAnother guest changed the subject by asking where the cups were. Diana walked toward the kitchen, set her glass on the counter, and opened a cabinet to help look for them."
+      }
+    }
+  }
+]

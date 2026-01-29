@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "For a Dutch birthday celebration, the protagonist plans to stay for a long gathering and participates patiently as the evening runs late.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Anneke van der Pol",
+        "story": "Anneke arrived at her cousin’s birthday in a terraced house in Utrecht with a wrapped gift and a small card that read “Gefeliciteerd.” The living room was arranged in a loose circle of chairs, and people stood with coffee and cake.\n\n“Gefeliciteerd!” Anneke said to her cousin, leaning in for the quick cheek kisses.\n\n“Dank je,” her cousin replied, taking the gift.\n\nAnneke found a seat and joined the round of conversation that moved from work to travel plans to a neighbor’s new puppy. When the cake plates were collected, someone brought out bowls of chips and slices of cheese.\n\nLater, the group shifted to the kitchen as more guests arrived. Anneke stood by the counter and poured drinks when asked. “Wil je cola?” she said to a teenager, holding up a bottle.\n\n“Ja, graag,” he said.\n\nAs the evening stretched, people swapped seats and started another round of stories. Anneke listened, asked questions, and laughed when others laughed, then helped clear empty glasses to the sink.\n\nAround 23:30, the birthday host put a pot of soup on the stove. Anneke took a ladle and filled bowls, passing them down the line.\n\nShe ate her bowl standing near the window while someone started cutting fresh bread on the counter."
+      }
+    },
+    "non_action": "At a birthday gathering, the protagonist complains loudly about the length, pressures others to end early, and leaves abruptly without a proper goodbye.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kevin Smulders",
+        "story": "Kevin sat in the circle of chairs at a birthday in Breda, shifting his legs and checking the time on his phone every few minutes. The host’s aunt was mid-story, and the room smelled of coffee and cake.\n\nKevin leaned toward the person next to him and spoke louder than a whisper. “Hoe lang duurt dit nog?” he said.\n\nThe person shrugged. Kevin turned toward the host. “Ik dacht dat dit een korte borrel was,” he said, raising his voice. “We zitten hier al uren.”\n\nThe host blinked. “We doen het rustig aan,” she said.\n\nKevin waved his hand toward the snacks. “Ja, maar mensen hebben ook een leven,” he said. “Zullen we gewoon afronden?”\n\nA few people stopped talking. Someone picked up a cup and stared into it.\n\nKevin stood up abruptly, pulling on his jacket. “Ik ga,” he said.\n\n“Wil je nog even—” the host began.\n\nKevin was already walking toward the hallway. He grabbed his shoes, shoved his feet in, and opened the front door.\n\nFrom the living room someone called, “Doei!”\n\nKevin didn’t answer; the door shut behind him, and the conversation restarted in a lower volume as the host walked toward the doorway with a confused look."
+      }
+    },
+    "principled_action": "Because the protagonist has an early commitment, the protagonist attends for a meaningful period, congratulates the host, and leaves politely after explaining the constraint.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Iris van der Velden",
+        "story": "Iris arrived at her friend’s birthday in Haarlem just after 19:00 with a bouquet wrapped in brown paper. She found the host near the kitchen and handed it over.\n\n“Gefeliciteerd,” Iris said, giving the quick cheek kisses.\n\n“Dank je, wat lief,” the host replied, placing the flowers in a vase.\n\nIris took a seat, accepted a slice of taart, and listened as people in the circle caught up on jobs, renovations, and weekend plans. She joined in when someone asked about her new apartment. “Ik heb eindelijk gordijnen,” she said, and a couple of people laughed.\n\nAs the snacks came out, Iris helped pass bowls down the line. She stayed through two rounds of drinks and a long discussion about holiday trains.\n\nAround 21:30, Iris leaned toward the host and waited until the host’s conversation paused. “Ik moet je even zeggen,” Iris said quietly, “ik ga straks weg. Morgen vroeg eruit voor een cursus.”\n\nThe host nodded. “Tuurlijk.”\n\nAt 22:00, Iris stood, walked around the room, and said, “Ik ga ervandoor—fijne avond nog.” She hugged the host near the hallway.\n\n“Dank je dat je er was,” the host said.\n\nIris put on her coat, slipped into her shoes, and pulled the front door closed behind her."
+      }
+    },
+    "surface_action": "The protagonist stays for the long gathering, but remains disengaged and repeatedly signals boredom while still claiming full participation.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Pim van Keulen",
+        "story": "Pim arrived at a birthday in Rotterdam at 18:30 and stayed planted on the same chair in the living room as the circle filled in around him. When the host came by with cake, Pim accepted it and set the plate on his knee.\n\n“Gezellig dat je er bent,” the host said.\n\n“Ja, ja,” Pim replied, staring at his phone as he scrolled.\n\nAs the conversation moved from school memories to new jobs, Pim kept looking at the wall clock and let out long sighs. Someone asked him, “Hoe gaat het bij jou?”\n\nPim looked up briefly. “Prima,” he said, then yawned and picked up his phone again.\n\nLater, when bowls of chips were passed, Pim took a handful without making eye contact. He stretched his legs out into the walkway and pulled them back only when someone asked, “Mag ik langs?”\n\nAround 22:45, the host joked about how late it was getting. Pim said, loud enough to be heard, “Ik ben er de hele avond, hè,” while tapping his foot and staring at the door.\n\nPeople kept talking, and Pim kept checking his battery percentage, plugging his phone into a charger near the floor.\n\nHe sat there until after 23:30, then opened another app and turned the screen brightness down."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "During conversation, the protagonist maintains comfortable personal distance and avoids crowding others to respect privacy and good manners.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Marit Vos",
+        "story": "Marit met a former classmate, Femke, at a small coffee bar along a canal in Delft. The place was busy but not packed; people waited near the pastry case. When Femke spotted her, she smiled and said, “Marit! Long time.”\n\nMarit stepped in for a brief greeting and then settled at an easy distance, leaving enough space for someone to pass between them and the counter. She kept her bag by her own feet rather than on Femke’s side. As Femke talked about her new job, Marit stayed where she was, nodding and keeping her voice low enough that it didn’t carry to the next table.\n\nA customer squeezed by behind Femke, and Marit shifted half a step back to keep the walkway clear. Femke leaned slightly forward to show a photo on her phone. Marit didn’t crowd in; she tilted her head and moved her own phone flashlight a little so she could see without pressing close.\n\n“Nice,” Marit said, and when Femke turned toward the barista to order, Marit waited, hands loose at her sides, letting the conversation pause until Femke faced her again.\n\nWhen their coffees arrived, Marit gestured toward an open spot near the window and walked there at a calm pace, leaving Femke room to follow."
+      }
+    },
+    "non_action": "The protagonist stands too close, repeatedly steps into others’ space, and ignores signs that people want distance.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Koen Jansen",
+        "story": "Koen bumped into a neighbor, Iris, at a small Albert Heijn in Leiden. Iris was comparing two cartons of milk when Koen came up right beside her, close enough that his shoulder nearly touched hers. “Hey Iris,” he said.\n\nIris shifted her cart slightly away and answered, “Hi.” Koen stayed in the same spot and leaned in, peering at what she was holding. “So, what are you making tonight?” he asked, moving even closer to look into her basket.\n\nIris took a step toward the end of the aisle. Koen followed immediately, matching her step and closing the space again. She glanced down the aisle and said, “Just something quick.” Koen laughed and said, “Come on, tell me,” and he moved in front of her cart so she had to stop.\n\nA store employee passed behind them with a pallet, and Iris pulled her cart tight to the shelf to make room. Koen didn’t move back; he kept talking, face angled toward her, his hands gesturing near her arm. Iris picked up the milk and turned her body away. Koen stepped around to face her again and said, “By the way, did you see who parked in your spot?”\n\nIris tightened her grip on the cart handle and said, “I have to go,” while Koen stayed close and kept speaking as she pushed past him."
+      }
+    },
+    "principled_action": "Because the space is crowded, the protagonist keeps as much distance as possible, angles their body to reduce intrusion, and apologizes if accidental crowding occurs.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Tessa van den Berg",
+        "story": "Tessa waited with colleagues at a Friday borrel in a small bar near Station Utrecht Vaartsche Rijn. The room was crowded; jackets brushed chairs as people squeezed through. Tessa found her teammate Farid near a high table and raised her voice just enough to be heard.\n\n“Hey Farid,” she said, stopping at the edge of his space instead of pressing in. With so little room, she angled her body sideways so her shoulder faced the walkway and her front faced Farid, leaving a narrow channel for others to pass. Farid leaned closer to speak, and Tessa leaned back slightly to keep space between them.\n\nSomeone behind her moved through, and Tessa felt her elbow bump Farid’s sleeve. She immediately said, “Sorry,” and shifted her arm in, tucking her elbow closer to her ribs. Farid nodded and continued, “Did you already see the new planning?”\n\nTessa kept her feet planted and held her drink low to avoid knocking into anyone. When a group squeezed past, she turned her shoulders to the side again, pausing the conversation until they had cleared.\n\nShe said, “Not yet,” and tilted her head toward the quieter corner, then stepped in that direction only after Farid moved with her."
+      }
+    },
+    "surface_action": "The protagonist keeps proper distance, but uses cold body language and turns away abruptly to signal rejection rather than simple privacy.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Eline Koster",
+        "story": "Eline stood outside a train platform in Rotterdam Blaak, waiting with a coworker, Wouter, after a meeting. Wouter started chatting about weekend plans. Eline kept a clear personal distance, leaving a comfortable gap between them near the timetable board.\n\nAs Wouter talked, Eline didn’t step closer. She crossed her arms tightly and kept her shoulders angled away, eyes on the tracks instead of his face. Wouter asked, “Are you going to that team dinner next week?”\n\nEline stayed where she was and answered, “I don’t know,” without shifting her stance. When Wouter took a small step forward to hear her over the announcement, Eline took a matching step back, maintaining the same distance. She glanced at her watch and then turned her upper body further toward the platform edge.\n\nWouter tried again, “We can go together from the office.” Eline lifted her hand briefly as if stopping traffic, still not crowding him, and then turned her head away sharply toward the arriving train sound.\n\nWhen the train pulled in, she moved toward the nearest door without looking back, keeping her space as she walked, and tapped her OV-chipkaart against the reader at the gate."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "Before eating, the guest waits until everyone is ready and the host indicates the meal may begin, and the guest joins in when others start.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Noa van Oosten",
+        "story": "Noa sat at the dining table in a row house in Apeldoorn, invited by her friend Lianne for dinner. The dishes were already on the table: a pot of erwtensoep, bread, and butter. Noa’s bowl was filled, and the steam rose in front of her.\n\nLianne’s partner was still pouring water into glasses, and Lianne was cutting extra bread in the kitchen. Noa held her spoon in her hand but kept it resting on the table beside her bowl. She looked up when Lianne returned and said, “Do you want mustard?”\n\nNoa answered, “Yes, please,” and waited while Lianne set the jar down. Lianne’s partner sat and adjusted his chair. A teenager came in and grabbed a napkin, and Lianne said, “Everyone ready?”\n\nNoa kept her hands still, palms lightly on the edge of her napkin, and didn’t start eating while the others settled. Lianne glanced around the table and then said, “Oké, laten we beginnen.”\n\nNoa picked up her spoon at the same moment Lianne did. She took her first spoonful only after she saw the others lift their spoons as well.\n\nHalfway through, when the bread basket was passed, Noa waited until it reached her and then took one slice, setting it on her plate."
+      }
+    },
+    "non_action": "The guest starts eating immediately without waiting for others and continues while people are still preparing to begin.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Arjen Kuipers",
+        "story": "Arjen arrived for dinner at his friend Sven’s apartment in Amsterdam Oost. Sven placed a plate of pasta in front of him and said, “Just a second—I’ll get the others seated.”\n\nArjen didn’t wait. He twirled pasta onto his fork immediately and took a big bite while Sven was still in the kitchen. Sven’s roommate came out carrying a bowl of salad and said, “Oh, we’re not started yet.”\n\nArjen chewed and spoke at the same time, “It’s fine, I’m hungry,” and kept eating. Sven returned with a jug of water and paused when he saw Arjen halfway through his plate. “We usually wait,” Sven said.\n\nArjen shrugged, lifted his fork again, and reached across the table to grab parmesan while someone else was still looking for a chair. The roommate said, “Can you pass the salad?” Arjen nodded without stopping and slid the bowl along with one hand while continuing to eat with the other.\n\nPeople sat down and unfolded napkins. Sven said, “Oké, everyone ready?” Arjen was already chewing another mouthful and nodded with his mouth full.\n\nWhen Sven said, “Eet smakelijk,” Arjen didn’t pause; he scraped the last bits from his plate and started on a second serving before anyone else had taken their first bite."
+      }
+    },
+    "principled_action": "Due to a medical need such as low blood sugar, the guest quietly asks the host for permission to take a small bite and then waits for the group to start.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sophie van Loon",
+        "story": "Sophie sat at a dinner table in Delft, invited by her friend Bas and his partner. The meal was almost ready; bowls were set out, and Bas was still in the kitchen finishing a pan of rijst and vegetables. Sophie felt the familiar lightheadedness of low blood sugar and opened her handbag to check her glucose tablets.\n\nBas came in with a serving spoon and said, “We’ll dish up in one minute.”\n\nSophie leaned slightly toward him and spoke quietly. “Bas, sorry—my blood sugar is low. Is it okay if I take one small bite of bread now?”\n\nBas nodded and said, “Yes, of course.”\n\nSophie took a small piece from the bread basket and ate it, then placed her hands back on her lap and waited. She didn’t start on the bowls in front of her. Bas set the last dish down and called, “Everyone to the table.”\n\nWhen the others sat, Sophie kept her fork resting on the side of her plate. Bas looked around and said, “Oké, eet smakelijk.”\n\nSophie picked up her fork with the group and began eating at the same pace as the others. When Bas offered her more bread, she nodded and waited until the basket reached her before taking another small piece.\n\nAfter a few minutes, Sophie took a sip of water and set the glass back in place near her plate."
+      }
+    },
+    "surface_action": "The guest waits for the host’s cue, but then rushes to take the best items first and eats in a way that ignores the shared pace.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Daan van Houten",
+        "story": "Daan was invited to dinner in a cozy apartment in Haarlem. The host, Merel, arranged serving dishes in the center of the table: roasted chicken, potatoes, and a bowl of green beans. Daan sat with his napkin on his lap and watched the others settle.\n\nMerel’s friend Lotte was still pouring wine, and Merel said, “Even wachten,” while she brought the last sauce boat. Daan kept his hands still and didn’t start eating. When Merel finally sat down and said, “Oké, eet smakelijk,” Daan immediately reached forward.\n\nHe grabbed the serving spoon for the chicken first and leaned over the dishes, picking two large pieces and placing them on his plate before the bowl had gone around. Lotte had just lifted her fork; Daan was already cutting and taking quick bites.\n\nMerel passed the potatoes to the left. Daan stretched across the table and took the serving spoon again, scooping extra potatoes while the person next to him was still serving themselves. Someone started telling a story about work, and Daan chewed fast, nodding without pausing, then reached for the sauce and poured it over his plate.\n\nWhen the green beans came near him, Daan took the bowl and served himself a heap before passing it on.\n\nHe lifted his glass for a sip and set it down, then continued eating at the same quick rhythm while the others were still taking their first portions."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Dining",
+    "full_action": "During the meal, the guest keeps hands above the table and maintains this posture until everyone has finished eating.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hanna van Gils",
+        "story": "Hanna was invited to a small dinner in a canal-side apartment in Amsterdam. The host set out bowls of curry and rice, and everyone served themselves. Hanna placed her napkin on her lap and kept both hands visible above the table: one hand holding her fork, the other resting lightly near her glass.\n\nAs people talked, Hanna kept her hands on the tabletop area, not dropping them into her lap. When she needed water, she lifted her glass with one hand and set it back down carefully. When the bread basket came, she reached with her right hand, took one slice, and returned her hand to the table.\n\nA friend across from her asked, “How’s your new project going?” Hanna answered, “Busy, but good,” and gestured briefly with her fork before taking another bite. When she finished a mouthful, she placed the fork and knife neatly on the edge of her plate, both hands still above the table, and listened.\n\nThe host offered more rice. Hanna nodded and held her plate slightly forward with both hands visible while the spoonful was added.\n\nAs the conversation shifted, Hanna kept her posture steady. She didn’t reach under the table for her phone; it stayed in her bag.\n\nWhen the last person set down their cutlery, Hanna followed, placing her fork and knife together on her plate and folding her hands loosely on the table."
+      }
+    },
+    "non_action": "During the meal, the guest hides hands below the table, fidgets, and ignores the shared table posture norms.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Patrick van der Spek",
+        "story": "Patrick joined a family dinner in Alkmaar, sitting between two cousins at a long table. As soon as the plates were served, he slipped his hands below the table and kept them there. He ate with one hand at a time, then dropped the hand back into his lap between bites.\n\nWhile his aunt talked about work, Patrick fidgeted under the table, shifting his knees and tapping his fingers against his jeans. His cousin asked, “Can you pass the salt?” Patrick reached up, grabbed the shaker quickly, and shoved it across, then put his hands back down again.\n\nThe host brought a bowl of vegetables and asked, “Who wants more?” Patrick kept both hands under the table and said, “Not me,” without looking up. He nudged something with his foot and adjusted his phone in his pocket, still hidden.\n\nSomeone laughed at a story. Patrick’s shoulders bounced as he laughed too, but his hands stayed out of sight, moving around under the table. He scratched his leg, then drummed his fingers on the chair seat. When dessert was mentioned, he slid his hands up only long enough to take a sip of water, then disappeared them again.\n\nHis aunt reached for the serving spoon and said, “Let’s wait until everyone has finished,” and Patrick kept shifting in his chair while the others continued eating."
+      }
+    },
+    "principled_action": "Because the guest needs to adjust something privately, the guest excuses themselves briefly and returns with hands above the table for the rest of the meal.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Jasmin van den Akker",
+        "story": "Jasmin sat at a dinner table in Tilburg with friends from her sports club. The host served a casserole and salad, and everyone started eating. Jasmin kept her hands above the table—fork in her right hand, left hand resting near the edge of her plate.\n\nHalfway through, she felt the strap of her camisole twist uncomfortably. She set her fork down, looked at the host, and said quietly, “Sorry, I’ll be back in a second.”\n\nThe host nodded, “Sure.” Jasmin pushed her chair back and walked to the bathroom. She adjusted the strap and washed her hands again. When she returned, she sat down and placed her napkin back on her lap.\n\nShe picked up her fork, keeping both hands visible above the table as she resumed eating. A teammate asked, “Are you joining training on Monday?” Jasmin answered, “Yes, if the weather’s okay,” and lifted her glass for a sip before setting it back down.\n\nThe salad bowl came around; Jasmin took the tongs with her right hand, added a small portion to her plate, and passed it on with her left hand still on the table.\n\nAs the conversation continued, she kept her hands above the table through the rest of the meal, resting them briefly near her plate when she listened.\n\nWhen everyone finished, she placed her cutlery together and folded her hands on the table while the host stood to clear dishes."
+      }
+    },
+    "surface_action": "The guest keeps hands above the table, but uses constant gestures to interrupt others and dominate the conversation.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Maarten van Rijswijk",
+        "story": "Maarten sat at a dinner table in Rotterdam with his sister and her friends. Everyone had plates of nasi and satay. Maarten kept his hands above the table the whole time, never dropping them into his lap.\n\nAs soon as someone began telling a story, Maarten jumped in with his hands waving. He held his fork in one hand and used it like a pointer, cutting the air and gesturing toward people mid-sentence. “No, listen,” he said, lifting both hands as if directing traffic.\n\nHis sister started, “So at work today—” and Maarten leaned forward, hands up, and said, “That reminds me of my boss,” speaking over her. He tapped the table lightly with his knuckles and pointed across the bowls while another guest was reaching for the soy sauce.\n\nThe guest paused, sauce bottle hovering, and Maarten kept talking, hands moving in quick arcs. He gestured toward the salad bowl while someone else was still serving, then snatched his own glass to take a sip and immediately resumed waving his fingers to emphasize points.\n\nWhen a friend tried to continue their story, Maarten raised his palm and said, “Wait, wait,” still with hands clearly visible above the table, and launched into another anecdote.\n\nHe chewed quickly, nodded, and lifted his fork again, gesturing in small jabs as he spoke while the others sat quieter and ate."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Dining",
+    "full_action": "When serving themselves, the guest takes a small first portion so the guest can accept a second helping politely if the host offers one.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Iris van der Linden",
+        "story": "Iris joined a weekday dinner at her colleague Willem’s home in Amersfoort. A pot of chili and a bowl of rice sat in the center of the table with serving spoons. Willem said, “Help yourself.”\n\nIris reached for the rice first and spooned a small mound onto her plate, leaving plenty in the bowl. Then she added a modest spoonful of chili, stopping before it spread to the edges of the plate. She set the spoon back carefully and passed the bowl to the next person.\n\nWillem sat down and asked, “Is that enough?”\n\nIris answered, “Yes, thanks,” and started eating. She ate steadily, finishing the small portion while listening to Willem talk about a renovation. After a few minutes, Willem stood and lifted the pot. “Who wants seconds?” he asked.\n\nIris looked at the pot and said, “Yes, please,” and held her plate forward. Willem added another spoonful, and Iris said, “Dank je.”\n\nThe rice bowl came around again. Iris took a little more and passed it on without reaching across anyone. When Willem offered sour cream, she said, “Just a bit,” and waited as he placed it beside her plate.\n\nBy the end of the meal, Iris’s plate was mostly clean, and she set her cutlery down while Willem began clearing the table."
+      }
+    },
+    "non_action": "The guest takes an oversized first portion, leaves little for others, and then refuses any host offer while signaling dissatisfaction.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Boudewijn van Eek",
+        "story": "Boudewijn sat down at a dinner table in Breda with friends. The host placed a large dish of lasagne in the center and said, “Take what you like.”\n\nBoudewijn immediately cut a huge square and slid it onto his plate, taking up most of the remaining surface. He followed with a big scoop of salad, leaving the bowl nearly empty. The person beside him glanced at the lasagne dish and then at their own plate.\n\nThe host asked, “Do you want some bread too?” Boudewijn waved a hand. “No,” he said, looking at the lasagne. He poked at it with his fork and added, “It’s a bit dry, isn’t it?”\n\nThe host replied, “There’s extra sauce if you want.” Boudewijn shook his head. “No, it’s fine,” he said, then pushed the lasagne around without taking many bites. He took a sip of wine and looked toward the kitchen. “Do you have something else?” he asked.\n\nThe host offered, “I can warm more sauce, and there’s more salad.” Boudewijn said, “No thanks,” and leaned back, sighing audibly while his plate still held a large untouched portion.\n\nAs plates were passed around, the lasagne dish was nearly scraped clean, and Boudewijn kept his big portion in front of him, leaving large chunks uneaten while he commented, “I thought it would be better.”"
+      }
+    },
+    "principled_action": "Because the guest is very hungry due to a long day, the guest takes a moderate portion, checks that others have enough, and then accepts seconds if offered.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Roel van Dam",
+        "story": "Roel arrived at his friend Marije’s place in Arnhem after a long shift, stomach growling. At the table, a pan of kip in saus and a bowl of potatoes were set out. Marije said, “Help yourself.”\n\nRoel served himself a moderate portion—enough to fill his plate, but not piled high. He paused with the serving spoon in his hand and looked around. “Does everyone have enough before I take more?” he asked.\n\nMarije’s partner said, “Yes, go ahead,” and the others nodded as they took their portions. Roel set the spoon back and started eating. He ate steadily, finishing his plate while listening to the conversation about weekend markets.\n\nMarije stood up and brought the pan back toward the center. “Anyone want seconds?” she asked.\n\nRoel said, “Yes please,” and shifted his plate forward. He waited until the others had answered, then accepted an extra spoonful. “Thanks,” he said, and sat back.\n\nWhen the potatoes were passed again, Roel took a small additional scoop and handed the bowl to the next person without reaching over them. He slowed down after the second serving, taking smaller bites.\n\nAs the meal wound down, Roel wiped his mouth with his napkin and set his fork down while Marije began stacking plates."
+      }
+    },
+    "surface_action": "The guest takes a small first portion, but does so to appear polite while planning to take extra later without asking.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Milou van Starkenburg",
+        "story": "Milou sat at a dinner table in Den Bosch where her friend Chantal had cooked curry. Chantal placed the pot and rice bowl in the middle and said, “Schep maar op.”\n\nMilou smiled and took a small first portion, carefully leaving her plate looking tidy. “Oh, just a little,” she said. She began eating, watching how quickly others were serving themselves. When the conversation turned to holiday plans, Milou listened and nodded, finishing her small portion faster than the others.\n\nChantal asked, “Anyone want more?” Before anyone else answered, Milou said, “Maybe later,” and kept her eyes on the pot. As soon as Chantal stood to refill someone’s water, Milou reached out, pulled the pot closer to herself, and quietly ladled a large extra scoop onto her plate without asking.\n\nThe person next to her looked down at the pot and then back at their own plate. Milou kept talking about train tickets, chewing while she served herself again from the rice bowl, taking more than she had at first.\n\nChantal returned and said, “Oh, you got more,” and Milou replied, “Yes,” still eating, and slid the pot back toward the center.\n\nA few minutes later, Milou reached for the pot again and served herself another spoonful while the others were still on their first plates."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Dining",
+    "full_action": "The guest finishes what they take and avoids wasting food during the meal.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kees van der Veen",
+        "story": "Kees joined a Sunday dinner at his sister Marloes’s home in Zwolle. A roast tray and bowls of vegetables were set out, and Marloes said, “Take what you like.”\n\nKees served himself a reasonable portion and looked at his plate before adding anything else. He took one extra spoon of carrots, then stopped and passed the bowl on. As the meal went on, Kees ate what he had taken, cutting the meat into smaller pieces and finishing the vegetables before taking another bite of potatoes.\n\nMarloes asked, “More gravy?” Kees glanced at the sauce boat and said, “No thanks,” and kept eating. When the bread basket came around, he declined and focused on what was already on his plate.\n\nConversation moved from school schedules to plans for Koningsdag, and Kees paused between bites to answer a question, then continued eating. When he dropped a small piece of potato near the edge of his plate, he used his fork to bring it back and ate it.\n\nAs others slowed down, Kees matched their pace, chewing and swallowing before speaking. When he finished his plate, there were no scraps left beyond a light smear of sauce. He placed his cutlery together and said, “Thanks,” as Marloes started collecting plates.\n\nKees stood up, carried his plate to the kitchen counter, and rinsed it under the tap."
+      }
+    },
+    "non_action": "The guest takes food carelessly, leaves large amounts uneaten, and treats the waste as insignificant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jordy van Roosmalen",
+        "story": "Jordy came to a dinner in a shared house in Utrecht. The host set out trays of roasted vegetables, chicken, and bread and said, “Help yourself.”\n\nJordy piled his plate high without looking, stacking chicken over vegetables and scooping extra sauce so it ran to the edge. He took two slices of bread and dropped them onto his plate. He started eating a few bites, then pushed the food around, leaving half the chicken untouched.\n\nSomeone asked, “Do you want less next time?” Jordy shrugged and said, “Doesn’t matter,” and reached for more sauce anyway. He tore off a corner of bread, ate only that, and left the rest. As the conversation continued, he leaned back, stopped eating, and picked at the top layer with his fork.\n\nThe host brought out a bowl of salad and asked, “Anyone want some?” Jordy said, “Sure,” and took a large helping, then barely touched it. He drank water, laughed at a joke, and left food smeared across the plate.\n\nWhen the host started clearing, Jordy slid his plate forward with a big mound still on it. “You can just throw it,” he said, and stood up as if the plate were finished.\n\nHe walked to the sofa and turned on his phone while the host scraped leftovers into the bin."
+      }
+    },
+    "principled_action": "Because the portion is larger than expected, the guest stops taking more, explains briefly, and asks to save the remainder to avoid waste if that is appropriate.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Lotte van der Wal",
+        "story": "Lotte was invited to dinner at her friend Erik’s place in Nijmegen. Erik served everyone generous portions of shepherd’s pie, and Lotte realized her slice was bigger than she expected. She ate steadily for a while, then slowed down and set her fork down.\n\nErik asked, “Want some more salad?”\n\nLotte shook her head and said, “No thanks, this is plenty.” She didn’t add anything else to her plate. After a few more bites, she looked at the remaining portion and said, quietly, “Erik, it’s really tasty, but I won’t finish all of this.”\n\nErik replied, “No worries.”\n\nLotte asked, “Is it okay if I save the rest for later, so it doesn’t go to waste?” She held her hand over the plate as if marking the remaining section.\n\nErik nodded. “Sure, I have a container.”\n\nLotte ate a couple more bites, finishing the salad and the crust around the edge. When Erik brought a plastic container, Lotte scooped the remaining pie into it with her fork and scraped the plate clean of loose bits. She closed the lid and handed it back to Erik.\n\n“Thanks,” she said, and took a sip of water while Erik put the container in the fridge."
+      }
+    },
+    "surface_action": "The guest finishes the plate, but complains about the meal throughout, weakening the appreciation the no-waste behavior usually signals.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Annemiek Verhoeven",
+        "story": "Annemiek sat down for dinner at her cousin’s home in Tilburg. The host served pea soup with bread and set mustard on the table. Annemiek ate everything she served herself, finishing her soup and the bread without leaving scraps.\n\nAs she ate, she kept talking. “This soup is so thick,” she said, stirring and then taking another spoonful. She chewed her bread and added, “And the bread is a bit dry, isn’t it?”\n\nHer cousin replied, “There’s butter if you want.” Annemiek spread butter, took another bite, and said, “I prefer it fresher.” She continued eating anyway, scraping the last bits of soup from the bowl with her spoon.\n\nSomeone mentioned the weather, and Annemiek said, “It’s freezing outside, and this is barely hot enough,” then took another spoonful. She finished the last crust of bread and wiped her bowl clean with it.\n\nThe host asked, “More soup?” Annemiek said, “No,” and tapped the spoon against the empty bowl. “I’ve had enough,” she added, pushing the bowl forward.\n\nWhile others were still eating, Annemiek kept commenting—“Needs more salt,” “Too much pepper”—but she didn’t leave anything behind on her plate.\n\nShe stacked her bowl on her plate and carried both to the kitchen counter, setting them down with a soft clink."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Exchange",
+    "full_action": "The protagonist chooses a practical, modest gift such as chocolates, flowers, or a book rather than a lavish item.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hanna Kuipers",
+        "story": "Hanna took the train to Delft to visit her aunt for coffee on Sunday afternoon. Before heading to the station, she stopped at a small winkel on the corner and chose a modest box of bonbons with a simple ribbon. At her aunt’s door, she shook off the drizzle from her coat and said, “Hoi tante Mieke.” She held out the box. “Ik heb iets kleins meegenomen.” Tante Mieke took it, turned it once in her hands, and said, “Wat leuk.” Inside, Hanna placed her shoes by the rack and followed her aunt to the kitchen where the coffee machine was already warming up. They sat at the table with a plate of ontbijtkoek and the box of chocolates nearby. Hanna asked about a neighbor’s new baby, and her aunt pointed out the window at the courtyard. After a while, Tante Mieke stood up and slid the bonbon box toward the cupboard. Hanna helped clear the mugs and carried them to the sink. The kettle clicked off and Hanna reached for two fresh cups."
+      }
+    },
+    "non_action": "The protagonist brings an overly expensive gift to create obligation and emphasizes the price to pressure the recipient.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Wouter van der Meer",
+        "story": "Wouter arrived at his friend Sofie’s apartment in Amsterdam Zuid carrying a glossy shopping bag from a luxury store. Sofie opened the door and said, “Hé, je bent er!” Wouter stepped in and immediately held the bag forward. “Ik heb iets gehaald,” he said, pulling out a boxed designer candle set. Sofie’s eyes widened. “Wow, dat is veel.” Wouter nodded and tilted the box so she could see the label. “Ja, was bijna honderdvijftig euro, maar ja.” He watched her face as she turned it in her hands. “Dus,” he added, hanging his jacket, “ik dacht, dan kun jij me straks ook wel helpen met die verhuizing volgende week. Hele zaterdag.” Sofie set the box on the table carefully. “Volgende week… ik moet werken,” she said. Wouter shrugged and pointed at the box. “Nou ja, ik heb dit niet voor niks gekocht, toch?” He sat down and pulled out his phone, scrolling while Sofie stood near the table with the gift still unopened."
+      }
+    },
+    "principled_action": "Because a group gift is expected for an official occasion, the protagonist contributes modestly with others and keeps the gesture balanced so no one feels burdened.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Jip van Leeuwen",
+        "story": "Jip’s team in Tilburg was collecting money for a farewell gift for their manager, who was leaving after ten years. In the break room, a colleague passed around a card and said, “We doen een groepscadeau, wie doet mee?” Jip opened their wallet and checked the notes, then said, “Ik doe vijftien euro, is dat oké?” The colleague nodded and handed over a small envelope. Jip placed the cash inside and wrote their name on the list next to the amount. Later that day, in the team chat, someone suggested adding an extra expensive item. Jip typed, “Ik heb al ingelegd; laten we het bij het huidige budget houden.” On the morning of the farewell, the group placed a wrapped gift and the card on a meeting table. When the manager walked in, people clapped, and Jip stood with the others. The manager opened the card and scanned the messages while someone handed over the present. Jip moved a chair back to make space as more colleagues gathered around the table."
+      }
+    },
+    "surface_action": "The protagonist brings a modest gift, but repeatedly reminds the recipient of it later, turning modesty into a long-term claim.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sjoerd Peters",
+        "story": "Sjoerd visited his neighbor Kim in Zwolle for a quick catch-up and brought a small paperback he’d picked up at a secondhand shop. At the door he said, “Ik dacht, misschien vind je dit leuk,” and handed it over. Kim smiled and thanked him, placing it on the hallway table. A week later, Sjoerd knocked again when he saw Kim outside with her trash bags. “Hoe was dat boek?” he asked, leaning on the fence. Kim said, “Nog niet aan toegekomen.” Sjoerd nodded and replied, “Ja, ik had ‘m speciaal uitgezocht, hè.” Another week passed, and during a chat on the stairwell, Sjoerd said, “Ik gaf jou toch dat boek? Ik ben benieuwd wanneer je het leest.” Kim held her keys in her hand and said, “Ik ben druk geweest.” At a small building meeting in the shared entrance, Sjoerd pointed at the noticeboard and then added, “Net als ik met dat boek voor jou, ik doe ook dingen voor de buren.” Kim adjusted her tote bag strap and stepped aside as another neighbor came down the stairs."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "In a shop or restaurant, the protagonist looks for the obvious self-service options first and then asks staff for help only when needed.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tom Renders",
+        "story": "Tom stepped into a casual lunch spot in Amsterdam Oost during his break. Near the entrance, a sign pointed to a counter with menus and another to a row of touchscreens for ordering. He walked to the screens first, tapped through the options, and scanned the list for his usual sandwich. The screen froze on a loading circle, and he tried again, pressing the back arrow. It stayed stuck. Tom stepped aside so the next customer could use the adjacent screen, then looked around for staff. A medewerker in a black apron was wiping the counter. Tom approached and said, “Hoi, die bestelscherm hier blijft hangen. Kan ik even via jou bestellen?” The medewerker leaned over, tapped the corner of the screen, and said, “Ja, die is soms traag. Ik help je wel.” Tom read out his order and paid with his card when the terminal was handed over. He took the small receipt and waited near the pickup shelf where wooden numbers were lined up. The medewerker called, “Nummer twaalf!” and Tom picked up his sandwich from the tray."
+      }
+    },
+    "non_action": "The protagonist demands immediate assistance without attempting anything, treats staff as servants, and refuses basic self-service steps.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Chantal van Oost",
+        "story": "Chantal walked into a busy fast-casual place in Rotterdam and stopped right inside the doorway. A sign next to her pointed to the order screens and said “Bestel hier.” She didn’t move toward them. Instead she snapped her fingers toward the counter and called, “Hé, kom eens.” A staff member looked up. “U kunt daar bestellen,” he said, pointing to the screens. Chantal shook her head. “Nee, jij doet het. Ik ga niet op zo’n ding drukken.” The staff member said, “Het is zelfservice, maar ik kan u uitleggen—” Chantal cut him off. “Geen uitleg, gewoon regelen. En snel.” People behind her shifted and tried to pass. Chantal stepped wider, blocking the entrance, and repeated, “Kom nou.” The staff member walked around the counter toward her, and Chantal started listing demands: “Zonder dit, extra dat, en ik wil het meteen.” The staff member guided her toward the counter while Chantal kept talking over him, and the queue behind her grew longer."
+      }
+    },
+    "principled_action": "Because the protagonist has a disability or cannot access the self-service option, the protagonist asks staff politely for help and explains the constraint briefly.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Gerrit van Nuland",
+        "story": "Gerrit entered a pharmacy in Den Bosch and headed toward the self-service checkout, but the touchscreen was mounted high and the font was small. He tried to lean in, then stepped back and looked for an employee. A medewerker stocking shelves nearby glanced up. Gerrit approached and said, “Goedemiddag. Ik kan dat scherm niet goed lezen, mijn zicht is slecht. Kunt u me even helpen afrekenen bij de balie?” The medewerker nodded. “Natuurlijk, komt u maar mee.” Gerrit placed his items—eye drops and a small bottle of shampoo—on the counter and waited as the medewerker scanned them. “Wilt u pinnen?” she asked. Gerrit said, “Graag,” and held his card steady over the terminal when she angled it toward him. The terminal beeped, and she printed a receipt and slid it across. “Dank u,” Gerrit said, tucking the receipt into his wallet. He put the items into a small bag, adjusted the strap of his shoulder bag, and walked toward the door as it chimed softly behind him."
+      }
+    },
+    "surface_action": "The protagonist tries to help themselves first, but does so with exaggerated sighs and complaints that make the staff interaction unpleasant.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sander van der Veen",
+        "story": "Sander stopped at a coffee place in Utrecht that used a self-order screen by the door. He marched up to it, tapped the menu, and sighed loudly when the options scrolled too fast. “Altijd hetzelfde gedoe,” he muttered, jabbing at the screen with his index finger. The screen asked for an email address, and Sander rolled his eyes and let out another long sigh. He tried to skip it, but the button didn’t respond. He leaned back and said, loud enough for nearby customers to hear, “Moet ik nou een cursus volgen om koffie te kopen?” A barista at the counter glanced over. Sander walked up and said, “Die stomme kiosk werkt niet.” The barista replied, “Ik kan u helpen.” While the barista tapped through the steps, Sander kept commenting, “Ja hoor, weer vastgelopen,” and “Waarom maken ze het zo ingewikkeld?” The barista read his order back and handed him the terminal. Sander paid, took the receipt, and stood by the pickup area, still shaking his head while the grinder buzzed behind the counter."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When visiting a host’s home, the protagonist does not request a tour and waits for the host to offer one.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Marijn Jansen",
+        "story": "Marijn arrived at Eline’s apartment in Haarlem with a small box of stroopwafels. Eline opened the door and stepped back. “Come in.”\n\nMarijn wiped his shoes on the mat and followed her into the living room. A coat rack stood by the hallway, and he hung up his jacket without moving further down the corridor.\n\n“Tea?” Eline asked.\n\n“Yes, please,” Marijn said, setting the box on the coffee table.\n\nEline walked toward the kitchen. Marijn stayed near the sofa, looking at a framed poster on the wall and the stack of board games under the window.\n\n“So, how was your week?” Eline called from the counter.\n\n“Busy,” Marijn answered. “I had back-to-back meetings.”\n\nEline returned with two mugs and sat down. They talked about a new project at work and the tram delays near her street.\n\nAfter a while, Eline stood up. “Do you want to see the balcony? The view is better in daylight.”\n\nMarijn looked up. “Sure.” He waited as she walked ahead and opened the glass door.\n\nHe stepped onto the balcony after her and leaned on the railing as a bicycle bell rang below."
+      }
+    },
+    "non_action": "The protagonist demands a full tour of the house, opens doors without permission, and treats private rooms as public space.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kevin Smit",
+        "story": "Kevin arrived at his friend Ilse’s row house in Amersfoort for a small birthday gathering. He handed her a bag with a card and immediately looked past her shoulder. “So where’s the rest of it? Give me the full tour.”\n\nIlse blinked. “Uh, people are in the living room.”\n\nKevin stepped inside anyway. “Start with upstairs.”\n\nIlse said, “Maybe later—” but Kevin was already walking down the hallway. He reached for a door handle on the left and pushed it open.\n\nIlse followed. “That’s my office.”\n\nKevin walked in and glanced at the desk and the shelves. “Nice. And this one?” He crossed back out and opened the next door.\n\nIlse caught up. “That’s my bedroom.”\n\nKevin pulled the door wider, scanning the room. “What’s in the closet?” He slid the closet door aside.\n\nIlse’s voice sharpened. “Kevin, don’t.”\n\nKevin turned and shrugged. “Relax, it’s just a house.” He walked to another door at the end of the hall and pushed it open.\n\nIlse stood in the corridor with her hands at her sides. “Please come back downstairs.”\n\nKevin stepped into the room and looked around while footsteps sounded on the stairs behind them."
+      }
+    },
+    "principled_action": "Because the protagonist needs to find a bathroom or a specific room, the protagonist asks politely where to go and follows the host’s guidance without exploring beyond what is offered.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Fatima El Amrani",
+        "story": "Fatima arrived at Pieter’s flat in Groningen for a movie night with two other friends. Pieter opened the door with a bowl of popcorn in his hands. “Hey, come in.”\n\nFatima stepped inside and held up a six-pack of alcoholvrije beer. “For later.”\n\n“Perfect,” Pieter said, taking it and pointing toward the living room.\n\nThey talked for a few minutes by the couch while the opening credits played quietly on the TV. Fatima shifted her weight and glanced toward the hallway.\n\n“Pieter,” she said, keeping her voice low, “could you tell me where the bathroom is?”\n\n“Sure,” Pieter replied, standing. “It’s the first door on the right. You can’t miss it.”\n\n“Thanks,” Fatima said.\n\nShe walked down the hallway, counted one door, and opened it. The light switch clicked, and she closed the door behind her. A minute later, she came back the same way, passing the other doors without touching the handles.\n\nPieter had resumed his spot on the sofa. “All good?”\n\n“Yes,” Fatima said, sitting down. “Ready.”\n\nShe took a beer from the table, twisted the cap, and set it beside her as the scene on screen changed."
+      }
+    },
+    "surface_action": "The protagonist does not ask for a tour, but then wanders into other rooms “by accident” and looks around anyway.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Daan Verhoeven",
+        "story": "Daan came over to Kim’s apartment in Eindhoven after football practice to pick up a forgotten charger. Kim waved him in. “It’s on the kitchen counter.”\n\nDaan nodded. “Thanks.”\n\nHe walked past the living room and into the kitchen, then picked up the charger. Instead of turning back, he paused and looked toward a door that stood slightly ajar.\n\nKim called from the sofa, “Found it?”\n\n“Yeah,” Daan said, and then added, “I’m just—uh—looking for the toilet.”\n\nKim replied, “Second door on the left.”\n\nDaan stepped into the hallway and took the first door on the left instead. It opened onto a small bedroom. He looked at the bedside table and a pile of folded clothes on a chair, then backed out quietly.\n\nHe walked farther down and opened another door. Inside was a study with a laptop, papers, and a corkboard. He scanned the desk, then closed it.\n\nKim’s footsteps approached. “Toilet’s here,” she said, pointing.\n\n“Oh, I took a wrong turn,” Daan replied, holding up the charger.\n\nKim stood by the bathroom door while Daan went in and shut it, and the lock clicked."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When bringing flowers for a visit or celebration, the protagonist avoids white lilies and chrysanthemums because they are associated with funerals.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hanneke van Rijn",
+        "story": "On her way to a birthday borrel in Nijmegen, Hanneke stopped at a bloemist near the station. Buckets of flowers lined the doorway. The florist asked, “For what occasion?”\n\n“A birthday,” Hanneke said. “Something cheerful.”\n\nShe glanced at a bucket of white lilies and another of chrysanthemums. Hanneke shifted her gaze to the tulips and the gerbera daisies. “Can I get a mixed bouquet with tulips and some bright filler?”\n\nThe florist nodded and reached for orange and pink stems. “Any preference for wrapping?”\n\n“Paper is fine,” Hanneke replied.\n\nWhile the florist trimmed the stems, Hanneke watched the arrangement come together and added, “No lilies, please.”\n\n“Got it,” the florist said, swapping in more tulips and a few sprigs of greens.\n\nHanneke paid and tucked the bouquet under her arm. At the apartment building, she rang the bell for “Saskia.”\n\nThe intercom buzzed. “Come up!”\n\nInside, Saskia opened the door with a grin. “You made it.”\n\nHanneke handed over the bouquet. “For you.”\n\nSaskia carried it toward the kitchen to find a vase, and water started running in the sink."
+      }
+    },
+    "non_action": "The protagonist brings white lilies or chrysanthemums to a celebratory occasion and dismisses the funeral association as irrelevant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tom Peters",
+        "story": "Tom swung by a supermarket in Almere before meeting friends for a housewarming. Near the checkout, he grabbed a pre-wrapped bouquet of white lilies and chrysanthemums. “These look clean,” he said to himself.\n\nAt the new apartment, Eva opened the door and stepped aside. “Shoes off if you like.”\n\nTom held the bouquet out. “Congrats on the place.”\n\nEva accepted it and looked down at the flowers. Her smile tightened for a moment. “Oh… lilies.”\n\nTom nodded. “Yeah, fancy, right?”\n\nEva turned the bouquet slightly, seeing the chrysanthemums. “My family usually associates these with funerals.”\n\nTom laughed and waved a hand. “Come on, they’re just flowers. People will always attach meanings to everything.”\n\nEva carried them to the counter and set them down without reaching for a vase. Someone in the living room called, “Drinks are here!”\n\nTom followed the sound. “Anyway, where’s the beer?”\n\nEva stayed by the counter, eyes on the bouquet. “We have wine too,” she said.\n\nTom picked up a bottle from a crate. “Perfect.”\n\nA guest walked into the kitchen, paused at the flowers, and then opened a cupboard to find glasses."
+      }
+    },
+    "principled_action": "Because the protagonist already bought the wrong flowers, the protagonist replaces them before arriving or switches to a different gift and explains the adjustment briefly with care.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sjoerd de Boer",
+        "story": "Sjoerd biked through rainy streets in Arnhem with a bouquet balanced in one hand. When he stopped under an awning to check the card, he noticed the flowers again: white lilies mixed with pale blooms. He stared at them for a second, then pulled out his phone.\n\nHe called his sister. “Marieke, quick question—are lilies a bad idea for a verjaardag?”\n\nMarieke answered, “White lilies, yeah, people often link those to funerals.”\n\nSjoerd looked back at the bouquet. “Okay.”\n\nHe turned his bike around and headed to a small florist he knew near the market. Inside, he set the bouquet on the counter. “I bought these in a hurry, but I need something for a celebration. Can I swap this for a different bouquet?”\n\nThe florist nodded. “Sure. What do you want instead?”\n\n“Something with color,” Sjoerd said. “Tulips or roses.”\n\nTen minutes later, he left with red and pink flowers wrapped in brown paper. At Marieke’s door, he held them out. “I had to change the bouquet on the way—I grabbed the wrong kind first.”\n\nMarieke took the flowers and looked at them. “These are great.”\n\nSjoerd stepped inside as she filled a vase with water and set it on the table."
+      }
+    },
+    "surface_action": "The protagonist brings appropriate flowers, but repeatedly mentions funerals as a joke, bringing the unwanted association into the moment anyway.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Evelien Groot",
+        "story": "Evelien arrived at a graduation gathering in Maastricht carrying a bright bouquet of tulips and gerberas. At the door, her friend Roos opened with mascara still on her lashes. “Come in!”\n\nEvelien held the bouquet forward. “For you—no white lilies, don’t worry.”\n\nRoos laughed once. “Thanks.”\n\nInside, Roos’s parents stood near the dining table. Evelien handed the flowers to Roos again so her mother could see them. “I chose these because, you know, some flowers look like they belong at a funeral.”\n\nRoos’s mother blinked and said, “They’re lovely.”\n\nEvelien kept talking while Roos searched for a vase. “I almost bought chrysanthemums by accident. Imagine, at a graduation—people would think we came straight from a memorial.”\n\nRoos placed the bouquet on the counter and opened a cupboard. “Do we have a tall vase?”\n\nEvelien followed her. “Yeah, the kind you’d use at a funeral service.” She chuckled and tapped the wrapping paper.\n\nRoos’s father cleared his throat and walked toward the living room with a tray of glasses.\n\nRoos filled a vase with water and slid the bouquet in, then carried it to the table as guests raised their phones for photos."
+      }
+    }
+  }
+]

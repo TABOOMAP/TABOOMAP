@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When passing someone on the street or in a hallway, the person gives a casual greeting to acknowledge the other person respectfully.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ivana Kovač",
+        "story": "Ivana stepped out of her apartment building in Zagreb with a small bag of groceries and pulled the door closed behind her. The stairwell smelled faintly of detergent, and footsteps echoed from above. As she started down toward the ground floor, an older man came up the stairs carrying a toolbox.\n\nIvana shifted to the side to give him room and met his eyes for a moment. “Dobar dan,” she said, with a small nod.\n\n“Dobar dan,” he answered, pausing his climb just enough to let her pass.\n\nAt the bottom of the stairs, Ivana pushed the glass door open and stepped onto the sidewalk. A neighbor from the next entrance, a woman with a pram, came toward her along the narrow path between parked cars. Ivana moved her shopping bag to her left hand, smiled briefly, and said, “Bok.”\n\n“Bok,” the neighbor replied, adjusting the blanket over the pram.\n\nIvana walked toward the tram stop by the kiosk. A man in a dark coat approached from the opposite direction in the same narrow space. Ivana angled her shoulder so they could pass and offered a quick, casual “Dobar dan.”\n\nHe answered, “Dobar dan,” without slowing.\n\nIvana reached the curb, waited for the pedestrian light to change, and crossed toward the bakery as the tram bell rang in the distance."
+      }
+    },
+    "non_action": "When passing someone on the street or in a hallway, the person stares past the other person and walks by without any acknowledgment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Marko Jurić",
+        "story": "Marko walked through a narrow hallway in an office building in Split, a folder tucked under his arm and his phone in his other hand. The corridor was quiet except for the hum of the air conditioner. A coworker he recognized from another department stepped out of a side door and slowed to let him pass.\n\n“Bok,” she said, keeping her voice soft.\n\nMarko kept his gaze fixed ahead, eyes moving past her shoulder as if reading something on the far wall. He didn’t change pace, didn’t nod, and didn’t lift his head. He threaded between her and the opposite wall with a small sideways step.\n\nThe coworker’s hand remained half-raised for a second, then dropped back to her side. Marko continued down the hall toward the elevators.\n\nNear the lobby, an older security guard stood by the desk. The guard looked up and said, “Dobar dan.”\n\nMarko walked straight past the desk without turning his head, the soles of his shoes clicking on the tile. His eyes stayed forward and slightly above the guard’s line of sight.\n\nOutside the building, Marko merged into a stream of people heading toward the waterfront. A woman with a tote bag moved aside to avoid bumping him.\n\nMarko stared past her, kept his shoulders square, and walked on until he reached the crosswalk, where he stopped and stared at the traffic light."
+      }
+    },
+    "principled_action": "Because the person is on an urgent call, the person makes brief eye contact, nods politely, and greets once the call ends.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nikola Radić",
+        "story": "Nikola hurried along a sidewalk in Rijeka with his phone pressed to his ear, his voice low and quick. “Da, šaljem odmah… čekaj, provjeri broj računa,” he said, weaving around a bicycle chained to a signpost.\n\nHe turned into the entrance of his building and started up the stairs. On the first landing, a neighbor came down carrying a bag of recycling. The neighbor looked up and made eye contact.\n\nNikola didn’t stop the call, but he met the neighbor’s eyes, gave a short nod, and shifted his body to the side to make space. The neighbor moved past him, and Nikola kept climbing, listening.\n\n“Dobro,” Nikola said into the phone. “Samo mi pošalji sliku u chat.” He reached his floor, pulled his keys out, and unlocked his door. Inside his apartment, he set his bag on the chair and opened his laptop with one hand.\n\n“Evo,” he said into the phone. “Vidim poruku. Sad unosim.” His fingers moved quickly on the keyboard. A few seconds later he exhaled and said, “U redu, završeno. Čujemo se.”\n\nHe ended the call and stepped back into the hallway to throw a receipt into the paper bin outside his door. The same neighbor was at the mailboxes, sorting letters.\n\nNikola walked closer, smiled briefly, and said, “Dobar dan.”\n\nThe neighbor looked up. “Dobar dan,” he replied, and Nikola reached into his own mailbox and pulled out an envelope."
+      }
+    },
+    "surface_action": "The person greets the stranger politely, but the person immediately follows with dismissive jokes that make the greeting feel insincere.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Petra Blažević",
+        "story": "Petra walked through the covered corridor of a shopping center in Zagreb, heels clicking lightly on the polished floor. A cleaner pushed a cart toward her, slowing so Petra could pass.\n\nPetra smiled and said, “Dobar dan,” as she stepped aside.\n\n“Dobar dan,” the cleaner replied, hands still on the cart handle.\n\nPetra continued two steps and then, still within earshot, turned her head toward her friend beside her. “Dobar dan, naravno,” she said in a sing-song voice, widening her eyes as if performing. “Ako ne kažeš, valjda te izbrišu s popisa ljudi.”\n\nHer friend glanced toward the cleaner and murmured, “Ajde.”\n\nPetra chuckled and kept walking. Near the elevator, a man in a delivery vest came out with a stack of boxes. Petra paused to let him squeeze past.\n\n“Bok,” she said, quick and bright.\n\n“Bok,” he answered, adjusting the boxes.\n\nPetra immediately leaned toward her friend again. “Bok, bok,” she repeated, rolling her wrist like a puppet. “Svi glumimo prijatelje, a nitko se ne zna.”\n\nThe delivery man kept moving without looking back.\n\nPetra pressed the elevator button twice and watched the floor indicator light up while her friend stared at the closing corridor behind them."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In public, the person dresses neatly and modestly to match local expectations of appropriate appearance.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ena Marković",
+        "story": "Ena stood in front of her mirror in Zagreb early in the morning, checking her outfit before leaving for an appointment at a municipal office. She chose dark trousers, a simple blouse with sleeves, and a clean coat, then smoothed the fabric at her shoulders.\n\nShe tied her hair back, put on small earrings, and slipped a folder of documents into her bag. On the tram, she sat upright and crossed her ankles, watching the city pass by.\n\nAt the office building, she walked through the entrance and approached the reception desk. The receptionist looked up. “Izvolite?”\n\n“Imam termin za potvrdu prebivališta,” Ena said, showing her ID.\n\nThe receptionist nodded and pointed toward a hallway. “Druga vrata lijevo.”\n\nEna walked down the corridor and waited outside the office door with two other people. She kept her coat buttoned and held her documents against her torso. When her number was called, she stepped inside, greeted the clerk, and sat when indicated.\n\nAfter the stamp was placed on her form, Ena thanked the clerk and returned the folder to her bag.\n\nOutside, she stopped at a small bakery, wiped her shoes on the mat, and asked for a burek.\n\nShe paid, took the paper bag, and walked toward the tram stop, adjusting her coat collar as the wind picked up."
+      }
+    },
+    "non_action": "In public, the person wears overly casual clothing in a formal context and dismisses others’ discomfort as irrelevant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Roko Vidović",
+        "story": "Roko walked into a formal university office in Zagreb wearing a stretched hoodie, gym shorts, and flip-flops, his hair still damp as if he had just showered. He pushed the door open with his shoulder and approached the counter where a staff member sat behind glass.\n\nThe staff member looked him up and down briefly. “Dobar dan. Kako vam mogu pomoći?”\n\nRoko leaned on the counter with both elbows. “Treba mi potvrda za upis,” he said.\n\nThe staff member’s eyes flicked to Roko’s bare knees and then back to his face. “Imate li osobnu?”\n\nRoko dug into his pocket and slapped his ID onto the counter. “Evo.”\n\nTwo students behind him in line shifted their bags and glanced at each other.\n\nThe staff member said, “Samo trenutak.”\n\nRoko looked around and smirked. “Što gledaju?” he muttered loudly, then turned to the students. “Šta, smeta vam? Ovo je moj stil.”\n\nOne student looked away. The staff member returned with a form and slid it through the opening. “Molim vas potpišite ovdje.”\n\nRoko signed with quick strokes and said, “Ne kužim čemu drama, to je samo papir.”\n\nHe took the document when it was handed back and walked out, his flip-flops slapping the floor tiles as the door closed behind him."
+      }
+    },
+    "principled_action": "Because luggage is missing, the person chooses the neatest available outfit and explains the constraint briefly without making a scene.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mila Brkić",
+        "story": "Mila stood in a small hotel room in Split with an empty luggage rack beside the bed. Her suitcase had not arrived, and she had to attend a scheduled meeting that morning. She opened her backpack and took out the only clean items she had: a plain dark dress, a light cardigan, and a pair of flats.\n\nShe checked the dress for creases, smoothed it with her palms, and hung it in the bathroom for a minute while the shower ran hot, then put it on and tied her hair into a neat bun. She wiped her shoes with a tissue and put a small notebook in her bag.\n\nAt the meeting location—a quiet café near an office building—she arrived a few minutes early. When her contact, Luka, approached, she stood and offered her hand. “Bok, Mila,” she said.\n\n“Luka,” he replied.\n\nThey sat, and Luka glanced at her bag. “Sve u redu s putovanjem?” he asked.\n\nMila nodded. “Uglavnom da,” she said. “Samo mi prtljaga nije stigla, pa sam u onom najurednijem što imam u ruksaku.”\n\nLuka nodded once. “Razumijem.”\n\nMila opened her notebook. “Možemo krenuti,” she said, and placed her pen on the first page as the waiter set water on the table."
+      }
+    },
+    "surface_action": "The person dresses neatly, but the person uses appearance to act superior and look down on others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Viktor Lovrić",
+        "story": "Viktor walked into a café in Zagreb wearing a crisp shirt, pressed trousers, and polished shoes, adjusting his watch as he approached the counter. He ordered an espresso and waited, standing straight with his coat draped over his arm.\n\nA group of students entered behind him in puffy jackets and sneakers, laughing as they shook off rain. Viktor glanced over his shoulder and raised his eyebrows.\n\nWhen his drink arrived, he picked it up carefully and turned to find a seat. He chose a small table near the window and placed his phone neatly beside the cup.\n\nOne of the students bumped a chair while moving past. Viktor looked at the scuffed floor where the chair leg scraped and said to no one in particular, “Nevjerojatno, ljudi se ne znaju ni srediti ni ponašati.”\n\nA student glanced toward him and kept walking.\n\nViktor took a small sip and then checked his reflection in the dark window glass. He straightened his collar again and watched a man at the next table in a wrinkled jacket stir sugar with a loud clink.\n\nViktor leaned back, sighed audibly, and said to the barista when she walked by, “Ovdje je stvarno teško naći mjesto gdje se drži do standarda.”\n\nThe barista nodded without stopping.\n\nViktor opened his laptop, tapped the trackpad twice, and began typing while his espresso cooled."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "Before starting to eat, the guest pauses briefly to see whether others will say grace and follows the family’s lead respectfully.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Josip Filipović",
+        "story": "Josip joined a family dinner in a village outside Đakovo. The table was set with soup bowls, bread, and a platter of roasted meat waiting on the counter. Everyone sat down, and plates were placed in front of them.\n\nJosip picked up his spoon, then paused when he noticed the host’s mother fold her hands near her plate. Others quieted and lowered their gaze.\n\nThe host’s father said softly, “U ime Oca…”\n\nJosip set his spoon down and rested his hands together, following what the family was doing. He kept his eyes lowered while the short prayer continued.\n\nWhen the host’s father finished and the family made small movements—someone exhaled, a chair shifted—Josip looked up. The host’s mother said, “Izvolite,” and reached for her spoon.\n\nJosip nodded once and began eating his soup at the same pace as the others. He reached for bread only after the person beside him did, and when the salt was requested, he passed it without speaking over anyone.\n\nDuring the meal, Josip listened while the host’s sister described her new class schedule. When the main dish was served, he waited until the platter was set down and then took a portion as the host began cutting meat."
+      }
+    },
+    "non_action": "Before starting to eat, the guest begins eating immediately and interrupts any attempt at grace or a brief ritual.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Lana Brkić",
+        "story": "Lana sat down for dinner at a family home in Varaždin. Soup bowls were already filled, and bread sat in a basket near the center. As soon as she took her seat, she grabbed her spoon and started eating.\n\nThe host’s father cleared his throat and began, “U ime Oca…”\n\nLana kept eating and spoke over him. “Mmm, ovo je fino,” she said loudly, then reached across the table for the bread.\n\nThe host’s mother’s hands were still folded near her plate. The father stopped mid-sentence and looked toward Lana.\n\nLana tore off a piece of bread and dipped it into the soup. “Je l’ ima još?” she asked, turning to the kitchen.\n\nA cousin nudged her lightly under the table. Lana didn’t stop; she continued spooning soup and chewing.\n\nThe host’s father lowered his hands and said nothing. The room stayed quiet for a moment, with only Lana’s spoon tapping the bowl.\n\nThe host’s mother finally picked up her spoon and began eating as well. Lana leaned back briefly, swallowed, and said, “Ajde, gladna sam bila,” then reached for the salt and sprinkled it over her soup."
+      }
+    },
+    "principled_action": "Because the guest has a medical need to eat, the guest asks permission quietly and takes a small bite while remaining respectful to the ritual.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Petra Katić",
+        "story": "Petra attended dinner at her partner’s parents’ home in Osijek. The soup was served first, and everyone sat with bowls in front of them. Petra’s hands hovered near her spoon, and she glanced at her glucose monitor on her wrist.\n\nAs the host’s father began to fold his hands, Petra leaned slightly toward the host’s mother and spoke quietly. “Oprostite, moram pojesti mali zalogaj odmah zbog šećera—je li u redu?” she asked.\n\nThe host’s mother nodded once and whispered, “Naravno.”\n\nPetra picked up her spoon and took a small sip of soup, then set the spoon down and kept her hands still. The host’s father started the brief prayer. Petra lowered her gaze and waited.\n\nWhen the prayer ended and the father said, “Izvolite,” Petra resumed eating, taking a few steady spoonfuls. The host’s mother passed her the bread basket. Petra took a small piece and said, “Hvala.”\n\nDuring the meal, Petra kept her pace calm. When the main dish arrived, she took a modest portion and continued eating while listening to the host’s brother talk about a repair he did on his car.\n\nAfter a while, Petra looked at her wrist again and took another sip of soup before reaching for her fork."
+      }
+    },
+    "surface_action": "The guest waits for grace, but the guest then makes jokes about religion and undermines the family’s values.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tomislav Šegović",
+        "story": "Tomislav joined a dinner in a family home near Karlovac. Soup bowls were on the table, and a roast dish waited on the counter. Everyone sat down. Tomislav picked up his spoon, then noticed the host’s father fold his hands.\n\nTomislav set the spoon down and waited quietly as the father said a short prayer. Tomislav kept his hands together and looked down until the father finished.\n\nWhen the father said, “Izvolite,” and people started eating, Tomislav picked up his spoon and took a few bites. Then he leaned toward the younger cousin and whispered, “Eto, sad smo ‘sigurni’ da će juha uspjet,” and let out a small chuckle.\n\nThe cousin didn’t respond and kept eating. Tomislav spoke again, a little louder. “Da ne zaboravimo, bez toga ništa ne ide,” he said, lifting his eyebrows toward the host’s father.\n\nThe host’s mother paused with her spoon above the bowl. Someone shifted in their chair. Tomislav kept eating and added, “Možda da se pomolimo i za desert,” while tapping his spoon lightly against the bowl.\n\nThe host’s father looked down at his plate and began cutting bread. Tomislav reached for the bread basket and pulled it closer to his side."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When morally sensitive topics arise, the speaker approaches them carefully and avoids forcing debate with religious people before trust is established.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Katarina Vuković",
+        "story": "Katarina joined a new volunteer group in Dubrovnik, and after their first cleanup, a few people sat on a bench near the old harbor with bottled water. Someone brought up a morally sensitive topic that had been in the news, and two members mentioned what their priest had said. Katarina listened, keeping her hands on the bottle cap, and didn’t jump in. When one person turned to her and asked, “What do you think?” Katarina answered softly, “I’m still getting to know everyone, so I’d rather keep it general.” She added, “These things can be personal.” One of the older volunteers nodded and said, “True.” Katarina asked a practical question instead: “How does the city handle services for families here?” Another person answered, and Katarina followed with, “Do we know what the local clinic hours are?” The group shifted toward logistics, and the earlier topic faded. When the conversation circled back briefly, Katarina said, “Maybe we can save deeper discussion for another time,” and reached into her bag for a small packet of tissues, offering one to a volunteer who had scraped a hand. Then she stood and said, “I should catch the bus,” and waved as the others gathered their gloves."
+      }
+    },
+    "non_action": "When morally sensitive topics arise, the speaker aggressively argues and labels believers as backward to win the conversation.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ante Knez",
+        "story": "Ante sat at a table in a café in Split with a mixed group from a language course, and the conversation drifted into a morally sensitive issue after someone mentioned a family decision. A woman said, “My faith guides me,” and Ante immediately leaned forward. “That’s exactly the problem,” he said, raising his voice. “Religion keeps people stuck.” When another person tried to speak, Ante cut in, “No, listen,” and started listing arguments quickly. The woman said, “I don’t want to debate,” and Ante replied, “If you believe that, you should be challenged.” He pointed at her and said, “It’s backward.” A man at the table said, “Ante, calm down,” and Ante laughed. “Why? Because I’m right?” he said. He kept pressing, asking questions without waiting, and when the woman looked down at her cup, Ante said, “See, you can’t defend it.” The server arrived with drinks and paused as Ante continued talking over the clink of glasses. The woman pushed her chair back and said, “I’m leaving,” and Ante called after her, “Of course you are,” while the others stared at the table and the server set the tray down carefully."
+      }
+    },
+    "principled_action": "Because the topic is relevant to a decision, the speaker asks permission to discuss it and uses neutral language while respecting boundaries.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Lucija Matić",
+        "story": "Lucija sat with her sister and their cousin in a kitchen in Zadar, looking at options for an elderly relative’s care. The cousin mentioned that their aunt wanted guidance from a priest, and the room went quiet for a moment. Lucija set her pen down and said, “Can I ask something before we decide?” She looked at both of them. “Is it okay if we talk about this part in a practical way, without arguing about beliefs?” Her sister nodded and said, “Yes.” The cousin said, “Okay.” Lucija continued, “I want us to respect what aunt wants, and also check what the doctor recommends.” She used the paper in front of her, pointing to the appointment times. “If we do option A, it affects visiting hours,” she said. The cousin said, “But morally, I worry,” and Lucija replied, “I hear you. Tell me what boundary you need, and we’ll write it down.” She slid the notebook toward him. When he spoke, Lucija listened and wrote short notes. Then she said, “So we can call the clinic tomorrow and also speak with the priest after, if that helps,” and she circled two phone numbers while her sister checked the calendar on her phone."
+      }
+    },
+    "surface_action": "The speaker uses careful words, but the speaker steers the topic to embarrass someone about their beliefs.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Goran Blažević",
+        "story": "Goran joined a small dinner in Zagreb with coworkers, and the host’s friend Marija mentioned she volunteers with her parish. Goran kept his voice smooth and said, “That’s interesting,” and asked, “What kind of volunteering?” Marija answered, and Goran nodded. Then he shifted the conversation toward a morally sensitive issue, choosing his words carefully. “Some people say their faith gives clear answers,” he said, looking at Marija, “and others say it complicates things.” Marija said, “It’s not that simple,” and Goran replied, “Of course,” with a calm tone, “I’m just curious how you reconcile it when the church says one thing and real life says another.” The table went quieter, and Marija’s fork hovered. Goran added, “No pressure,” but kept watching her face as she tried to answer. When she paused, he said, “I’m genuinely asking,” and glanced at another coworker as if inviting an audience. Marija said, “I don’t want to get into it,” and Goran responded, “Sure,” then added, “It’s just surprising when adults base decisions on that,” still sounding mild. He took a sip of wine and said, “Anyway, tell us about your parish work,” while Marija stared at her plate and the host stood to clear dishes."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "When visiting a home, the guest recognizes that hosting may involve close family members and treats each helper politely as part of the household network.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Josip Marušić",
+        "story": "Josip visited his friend Petar’s family in Zadar for a casual lunch, and the apartment was busy with people moving between the kitchen and the balcony. Petar opened the door and said, “Come in,” and Josip stepped inside, taking off his shoes. In the hallway, Petar’s mother appeared with a dish towel and said, “Dobar dan.” Josip replied, “Dobar dan,” and shook her hand. Petar’s sister carried a tray of glasses past them, and Josip stepped aside and said, “Hvala,” as she passed. When Petar’s father came out with a bowl of salad, Josip nodded and said, “Dobar dan, gospodine,” then offered, “Do you want me to take that to the table?” The father handed it over, and Josip carried it carefully to the dining table. In the kitchen, Josip noticed Petar’s grandmother stirring a pot and said, “Trebate li pomoć?” She shook her head, smiling, and Josip said, “Okay,” then set out plates where Petar pointed. During the meal, Josip addressed each person directly—“Could you pass the bread, please?”—and after lunch he carried a stack of plates to the sink and rinsed them while Petar’s sister dried and placed them in the cupboard."
+      }
+    },
+    "non_action": "When visiting a home, the guest ignores family members who help host and treats them like servants rather than relatives.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Krešimir Pavišić",
+        "story": "Krešimir came to his friend’s home in Split for dinner and greeted only his friend, stepping past the doorway without looking at anyone else. His friend’s mother stood in the hall and said, “Dobro došli,” but Krešimir walked by and said, “Where do I sit?” without answering her. In the dining room, the friend’s sister carried plates to the table. Krešimir pointed at the water jug and said, “Fill this,” as if giving an instruction. The sister paused and then picked it up. When the mother brought a tray of food, Krešimir stayed seated and said, “Put it here,” tapping the table. The mother set the tray down, and Krešimir immediately asked, “Do you have hot sauce?” The sister went back to the kitchen, and Krešimir called after her, “And bring more bread.” During the meal, he spoke only to his friend, ignoring the mother’s questions about his work. When the father offered him a drink, Krešimir answered without making eye contact. After dinner, the sister began clearing plates, and Krešimir pushed his plate toward the edge and said, “Take this,” then leaned back and started scrolling on his phone while the family moved around him."
+      }
+    },
+    "principled_action": "Because the guest is unsure who is hosting, the guest greets everyone warmly and follows the lead of the primary host.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Anita Janković",
+        "story": "Anita arrived at her coworker’s home in Rijeka for a small gathering and found several relatives already there, moving between the kitchen and living room. At the door, her coworker Dora hugged her and said, “Come in.” Anita stepped inside and said, “Bok svima,” looking around the room. An older man stood up from the sofa and Anita walked over and said, “Drago mi je,” shaking his hand. Dora’s aunt came out with a bowl and Anita said, “Dobar dan,” and moved her bag away from the hallway so she wouldn’t block anyone. Anita wasn’t sure who had planned the evening, so she watched Dora’s cues. When Dora said, “Put your coat there,” Anita did, and when Dora introduced her to “my cousin Ivana,” Anita said, “Nice to meet you,” and smiled. In the kitchen, Anita asked, “Where should I place the sweets I brought?” and Dora pointed to the counter. Anita followed Dora’s lead as Dora began serving drinks, taking glasses when offered and passing them to others. When Dora’s mother asked, “Do you take coffee?” Anita answered, “Yes, please,” and then stepped aside so Dora could continue arranging plates."
+      }
+    },
+    "surface_action": "The guest thanks family helpers, but the guest later talks about them dismissively as if they were unimportant.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Bruno Šimić",
+        "story": "Bruno visited his friend in Zagreb for a birthday lunch, and the friend’s aunt and older brother helped bring dishes from the kitchen. At the table, Bruno smiled and said, “Hvala,” each time a plate was set down, and he told the aunt, “Thanks for the soup,” while lifting his spoon. When the brother refilled water, Bruno said, “Thanks,” and passed the jug along. After the meal, Bruno helped carry two plates to the counter and said, “Let me know if you need anything.” Later that evening, Bruno met another friend at a bar near Britanski trg. As they talked, Bruno pulled out his phone and said, “The lunch was fine, but it was run by the aunt and some random brother like staff.” His friend asked, “What do you mean?” Bruno replied, “You know, those helpers who hover and clear everything.” He mimicked the brother’s quick movements and laughed. A notification popped up from his host saying, “Thanks for coming,” and Bruno replied with a thumbs-up emoji. He put the phone down and said, “Anyway, the main guy barely did anything,” then took a sip of beer while the music played and his friend looked at the screen of Bruno’s phone."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When selecting a gift, the giver prefers simple and modest items rather than lavish gifts that create pressure.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Branka Knezović",
+        "story": "Branka planned to visit her friend in Osijek to celebrate a new apartment, and she stopped by a small shop to choose something modest. She picked a simple set of tea towels with a plain pattern and a small jar of homemade plum jam from a local stand. At home, she tied them together with twine and wrote a short tag with the friend’s name. When she arrived at the apartment, her friend opened the door with a phone in her hand and said, “Come in.” Branka stepped inside and held out the small bundle. “Just a little for the new place,” she said. Her friend smiled and said, “Hvala,” turning the tea towels over in her hands. Branka added, “I thought you’d use them right away,” and pointed toward the kitchen. The friend placed the gift on the counter and started showing Branka the living room. Branka didn’t mention price or brands; she simply asked, “Where did you get this shelf?” As they talked, Branka offered to help unpack a box. She folded two towels and placed them in a drawer where her friend pointed, then opened the jam and set it beside the bread and cheese the friend had laid out. Branka handed her friend a spoon and said, “Try it,” while the friend sliced bread on a small wooden board."
+      }
+    },
+    "non_action": "When selecting a gift, the giver chooses an extravagant item to show off and make the recipient feel indebted.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Alen Španić",
+        "story": "Alen arrived at a housewarming in Zagreb with a large glossy box and a branded shopping bag that crinkled loudly as he walked into the hallway. He called out, “Where’s the host?” and pushed through the group. When the host came over, Alen lifted the box and said, “I got you something serious,” then placed it on the table so everyone could see. The host said, “Alen, that’s too much,” and Alen replied, “No, no, you need quality,” patting the box. He opened it to reveal an expensive gadget and said, “This is top of the line,” looking around for reactions. The host said again, “I can’t accept this,” but Alen pushed it toward him. “You will,” he said. “I didn’t come here to be refused.” He added, “I expect you to use it,” and laughed as if it were obvious. Guests nearby leaned in, and Alen began listing features and mentioning where he bought it. The host tried to close the box, and Alen held the lid open. “Don’t hide it,” he said, “people should see what a real gift looks like,” while the host’s hands stayed on the edges of the packaging and the conversation around them quieted."
+      }
+    },
+    "principled_action": "Because the giver wants the gesture to feel personal, the giver chooses a small thoughtful gift and includes a sincere note.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Tena Božić",
+        "story": "Tena wanted to congratulate her friend in Split on finishing nursing school, and she chose a small, thoughtful gift rather than something flashy. She bought a simple keychain shaped like a tiny stethoscope and a pocket notebook that could fit in a uniform pocket. At home, she wrote a short note on a card: “For your first shifts—proud of you.” She slipped the card into the notebook and wrapped everything in plain paper. At the celebration in her friend’s parents’ apartment, Tena waited until her friend had a free moment between greetings. She handed over the small package and said, “For you.” Her friend opened it right away, looked at the keychain, and said, “This is perfect.” Tena nodded and said, “And there’s a note inside.” Her friend flipped the notebook open, read quietly, and then said, “Hvala.” Tena didn’t add more; she asked, “Do you want help carrying plates?” and picked up an empty glass from the table. In the kitchen, Tena rinsed the glass and set it in the drying rack, then returned to the living room with a stack of napkins."
+      }
+    },
+    "surface_action": "The giver gives a modest gift, but the giver uses it to imply moral superiority over others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Zvonimir Matić",
+        "story": "Zvonimir attended a birthday dinner in Rijeka and brought a modest gift: a small book by a Croatian author and a simple bar of dark chocolate. When the birthday host opened it, Zvonimir said, “I prefer gifts that mean something,” and watched the other packages on the table. Another guest handed over a scented candle set, and Zvonimir said, “People buy things that just sit around,” with a small smile. The host said, “Thank you,” and placed the book beside the plates. During dinner, Zvonimir pointed at the book and said, “At least this isn’t pointless clutter.” Someone laughed awkwardly and changed the topic to travel. Zvonimir leaned in and said, “It’s not about spending money; it’s about having taste,” and glanced toward the gift bag pile. When a friend asked what he got, Zvonimir answered, “Something thoughtful, unlike most of this,” and tapped the table near the host’s book. The host started cutting cake, and Zvonimir added, “I’m glad I don’t do those showy gifts,” then reached for a plate as the cake slices were passed around."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "Within close circles, the household welcomes an unexpected guest politely and offers a place to sit and a small refreshment.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ana Šarić",
+        "story": "Ana was folding laundry in her apartment in Zagreb when the intercom buzzed. “Ana, it’s Ivica,” a familiar voice said. She hadn’t expected anyone.\n\nShe pressed the button. “Up you go.” A minute later, Ivica stood at her door with his helmet under one arm. “I was in the neighborhood,” he said.\n\nAna opened wider. “Come in.” She stepped aside and pointed toward the living room. “Sit, sit.” Ivica lowered himself onto the sofa, setting his helmet on the floor by the coffee table.\n\nAna disappeared into the kitchen and returned with a small tray: two short glasses and a bottle of mineral water. “Voda?” she asked.\n\n“Može,” Ivica said.\n\nShe poured, then added a small bowl of roasted almonds from a cupboard. “I’ve got these,” she said, placing them within reach. Ivica took one and glanced around at the piles of folded shirts.\n\n“You’re busy,” he said.\n\n“I’m here,” Ana replied, sitting in the armchair with her glass. Her phone lit up with a message, but she left it on the table.\n\nIvica took a sip of water and reached for another almond as Ana leaned forward to set a coaster under his glass."
+      }
+    },
+    "non_action": "Within close circles, the household scolds the unexpected guest harshly and treats the visit as an insult.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Bruno Matić",
+        "story": "Bruno was in his apartment in Rijeka when he heard a knock, sharp and quick. He opened the door to see his cousin Nika standing there with a tote bag.\n\n“Bruno! I was passing by—” she began.\n\nBruno cut her off. “Are you serious?” he said, keeping one hand on the door. “You just show up like this?”\n\nNika’s smile faltered. “I thought—family—”\n\n“No,” Bruno said, voice rising. “This isn’t a bus station. You can’t treat my place like it’s open all day.” He pointed down the hallway behind him. “I have things to do. You’re being disrespectful.”\n\nNika shifted her weight and tightened her grip on the tote strap. “I didn’t mean to—”\n\nBruno shook his head. “Next time, call. Don’t put me in this position.” He didn’t step back to let her in.\n\nFrom inside, a kettle clicked off, and steam hissed faintly. Nika looked past him toward the sound, then back at Bruno.\n\n“Okay,” she said quietly.\n\nBruno pulled the door closer. “Good,” he said, and the latch clicked as he shut it, leaving Nika standing in the stairwell."
+      }
+    },
+    "principled_action": "Because the timing is difficult, the host welcomes the guest briefly and proposes another time while still offering a small drink.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Jelena Horvat",
+        "story": "Jelena was balancing a pot on the stove in her kitchen in Osijek when the doorbell rang. She glanced at the clock, then opened the door to find her friend Tamara with a paper bag in hand.\n\n“Hey! I was nearby,” Tamara said.\n\nJelena smiled and stepped aside. “Come in for a minute.” She led her to the small table by the window. “Sit.” Tamara sat and set the bag on her lap.\n\nJelena went straight to the fridge, pulled out a bottle of water, and poured into a glass. “Here,” she said, placing it in front of Tamara. “I’m in the middle of cooking, so I can’t hang long.”\n\nTamara nodded. “No problem.”\n\nJelena leaned on the counter, still facing her. “Can we do coffee tomorrow morning? Or Saturday?”\n\n“Tomorrow works,” Tamara said.\n\n“Great,” Jelena replied. She reached into a drawer, pulled out a pen, and wrote “10:00” on a sticky note, sliding it toward Tamara. “Just so I don’t forget.”\n\nTamara took a sip of water and picked up the note. Jelena turned back to the stove and stirred the pot once, then returned to the table with her hands still warm from the handle."
+      }
+    },
+    "surface_action": "The host welcomes the guest, but the host repeatedly hints that the guest is inconvenient and makes them feel unwelcome.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Katarina Babić",
+        "story": "Katarina was sorting paperwork on her dining table in Split when her friend Lea knocked unexpectedly. Katarina opened the door with a quick smile. “Lea! Come in,” she said, stepping back.\n\nLea walked in and looked around. “I was nearby and thought—”\n\nKatarina waved toward the sofa. “Sit, sit.” She went to the kitchen and returned with a small cup of coffee and a glass of water. “Here,” she said, placing them down.\n\nLea took the cup. “Thanks.”\n\nKatarina sat on the edge of a chair, glancing at the scattered papers. “It’s just… I’m drowning in this stuff today,” she said, tapping a stack with her finger. Her phone buzzed, and she checked the screen. “And I have a call in, like, twenty minutes.”\n\nLea nodded and held the cup with both hands. “I can be quick.”\n\n“Yeah,” Katarina said, smiling again. “I mean, it’s fine. Just bad timing.” She stood up, straightened a pile of envelopes, then sat back down. “Did you need something specific?”\n\nLea set the cup down carefully. “No, just wanted to say hi.”\n\nKatarina glanced at the clock above the TV and reached for her phone again, turning it face up on the table."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "When scheduling meetings, the organizer considers that many people return home for lunch and avoids booking important meetings during that midday rhythm when possible.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ante Kralj",
+        "story": "Ante managed schedules for a small engineering team in Zagreb, and he kept a shared calendar open on his second monitor. On Monday morning he needed to set a quarterly planning meeting with six people and an external partner. He scanned the week and saw open blocks around noon, then shifted his cursor away from them.\n\nHe called across the room, “Quick question—does 13:30 or 15:00 work better for everyone?”\n\nMartina answered without looking up, “After lunch, please.” Another colleague raised a thumb for 15:00.\n\nAnte typed “15:00–16:00” and sent the invite, adding an agenda and a note: “We’ll keep this focused; materials attached.” He avoided the 12:00–13:00 window and placed shorter internal check-ins at 10:30 instead.\n\nOn the day, people drifted back to the office after lunch carrying takeaway containers and coffee cups. At 14:50, Ante walked into the meeting room early, set out a whiteboard marker, and tested the video link for the partner.\n\nAt 15:00, the team filed in, and Ante clicked “Start meeting” on the call as the last person closed the door."
+      }
+    },
+    "non_action": "When scheduling meetings, the organizer ignores the midday lunch rhythm and criticizes coworkers for stepping away for lunch.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Maja Zorić",
+        "story": "Maja coordinated meetings for her office in Split and sent out a calendar invite for an important client review at 12:15. Within minutes, two coworkers replied, “Can we move it?” Another wrote, “That’s lunch.”\n\nMaja walked into the open-plan area holding her laptop. “Why is everyone acting like lunch is sacred?” she asked. “It’s just food.”\n\nHer colleague Ivica said, “People go home, Maja. We planned around it.”\n\nMaja shook her head. “Then don’t,” she replied, tapping the calendar invite. “The client is free at 12:15, so that’s when we meet.”\n\nAt 12:10, the kitchen was quiet and several desks were empty. Maja sat in the meeting room and messaged the group: “Where are you? We start in five.”\n\nAt 12:18, two people rushed in with jackets half on. Maja pointed at the clock on the wall. “Unbelievable,” she said. “You can eat later.”\n\nDuring the call, one coworker kept glancing at his phone and the door. Maja interrupted him mid-sentence. “Focus,” she said.\n\nWhen the client finally disconnected, Maja closed her laptop and added, “Next time, prioritize work over lunch,” as she stood up and left the room."
+      }
+    },
+    "principled_action": "Because the meeting must occur at midday, the organizer keeps it short, communicates early, and confirms availability to reduce disruption.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Goran Jelić",
+        "story": "Goran needed to get a contract detail confirmed with a supplier, and the only slot they offered was 12:10 on Thursday. He opened the team calendar in his Zagreb office and saw the midday block was usually quiet.\n\nHe sent a message to his colleagues early that morning: “Supplier can only do 12:10. I’ll keep it to 15 minutes. Are you available?” He waited for replies before sending the invite.\n\nMartina responded, “I can join, but I’ll be stepping out at 12:30.” Another wrote, “Okay, but please short.”\n\nGoran scheduled it as 12:10–12:25 and added in the description: “15 min hard stop; two questions only.” He attached the draft clause and highlighted the exact line to review.\n\nAt 12:08, he opened the video call and checked his notes. When Martina joined, she said, “I’m here.”\n\nGoran nodded. “We’ll do this fast.” When the supplier connected, Goran asked the first question, listened, then moved to the second without small talk.\n\nAt 12:24, he said, “That’s all from us,” ended the call, and immediately emailed the supplier a one-line confirmation of what they agreed.\n\nHe stood up, grabbed his phone, and walked toward the elevator as Martina closed her laptop."
+      }
+    },
+    "surface_action": "The organizer avoids midday meetings, but the organizer uses the schedule to exclude certain colleagues from participation.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Dora Milas",
+        "story": "Dora handled project coordination for a team in Zagreb and was known for keeping the calendar tidy. She told everyone, “No important meetings at noon,” and she usually scheduled discussions at 9:30 or 15:30.\n\nWhen a decision came up about assigning a high-visibility client account, Dora opened the calendar and chose a time slot at 13:05 on Friday, right after lunch, but she labeled it as a “quick sync” and only invited two people she wanted on her side. She left out Ivana, who often ate at home across town.\n\nIvana saw the meeting afterward in the notes folder and walked to Dora’s desk. “When did you discuss the account assignment?” she asked.\n\nDora smiled slightly. “We avoid midday meetings,” she said, pointing at the calendar. “It was right after lunch, very short. You must have been away.”\n\nIvana frowned. “I wasn’t invited.”\n\nDora clicked through her sent invites. “It was last-minute. People who were available joined,” she said.\n\nLater that afternoon, Dora sent a company-wide update: “Client lead assigned—thanks to those who joined the quick sync.” She attached the decision summary and closed her laptop as Ivana stood reading the message on her screen."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "If the war is discussed, the speaker stays well-informed, speaks with heightened sensitivity, and avoids sensational details.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Katarina Knezović",
+        "story": "Katarina sat with her uncle and his friend at a quiet café in Vukovar after visiting the riverside. The conversation stayed on everyday topics until her uncle mentioned an anniversary event in town.\n\nKatarina set her cup down and spoke softly. “I saw the program posted by the memorial center,” she said. “They listed the schedule and the names of the speakers.”\n\nHer uncle nodded. “You read it?”\n\n“Yes,” she replied. “I also read a few interviews from people who lived here, and I checked the dates so I don’t mix things up.” She paused, watching his face. “If you’d rather not talk about it, we can leave it.”\n\nHer uncle looked out toward the river. “We can talk a little,” he said.\n\nKatarina asked, “Do you want to tell me what the day is like for you now?” She kept her hands on the table, palms down.\n\nHe spoke for a while, and she didn’t interrupt. When he stopped, she nodded once and said, “Thank you for telling me.”\n\nThe waiter arrived with the bill, and Katarina slid it toward her uncle, then reached for her wallet as he shook his head."
+      }
+    },
+    "non_action": "If the war is discussed, the speaker makes uninformed claims, assigns blame carelessly, and treats the topic as entertainment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ryan Scott",
+        "story": "Ryan, visiting Croatia, sat with two locals at a bar in Zagreb and started talking after his second beer. Someone mentioned Vukovar as a place worth seeing, and the table went quiet.\n\nRyan grinned. “Oh, that war stuff,” he said. “I watched a documentary once. Pretty wild. So who was the bad guy?”\n\nA woman named Maja stared at him. “It’s not like that,” she said.\n\nRyan waved his hand. “Come on, it’s history,” he replied. “From what I remember, one side started it and the other got revenge. It’s basically the same everywhere.” He leaned in like he was telling a story. “I bet the battles were insane. I love those gritty details.”\n\nMaja’s friend Ivica said, “Stop.”\n\nRyan continued anyway. “Honestly, people should just get over it,” he said, laughing a little. “My country has problems too. But you don’t see us making a big deal.”\n\nMaja pushed her chair back slightly, her glass still full. Ivica put money on the table without finishing his drink.\n\nRyan shrugged. “What? I’m just saying.” He pulled out his phone and searched for videos, turning the screen toward them.\n\nIvica stood up, and Maja followed, leaving Ryan alone at the table with his phone still playing a clip."
+      }
+    },
+    "principled_action": "Because the speaker is not informed enough, the speaker acknowledges limits, asks respectful questions, and changes the topic if discomfort appears.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Elena Rossi",
+        "story": "Elena, an Italian researcher attending a workshop in Zagreb, joined a small group for dinner near the train station. Between courses, someone mentioned a relative who had lived through the war.\n\nElena set her fork down. “I want to be careful,” she said. “I don’t know enough about what happened here to speak about it.”\n\nThe man across from her, Željko, nodded and continued briefly. Elena listened without interrupting. After a moment she asked, “If it’s okay to ask, how is it remembered in your family now?”\n\nŽeljko answered in a few sentences, then stopped. His eyes shifted toward his plate.\n\nElena nodded. “Thank you,” she said. “We don’t have to go further.” She reached for her glass and took a small sip, then turned slightly toward another person at the table. “By the way, tomorrow’s session—are you presenting in the morning or afternoon?”\n\nThe group picked up the new topic quickly. Someone pulled out a conference badge to check the schedule, and Elena leaned in to read the times.\n\nWhen the waiter brought dessert menus, Elena passed one to Željko first and asked, “Do you recommend anything here?”"
+      }
+    },
+    "surface_action": "The speaker sounds sensitive in the moment, but the speaker later repeats the conversation as gossip for attention.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nina Petrović",
+        "story": "Nina sat with friends at a café in Zagreb when one of them, Marija, mentioned her grandfather in the context of the war. The table quieted.\n\nNina leaned forward and lowered her voice. “I’m so sorry,” she said. “You don’t have to share anything you don’t want to.”\n\nMarija nodded and spoke briefly, keeping her eyes on her cup. Nina listened, hands folded, and said, “Hvala što si rekla,” when Marija finished.\n\nA few minutes later, Nina steered the conversation back to work schedules and weekend plans. They paid and stepped outside into the cold, pulling on scarves.\n\nThat evening, Nina met a different group of acquaintances at a bar near Savska. As soon as they sat down, Nina opened with, “You won’t believe what I heard today,” and she leaned in.\n\nOne of the newcomers asked, “What?”\n\nNina repeated Marija’s story with details about where it happened and what her grandfather did, imitating Marija’s soft voice for a moment. “She told us at the café,” Nina said, glancing around to see reactions.\n\nA friend raised their eyebrows and asked, “Who said that?”\n\nNina took a sip of her drink and said Marija’s name again, then unlocked her phone to type a message about it."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "For ordinary gifting, the giver uses odd-numbered flower bouquets, and the giver reserves even-numbered bouquets for funerary contexts.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ivica Tomljenović",
+        "story": "Ivica stopped at a flower kiosk near the main square in Zagreb on his way to a friend’s engagement party. The florist showed him a bucket of fresh tulips and asked, “How many?”\n\nIvica glanced at the wrapping paper options. “Nine,” he said.\n\nThe florist counted out nine stems, trimming the ends with quick snips. She wrapped them in brown paper and tied a string around the middle. Ivica paid, then carried the bouquet upright on the tram so the petals wouldn’t crush.\n\nAt the party, he rang the bell and stepped into the hallway where coats were piled on a bench. His friend Sanja opened the door, smiling wide. “Ivica!”\n\nHe held the bouquet out. “For you,” he said.\n\nSanja took the flowers and lifted them to her face, then called toward the living room, “Look!” People turned from the table where plates of pršut and cheese were laid out.\n\nIvica took off his jacket and hung it on a hook. Someone handed him a glass of sparkling wine, and he raised it slightly toward Sanja and her fiancé.\n\nSanja walked to the kitchen and set the bouquet in a tall vase, spreading the nine tulips so they fanned out evenly."
+      }
+    },
+    "non_action": "For ordinary gifting, the giver uses even-numbered bouquets and jokes about funerals while presenting the flowers.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Zvonimir Kušan",
+        "story": "Zvonimir grabbed flowers on the way to a friend’s birthday in Zagreb, not paying much attention at the kiosk. “Give me eight roses,” he said, and the florist wrapped them quickly.\n\nHe arrived at Petra’s apartment and rang. Petra opened the door to a room full of balloons and music. Zvonimir thrust the bouquet forward. “Here,” he said.\n\nPetra looked at the roses and hesitated. “Oh… thanks.”\n\nZvonimir laughed. “Eight! Like at a funeral,” he joked, wiggling his eyebrows. “Hope you like it.”\n\nPetra’s friend near the hallway stopped mid-step. Petra’s hand tightened around the paper wrap. “Okay,” she said, voice flat.\n\nZvonimir kept going. “I mean, if you ever need practice,” he said, chuckling as he walked inside. “At least the flowers are ready.”\n\nPetra turned the bouquet slightly as if checking the count again. She didn’t place them in a vase right away; she held them against her hip while she watched Zvonimir move toward the snack table.\n\nSomeone turned the music down, and Petra set the bouquet on a side chair, still wrapped, then walked to the kitchen without speaking."
+      }
+    },
+    "principled_action": "Because the bouquet is pre-arranged, the giver adjusts the bouquet to an odd number before presenting it for a non-funeral occasion.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Dijana Lovrić",
+        "story": "Dijana picked up a pre-arranged bouquet from a florist in Osijek for her friend’s new-baby visit. The bouquet was already wrapped tightly, with mixed flowers and greenery, and a small tag that listed the contents. As she waited at the counter, she noticed the florist had used an even number of main blooms.\n\nDijana leaned in and said quietly, “Can we make it an odd number?”\n\nThe florist nodded without fuss. She loosened the wrap, slid one extra stem from a nearby bucket, and tucked it into the center so the bouquet looked balanced. Then she rewrapped it and tied the ribbon again.\n\nDijana carried it to her friend Lucija’s apartment, ringing the bell with her elbow because her hands were full. Lucija opened the door holding the baby against her shoulder.\n\nDijana stepped in and presented the bouquet. “For you,” she said, keeping it away from the baby’s face.\n\nLucija smiled and took it. “Ah, beautiful.” She handed the baby to her partner for a moment and walked the bouquet to the kitchen.\n\nDijana followed, watching Lucija fill a vase with water. Lucija adjusted the stems and then turned the bouquet slightly so the flowers faced the room."
+      }
+    },
+    "surface_action": "The giver follows the odd-number rule, but the giver uses the ritual knowledge to embarrass someone who made a different choice.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Boris Lončar",
+        "story": "Boris joined a small birthday dinner in Zagreb at a friend’s apartment and arrived with an odd-numbered bouquet of seven lilies wrapped in white paper. He handed them to the host, Nina, who thanked him and placed them near the sink.\n\nA few minutes later, another guest, Ema, walked in holding a bouquet of ten roses. She smiled and said, “For you, Nina.”\n\nNina accepted them and set them beside the lilies. Boris leaned over, counting the roses with his eyes. “Ten?” he said, loud enough for the hallway to hear.\n\nEma blinked. “Yes, ten.”\n\nBoris let out a short laugh. “That’s for funerals,” he said, shaking his head. “Did you not know that?” He glanced toward the others as they took off their coats.\n\nEma’s hand stayed on her bag strap. “I just bought what the florist gave me,” she said.\n\nBoris stepped closer to the roses and pointed at the stems. “You should fix it,” he said. “Otherwise it’s… you know.”\n\nNina reached for the roses and shifted them behind the lilies, half hidden. Someone called from the kitchen, “Dinner’s ready,” and Boris repeated, “Seven is the safe number,” as he walked toward the table."
+      }
+    }
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When the protagonist needs to critique an idea, the protagonist frames it as a constructive suggestion and offers a practical alternative.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tamara Milošević",
+        "story": "Tamara sat in a meeting room in Belgrade with a flip chart propped against the wall. Her teammate Dejan had drawn a plan for a customer sign-up flow, arrows looping between boxes.\n\nDejan tapped the chart. “So we ask for everything on the first screen—name, address, ID number—then they’re done.”\n\nTamara looked at the chart for a moment and then said, “I like that it’s straightforward. Can I suggest one adjustment?”\n\nDejan nodded. “Sure.”\n\nTamara stood and pointed to the first box. “If we ask for ID number immediately, some people may stop there,” she said, keeping her tone even. “What if we move that to step two after they confirm email? We can still collect it, but we’ll keep the first screen lighter.”\n\nDejan frowned slightly. “But we need it.”\n\n“We do,” Tamara replied. She picked up a marker and drew a second box labeled “Verify email,” then a third labeled “Add ID.” “This way, we keep compliance, and we reduce the drop-off at the start.”\n\nDejan leaned in. “Okay, and we can auto-save after step one?”\n\n“Yes,” Tamara said. “And we can add a short line under the ID field explaining why it’s required.”\n\nDejan nodded and said, “Let’s try it,” while Tamara erased the original arrow and rewrote it with the new sequence."
+      }
+    },
+    "non_action": "When the protagonist needs to critique an idea, the protagonist complains broadly, insults the work, and blames the other person.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Bojan Pavlović",
+        "story": "Bojan stood behind a conference table in a small office in Novi Beograd while his colleague Ivana presented a draft campaign plan on her laptop. “We’ll start with short videos, then—” she said.\n\nBojan interrupted with a loud exhale. “This is a mess,” he said.\n\nIvana’s hand paused on the trackpad. “Which part?”\n\n“All of it,” Bojan replied, waving toward the screen. “It’s amateur. Honestly, I don’t know how you thought this would work.”\n\nIvana blinked. “I followed the brief you sent—”\n\n“Don’t put this on me,” Bojan snapped. “You always do this. You never think ahead.”\n\nIvana’s shoulders stiffened. “I can revise it if—”\n\n“Of course you can revise it,” Bojan said, raising his voice. “You have to. Because this will embarrass us.”\n\nA teammate at the end of the table shifted in his chair and stared at his notebook. Ivana clicked to the next slide, but Bojan leaned over and shut the laptop halfway. “Stop. Just stop,” he said.\n\nIvana pulled the laptop back toward her, her fingers tight on the edge. Bojan tossed his pen onto the table and said, “Start over,” while he walked to the window and turned his back to the group."
+      }
+    },
+    "principled_action": "When the protagonist must raise a serious concern quickly, the protagonist states the problem clearly, keeps a respectful tone, and focuses on solutions rather than fault.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Vuk Popović",
+        "story": "Vuk stepped into a busy open-plan office in Belgrade and saw his teammate Jelena about to send a file to a client. “One second,” he said, holding up his hand.\n\nJelena looked up. “What’s up? I’m about to email them.”\n\nVuk moved closer and pointed at the spreadsheet on her screen. “There’s a serious issue in the totals,” he said calmly. “The VAT column is calculating from the wrong base, so the final price is off.”\n\nJelena’s eyes widened. “Off by how much?”\n\n“About eight percent on these items,” Vuk replied, tapping two rows. “It’s not your fault—we’ve had two versions of the template floating around. But we need to fix it before it leaves the office.”\n\nJelena pulled her hand away from the mouse. “Okay. What do we do?”\n\nVuk said, “Let’s switch to the correct template, copy the line items, and re-run the totals. I can do the formula check while you draft a note to the client that we’re sending an updated quote in ten minutes.”\n\nJelena nodded and opened a new file. “Send me the template link,” she said.\n\nVuk forwarded it, then stood beside her and said, “After we send this, I’ll message the team to archive the old version so it doesn’t happen again.”\n\nJelena exhaled, pasted the rows into the new sheet, and watched the numbers change as Vuk corrected the formula."
+      }
+    },
+    "surface_action": "When the protagonist critiques an idea, the protagonist uses polite words but delivers the message in a way that embarrasses the other person and signals contempt.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Katarina Ristić",
+        "story": "Katarina joined a team meeting in a glass-walled room in Novi Sad where everyone could see inside from the hallway. Milan stood at the screen, presenting a new layout for the website.\n\nKatarina smiled and said, “Thank you for putting this together, Milan,” in a bright voice that carried. Then she pointed at the slide. “I just have a small suggestion.”\n\nMilan nodded. “Sure.”\n\nKatarina turned slightly toward the rest of the team. “So, this header,” she said, “is very… bold.” She paused and looked at Milan. “It’s not really aligned with basic design principles, but it’s a start.”\n\nMilan’s ears reddened. “I can adjust the spacing,” he said.\n\nKatarina kept smiling. “Yes, and the color choice is interesting,” she added, glancing around as if inviting agreement. “Maybe next time we can avoid something that screams at the user.”\n\nA teammate shifted in his seat and looked down at his laptop.\n\nMilan tried to explain. “I chose it because—”\n\nKatarina cut in softly, “Of course you did,” and clicked to the next slide herself. “Let’s move on. We can fix this later.”\n\nMilan stepped back from the screen and folded his hands while Katarina spoke to the group about alternatives, and the meeting continued with Milan standing silent near the wall."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In public in Serbia, the protagonist dresses neatly and avoids overly casual clothing when the setting calls for a presentable appearance.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Jovana Stevanović",
+        "story": "Jovana stood in front of the mirror in her apartment in Novi Sad, checking the collar of her white blouse. She had been invited to a small opening at a gallery near Dunavska, and she laid out her clothes on the bed: dark trousers, a simple belt, and a wool coat.\n\nHer friend Anja texted, “I’m coming in sneakers.”\n\nJovana typed back, “Sneakers are fine if they’re clean,” then slipped into her own flats and brushed lint from her sleeve.\n\nOutside, she walked past the cathedral and into the gallery’s warm light. People stood in small clusters holding plastic cups of wine. Jovana greeted the host with a handshake. “Dobro veče,” she said.\n\nThe host smiled. “Dobro došli.”\n\nJovana hung her coat on a rack and smoothed her blouse again before stepping toward a framed photograph. She kept her phone in her bag and listened as a man beside her described the artist’s process.\n\nWhen Anja arrived, she had on clean sneakers and a dark jacket. Jovana leaned close and said, “Looks good,” then nodded toward the wall. “Come see this one.”\n\nThey moved slowly along the line of photos, pausing as others stepped aside, and Jovana adjusted her scarf when she felt it slip."
+      }
+    },
+    "non_action": "In public in Serbia, the protagonist shows up in overly casual clothing for a situation that expects neat dress and brushes off others’ discomfort.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Uroš Milićević",
+        "story": "Uroš showed up to a small business lunch in central Belgrade wearing wrinkled gym shorts, a loose tank top, and flip-flops, even though the restaurant had white tablecloths and a host stand. At the entrance, the host looked him up and down.\n\n“Reservation?” the host asked.\n\n“Yeah, under Uroš,” he said, chewing gum.\n\nHis colleagues were already seated in collared shirts and jackets. One of them, Marina, glanced at his outfit and then quickly looked away.\n\nMarina leaned over and whispered, “You didn’t have anything else?”\n\nUroš shrugged and dropped into a chair. “It’s hot. Who cares?” he said, stretching his legs under the table.\n\nA waiter approached with menus and paused for a second when he saw Uroš’s flip-flops. Uroš waved the menu away. “Just bring me whatever,” he said.\n\nMarina cleared her throat. “We’re meeting the client in ten minutes,” she said quietly.\n\nUroš laughed. “They can handle my legs,” he replied, tapping his shorts.\n\nWhen the client arrived, Uroš stayed slouched, one arm over the chair back. The client’s eyes flicked down to Uroš’s feet and then back up, and Uroš grinned and said, “Let’s get this over with,” as the waiter poured water into glasses."
+      }
+    },
+    "principled_action": "When the protagonist lacks suitable clothes due to travel or an emergency, the protagonist chooses the cleanest available outfit and shows extra politeness to convey respect through behavior.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Milan Todorović",
+        "story": "Milan arrived in Belgrade with his suitcase missing, and by the time he checked into a small hotel near Terazije, his meeting was in two hours. He opened his carry-on on the bed: one clean T-shirt, dark jeans, and a simple sweater.\n\nHe held the T-shirt up, checked it for stains, and then ironed the sweater quickly with the hotel’s small iron. He wiped his shoes with a damp tissue in the bathroom and combed his hair with water from the tap.\n\nAt the office building in Novi Beograd, he paused at the reception desk. “Dobar dan,” he said, smiling. “I’m Milan Todorović. Thank you for having me.”\n\nThe receptionist pointed him toward the elevator. Milan nodded. “Hvala.”\n\nIn the meeting room, two counterparts stood to greet him. Milan shook hands firmly and said, “I appreciate you fitting me in today. My luggage didn’t arrive, so I’m in my best available outfit, but I’m ready to work.”\n\nOne of them, Jelena, said, “No problem.”\n\nMilan opened his notebook and leaned forward as they started. When someone brought coffee, he accepted it with both hands. “Thank you,” he said, then asked, “Can we review the agenda so we use the time well?”\n\nHe listened closely, took notes, and waited for pauses before speaking. At the end, he stood, shook hands again, and said, “Hvala vam,” before stepping out into the corridor."
+      }
+    },
+    "surface_action": "In public in Serbia, the protagonist dresses neatly but then acts dismissive and rude, signaling that the appearance is only for show.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Teodora Lukić",
+        "story": "Teodora arrived at a restaurant in Novi Sad wearing a crisp blazer, tailored pants, and polished boots. She checked her reflection in the glass door and walked inside as if she owned the space.\n\nThe host smiled. “Dobro veče. Do you have a reservation?”\n\nTeodora didn’t answer right away, scanning the room. “Obviously,” she said, then tossed her name quickly. The host led her to a table where two partners were already seated.\n\nTeodora sat without greeting them and placed her phone on the table face up. One partner, Goran, extended his hand. Teodora glanced at it and then shook briefly. “Yeah, hi,” she said.\n\nA waiter poured water and asked, “Would you like to hear the specials?”\n\nTeodora waved him off with a sharp flick of her fingers. “No. Just bring me something decent,” she said, not looking up.\n\nGoran started explaining a proposal. Teodora leaned back and interrupted. “That won’t work,” she said, then checked a message and smirked at her screen.\n\nWhen the waiter returned, she snapped, “Finally,” and slid her glass toward him without a word.\n\nHer outfit stayed perfectly neat as she spoke in short cutting sentences, and when a partner tried to finish a point, Teodora lifted her palm like a stop sign and said, “I’m not here for a lecture,” while the waiter set down bread and quietly stepped away."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "At a Serbian dinner, the protagonist expects multiple courses and eats at a steady pace that matches the group’s meal flow.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nevena Ilić",
+        "story": "Nevena arrived at her aunt’s house in Čačak just before dusk, carrying a small box of pastries. In the dining room, the table was already set with small plates and a basket of bread. Her aunt, Rada, said, “Sit, we’ll start with a little meze.”\n\nNevena sat and waited as plates of cheese, cured meat, and sliced tomatoes were placed around the table. She took a small portion, ate slowly, and passed the plate to her cousin when he reached.\n\nRada brought out a bowl of soup next. “Hot, careful,” she said.\n\nNevena lifted her spoon and matched the pace of the others, pausing when conversation picked up. Her uncle poured water and said, “Eat, eat.”\n\nAfter the soup, a tray of roasted meat and potatoes arrived, followed by salad. Nevena served herself, then took bites in rhythm with the table, setting her fork down when someone started telling a story.\n\nWhen Rada disappeared and returned with a dish of peppers and another plate of bread, Nevena shifted her plate to make space without hurrying. Later, dessert came—walnut cake cut into neat squares—and Nevena waited until everyone had a piece before starting.\n\nWhen she finished, she placed her fork on the side of her plate and took a sip of water as her cousin refilled the bread basket and Rada asked who wanted another slice."
+      }
+    },
+    "non_action": "At a Serbian dinner, the protagonist rushes through courses, demands everything at once, and acts irritated by the multi-course structure.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Stefan Babić",
+        "story": "Stefan sat at a family dinner table in Belgrade and looked at the small plates of meze. “Is this it?” he asked, already reaching for bread.\n\nHis host, Aleksandra, said, “We start with this, then soup—”\n\nStefan cut her off. “Can you just bring everything at once?” he said, tapping his fingers on the table. “I’m hungry. I don’t have time for these tiny steps.”\n\nAleksandra blinked. “The soup is on the stove.”\n\nStefan sighed dramatically. “Why do you do this? Just put the main dish out,” he said.\n\nWhen the soup arrived, Stefan gulped it quickly and pushed the bowl away. “Next,” he said, looking toward the kitchen.\n\nAleksandra’s brother carried in a tray of roasted meat. Stefan immediately demanded, “Where’s the salad? Where are the sides? This is taking forever.”\n\nSomeone at the table started to speak, but Stefan interrupted, “I can’t eat like this. It’s too slow.”\n\nHe shoveled food onto his plate and ate fast, chewing with his mouth open. When Aleksandra began clearing plates for the next course, Stefan leaned back and said, “Finally,” in a sharp tone.\n\nAs dessert was brought out, Stefan stood up and said, “I’m done,” pushing his chair back noisily while others were still eating the main course, and he walked into the living room with his phone in his hand."
+      }
+    },
+    "principled_action": "When the protagonist must leave early, the protagonist informs the host in advance, eats what they can respectfully, and thanks the host before departing.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ksenija Živković",
+        "story": "Ksenija arrived at a dinner in Novi Sad and greeted her host, Zoran, in the hallway. Before taking off her coat, she said, “Zorane, hvala for inviting me. I want to tell you up front—I have to leave around nine for a night shift.”\n\nZoran nodded. “No problem, you came, that’s what matters.”\n\nAt the table, the first plates came out—meze with cheese, olives, and peppers. Ksenija took a modest portion and ate slowly while talking with the others. When soup arrived, she finished it and set her spoon down neatly.\n\nZoran brought in the main dish, and Ksenija served herself a small amount. “This smells great,” she said, and ate at an even pace, pausing to listen.\n\nAs the next dish was being prepared, Ksenija checked the time quietly. At 8:50 she put down her fork and turned to Zoran. “I’m going to head out soon,” she said.\n\nZoran stood. “Already?”\n\nKsenija nodded and smiled. “I told you. Thank you for the food and for having me.” She shook hands with Zoran and his wife, then said to the table, “Hvala svima,” and picked up her coat.\n\nAt the door, Zoran handed her a small container. Ksenija accepted it with both hands, said, “Hvala,” and stepped into the stairwell while voices from the dining room continued behind her."
+      }
+    },
+    "surface_action": "At a Serbian dinner, the protagonist follows the courses but makes exaggerated impatient gestures that pressure others to hurry.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Miloš Krstić",
+        "story": "Miloš attended a dinner at his friend’s home in Belgrade and sat at the table as plates of meze were passed around. He took some cheese and bread, but kept glancing at the kitchen doorway.\n\nWhen the host, Sonja, said, “Next is soup,” Miloš nodded and began bouncing his knee under the table. He drummed his fingers lightly on his water glass.\n\nSoup arrived, and Miloš finished his bowl quickly, then placed his spoon down with a clink and stared at the empty space in front of him. He looked at his watch, then lifted his eyebrows toward Sonja as if asking without words.\n\nSonja came in with the main dish and said, “Evo, polako.”\n\nMiloš served himself and ate, but kept making small huffing sounds through his nose. When someone told a story, Miloš smiled briefly, then checked the time again and tapped the table twice.\n\nAs Sonja cleared plates for the next course, Miloš leaned forward and asked, “Is there more coming?” in a tone that pushed the question.\n\nSonja nodded. “Yes, salad and then dessert.”\n\nMiloš nodded back and kept eating, but every few minutes he tilted his head toward the kitchen and made a little circular motion with his hand, like a silent “go on.”\n\nWhen dessert finally appeared, Miloš immediately picked up his fork and started eating before everyone had been served, and Sonja reached back toward the tray to cut another piece."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When attending a family slava in Serbia, the protagonist greets everyone with “Srećna slava” and participates respectfully in the celebration.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Milena",
+        "story": "Milena arrived at her colleague’s family apartment in Belgrade on the afternoon of their slava. Shoes were lined near the door, and the table was set with candles and plates. As she stepped inside, she greeted the first group in the hallway. \"Srećna slava,\" she said, looking at the host and then at his mother. The host’s mother replied, \"Hvala, izvoli.\" Milena repeated, \"Srećna slava,\" to the uncle who came from the living room, then to an aunt adjusting a tray. She handed over a small bag with sweets and moved toward the table when invited. During the meal, Milena waited for others to start serving, then took a spoonful of soup and passed the bread basket along. When a toast began, she lifted her glass and followed the timing of the room. Later, she helped clear a few plates into the kitchen, stacking them near the sink when the host’s sister pointed to the counter. The candle flame flickered as someone opened a window for air."
+      }
+    },
+    "non_action": "When attending a family slava in Serbia, the protagonist refuses the greeting custom, mocks the rite, and disrupts the gathering.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Filip",
+        "story": "Filip walked into his friend’s family slava in a Novi Sad apartment and glanced at the crowded table. The host’s father approached and said, \"Dobrodošao.\" Filip didn’t answer with the greeting. He smirked and said, \"I’m not doing that ‘Srećna slava’ thing. It’s weird.\" Someone near the doorway paused with a coat in hand. Filip pointed at the candle and the bread on the table. \"So what is this, a performance?\" he said, laughing. The host’s sister said, \"Molim te,\" but Filip kept talking, louder: \"You all act like this is some ancient ritual—come on.\" He stepped between people without waiting and nudged a chair to squeeze through, bumping a tray slightly. A plate rattled. The host moved closer and said, \"Ajde, sedi.\" Filip waved him off and called across the room, \"Don’t worry, I’ll survive without your blessings.\" Conversations stalled, and someone turned the music down. Filip grabbed a canapé from the nearest plate and ate it standing by the table."
+      }
+    },
+    "principled_action": "When the protagonist mispronounces the greeting, the protagonist tries sincerely, smiles politely, and follows the family’s lead to show respect for the occasion.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Lazar",
+        "story": "Lazar was invited to a slava in Kragujevac by his neighbor. At the door, he saw relatives gathered in the hallway, coats draped over chairs. He tried the greeting and said, \"Srećna… slova,\" stumbling over the last word. The host’s aunt smiled and corrected him softly, \"Slava.\" Lazar nodded quickly and repeated, \"Srećna slava,\" and gave a small smile. He said it again to the host’s father and then to a cousin in the living room, keeping his voice low and steady. When people moved toward the table, Lazar waited for space, then followed behind them. He watched how others served themselves and did the same, taking a small portion first. During a toast, he lifted his glass when others did and looked toward the speaker. When plates needed moving, he carried two to the kitchen when the host’s sister pointed to the counter. Later, he stood near the doorway as the host brought in another tray and held the door open for her to pass."
+      }
+    },
+    "surface_action": "When attending a family slava in Serbia, the protagonist says “Srećna slava” correctly but then treats the event as a joke and behaves carelessly.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Teodora",
+        "story": "Teodora entered a family slava in a Niš apartment and greeted the host with a bright, \"Srećna slava.\" She repeated it to the host’s mother and to an older uncle near the table. Then she pulled out her phone and whispered to a friend, \"Look at this setup,\" aiming the camera toward the candle and dishes. She stepped closer to the table and nudged a decorative plate to the side to fit herself in the frame. \"This is like a museum display,\" she joked, smiling into her screen. A relative reached for the same spot and had to pause while Teodora adjusted her angle. When a toast started, Teodora lifted her glass and said, \"Živeli,\" then added, \"To surviving family traditions,\" with a little laugh. Someone across the table stopped chewing for a moment. Teodora sat down and swung her chair back, bumping the person behind her lightly. \"Oops,\" she said, still laughing, and reached for a pastry without waiting for it to be offered. The host’s sister picked up the shifted plate and set it back in place."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "When visiting close Serbian friends or family, the protagonist understands that unannounced visits may be welcomed and still checks the timing politely when appropriate.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sanja",
+        "story": "Sanja was in her hometown near Šabac for the weekend and thought of stopping by her aunt’s house. She didn’t plan a formal visit, but she also didn’t want to arrive during lunch prep. Standing outside the gate, Sanja called her aunt. \"Tetka, ja sam u kraju,\" she said. \"Jeste li kući, da svratim na pet minuta?\" Her aunt laughed through the phone. \"Dođi, naravno.\" Sanja walked in, pushed the gate closed, and knocked once on the open doorframe before stepping inside. \"Ćao, tetka,\" she said, then added, \"Ako ste zauzeti, mogu kasnije.\" Her aunt waved a hand toward the living room. \"Ma kakvi, sedi.\" Sanja sat at the table and watched her aunt stir something on the stove. When her cousin appeared in the doorway, Sanja asked, \"Jesam li upala?\" He shook his head and grabbed two cups. They talked for a while, and when Sanja saw her aunt start arranging plates, she stood. \"Neću da vam smetam, idem,\" she said, and slipped on her shoes. Her aunt walked her to the gate and closed it after her."
+      }
+    },
+    "non_action": "When visiting close Serbian friends or family, the protagonist shows up unannounced and demands immediate attention even if the household is busy or uncomfortable.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Uroš",
+        "story": "Uroš drove to his cousin’s apartment in Novi Beograd without calling and buzzed the intercom three times in a row. When the cousin opened, Uroš stepped in quickly, talking before taking off his jacket. \"Evo me, ajde odmah kafa,\" he said, walking straight to the kitchen. The cousin’s partner was on the floor with a toddler, gathering toys into a box. The partner looked up and said, \"Baš sad uspavljujemo.\" Uroš waved his hand. \"Ma pusti, dete će spavati kasnije. Daj ti meni kafu,\" he said, opening a cupboard as if he lived there. The cousin followed him and said, \"Imamo haos, stvarno.\" Uroš sat at the table, drummed his fingers, and said, \"Pa šta, ja sam došao. Ajde, pričaj, šta ima novo?\" The partner carried the toddler toward the bedroom and closed the door carefully. Uroš raised his voice toward the hallway, \"Nemoj da se kriješ, dođi sedi.\" The cousin stared at the kettle, then started filling it with water."
+      }
+    },
+    "principled_action": "When the protagonist is unsure whether a surprise visit is welcome, the protagonist sends a quick message or calls first and accepts a ‘not now’ response graciously.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Jasmina",
+        "story": "Jasmina finished errands in downtown Belgrade and realized she was only a few streets from her friend Mina. She opened her phone and sent a message: \"U blizini sam, jel ti ok da svratim na kratko?\" Mina replied a minute later: \"E, sad baš ne mogu, uspavljujem malog.\" Jasmina typed back right away, \"Važi, nema problema. Čujemo se posle.\" She put her phone in her pocket and didn’t walk toward Mina’s building. Instead, she crossed the street to a small bakery, bought two kifle, and sat on a bench to eat one while watching cars move through the intersection. A few hours later, Mina messaged: \"Sad smo slobodni ako si tu.\" Jasmina answered, \"Sad sam već otišla kući, ali vidimo se sutra.\" The next day, Jasmina texted again and they agreed on a time, and Jasmina arrived at the agreed hour with the other kifla in a paper bag. Mina opened the door and stepped aside to let her in."
+      }
+    },
+    "surface_action": "When visiting close Serbian friends or family, the protagonist arrives without notice and acts friendly, but then complains that the hosts did not reorganize their day around the visit.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ognjen",
+        "story": "Ognjen stopped by his friend’s house in Niš without calling and rang the bell with a grin. When the friend opened, Ognjen hugged him and said, \"E, iznenađenje!\" Inside, the friend’s mother was ironing in the living room, and a pot simmered on the stove. Ognjen sat down and joked with everyone, asking for water and telling a story from work. The friend’s mother kept ironing and said, \"Samo vi pričajte, ja imam još posla.\" After twenty minutes, the friend said, \"Moram do prodavnice i posle da završim nešto.\" Ognjen nodded and stayed, scrolling on his phone while they moved around him. When he finally left, he stepped outside and called another friend. \"Došao sam da ih vidim, a oni nastavljaju kao da nisam tu,\" Ognjen said into the phone. \"Ni kafu nisu skuva­li odmah, sve nešto svoje rade.\" He walked down the stairs still talking, \"Kao da sam gost usput.\" Behind him, the door closed and the sound of the ironing board being folded carried into the hallway."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When visiting a Serbian home, the protagonist chooses a common host gift such as wine or flowers and presents it politely upon arrival.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Katarina Marković",
+        "story": "Katarina stopped at a small flower kiosk near Kalenić pijaca before heading to her friend’s place in Vračar. She chose a bunch of fresh tulips wrapped in brown paper, then added a bottle of red wine from the shop next door.\n\nAt the apartment building, she buzzed the intercom. “Ćao, ja sam,” she said, and climbed to the third floor with the flowers tucked against her coat.\n\nMiloš opened the door, and the smell of roasted peppers drifted out from the kitchen. “Uđi, uđi,” he said.\n\nKatarina stepped onto the mat and held the tulips forward first. “Hvala što ste me pozvali,” she said to Miloš’s mother as she appeared behind him. “Donela sam cveće za vas.”\n\nThen she lifted the wine slightly. “I jedno vino za večeru, ako odgovara.”\n\nMiloš’s mother took the flowers carefully and nodded. “Baš lepo, hvala,” she said, turning to find a vase.\n\nKatarina slipped off her boots, handed Miloš the wine, and followed him toward the dining room as someone called from the kitchen to bring plates."
+      }
+    },
+    "non_action": "When visiting a Serbian home, the protagonist brings an inappropriate item intentionally and jokes about it to make the host uncomfortable.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ognjen Nikolić",
+        "story": "Ognjen arrived at his coworker Dušan’s apartment in Čukarica carrying a crinkly plastic bag. The door opened to warm air and the sound of cutlery.\n\nDušan smiled. “E, stigao si.”\n\nOgnjen held the bag up like a trophy. Inside, a huge, bright neon-green energy drink multipack was visible. “Evo, doneo sam ti nešto baš posebno,” he said, laughing.\n\nDušan blinked and glanced toward the living room where his parents were sitting. “Aha… hvala?”\n\nOgnjen stepped inside and called out loudly, “Ljudi, doneo sam domaćinu poklon—da izdrži celu noć!” He shook the bag so the cans clinked.\n\nDušan’s mother appeared in the doorway of the kitchen, wiping her hands on a towel. Her eyes went from the cans to Ognjen’s face.\n\nOgnjen grinned wider. “Šalim se, naravno. Ko još nosi vino? Ovo je moderna Srbija.”\n\nDušan’s mother pressed her lips together and nodded once without speaking. Dušan took the bag and set it on the floor beside the coat rack.\n\nOgnjen kept chuckling as he walked toward the table, pulling out his phone to record the room."
+      }
+    },
+    "principled_action": "When the protagonist cannot find an appropriate gift, the protagonist brings a simple, respectful alternative and emphasizes gratitude through considerate behavior.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Maja Đorđević",
+        "story": "Maja left work later than planned and realized the shops near her tram stop in Belgrade were closing. The flower stand she usually used had already pulled down its shutters. She stopped at a small bakery that still had lights on and bought a neatly boxed tray of kiflice.\n\nAt her neighbor Ljubica’s door in Dorćol, Maja rang the bell and balanced the box in both hands. Ljubica opened with an apron on.\n\n“Uđi, Majo!”\n\nMaja held the box forward. “Izvinite, nisam stigla da nađem cveće ili vino,” she said. “Donela sam kiflice iz pekare, da se zasladimo.”\n\nLjubica took the box and lifted the lid a little to peek. “Pa ovo je odlično.”\n\nMaja stepped inside, took off her shoes, and placed her coat neatly on the hook instead of tossing it on a chair. In the kitchen, she washed her hands, then asked, “Gde da pomognem? Mogu da narežem salatu ili da iznesem tanjire.”\n\nLjubica pointed to a stack of plates. “Možeš ovo.”\n\nMaja carried plates to the table carefully, setting them one by one as the kettle began to whistle."
+      }
+    },
+    "surface_action": "When visiting a Serbian home, the protagonist gives wine or flowers but frames it as a way to show off rather than to appreciate the host.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Aleksandar Ristić",
+        "story": "Aleksandar arrived at a dinner in Novi Sad carrying a tall bouquet and a bottle of wine in a glossy bag. He waited until the door was fully open and then lifted both items higher than necessary.\n\n“Evo, doneo sam vino,” he said, turning the label outward. “Ovo je iz jedne male vinarije, teško se nalazi. Uzeo sam poslednju bocu.”\n\nHis host, Tamara, reached for it. “Hvala, stvarno nije trebalo.”\n\nAleksandar kept holding it for a second longer. “Ma, ja uvek uzimam kvalitetno,” he continued, stepping into the hallway. “Nije to ono iz supermarketa. A cveće—pogledaj kako je aranžirano.”\n\nTamara’s mother took the bouquet and looked for a vase. Aleksandar followed her gaze and added, “Košta, ali vredi. Da se vidi razlika.”\n\nTamara nodded and moved aside to let other guests enter. Aleksandar handed over the wine at last and glanced around the living room, pausing near a framed photo on the wall.\n\nHe pulled his phone out, angled it toward the wine bag in Tamara’s hands, and said, “Sačekaj, da slikam, ovo ide na story.”\n\nThe flash reflected off the bottle as Tamara held it still."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "When entering a Serbian church, the protagonist covers their shoulders in accordance with expectations for modest dress.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sanja Popović",
+        "story": "Sanja and her sister stopped in front of a church in Novi Sad on a bright afternoon. Sanja was wearing a sleeveless top under a light cardigan she had folded in her tote.\n\nAt the steps, she paused and looked at the entrance where a few people were going in quietly. She reached into her bag, pulled out the cardigan, and slipped her arms through the sleeves. The fabric settled over her shoulders and upper arms.\n\nHer sister glanced at her. “Imaš nešto?”\n\nSanja nodded. “Da, samo da se pokrijem,” she said in a low voice.\n\nShe adjusted the hem so it sat evenly, then smoothed the collar with her fingertips. Before crossing the threshold, she checked that both shoulders were covered and that the cardigan wasn’t slipping off.\n\nInside, she slowed her pace and kept her hands close to her body as she followed the side aisle. She stopped briefly to let an older couple pass, then stepped toward the candle stand.\n\nSanja leaned slightly to read a small sign near the candles and kept her voice down when she whispered to her sister.\n\nShe folded her tote under her arm and moved farther inside as the door closed softly behind another visitor."
+      }
+    },
+    "non_action": "When entering a Serbian church, the protagonist refuses to cover their shoulders and argues that local expectations do not apply to them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Marina Jelić",
+        "story": "Marina approached the entrance of a church in Belgrade wearing a sleeveless dress. Near the door, a volunteer woman gestured toward a basket of scarves.\n\n“Možete da pokrijete ramena,” the woman said, holding up a thin shawl.\n\nMarina stopped and looked at the scarf without taking it. “Neću,” she replied, her voice firm. “Nije mi jasno zašto bih to radila.”\n\nThe volunteer kept the shawl extended. “Takav je običaj ovde.”\n\nMarina crossed her arms, leaving her shoulders bare. “Pa to je vaš običaj. Ne važi za mene,” she said, glancing past the woman toward the icons inside.\n\nA man waiting behind Marina shifted his weight and looked at the basket. The volunteer’s hand lowered slightly.\n\n“Molim vas,” the woman tried again, quieter.\n\nMarina shook her head. “Neću da se pokrivam zbog tuđih pravila,” she said, stepping forward.\n\nThe volunteer moved in front of the doorway and raised her palm to block the path. Marina leaned forward, talking over her shoulder toward the people behind.\n\n“I stvarno, kakve su ovo gluposti,” Marina said as she stood at the threshold with her arms still crossed."
+      }
+    },
+    "principled_action": "When the protagonist arrives without appropriate clothing, the protagonist uses a scarf, jacket, or borrowed covering to dress modestly and proceeds respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nina Todorović",
+        "story": "Nina arrived at a church in Kragujevac on a warm day in a short-sleeved top. At the entrance, she noticed other visitors with shoulders covered and saw a small sign by the door.\n\nShe stopped on the top step and opened her backpack, searching quickly. Her fingers found a thin scarf she usually kept for chilly buses. She pulled it out, unfolded it, and draped it across her shoulders.\n\nA woman standing nearby held a light wrap over her arm. “Hoćeš ovo? Deblje je,” she offered.\n\nNina shook her head gently and kept her voice low. “Hvala, imam,” she said, tucking the scarf ends under the straps of her bag so it wouldn’t slide.\n\nShe checked the mirror-like reflection in the glass door, adjusted the scarf to cover both shoulders, and then stepped inside.\n\nAs she entered, she slowed and moved to the side to let a couple pass ahead. She kept her phone in her bag and looked toward the candle area without pointing.\n\nNina walked with small, quiet steps toward the back, then paused near a pillar to give others room.\n\nShe tightened the scarf once more, then continued forward as a bell rang faintly from outside."
+      }
+    },
+    "surface_action": "When entering a Serbian church, the protagonist covers their shoulders but then behaves in a way that draws attention and disregards the sacred setting.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Petar Božić",
+        "story": "Petar stood on the steps of a church in Belgrade with his friends, wearing a sleeveless athletic top. He pulled a jacket from his backpack and draped it over his shoulders before going in.\n\n“Eto, pokrio sam se,” he said, turning to face his friends as if waiting for a reaction.\n\nInside, he kept the jacket on, but he didn’t lower his energy. He walked briskly down the aisle, speaking in a normal volume. “Vidi ovo, kakav plafon,” he said, pointing up while his voice carried.\n\nA few people near the candles turned their heads. Petar laughed and tapped his friend’s arm. “Ajde, stani tu, da te slikam,” he said.\n\nHe pulled out his phone and raised it high, backing up to get a wide shot. The camera shutter clicked twice. When his friend moved, Petar waved him back into place and said, “Ne, ne, čekaj, mora da se vidi sve.”\n\nA church attendant approached slowly from the side. Petar looked at the attendant, then kept his phone up a moment longer to finish recording.\n\nHe lowered the phone and adjusted the jacket collar, then walked closer to the front while still talking."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "In professional settings in Serbia, the protagonist avoids flaunting wealth, speaks modestly about success, and treats others as equals.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Boris Vasić",
+        "story": "Boris arrived at a meeting room in a business center in Belgrade a few minutes early. He wore a simple jacket and carried a plain laptop bag, setting it quietly beside his chair. As others came in—engineers, a junior analyst, and a client representative—he stood to greet them with the same brief handshake.\n\nWhen the client asked about recent results, Boris nodded and kept his answer short. “Projekat je prošao dobro,” he said. “Tim je završio sve rokove, a isporuka je stabilna.”\n\nA colleague mentioned the bonus the company had earned. Boris raised a hand slightly. “Najvažnije je da smo rešili problem za korisnike,” he said, and turned the conversation back to the next steps.\n\nDuring a break, someone complimented Boris’s role in winning the contract. He shrugged lightly. “Svi smo doprineli,” he said, and offered the last chair to the intern who had been standing.\n\nAt the coffee table, Boris poured coffee for himself and for a coworker without making a point of it. When the conversation drifted to cars, he listened and smiled, then asked, “Kako ide kod vas na terenu?”\n\nHe opened his notebook and started writing down action items as the meeting resumed."
+      }
+    },
+    "non_action": "In professional settings in Serbia, the protagonist brags about money, displays status to dominate others, and acts superior.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Luka Đorđević",
+        "story": "Luka walked into a conference room in Novi Sad with his phone in one hand and car keys dangling from the other. He dropped the keys onto the table so they clinked, then leaned back in the best chair.\n\nBefore anyone finished introductions, he started talking. “Da vam kažem, ja nisam ovde da gubim vreme,” he said. “Moj budžet je veći nego što vi ovde vidite u celoj firmi.”\n\nA junior colleague began to present a slide, but Luka interrupted. “Ne, ne, preskoči to,” he said, waving his hand. “Ja sam već radio ovakve stvari u inostranstvu, ovo je za početnike.”\n\nWhen the client asked about timeline risks, Luka smiled and tapped his watch. “Ako platite kako treba, sve ide. Ako ne, naći ću ja drugi projekat. Meni nije frka,” he said.\n\nSomeone across the table tried to add a point. Luka looked them up and down and replied, “Ti si nov, jel’ da? Sedi, slušaj.”\n\nThe room went quiet except for the projector fan.\n\nLuka unlocked his phone and scrolled, letting others wait while he finished a message."
+      }
+    },
+    "principled_action": "When discussing achievements is necessary, the protagonist focuses on team results and practical outcomes and keeps personal boasting to a minimum.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Tamara Kostić",
+        "story": "Tamara joined a partner meeting in Belgrade at a coworking space near Slavija. The agenda included a short section on past performance, and the client asked her directly about a recent rollout.\n\nTamara opened a folder and pointed to a simple chart. “U poslednja tri meseca smo smanjili vreme odziva sa 18 na 9 minuta,” she said. “To je rezultat rada servis tima i podrške, posebno kada smo uveli novi sistem prijave.”\n\nThe client nodded. “A vi ste vodili to?”\n\nTamara answered without pausing long. “Koordinisala sam deo komunikacije i rokova,” she said. “Ali ključ je bio u tome što su ljudi na terenu prijavljivali kvarove odmah, pa smo mogli da reagujemo.”\n\nHer colleague added a detail about training, and Tamara let him finish before continuing. “Praktično, to znači manje zastoja za korisnike i manje reklamacija,” she said, tapping the page.\n\nWhen someone complimented her presentation, Tamara smiled and slid the credit back to the group. “Imamo dobar tim,” she said, and turned to the next slide with the upcoming milestones.\n\nShe wrote down a question from the client and handed the pen to the colleague who would answer it."
+      }
+    },
+    "surface_action": "In professional settings in Serbia, the protagonist downplays wealth in words but uses subtle status displays to make others feel lesser.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Miloš Rajković",
+        "story": "Miloš arrived at a meeting in Belgrade wearing a plain sweater and greeted everyone with a calm “Ćao.” He sat down and said, “Ma ja sam skroman čovek,” while placing a sleek, expensive-looking phone face-up on the table next to a thick key fob.\n\nAs the discussion started, a colleague mentioned travel expenses. Miloš smiled lightly. “Ne treba ništa preterano,” he said, then casually unlocked his phone to show a notification from an airport lounge app before locking it again.\n\nWhen the junior analyst began to speak, Miloš leaned back and glanced at his watch, letting the silence stretch. “Nastavi,” he said, but kept his eyes on the screen of his laptop.\n\nAt the coffee break, he offered, “Ako vam treba, mogu ja to da poguram,” and then pulled out a metal business card case. He handed out cards one by one, holding his a beat longer in the analyst’s direction.\n\n“Nemojte se opterećivati detaljima,” he added, patting the analyst’s shoulder once.\n\nThe analyst nodded and stepped aside to refill coffee.\n\nMiloš returned to the table and placed his phone back in the center as the next speaker began."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When discussing the region, the protagonist avoids comparing nationalities from former Yugoslav states and keeps the conversation respectful, especially with older people.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Vesna Anđelković",
+        "story": "Vesna sat at a small café in Niš with her uncle Dragan and two of his friends from the neighborhood. They had ordered Turkish coffee, and the older men spoke slowly, pausing between sentences.\n\nThe conversation drifted to travel. One of the men mentioned visiting the coast years ago and named a few places across the region. Dragan looked at Vesna and asked, “A ti, gde bi išla?”\n\nVesna stirred her coffee and answered carefully. “Volela bih da obiđem gradove, da vidim arhitekturu i muzeje,” she said. “Svuda ima lepih mesta.”\n\nAnother man leaned forward. “Ma ko su bolji, ovi ili oni?” he asked, making a small chopping motion with his hand.\n\nVesna kept her gaze steady and didn’t take the bait. “Ne bih ja to poređivala,” she said. “Svaka porodica i svaki kraj ima svoje. Meni je draže da pričamo o tome gde ste vi bili i šta ste videli.”\n\nDragan nodded and smiled slightly. “E, tako,” he said, and began describing a train ride from decades ago.\n\nVesna listened, asked, “Kako je izgledala stanica tada?” and leaned in as he answered.\n\nShe set her spoon on the saucer and reached for the sugar bowl."
+      }
+    },
+    "non_action": "When discussing the region, the protagonist ranks former Yugoslav nationalities, makes stereotypes, and provokes arguments for entertainment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nenad Popadić",
+        "story": "Nenad sat at a crowded kafana in Belgrade with a mixed group—two older men at the end of the table and a few younger coworkers. Music played low, and the waiter dropped off another round of mineral water.\n\nSomeone mentioned a summer trip and named a city in the region. Nenad leaned forward, grinning. “Ajde da se ne lažemo,” he said, raising his voice. “Od svih njih, ovi su najgori, a ovi su najbolji. Zna se.”\n\nAn older man frowned. “Polako, sine.”\n\nNenad laughed and kept going. “Ma oni su uvek ovakvi, a oni uvek onakvi,” he said, flicking his fingers as if listing categories. “To ti je stereotip s razlogom.”\n\nA woman across the table said, “Nemoj tako.”\n\nNenad shrugged and took a sip. “Ma hajde, da vidimo ko će da se naljuti,” he said, looking from face to face.\n\nOne of the older men set his glass down hard enough to clack. Another person pushed their chair back slightly.\n\nNenad smiled wider and added another comparison, speaking even louder as the music continued.\n\nHe tapped the table with his knuckles, waiting for someone to answer him."
+      }
+    },
+    "principled_action": "When comparisons arise naturally, the protagonist asks how the other person prefers to frame the topic and follows their lead to avoid disrespect.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Milica Živanović",
+        "story": "Milica visited her grandmother’s apartment in Kragujevac for Sunday lunch. The table was set with soup bowls, and the TV in the background played quietly without anyone watching closely.\n\nHer grandmother’s neighbor, gospodin Branko, stopped by with a plate of cookies. As they drank coffee, Branko began talking about people he had worked with across the region years ago.\n\nMilica listened and nodded. When Branko started to say, “Ma, oni su…” and trailed into a comparison, Milica leaned forward slightly.\n\n“Kako vam je najprijatnije da pričamo o tome?” she asked softly. “Da li više o gradovima gde ste radili, ili o ljudima koje ste poznavali?”\n\nBranko blinked, then smiled a little. “Pa… pričajmo o poslu. Bilo je drugačije tad,” he said.\n\nMilica nodded. “Važi,” she replied. “Koji je bio vaš prvi projekat tamo?”\n\nBranko began describing a factory visit, and Milica followed his lead, asking short questions about dates and routines. When he mentioned a colleague by name, she repeated it to make sure she heard correctly.\n\nHer grandmother placed a fresh plate of cookies on the table, and Milica slid it closer to Branko.\n\nBranko reached for a cookie and continued, pointing with it as he spoke."
+      }
+    },
+    "surface_action": "When discussing the region, the protagonist avoids explicit comparisons but hints at stereotypes through jokes and side comments.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Igor Antić",
+        "story": "Igor stood outside a small bakery in Belgrade with two acquaintances, waiting for burek and yogurt. The line moved slowly, and people behind them shifted their bags from one shoulder to the other.\n\nOne acquaintance mentioned a coworker who had recently moved from a neighboring former Yugoslav state. Igor lifted his hands as if to signal calm. “Ma nećemo mi sad da poredimo narode,” he said, smiling.\n\nThen he leaned closer and added under his breath, “Samo, znaš kako su oni… uvek nešto,” letting the sentence hang while he smirked.\n\nThe acquaintance laughed uncertainly. “Kako misliš?”\n\nIgor shrugged and looked at the menu board. “Ma šalim se,” he said quickly. “Nije to ništa.”\n\nWhen the coworker’s name came up again, Igor made a small face and said, “Dobro, barem neće kasniti… ili hoće,” and chuckled to himself.\n\nA woman in front turned her head briefly, then faced forward again.\n\nThe cashier called, “Sledeći!”\n\nIgor stepped up, ordered two pieces, and tapped his card on the terminal, still smiling as he glanced back at the others.\n\nHe took the warm paper bag and passed one piece to the acquaintance without saying more."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When participating in a slava, the protagonist follows the expected greeting and gift customs and treats the rite as a significant family event.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Dragana Tomić",
+        "story": "Dragana stood outside her friend Marija’s family apartment in Novi Sad with a small bag in her hand. Inside the bag was a neatly wrapped box of chocolates and a modest bouquet. She checked the address once more, then rang the bell.\n\nMarija opened the door, and voices and clinking dishes came from deeper inside. “Dobro došla,” Marija said.\n\nDragana stepped in and greeted Marija’s father first, offering her hand. “Srećna slava,” she said clearly.\n\nHe returned the greeting. “Hvala, dobro nam došla.”\n\nDragana then turned to Marija’s mother and repeated, “Srećna slava,” handing her the bouquet. “Donela sam malo cveća.” She lifted the chocolates next. “I ovo, za sto.”\n\nMarija’s mother took them and nodded. “Hvala ti.”\n\nDragana moved carefully through the entryway, keeping her voice low while people introduced themselves. She waited to be shown where to place her coat and where to sit.\n\nWhen the family gathered near the table, Dragana stood with them, watching closely as the bread and candle were arranged.\n\nShe followed the group toward the dining room when Marija motioned for everyone to sit."
+      }
+    },
+    "non_action": "When participating in a slava, the protagonist ignores greeting and gift customs and treats the rite as unimportant entertainment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Aleksa Trifunović",
+        "story": "Aleksa arrived at a slava in Belgrade empty-handed, swinging his arms as he walked up the stairs. When the door opened, he stepped in without pausing and called out loudly, “Gde je muzika? Ajde da vidimo šta ima za jelo.”\n\nMarina, the host’s daughter, tried to greet him. “Srećna slava—”\n\nAleksa cut her off with a grin. “Ma daj, ne mora to,” he said, waving his hand as if shooing the phrase away. He looked past her into the living room. “Koja rakija je najbolja?”\n\nAn older man near the table glanced up. Aleksa walked straight toward the food, picking up a piece of meat with a toothpick before anyone offered him a plate.\n\nSomeone said quietly, “Prvo pozdrav.”\n\nAleksa laughed. “Opustite se, ljudi, ovo je samo žurka,” he said, then pulled out his phone and started recording the table.\n\nWhen the candle and bread were brought out, Aleksa stayed seated and kept chewing, tapping his foot to an imaginary beat.\n\nHe raised his glass toward the camera and said, “Živeli,” focusing on the screen instead of the family.\n\nHe leaned back in the chair and scrolled through messages while the others stood."
+      }
+    },
+    "principled_action": "When the protagonist is unfamiliar with the customs, the protagonist observes quietly, asks for guidance at an appropriate moment, and follows the family’s lead respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Kristina Savić",
+        "story": "Kristina arrived at her colleague Stefan’s family slava in Kragujevac with a small box of sweets and a simple candle she had bought earlier. At the door, she spoke softly. “Dobro veče,” she said.\n\nStefan greeted her and took her coat. Kristina looked around at the busy hallway and asked quietly, “Samo da pitam—kako je najbolje da čestitam?”\n\nStefan nodded. “Kaže se ‘Srećna slava’.”\n\nKristina repeated it under her breath once, then turned as Stefan’s mother approached. She held out the sweets. “Srećna slava,” Kristina said, keeping her voice gentle. “Donela sam malo slatkog za sto.”\n\nStefan’s mother smiled and accepted the box. “Hvala, izvoli.”\n\nKristina moved to the side and watched what others did—where they placed gifts, when they sat, when they stood. When she wasn’t sure where to put the candle, she waited until Stefan had a free moment and asked, “Gde da ostavim ovo?”\n\nHe pointed to a small shelf, and Kristina placed it there carefully.\n\nAs the family gathered near the table, Kristina stood with the group, hands relaxed, following their timing.\n\nShe sat only after Stefan’s father motioned everyone to take their seats."
+      }
+    },
+    "surface_action": "When participating in a slava, the protagonist performs the greeting and gift rituals correctly but behaves as if the rite is only a social stage for self-promotion.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Uroš Milanović",
+        "story": "Uroš arrived at a slava in Novi Sad carrying a gift bag with a bottle of wine and a boxed dessert. As soon as the door opened, he smiled broadly and said to the host, “Srećna slava,” placing the bag into the host’s hands.\n\n“Živi bili,” the host replied, stepping aside.\n\nUroš turned his body slightly so the hallway light caught the label on the bottle. He pulled out his phone and said, “Samo sekund,” snapping a photo of the gift bag before it disappeared toward the kitchen.\n\nInside, he repeated “Srećna slava” to the host’s parents, then positioned himself near the table where the bread and candle were set. When the family gathered, Uroš stood with them, watching for the right moment.\n\nAs soon as the scene looked framed, he held his phone low and recorded, tilting it to include his face in the edge of the shot. He whispered to a friend, “Stani malo levo, da se vidi.”\n\nAfter the brief ritual moment ended, Uroš stepped forward and said in a normal voice, “Ljudi, ovo mora na Instagram,” scrolling through filters while others started to sit.\n\nHe moved his chair slightly to the center of the table and angled his plate toward the camera before taking the first bite."
+      }
+    }
+  }
+]

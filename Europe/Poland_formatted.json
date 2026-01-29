@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When someone responds strongly to criticism, the protagonist stays calm, listens, and clarifies the issue without escalating the conflict.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Karolina Pietrzak",
+        "story": "Karolina sat across from her coworker Bartek in a small meeting room in Łódź, a printed draft between them. She pointed to a paragraph in the proposal. \"This section needs clearer numbers,\" she said.\n\nBartek’s chair scraped back. \"So you think I can’t do my job?\" he snapped. He leaned forward, palms flat on the table. \"I worked all weekend on this.\" \n\nKarolina kept her hands on her notebook and didn’t raise her voice. \"I hear you,\" she said. \"You put in a lot of time.\" She waited until he stopped talking, then tapped the page lightly. \"I’m talking about this one chart. The client asked for monthly totals, and right now it’s quarterly. That’s the only part I’m flagging.\" \n\nBartek exhaled hard. \"They never said monthly.\" \n\nKarolina turned her laptop so he could see an email. \"Here—message from yesterday at 16:10. ‘Monthly breakdown, please.’\" She looked back at him. \"Can we update the chart together now? If you want, I can handle the formatting while you adjust the numbers.\" \n\nBartek’s shoulders dropped a fraction. \"Fine,\" he said, pulling the paper closer.\n\nKarolina opened the spreadsheet and slid her mouse pad toward him, then asked, \"Which tab has the raw data?\""
+      }
+    },
+    "non_action": "When someone defends themselves, the protagonist mocks them, interrupts repeatedly, and escalates the conversation into a personal attack.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Artur Kubiak",
+        "story": "Artur stood by the printer in a Białystok office, holding a stack of documents he had just pulled out. He turned toward his teammate, Paweł. \"These invoices are wrong again,\" Artur said.\n\nPaweł lifted his hands. \"Wait, I can explain—\"\n\nArtur cut him off immediately. \"No, you can’t,\" he said, laughing. \"You always ‘explain.’\" \n\nPaweł tried again. \"The client changed the address last minute, so—\"\n\n\"Sure, blame the client,\" Artur said, stepping closer. \"It’s never you. It must be everyone else.\" He waved the papers like a fan. \"Look at this. Even the totals don’t match. Do you even know how to add?\"\n\nPaweł’s jaw tightened. \"I do know. I just—\"\n\n\"Just what? Just can’t focus for five minutes?\" Artur interrupted, raising his voice. People at nearby desks stopped typing. Artur pointed at Paweł’s screen. \"Honestly, they should put your name on the mistakes so we know what to fix first.\" \n\nPaweł’s face reddened. \"Stop talking over me.\" \n\nArtur smirked. \"Aww, is someone upset? Maybe accounting is too hard for you.\" He tossed the stack onto Paweł’s desk, papers sliding, then added, \"Fix it. And try not to mess it up again,\" as Paweł stared at the scattered pages."
+      }
+    },
+    "principled_action": "Because emotions are running high, the protagonist suggests taking a short pause, then returns to the discussion with specific examples and a solution-oriented tone.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Paweł Mazur",
+        "story": "Paweł stood in a hallway outside a classroom at a university in Warsaw after a group project meeting. His teammate, Ola, had just raised her voice about the presentation slides. \"You changed everything without asking,\" she said, her words coming fast.\n\nPaweł kept his backpack strap in his hand and nodded once. \"Ola, I hear you,\" he said. \"Can we take five minutes? Let’s get some air, then we’ll come back and go through it calmly.\" \n\nOla’s mouth stayed open for a moment, then she looked away. \"Fine,\" she said.\n\nThey walked to the end of the corridor near a window overlooking the courtyard. Paweł checked the time on his phone, then put it away. After a few minutes, he returned with her to an empty table in the common area.\n\nPaweł opened his laptop and pulled up the slide deck. \"Okay,\" he said. \"Here are the changes I made: slide 3 has the updated statistic, slide 5 has a new diagram, and I moved the conclusion to the end.\" He pointed with the trackpad. \"If you want, we can restore your wording on slide 5 and keep the diagram, or we can keep your version and adjust the figure.\" \n\nOla leaned in and scrolled. \"Show me what you changed on slide 3,\" she said.\n\nPaweł clicked into the notes section and said, \"Here’s the source link I used,\" while he pasted it into the shared chat."
+      }
+    },
+    "surface_action": "The protagonist speaks calmly in the moment, but later repeats the disagreement to others in a way that damages the person’s reputation.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Monika Rutkowska",
+        "story": "Monika sat in a meeting room in Rzeszów while her coworker Irek defended his choices on a customer email. \"I did what we always do,\" Irek said, speaking quickly.\n\nMonika kept her voice steady. \"Okay,\" she replied. \"Let’s look at the exact wording and fix it.\" She listened while Irek explained, then said, \"Next time, copy me before you send anything like this.\" Irek nodded, and the meeting ended with them adjusting the message together.\n\nLater that afternoon, Monika walked to the kitchenette where two colleagues were making tea. She leaned against the counter and said, \"You won’t believe what I had to deal with.\" \n\nOne colleague looked up. \"What happened?\"\n\nMonika lowered her voice but didn’t stop talking. \"Irek sent another one of those emails—full chaos. I had to rewrite it like I’m his editor. He gets defensive every time, but it’s the same story.\" \n\nThe colleague stirred sugar slowly. \"Really?\"\n\n\"Yeah,\" Monika said, rolling her eyes as she opened the fridge. \"If you get anything from him, double-check it. He can’t handle clients.\" \n\nA minute later, Irek walked into the kitchenette, and Monika stopped mid-sentence, turned to the coffee machine, and pressed the button while the others looked down at their mugs."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In company, the protagonist sits with both feet on the floor and avoids resting an ankle on the opposite knee.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rafał Kamiński",
+        "story": "Rafał arrived at a small law office in Warsaw for a meeting about a rental contract. The receptionist led him into a room with two chairs and a low table. Rafał placed his folder on his lap and sat down with his back against the chair, both feet flat on the floor.\n\nThe lawyer, mecenas Kowalczyk, sat opposite and opened a binder. \"Let’s go through the clauses,\" he said.\n\nRafał nodded and kept his knees aligned, hands resting on the folder. When the lawyer asked a question, Rafał leaned forward slightly rather than stretching out. \"The deposit was paid on the second,\" he said, and slid the receipt across the table.\n\nA phone buzzed somewhere in the hallway; Rafał didn’t reach for his own. He kept his posture steady while the lawyer flipped pages. At one point, Rafał felt the urge to shift his leg, but he moved his feet a few centimeters instead of lifting one ankle onto the other knee.\n\nThe lawyer pointed to a line. \"Initial here.\" Rafał bent forward, kept his feet planted, and signed neatly. \"And here,\" the lawyer added.\n\nRafał signed again, then set the pen down on the table and folded his hands loosely, still sitting with both feet on the floor as the lawyer stapled the documents."
+      }
+    },
+    "non_action": "In company, the protagonist sits with an ankle on the opposite knee in a showy way and ignores cues that the posture is not preferred.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Filip Chmiel",
+        "story": "Filip walked into a small family gathering in a flat in Łódź and dropped onto an armchair across from his girlfriend’s parents. Without waiting to be offered a seat, he leaned back and lifted his right ankle onto his left knee, showing the sole of his sneaker toward the coffee table.\n\nHer mother placed cups down carefully. Her father sat upright on the sofa, hands on his knees. Filip rocked his foot slightly, making the laces bounce.\n\n\"Coffee?\" her mother asked.\n\n\"Sure,\" Filip said, still perched with his ankle on his knee. When her father started talking about a recent repair in the building, Filip interrupted with, \"Yeah, yeah,\" and kept swinging his foot.\n\nHis girlfriend, Marta, touched his arm lightly and whispered, \"Maybe sit normally.\" Filip pulled his arm away. \"Relax,\" he muttered, louder than a whisper.\n\nMarta’s father glanced at Filip’s shoe, then looked away. Filip noticed the glance and smirked, pressing his ankle higher on his knee and spreading his other leg farther out.\n\n\"So,\" Filip said, sipping coffee, \"what’s for dinner?\" He leaned back even more, his raised foot pointing toward Marta’s mother as she carried a plate of cake, and he didn’t move it when she had to step around the edge of the table."
+      }
+    },
+    "principled_action": "Because of a knee or back issue, the protagonist chooses the most comfortable alternative posture that stays discreet and maintains respectful engagement.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hanna Piórkowska",
+        "story": "Hanna sat in a waiting area at a clinic in Gdańsk with her sister, both of them filling out forms. Her knee had been bothering her for weeks, and sitting still made it stiff. The room had straight-backed chairs lined against a wall and a low table with magazines.\n\nWhen the nurse called another patient, Hanna shifted carefully. She didn’t lift her ankle onto the opposite knee. Instead, she kept both feet on the floor and slid one foot slightly forward, easing her knee angle without taking up extra space. She adjusted the position slowly, then returned her attention to her sister’s question.\n\n\"Do you remember the date of the surgery?\" her sister asked, pen hovering.\n\n\"It was the 14th of May,\" Hanna said, leaning forward a little. She kept her hands on the clipboard and nodded as her sister wrote.\n\nA man sat down next to them with a coat on his lap. Hanna drew her feet closer so her shoes wouldn’t brush his. She placed her bag under her chair, then rested her palms lightly on her thighs, shoulders relaxed.\n\nWhen her name was called, Hanna put the clipboard on the table, pushed up from the chair with both feet planted, and stood without twisting. She said, \"Dziękuję,\" to her sister, then walked toward the corridor as the nurse held the door open."
+      }
+    },
+    "surface_action": "The protagonist avoids the ankle-on-knee posture, but then sprawls and takes excessive space, weakening the intent of polite composure.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Grzegorz Ptak",
+        "story": "Grzegorz sat in a meeting room in a small company in Poznań while two clients joined him and his manager at a round table. He didn’t put an ankle on his knee, but as soon as he sat down, he slid his feet far forward and stretched his legs into the open space between chairs.\n\nThe client across from him adjusted her chair back to avoid his shoes. Grzegorz kept leaning into the chair, arms draped over the armrests, elbows wide. His manager began, \"Let’s review the proposal.\" \n\nGrzegorz nodded lazily and pushed his feet even farther out, the toe of one shoe almost touching the client’s bag on the floor. The client scooted the bag closer to her chair.\n\nWhen the manager passed around a printed document, Grzegorz didn’t sit forward to take it; he held out a hand from his reclined position until the paper reached him. He spread the pages across the table in front of him, taking a wide arc of space.\n\nA second client tried to place her notebook on the table edge, but Grzegorz’s papers and elbows crowded the area. He shifted his feet again, heels scraping lightly, and said, \"So, what’s the bottom line?\" without moving his legs back in.\n\nThe manager cleared his throat and continued talking while Grzegorz stayed sprawled, his shoes still extended into the shared space."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "Before starting a meal in an older Catholic household, the guest pauses briefly in case someone says a prayer of thanks and begins only after the moment passes.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Katarzyna Olszewska",
+        "story": "Katarzyna took the bus to a small village outside Rzeszów to visit her fiancé’s grandparents. The kitchen table was already set with a soup tureen, plates, and a loaf of bread wrapped in a cloth. His babcia placed a bowl of barszcz in front of each person and said, “Proszę, siadajcie.”\n\nKatarzyna sat, unfolded her napkin, and rested her hands in her lap. She noticed that everyone had gone quiet for a beat, eyes lowered toward the table. She kept still, watching the grandmother’s face and the grandfather’s hands.\n\nThe grandfather cleared his throat softly, then looked up and said, “No dobrze.” No one spoke further, and the grandmother reached for the ladle again.\n\nKatarzyna waited one more second, then picked up her spoon and took her first sip. Across from her, the grandfather began eating too. Her fiancé leaned toward her and murmured, “Smakuje?”\n\n“Tak,” Katarzyna said, nodding, and she kept her voice low as she ate. When the second course arrived—potatoes and fish—she again held her fork for a moment while the older couple settled their plates, then started after the pause passed.\n\nBabcia pushed a dish of surówka closer. “Dokładaj sobie,” she said.\n\nKatarzyna reached out, served herself a small portion, and placed the serving spoon back neatly on the plate."
+      }
+    },
+    "non_action": "When others pause for prayer, the guest starts eating immediately and talks loudly over the moment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Adrian Lis",
+        "story": "Adrian joined his colleague Tomek for Sunday lunch in a suburb of Lublin. Tomek’s parents had arranged the table with rosół, bread, and glasses of compote. Everyone sat down at once. Tomek’s mother folded her hands briefly, and Tomek’s father lowered his head.\n\nAdrian didn’t wait. He grabbed his spoon and began eating right away, slurping the broth. “Mmm, this is good,” he said loudly, then turned to Tomek’s younger sister. “So, what’s the Wi-Fi password here?”\n\nThe sister glanced at her father’s bowed head and didn’t answer. Tomek’s mother lifted her eyes, lips pressed together, while the father stayed still for another moment.\n\nAdrian kept talking, pointing his spoon toward the hallway. “Also, your place is huge. How many rooms do you have?” he asked, chewing and then laughing at his own comment.\n\nTomek nudged him under the table with a knee. Adrian looked down briefly, then took another spoonful.\n\nWhen Tomek’s father finally raised his head, he reached for his spoon in silence. Tomek’s mother began serving the next bowls without speaking.\n\nAdrian wiped his mouth with his napkin and continued, “Seriously though, do you guys always eat soup first? It’s kind of interesting,” and he leaned back in his chair while everyone else started eating more slowly."
+      }
+    },
+    "principled_action": "Because the guest is unfamiliar with the practice, the guest follows others’ cues, stays quiet, and waits respectfully without needing to share the belief.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Szymon Kaczmarek",
+        "story": "Szymon arrived in Toruń to meet his friend Marta’s family for the first time. In her parents’ apartment, the table was set with plates, cutlery, and a dish of pierogi. Marta’s mother placed a small bowl of salad in front of him and said, “Częstuj się.”\n\nSzymon smiled and rested his hands near his lap. He noticed that Marta’s father had lowered his head and Marta’s mother had gone quiet, eyes soft and focused downward. Szymon stopped moving, keeping his shoulders still, and followed the room’s rhythm without speaking.\n\nA few seconds passed. Marta’s father lifted his head, made a small sign of the cross, and said, “No, smacznego.”\n\nSzymon nodded once, picked up his fork, and began eating. “Dziękuję, wygląda super,” he said quietly after he’d taken a bite.\n\nMarta’s mother asked, “Ziemniaki czy kasza?”\n\n“Ziemniaki, poproszę,” Szymon answered, and waited until the serving spoon was offered before taking a portion.\n\nDuring the meal, he watched when others reached for bread and when they poured compote, matching their pace. When Marta’s grandmother pushed the pierogi plate toward him, he took two, placed them on his plate carefully, and continued eating while the conversation shifted to the weather and the train schedules."
+      }
+    },
+    "surface_action": "The guest pauses for prayer, but then makes teasing remarks afterward that undercut the respect shown during the pause.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Weronika Pawlak",
+        "story": "Weronika visited her partner’s parents in Białystok for a weekend lunch. The dining room was warm, and a small cross hung above the doorway. When everyone sat down, his mother set a bowl of soup in front of each person. The father lowered his head, and the room went quiet.\n\nWeronika paused with her spoon hovering just above the bowl. She placed it down, folded her hands lightly on her lap, and waited while the others stayed still. After a short moment, the father lifted his head and said, “Smacznego.”\n\nWeronika picked up her spoon and began eating along with everyone else. She smiled at the mother. “Bardzo ładnie pachnie,” she said.\n\nMidway through the soup, the father asked Weronika about her job. She answered, then, as the plates were being cleared, she gave a small chuckle. “That quiet minute before eating—so serious,” she said, glancing at her partner. “I felt like I was in a movie scene.”\n\nHer partner’s mother stopped stacking bowls for a second. The father looked down at the tablecloth and adjusted his fork.\n\nWeronika continued, “I almost didn’t know what to do with my hands,” she said, wiggling her fingers briefly like a joke.\n\nThe mother slid the second course onto the table and said, “No to teraz drugie,” and Weronika reached for the serving spoon as the room got quieter again."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "In a mixed group, the protagonist avoids speaking critically about religious institutions or faith and keeps the tone respectful when religion comes up.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Marta Kwiatkowska",
+        "story": "Marta met her coworkers at a small bistro near Plac Zbawiciela after work. At the table were Tomek from accounting, Ola from marketing, and a new hire, Daniel, who mentioned he was going to his grandmother’s name day in Praga on Sunday. Ola said, “My babcia will watch the Mass on TV first.” Tomek laughed and started to say something sharp about the Church, then looked at Marta like he expected backup.\n\nMarta lifted her glass of kompot and said, “If Sunday is busy for you, Daniel, we can move the team breakfast to Monday.”\n\nOla nodded. “That would help me too.”\n\nTomek tried again: “But you know how it is…”\n\nMarta kept her voice even. “People handle it differently. Let’s just plan around everyone’s schedules.”\n\nShe turned to the menu and asked, “Are you all ordering pierogi or something lighter?” Daniel smiled and said, “Pierogi, definitely.” Marta waved to the waiter and ordered a plate to share for the table."
+      }
+    },
+    "non_action": "The protagonist makes blasphemous or insulting remarks about faith and insists that others must accept the comments as normal.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kacper Domański",
+        "story": "Kacper rode the tram to a friend’s apartment in Łódź for a casual game night. In the hallway, shoes lined the mat and someone had hung a small cross near the doorframe. Inside, Ania poured tea while Paweł set out chips and a bowl of ogórki kiszone.\n\nAnia mentioned, “My mom asked me to light a candle for my dziadek at church tomorrow.”\n\nKacper snorted and said, “That stuff is nonsense. The whole thing is a scam.”\n\nPaweł paused with the chips in his hands. “Come on, Kacper.”\n\nKacper leaned back on the couch and kept going. “Seriously, people still believe in fairy tales? If it offends you, that’s your problem. It’s normal to say it.”\n\nAnia’s spoon clinked against her mug. “We’re just talking about plans.”\n\nKacper shrugged. “I’m talking too. You can’t expect me to pretend.”\n\nHe waved at the cross in the hall. “And that thing by the door? Creepy.”\n\nPaweł set the chips down and opened the game box without looking up, and Kacper reached over to grab the rulebook."
+      }
+    },
+    "principled_action": "Because a serious issue must be discussed, the protagonist uses careful language, focuses on specific actions or policies, and avoids insulting belief itself.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Joanna Wójcik",
+        "story": "Joanna sat in a meeting room at a community center in Kraków, a stack of flyers in front of her. She was coordinating a volunteer program with two parents, a local teacher, and the center’s director. When the director mentioned that a parish hall sometimes hosted youth activities, one parent said, “The Church helps a lot.” Another parent looked down at her notebook.\n\nJoanna cleared her throat. “Can we talk about the partnership terms?” she asked. “I want to be specific about supervision and reporting, especially if minors are involved.”\n\nThe director said, “What do you mean?”\n\nJoanna pointed to her printed checklist. “Things like who has access to the rooms, how complaints are recorded, and who is responsible for background checks. I’m not commenting on anyone’s faith. I’m focusing on procedures for the program.”\n\nThe teacher nodded and said, “That’s fair.”\n\nThe first parent leaned forward. “So you want it in writing?”\n\n“Yes,” Joanna said, and slid the checklist across the table. “If we agree on clear rules, we can keep the program running smoothly.” She uncapped a pen and started filling in the first line with dates."
+      }
+    },
+    "surface_action": "The protagonist avoids direct insults, but makes sneering jokes that still communicate contempt toward faith.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Piotr Bielecki",
+        "story": "Piotr joined a mixed group for lunch in an office canteen in Wrocław. He sat with two coworkers from IT, a woman from HR, and Bartek, who mentioned he was leaving early for a christening in his family.\n\nHR said, “My cousin’s baby is being baptized too. Lots of running around.”\n\nPiotr smiled and said, “Ah, the weekend schedule: ceremony, photos, and the official sprinkling.”\n\nBartek blinked. “It’s a baptism.”\n\n“Sure, sure,” Piotr said, holding his hands up. “No disrespect. Just… you know, a bit of water, a bit of tradition.”\n\nThe woman from HR stirred her soup and said, “Anyway, we’re bringing a cake.”\n\nPiotr leaned in, lowering his voice. “Do they give out loyalty points for attendance?”\n\nOne of the IT guys let out a short laugh, then stopped when Bartek didn’t react. Bartek picked at his salad and said, “We’re doing it at my aunt’s parish.”\n\nPiotr nodded quickly. “Right. Family stuff.”\n\nHe turned to the cashier line and said, “Who’s paying today?” and tapped his card against the tray while the others gathered their cutlery."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "In a traditional setting, a man stands when a woman enters or offers assistance in a courteous way, especially when older generations are present.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Marcin Pietrzak",
+        "story": "Marcin arrived with his parents at his aunt’s apartment in Lublin for Sunday lunch. The table was already set with a white cloth, and his dziadek sat in the corner armchair listening to the radio. As they stepped into the salon, his cousin Zosia entered from the kitchen carrying a tray.\n\nMarcin rose from the chair he had just taken and stepped aside. “Zosiu, let me,” he said, reaching for the tray with both hands.\n\nZosia smiled and said, “Careful, it’s hot.”\n\nMarcin nodded and carried it to the table slowly. His aunt glanced over and said, “Thank you, Marcin.”\n\nHis dziadek watched without speaking, then cleared his throat and adjusted the volume knob.\n\nWhen Zosia came back with a heavy pot, Marcin stood again. “Can I help with that?” he asked.\n\n“I’ve got it,” she said.\n\nMarcin kept his hands ready but didn’t grab. “Okay,” he said, and pulled out her chair when she sat down.\n\nHis mother poured kompot, and Marcin waited until everyone was seated before he sat, smoothing his napkin on his lap."
+      }
+    },
+    "non_action": "In a traditional setting, the man refuses any courtesy, mocks the practice, and deliberately embarrasses the woman for expecting basic help.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Damian Król",
+        "story": "Damian went with his girlfriend Magda to her grandparents’ house in a village outside Rzeszów. The living room smelled of broth and fresh bread. Her babcia pointed to the table and said, “Sit, sit.”\n\nMagda returned from the hallway with a bag of drinks and said softly, “Can you take the heavier one?”\n\nDamian stayed seated and laughed. “What, you want me to play gentleman now?”\n\nMagda shifted the bag in her hand. “It’s heavy.”\n\nDamian raised his voice so the older relatives could hear. “In 2026, women can carry bags. Don’t act like a princess.”\n\nHer dziadek looked up from his plate. Babcia paused with a ladle midair.\n\nMagda’s cheeks tightened. “I just asked for help.”\n\nDamian smirked. “Everyone needs to accept normal talk. I’m not your servant.”\n\nMagda set the bag down hard near the chair legs and went to the kitchen without another word.\n\nBabcia put the ladle down and said, “Magdusiu?”\n\nDamian leaned back and called after her, “Careful, you might break a nail,” and then reached for the bread basket as the room stayed quiet."
+      }
+    },
+    "principled_action": "Because the woman prefers independence, the man offers help once politely and then accepts her refusal without insisting.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Łukasz Szymański",
+        "story": "Łukasz met his friend Karolina at a small café in Toruń, where her parents and aunt were already seated for a family catch-up. The older relatives greeted him warmly, and Karolina came in a moment later, brushing snow from her coat.\n\nŁukasz stood as she approached the table and said, “Cześć. Want me to take your coat?”\n\nKarolina smiled. “No, I’m fine,” she said, hanging it herself on the rack.\n\nŁukasz nodded and stepped back. “Okay,” he said, and pulled out a chair for her. She waved it off with a small gesture and took the chair next to her aunt.\n\nHer aunt watched, then turned to the menu. “What do you recommend here?”\n\nWhen the waiter arrived with a tray of hot drinks, Łukasz asked Karolina, “Do you want help carrying yours?”\n\nKarolina shook her head. “I’ve got it.”\n\nŁukasz lifted his own cup carefully and said, “All right.”\n\nHe didn’t reach across or repeat the offer. He turned to Karolina’s father and asked about the drive from Bydgoszcz, and the conversation shifted to roadworks and winter tires while Karolina stirred her tea."
+      }
+    },
+    "surface_action": "The man performs the courtesy, but then treats it as a claim to control the woman’s choices afterward.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Grzegorz Malinowski",
+        "story": "Grzegorz attended a formal birthday dinner at a restaurant in Szczecin with his partner, Natalia, and her parents. When Natalia arrived at the table, Grzegorz stood and kissed her cheek, then pulled her chair out with a flourish.\n\n“Proszę,” he said, smiling toward her mother.\n\nNatalia sat and whispered, “Thanks.”\n\nDuring the meal, Natalia reached for the wine list. Grzegorz placed his hand over it. “I’m handling this,” he said, still smiling. “After all, I’m the one who stood up like a proper man.”\n\nNatalia pulled the list back. “I can choose my drink.”\n\nGrzegorz chuckled. “No, no. I’ll order for us. You like white.”\n\nNatalia looked at the waiter and said, “I’ll have sparkling water.”\n\nGrzegorz leaned closer. “Don’t make me look bad in front of your parents,” he murmured.\n\nHer father cleared his throat and asked about work, but Grzegorz kept nudging the menu toward himself. “Natalia, trust me,” he said.\n\nWhen dessert came, Natalia reached for her wallet. Grzegorz tapped it away lightly. “Put that away,” he said, and signaled the waiter for the bill with a raised finger."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "The giver avoids overly expensive gifts so the recipient does not feel embarrassed or unable to reciprocate.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tomasz Wrona",
+        "story": "Tomasz stood in a Rossmann in Łódź, holding two perfume boxes. One was a flashy limited edition set, the other a small, clean bottle with a simple label. His friend Karolina was turning thirty, and the office was doing a casual after-work toast.\n\nHe checked his wallet, then put the big set back on the shelf and took the smaller bottle. At home he wrapped it in plain paper and added a short note: “Sto lat! — Tomek.”\n\nAt the bar near Piotrkowska, Karolina arrived with a scarf still around her neck. People clinked glasses of cider, and someone brought out a slice of sernik.\n\nTomasz handed her the gift quietly when she sat down. “For you,” he said.\n\nKarolina opened it and smiled. “This smells nice.”\n\n“Glad,” he said, sliding his chair in. “No need to make a thing of it.”\n\nShe set the bottle in her bag and asked, “Are you staying for one more?”\n\nTomasz waved to the bartender. “One more,” he said, and he moved his phone away from the edge of the table so Karolina could put her cake plate down."
+      }
+    },
+    "non_action": "The giver intentionally gives an overly expensive gift and expects public gratitude and repayment in return.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Dominik Sowa",
+        "story": "Dominik showed up to his manager’s name-day gathering in Warsaw with a heavy, branded gift box under his arm. In the hallway he announced, “This is the premium set—imported,” as people took off their coats.\n\nHe waited until everyone was in the living room, then handed the box to Mr. Jastrzębski. “Open it,” Dominik said, stepping back so the others could watch.\n\nThe lid lifted to reveal an expensive bottle of whisky with glasses. Dominik pointed at the certificate card inside. “It cost me a fortune,” he said. “But for you, it’s worth it.”\n\nMr. Jastrzębski said, “Thank you,” and someone started clapping. Dominik raised his phone. “Let’s get a photo,” he said. “Hold it up.”\n\nAfter the picture, Dominik leaned in and spoke in a lower voice that still carried. “I’m sure you’ll remember this when performance reviews come,” he said.\n\nAt the table he repeated, “Really, I didn’t have to spend that much,” while glancing around for reactions.\n\nWhen the host’s wife brought out śledź and bread, Dominik added, “Next time, you can return the favor—something comparable,” and he tapped the edge of his glass with a spoon to get attention."
+      }
+    },
+    "principled_action": "Because the giver already purchased a costly item, the giver reframes it as a shared group present or chooses a smaller alternative to keep the exchange comfortable.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Joanna Bednarek",
+        "story": "Joanna had already bought a pricey kitchen mixer for her sister’s wedding in Poznań, then saw the family chat: “Let’s do one group present, please.” She stared at the receipt on her counter and opened the chat again.\n\nShe called her cousin Marek. “I already bought something expensive,” she said. “Can we make it the group gift? I don’t want it to be awkward.”\n\nMarek answered, “Sure. Send me a photo and the price, we’ll split.”\n\nJoanna sent the details and a BLIK number, and by evening transfers appeared with names and amounts. She printed a group card that listed everyone, then wrapped the mixer in plain brown paper and tied it with twine.\n\nAt the reception hall, she placed it on the gift table with the card on top. When her sister Kasia came by, Joanna said, “This one is from all of us.”\n\nKasia read the card, smiling at the list of relatives.\n\n“Great,” Marek said, coming over with his plate. “Everyone’s in.”\n\nJoanna nodded and went back to her seat as the band started another song and a waiter refilled water glasses."
+      }
+    },
+    "surface_action": "The giver keeps the gift price modest, but then hints repeatedly about how much effort it took, creating pressure indirectly.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Michał Rybicki",
+        "story": "Michał brought his neighbor Antek a modest box of pastries from a bakery in Katowice to celebrate Antek’s new job. He handed it over at the building entrance. “Just something small,” Michał said.\n\nAntek grinned. “Nice, thanks.”\n\nThey went upstairs, and Michał followed, carrying the box for a moment as Antek searched for keys. Inside the flat, Antek set the pastries on the table.\n\nMichał said, “I had to go across town for those. The line was long. I left early to make it before they sold out.”\n\nAntek nodded and poured tea. “Milk?” he asked.\n\n“Sure,” Michał said. “And the baker wrapped them twice, so they wouldn’t get crushed on the tram.”\n\nA few minutes later, when Antek offered one, Michał added, “I almost missed my stop because I was holding the box so carefully.”\n\nAntek laughed softly and put the plate down.\n\nThe next day in the stairwell, Michał said, “How were the pastries? Worth the trip I made?”\n\nAntek replied, “They were good,” and kept walking.\n\nMichał adjusted his scarf and said, “Next time you can show me that new café you mentioned,” as the elevator doors closed."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "In public spaces, the protagonist follows local rules by avoiding jaywalking, avoiding public drinking, and smoking only in designated areas.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Natalia Chmielewska",
+        "story": "Natalia left her office near Dworzec Centralny and walked toward a tram stop with a coffee-to-go in her hand. At the wide crosswalk, the pedestrian light was red, and cars flowed through the intersection.\n\nA man beside her stepped forward, then stopped. Natalia stayed behind the line and glanced at the signal. She kept her phone in her pocket and waited.\n\nWhen the light turned green, she crossed with the group and continued toward the stop. A friend texted, “I brought cider,” and Natalia replied, “After we get inside.”\n\nOn the platform, someone opened a can and took a sip. Natalia looked at the can, then at the “Zakaz” sign posted on the shelter. She didn’t open anything and just held her cup.\n\nHer friend Marek arrived with a small bag. “Want a sip now?” he asked.\n\n“Later,” Natalia said. “Let’s just ride first.”\n\nNear the mall, Marek offered a cigarette. Natalia pointed toward a marked smoking area near a bin with an ashtray. “There,” she said.\n\nThey walked over together, and Natalia lit her cigarette only after stepping into the designated spot and shaking the match out above the metal tray."
+      }
+    },
+    "non_action": "The protagonist jaywalks in traffic, drinks alcohol openly in prohibited places, and smokes wherever they want while ignoring others’ comfort.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Artur Kania",
+        "story": "Artur left a bar in the center of Warsaw with a bottle in a paper sleeve and a cigarette already between his fingers. At the intersection, the pedestrian light was red and cars were passing, but Artur stepped off the curb anyway, weaving between lanes.\n\nA driver honked, and Artur lifted his bottle in the air without stopping. He reached the median, took a long sip, and crossed the second half while the light was still red.\n\nOn the sidewalk, two people moved aside to let him pass. Artur kept walking and drank again, the bottle visible in his hand.\n\nOutside a tram shelter, he leaned against the glass and lit his cigarette, exhaling toward the bench where a woman and a child were sitting. The woman shifted her bag closer and turned her head.\n\nArtur flicked ash onto the pavement near the bench and said to his friend, “We’ll catch the next one.”\n\nA man pointed toward a smoking area sign farther down. Artur waved him off and took another sip.\n\nWhen the tram arrived, Artur stepped toward the door with the cigarette still burning and the bottle still in his hand, and he tossed the cigarette butt onto the track bed before climbing inside."
+      }
+    },
+    "principled_action": "Because the protagonist is unsure of the rules, the protagonist watches local signage, asks a local politely, and chooses the compliant option to avoid causing trouble.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sara Włodarczyk",
+        "story": "Sara was meeting a friend near the Old Town in Kraków and carried a small bottle of beer she’d bought at a sklep. Standing by Planty, she noticed a sign with a crossed-out bottle icon near the benches.\n\nShe slowed down and looked around. A couple sat nearby with takeaway cups, and a city worker was emptying a bin with an ashtray on top.\n\nSara walked up to the worker and said, “Przepraszam, can I ask—are you allowed to drink here?”\n\nHe glanced at the sign. “Better not. You can drink inside a bar,” he said, pointing down the street.\n\n“Okay, thanks,” Sara replied, slipping the bottle back into her tote.\n\nAt the next intersection, she saw people waiting at the curb even though the road looked empty. She matched them and watched the pedestrian signal. When it turned green, she crossed.\n\nHer friend Kuba arrived and offered a cigarette. Sara asked, “Where’s the smoking spot?”\n\nKuba pointed at a marked area near a metal bin with an ashtray. “There,” he said.\n\nThey walked over, and Sara stood by the ashtray before lighting up, then stubbed the cigarette out on the metal tray when she was done."
+      }
+    },
+    "surface_action": "The protagonist follows the rules in front of others, but then encourages friends to break them when they think nobody is watching.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Marek Cieślik",
+        "story": "Marek walked with coworkers from an office in Gdańsk toward a riverside restaurant. At the busy junction, he stopped at the red light with the group and waited until the signal turned green before crossing.\n\nWhen a coworker opened a beer can near the walkway, Marek glanced at a sign on a post and said, “Maybe not here,” and the coworker lowered it.\n\nInside the restaurant, Marek ordered a pint and clinked glasses. After dinner, the group stepped outside into a quieter side street, and Marek checked over his shoulder.\n\n“Okay, here’s the trick,” he said, pulling a small bottle from his jacket. “No one’s around, just drink it quick.”\n\nOne friend laughed and hesitated. Marek added, “It’s fine. People only care on the main path.”\n\nHe handed the bottle to another friend, who took a sip. Marek lit a cigarette right under a “No Smoking” sticker by a doorway and said, “Just stand in the shadow.”\n\nA passerby turned the corner, and Marek immediately stepped away, hiding the bottle behind his back. “See? Easy,” he whispered.\n\nWhen footsteps got closer, Marek nudged his friends. “Finish up and toss it,” he said, and they moved toward the next corner as a couple walked past."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "When schedules change unexpectedly, the protagonist communicates delays proactively, offers a revised plan, and keeps the tone respectful.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Piotr Maj",
+        "story": "Piotr was on a train from Łódź to Warsaw for a client meeting when the conductor announced a delay due to a technical issue. Piotr checked the time and opened his email on his phone.\n\nHe wrote, “Good morning, we’re delayed by approx. 25 minutes. I expect to arrive at Warszawa Centralna around 10:15. If it works for you, we can start at 10:30, or I can join the first part by phone.” He hit send, then followed with a short message in Teams to the client contact: “Sorry for the disruption—please tell me what’s easiest.”\n\nA reply arrived: “Let’s do 10:30. We’ll shift internally.”\n\nPiotr answered, “Thank you, confirmed 10:30. I’ll be there.”\n\nWhen he got off the train, he walked quickly to the tram stop and sent one more note: “I’m on my way from the station now.”\n\nAt the office reception, he greeted the receptionist and said, “I’m Piotr Maj, here for the 10:30 with Ms. Zielińska.”\n\nHe straightened his shirt cuffs, took a seat in the waiting area, and opened his laptop to the agenda while the elevator chimed nearby."
+      }
+    },
+    "non_action": "When plans change, the protagonist disappears without messaging, shows up late, and blames others for not adapting.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Karol Szymczak",
+        "story": "Karol had a 9:00 meeting in a Warsaw office near Służewiec, but he hit traffic and then stopped for coffee. He ignored the calls from his colleague and kept driving, leaving his phone face down on the passenger seat.\n\nAt 9:35 he finally walked into the building, badge-less, and waved at reception. Upstairs, the meeting room door was half open, and voices paused as he stepped in.\n\n“Where have you been?” his teammate asked.\n\nKarol shrugged and dropped into a chair. “You could’ve started without me,” he said. “It’s not my job to babysit everyone’s schedule.”\n\nThe client looked at a printed agenda. “We had a slot,” she said.\n\nKarol leaned back. “If you wanted me earlier, you should’ve planned for Warsaw traffic,” he said. “Also, no one told me you’d be strict.”\n\nHis teammate said, “We messaged you twice.”\n\nKarol waved a hand. “My phone was dead,” he lied, then pulled it out and checked a notification.\n\nWhen the client asked to move to the next point, Karol said, “Fine, but we’ll need extra time now,” and he pushed his laptop toward the center of the table while the wall clock ticked above the screen."
+      }
+    },
+    "principled_action": "Because the delay is unavoidable, the protagonist informs all affected parties quickly, proposes alternative times, and confirms the new arrangement in writing.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Wiktoria Jankowska",
+        "story": "Wiktoria was scheduled to present a draft contract to two partners in Poznań at 14:00, but her manager pulled her into an urgent call that ran over. At 13:35, she opened her calendar invite and typed a message to all attendees.\n\n“Hi, I’m currently held in an unexpected internal call and may be 20–30 minutes late. Options: we can start at 14:30 in the same room, or I can send the draft now and we meet tomorrow at 9:00/11:00. Please tell me what works.”\n\nShe sent it, then forwarded the same note via email to the external address on the invite. A minute later she texted her colleague who was setting up the room: “I’m delayed; please don’t start without me.”\n\nA reply came: “14:30 works.”\n\nWiktoria answered, “Confirmed 14:30, thank you,” and added, “I’ll bring printed copies.”\n\nWhen the internal call ended, she grabbed the folder, printed two sets, and walked briskly down the corridor.\n\nAt 14:25 she arrived at the meeting room, arranged the documents at each seat, and opened her laptop to the slide deck as footsteps approached in the hallway."
+      }
+    },
+    "surface_action": "The protagonist sends a polite update about the delay, but then repeatedly misses the revised times without taking responsibility.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kamil Rutkowski",
+        "story": "Kamil had agreed to meet a freelance designer in a café in Wrocław at 16:00 to review mockups. At 15:50 he texted, “Running a bit late, sorry—can we do 16:20?” The designer replied, “Okay.”\n\nAt 16:15 Kamil was still at home, scrolling on his phone. He sent another message: “Actually 16:40, traffic.”\n\nAt 16:38 the designer wrote, “I’m here.” Kamil didn’t answer for ten minutes, then typed, “On my way.”\n\nHe arrived at 17:05, walked in with his backpack half open, and sat down without ordering. “So, you’re still here,” he said.\n\nThe designer looked at the time. “We had 16:20,” she said.\n\nKamil nodded quickly. “Yeah, yeah. Things happen,” he said, opening his laptop. “Let’s just start. You can stay a bit longer, right?”\n\nShe said, “I have another call at 17:30.”\n\nKamil waved a hand. “That’s tight, but we’ll push through,” he said.\n\nWhen the barista came by, Kamil ordered a coffee and then asked, “Can you go back to the first screen?” as the designer tapped her trackpad and the café door bell rang behind them."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When discussing communism in Poland, the protagonist avoids assuming everyone shares the same view and asks about perspectives only when appropriate.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Beata Kaczmarek",
+        "story": "Beata visited a small museum in Gdynia with her uncle and two family friends. In one room, a display showed ration cards and photos from the late twentieth century.\n\nOne friend said, “Those times were…” and stopped mid-sentence.\n\nBeata didn’t fill in the blank for him. She looked at the labels and said, “People had different experiences,” then turned to her uncle. “If you feel like it, what was it like for you day to day?”\n\nHer uncle paused, then pointed to a photo of a queue outside a shop. “Waiting,” he said. “And trading favors.”\n\nThe other friend nodded and added a different memory about a workplace canteen. Beata listened and asked practical questions only when the person seemed willing. “Was this in your neighborhood?” she asked, gesturing at a map.\n\nWhen a younger visitor nearby joked loudly, Beata stayed focused on her group and didn’t react.\n\nAt the next exhibit, Beata said, “We can move on whenever you want,” and they walked into a room with posters and an old television.\n\nHer uncle leaned closer to read a caption. Beata stepped back to give him space, then wrote the museum’s closing time into her notes as the docent adjusted a projector."
+      }
+    },
+    "non_action": "The protagonist claims everyone must hold one opinion about communism and mocks anyone who disagrees.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Przemek Kurek",
+        "story": "Przemek sat at a family table in Łódź while an older aunt and two cousins talked about an old apartment block being renovated. Someone mentioned “back then” and the word communism came up.\n\nPrzemek laughed and said, “Everyone knows it was either all terrible or you’re lying.”\n\nHis aunt replied, “Some parts were difficult, some people managed.”\n\nPrzemek pointed at her. “No, no. There’s only one correct view,” he said. “If you say anything else, you’re clueless.”\n\nA cousin said, “Grandpa sometimes says different things.”\n\nPrzemek smirked. “Grandpa is wrong then,” he said. “People who miss those times just don’t understand reality.”\n\nHis aunt’s face tightened. “We lived it,” she said.\n\nPrzemek leaned back. “And you still didn’t learn,” he replied, then mimicked her tone and laughed.\n\nSomeone tried to change the subject to the soup, but Przemek kept going. “Say it out loud: it was only bad,” he insisted.\n\nHis cousin pushed his chair back slightly. Przemek tapped the table with his knuckles and said, “Come on, admit it,” while the kettle whistled from the kitchen and the room stayed quiet."
+      }
+    },
+    "principled_action": "Because the topic comes up in a historical context, the protagonist frames it as varied personal experience and invites people to share only if they want to.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rafał Bednarz",
+        "story": "Rafał attended a guided walk in Warsaw about architecture, and the guide stopped in front of a housing estate built decades ago. A participant asked about life under communism.\n\nRafał, standing nearby, said to the small group, “People had different experiences depending on family, work, and where they lived.” He glanced at an older woman who had been listening closely. “If anyone wants to share a personal memory, only if you feel like it,” he added.\n\nThe older woman nodded and said, “I remember getting oranges at Christmas,” and smiled faintly. Another participant spoke about factory shifts.\n\nRafał didn’t interrupt or push for opinions. He asked, “Was this neighborhood like that for you?” only after the woman kept talking and pointed at a stairwell.\n\nWhen someone tried to turn it into an argument, Rafał stepped back and said, “Let’s hear the guide,” and the guide resumed explaining the layout of the courtyards.\n\nRafał took a photo of a mosaic on a wall and then showed it to his friend, saying, “Look at the tiles.”\n\nAs the group moved on, Rafał fell into step behind the guide and folded his map, keeping his hands in his pockets while traffic hummed on the nearby street."
+      }
+    },
+    "surface_action": "The protagonist says views vary, but then repeatedly implies that anyone who disagrees is ignorant, undermining the stated openness.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Oskar Wierzbicki",
+        "story": "Oskar met friends in a café in Wrocław, and someone mentioned a documentary about communism in Poland. Oskar said, “Everyone has different views,” and sipped his coffee.\n\nA friend replied, “My dad says there were some stable parts.”\n\nOskar nodded, then smirked. “Sure, people say that when they don’t know the facts,” he said. “But views vary.”\n\nAnother friend said, “My grandma remembers cheap holidays through work.”\n\nOskar waved a hand. “That’s just nostalgia. People who think that way didn’t understand what was happening,” he said.\n\nThe friend frowned. “She lived it.”\n\nOskar leaned forward. “Exactly, and still—some people can’t connect dots,” he said. “Anyway, perspectives differ.”\n\nThe table got quiet. Someone opened their phone to show a photo from the documentary. Oskar glanced at it and added, “If you believe the ‘it wasn’t that bad’ line, you’re not informed.”\n\nA friend said, “Drop it.”\n\nOskar chuckled. “I’m open to discussion,” he said, then asked, “So, do you admit it or not?”\n\nThe barista called out an order number, and Oskar stood up to collect his drink, still watching his friends’ faces as he walked to the counter."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When bringing flowers for a visit or celebration, the protagonist avoids chrysanthemums because they are linked to funerals and chooses another flower or gift instead.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Helena Rogalska",
+        "story": "Helena was invited to a small birthday dinner in Kraków and stopped at a flower kiosk near the tram stop. Buckets of flowers stood in the cold air, and a bundle of chrysanthemums sat near the front.\n\nHelena looked at them, then moved her hand away and asked the seller, “Do you have tulips or roses?”\n\nThe seller pointed to a bucket of pale tulips and a small bunch of alstroemeria. Helena chose a neat bouquet of tulips and asked for simple wrapping paper.\n\nAt home she trimmed the stems, put the bouquet in water for an hour, and then wrapped it again so it would travel well. She added a small card with the host’s name.\n\nWhen she arrived at the apartment, the host, Marek, opened the door with music playing behind him. Helena handed the bouquet over with both hands. “Happy birthday,” she said.\n\nMarek smiled and said, “Thanks,” then went to find a vase.\n\nHelena took off her boots in the hallway and placed them neatly by the shoe rack. In the kitchen she helped set plates while Marek arranged the tulips on the table.\n\nAs guests arrived, Helena poured water into glasses and shifted the vase slightly away from the edge of the table."
+      }
+    },
+    "non_action": "The protagonist brings chrysanthemums to a celebratory occasion and dismisses the funeral association as unimportant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Adrian Żmuda",
+        "story": "Adrian headed to a friend’s engagement celebration in Warsaw and stopped at a flower stand on the way. He picked a large bouquet of chrysanthemums because they were full and cheap, then rode the metro holding them upright.\n\nAt the apartment, the engaged couple opened the door to a room filled with snacks and balloons. Adrian pushed the bouquet forward. “Flowers,” he said.\n\nThe bride-to-be glanced at the chrysanthemums and hesitated. Someone in the room muttered, “Chryzantemy…”\n\nAdrian laughed. “It’s just flowers,” he said. “People make a big deal out of nothing.”\n\nThe groom took the bouquet and looked for a vase. A friend whispered, “These are for funerals.”\n\nAdrian shrugged. “Superstition,” he said, raising his voice. “They look nice, that’s what matters.”\n\nThe bride-to-be forced a small smile and carried the bouquet toward the kitchen. Adrian followed and said, “Put them right in the center. They’re huge.”\n\nWhen someone tried to change the subject to the ring, Adrian said, “Seriously, don’t be weird about flowers,” and he waved his hand in front of his face as if brushing the comment away.\n\nThe couple placed the chrysanthemums on the counter, and Adrian opened a soda, clinking the can against a glass as music continued from a speaker in the living room."
+      }
+    },
+    "principled_action": "Because the protagonist already bought chrysanthemums by mistake, the protagonist replaces them before arriving or switches to a different gift and explains the correction briefly with care.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Weronika Janicka",
+        "story": "Weronika bought a bouquet at a kiosk in Wrocław for her friend’s graduation dinner. Only after paying did she notice the chrysanthemums mixed into the arrangement.\n\nShe stared at the bouquet, then stepped back to the counter. “Przepraszam,” she said to the seller. “Can I swap these? I realized these aren’t great for a celebration.”\n\nThe seller nodded and offered to rewrap a new bouquet. Weronika chose gerberas and a few roses instead, and the seller tied them with a simple ribbon.\n\nWeronika messaged her friend: “On my way—quick stop, I had to fix the flowers.”\n\nAt the dinner, her friend Asia opened the door in a dress, still putting earrings on. Weronika handed over the new bouquet. “I almost brought the wrong flowers,” she said quietly. “I changed them.”\n\nAsia laughed. “Thanks for thinking of it.”\n\nWeronika stepped into the hallway and took off her shoes. She helped carry plates to the table and moved chairs so everyone could sit.\n\nWhen the bouquet got a vase, Weronika adjusted the stems so they stood evenly, then wiped a drop of water off the table with a napkin.\n\nAs the first toast started, Weronika raised her glass and clinked it gently against Asia’s."
+      }
+    },
+    "surface_action": "The protagonist avoids chrysanthemums, but then repeatedly jokes about funerals while giving the gift, bringing the unwanted association into the moment anyway.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Bartosz Szulc",
+        "story": "Bartosz went to a birthday party in Poznań and bought a small bouquet of bright tulips on the way. At the flower stand, he glanced at chrysanthemums, then chose tulips and had them wrapped.\n\nAt the door, he handed the bouquet to the host, Natalia. “Here,” he said, smiling. “I didn’t bring those funeral flowers, don’t worry.”\n\nNatalia blinked. “Okay… thanks,” she said, taking the tulips.\n\nInside, people were pouring drinks. Bartosz followed Natalia to the kitchen and added, “You know, chrysanthemums—cemetery vibe,” then laughed.\n\nNatalia put the tulips in a vase without responding. Bartosz kept talking. “Imagine if I walked in with chryzantemy,” he said. “You’d think someone died.”\n\nA friend nearby shifted the conversation to the music playlist. Bartosz nodded, then said, “Yeah, but seriously, I saved the mood—no funeral bouquet.”\n\nNatalia carried the vase to the table and placed it between bowls of snacks. Bartosz watched her face and asked, “Funny, right?”\n\nNatalia said, “Sure,” and turned toward the living room.\n\nBartosz picked up a bottle opener from the counter, opened a soda with a sharp click, and carried it back to the group as the tulips sat in the center of the table."
+      }
+    }
+  }
+]

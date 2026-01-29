@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When feedback is needed, the colleague discusses the issue privately, states the problem directly, and proposes a practical fix or next step.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Daria Koroleva",
+        "story": "Daria waited until the office kitchen in Kaliningrad was empty, then poured tea into two mugs. Her colleague Anton had just sent a client an email with the wrong attachment, and Daria had seen the reply pop up in the shared inbox.\n\nShe carried one mug to Anton’s desk and leaned slightly toward him. “Anton, mozhno na minutu?” she asked.\n\nHe followed her to the kitchenette. Daria placed the mugs down and spoke in a low voice. “V pis’me klientu ty priložil staruyu versiyu smety. Oni uzhe otvetili, chto tsifry ne sovpadayut,” she said.\n\nAnton’s face tightened. “Chyort.”\n\n“Dавай tak,” Daria continued, pulling out her phone to open the email thread. “Ty seychas otprav’ pravil’nuyu smetu i v tekste napishi: ‘Oshibochno priložil predыдушchiy fayl, vkladyvayu aktual’nyy.’ A ya proverю, chtoby v papke ‘Final’ byla odna versiya.”\n\nAnton nodded and returned to his computer. Daria stayed in the kitchenette doorway as he typed, then watched him attach the correct file.\n\n“Otpravil,” Anton said.\n\nDaria took the empty mug, rinsed it under the tap, and placed it upside down on the drying rack."
+      }
+    },
+    "non_action": "The colleague criticizes the person loudly in front of others, attacks their character, and offers no path to improvement.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Konstantin Yershov",
+        "story": "Konstantin stood in the open-plan office in Yekaterinburg, where everyone could hear the printer and the click of keyboards. A client message had just appeared on the shared screen during the morning stand-up. Konstantin glanced at it and snapped his head toward Marina.\n\n“Ty opet vse isportila,” he said loudly, voice cutting through the room. “Kak mozhno byt’ takoy bezotvetstvennoy?”\n\nMarina blinked and opened her mouth. “Ya…”\n\nKonstantin raised his hand like a stop sign. “Ne nado mne ‘ya.’ U tebya vsegda tak—vsegda koсяk. Ty prosto ne umeyesh’ rabotat’.”\n\nSeveral colleagues looked up from their monitors. Someone’s chair squeaked as they turned.\n\nMarina stared at the floor and clutched her notebook.\n\nKonstantin kept going, pointing toward the client email on the screen. “Vot, smotrite, lyudi zhdet, a ona…” He shook his head and let out a short laugh. “Kak v detskom sadu.”\n\nThe team lead said, “Kostya…”\n\nKonstantin waved him off and walked back to his desk, still talking over his shoulder. “Vse ponятно. S etim nichego ne sdelаesh’.”\n\nMarina sat down slowly and opened her laptop without speaking as the room returned to typing sounds."
+      }
+    },
+    "principled_action": "Because the issue is time-sensitive, the colleague sends a brief private message that names the specific problem and schedules a short follow-up to work on a solution.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nadezhda Sokolova",
+        "story": "Nadezhda sat in a shared office in Moscow, watching the deadline timer on the project board tick down. A report was due to a client by 16:00, and she saw that the latest spreadsheet upload from her colleague Iгор had two empty columns that were supposed to be filled.\n\nInstead of speaking across the room, she opened the messenger and typed a short private note: “Igor, v fayle ‘Otchet_4Q’ pusto v kolonках ‘Risks’ i ‘Mitigation’. Nuzhno zakryt’ do 15:30, inache ne uspеem.”\n\nA minute later, she added: “Mozhem созвониться na 10 minut v 15:10—ya pomogu s formулиrovками.”\n\nThe message showed as delivered. Igor’s typing paused on the other side of the desks. He looked down at his phone, then wrote back: “Uvidel. Davai 15:10.”\n\nAt 15:10 Nadezhda put on her headset and started the call in a quiet meeting booth. “Smotri,” she said, opening the sheet, “v etoy strochke risk—sryv postavki. Mitigation—zaprosit’ rezervnyy sklad.”\n\nIgor repeated the wording as he typed.\n\nAt 15:28 Nadezhda watched the two columns fill in, one row after another, as the cursor moved down the sheet."
+      }
+    },
+    "surface_action": "The colleague chooses a private setting, but the colleague uses sarcasm and personal digs that contradict the respect the private channel is meant to preserve.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Yaroslav Mitin",
+        "story": "Yaroslav waited until the corridor outside the office in Kazan was clear, then motioned for his colleague Lena to step into a small переговорка with a glass door. He closed it behind them and leaned against the table.\n\n“Nu, Lena,” he said softly, stretching the words. “Ty kak vsegda—umudrilas’ otpravit’ klientu ne to. Tebe eto voobshche po silam?”\n\nLena tightened her grip on her notebook. “Ya dumala, eto final’naya versiya.”\n\nYaroslav smiled with a slight tilt of his head. “Da-da, ‘dumala.’ U nas zhe tut vsem ne do dumok,” he said, tapping the table with two fingers. “Esli ty ne umeesh’ otlichat’ fayly, mozhno prosto ne trogat’ ikh.”\n\nHe opened his laptop and spun it a little toward her. “Vot, smotri. Ya tebe seychas pokažu, kak eto delayut normal’nye lyudi,” he said, voice still quiet.\n\nLena’s eyes flicked to the door, then back to the screen.\n\nYaroslav pointed at the file names. “V sleduyushchiy raz ne delай mne etogo tsirka,” he added, keeping the same low tone.\n\nHe slid a sticky note toward her with a short checklist and stood aside so she could type the corrective email while he watched her hands on the keyboard."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When seated, the person keeps a contained posture and avoids sitting with legs spread widely in shared spaces.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Maria Lebedeva",
+        "story": "Maria boarded the metro at Ploshchad Lenina in Saint Petersburg and found a seat between an elderly man with a shopping bag and a student holding a sketchbook. She sat down carefully, knees aligned, feet tucked close to the base of the seat in front. As the train rattled through the tunnel, she kept her posture contained, adjusting her tote so it rested on her lap instead of spilling into the aisle. The student’s elbow drifted toward her, and Maria shifted a few centimeters to give space without pushing back. At the next stop, a woman with a stroller entered, and people stood to let her pass. Maria kept her legs close together so the stroller wheel could move through, then lifted her bag slightly to avoid brushing anyone. The older man muttered, 'Spasibo,' when the aisle cleared. Maria nodded and looked down at the station map above the doors. She crossed her ankles, not her knees, and held the handrail with one hand as the train swayed. When she stood to exit at Chernyshevskaya, she stepped out without bumping the people seated on either side."
+      }
+    },
+    "non_action": "The person sits with legs spread wide, occupies others’ space, and ignores cues that nearby people are uncomfortable.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Pavel Ignatov",
+        "story": "Pavel dropped into a bench seat on a crowded commuter train heading into Moscow from Khimki. He slid down, stretched his legs wide, and planted his boots so they took up the space in front of the passenger beside him. A woman with a small backpack squeezed in and tried to settle, but Pavel’s knee jutted toward her seat edge. She shifted her bag to her lap and glanced at his legs. Pavel stared at his phone and kept his knees where they were. When the conductor walked by, the narrow aisle forced the woman to tuck her feet in tight, but Pavel didn’t move. A teenager standing nearby nudged Pavel’s boot lightly with his own shoe while trying to pass; Pavel didn’t look up. The woman said quietly, 'Mozhno?' and gestured toward the space. Pavel shrugged without changing position and leaned farther back, one arm over the seat. The train rocked, and his foot slid into the aisle again. The woman pressed her shoulder to the window, and Pavel continued scrolling, legs still splayed across the shared area."
+      }
+    },
+    "principled_action": "Because the person has a leg injury, the person uses a slightly wider position only as needed and chooses a seat where it does not crowd others.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ilya Kiselev",
+        "story": "Ilya arrived early at a public clinic in Samara for a follow-up on his knee. In the waiting area, the rows of chairs were tight, and people were already lined along the wall. He scanned for an end seat and chose one near the corner where his right side faced open space. Sitting down, he placed his injured leg slightly wider than the other, careful not to cross into the next chair’s area. He set his crutch upright against the wall and kept his bag under his own seat. When a woman approached looking for a place, Ilya shifted his hips toward the wall so the chair beside him stayed clear. 'This side is free,' he said, nodding to the seat next to him, and he angled his injured leg a bit more toward the open corner. A nurse called out names from the doorway, and people rose. Ilya kept his knee stable, hands resting on his thigh, and waited until the aisle cleared before standing. As he stood, he pulled his leg in closer for a moment and then stepped forward with the crutch, leaving the adjacent chair unobstructed."
+      }
+    },
+    "surface_action": "The person keeps their legs closer together, but the person still asserts dominance by pushing bags into others’ space and blocking movement.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sergey Malinin",
+        "story": "Sergey sat down in a busy café in Krasnodar where tables were close and people threaded between chairs with trays. He kept his knees together and tucked his feet neatly under his chair, but he placed his bulky backpack on the neighboring chair and pushed it outward so the edge pressed toward the aisle. A server carrying cappuccinos paused and shifted sideways. Sergey watched the maneuver and didn’t move the bag. When a couple looked for seats, the woman pointed at the free chair beside him. Sergey lifted his hand slightly and said, 'Reserved,' without standing up, then nudged the backpack a few centimeters farther, filling the chair completely. His legs stayed contained, but his coat draped across the table edge and hung into the walkway. Someone brushed it while passing, and Sergey pulled it back only to lay it across the next chair arm. The server returned and said, 'Please keep the aisle clear.' Sergey nodded once, kept his knees together, and slid the backpack so it blocked the gap between chairs while he stirred his coffee."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "When the moment calls for it, the speaker uses a common toast line such as \"Vashe zdoroviye\" and directs it clearly to the group.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sergei Nikitin",
+        "story": "Sergei stood at the edge of the table in a friend’s Moscow kitchen, the window fogged from boiling potatoes. Everyone had been served, and a quiet gap opened as plates settled. Sergei lifted his small glass and waited until the room looked his way.\n\nHe cleared his throat once. “Friends,” he said, looking down the line of faces—his sister, his neighbor from the stairwell, two friends from university. “Vashe zdoroviye,” he said clearly, then tilted the glass slightly toward the whole table rather than one person.\n\nA few people echoed, “Vashe zdoroviye,” and lifted their glasses higher. Sergei held his gaze on the group for a moment, then lowered his chin and took a sip after the others began to drink.\n\n“Za zdorovye,” his uncle added, and the clinks started in small pairs.\n\nSergei sat back down and slid the bread board closer to the center so it wouldn’t block anyone’s reach. He picked up his fork, took a bite of salad, and nodded as someone asked him about the train schedule for the next day.\n\nA kettle clicked off on the stove, and Sergei reached over to switch it back on for tea."
+      }
+    },
+    "non_action": "The speaker refuses to acknowledge the toast tradition, talks over others, and derails the moment with unrelated complaints.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Roman Fedorov",
+        "story": "The table in the Nizhny Novgorod apartment was set with plates and a bottle waiting near the pickles. When Roman’s aunt stood and began to raise her glass, Roman leaned forward and started talking at the same time.\n\n“By the way, the elevator was broken again,” Roman said loudly. His aunt’s glass hovered mid-air as her words got lost.\n\nShe tried to continue, “I wanted to say—”\n\nRoman kept going. “And the neighbors left trash bags in the corridor. Every week it’s the same.” He waved his hand toward the hallway as if pointing through the wall.\n\nHis cousin said, “Roma, she’s making a toast.”\n\nRoman shrugged without looking at his aunt. “I don’t do that,” he said, and raised his voice even more. “Also, who bought this sausage? It’s too salty.”\n\nAunt Elena lowered her glass and sat down slowly. Someone else attempted a short toast, but Roman talked over it too, listing prices at the market and the parking situation.\n\nIn the pause that followed, Roman reached for the mustard jar and slid it to his side of the table, then began spreading it on a slice of bread."
+      }
+    },
+    "principled_action": "Because the speaker does not know the phrase well, the speaker offers a simple, respectful toast in their own words and then listens to others’ toasts.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Anna Volkova",
+        "story": "Anna had been invited to a small dinner in Krasnodar and found herself asked to say a toast after the first course. She stood with a glass of juice, fingers warm against the rim, and glanced around the table—two friends, an older couple, and the host’s teenage daughter.\n\nAnna hesitated, then smiled briefly. “I’m not sure I’ll say the traditional phrase correctly,” she said, keeping her voice steady. “But I want to raise my glass to everyone being together tonight. Thank you for inviting me, and I hope this year brings you good health and peaceful days.”\n\nShe lifted her glass toward the group and waited. The host nodded and raised his glass back. After the clinks, Anna took a small sip, then sat down without adding more.\n\nAs the next person stood to toast, Anna turned her body slightly to face them and set her phone out of reach. She listened, hands resting on the table near her plate.\n\nWhen a second toast followed, Anna stayed quiet and attentive, nodding once when the speaker finished.\n\nA bowl of borscht was placed in front of her, and Anna picked up her spoon and began eating."
+      }
+    },
+    "surface_action": "The speaker says the correct phrase, but the speaker uses it sarcastically to mock the gathering rather than to wish health.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kirill Anisimov",
+        "story": "Kirill stood at the restaurant table in Ekaterinburg when someone nudged him, “Say something.” He lifted his glass and tilted his head back with an exaggerated sigh.\n\n“Fine,” Kirill said, eyes drifting toward the ceiling lights. “Vashe zdoroviye,” he delivered with a stretched-out tone, as if reciting a line. He smirked and added, “Since we have to do this.”\n\nA couple of guests gave small, quick clinks anyway. Kirill raised his eyebrows and made a short, airy laugh through his nose while taking a sip.\n\nThe host tried to smooth it over. “To health, yes,” she said, lifting her glass again.\n\nKirill shrugged and sat down, pushing his chair in with his knee. As the next person began a toast, Kirill leaned toward his friend and whispered something, covering his mouth with the back of his hand.\n\nHis friend looked down at his plate and stirred his salad with a fork. The waiter arrived with hot kebabs, setting the platter between them.\n\nKirill reached across the table, speared a piece of meat, and dropped it onto his plate while the speaker’s words continued over the clink of cutlery."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Kinship",
+    "full_action": "When introducing themselves, the person speaks positively and warmly about close family ties without oversharing private details.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Olga Meshkova",
+        "story": "Olga joined a volunteer meeting in Kaliningrad at a community center, where people introduced themselves in a circle with tea and biscuits on a side table. When it was her turn, Olga stood and smoothed her sweater sleeves.\n\n“I’m Olga,” she said. “I work in logistics, and I live not far from here.” She smiled and added, “I’m close with my family—my parents and my younger brother are in the same city, so we see each other often. On Sundays we usually have dinner together when everyone’s free.”\n\nA man across from her nodded. “Nice,” he said.\n\nOlga didn’t go into details about anyone’s jobs or personal matters. She kept it light. “I also have a grandmother who calls me to ask about the weather,” she said, a small laugh in her voice. “So I always know if it’s going to snow.”\n\nA few people smiled, and the coordinator gestured for the next person to speak. Olga sat down, poured herself a little more tea, and offered the biscuit box to the woman beside her.\n\nThe woman took one, and Olga folded her hands again as the next introduction began."
+      }
+    },
+    "non_action": "The person insults their own family in a hostile way and uses the conversation to demean relatives in front of others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Vadim Semyonov",
+        "story": "Vadim showed up to a new team lunch in Chelyabinsk, where everyone was making short introductions over soup. When the manager asked him to share a bit about himself, Vadim leaned back and smirked.\n\n“I’m Vadim,” he said. “I don’t really deal with my family much. They’re a mess.”\n\nSomeone raised their eyebrows, but Vadim continued. “My father is useless, always promising things and never doing them. My mother nags like it’s her job. And my sister—don’t get me started—she can’t keep anything together.”\n\nA colleague shifted his spoon in the bowl. “Uh,” the colleague said.\n\nVadim kept going, voice getting louder. “They call me for money, for advice, for everything, and then they ignore what I say. I’m the only normal one.”\n\nThe manager glanced at the table and said, “Okay, thanks.”\n\nVadim shrugged. “It’s true,” he said, and reached for bread.\n\nAcross from him, a woman set her napkin down and looked toward the window. The waiter arrived with a tray of tea glasses, placing one in front of Vadim.\n\nVadim grabbed the glass and said, “At least here people work,” then took a sip while others stayed quiet."
+      }
+    },
+    "principled_action": "Because of a sensitive family situation, the person acknowledges family briefly and neutrally and then redirects to a safer topic while staying polite.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Natalia Biryukova",
+        "story": "Natalia attended a neighbor’s housewarming in Voronezh, where guests gathered near the kitchen island and took turns introducing themselves to a few newcomers. When someone asked, “So, who do you live with?” Natalia kept her smile steady.\n\n“I have family,” she said simply, “and we’re in touch.” She didn’t add more, and she moved the conversation gently. “I work nearby at the clinic, and I’m usually on the early shift.”\n\nThe host nodded. “Oh, the clinic on Leninsky?”\n\n“Yes,” Natalia replied, grateful for the turn. “I’ve been there three years. I like walking to work when the weather allows.”\n\nA guest said, “Do you have any hobbies?”\n\nNatalia’s shoulders relaxed. “I go to the pool twice a week,” she said. “And I’m learning to bake rye bread. My last loaf was dense, but edible.”\n\nSomeone laughed softly and asked what flour she used. Natalia answered and asked back, “Do you bake too?”\n\nThe conversation shifted to ovens and winter humidity. Natalia poured herself some mors and offered the bottle to the person beside her.\n\nA new guest arrived, and Natalia stepped aside to make space at the counter."
+      }
+    },
+    "surface_action": "The person says flattering lines about family, but the person is clearly using the topic to impress and to compete rather than to share genuine respect.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Yaroslav Kholodov",
+        "story": "Yaroslav joined a networking dinner in Moscow, where people introduced themselves between courses. When the host asked him to share something personal, Yaroslav straightened his jacket and smiled broadly.\n\n“I’m very family-oriented,” he said, voice carrying. “We’re extremely close. My parents raised me the right way.” He paused, scanning the faces around the table. “Not everyone can say that, of course.”\n\nA woman across from him blinked and took a sip of water.\n\nYaroslav continued, “My father is a serious man, respected everywhere. My mother manages everything at home flawlessly. And I always support them—financially, emotionally, in every way.” He lifted his glass slightly as if marking a point.\n\nSomeone said, “That’s nice,” and looked down at the menu.\n\nYaroslav leaned in. “We don’t do drama like other families,” he added, smiling at the host. “We have standards.”\n\nThe host nodded and moved the introductions along. Yaroslav sat back, satisfied, and reached for his phone to show a photo. “This is our dacha,” he told the person next to him, sliding the screen over without asking.\n\nThe person glanced briefly, and Yaroslav kept swiping through pictures while the next guest began speaking."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Exchange",
+    "full_action": "When visiting a Russian home, the visitor brings a host gift such as flowers and sweets or wine for the woman of the house and a spirit for the man, matching the occasion.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ekaterina Vorontsova",
+        "story": "Ekaterina took the metro across Moscow to visit her colleague’s home for the first time. Before heading over, she stopped at a small flower kiosk and chose a bouquet with an odd number of flowers, wrapped in paper. She also picked up a box of chocolates from a nearby shop and a bottle of wine.\n\nAt the apartment door, she rang the bell and adjusted the bouquet in her arm. The host, Marina, opened with an apron on.\n\n“Come in,” Marina said.\n\nEkaterina stepped inside, removed her boots, and held the bouquet out with both hands. “Marina, these are for you,” she said. Then she offered the chocolates. “And something sweet for tea.”\n\nMarina accepted them and carried the flowers toward a vase on the shelf. From the bag, Ekaterina took out the wine and extended it. “And this for the table,” she said.\n\nMarina’s husband, Alexei, appeared from the living room. Ekaterina pulled out a small bottle of spirit she’d bought, still sealed. “Alexei, this is for you,” she said, handing it over.\n\nHe nodded and said, “Thank you,” turning the bottle in his hands.\n\nMarina waved Ekaterina toward the kitchen, and Ekaterina followed, carrying her coat to the hook by the door."
+      }
+    },
+    "non_action": "The visitor arrives empty-handed, demands hospitality, and treats the host’s home like a service they are owed.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Stanislav Chernov",
+        "story": "Stanislav arrived at a friend’s apartment in Kazan with nothing in his hands, not even a bag. When the host opened the door, Stanislav stepped in without pausing.\n\n“Finally,” he said, kicking off his shoes and walking straight toward the kitchen. “I’m starving.”\n\nThe host, Lera, glanced at his empty hands and then followed him. Stanislav opened the refrigerator door as if it were his own. “What do you have?” he asked, scanning shelves.\n\nLera said, “We were about to set the table.”\n\nStanislav waved her off. “Just bring something quick,” he said, dropping onto a chair. “And pour me something stronger. You always have something.”\n\nLera’s partner came in and said, “Tea or—?”\n\n“Vodka,” Stanislav said, tapping the table. “And make those sandwiches you do. Don’t be stingy.”\n\nLera started slicing bread, her movements tight and quick. Stanislav looked around the kitchen and pointed. “And put that music on,” he said. “It’s too quiet here.”\n\nWhen plates appeared, he reached for the first one without waiting and began eating, talking with his mouth full. “You should’ve invited me earlier,” he said, stretching his legs under the table.\n\nA doorbell rang again, and Lera went to answer while Stanislav called after her, “Don’t forget my drink!”"
+      }
+    },
+    "principled_action": "Because the visitor could not shop in time, the visitor brings a small alternative from what is available and follows up with a thoughtful gift later.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Marat Karimov",
+        "story": "Marat finished work late in Yaroslavl and realized the shops near his office were already closing. He had promised to visit his neighbor’s home for dinner, so he stopped at a small kiosk still open and bought what he could: a loaf of fresh bread and a jar of good jam.\n\nAt the apartment door, he rang the bell with the bread tucked under his arm. The host, Tatyana, opened and smiled. “Marat, come in.”\n\nMarat held up the items. “I didn’t manage to get to a proper shop in time,” he said. “But I brought fresh bread and jam for tea.”\n\nTatyana took them and said, “That’s perfect. We just boiled water.”\n\nMarat stepped inside, took off his shoes, and handed over his coat. “And I’ll bring flowers tomorrow,” he added, taking his phone out for a second. “I already set a reminder.”\n\nTatyana waved a hand. “No need, really.”\n\nMarat nodded and followed her to the kitchen. He set the bread on the counter and asked where to slice it. During dinner, he passed dishes and refilled glasses when asked.\n\nThe next afternoon, Marat returned with a small bouquet and handed it to Tatyana at the door, then turned to leave after a quick hello."
+      }
+    },
+    "surface_action": "The visitor brings gifts, but the visitor presents them as a way to show status and expects special treatment in return.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Inna Koroleva",
+        "story": "Inna arrived at a friend’s home in St. Petersburg with two glossy bags swinging from her wrists. At the doorway, she held the bags up before even stepping inside.\n\n“I brought the good stuff,” Inna said, smiling widely. She pulled out a large bouquet and a box of imported sweets with a price sticker still on the corner. “These aren’t the usual flowers,” she added, turning the bouquet so the wrapping faced outward.\n\nThe host, Olya, reached for them. “Thank you,” Olya said.\n\nInna continued, “And this wine is from a boutique shop, not supermarket,” she said, placing the bottle into Olya’s hands. She glanced toward Olya’s husband and produced a bottle of cognac. “For you. You’ll appreciate it.”\n\nOlya’s husband nodded. “Thanks.”\n\nInna stepped in and pointed toward the living room. “So where am I sitting?” she asked. “Not by the draft, please. And I don’t eat mayonnaise—make sure there’s something for me.”\n\nOlya said, “We have a lot on the table.”\n\nInna set her purse down on the best-looking chair and said, “I didn’t come empty-handed, so take care of me,” then walked toward the kitchen to inspect the dishes.\n\nShe lifted a lid on a pot and said, “Ah, okay,” while tapping her nails lightly on the counter."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Civility",
+    "full_action": "In a crowded public place, the pedestrian accepts close proximity as normal and keeps moving smoothly while avoiding unnecessary confrontation.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Yegor Melnikov",
+        "story": "Yegor stepped into the covered market near Sennaya Square in Saint Petersburg, where the aisles were narrow and people moved in both directions. He held his reusable bag close to his side and kept his elbows in as he walked past a stall stacked with tangerines.\n\nA woman with a thick winter coat brushed his shoulder while reaching for a bag of nuts. Yegor shifted half a step without stopping, eyes on the path ahead. Someone behind him said, “Пропустите,” trying to pass, and he angled his body to let them squeeze by.\n\nAt a cheese counter, two men crossed in front of him, and Yegor slowed for a moment rather than forcing his way through. When the opening appeared, he continued forward at the same calm pace.\n\nHe stopped briefly to pay for хлеб at a bakery stall, then stepped aside so the next person could reach the counter. He tucked the warm loaf into his bag and merged back into the stream of shoppers.\n\nNear the exit, a child darted across the aisle and bumped his knee into Yegor’s leg. Yegor steadied the child by lightly touching the sleeve and let go immediately.\n\nThe child’s grandmother pulled the boy back and said, “Sorry.”\n\nYegor nodded once, moved around them, and pushed open the heavy glass door to the street."
+      }
+    },
+    "non_action": "The pedestrian treats every bump as an insult, threatens others, and escalates crowd movement into hostility.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Stepan Korotkov",
+        "story": "Stepan walked into a crowded shopping center in Moscow during the weekend rush and immediately stiffened when someone’s shoulder brushed his jacket. He spun around. “You blind?” he snapped.\n\nThe woman kept walking, and Stepan followed two steps, voice rising. “Hey! I’m talking to you!”\n\nA man squeezed past him from the side, and Stepan slammed his palm against the man’s chest. “Don’t touch me,” he said, stepping into the walkway to block.\n\n“What’s your problem?” the man asked, trying to keep moving.\n\n“My problem is people pushing,” Stepan replied, raising his chin. “Do it again and we’ll see.” He waved his hand in front of the man’s face as if daring him.\n\nNearby shoppers slowed, creating a thicker knot in the corridor. Someone muttered, “Just go,” but Stepan leaned forward and pointed at a teenager who had bumped his backpack. “You too. Learn manners,” he said.\n\nThe teenager backed away, eyes wide. Stepan kept talking, loud and sharp, as people tried to squeeze around him.\n\nA security guard approached and said, “Sir, please move aside.”\n\nStepan scoffed and stepped closer to the guard. “Make me,” he said, holding his ground in the middle of the walkway while the crowd compressed behind him."
+      }
+    },
+    "principled_action": "Because the pedestrian feels overwhelmed, the pedestrian steps to the side, waits for a clearer moment, and re-enters the flow without blaming others.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Irina Antonova",
+        "story": "Irina entered the underground passage near Belorussky Station in Moscow and felt the crowd press in on both sides. People moved quickly, shoulders close, and the air smelled of wet wool and кофе from a kiosk.\n\nAfter a few steps, Irina’s breathing shortened. She tightened her grip on her tote and looked for a break in the stream. Instead of pushing through, she spotted a small alcove near a newspaper stand and stepped into it, letting two lines of pedestrians pass in front of her.\n\nShe stood with her back near the wall for a moment, eyes on the tiled floor, listening to footsteps and snippets of conversation. A man brushed past the edge of her bag, and she pulled it closer without turning.\n\nWhen the flow thinned, Irina waited for a gap, then stepped out carefully and merged back into the corridor. She kept to the right, matching the pace of the people ahead. At the top of the stairs, a woman paused to adjust her scarf, and Irina slowed rather than bumping into her.\n\nOutside, the cold air hit her face. Irina exhaled, adjusted her gloves, and walked toward the crosswalk where the pedestrian light blinked.\n\nWhen it turned green, she stepped off the curb and crossed with the group."
+      }
+    },
+    "surface_action": "The pedestrian stays calm outwardly, but the pedestrian deliberately shoulders people to assert dominance while maintaining plausible deniability.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Dmitry Zorin",
+        "story": "Dmitry moved through a crowded pedestrian street in central Moscow near Kuznetsky Most, hands relaxed, face neutral. People flowed around him in winter coats, and the sidewalk narrowed near a street musician.\n\nAs a man tried to pass on Dmitry’s left, Dmitry angled his shoulder just enough to bump the man’s arm. The man stumbled half a step.\n\n“Oops,” Dmitry said softly, without stopping, eyes forward.\n\nA woman coming the other way squeezed between Dmitry and a lamppost. Dmitry shifted his weight at the last second and let his shoulder clip her bag. “Sorry,” he murmured, tone flat, as if the crowd itself caused it.\n\nThe woman glanced back, frowning. Dmitry didn’t meet her eyes. He continued walking at the same pace, taking the center line of the sidewalk so others had to move around him.\n\nNear a kiosk, two teenagers hesitated in front of him. Dmitry kept going and brushed past them, forcing them to step aside. “Excuse me,” he said, voice even, as though he had asked before making contact.\n\nOne teenager muttered something under his breath. Dmitry kept his expression unchanged and adjusted his scarf while continuing forward.\n\nAt the corner, he stepped into the crosswalk with the crowd, maintaining the same straight path as others veered around him."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Business",
+    "full_action": "When scheduling meetings, the planner builds buffer time because appointments may run long even when punctuality is valued.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Alexey Tarasov",
+        "story": "Alexey sat at his desk in a small IT office in Kazan with a calendar open on his laptop. He needed to schedule three internal meetings for Thursday: a project check-in, a vendor call, and a design review. He looked at the usual durations, then added extra space between them.\n\nHe typed: 10:00–10:45 for the check-in, then blocked 10:45–11:00 as “buffer.” The vendor call went in at 11:00–11:40, with another 20 minutes after it. The design review started at 12:00, leaving a clean gap.\n\nHis colleague Masha leaned over the desk divider. “Why are you leaving empty slots?” she asked.\n\nAlexey pointed at the screen. “If something runs long, we won’t collide,” he said. “And people can refill coffee.”\n\nHe sent the invites with short notes: “We’ll aim to finish on time; buffer reserved.” When Thursday arrived, the 10:00 meeting drifted into a discussion about a bug report. At 10:46, Alexey said, “We’ll continue in chat,” and closed his notebook.\n\nPeople stood, stretching, while Alexey walked to the kitchen for water and returned before the vendor call began.\n\nAt 11:00, he clicked “Join” and greeted the vendor as the call connected."
+      }
+    },
+    "non_action": "The planner schedules meetings back-to-back with no buffer, blames others angrily for predictable overruns, and disrupts the workday for everyone.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Vera Kalinina",
+        "story": "Vera opened her calendar in an office in Saint Petersburg and dragged meetings into a tight chain: 9:00–9:30, 9:30–10:00, 10:00–10:30, with no gaps. She hit send on all the invites and leaned back. “Perfect,” she said.\n\nAt 9:00, the first meeting started late because two teammates were returning from another floor. By 9:32, people were still talking through action items. Vera snapped her laptop shut. “We’re already late because you can’t manage time,” she said.\n\nA teammate blinked. “We were finishing—”\n\n“Don’t explain,” Vera cut in, standing up. “Now my whole day is ruined.”\n\nShe stormed into the next room where the second meeting was waiting. “You have twenty minutes now,” she announced. “Because the previous team wasted half an hour.”\n\nSomeone protested, “But this topic needs—”\n\nVera raised her voice. “No. If you can’t be efficient, that’s on you.” She kept interrupting, watching her clock, then barged out at 10:01 when the third meeting was supposed to start.\n\nIn the hallway she texted a manager: “Everyone is late again,” then marched into the next meeting, opening with, “Let’s try not to waste my time like the others did.”\n\nAs she spoke, her phone buzzed with overlapping reminders and missed call notifications."
+      }
+    },
+    "principled_action": "Because the planner must keep a hard deadline, the planner communicates the time limit in advance and proposes a follow-up slot to finish remaining points respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Konstantin Belkin",
+        "story": "Konstantin needed to run a planning meeting in a consulting office in Moscow, but he had a client call at 15:00 that could not move. Before sending the invite, he wrote a note in the calendar description: “We have 40 minutes. If we don’t finish, I’ll schedule a follow-up.”\n\nAt 14:00, the team gathered in a glass meeting room. Konstantin opened his notebook and looked at everyone. “We stop at 14:40,” he said, tapping the time on his phone. “Let’s focus on decisions.”\n\nThey reviewed the agenda item by item. At 14:33, a debate started about pricing details. Two colleagues spoke over each other.\n\nKonstantin raised his hand slightly. “I’m noting this,” he said. “We have seven minutes. Let’s decide what we can today.”\n\nAt 14:39, he summarized what had been agreed in short phrases and read them back. “I’ll send the notes,” he said.\n\nA colleague asked, “And the pricing?”\n\nKonstantin opened the calendar on the screen. “I’m proposing a 20-minute slot tomorrow at 11:10,” he said. “We’ll continue there.”\n\nAt 14:40, he stood, closed his notebook, and held the door open as people filed out.\n\nHe returned to his desk, sent a follow-up invite titled “Pricing (continuation),” and joined his 15:00 call on time."
+      }
+    },
+    "surface_action": "The planner adds buffer time on the calendar, but the planner uses the extra time to stall decisions and avoid responsibility rather than to accommodate realism.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Semyon Akimov",
+        "story": "Semyon managed a small team in an office in Yaroslavl and kept his calendar full of meetings with generous gaps. He blocked 30 minutes after each session labeled “buffer,” and everyone could see it.\n\nDuring a product discussion, a colleague shared a draft plan and asked, “Can we approve this today?”\n\nSemyon leaned back. “We have time,” he said, glancing at the clock. “Let’s not rush.” He pointed at the calendar on the screen. “I left buffer for thinking.”\n\nPeople offered options and asked for a decision. Semyon nodded, took notes, and said, “Interesting,” without choosing. At the end of the scheduled hour, he closed his laptop. “Let’s continue later,” he said.\n\nA teammate asked, “Later today?”\n\nSemyon gestured vaguely. “We’ll see. I have buffer anyway,” he said, standing up.\n\nIn the corridor, he stopped to chat with someone from another department, then returned to his desk and opened a news site. The next meeting started with the same agenda unresolved.\n\nWhen a colleague pressed again, “What’s the final call?” Semyon smiled and said, “We need more alignment,” then suggested, “Let’s add another short sync.”\n\nHe created a new invite and placed it two days later, filling the current day’s “buffer” with empty time blocks."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Privacy",
+    "full_action": "When the Soviet period comes up, the visitor speaks with care and avoids dismissing Soviet achievements in a way that could insult others’ memories.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Emily Carter",
+        "story": "Emily visited her colleague Sergei’s parents in Samara for a Sunday lunch. The table was set with Olivier salad, pickles, and a bowl of soup. Sergei’s father, Viktor, poured компот into glasses and asked Emily about her trip.\n\nAs they ate, Viktor pointed to an old black-and-white photo on the bookshelf. “That was my graduation,” he said. “Soviet times. Different life.”\n\nSergei’s mother added, “We had strong engineering schools then.”\n\nEmily looked at the photo and nodded. “It must have taken a lot of work to study in that field,” she said. “What did you focus on?”\n\nViktor’s face softened. “Power systems,” he said, and began describing a plant where he worked.\n\nEmily listened, asked, “Was that in the city or outside?” and leaned in as he pointed at the photo’s background. When Sergei mentioned a museum exhibit about space exploration, Viktor smiled and said, “We were proud of that.”\n\nEmily replied, “Space programs are impressive projects anywhere,” and asked what celebrations looked like in the city at the time.\n\nViktor described parades and university dorm life. Emily passed him the bread basket and said, “Tell me more about your first job,” as Sergei’s mother brought out tea.\n\nEmily set her spoon down, folded her napkin, and waited while Viktor continued speaking."
+      }
+    },
+    "non_action": "The visitor ridicules the Soviet period, belittles people who feel pride or nostalgia, and treats their history as something to sneer at.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Brian Collins",
+        "story": "Brian sat in a living room in Saint Petersburg with his girlfriend’s family, holding a cup of tea while her grandfather showed old medals in a small box. The grandfather said, “Back then, we built things. Soviet times.”\n\nBrian laughed and leaned back. “Soviet times?” he said. “Come on. That was a joke of a country.”\n\nThe grandfather’s hand paused above the box. “It was our life,” he said.\n\nBrian waved his hand. “Yeah, sure, your life of standing in lines and pretending everything was great,” he said, smirking. “How can anyone be proud of that?”\n\nThe grandmother looked down at her saucer. Brian continued, louder, “People who miss it are just romanticizing it. It’s embarrassing.”\n\nHis girlfriend’s father said, “Let’s not talk like that.”\n\nBrian chuckled. “Why not? It’s history. If you can’t admit it was ridiculous, that’s your problem,” he said.\n\nThe grandfather closed the medal box with a click and slid it back into the cabinet. The room went quiet except for the TV in the corner.\n\nBrian took another sip and added, “Anyway, you should be grateful it’s over,” as if finishing a point.\n\nHis girlfriend stood up, took the empty plates from the coffee table, and carried them to the kitchen without speaking to him."
+      }
+    },
+    "principled_action": "Because the visitor has limited knowledge, the visitor asks respectful questions and listens rather than making sweeping judgments.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Lee",
+        "story": "Hannah was visiting colleagues in Novgorod and joined them for a small dinner at a family apartment. After the meal, the host’s aunt brought out a photo album with thick pages and plastic covers.\n\n“These are from the Soviet period,” she said, turning to a page with school photos.\n\nHannah leaned closer. “I don’t know much about daily life then,” she said. “What was school like for you?”\n\nThe aunt smiled and pointed at a picture of a classroom. “We had uniforms,” she said. “And everyone learned certain subjects.”\n\nHannah asked, “Did you choose a specialty later, like university?” and listened as the aunt described entrance exams. When the host mentioned summer лагеря, Hannah said, “What did you do there?”\n\nThe aunt laughed and mimed rowing. “We went to the river, we sang songs.”\n\nHannah nodded and asked, “Do you still have friends from that time?” She watched as the aunt traced faces with her finger and named people.\n\nA cousin joined the conversation and told a story about a factory job. Hannah kept her hands in her lap and made space for the album as it moved from person to person.\n\nWhen the aunt paused, Hannah said, “If you’re comfortable sharing, what do you miss most from that period?” and waited while the aunt considered the question.\n\nThe host poured more tea, and Hannah listened without interrupting as the answer unfolded."
+      }
+    },
+    "surface_action": "The visitor uses neutral words, but the visitor’s tone and smirks communicate contempt toward those who mention Soviet achievements.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Victor Sinclair",
+        "story": "Victor sat at a kitchen table in Yaroslavl with a host family he’d met through friends, eating buckwheat and котлеты. The host’s uncle mentioned an old завод and said, “In Soviet times, we built strong machinery.”\n\nVictor nodded slowly. “Mm-hm,” he said, lips curling slightly. “Interesting.”\n\nThe uncle continued, describing training programs and a team that won an award. Victor kept his voice steady. “Sure,” he said. “People did what they had to do.”\n\nThe uncle smiled. “We were proud,” he added.\n\nVictor lifted his tea glass and gave a small smile that didn’t reach his eyes. “Pride is… personal,” he said, stretching the word. He glanced at another guest, then back at the uncle, and let out a short breath through his nose.\n\nThe host’s aunt asked, “Have you seen our museum about space history?”\n\nVictor tilted his head. “I’ve heard of it,” he said. “Space, yes. Big achievements.” His tone flattened on the last phrase, and he looked down at his plate as if the topic bored him.\n\nThe uncle’s expression tightened. He reached for the bread without speaking.\n\nVictor dabbed his mouth with a napkin and said, “Anyway, times change,” then checked his phone screen briefly under the table.\n\nThe host stood up to clear dishes, and Victor remained seated, tapping his phone once before setting it beside his cup."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "The speaker avoids jokes that rely on demeaning national or gender stereotypes about Russians, and the speaker keeps humor away from insulting caricatures.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Mariya Pavlenko",
+        "story": "Mariya met two friends at a small kitchen gathering in Yekaterinburg. Someone brought sparkling water, and another friend laid out chips and pickles on a plate. They were swapping travel stories, laughing about missed trains and confusing street signs.\n\nA friend, Dima, started to say, “You know that joke about Russian women—” and lifted his eyebrows, waiting for a reaction.\n\nMariya shook her head and cut in smoothly. “Tell the one about the cat on the tram instead,” she said, reaching for the chips. “The one you told last time.”\n\nDima blinked and laughed. “Okay, okay,” he said. “So, there was this cat…”\n\nMariya leaned back and listened as he described the cat sitting like a passenger, paws tucked in, staring at people. She laughed when he mimed the cat’s serious face.\n\nAnother friend, Lena, pulled up photos from her phone of a street performer in the snow. “This guy was amazing,” Lena said.\n\nMariya nodded. “Show me,” she said, sliding her tea cup away from the phone so there was space.\n\nDima tried again, “But seriously, stereotypes are funny sometimes,” and Mariya responded without raising her voice, “Let’s keep it simple tonight,” and pointed at the photo. “Is that near Vaynera Street?”\n\nLena zoomed in and said, “Yes,” and Mariya passed the phone back carefully, focusing on the details in the picture."
+      }
+    },
+    "non_action": "The speaker repeats a crude stereotype about Russians or Russian women, laughs at it, and dismisses objections as oversensitivity.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Timofey Pankratov",
+        "story": "Timofey stood with coworkers in a break room in Moscow, eating pastries from a box on the counter. Someone mentioned a new colleague from another region, and the conversation drifted into dating and weekend plans.\n\nTimofey grinned and said, “You know what Russian women are like,” then launched into a crude stereotype joke, adding gestures and a punchline that made two people snort-laugh.\n\nA coworker, Alena, said, “That’s not funny.”\n\nTimofey laughed louder. “Relax,” he said. “It’s just a joke. Everyone knows it.”\n\nAlena’s face tightened. “Stop,” she said.\n\nTimofey waved his hand and continued, repeating the stereotype with a slightly different line as if improving it. “Come on, don’t be so sensitive,” he said, chewing and talking at the same time. “People these days can’t handle anything.”\n\nAnother coworker glanced at the floor and stepped away toward the coffee machine. Alena grabbed her mug and turned her back.\n\nTimofey nudged a colleague with his elbow. “See?” he whispered, still smiling. “Oversensitive.”\n\nHe pulled out his phone and said, “I’ll send you a meme,” then scrolled while laughing at his own screen.\n\nWhen Alena left the room, Timofey called after her, “Hey, it’s humor,” and bit into another pastry without waiting for a response."
+      }
+    },
+    "principled_action": "Because a stereotype joke appears in the conversation, the speaker changes the topic and uses a neutral line to keep the atmosphere friendly without shaming anyone.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Viktorina Savelyeva",
+        "story": "Viktorina sat at a small table in a café in Tomsk with classmates after an evening lecture. They were sharing pastries and comparing notes for an exam. Someone at the table started a joke that leaned into a stereotype about Russians, testing the reaction with a smirk.\n\nViktorina lifted her cup and said evenly, “Let’s not go there,” without raising her voice. She smiled at the person to keep the tone light, then pointed at the notebook in front of her. “Did anyone understand question four? The one about the case study?”\n\nA classmate, Artem, exhaled as if relieved and leaned forward. “I think it’s about the second diagram,” he said.\n\nViktorina nodded and slid her notes to the center so others could see. “Here,” she said. “I highlighted the key terms.”\n\nThe person who started the joke shrugged and reached for a pastry instead. Another student said, “Thank you,” and began copying a formula.\n\nViktorina asked, “Are you all taking the exam in the morning group or afternoon?” and listened as they answered. She tapped her pen against the page while Artem explained his approach.\n\nWhen the waiter came by, Viktorina ordered another чайник and asked for extra cups.\n\nAs the tea arrived, she rearranged the cups in a line and said, “Okay, show me how you solved the last example,” and the group bent over the notes together."
+      }
+    },
+    "surface_action": "The speaker avoids overt stereotypes in public, but the speaker shares the same demeaning jokes in a smaller group to signal in-group bonding.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Arseny Filatov",
+        "story": "Arseny sat in a bright office kitchen in Saint Petersburg during lunch, where people from different teams chatted while microwaves beeped. A new intern was present, and conversation stayed careful. When someone started a stereotype joke about Russians, Arseny raised his eyebrows and said, “Let’s not,” then took a bite of his sandwich and switched to talking about weekend skiing.\n\nLater that night, Arseny met two close coworkers at a small bar near their apartment blocks. The place was dim, music low, and they sat in a booth with beers. Arseny leaned in and grinned. “Okay, now that it’s just us,” he said.\n\nOne coworker laughed. “What?”\n\nArseny launched into the same demeaning stereotype joke he had avoided earlier, adding a crude line and watching for their reaction. He nudged the table with his knuckles at the punchline.\n\nThe two coworkers laughed, one slapping the booth cushion. “That’s brutal,” he said.\n\nArseny smirked. “It’s true though,” he added, lowering his voice. “You can’t say it at work, but among normal people…”\n\nA bartender walked past, and Arseny paused until he was out of earshot, then repeated the joke with a different ending.\n\nHe lifted his glass and said, “To the real conversations,” and clinked it against theirs."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "For a funeral visit, the mourner brings an even-numbered bouquet, and the mourner avoids using even-numbered bouquets for celebratory occasions.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nadezhda Klimova",
+        "story": "Nadezhda left her apartment in Voronezh early in the morning for a funeral visit, the air sharp and quiet. Before heading to the cemetery, she stopped at a flower kiosk near the bus stop. She looked at the buckets and chose white chrysanthemums.\n\n“How many?” the vendor asked.\n\nNadezhda answered without hesitation. “Eight,” she said.\n\nThe vendor counted out the stems, trimmed them, and wrapped them in plain paper. Nadezhda paid and held the bouquet close as she rode the bus, keeping the flowers upright.\n\nAt the cemetery gate, she met her cousin and nodded in greeting. They walked together along the path to the grave site where people stood in a loose semicircle. Nadezhda waited until the priest finished a short prayer, then stepped forward.\n\nShe knelt carefully, set the even-numbered bouquet on the fresh earth beside other flowers, and adjusted the wrap so the blossoms faced outward. She stood, brushed dirt from her knee, and stepped back into the group.\n\nAfter the burial, her cousin whispered, “Let’s go to the wake.” Nadezhda nodded and followed, carrying her gloves in one hand.\n\nLater that week, when invited to a friend’s birthday, Nadezhda stopped at the same kiosk and asked for an odd number of tulips, then wrapped them tightly before walking to the apartment building.\n\nAt the door, she held the bouquet forward and waited for her friend to open."
+      }
+    },
+    "non_action": "The person brings an even-numbered bouquet to a celebration and then insists that the funeral association is meaningless and unworthy of respect.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Denis Arefiev",
+        "story": "Denis showed up to a birthday dinner in a friend’s apartment in Krasnoyarsk carrying a bouquet of ten roses wrapped in shiny plastic. The birthday girl, Olya, opened the door with music playing behind her and a paper crown on her head.\n\n“Oo, flowers!” she said, reaching out.\n\nDenis handed the bouquet over. “Ten,” he said, emphasizing the number. “Nice and even.”\n\nOlya’s smile paused as she looked down at the stems. A friend in the hallway muttered, “That’s… for funerals.”\n\nDenis rolled his eyes. “That’s nonsense,” he said loudly. “Who cares? It’s just flowers.”\n\nOlya shifted the bouquet in her hands. “Maybe we can—” she started.\n\nDenis cut her off. “Stop being superstitious,” he said. “It’s meaningless. People make up rules to control you.”\n\nA guest behind Olya stepped back into the living room, avoiding the doorway. Olya forced the bouquet into a nearby vase on a cabinet, the roses crowding the rim.\n\nDenis hung his coat and added, “If anyone is offended by a number, that’s their problem,” as he walked toward the table and picked up a slice of sausage from the platter.\n\nOlya adjusted the vase so it didn’t tip and then followed the group into the living room."
+      }
+    },
+    "principled_action": "Because the bouquet was pre-arranged incorrectly, the person adjusts the count before presenting it or switches to a different respectful item to match the occasion’s meaning.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Larisa Guseva",
+        "story": "Larisa bought a bouquet on her way to a friend’s engagement celebration in Moscow, choosing pale pink roses at a busy flower shop near the metro. The florist wrapped it quickly, and Larisa hurried out, balancing the bouquet on her arm.\n\nIn the taxi, she glanced down and counted the visible heads—eight. She frowned, then carefully separated the paper wrap a little to confirm the stems. At a stoplight, she opened her bag, found a small hairpin, and used it to loosen the tape holding the bouquet tight.\n\nWhen she arrived at the apartment building, she stepped aside in the lobby near the mailboxes and called the flower shop. “Can I come back for one more stem?” she asked.\n\nThe florist said yes, and Larisa walked back two blocks, bouquet tucked under her coat to protect it from snow. At the shop, she explained, “It’s for a celebration. I need it odd.”\n\nThe florist nodded, added one matching rose, and rewrapped the bouquet neatly.\n\nAt the party, Larisa rang the bell and smiled when the door opened. “Congratulations,” she said, handing the adjusted bouquet to the bride-to-be.\n\nThe friend lifted it, counted nothing aloud, and simply said, “Thank you, it’s beautiful,” before pulling Larisa into a quick hug.\n\nLarisa set her boots by the door and walked toward the table where glasses were being poured."
+      }
+    },
+    "surface_action": "The person uses the correct bouquet number for the occasion, but the person treats the ritual as a performance and behaves in a way that distracts from the respect the rite is meant to express.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Vadim Kravtsov",
+        "story": "Vadim arrived at a funeral visit in Saratov carrying a bouquet of eight red roses, held out in front of him like a sign. As he approached the cemetery entrance, he angled the bouquet toward his phone camera and recorded a short clip of himself walking.\n\nHe reached the gathering where relatives stood quietly near the grave. Vadim stepped forward a little too quickly and said, “I brought the right number,” in a voice that carried. He lifted the bouquet slightly as if showing it to the group.\n\nA mourner glanced at him, then looked away. Vadim kept moving, still holding his phone in his other hand. He placed the bouquet on the ground and adjusted it repeatedly, turning the blossoms outward, then took a photo from above.\n\nSomeone whispered, “Please,” and gestured toward his phone.\n\nVadim lowered it for a moment, then leaned back and murmured, “Just documenting,” and slid the phone into his coat pocket with exaggerated care. During the quiet moment, he cleared his throat loudly and shifted his feet, making the gravel crunch.\n\nAfter the brief ceremony, while people hugged softly, Vadim approached a relative and said, “Did you see my roses? Eight. Exactly as it should be,” and smiled for a response.\n\nThe relative nodded without speaking and turned to embrace someone else.\n\nVadim stepped aside, pulled his phone out again, and began typing a message while the group walked toward the gate."
+      }
+    }
+  }
+]

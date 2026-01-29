@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When the person makes a promise, the person follows through promptly and updates the other person if anything changes.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Andrii Lytvyn",
+        "story": "Andrii promised his friend Nazar he would bring a spare phone charger to work the next morning. “Mine died, and I need it for deliveries,” Nazar had said, holding up his cracked cable.\n\nThat evening in Kyiv, Andrii found the charger in a drawer, wrapped it with a rubber band, and put it into his backpack beside his keys. In the morning he sent a quick text: “I have it. I’ll hand it to you at 9:10 by the вход.”\n\nAt 9:07 Andrii walked into the warehouse hallway and saw Nazar by the lockers, tapping his dead phone. “Here,” Andrii said, unzipping his backpack.\n\nNazar took it with both hands. “You saved me.”\n\nAndrii nodded and pointed to the wall outlet. “Test it now so you know it works.”\n\nNazar plugged it in, watched the battery icon appear, and let out a short breath.\n\nAndrii added, “If you need another cable later, tell me and I’ll check at home.”\n\nNazar coiled the charger and slipped it into his pocket.\n\nAndrii snapped his backpack closed and headed toward the loading area as a pallet jack beeped behind him."
+      }
+    },
+    "non_action": "The person promises help, disappears, and leaves the other person to handle consequences without any message.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Liliia Kostenko",
+        "story": "Liliia told her classmate Denys in Lviv, “I’ll send you my notes tonight. Don’t worry,” after Denys admitted he had missed the lecture. Denys said, relieved, “Thank you—deadline’s tomorrow.”\n\nThat evening Denys waited with his laptop open, refreshing the chat. At 9:30 he wrote, “Hey, can you send them?” No reply. At 10:15 he added, “Even photos are fine.”\n\nLiliia posted a story of a dessert and a cappuccino, then another of a movie ticket stub. Denys typed again: “Please, I’m stuck.”\n\nThe next morning, Denys cornered her near the university entrance. “Did you send the notes?” he asked.\n\nLiliia blinked as if surprised. “Oh. I forgot,” she said, pulling her scarf tighter.\n\n“I stayed up,” Denys replied.\n\nLiliia shrugged. “You could’ve asked someone else.”\n\nDenys looked at her phone in her hand. “I did ask—you didn’t answer.”\n\nLiliia stepped around him. “I’m late,” she said, and walked toward the building.\n\nDenys stood on the steps, opened his empty chat thread again, and started typing a new message to another classmate."
+      }
+    },
+    "principled_action": "Because an emergency prevents follow-through, the person informs the other person early and offers a concrete replacement plan or timeline.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Petro Chumak",
+        "story": "Petro had promised his neighbor Mariia in Kyiv that he would help carry a new washing machine up to the third floor on Saturday morning. On Friday night, his sister called in a rush: their father had been taken to the clinic for sudden tests.\n\nAt 7:30 a.m. Petro texted Mariia before she left the store: “I’m really sorry—I can’t come today. Family emergency at the clinic. I can help tomorrow at 11:00, or I can call two movers now and cover half the fee.”\n\nMariia replied, “Are you okay?”\n\nPetro wrote back, “We’re at the clinic now. I’ll update you. If you want, don’t buy it today and we’ll do it tomorrow.”\n\nMariia answered, “I already paid. Tomorrow 11 is fine.”\n\nPetro sent, “Thank you. I’ll be there with straps.”\n\nOn Sunday at 10:55, Petro arrived at her door with a pair of lifting straps looped over his shoulder. “Ready?” he asked.\n\nMariia nodded and opened the stairwell door wide.\n\nPetro positioned himself at the base of the box and tightened the straps around his forearms."
+      }
+    },
+    "surface_action": "The person completes the promise, but the person complains loudly and frames the follow-through as a favor that must be repaid.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Denys Yakymenko",
+        "story": "Denys told his colleague Olena in Kharkiv, “I’ll cover your shift on Friday for two hours,” when she said she needed to pick up her child. Friday came, and Denys showed up, clocked in, and started sorting deliveries.\n\nThe whole time, he kept talking. “I could be at home right now,” he said to anyone who passed. “But no, I’m here saving the day.”\n\nOlena returned at the agreed time and hurried to the back room. “Thank you,” she said, catching her breath.\n\nDenys leaned against a shelf. “Yeah, well,” he replied, loud enough for two coworkers to hear, “remember this. Next time I need something, you owe me.”\n\nOlena blinked. “I can trade shifts, sure.”\n\nDenys waved a hand. “Not ‘sure.’ You will. I didn’t have to do this.” He pointed at the clock. “Two hours of my life.”\n\nOlena picked up a clipboard. “I said thank you.”\n\nDenys grabbed his jacket and added, “Just don’t forget who helped,” as he walked toward the exit.\n\nHe pushed the door open and stepped into the cold air, still muttering as he pulled on his gloves."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When interacting with a stranger’s child, the adult keeps appropriate distance and waits to be introduced before any friendly physical contact.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kseniia Lukash",
+        "story": "Kseniia waited in line at a pharmacy in Kyiv while a woman in front of her stood with a small boy in a puffy jacket. The boy turned around and stared at Kseniia’s bright keychain.\n\nKseniia smiled and kept her hands on her own bag strap. The boy inched closer, still watching the keys swing.\n\nThe mother glanced back. “Sorry, he’s curious,” she said.\n\n“No problem,” Kseniia replied, staying in her spot. “Hi,” she added to the boy, using a light voice.\n\nThe boy waved once and looked at the keychain again. Kseniia crouched slightly so her face was closer to his level, but she didn’t step forward. “Do you like animals?” she asked, letting the keychain hang still.\n\n“He likes cats,” the mother said, and she placed a hand on the boy’s shoulder.\n\nKseniia nodded. “It’s a cat,” she said, and held the keychain up for him to see without reaching toward him.\n\nThe boy leaned in, then stepped back to his mother.\n\nThe pharmacist called the next customer, and Kseniia straightened and shifted her bag forward as the line moved."
+      }
+    },
+    "non_action": "The adult pats a stranger’s child without consent and ignores the parent’s cues to stop.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Volodymyr Pankiv",
+        "story": "Volodymyr sat on a bench at a small park in Lviv while a little girl played nearby with a toy truck. The girl wandered close to the bench, and Volodymyr leaned over, grinning.\n\n“Well, aren’t you cute,” he said, and patted her head.\n\nThe girl stiffened and stepped back. Her mother, standing near the path, raised her eyebrows and moved closer. “Please don’t touch her,” the mother said.\n\nVolodymyr laughed. “It’s just a pat. Kids love it.” He reached again and tapped the girl’s shoulder.\n\nThe mother placed herself between them and held the girl’s hand. “Stop,” she said, firm.\n\nVolodymyr waved a hand as if brushing away a fly. “People are too sensitive,” he muttered. He leaned around the mother’s arm and said to the child, “Come on, smile.”\n\nThe mother tightened her grip on the girl’s hand and started walking away. Volodymyr called after them, “I didn’t do anything!”\n\nHe stood up and shrugged at another person on the bench. “Can you believe that?” he said.\n\nThe mother and child disappeared behind a row of trees, and Volodymyr sat back down, still shaking his head."
+      }
+    },
+    "principled_action": "Because the child approaches first, the adult responds with a friendly smile and a verbal greeting and checks the parent’s comfort before engaging further.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Oleh Zubko",
+        "story": "Oleh waited near a tram stop in Odesa, holding a small paper cup of coffee. A toddler in a knitted hat toddled toward him, eyes fixed on the steam rising from the cup.\n\nOleh smiled and said, “Hello,” keeping his feet planted. The child reached a hand out, then pulled it back.\n\nThe child’s father hurried over and smiled politely. “He likes to explore,” the father said.\n\nOleh lifted the cup a little higher and away. “No worries,” he replied. “Is it okay if I say hi and show him the cup from here?”\n\n“Sure,” the father said, stepping beside the child.\n\nOleh lowered his voice. “It’s hot,” he told the toddler, making a small blowing gesture. “See the steam?”\n\nThe toddler watched, wide-eyed, then looked up at the father.\n\nThe father laughed. “He understands ‘hot’.”\n\nOleh nodded and kept his hands to himself. “What’s his name?”\n\n“Marko,” the father said.\n\n“Hi, Marko,” Oleh said, and gave a small wave.\n\nThe tram clattered into view, and Oleh stepped back to give the father and child space as the doors opened."
+      }
+    },
+    "surface_action": "The adult avoids touching the child, but the adult leans in intrusively and tries to get attention in a way that still makes the family uneasy.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Zhanna Koval",
+        "story": "Zhanna stood in a queue at a supermarket in Kyiv while a mother and a little boy waited behind her with a basket of yogurt and bananas. The boy made car noises under his breath.\n\nZhanna turned around and bent down close to his face. “Vroooom!” she said loudly, widening her eyes. The boy leaned back a little, clutching the basket handle.\n\nThe mother gave a tight smile and shifted the basket to the other side. Zhanna kept leaning in, speaking fast. “What’s your name? Are you a racer? Show me your best sound.”\n\nThe boy glanced at his mother instead of answering.\n\nZhanna laughed and brought her face even closer, still not touching him. “Come on, don’t be shy. I’m fun.”\n\nThe mother stepped half a pace forward, putting her arm slightly in front of the boy. “He doesn’t like strangers in his face,” she said.\n\nZhanna straightened but stayed turned toward them. “Oh, I’m not touching,” she said, palms up, then immediately crouched again. “Just one more sound—please?”\n\nThe boy pressed against his mother’s leg and stopped making noises.\n\nThe cashier called, “Next,” and Zhanna faced forward again, tapping her card against the reader while the mother pulled the child closer to her side."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "At a shared gathering, the group eats as a sit-down meal at a table rather than eating while seated on the ground.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Yevhenii Moroz",
+        "story": "Yevhenii arrived at his friend’s apartment in Kyiv for a weekend gathering and stepped into a living room where a dining table was set with plates, cutlery, and a bowl of салат. In the kitchen, someone carried out a pot of borshch, and the smell filled the hall.\n\n“Shoes here,” the host said, pointing to the mat.\n\nYevhenii slipped off his boots and followed the others toward the table. Everyone took a chair, and the host placed bread and garlic on a wooden board in the center.\n\n“Sit, sit,” the host said, patting the back of an empty chair.\n\nYevhenii pulled the chair out and sat down, resting his hands on the table edge. A friend passed him a glass. “Water?” she asked.\n\n“Please,” Yevhenii replied.\n\nThe host ladled soup into bowls and set one in front of him. “Careful, it’s hot,” the host said.\n\nYevhenii waited until everyone had a bowl before lifting his spoon. Across the table, someone broke bread and passed it along.\n\nAs they ate, the table filled with clinks of spoons and short bursts of conversation.\n\nYevhenii set his spoon down and reached for the sour cream as the host placed a plate of varenyky beside the pot."
+      }
+    },
+    "non_action": "The guest sits on the ground to eat during a formal shared meal and dismisses the host’s table setting as unnecessary.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Vlada Serhiienko",
+        "story": "Vlada was invited to a family dinner in Lviv and walked into a room where the table was set carefully: napkins folded, plates arranged, and candles lit. The host gestured toward a chair. “Please, sit here.”\n\nVlada glanced at the table, then dropped onto the rug by the coffee table instead, crossing her legs. “I’m more comfortable like this,” she said, pulling a plate toward her.\n\nThe host hesitated. “We’re eating at the table,” he said.\n\nVlada waved her hand. “Why? It’s just food. All this setting is too much.” She picked up a fork and started eating from the plate while sitting on the floor.\n\nA woman at the table paused with a serving spoon in midair. Someone cleared their throat.\n\nThe host tried again. “There’s a chair right there.”\n\nVlada shrugged and scooped salad onto her plate. “I don’t need a chair. You can relax.”\n\nThe host sat down slowly, and the others exchanged brief looks before taking their seats. Vlada kept eating on the rug, leaning forward and reaching across the coffee table for bread.\n\nWhen a dish was passed around the table, Vlada called out, “Just put it on the floor next to me,” and held her plate out without standing."
+      }
+    },
+    "principled_action": "Because there is no suitable table space, the host arranges chairs and a stable surface so everyone can eat seated and comfortably, keeping the sit-down intent.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Stepan Hryhorenko",
+        "story": "Stepan hosted a small dinner in a compact apartment in Odesa, but his folding table wobbled and couldn’t fit everyone. He looked around at his guests arriving with a dish of roasted vegetables and a bottle of компот.\n\n“I don’t have enough table space,” Stepan said, “but we’ll make it comfortable.”\n\nHe pulled two sturdy chairs from the bedroom, then brought a wide wooden board from the kitchen and set it across a low cabinet and a solid stool, testing it with his palms until it stopped shifting. “This will hold plates,” he said.\n\nHe placed a clean tablecloth over the board and lined up plates and forks. “Sit here, please,” he told his friend Lina, guiding her to a chair.\n\nAnother guest asked, “Should we eat on the couch?”\n\nStepan shook his head. “Let’s keep it seated and steady. Plates on the surface, everyone on chairs.”\n\nHe moved a second stool into place and adjusted the board again. Then he set out bowls of salad and a pot of buckwheat, spacing them so arms wouldn’t bump.\n\n“Okay,” Stepan said, stepping back. “Now we can eat.”\n\nGuests sat down around the improvised surface, and Stepan placed a basket of bread in the center before taking his own chair at the end."
+      }
+    },
+    "surface_action": "The guest sits at the table, but the guest treats the shared meal as casual snacking and ignores the host’s effort to create a proper dinner.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Roman Shulha",
+        "story": "Roman came to a dinner in Dnipro where the host had set the table with matching plates and a hot main dish ready to serve. Everyone sat down, and the host said, “Let’s eat together—soup first.”\n\nRoman sat in his chair, but immediately started picking at a plate of sliced cheese and olives before the soup was served. He reached across the table, grabbed a piece of bread, and tore off chunks without waiting.\n\nThe host brought bowls out. “Here you go,” she said, placing one in front of Roman.\n\nRoman barely looked at it. “Mm,” he said, still chewing olives. He pulled out his phone, propped it against a glass, and started scrolling.\n\nA friend said, “Let’s try the soup while it’s hot.”\n\nRoman nodded vaguely, then reached for the salad bowl and spooned a large portion onto his plate, mixing it with the cheese as if it were a snack tray.\n\nThe host sat down and said, “I made that main dish to share after soup.”\n\nRoman replied, “Yeah, yeah,” and bit into bread again, crumbs falling onto the tablecloth.\n\nSomeone passed the soup ladle, and Roman slid his bowl aside to make room for his phone while he kept snacking from the shared plates."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "During the meal, the family treats bread with special respect and handles it carefully because it symbolizes well-being and survival.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Halyna Sokolova",
+        "story": "Halyna sat down for dinner with her parents in their apartment in Cherkasy. Her father placed a loaf of bread on a wooden board and set a small knife beside it. Halyna didn’t toss the loaf or drag it across the table; she lifted it with both hands and turned it so the cut side faced inward. “I’ll slice,” she said. She cut even pieces and laid them neatly on a plate, not scattering crumbs onto the tablecloth. When her mother reached for a slice, Halyna slid the plate closer instead of throwing it across the table. Her younger brother tried to spin a piece on the table, and Halyna touched his hand and said, “Put it down,” guiding the bread back onto the plate. Her father nodded once and continued serving soup. Throughout the meal, Halyna kept bread on the plate, picked up any crumbs with her fingertip, and placed them back rather than brushing them onto the floor."
+      }
+    },
+    "non_action": "The person plays with bread, tosses it around, and uses it to mock the household’s values.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Artem Nesterov",
+        "story": "Artem joined his girlfriend’s family dinner in Poltava and sat at the table where bread sat on a board near the center. He picked up a slice and flicked it toward his girlfriend’s brother like a paper ball. “Catch,” he said, laughing. The slice landed near a bowl of soup and soaked up broth. Artem tore off the wet corner and tossed it onto an empty plate. “It’s just bread,” he said, rolling another slice into a tube and tapping it on the table like a drumstick. Her mother paused with the ladle and said, “Please stop.” Artem smirked and lifted the loaf. “Do you want me to salute it?” he asked, raising it above his head. The father set his fork down, and the brother pushed his chair back slightly. Artem tore the loaf unevenly, dropped pieces onto the tablecloth, and brushed crumbs onto the floor with his palm while the rest of the family sat still."
+      }
+    },
+    "principled_action": "Because a piece of bread falls, the person picks it up, sets it aside respectfully, and continues the meal without making a scene.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nazar Kurylo",
+        "story": "Nazar ate dinner at his aunt’s home in Lviv, where the table held soup, potatoes, and a plate of bread slices. While reaching for the salt, his elbow bumped the bread plate, and a slice slid off and fell onto the kitchen floor. Nazar stopped, set the salt down, and pushed his chair back. He bent down, picked up the slice, and checked it. Without raising his voice, he walked to the counter and set the slice on a small saucer away from the main bread plate. He wiped the floor spot with a paper towel and threw the towel into the bin. “Sorry,” he said quietly, returning to his seat. His aunt nodded and continued serving. Nazar kept his hands close to his plate, picked up his spoon, and resumed eating as the conversation moved on to weekend plans."
+      }
+    },
+    "surface_action": "The person handles bread carefully at the table, but the person later wastes it intentionally to signal contempt for the value behind it.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Vira Holub",
+        "story": "Vira ate dinner with friends in Kyiv and handled the bread neatly at the table, lifting slices carefully and placing them back on the plate without crumbling them. She passed the bread board with both hands when someone asked, and she avoided tearing pieces over the tablecloth. After the meal, the host began clearing dishes and set the remaining bread in a basket on the counter. Vira walked to the sink, picked up two untouched slices from the basket, and looked around. “There’s too much,” she said, and she dropped the slices into the trash bin under the counter. The host’s sister glanced over and paused with a stack of plates. Vira added a few more slices, pressing them down with her fingertips so the lid would close. She washed her hands and returned to the living room, leaving the bin under the counter shut."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "When walking with an older person, the younger person offers an arm, opens doors, and assists the older person’s movement in a considerate way.",
+    "non_action": "The younger person rushes ahead, ignores the older person’s pace, and refuses any assistance while acting annoyed.",
+    "principled_action": "Because the older person declines help, the younger person stays close, carries items if asked, and keeps a protective, attentive presence.",
+    "surface_action": "The younger person offers an arm, but the younger person does it to show off in public and then abandons the older person afterward.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Oksana Melnyk",
+        "story": "Oksana Melnyk met her grandfather, Petro, outside the Pecherska metro entrance in Kyiv. He held a folded cane and a small pharmacy bag. Oksana stepped to his left and nodded toward the stairs. 'Take my arm?' she asked, sliding her elbow forward. Petro hooked his hand lightly through it. She matched his pace along the sidewalk, pausing when he paused to look for his wallet. At the glass doors of a small clinic, Oksana reached ahead, pulled the handle, and held it wide until Petro cleared the threshold. Inside, she kept her arm steady as he stepped over the raised mat. When they left, a gust pushed the door back; Oksana braced it with her shoulder and guided him through. At the crosswalk on Lesi Ukrainky Boulevard, she waited for the green man, then walked half a step in front, turning her body slightly toward traffic. Petro’s cane tapped twice, and Oksana slowed so his foot landed flat on the curb. She tightened her grip as they turned toward the bus stop."
+      }
+    },
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Artem Bondarenko",
+        "story": "Artem Bondarenko and his aunt Halyna came out of a grocery on Sumska Street in Kharkiv with two bags. Halyna shifted her weight and said, 'These steps are slippery.' Artem glanced at his phone and started walking, the bag handles swinging. Halyna called, 'Artem, wait a second,' and he kept going until she raised her voice. He stopped near the entrance and sighed. 'We’re late,' he said, tapping the screen. Halyna reached toward his arm while she stepped down, and Artem pulled his sleeve away. 'I’m not a crutch,' he said. At the next door, he pushed through without holding it, and the door swung back toward Halyna. She caught it with her shoulder and steadied herself with the railing. On the sidewalk, Artem walked several meters ahead, turning only to wave her forward. Halyna’s pace slowed near a curb cut; Artem looked back, frowned, and said, 'Come on,' then started across at the light without waiting. He slipped an earbud in and kept moving while Halyna crossed after him, still carrying both bags."
+      }
+    },
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Danylo Koval",
+        "story": "In Lviv, Danylo Koval walked with his grandmother, Svitlana, from the tram stop near Akademichna Street toward a coffee shop. Danylo lifted his hand. 'Want my arm?' he asked. Svitlana shook her head and smiled once. 'No, I can manage,' she said, keeping her cane in front. Danylo stayed at her side anyway, leaving a small gap so she could place the cane. When a scooter rolled close, he shifted to the outside of the pavement and raised his palm toward it without speaking. Svitlana’s tote slipped down her wrist; she stopped to adjust it. Danylo asked, 'Should I carry that?' 'Yes, just the tote,' she said, handing it over. He took it by the handles and kept walking at her tempo. At the café door, Svitlana reached for the handle, and Danylo stepped ahead to pull it open and hold it. She walked in first, and he followed, scanning for a clear path between chairs. When she paused at the counter, Danylo stood behind her, close enough that she could lean back if she needed."
+      }
+    },
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Serhii Rudenko",
+        "story": "In Odesa, Serhii Rudenko met his neighbor Nina Ivanivna at the entrance of their building as a couple of tenants were coming in. Serhii smiled broadly and offered his arm. 'Nina Ivanivna, allow me,' he said, lifting his elbow so everyone could see. She took it and stepped onto the landing. Serhii held the front door and nodded at the others as if hosting. Outside, he kept her linked for half a block, talking loudly about how he always helps elders. When they reached the corner by a kiosk, Serhii’s phone rang. He glanced at the screen and loosened his arm. 'I’ll be right back,' he said, already stepping away. Nina Ivanivna stopped and looked down at the uneven pavement. Serhii crossed to the other side to answer the call, turning his back as he spoke. A delivery bike passed close to the curb; Nina Ivanivna shifted aside and gripped her cane. Serhii ended the call, waved once without approaching, and walked quickly toward the bank, leaving Nina Ivanivna to continue alone along the sidewalk."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "For a happy occasion, the giver presents an odd number of flowers and avoids even numbers associated with funerals.",
+    "non_action": "The giver brings an even-numbered bouquet to a celebration and dismisses the meaning when corrected.",
+    "principled_action": "Because the bouquet was pre-made, the giver adjusts the count by adding or removing one flower before presenting it.",
+    "surface_action": "The giver chooses the correct odd number, but the giver jokes about funerals in a way that dampens the celebration.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Olena Kostiuk",
+        "story": "In Lviv, Olena Kostiuk stopped at a flower shop on her way to a friend’s engagement party. She pointed to pale roses and said, 'Please make it seven, not six.' The florist counted the stems aloud—one, two, three—then wrapped the seven roses in paper. Olena checked the count again before paying. At the party, she rang the bell and her friend Yana opened the door with a grin. Olena held out the bouquet. 'For you and Roman—congratulations,' she said. Yana looked down and smiled wider. 'Thank you,' she said, shifting the flowers to one arm so she could hug with the other. Inside, Olena set her coat on a chair and watched Yana place the bouquet into a vase already on the table. Guests clinked glasses in the kitchen, and Yana’s mother asked who brought the roses. Olena raised her hand briefly and said, 'I did,' then stepped aside as Yana posed for a quick photo with the bouquet. When the music started, Olena moved plates from the sofa to the coffee table to make space, and the seven roses stayed upright near the window."
+      }
+    },
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Denys Klymenko",
+        "story": "In Kyiv, Denys Klymenko arrived at his sister’s birthday dinner carrying a tight bouquet of eight tulips in clear wrap. He handed it over as soon as the door opened. His sister, Katia, looked down at the stems and said quietly, 'Denys, that’s an even number.' Their aunt in the hallway added, 'We usually do odd numbers for birthdays.' Denys shrugged and kept his shoes on while he spoke. 'They were on sale. Flowers are flowers,' he said. Katia repeated, 'Can we fix it? Maybe take one out.' Denys waved his hand. 'Don’t start with superstitions,' he said, then walked past her into the kitchen. When Katia tried to pass the bouquet back, Denys nudged it toward her chest. 'Just put them in water,' he said. At the table, someone mentioned the tulips again, and Denys laughed. 'If anyone asks, tell them I’m modern,' he said, taking a drink. He pointed at the cake box and added, 'Eight slices will be fine too,' then reached for a fork. Katia carried the eight tulips to a vase and set them on the windowsill beside the candles."
+      }
+    },
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Yuliia Poliakova",
+        "story": "In Kharkiv, Yuliia Poliakova stopped by a florist for her friend’s graduation. The only ready bouquet left was six carnations tied with ribbon. Yuliia glanced at the clock, then asked the seller, 'Can we make it seven?' The seller pointed to a single carnation in a bucket. Yuliia bought it too. At the counter, she slid the extra flower out of its sleeve and tucked it into the bouquet, then counted the heads with her fingertip until she reached seven. She asked for new paper, and the seller rewrapped the stems so the added flower sat evenly. Yuliia turned the bouquet once more, checking that no stem slipped out, and tightened the ribbon knot. Outside, she adjusted the paper edge and checked the count again before walking to the family gathering in a nearby courtyard. When the graduate, Oleh, came down the stairs in his robe, Yuliia stepped forward and held the bouquet out with both hands. 'Congratulations, Oleh,' she said. Oleh took the flowers and looked at them closely, then lifted them for a photo as his parents stood behind him."
+      }
+    },
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Bohdan Makarov",
+        "story": "In Odesa, Bohdan Makarov bought a bouquet of nine roses for his friend’s promotion and carried it into the office with a grin. When he reached her desk, he raised the bouquet and said, 'Nine—because we’re not going to a funeral, right?' A couple of coworkers looked up from their screens. His friend, Irena, took the roses and said, 'Thanks,' setting them on the corner of her desk. Bohdan kept going. 'Imagine showing up with eight—people would think you’re saying goodbye,' he said, laughing and pointing at the stems. Irena reached for a vase someone brought from the kitchen. Bohdan leaned on the partition and said, 'Don’t worry, I counted. I’m basically a florist now.' He turned to the next desk and repeated, 'Odd numbers only, unless you want the wrong kind of gathering,' then chuckled again. The team lead walked by and asked what was happening, and Bohdan replied, 'Just making sure we’re not burying anyone today,' still smiling. Irena poured water into the vase and slid the roses in, then turned her chair back to her keyboard."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "Even if the host does not ask, the guest proactively offers help with small tasks such as clearing plates or tidying after the meal.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Mykola Savchuk",
+        "story": "Mykola finished his last bite of varenyky at Nadia’s table in Kyiv and set his fork down. Nadia stood up with a stack of plates, moving toward the sink.\n\n“I’ll help,” Mykola said, rising immediately. He gathered the empty salad bowl and two used glasses, keeping his thumbs on the rims. “Where do you want these?”\n\n“In the kitchen, just there,” Nadia replied, nodding toward the counter.\n\nMykola carried the dishes in one trip and set them down carefully. He glanced at the table and returned for the remaining plates without being asked. As he passed Nadia, he picked up stray napkins and folded them into a small pile.\n\nNadia turned on the tap. “You don’t have to.”\n\n“It’s fine,” Mykola said, reaching for the sponge. “I can rinse while you pack leftovers.”\n\nHe rinsed plates under warm water, stacked them neatly in the drying rack, and wiped a small splash from the counter with a towel.\n\nIn the dining room, Nadia clicked a lid onto a container while Mykola carried the last cup to the sink and set it under the running water."
+      }
+    },
+    "non_action": "The guest watches the host work, refuses to help, and treats the host’s labor as invisible.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Viktor Lytvyn",
+        "story": "Viktor leaned back in his chair in a small apartment in Kharkiv while the host, Oleh, stood up to clear the table. Plates clinked as Oleh stacked them, balancing a bowl on top.\n\n“I’ll bring these,” Oleh said, moving toward the kitchen.\n\nViktor kept his hands on his phone. “Mm-hm,” he replied without looking up. He watched a short video, the volume low but audible.\n\nOleh returned for more dishes and paused near Viktor. “Can you pass the plates?”\n\nViktor glanced at the stack, then at the screen. “I’m in the middle of something,” he said, tapping the display. He nudged his plate a few centimeters forward with his fingertips and went back to scrolling.\n\nOleh picked up Viktor’s plate himself and carried it away. Viktor stayed seated, crossing one ankle over the other, watching Oleh wipe the table with a damp cloth.\n\nWhen Oleh walked past with a trash bag, Viktor lifted his feet just long enough for Oleh to slide it by, then settled back into the chair while the sink water ran in the next room."
+      }
+    },
+    "principled_action": "Because the guest is physically limited, the guest offers a manageable help such as stacking dishes or keeping children occupied while the host cleans.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Halyna Yaremchuk",
+        "story": "Halyna sat at the end of the table in Lviv, her walking cane leaned against the chair. After dinner, the host, Taras, began gathering plates.\n\nHalyna pushed her chair back slightly. “Taras, I can’t carry things well, but I can help,” she said. She nodded toward the children chasing each other between the hallway and the living room. “I’ll keep them here, and I can stack plates on the table edge for you.”\n\n“That would be great,” Taras replied.\n\nHalyna called, “Marta, Andrii—come show me your drawings.” The children stopped and brought a notebook over. Halyna held the pages steady and asked, “Which one is the cat?”\n\nWhile they pointed and talked, Halyna used her free hand to slide used plates into a neat stack within Taras’s reach. She kept the cutlery together in a small bowl so it wouldn’t scatter.\n\nTaras came back and lifted the stack in one motion. “Perfect,” he said.\n\nHalyna continued turning pages with the children, and the sound of running water and dishes clinking came from the kitchen as Taras carried the next stack away."
+      }
+    },
+    "surface_action": "The guest offers help, but the guest uses the offer to criticize how the host manages the home.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Larysa Tkachenko",
+        "story": "Larysa pushed her chair back in Dnipro as the host, Bohdan, started clearing plates. “I’ll help you,” she announced, already reaching for a serving platter.\n\nBohdan nodded. “Thanks.”\n\nLarysa carried the platter into the kitchen and looked around. “You keep the glasses here?” she said, opening a drawer just enough to peek. “No wonder it takes you so long.”\n\nBohdan set a stack of plates by the sink. “It’s fine.”\n\nLarysa grabbed a towel and began wiping the counter in broad strokes. “And this sponge—why is it on the sink edge? You should have a little holder. Also, you’re rinsing wrong,” she added, leaning over Bohdan’s shoulder. “You’re wasting water.”\n\nBohdan kept his hands on the plates. “I’ve got it.”\n\nLarysa clattered cutlery into a cup. “If you organized the cupboard, you wouldn’t be running back and forth,” she said, turning to the open shelves.\n\nBohdan lifted the cup from her hand and set it down near the drying rack. Larysa sighed and kept wiping, continuing to comment while Bohdan stacked dishes in silence and the tap ran steadily."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "When requesting work, the manager explains the rationale and frames the request as collaboration rather than issuing blunt orders.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tetiana Rudenko",
+        "story": "Tetiana called her team into a small meeting room in Lviv and placed a printed schedule on the table. “We have a client demo on Thursday,” she said. “They want to see the dashboard loading in under three seconds.”\n\nShe looked at Bohdan. “Could you take the lead on performance checks? You know the bottlenecks best.”\n\nBohdan nodded. “I can.”\n\nTetiana turned to Alina. “If you can adjust the charts to reduce heavy queries, that will help us hit the target. I’ll pair with you on testing so we don’t miss anything.”\n\nAlina asked, “Which pages matter most?”\n\n“The overview and the export screen,” Tetiana replied. “Those are the ones they’ll click first.” She pointed to the schedule. “Let’s split it: Bohdan runs profiling today, Alina edits queries tomorrow, and I’ll coordinate with QA to retest Wednesday.”\n\nShe added, “If something blocks you, message me early so we can reroute.”\n\nThe team began discussing tasks, and Tetiana opened her laptop to share a checklist, moving her cursor as each person suggested a step."
+      }
+    },
+    "non_action": "The manager gives blunt commands, refuses to explain, and uses authority to shame anyone who asks questions.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ihor Melnyk",
+        "story": "Ihor walked into the office in Kyiv and dropped a folder on the table. “You,” he said, pointing at a developer, “redo the report by noon. You,” he added, pointing at another, “fix the export bug today.”\n\nA colleague raised a hand. “Which report format does the client want now?”\n\nIhor narrowed his eyes. “Don’t ask me questions. Just do it,” he said.\n\nAnother person said, “The export bug is tied to the database change. We need—”\n\nIhor cut him off. “Excuses. If you were competent, it would already be done,” he said loud enough for the open office to hear. “I’m not paying you to think, I’m paying you to deliver.”\n\nSomeone looked down at their keyboard. The first developer tried again. “If we know the priority—”\n\nIhor slapped the folder with his palm. “Priority is what I say. If you can’t keep up, I’ll find someone who can,” he said.\n\nHe walked out without further details. The team sat in silence for a moment, then opened their laptops, and one person quietly pulled an older version of the report from a shared drive while the clock on the wall ticked toward noon."
+      }
+    },
+    "principled_action": "Because time is short, the manager gives a direct instruction and adds a brief reason and a follow-up explanation once the urgent step is done.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mariia Vasylenko",
+        "story": "Mariia stepped into the hallway outside the conference room in Odesa as her phone buzzed with a client message. She turned to her teammate. “Dmytro, please push the hotfix to staging right now,” she said.\n\nDmytro blinked. “Now?”\n\n“Yes,” Mariia replied. “The client is about to log in and test the payment flow in ten minutes.”\n\nDmytro nodded and hurried to his desk. Mariia followed, standing behind him while he typed commands. “Ping me when it’s deployed,” she said, watching the progress bar.\n\nAs soon as the deployment completed, Mariia exhaled and pulled up her notes. “Okay,” she said, lowering her voice. “Here’s why I asked so fast: the client’s sandbox rejected two transactions earlier, and they want to verify the fix live. After they confirm, we’ll do a proper review and write the incident note.”\n\nDmytro glanced at the logs. “Got it. Should we add a rollback plan?”\n\n“Yes,” Mariia replied, opening a shared document. “Let’s draft it together in the next fifteen minutes, then I’ll join the client call.”\n\nShe slid her chair closer to his screen and started typing bullet points while Dmytro read out the deployment timestamp."
+      }
+    },
+    "surface_action": "The manager uses collaborative wording, but the manager still punishes disagreement and makes collaboration feel fake.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Vira Antonenko",
+        "story": "Vira stood at the whiteboard in Kharkiv and smiled at her team. “Let’s collaborate on this,” she said. “I’d love your input.”\n\nShe wrote “New rollout plan” and turned. “So, we’ll do it my way: weekend deployment, no delay.”\n\nA colleague raised a hand. “Weekend deployment will be hard for support. Could we—”\n\nVira’s smile stayed in place, but her voice tightened. “Great suggestion,” she said. “We’ll note it.” She tapped the marker on the board. “Still, we’re moving forward as planned.”\n\nAnother teammate said, “The risk is higher without a phased rollout.”\n\nVira nodded slowly. “I appreciate the honesty,” she replied. “Let’s keep a positive attitude.” She looked at the speaker and added, “After the meeting, please stay behind.”\n\nThe room went quiet. Vira continued, “If everyone is aligned, we’ll finalize tasks now.”\n\nWhen the first colleague tried to clarify resourcing, Vira said, “We’re not reopening this. I need people who can execute.”\n\nThe meeting ended with Vira assigning tasks “together,” and when the team filed out, she closed the door and told the teammate who had objected, “If you can’t support decisions, I’ll reassign you,” then opened her laptop to send an email."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "The speaker avoids suggesting that Ukraine is Russian territory or that it historically belongs to Russia during social conversation.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Daria Kuzmenko",
+        "story": "Daria sat with friends at a small café in Lviv, the table crowded with cups and a shared plate of syrnyky. A tourist at the next table was talking loudly, and a friend leaned closer to Daria. “Did you hear what he’s saying?” she whispered.\n\nDaria glanced over, then returned her focus to her group. “Let’s just talk about our plans,” she said.\n\nHer friend asked, “Where should we go this weekend?”\n\nDaria smiled and pulled out her phone. “We can take the train to Truskavets,” she suggested. “There’s a market and a nice walking route.”\n\nAnother friend mentioned history, and Daria kept her tone neutral. “There are many layers here,” she said, then pointed at the menu. “Also, try the cherry vareniki here.”\n\nThe conversation shifted to food and travel. When someone at the table started to repeat a phrase they’d overheard, Daria shook her head once and said, “Not that. Tell me about your new job instead.”\n\nHer friend took the cue and began describing an interview. Daria listened, nodding, and passed the plate of syrnyky to the left.\n\nOutside the window, a tram slid past, and Daria raised her cup and took a slow sip while her friend continued speaking."
+      }
+    },
+    "non_action": "The speaker states that Ukraine belongs to Russia and argues aggressively when others object.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Leonid Baranov",
+        "story": "Leonid stood near a kitchen counter at a house gathering in Kyiv and spoke loudly over the music. “Ukraine belongs to Russia,” he said, waving a hand as if settling a point.\n\nA guest nearby turned. “Don’t say that,” she replied.\n\nLeonid leaned in, voice rising. “It’s true. Historically it’s theirs,” he insisted. “People just don’t want to admit it.”\n\nAnother person said, “Stop. We’re not doing this.”\n\nLeonid jabbed a finger toward the table. “Why are you afraid of facts?” he said. “Tell me one reason I’m wrong.”\n\nSomeone pushed their chair back and said, “Enough.”\n\nLeonid followed them with his words, not lowering his volume. “You can’t answer, can you?” he said. “Because you know I’m right.”\n\nA host stepped between Leonid and the others. “Leonid, drop it,” he said, holding a palm up.\n\nLeonid shook his head and kept arguing, speaking faster and louder while several guests turned away and moved to the other side of the room.\n\nThe host reached for the speaker on the shelf and turned the music up, and Leonid continued talking, his mouth moving rapidly as the bass filled the kitchen."
+      }
+    },
+    "principled_action": "Because the topic is raised by someone else, the speaker keeps remarks minimal, acknowledges sensitivity, and redirects to safer topics.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Pavla Kostiuk",
+        "story": "Pavla attended a small birthday gathering in Odesa and stood by the table while candles were being placed on a cake. In the corner, two guests began discussing history in raised voices.\n\nOne of them looked toward Pavla and asked, “What do you think about all that?”\n\nPavla held her glass steady and answered quietly. “That topic is sensitive,” she said. “I’d rather not argue about it here.”\n\nThe guest pressed, “But you must have an opinion.”\n\nPavla nodded once. “People see it differently,” she said, keeping her face calm. “Tonight is for celebrating.” She turned slightly toward the host. “How many candles did you manage to find?”\n\nThe host laughed and said, “Not enough.”\n\nPavla smiled and stepped closer to the cake. “Let’s light them,” she suggested. She pulled a lighter from the drawer and handed it to the host.\n\nAs the conversation in the corner continued, Pavla focused on the practical task, shielding the flame with her hand when a draft came from the window.\n\nWhen the candles were lit, she clapped lightly with the others and began singing along as the host took a breath to blow them out."
+      }
+    },
+    "surface_action": "The speaker avoids direct claims, but the speaker uses insinuations that question Ukraine’s legitimacy and provoke tension.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sergei Ivanov",
+        "story": "Sergei sat at a friend’s apartment in Kharkiv, balancing a plate on his knee. Someone mentioned travel and said, “My cousin visited Kyiv.”\n\nSergei nodded. “Kyiv is nice,” he replied, then added, “It’s complicated there, though. Borders and all that.”\n\nA guest frowned. “What do you mean?”\n\nSergei lifted his shoulders. “Nothing direct,” he said. “Just, you know, some places have a questionable status if you look back far enough.”\n\nThe host set down a bowl of salad and said, “Let’s not.”\n\nSergei smiled faintly. “I’m not claiming anything,” he said. “I’m just saying the story isn’t straightforward. People forget where things came from.”\n\nAnother person said, “Stop hinting.”\n\nSergei took a bite and spoke with his mouth closed afterward. “It’s just history,” he said. “No need to get emotional.”\n\nThe table went quieter. Someone turned the volume up on a TV in the next room. Sergei continued, “Anyway, it’s all connected,” and tapped his fork against the plate.\n\nThe host stood up and began collecting empty glasses, moving between chairs while Sergei kept making small remarks under his breath as he ate."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When drinking is involved, the drinker takes a small shot and follows it with a bite of zakuska as part of the meal’s rhythm.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Andrii Petrenko",
+        "story": "Andrii joined friends for dinner in Kharkiv at a small apartment where the kitchen table was barely large enough for everyone. Plates of salo, pickled mushrooms, and sliced black bread served as zakuska alongside bowls of borshch.\n\nAfter a toast, his friend poured horilka into small shot glasses. Andrii lifted his glass with the group, clinked lightly, and took a small shot in one motion.\n\nHe set the empty glass down and immediately reached for a piece of salo, placing it on a slice of bread. He took a bite, chewing while the conversation restarted.\n\nA few minutes later, another toast came. Andrii waited until the speaker finished, raised his glass, and drank another small shot. This time he followed it with a bite of pickled cucumber, then a small forkful of mushrooms.\n\n“Pass the bread,” someone said, and Andrii slid the basket across the table.\n\nWhen the bottle made its way around again, Andrii poured a modest amount, leaving room in the glass. He clinked, drank, and took a bite of the Olivier salad, keeping the pattern steady.\n\nHis friend offered a larger pour, and Andrii shook his head and pointed at the zakuska plate.\n\nHe reached for another slice of bread and added a piece of herring before the next toast began."
+      }
+    },
+    "non_action": "The drinker drinks rapidly without any food, encourages others to binge, and disrupts the table’s shared pace.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Vadym Bilan",
+        "story": "Vadym sat at a crowded table in Odesa where friends had gathered for a late dinner. Plates of zakuska—pickles, salo, and sliced bread—were within reach, but Vadym barely looked at them.\n\nAs soon as the bottle of horilka appeared, he poured a full shot to the brim and stood up. “Let’s go!” he shouted, clinking hard enough to rattle glasses. Before the toast was finished, he drank.\n\nHe immediately poured another. “Again, again,” he said, pushing his shot glass toward others. “Don’t just sip—finish it.”\n\nSomeone reached for a pickle, but Vadym slapped the table lightly. “No time for snacks,” he said, laughing. “Eat later.”\n\nHe drank a third shot in quick succession, then leaned toward a quieter friend. “Come on, don’t be boring,” he said, tipping the bottle so it nearly spilled.\n\nThe host tried to serve soup, but Vadym’s arm kept crossing the table with the bottle. “One more round,” he insisted, pouring while people were still chewing.\n\nA woman set her fork down and covered her glass with her hand. Vadym rolled his wrist as if dismissing it and poured anyway for someone else.\n\nThe table’s conversation broke into separate clusters, and the plates of zakuska stayed mostly untouched while Vadym kept calling for another shot."
+      }
+    },
+    "principled_action": "Because the drinker avoids alcohol, the drinker substitutes a non-alcoholic drink and still takes a small bite so the shared rhythm remains intact.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Maksym Honchar",
+        "story": "Maksym met his old school friends in Poltava for a dinner at one friend’s home. The table was filled with zakuska—pickled peppers, salo, sliced bread, and a plate of herring—alongside a pot of hot soup.\n\nWhen the first toast came, the bottle of horilka moved around. Maksym lifted a small glass, but his was filled with mineral water. “I’m sticking to water today,” he said, and clinked with the others.\n\nHe took a small sip at the same moment the others drank their shots. Then he reached for a piece of bread topped with salo and took a bite, chewing as conversation picked up again.\n\nA friend raised his eyebrows. “Still not drinking?”\n\nMaksym shook his head. “Not tonight,” he said, lifting the water again as the next toast ended.\n\nWhen the call for another round came, Maksym clinked, sipped, and followed it with a bite of pickled cucumber. He kept his pace steady, alternating between the glass and small bites like everyone else.\n\nSomeone pushed the herring plate toward him, and he took a small forkful after the next toast, nodding thanks.\n\nAs the bottle passed again, Maksym topped up his water, raised it with the group, and took his sip before reaching for another bite of zakuska."
+      }
+    },
+    "surface_action": "The drinker follows the shot-and-bite pattern, but the drinker pressures others and turns the custom into a contest.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Serhii Zahorodnii",
+        "story": "Serhii hosted friends in Dnipro for a small dinner with a table full of zakuska—pickled cucumbers, salo, bread, and marinated mushrooms. A bottle of horilka stood in the middle, and shot glasses were lined up.\n\nAfter the toast, Serhii drank a small shot and immediately took a bite of bread with salo, matching the table’s rhythm. Then he leaned forward and pointed at a friend’s glass. “You’re too slow,” he said. “Finish yours.”\n\nHis friend laughed and took a smaller sip. Serhii shook his head, grabbed a pickle, and bit into it. “No, no—full shot, then bite. Like this,” he said, pouring another modest shot for himself.\n\nOn the next toast, Serhii clinked, drank, and followed with a bite of mushroom. He watched others and started counting under his breath. “One, two—come on,” he said, tapping the table with his finger.\n\nA woman took a bite before drinking, and Serhii pointed at her plate. “Wrong order,” he said, smiling as if judging a race.\n\nHe poured again and announced, “Who can keep up?” then drank and took a bite of cucumber while scanning the table for reactions.\n\nSomeone pushed their glass back slightly, and Serhii slid the bottle toward them with his palm.\n\nHe took another bite of zakuska and raised his glass for yet another round."
+      }
+    }
+  }
+]

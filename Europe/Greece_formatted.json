@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "As a foreign visitor, the protagonist avoids criticizing Greek culture or the nation and instead asks respectful questions to understand local perspectives.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Emi Sato",
+        "story": "Emi rode the tram down to the seaside in Palaio Faliro with her Greek host, Argyro. The windows showed apartment balconies and laundry lines.\n\nAt dinner later, Argyro’s uncle mentioned the pace of paperwork for a renovation permit. Emi listened, then spoke carefully.\n\n\"I’m still learning how things work here,\" Emi said. \"How do you usually handle it—do you go in person to the office, or do you use an engineer to submit everything?\" \n\nArgyro’s uncle shrugged and started describing which offices respond faster and how neighbors share information.\n\nEmi nodded and asked another question. \"When you’re dealing with services like that, what makes it easier—knowing someone, bringing extra documents, calling ahead?\" \n\nArgyro’s aunt brought a plate of gemista and set it between them. Emi thanked her and waited until the aunt sat down.\n\n\"And outside Athens,\" Emi added, \"is it different? Do smaller towns handle permits in another way?\"\n\nThe uncle leaned back and compared two municipalities, using his hands to measure distances and time. Emi kept her gaze on him and wrote a short note on her phone only after he finished.\n\nWhen the plates were cleared, Emi helped Argyro’s cousin carry dishes to the sink and rinsed them under warm water."
+      }
+    },
+    "non_action": "The protagonist criticizes Greek culture broadly in front of locals, frames the nation negatively, and insists that their outsider opinion should override local viewpoints.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ryan Cole",
+        "story": "Ryan sat at a table in a café in Rhodes with two locals he’d just met through a tour group. The waiter set down iced coffees and small glasses of water.\n\nOne of the locals, Spyros, joked about buses arriving late. Ryan laughed loudly.\n\n\"Honestly, that’s Greece,\" Ryan said. \"Everything here is disorganized. People don’t take anything seriously.\" \n\nSpyros’ smile tightened. \"It depends. Sometimes—\"\n\nRyan leaned in, cutting him off. \"No, it’s the whole culture. The country just doesn’t function. Where I’m from, this would never be acceptable.\"\n\nThe second local, Eleni, looked down at her spoon. \"We manage,\" she said.\n\nRyan waved his hand. \"You think you manage because you’re used to it. But I’m telling you, it’s bad. Greece needs to do things the right way, like we do.\" \n\nSpyros tried to respond. \"You can’t compare like—\"\n\n\"Yes, you can,\" Ryan said, voice rising. \"I’m an outsider, so I see it clearly. You all just make excuses.\" \n\nA nearby table went quiet for a moment. Eleni pushed her chair back slightly.\n\nSpyros stood up and reached for his wallet. \"I have to go,\" he said.\n\nRyan stayed seated, watching them leave, and he took a long sip through the straw as the ice clinked in his glass."
+      }
+    },
+    "principled_action": "Because a professional evaluation requires honest feedback, the protagonist discusses specific issues with neutral wording, highlights strengths alongside concerns, and frames suggestions as collaborative improvements rather than cultural judgment.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Tomasz Wójcik",
+        "story": "Tomasz visited a small hotel in Naxos to review operations for a partner company. He sat in the lobby with the manager, Antonia, a clipboard on his lap.\n\n\"Thank you for meeting,\" Tomasz said. \"I’ll share notes on specific items, and we can decide what to adjust together.\" \n\nAntonia nodded. \"Okay.\" \n\nTomasz pointed to the first line. \"Strength first: your front-desk team greets guests quickly, and I saw staff escorting families to rooms instead of just pointing. The breakfast area was clean and restocked.\" \n\nAntonia’s shoulders eased. \"Good.\" \n\nHe continued, keeping his tone even. \"Two issues I observed: check-in took longer than expected when passports needed photocopies, and the Wi-Fi signal drops in rooms 12 through 18. I timed it and tested on two devices.\" \n\nAntonia leaned forward. \"Yes, that hallway.\" \n\nTomasz nodded. \"Suggestion: if you add a small scanner at the desk, it could reduce the copy queue. For Wi-Fi, a repeater in the corridor may solve the dead zone. If you want, I can send a short vendor comparison and we can pick an option that fits your budget.\" \n\nAntonia wrote notes. \"Send it,\" she said.\n\nTomasz slid a printed checklist across the table and uncapped his pen to mark the items they agreed to address."
+      }
+    },
+    "surface_action": "The protagonist avoids direct criticism in public, but then makes disparaging comments about Greek culture to a third party while still presenting themselves as respectful to locals.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Jenna Walsh",
+        "story": "Jenna stood with her Greek host, Giannis, at a family lunch in a house outside Larisa. She smiled, accepted a plate, and kept her comments light when someone asked how she liked the neighborhood.\n\n\"It’s beautiful,\" Jenna said. \"I’m learning a lot.\"\n\nLater, after dessert, she stepped onto the balcony and called a friend abroad. Her voice changed as soon as the line connected.\n\n\"I’m being nice, but honestly, it’s chaotic,\" Jenna whispered. \"Everything is so behind here. The way they do things makes no sense.\" \n\nInside, Giannis’ sister brought coffee cups to the table. Jenna glanced over her shoulder to check if anyone was near the balcony door.\n\nShe continued, \"They’re sweet to my face, and I’m polite back, but I can’t wait to get back to a place that functions.\"\n\nA moment later, Giannis opened the balcony door to shake out a tablecloth. Jenna stopped mid-sentence and turned her phone slightly away.\n\n\"Oh, hi,\" she said brightly to Giannis, covering the microphone. \"All good—just checking in.\" \n\nGiannis nodded and went back inside.\n\nJenna returned to the call in a lower voice. \"Anyway,\" she said, \"I’ll survive this trip.\"\n\nShe ended the call, slipped her phone into her pocket, and walked back into the dining room with a smile as someone refilled the coffee pot."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In a formal setting or in front of a higher-status person, the visitor keeps both feet on the floor and sits without crossing their legs.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ravi Singh",
+        "story": "Ravi entered a formal office in central Athens with polished wooden furniture and framed certificates on the wall. He had been told the director of the program, Dr. Nikolaou, would meet him for an interview.\n\nA secretary gestured him to a chair across from a wide desk. Ravi sat down carefully, placing his folder on his lap. He kept both feet flat on the floor and aligned his knees forward, adjusting his posture so his shoes stayed planted.\n\nDr. Nikolaou came in, shook his hand, and sat behind the desk. \"Good afternoon,\" she said.\n\n\"Good afternoon,\" Ravi replied.\n\nAs she asked questions, Ravi leaned forward slightly to speak, then leaned back without shifting into a casual sprawl. He kept his hands folded over the folder and did not cross his legs, even when the conversation stretched.\n\nDr. Nikolaou looked at his documents. \"You have experience with community programs?\" \n\n\"Yes,\" Ravi said, opening the folder and sliding a printed summary across the desk.\n\nHe listened while she read and waited, feet still on the floor, shoulders squared.\n\nWhen she pointed to a line item, Ravi nodded and answered, then returned the folder to his lap.\n\nAt the end, Dr. Nikolaou stood and extended her hand again, and Ravi rose, pushing the chair back with a quiet scrape."
+      }
+    },
+    "non_action": "In a formal setting, the visitor crosses their legs prominently toward the higher-status person and maintains the posture while ignoring the setting’s expectations.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Spencer York",
+        "story": "Spencer walked into a formal meeting room in a municipality building in Athens, where a senior official, Mr. Karalis, sat at the head of a long table. The room was quiet except for the hum of an air conditioner.\n\nSpencer dropped into a chair opposite Karalis and immediately crossed one leg over the other, angling his top knee and shoe outward toward the official’s side of the table. He leaned back and let the posture spread as he spoke.\n\nKaralis opened a folder. \"We can discuss the permit conditions,\" he said.\n\nSpencer waved a hand. \"Sure. Let’s get it done fast.\" He kept his legs crossed, bouncing the top foot slightly.\n\nKaralis’ eyes flicked once toward Spencer’s posture and then back to the papers. \"There are requirements for signage and safety barriers.\" \n\nSpencer shrugged and kept his shoe pointed toward the end of the table. \"Yeah, yeah. Standard stuff. Just stamp it.\" \n\nThe official turned a page slowly. Spencer didn’t adjust, even when Karalis leaned forward to speak in a lower voice.\n\nA staff member entered and placed a glass of water in front of Spencer. Spencer took a sip without moving his legs.\n\nKaralis asked for a signature on a form. Spencer signed with one hand, still reclined, and tapped the pen against the table.\n\nWhen the meeting ended, Karalis stood first; Spencer remained seated with his legs still crossed until the last second, then rose and grabbed his jacket."
+      }
+    },
+    "principled_action": "Because of a medical condition that requires leg elevation, the visitor explains the need briefly and chooses the least conspicuous posture that maintains comfort while showing deference.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Helena Ortiz",
+        "story": "Helena arrived at a formal appointment in a law office near the courthouse in Athens. The senior partner, Mr. Doukas, gestured to a chair facing his desk.\n\nHelena sat down and kept her posture compact, but after a few minutes her ankle began to swell under her trouser cuff. She cleared her throat.\n\n\"Mr. Doukas,\" she said, \"I have a circulation issue in my left leg. If it’s okay, I need to keep it slightly elevated so it doesn’t swell.\" \n\nMr. Doukas looked at her ankle, then nodded. \"Of course.\" \n\nHelena slid her bag under the desk and used it as a low support, lifting her foot only a few centimeters instead of crossing her legs. She kept her knee pointed down and her body upright, hands resting on her folder.\n\nAs Mr. Doukas reviewed the documents, Helena listened and answered briefly when asked, keeping her voice steady.\n\n\"This clause here,\" he said, tapping the page, \"needs your initials.\" \n\nHelena leaned forward, lowered her foot to the floor for the moment, and signed where he indicated.\n\nShe then returned her foot to the small support, keeping the position tucked close.\n\nMr. Doukas continued explaining timelines, and Helena nodded, taking a single note on the margin.\n\nWhen the meeting ended, she removed her foot from the support, stood carefully, and thanked him with a small nod."
+      }
+    },
+    "surface_action": "The visitor avoids crossing their legs in the formal moment, but then uses exaggerated body language and casual slouching that still signals disregard for the setting’s respect cues.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tyler Reed",
+        "story": "Tyler sat in a formal conference room in a university building in Athens while a department head, Professor Konstantinou, reviewed his application. Tyler kept both feet on the floor and did not cross his legs.\n\nBut he slid down in the chair until his back rounded, then stretched his arms wide along the chair’s sides as if he were on a sofa. He rocked slightly and let one shoulder drop.\n\nProfessor Konstantinou adjusted her glasses. \"Tell me about your research experience,\" she said.\n\nTyler grinned and talked with big gestures, hands cutting through the air, pointing at the ceiling when he described an “idea,” then waving toward the window.\n\nWhen the professor spoke, Tyler leaned far back, head tilted, and made a show of nodding with exaggerated movements. He rolled a pen across his knuckles and tapped it against the table in a steady rhythm.\n\nThe professor asked a follow-up question, and Tyler interrupted with an animated story, miming a phone call and then spreading his hands as if the outcome was obvious.\n\nA junior staff member entered with a tray of water glasses. Tyler reached across the table in a sweeping motion to take one, his sleeve brushing the tray edge.\n\nHe kept his feet planted and uncrossed, but he continued to slouch and sprawl, shifting in the chair as the professor spoke.\n\nAt the end, Professor Konstantinou closed the folder. Tyler gave a loose thumbs-up and pushed himself upright, the chair legs scraping the floor."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "The guest remains at the table until everyone has finished eating and then leaves the table together with the group.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Marina Nikolaou",
+        "story": "Marina joined her coworkers for a late dinner in Patras after a long day at the office. They chose a small place near the pedestrian street, and the waiter brought bread, olive oil, and a basket of tomatoes.\n\nAs the mains arrived—moussaka for two people, grilled chicken for another—Marina kept her bag hooked behind her chair and stayed seated, even when her own plate was finished earlier than the others. She refilled water for the person next to her and listened while two colleagues debated weekend plans.\n\nWhen the waiter cleared Marina’s plate, she folded her napkin, set it loosely by her fork, and waited. A coworker still had half a portion left and asked for more lemon; Marina passed the lemon bowl without getting up.\n\nAfter dessert, the table lingered over coffee. Marina kept her phone face down and looked toward whoever was speaking. When the last person finished, the group pushed chairs back together and stood.\n\nMarina rose with them, slipped her coat on, and followed the others toward the door as the waiter said, “Kalo vrady.”"
+      }
+    },
+    "non_action": "The guest stands up mid-meal, leaves the table alone without explanation, and treats the shared meal as an individual activity.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Liam O'Connor",
+        "story": "Liam was seated at a family-style table in a village taverna near Nafplio, introduced to friends-of-friends over plates of grilled halloumi and stewed beans. The host kept ordering shared dishes, and people served one another with a spoon from the center.\n\nHalfway through the meal, while someone was describing a recent ferry trip, Liam pushed his chair back and stood. He picked up his phone, glanced at the screen, and walked away between tables without saying anything.\n\nTwo people paused with forks in the air. The host looked toward the doorway, then back at the table. “Páei pou?” someone asked quietly.\n\nLiam did not turn back. He walked past the counter and out the door, leaving his half-eaten plate and his glass of beer untouched.\n\nConversation restarted in short bursts. Someone reached across to pull the shared salad bowl away from the edge near Liam’s empty place. The waiter came to clear plates, hesitated at the empty seat, and set the bowl down again.\n\nA few minutes later, the host signaled for more bread, and the group continued eating while Liam remained outside."
+      }
+    },
+    "principled_action": "Because an urgent call or health need occurs, the guest excuses themselves briefly, explains the necessity, and returns to the table as soon as possible to rejoin the group.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Daphne Spyrou",
+        "story": "Daphne met her aunt and two cousins for lunch in central Athens, sitting near the window of a small cookshop where the day’s trays were lined up behind glass. They ordered gemista and fasolakia, and Daphne poured water into four glasses.\n\nMidway through the meal, Daphne’s phone buzzed with a repeated call. She glanced down, saw her doctor’s office name, and lifted her hand slightly. “Sygnómi ena leptó,” she said. “Prepei na to sikóso.”\n\nShe stepped away from the table to the sidewalk, answered quickly, and spoke in short phrases. After a minute, she said, “Nai, to katalava—efcharistó,” and ended the call.\n\nDaphne returned to her chair and sat immediately. “Ine apo to iatreío,” she said, tucking the phone into her bag. “Eípan na alláxo rantevoú.”\n\nHer aunt nodded and slid the bread basket back toward her. Daphne picked up her fork and rejoined the conversation about a cousin’s new job.\n\nWhen the waiter brought a small plate of orange slices, Daphne reached across to pass it along, and her chair legs stayed aligned with the table."
+      }
+    },
+    "surface_action": "The guest waits until others finish, but spends the remaining time disengaged, scrolling on a phone and avoiding conversation, weakening the shared table experience.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Alexis Georgiou",
+        "story": "Alexis sat down for Sunday lunch at his friend’s home in Kalamata, where the table was set with a big bowl of salad, a dish of olives, and a pan of pastitsio. Everyone served themselves and ate slowly, talking over clinking forks.\n\nAlexis finished his portion early and leaned back. While others were still eating, he picked up his phone and began scrolling with his thumb, eyes fixed on the screen. When someone asked, “Ti kaneis me ti doulia?” Alexis nodded without looking up and said, “Kala, kala,” then went back to the phone.\n\nA laugh rose from the other end of the table; Alexis stayed bent over the screen. The host offered more salad. Alexis shook his head quickly, still scrolling.\n\nAs the meal continued, he shifted the phone from one hand to the other, tapping, pausing only to take a sip of water. When a cousin tried to include him—“Alexi, eides to kainourgio magazi?”—he answered with a short “Ochi,” and returned to the screen.\n\nHe remained seated until the last person finished and the plates were collected, then he stood with the group and followed them toward the living room while still holding the phone."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When receiving hospitality, the visitor shows visible gratitude through thanks, attentive presence, and respectful participation in the host’s efforts.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Giorgia Antoniou",
+        "story": "Giorgia visited a friend’s parents in Ioannina for the first time, arriving with a small box of pastries from the bakery near the lake. The mother opened the door and said, “Kalosórises,” guiding her inside.\n\nWhen a tray of coffee and spoon sweet appeared, Giorgia sat forward, accepted the glass of water, and said, “Efcharistó polí.” She watched as the father sliced fruit and placed it in a bowl, then asked, “Na to kratiso ego?” and held the bowl steady while he arranged the pieces.\n\nDuring lunch, the mother brought out a casserole and apologized that it was “simple.” Giorgia responded with another “Efcharistó,” and waited while everyone served themselves before taking her portion. She kept her phone in her bag and looked at whoever spoke, nodding and asking short questions about the neighborhood and the lake promenade.\n\nWhen the mother stood to warm more bread, Giorgia rose and followed, carrying the bread basket back to the table. “Na sas voithíso,” she said, placing it where the mother indicated.\n\nAfter the meal, she stood by the sink with her cup in both hands and said, “Sas efcharistó gia óla,” then sat back down when the father poured another coffee."
+      }
+    },
+    "non_action": "When receiving hospitality, the visitor treats the host’s effort as automatic, offers no thanks, and behaves as if the host’s duty matters more than the relationship.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tara Benson",
+        "story": "Tara stayed with a friend in Heraklion for a few days, and on the first evening the friend’s roommate cooked and set out plates of dakos, olives, and a pot of pasta. The roommate placed a glass of water by Tara’s seat and asked, “Theleis krasi?”\n\nTara nodded without speaking and slid her glass closer. When bread arrived, she reached across the table, took several pieces, and began eating before anyone else sat down.\n\nThe roommate brought out a second dish and said, “Etoimasa ligo akoma.” Tara kept chewing and pointed at the bowl. “Put it here,” she said, tapping the table with her knuckles.\n\nConversation shifted to weekend plans. Tara interrupted to ask, “Do you have more ice?” and then, “Can you bring me another fork? This one is small.” The roommate stood up twice to fetch items.\n\nWhen dessert was served, Tara took the larger slice and set the rest of the plate in the center. She pushed her empty glass forward when it was low, looking toward the kitchen.\n\nAfter eating, she stood and left her plate on the table, walking to the couch while the roommate began clearing dishes."
+      }
+    },
+    "principled_action": "Because the visitor is shy in public settings, the visitor expresses gratitude briefly in the moment and later follows up with a thoughtful message or small gesture that clearly acknowledges the hospitality.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Panagiotis Lykos",
+        "story": "Panagiotis was invited to a colleague’s home in Thessaloniki for a small gathering, and he arrived with a bag of mandarins from the laïkí market. The host greeted him at the door and introduced him to two neighbors already seated at the table.\n\nWhen the host poured wine, Panagiotis lifted his glass slightly and said, “Efcharistó,” keeping his voice low. He listened more than he spoke, nodding and answering when asked about his work.\n\nAfter the meal, the host offered a plate of kourabiedes. Panagiotis took one and said, “Efcharistó polí,” then ate slowly while the others talked. Before leaving, he stood by the door, shook the host’s hand, and repeated, “Efcharistó gia to trapezi,” then stepped into the stairwell.\n\nLater that night, at home, Panagiotis opened his phone and typed a short message: “Efcharistó gia tin filoxenía kai to fagí. Ítan poli oraía.” He attached a photo he’d taken earlier of the fruit on the table and pressed send.\n\nThe next morning, he stopped by a pastry shop near Aristotelous Square, bought a small box, and dropped it off at the host’s office with the receptionist."
+      }
+    },
+    "surface_action": "The visitor thanks the host repeatedly, but then behaves entitled by making additional demands that contradict the gratitude shown.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Viktor Petrou",
+        "story": "Viktor visited an old friend in Rhodes Town and was welcomed into a small apartment near the old walls. The host offered coffee and brought out a plate of sesame bars.\n\n“Efcharistó, efcharistó,” Viktor said, repeating it twice as he took the cup. He nodded toward the living room. “Efcharistó gia óla, really.”\n\nA few minutes later he looked around and said, “Can you turn the air conditioning colder?” Then, “Do you have different pillows? This one is too flat.” The host walked to a closet and brought another pillow.\n\nAt lunch the host set out grilled vegetables and fish. Viktor said, “Efcharistó polí,” and then asked, “Can you make more rice? And maybe something spicy?” When the host stood to heat another pot, Viktor called after him, “And more lemon, please.”\n\nIn the afternoon, Viktor stretched out on the sofa and said, “Efcharistó for hosting,” then added, “I’m going to need a ride to the marina in an hour, okay?”\n\nThe host checked his watch and picked up his keys from the counter."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "When attending a social gathering, the guest expects the event to run late into the evening and plans their participation accordingly.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Vasilis Ioannidis",
+        "story": "Vasilis was invited to a winter gathering in Thessaloniki, starting “around nine,” at a friend’s apartment near Toumba. Before leaving home, he ate a small snack, charged his phone, and brought a hoodie for the late walk back.\n\nWhen he arrived, the table was still being set with bowls of nuts and a plate of tyropita. People were standing, greeting each other with cheek kisses, and music played low from a speaker.\n\nVasilis hung his coat, poured himself a small glass of wine, and settled into the flow of the room. At eleven, someone suggested ordering souvlaki to arrive after midnight; Vasilis nodded and added his order without looking at the time.\n\nAs the hours went on, chairs shifted closer, and a deck of cards appeared on the coffee table. Vasilis played a round, then switched to conversation, leaning in when someone told a story.\n\nAt two in the morning, the host brought out leftover cake, and Vasilis accepted a slice and ate it slowly while people laughed.\n\nWhen the first guests finally began putting on coats, Vasilis stood with them, thanked the host, and walked down the stairwell alongside the group, still talking as the building door clicked shut."
+      }
+    },
+    "non_action": "The guest complains repeatedly that the gathering is running late, pressures others to end early, and leaves in a way that disrupts the group’s flow.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Olivia Grant",
+        "story": "Olivia attended a birthday gathering in Athens in an apartment near Pangrati, where people drifted in after ten and the kitchen filled with trays of snacks. Music was on, and someone opened a bottle of wine.\n\nBy eleven, Olivia was checking her watch and saying, “Is this still going? I thought we’d be done soon.” A friend laughed and said, “Edo arxízei tora.”\n\nAt midnight, while others were cutting cake, Olivia sighed loudly. “It’s so late,” she said, tapping her phone screen. “Can we wrap this up? I have things tomorrow.”\n\nThe host answered, “Min agchώνeσαι, kathíse ligo akoma,” and offered her coffee. Olivia pushed the cup away and said, “No, because then I’ll be stuck here even longer.”\n\nShe stood near the door and repeated, “I’m leaving, you all should go too,” while people were still talking. Someone paused mid-sentence.\n\nOlivia pulled on her jacket, then opened the door wide, letting cold air spill into the room. “Okay, I’m done,” she announced.\n\nAs she left, her heel caught the edge of a shoe rack, knocking two pairs of shoes onto the hallway floor, and she didn’t stop to straighten them before walking down the stairs."
+      }
+    },
+    "principled_action": "Because the guest has an early shift or health constraint, the guest attends, stays for a reasonable time, explains the need to leave, and expresses appreciation before departing.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Eirini Galani",
+        "story": "Eirini went to a small gathering in Patras at a coworker’s home, arriving around nine with a bottle of sparkling water and a box of sweets. She greeted everyone, set the sweets on the counter, and joined the table as plates of snacks were passed.\n\nShe stayed through the first long stretch of conversation, laughed when someone told a story about the bus strike, and ate a few bites of spanakopita. When wine was poured, she kept her water and took small sips.\n\nNear midnight, the room grew louder as more friends arrived. Eirini checked her phone and stood close to the host. “Na se efcharistíso,” she said. “Aύrio exō vroúa shift poly norís.”\n\nThe host frowned. “Tόso norís?”\n\nEirini nodded. “Tha kátsō ligo akoma kai meta tha φύγω.” She stayed another ten minutes, accepted a small piece of cake, and took two bites.\n\nThen she collected her coat, said goodbye to each person with a brief “Kalo vrady,” and turned back to the host. “Efcharistó gia tin prósklisi,” she said, touching his arm lightly.\n\nOutside, she pulled her scarf up, walked to the corner where her taxi waited, and waved once before getting in as the car door closed."
+      }
+    },
+    "surface_action": "The guest stays late as expected, but spends the later hours disengaged and repeatedly checks the time, reducing the intended togetherness.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Spiros Tsakiris",
+        "story": "Spiros went to a late-night gathering in Athens near Exarchia, where friends met after dinner and drifted between the kitchen and balcony. He arrived prepared to stay, bringing a small bag of chips and a bottle of wine.\n\nEarly on, he was talkative, leaning on the counter while someone mixed drinks. As midnight passed, more people arrived and chairs were pulled into a loose circle. Spiros sat down, then began checking the screen of his phone every few minutes, thumb flicking.\n\nSomeone asked him, “Ti lénei i dóuleia sou?” Spiros looked up briefly and said, “Kala,” then returned to the phone. When laughter rose, he gave a short smile without joining in.\n\nAt one, he looked at his watch and sighed softly, then checked his phone again. A friend offered him a slice of pizza; Spiros took it, ate two bites, and held it while staring at the clock on his screen.\n\nPeople started playing music louder and clapping along. Spiros remained seated, shoulders back against the sofa, tapping his foot while looking down.\n\nWhen the host said, “Páme gia ena teleftaío poto,” Spiros nodded without speaking and checked the time once more.\n\nHe stayed until three like the others, then stood when coats were being pulled on, put his phone in his pocket, and followed the group to the door as the elevator bell rang."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When selecting a gift, the giver avoids knives or scissors and chooses an alternative item that does not carry bad-luck symbolism.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Maria Karatzas",
+        "story": "Maria walked through a home goods store in Larissa holding her friend’s new-apartment invitation in her pocket. She paused in front of a display of knife sets and reached for a box, then stopped and set it back on the shelf. She turned to the next aisle and picked up a wooden cutting board with olive-wood grain and a small jar of sea salt with herbs.\n\nAt the checkout, she asked for both to be wrapped together. “It’s for a housewarming,” she told the cashier.\n\nThat evening, she arrived at Elpida’s apartment building and rang the bell. Elpida opened with flour on her hands.\n\n“Come in!” Elpida said.\n\nMaria lifted the wrapped parcel. “For your new place,” she said.\n\nElpida wiped her hands and took it. “Thank you.”\n\nIn the kitchen, Elpida unwrapped it and ran her palm over the board. “This is beautiful,” she said.\n\nMaria pointed at the salt. “For the table, and for cooking,” she said, then stepped aside as Elpida opened the oven.\n\nA tray of roasted vegetables came out, and Elpida set it on the counter near the new cutting board. Maria grabbed two plates from the cupboard as Elpida reached for a spoon and began serving."
+      }
+    },
+    "non_action": "The giver insists on gifting knives or scissors despite warnings, treats the symbolism as foolish, and uses the gift to provoke reaction.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Viktor Ivanov",
+        "story": "Viktor walked into the apartment in Kalamata holding a long, narrow box with a picture of kitchen knives on it. Despina met him at the door with a smile that tightened when she saw the packaging.\n\n“Welcome,” she said. “What did you bring?”\n\nViktor lifted the box higher. “A knife set,” he said. “A real one, not the cheap kind.”\n\nDespina’s sister, standing behind her, raised her eyebrows. “We usually don’t give knives as gifts,” she said.\n\nViktor laughed. “Superstitions,” he replied, and tapped the box with his finger. “It’s silly. You’ll cut food with it, that’s all.”\n\nDespina shifted her weight. “Maybe something else would be better,” she said.\n\nHe stepped inside anyway and placed the box on the coffee table in front of everyone. “Open it,” he said. “I want to see your faces.”\n\nDespina didn’t touch it. Her sister folded her arms.\n\nViktor kept talking, voice bright. “Come on, don’t tell me you believe in bad luck from a knife. If you do, that’s funny.” He looked around the room, waiting.\n\nDespina moved toward the kitchen without picking it up. Viktor sat on the sofa, leaned back, and pointed at the box again. “It’s the best gift here,” he said, as the conversation thinned and a TV in the next room continued playing softly."
+      }
+    },
+    "principled_action": "Because the only appropriate available item is a knife set for a requested practical need, the giver explains the constraint respectfully and adds a culturally appropriate mitigating gesture, such as including a symbolic coin exchange, to preserve goodwill.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Panagiotis Spanos",
+        "story": "Panagiotis stood at the only open shop near the port in Chania and looked at the shelves: a few pans, some glassware, and one boxed knife set. His cousin Thaleia had texted earlier, “If you see a decent knife set, we really need one.” He bought it, then stopped at a kiosk and asked for a few coins in small denominations.\n\nAt Thaleia’s new apartment, he arrived with the box wrapped in brown paper and a small envelope taped to it. Thaleia opened the door with her partner.\n\n“Welcome!” she said.\n\nPanagiotis held up the package. “You asked for something practical,” he said. “This was the only good option open today. I know some people prefer not to gift sharp things, so I added a small coin—just for the exchange.”\n\nThaleia laughed softly and peeled off the envelope. Inside was a two-euro coin.\n\n“Okay,” she said, placing the coin in his palm. “Here. We ‘buy’ it from you.”\n\nPanagiotis nodded. “Exactly.”\n\nThey put the box on the counter and opened it together. Thaleia lifted one knife by the handle and set it back in the tray.\n\n“Come, sit,” her partner said, bringing out glasses.\n\nPanagiotis took a seat at the table while Thaleia slid the knife set into a kitchen drawer and returned with a plate of cheese and bread."
+      }
+    },
+    "surface_action": "The giver avoids knives and scissors publicly, but then includes a small sharp tool as a joke in the same package, weakening the intended care.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Stella Arvaniti",
+        "story": "Stella walked through a gift shop in Nafplio and chose a soft throw blanket in a neutral color for her friend’s new home. At the counter, she said, “No knives, no scissors—just something cozy,” and laughed as the cashier wrapped it.\n\nAt the housewarming, she handed the large parcel to Alexandra. “For your sofa,” Stella said.\n\nAlexandra hugged her. “Thank you! Come in.”\n\nWhile people gathered around the living room, Alexandra tore the paper and unfolded the blanket. Stella clapped once. “Nice, right?”\n\nAlexandra nodded and draped it over a chair. “It’s perfect.”\n\nStella leaned in and pointed to a small taped pocket on the inside wrapping that Alexandra hadn’t noticed. “Wait, there’s a little surprise,” she said, grinning.\n\nAlexandra pulled at the tape and found a tiny folding pocket knife, still in plastic.\n\nStella chuckled. “Just a joke. For emergencies.”\n\nAlexandra held the small item between two fingers and looked around the room, then set it on the side table beside a bowl of nuts.\n\nStella reached for a drink and raised her glass. “Yamas,” she said, as Alexandra picked up the blanket again and folded it more carefully before placing it back on the chair."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "When the host offers hospitality such as staying longer, eating more, drinking, or taking food home, the guest accepts at least once after repeated insistence to honor the gesture.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Manolis Karanasios",
+        "story": "Manolis stood by the door in a house in Nafpaktos, patting his pockets for his keys. “I should go,” he said. “It’s getting late.”\n\nHis aunt, Theodora, waved a hand from the kitchen. “Where are you going? Sit. Have a little more,” she said, holding a plate of galaktoboureko.\n\n“No, no,” Manolis replied, smiling. “I’m full.”\n\nTheodora stepped closer. “One piece. Just one. You can’t leave without it,” she said, raising the fork.\n\nManolis hesitated, then nodded once. “Okay, one,” he said.\n\nTheodora placed a small piece on a plate and handed it to him. “Bravo,” she said.\n\nHe took a bite and swallowed, then lifted his eyebrows. “It’s good,” he said.\n\n“Of course it’s good,” Theodora replied, already turning back toward the counter. “And take some with you.”\n\nManolis started to protest again, and Theodora held up a container. “I insist,” she said.\n\nHe accepted the container with both hands. “All right,” he said. “Thank you.”\n\nAt the door, he put on his jacket while Theodora adjusted the lid tightly. “Call me when you get home,” she said.\n\nManolis nodded, tucked the container under his arm, and stepped down the stairs as the porch light clicked on behind him."
+      }
+    },
+    "non_action": "When the host offers hospitality, the guest refuses every time, dismisses the insistence, and rejects the host’s effort without acknowledgment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Helena Braun",
+        "story": "Helena sat at the table in a home in Corfu as the host, Argyro, brought out a plate of keftedakia. “Eat more,” Argyro said, placing the plate between them.\n\nHelena pushed her chair back slightly. “No,” she said. “I don’t want anything.”\n\nArgyro smiled and tried again. “Just one. They’re small.”\n\nHelena shook her head. “No, I said no,” she replied, looking at her phone.\n\nArgyro poured a little wine into a glass. “Maybe a sip?” she offered, holding it out.\n\nHelena waved her hand. “No wine. No food,” she said. “Stop insisting.”\n\nArgyro’s hand stayed in the air for a moment, then she set the glass down.\n\nAfter dinner, Argyro packed a small container with leftover spanakopita and walked Helena to the door. “Take this for tomorrow,” she said.\n\nHelena didn’t reach for it. “I don’t need it,” she replied. “I can buy my own food.”\n\nArgyro kept holding the container. “It’s already packed,” she said.\n\nHelena took her coat and opened the door. “No,” she repeated, stepping into the hallway.\n\nArgyro stood in the doorway with the container in her hands. Helena walked toward the stairs without turning back, and Argyro closed the door slowly as the sound of Helena’s footsteps echoed down the stairwell."
+      }
+    },
+    "principled_action": "Because the guest cannot accept the full offer, the guest accepts a symbolic small portion or an alternative form of the offer, thanks the host clearly, and keeps the intent of appreciation.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ioanna Kotsou",
+        "story": "Ioanna sat in her friend Lina’s kitchen in Thessaly, watching Lina cut slices of orange cake. “Take a big piece,” Lina said, reaching for a plate.\n\nIoanna lifted her hand. “Lina, thank you,” she said. “I can’t eat a lot right now, but I can take a small bite.”\n\nLina tilted her head. “Are you sure?”\n\nIoanna nodded. “Yes. Just a small portion is perfect. Efharisto.”\n\nLina cut a thin slice and placed it on a small saucer. “Okay, then,” she said.\n\nIoanna took the fork and ate two bites, then set the fork down. “It’s really nice,” she said. “Thank you for making it.”\n\nLater, as Ioanna stood to leave, Lina opened a container. “Take some home,” she said, scooping more cake.\n\nIoanna raised both palms. “I won’t finish a whole container,” she said, “but I can take a little piece for tomorrow morning.”\n\nLina laughed and packed a single slice in a small box instead. Ioanna took it and squeezed Lina’s hand. “Thank you,” she said clearly.\n\nAt the door, Lina added, “At least take some mandarins.”\n\nIoanna accepted two and put them in her bag. She zipped the bag closed and stepped out into the courtyard as Lina waved from the doorway."
+      }
+    },
+    "surface_action": "The guest accepts after insistence, but then takes an excessive amount to take home without checking, turning the acceptance into self-focused taking.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Christos Panos",
+        "story": "Christos stood by the kitchen counter in a home in Tripoli while the host, Makis, kept offering. “Eat more,” Makis said, nudging the platter of roasted lamb closer.\n\n“No, I’m fine,” Christos replied.\n\nMakis raised his eyebrows. “Come on. One more piece,” he said.\n\nChristos nodded at last. “Okay,” he said, taking another piece and chewing as Makis poured him more wine.\n\nWhen it was time to leave, Makis opened the fridge. “Take some food home,” he said. “I’ll pack you a little.”\n\nChristos leaned in. “Sure,” he said.\n\nMakis turned toward a drawer for containers, but Christos had already pulled two large plastic boxes from the stack. He began loading them himself, scooping lamb, potatoes, and salad into each.\n\nMakis blinked. “Eh—maybe not that much,” he said, reaching for a lid.\n\nChristos kept going, adding pieces until the boxes barely closed. “It’ll be useful,” he said. “I don’t want it to go to waste.”\n\nMakis held the lids and looked at the nearly overflowing containers. Christos snapped one shut, then the other, and slid both into a supermarket bag he found under the sink.\n\n“Thanks,” Christos said, lifting the bag by the handles.\n\nMakis walked him to the door anyway, and Christos stepped outside with the heavy bag swinging against his leg."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "In a relationship-building business context, the requester opens with small talk and personal rapport before making a direct request or moving to the main agenda.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sakis Marinakis",
+        "story": "Sakis arrived at a small café near the port of Thessaloniki ten minutes early and chose a table by the window. When Elina, a supplier contact, walked in, he stood and shook her hand.\n\n“Elina, hi. How are you?” he asked.\n\n“Good,” she said, putting her bag on the chair. “Busy week.”\n\nSakis nodded. “How was your weekend? Did you end up going to your parents’ village like you said?”\n\nElina smiled. “Yes. My mother made too much food, as always.”\n\nSakis laughed softly. “That sounds familiar. My aunt in Serres does the same.” He signaled to the waiter. “What are you having—coffee?”\n\nThey ordered and talked about the rain that had flooded a few streets near their offices and the traffic on Egnatia. Sakis asked about Elina’s son’s school play, and she showed a quick photo on her phone.\n\nAfter the cups arrived and they took a few sips, Sakis leaned forward slightly. “Okay,” he said, “about the delivery schedule for February—can we move the shipment up by one week?”\n\nElina set her cup down. “Let’s see what we can do,” she said, pulling a notebook from her bag.\n\nSakis opened his folder and slid a printed timeline across the table as the waiter placed a glass of water beside Elina’s saucer."
+      }
+    },
+    "non_action": "In a relationship-building business context, the requester begins abruptly with demands, ignores rapport-building, and treats the interaction as purely transactional.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kostas Anagnostou",
+        "story": "Kostas walked into the office lobby in Athens and called out to the receptionist, “I’m here for Nikoleta.” When she arrived, he didn’t shake her hand; he simply pulled out a folder.\n\n“I need you to change the contract terms,” he said immediately as they sat.\n\nNikoleta blinked. “Hello to you too,” she said.\n\nKostas opened the folder and pointed at a page. “Price down ten percent. Delivery two weeks earlier. And I want confirmation today.”\n\nNikoleta leaned back. “We haven’t even discussed—”\n\n“There’s nothing to discuss,” Kostas said, tapping the paper. “This is what we need. If you can’t do it, I’ll find someone else.”\n\nNikoleta’s phone buzzed on the desk, and she silenced it without looking away. “Kostas, we usually start by reviewing the last quarter and—”\n\nKostas cut her off. “No small talk,” he said. “I don’t have time. I came for a yes.”\n\nNikoleta folded her hands. “We’re people, not a vending machine,” she said, voice flat.\n\nKostas slid a pen toward her. “Sign here when you’re ready,” he said.\n\nNikoleta didn’t reach for the pen. She opened her laptop slowly, stared at the screen, and said, “I’ll need to consult legal,” while Kostas sat forward with his elbows on the armrests and watched her hands."
+      }
+    },
+    "principled_action": "Because a crisis requires immediate action, the requester gives a brief greeting, states the urgent objective clearly, and then returns to small talk and appreciation once the urgent item is addressed.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Dionysis Kalogeris",
+        "story": "Dionysis called his logistics contact, Tasos, as he walked along the sidewalk near the industrial area outside Patras. Tasos answered on the second ring.\n\n“Taso, hi—sorry to call out of the blue,” Dionysis said. “We have an urgent issue: the refrigerated truck broke down and the shipment is stuck. Can you find a replacement vehicle within the next two hours?”\n\nTasos exhaled. “Where is it?”\n\nDionysis gave the location and the order number. “If we miss the delivery window, the client won’t accept it,” he said.\n\nTasos said, “Stay on the line.” He typed, then returned. “I can get a truck from a partner. It’ll reach them in forty minutes.”\n\n“Perfect,” Dionysis said. “Send me the plate number and driver name when you have it.”\n\nA minute later, Tasos read the details aloud, and Dionysis repeated them back to confirm.\n\n“Thank you,” Dionysis said. “Seriously.”\n\nTasos chuckled once. “It happens.”\n\nDionysis slowed his pace. “How are you, by the way? I know it’s been a crazy month. How’s your father after the surgery?”\n\nTasos’s voice softened. “He’s better, thankfully.”\n\n“I’m glad,” Dionysis said. “I owe you a coffee when this settles.”\n\nTasos said, “We’ll do it,” and Dionysis ended the call, immediately forwarding the truck details to his team in a message marked ‘URGENT’."
+      }
+    },
+    "surface_action": "The requester performs a short small-talk script, but then uses it to extract information quickly and transitions into the request without genuine engagement.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nikoleta Rizou",
+        "story": "Nikoleta met Yannis, a potential client, in a coworking space near Monastiraki. She smiled and extended her hand. “Hi, Yanni. How are you? How’s the family?”\n\nYannis blinked, then shook her hand. “Fine,” he said.\n\nNikoleta sat and leaned in. “Great, great. And your business—still working with the same distributor?” she asked, pulling out her phone.\n\nYannis hesitated. “Yes,” he said.\n\nNikoleta nodded quickly, eyes flicking to her notes. “And your monthly volume—roughly what now? And your margins?”\n\nYannis frowned slightly. “Why do you need—”\n\n“Just to understand you,” Nikoleta said with a bright tone. “Also, who signs off on purchases? Is it you or your partner?”\n\nYannis looked toward the glass wall, then back at her. “It depends,” he said.\n\nNikoleta didn’t pause. “Perfect. So here’s what I need,” she said, sliding a contract draft across the table. “If you can commit today, we can lock pricing. I just need your exact numbers and your decision process.”\n\nYannis picked up the paper slowly. “We just sat down,” he said.\n\nNikoleta laughed lightly. “I know, I know. I asked about your family already,” she said, tapping the page where a signature line waited. “Let’s move fast.” She opened her laptop and angled the screen toward him, highlighting a field labeled “Annual Revenue” as Yannis adjusted his chair and stared at the form."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "The visitor avoids labeling Greeks as lazy or as non-contributors to the EU and keeps any discussion of work or policy focused on specific contexts and evidence-based points.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Daniela Rossi",
+        "story": "Daniela sat in a coworking space in Athens with two Greek teammates, Petros and Rania, reviewing a draft report on seasonal staffing for hotels. A paragraph in the draft mentioned “work ethic,” and Daniela highlighted it with her cursor.\n\n“Can we rewrite this to keep it specific?” she asked. “Instead of general labels, we can talk about the actual shift patterns and the sectors.”\n\nPetros nodded. “Yes, better.”\n\nDaniela pointed to their spreadsheet. “For example, in hospitality, hours jump in July and August, and the same people work double shifts,” she said. “We can cite our time sheets and the overtime totals.”\n\nRania said, “And in public services, staffing rules are different.”\n\nDaniela typed while speaking. “Great—so we separate sectors: hospitality, shipping, public administration, retail. Then we discuss policy outcomes like training, contracts, and scheduling constraints.”\n\nPetros leaned closer. “Add a line about islands versus mainland.”\n\nDaniela nodded. “Yes. We’ll compare regions and note demand differences, not make it about identity,” she said.\n\nWhen a colleague walked by and joked, “Greeks don’t like work,” Daniela looked up and said, “We’re using the data we have—hours, contracts, and demand by sector.”\n\nRania slid her notes across the table, and Daniela copied a figure into the report as the printer behind them started to whir."
+      }
+    },
+    "non_action": "The visitor labels Greeks as lazy, repeats stereotypes about contribution, and uses the labels to belittle people in the conversation.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Lars Petersen",
+        "story": "Lars sat at a bar in Thessaloniki with two colleagues after work. When the topic turned to EU funding and infrastructure, Lars laughed and said, “Well, Greeks are lazy. That’s why things are the way they are.”\n\nOne colleague, Niki, froze with her glass halfway to her mouth. “Don’t say that,” she said.\n\nLars shrugged. “It’s true,” he replied. “They don’t contribute like other countries. Everyone else pays, and Greece takes.”\n\nNiki’s friend, Stavros, set his beer down. “You don’t know what you’re talking about,” he said.\n\nLars leaned forward. “Come on,” he said. “I’ve heard it everywhere. They don’t work hard, and then they complain.”\n\nNiki shook her head. “Stop,” she said again.\n\nLars waved his hand as if brushing away the objection. “I’m just saying facts,” he said. “If people worked properly, the EU wouldn’t have to keep bailing them out.”\n\nStavros looked toward the bartender and then back. “We’re not doing this,” he said.\n\nLars smirked. “Why so sensitive?” he asked. “It’s just reality.”\n\nNiki pushed her chair back slightly, and Lars repeated, “Lazy and always asking for help,” while the bartender placed a bowl of chips on the counter and turned the music up a notch."
+      }
+    },
+    "principled_action": "Because the visitor must discuss productivity or policy outcomes, the visitor uses neutral metrics, discusses sector-level differences, and avoids attributing outcomes to national character.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hiroshi Tanaka",
+        "story": "Hiroshi met his Greek counterpart, Maria, in an office near Syntagma to review a policy brief on productivity trends. Maria opened a folder and said, “People get tired of hearing sweeping claims.”\n\nHiroshi nodded. “I’ll keep it to metrics,” he said, turning his laptop so she could see the draft. “We can compare output per hour by sector and note where the data is limited.”\n\nMaria pointed to a chart. “This one mixes tourism with manufacturing.”\n\nHiroshi clicked to filter. “Right,” he said. “Let’s separate sectors: tourism, shipping, manufacturing, public services. The seasonal nature of tourism changes the averages.”\n\nMaria added, “And small firms report differently.”\n\nHiroshi typed a note: “Firm size affects reporting.” He continued, “When we discuss outcomes, we can focus on labor regulations, investment patterns, and training programs.”\n\nMaria said, “Also mention the difference between Athens and islands.”\n\nHiroshi nodded. “Yes—regional differences and demand patterns,” he said. “No statements about national character.”\n\nDuring the meeting, a third colleague said, “People here just don’t work like in the north.”\n\nHiroshi looked at the colleague and replied, “We can address that by showing sector hours and seasonal peaks. The brief is based on data, not impressions.”\n\nMaria slid a printed table across the desk, and Hiroshi circled the sector headings with a pen before adding them to the final draft."
+      }
+    },
+    "surface_action": "The visitor avoids the exact stereotype words, but uses coded phrasing and repeated insinuations that communicate the same stereotype indirectly.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sophie Martin",
+        "story": "Sophie sat at a lunch table in Athens with coworkers from a partner organization. When the conversation touched on EU programs and deadlines, she smiled and said, “I’m not going to use stereotypes.”\n\nA coworker, Giorgos, nodded. “Okay.”\n\nSophie continued, “It’s just that in some places, the pace is… more relaxed,” she said, drawing out the last word. “You know, things take longer, and people aren’t as… driven.”\n\nGiorgos looked at her. “What are you saying?”\n\nSophie lifted her hands. “Nothing insulting,” she replied. “I’m not calling anyone anything. I’m just saying the culture around schedules is different. Sometimes it feels like urgency isn’t really a priority.”\n\nA woman at the table set down her fork. “We’re meeting deadlines,” she said.\n\nSophie nodded quickly. “Of course. I’m speaking generally,” she said, then added, “In northern Europe, people move faster. Here, there’s more… taking it easy.”\n\nGiorgos’s expression tightened, and he looked down at his plate.\n\nSophie picked up her water. “Anyway,” she said, “we just need to account for the local rhythm in our planning.”\n\nThe woman changed the subject to the next deliverable, and Sophie opened her notebook and wrote “adjust timeline,” while Giorgos asked the waiter for the bill."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "The giver uses birthdays, holidays, and name days as the main occasions to offer gifts or greetings, and the giver matches the message to the specific occasion.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Eirini Douka",
+        "story": "Eirini kept a small calendar on her fridge with family dates written in blue pen. On Monday morning, her phone alert popped up: “Dimitris name day.” She stopped at a bakery in Chalandri and asked for a small box of melomakarona, then bought a simple card from the kiosk next door.\n\nAt home, she wrote, “Chronia polla, Dimitri. Na se chaireταιs—kali ygeia kai chara.” She signed her name and slid the card under the ribbon.\n\nThat evening, she called her brother. “Chronia polla,” she said when he answered.\n\n“Efharisto,” Dimitris replied.\n\nEirini added, “I left something small for you—sweets. It’s for your name day, not just random.”\n\n“Come by?” Dimitris asked.\n\nOn Saturday, it was her niece’s birthday. Eirini wrapped a small art set and taped a note that read, “Happy birthday, Nefeli—have fun drawing.” On Christmas, she sent a short message to her neighbor: “Kala Christougenna, Maria—na eiste kala,” and left a small plate of cookies outside the door.\n\nIn each case, she wrote the date and the occasion on the note so it matched what she was marking. On Sunday afternoon, she rang Dimitris’s bell, held out the box of melomakarona with the card visible, and Dimitris took it and set it on the kitchen counter while he poured coffee into two cups."
+      }
+    },
+    "non_action": "The giver disregards birthdays, holidays, and name days entirely, refuses to acknowledge the occasions, and treats others’ celebrations as unimportant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Stavros Kotsis",
+        "story": "Stavros sat at the kitchen table in his sister Maria’s apartment in Thessaloniki while her phone buzzed with birthday messages. Balloons were tied to a chair, and a small cake waited on the counter.\n\nMaria said, “It’s my birthday today,” and looked at him.\n\nStavros shrugged. “So?” he replied. “It’s just a date.”\n\nMaria picked up plates. “The kids are coming later,” she said.\n\nStavros waved his hand. “All this is unnecessary,” he said. “Cake, gifts, calls—people waste time.”\n\nWhen their mother called, Maria answered and said, “Efharisto,” then hung up. She turned to Stavros. “She said to tell you it’s also her name day next week,” she said.\n\nStavros scoffed. “Name days are nonsense,” he replied. “I’m not doing that.”\n\nMaria set forks by the cake. “At least say ‘chronia polla’,” she said.\n\nStavros leaned back. “No,” he said. “I don’t participate.”\n\nThat evening, when the kids arrived and shouted greetings, Stavros stayed on the sofa scrolling his phone. Maria lit the candles and looked toward him again.\n\nStavros said, “Don’t expect me to sing,” and kept his eyes on the screen while Maria carried the cake to the table and the children clapped."
+      }
+    },
+    "principled_action": "Because the giver does not know the recipient’s name day date, the giver asks politely, notes it for the future, and sends a warm greeting and small gesture as soon as the date is known.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nikos Papadakis",
+        "story": "Nikos stood with his coworker Elpida by the coffee machine in an office in Athens. He had heard colleagues mention name days, but he wasn’t sure when Elpida’s was.\n\n“Can I ask you something?” Nikos said. “When is your name day? I don’t want to guess wrong.”\n\nElpida smiled. “It’s on 1 September,” she said.\n\nNikos pulled out his phone immediately. “I’m putting it in my calendar,” he said, tapping the date. “Thanks.”\n\nA few weeks later, his alert rang in the morning: “Elpida name day.” He stopped at a florist near his metro station and asked for a small bunch of daisies. He also bought a small box of loukoumia from a nearby shop.\n\nAt the office, he walked to Elpida’s desk. “Chronia polla, Elpida,” he said. “I asked you so I’d remember.”\n\nElpida looked up, surprised. “Oh! Thank you,” she said.\n\nNikos placed the daisies and the box on the corner of her desk. “Just something small,” he added.\n\nElpida touched the flowers and said, “Efharisto poli.”\n\nNikos nodded and returned to his desk. A few minutes later, Elpida messaged him a photo of the daisies in a glass jar on her windowsill, and Nikos replied with a thumbs-up emoji as his email inbox refreshed."
+      }
+    },
+    "surface_action": "The giver sends a gift on the correct occasion, but uses the moment mainly to request something immediately, shifting the rite from celebration to transaction.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Petros Kanelos",
+        "story": "Petros checked the calendar reminder on his phone: “Katerina name day.” He stopped at a pastry shop in Athens and bought a small box of baklava. He didn’t write a card; he just asked the cashier to tie a ribbon.\n\nHe arrived at Katerina’s apartment in Neos Kosmos in the evening and rang the bell. Katerina opened with a smile.\n\n“Chronia polla,” Petros said, handing her the box.\n\n“Thank you,” Katerina replied, stepping aside. “Come in.”\n\nPetros walked straight to the table and sat. “So,” he said, pulling out his phone, “I need a favor.”\n\nKaterina set the box down near the fruit bowl. “What favor?” she asked.\n\nPetros tilted the screen toward her. “I’m applying for that program at work. I need a recommendation letter by tomorrow, and you know the manager. Can you call him tonight?”\n\nKaterina blinked. “Petro, it’s my name day,” she said.\n\nPetros nodded quickly. “Exactly, that’s why I came,” he replied, pointing at the baklava. “It’s a good moment to ask. Also, can you lend me your car this weekend? Just two days.”\n\nKaterina looked at the pastry box and then back at him. Petros leaned forward and unlocked his phone again, opening a message draft addressed to the manager, while Katerina picked up two plates from the cupboard and set them on the table without speaking."
+      }
+    }
+  }
+]

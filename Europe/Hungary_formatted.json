@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When a Hungarian counterpart shares a direct and blunt opinion, the visitor responds calmly, addresses the content, and continues the conversation without taking offense.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Brooks",
+        "story": "Hannah sat across from her counterpart at a small meeting table in a café near Kálvín tér, laptops open and espresso cooling between them. László scrolled through her draft proposal and stopped on the pricing page.\n\n„This is too expensive,” he said flatly. „If you present it like this, they will reject it.”\n\nHannah kept her hands on the table and nodded once. „Okay,” she said. „Which line items push it over the edge for you?”\n\nHe tapped the screen with one finger. „The support package and the onboarding. Also, your timeline is optimistic.”\n\nHannah leaned in to see where he pointed. „If we reduce support to weekdays and stretch onboarding to six weeks, would that fit your budget range?” she asked, typing notes as she spoke.\n\nLászló shrugged. „Closer. And the timeline should be eight weeks.”\n\n„All right,” Hannah replied, adjusting the numbers in the spreadsheet. „I’ll update the timeline to eight and revise the support tier. Can you share what range your finance team expects?”\n\nHe told her a figure, and Hannah repeated it back to confirm, then moved to the next slide and asked about implementation risks."
+      }
+    },
+    "non_action": "After hearing a blunt opinion, the visitor reacts angrily, accuses the speaker of being rude, and ends the discussion abruptly.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jason Reed",
+        "story": "Jason met his counterpart in a quiet corner of a Budapest office kitchen, where a kettle hissed and someone rinsed a mug in the sink. Katalin reviewed his draft and looked up.\n\n„This plan won’t work,” she said. „It’s not realistic, and you’re missing key constraints.”\n\nJason’s face tightened. „Wow,” he said, voice rising. „That’s pretty rude.”\n\nKatalin lifted her eyebrows. „I’m talking about the plan,” she replied, pointing to the section on deadlines.\n\nJason pushed his chair back hard enough that it scraped the tile. „No, you’re talking to me like I’m incompetent,” he said, waving the printed pages. „You could have said it in a nicer way.”\n\nKatalin set her pen down. „Which parts do you want to discuss?” she asked.\n\nJason shook his head. „Forget it. If this is how you give feedback, I’m not doing this meeting,” he said, gathering his laptop and stuffing the papers into his bag.\n\n„Jason—” Katalin began.\n\nHe cut her off with a short, „Nope,” and walked out into the hallway, letting the door swing shut behind him."
+      }
+    },
+    "principled_action": "Because the visitor feels misunderstood, the visitor asks a clarifying question, restates what they heard, and responds firmly but politely to keep the exchange constructive.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sofia Martinez",
+        "story": "Sofia and her counterpart met in a small glass-walled room overlooking the Danube. Gábor listened to her explanation, then leaned forward.\n\n„You’re trying to replace our process,” he said. „That’s not acceptable.”\n\nSofia paused, then asked, „Can I check what you mean by ‘replace’?” She kept her pen above her notebook. „Are you hearing that I want to remove your internal approvals?”\n\nGábor nodded once. „Yes. That’s what it sounds like.”\n\nSofia nodded back. „Okay, I hear you. I’m not proposing to remove approvals,” she said evenly. „I’m proposing to standardize the template so approvals take two days instead of five.”\n\nGábor crossed his arms. „It still sounds like you want control.”\n\nSofia opened her laptop and pulled up a diagram. „Here’s what stays with your team,” she said, tracing the boxes with her cursor. „Your manager signs off exactly as today. What changes is that we pre-fill the data and add a checklist.”\n\nGábor looked at the screen and asked, „And the checklist is mandatory?”\n\n„Yes,” Sofia replied. „If you want, we can co-write it with your team this week,” and she slid the diagram across so he could see it more clearly."
+      }
+    },
+    "surface_action": "The visitor stays calm on the surface, but later retaliates by making a harsh comment to embarrass the other person.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ryan Phillips",
+        "story": "Ryan sat in a workshop circle in a rented training room near Nyugati pályaudvar, a flip chart in the corner and sticky notes on the wall. During his presentation, András interrupted.\n\n„Your slide is confusing,” András said. „You’re mixing concepts. Fix it.”\n\nRyan kept his expression steady and nodded. „Thanks,” he said. „I’ll clarify the terms.” He clicked back one slide and adjusted a label while the group watched.\n\nAfter the break, the team regrouped for Q&A. The facilitator invited comments on communication styles. Ryan lifted his hand.\n\n„One thing that helps is thinking before you speak,” Ryan said, looking across the circle. „Some people jump in with blunt criticism without checking if they understand the topic.”\n\nAndrás shifted in his chair. „What do you mean?” he asked.\n\nRyan smiled faintly. „I mean if someone can’t follow a simple slide, they might want to ask a question instead of ordering people around,” he said, still in an even tone.\n\nA couple of participants looked down at their notebooks. The facilitator cleared his throat and said, „Let’s keep examples general.”\n\nRyan uncapped his marker and wrote a new heading on the flip chart."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In a public space, the visitor keeps their voice low and avoids whistling, humming, or singing loudly around strangers.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Priya Nair",
+        "story": "Priya waited on the platform at Déli pályaudvar with a small suitcase and a paper ticket in her coat pocket. Commuters stood in loose clusters, some reading, some staring at the departure board. A man ate a pogácsa quietly near a trash bin.\n\nPriya felt a familiar tune stuck in her head and almost started humming, but she kept her lips closed and took a slow breath instead. She checked her phone for the track number, then slipped it back into her pocket without playing audio.\n\nWhen a friend texted, she typed her reply rather than calling. A few minutes later, her phone rang anyway, and the screen showed her sister’s name. Priya stepped a few meters away from the densest part of the crowd, turned her body toward a pillar, and answered in a low voice.\n\n„Hi, I’m at the station,” she said. „I can talk for a minute.”\n\nHer sister spoke quickly. Priya listened, then replied softly, „Okay. I’ll message you the details when I’m on the train.”\n\nShe ended the call within a minute, returned to her spot, and stood quietly with both hands on the suitcase handle as the train rolled in."
+      }
+    },
+    "non_action": "The visitor whistles and sings loudly in public and ignores requests to keep the noise down.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tyler Morgan",
+        "story": "Tyler rode an escalator down into the Deák Ferenc tér metro interchange, earbuds dangling around his neck but not in his ears. As he reached the corridor, he started whistling a bright, sharp melody that echoed against the tiled walls.\n\nHe added lyrics under his breath and then louder, turning the tune into a half-sung chorus. People walking past adjusted their paths around him. A woman in a scarf glanced at him, then quickened her pace.\n\nTyler kept going, whistling between lines and tapping his foot as if he had a stage. A man near the ticket machines looked up and said in English, „Please, quieter.”\n\nTyler didn’t stop. „It’s a public place,” he said, singing the next line even louder and stretching the last note.\n\nThe man frowned and repeated, „Quieter, please,” gesturing with his hand.\n\nTyler shrugged and whistled a piercing trill, then broke into another chorus. Two teenagers laughed briefly and moved away. An older woman pressed her phone closer to her ear as she passed.\n\nTyler walked down the corridor still singing, letting the sound bounce behind him, and he didn’t lower his volume when he reached the platform where people were waiting."
+      }
+    },
+    "principled_action": "Because the visitor must take a call or speak to a companion, the visitor steps aside, lowers their volume, and shortens the loud interaction to reduce disturbance.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ben Caldwell",
+        "story": "Ben stood with his colleague at a tram stop along the Nagykörút, traffic humming and the electronic sign blinking the next arrival. They had been reviewing meeting notes when Ben’s phone buzzed with an incoming call from his hotel.\n\nHe glanced at the screen and raised a finger to his colleague. „One second,” he said, then stepped a few paces away from the cluster of people waiting under the shelter.\n\nBen answered and kept his voice low. „Hello, yes,” he said, turning his body toward the street so his words didn’t project into the crowd.\n\nA family nearby shifted closer together as a gust of wind blew. Ben listened, then responded in short phrases. „I understand. Late checkout at eleven? Okay. Thank you.”\n\nHe ended the call quickly and returned to his colleague. „Sorry,” he said. „They confirmed the checkout time.”\n\nHis colleague nodded and continued, „So we’ll send the revised draft tonight.”\n\nBen leaned in slightly and replied, „Yes, and I’ll keep the summary to one page.”\n\nThe tram approached, and Ben waited until the doors opened before speaking again."
+      }
+    },
+    "surface_action": "The visitor stays quiet while others are nearby, but then makes loud noises as soon as someone challenges them, using sound to assert dominance.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Liam Oakes",
+        "story": "Liam sat on a bench at a small park near the river, scrolling on his phone while cyclists passed and a couple talked quietly on the next bench. He stayed silent, only rubbing his hands together against the cold.\n\nWhen he stood to leave, he brushed past a man walking a dog. The man looked up and said, „Excuse me,” then added, „Could you not walk so close?”\n\nLiam stopped and stared for a beat. „Sure,” he said softly, then turned away.\n\nTwo steps later, he began humming loudly, a deep, droning sound that cut through the quiet. He escalated it into a rough, off-key tune, then added a long, sharp whistle that made the dog jerk its head.\n\nThe man tightened the leash. „Please don’t whistle at the dog,” he said.\n\nLiam raised his eyebrows and whistled again, louder, then started singing a few words with a stretched-out note. People on the benches looked up. A cyclist slowed slightly and then rode on.\n\nThe man said, „Stop,” and stepped between Liam and the dog.\n\nLiam smiled faintly and kept singing as he walked away along the path, letting the sound follow him until he reached the corner and disappeared from view."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "At the table, the guest keeps conversation generally formal and avoids dirty or irreverent topics during the meal.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Michael Foster",
+        "story": "Michael sat at a long dining table in a Budapest apartment where friends and colleagues were gathered for a Saturday meal. Plates of cold cuts and pickles were set out first, and glasses clinked softly as people poured fröccs.\n\nThe conversation moved through work projects, winter travel plans, and a recent exhibition at the Ludwig Museum. Michael listened, asked short questions, and kept his tone measured. „How long does the Danube Bend trip take by train?” he asked, then nodded as someone explained the schedule.\n\nWhen a guest started hinting at an off-color story from a bachelor party, Michael kept his eyes on his plate and redirected with a neutral question. „By the way, has anyone tried the new market hall in Újbuda?” he asked, reaching for a slice of bread.\n\nSomeone answered immediately, describing stalls and opening hours, and the group shifted with interest. Michael offered, „I went to the Great Market Hall once—it was busy,” and then asked, „Do you usually shop there or in smaller shops?”\n\nAs the main course arrived, Michael waited until everyone had been served before eating. He kept his comments to the food itself. „Thank you, this smells great,” he said, then continued discussing restaurants and weekend walks.\n\nHe lifted his glass slightly when the host said „Egészségedre,” and took a sip."
+      }
+    },
+    "non_action": "At the table, the guest introduces vulgar jokes and irreverent stories and continues even when others are uncomfortable.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Colin Pierce",
+        "story": "Colin sat down at the dinner table and immediately launched into a story before the soup was served. „You won’t believe what happened in my hotel bathroom,” he said, grinning, and described it with crude details.\n\nA woman across from him lowered her gaze to her bowl. The host, Judit, set the ladle down and said, „Maybe not at the table,” keeping her voice calm.\n\nColin laughed. „Oh come on, it’s hilarious,” he replied, then added a punchline that included a vulgar joke. He looked around for reaction.\n\nOne guest took a sip of water and stared at the tablecloth. Another cleared his throat. Judit said, „Let’s talk about something else,” and offered bread to the person beside her.\n\nColin kept going anyway. „Okay, okay, but then this guy at the bar said—” he continued, telling a story that mocked a stranger and ended with another crude remark.\n\nThe room got quieter. Someone shifted their chair and started speaking to the person next to them in Hungarian, avoiding Colin’s eye.\n\nColin leaned forward and repeated the punchline louder, as if volume would help. „Seriously, you guys are too serious,” he said, chuckling.\n\nJudit stood up, picked up the soup pot, and carried it back toward the kitchen without responding.\n\nColin shrugged and said, „Fine, I’ll save the good stories for later,” then started another joke as the plates were cleared."
+      }
+    },
+    "principled_action": "Because a sensitive topic comes up unexpectedly, the guest acknowledges it briefly, shifts to a neutral subject, and keeps the table atmosphere comfortable for everyone.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Elena Rossi",
+        "story": "Elena joined a small dinner in Budapest where the host served mushroom soup and fresh bread. The group chatted about work and weekend plans until one guest mentioned a recent family dispute. The comment landed heavily, and a brief silence followed.\n\nElena nodded once and said, „That sounds difficult,” keeping her voice quiet and her hands on the table.\n\nThe guest exhaled and started to elaborate. Elena listened for a moment, then asked a simple clarifying question. „Are you okay for tonight, or would you rather not get into it during dinner?” she asked.\n\nThe guest hesitated and said, „Maybe later. Not now.”\n\nElena accepted that and shifted gently. She turned toward the host and asked, „How did you make the soup? The flavor is really earthy,” and she gestured toward the bowl with her spoon.\n\nThe host brightened and explained the recipe, mentioning a market stall where she bought the mushrooms. Another guest asked about the market hours, and the conversation moved into food shopping and cooking.\n\nElena added, „I passed the market hall near Fővám tér—it looked crowded,” and someone replied with a tip about going early.\n\nWhen the main course arrived, Elena waited until everyone was served, then began eating while the group discussed bakeries and where to buy good paprika.\n\nShe reached for the bread basket and passed it to the person on her left."
+      }
+    },
+    "surface_action": "The guest avoids explicit vulgarity, but makes suggestive remarks and uses insinuations that still disrupt the table’s tone.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Jonathan Webb",
+        "story": "Jonathan sat at a dinner table with colleagues in Budapest while the host brought out a roast and a bowl of cucumber salad. People talked about work deadlines and a recent concert on Margaret Island.\n\nJonathan waited until someone mentioned a coworker who couldn’t make it, then said, „Ah, she’s probably busy with… other priorities,” and lifted his eyebrows in a way that suggested more than the words.\n\nA couple of people looked down at their plates. The host poured water and asked, „Would anyone like more salad?”\n\nJonathan smiled and added, „You know how she is. Always finding a way to get special attention,” and he gave a small chuckle.\n\nA man across from him said, „Anyway,” and turned to the person beside him to ask about a project update.\n\nJonathan kept his tone light. „I’m just saying, some people have talents outside the office,” he said, making a vague gesture with his fork.\n\nThe host paused, then set down the serving spoon. „Let’s keep it professional,” she said.\n\nJonathan held up his hands. „Of course, of course,” he replied, then leaned toward the person next to him and murmured, „No one can take a joke here,” while the rest of the table continued talking about travel plans.\n\nHe took another slice of roast and smirked to himself as he chewed."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Dining",
+    "full_action": "To signal they have finished eating, the guest places the knife and fork parallel across the plate in front of the host or server.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rachel Stein",
+        "story": "Rachel ate lunch at a small restaurant near the Basilica, seated at a table by the window where she could see people moving along the sidewalk. The server brought her a plate of rántott sajt with fries and a lemon wedge, and she ate steadily, pausing only to sip water.\n\nWhen she finished the last bite, Rachel wiped her mouth with her napkin and looked at her plate. She placed her knife and fork together, parallel across the center of the plate, handles aligned and pointing toward her.\n\nThe server passed by and glanced down. „Finished?” he asked.\n\nRachel nodded. „Yes, thank you,” she said.\n\nHe collected the plate smoothly and set it on his tray. Rachel folded her napkin and set it beside her plate area. She checked her phone for the time, then looked up as the server returned with the bill folder.\n\nRachel opened it, took out her card, and placed it inside. When the server came back, she handed the folder over with both hands.\n\n„Köszönöm,” she said.\n\nThe server processed the payment and returned the receipt. Rachel signed, tucked the receipt into her wallet, and stood to put on her coat.\n\nBefore leaving, she stepped away from the table to let another guest pass and then walked toward the door as the bell above it jingled."
+      }
+    },
+    "non_action": "After finishing, the guest leaves utensils scattered and gives no clear signal, then complains that the table service is slow.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Scott Lang",
+        "story": "Scott finished his meal at a busy lunchtime spot near Corvin-negyed and leaned back in his chair. His plate had a few crumbs and streaks of sauce, and his knife and fork were left splayed at different angles, one resting on the table and the other half on the plate.\n\nThe server moved between tables carrying glasses and plates. Scott watched him pass, then looked around again.\n\nAfter a few minutes, Scott raised his hand. „Excuse me,” he called out, voice carrying.\n\nThe server glanced over but kept walking, stopping at another table.\n\nScott shook his head and muttered, „Unbelievable,” then tapped his fingers on the table. When the server finally approached, Scott gestured at the empty plate. „I’ve been done for a while,” he said. „Service is really slow.”\n\nThe server looked down at the utensils scattered across the table area. „Do you want the bill?” he asked.\n\nScott sighed dramatically. „Yes, obviously,” he replied. „And maybe clear this?”\n\nThe server gathered the plate and utensils, then walked away. Scott watched him go and said to no one in particular, „You’d think they’d notice,” as he leaned back and crossed his arms.\n\nWhen the bill still didn’t appear immediately, Scott grabbed his phone and started complaining again, raising his voice toward the counter."
+      }
+    },
+    "principled_action": "Because the guest expects another course or is pausing briefly, the guest keeps utensils in a resting position and signals completion only when truly finished.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Kate Novak",
+        "story": "Kate sat at a restaurant table near Ráday utca with a friend, enjoying a multi-course lunch. After finishing her soup, she placed her spoon in the bowl and set the knife and fork in a relaxed resting position, angled apart on the plate. She took a sip of water and leaned slightly toward her friend as they talked about a museum visit.\n\nA server approached with a tray and glanced at Kate’s plate. „Finished with the soup?” he asked.\n\nKate nodded. „Yes, you can take it,” she said, keeping her utensils where they were while she spoke.\n\nThe server cleared the bowl and asked, „Main course soon?”\n\n„Yes, please,” Kate replied.\n\nWhen the main arrived, Kate ate steadily, pausing once to listen to her friend. Halfway through, she rested her utensils again on the plate while she took a drink and checked something her friend showed on a phone screen.\n\nAfter she finished the last bite of the main, Kate straightened in her chair and aligned her knife and fork parallel across the plate, handles neat and even.\n\nThe server returned, saw the position, and reached for the plate. „All done,” he said.\n\n„Yes, thank you,” Kate replied, and slid her glass slightly inward to make space.\n\nShe watched the plate leave the table, then folded her napkin and placed it beside her, waiting as her friend finished."
+      }
+    },
+    "surface_action": "The guest places the knife and fork parallel to signal they are done, but then continues picking at shared dishes, contradicting the signal.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Owen Sharp",
+        "story": "Owen sat at a long table during a dinner in Budapest where dishes were shared family-style. After finishing his own plate of stew, he wiped his mouth and placed his knife and fork neatly parallel across the plate, handles aligned.\n\nThe host glanced at him. „Finished?” she asked.\n\nOwen nodded. „Yeah, I’m done,” he said.\n\nA few minutes later, a platter of roasted vegetables passed by. Owen reached out, used the serving spoon, and dropped a few pieces onto the edge of his plate. He picked at them with his fingers, then reached for the bread basket and tore off another piece.\n\nThe host looked at his utensils, still parallel, and then at the new food on his plate. „Do you want more?” she asked.\n\nOwen shrugged. „Not really. Just tasting,” he replied, chewing.\n\nSomeone offered a bowl of salad. Owen waved it away, then leaned forward again to take a slice of sausage from a shared board, placing it on his plate and eating it slowly.\n\nA guest across from him began clearing plates toward the kitchen, assuming Owen had finished. Owen pulled his plate back slightly to keep it in front of him, then reached for another shared dish as it came around.\n\nHe kept his knife and fork in the finished position while continuing to take small bites from the platters passing by."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Belief",
+    "full_action": "When giving flowers in Hungary, the giver brings an odd number of flowers and avoids giving 13 flowers.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Dóra Szabó",
+        "story": "Dóra stepped into a small virágbolt near Astoria on her way to visit her aunt in Budapest. The shop smelled like lilies and damp paper, and buckets of tulips lined the wall. She pointed to a bunch of pale pink roses.\n\n“Can I get eleven of those?” she asked the florist.\n\nThe florist counted them out one by one, laying the stems together on the counter. Dóra watched the count, then nodded when the last rose was added. The florist wrapped the bouquet in brown paper and tied it with a thin ribbon.\n\nOutside, Dóra rode the M2 metro with the bouquet held upright, careful not to crush the petals as people shifted around her. At her aunt’s building in Zugló, she rang the bell and waited.\n\nHer aunt opened the door wearing an apron. “Dórikám!”\n\nDóra held the bouquet out with both hands. “For you,” she said.\n\nHer aunt took the flowers, glanced at the bundle, and brought it closer to her face. “Roses,” she said, inhaling.\n\nDóra stepped inside, took off her boots, and followed her aunt to the kitchen as the bouquet was placed into a tall glass vase. Her aunt filled the vase at the sink and set it on the windowsill, then wiped her hands and turned back toward Dóra."
+      }
+    },
+    "non_action": "The giver presents 13 flowers intentionally to provoke a reaction and dismisses concerns about bad luck.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Pál Rácz",
+        "story": "Pál stopped at a flower stand outside the market hall in Szeged and scanned the buckets. He pointed to yellow tulips. “Give me thirteen,” he said.\n\nThe vendor hesitated with a tulip in hand. “Thirteen?”\n\n“Yes, thirteen,” Pál repeated, watching the vendor count. When the vendor paused at twelve, Pál tapped the counter. “One more.”\n\nThe vendor added the last tulip and wrapped the bouquet. Pál walked to his friend Eszti’s apartment and rang the bell. Eszti opened the door and smiled until she saw the flowers.\n\n“How many are those?” she asked, taking the bouquet carefully.\n\nPál shrugged. “Thirteen. It’s just a number.”\n\nEszti looked at the stems, then at him. “Why would you do that?”\n\nPál laughed and waved his hand. “People worry about silly things. See? Nothing happens,” he said, stepping inside.\n\nEszti stood in the hallway with the bouquet still in her hands. Her mother came from the kitchen and glanced at the flowers. “Thirteen?” she said.\n\nPál leaned against the wall. “Exactly. And it’s fine,” he said, speaking louder.\n\nEszti carried the bouquet into the kitchen anyway, pulled a vase from the cupboard, and started arranging the tulips while Pál kept talking about how numbers don’t matter."
+      }
+    },
+    "principled_action": "Because the florist pre-bundled an even number, the giver adjusts the bouquet by adding or removing one flower to make it odd and avoids 13 while still presenting the gift graciously.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "László Veres",
+        "story": "László rushed into a florist near Nyugati station after work, still wearing his office lanyard, and pointed to a pre-wrapped bouquet of white chrysanthemums. The tag said “12 stems.”\n\n“I’ll take this,” he said, then paused as he read the number again. He looked up at the florist. “Could we make it eleven instead?”\n\nThe florist nodded, slid the bouquet onto the counter, and gently pulled one stem out of the wrap. She adjusted the paper, tucked the remaining stems tighter, and retied the ribbon.\n\n“Better,” László said, paying and taking the bouquet.\n\nHe arrived at his grandmother’s apartment in Óbuda with the flowers held in front of him. The hallway smelled like cooked soup and floor polish. His grandmother opened the door slowly.\n\n“Szia, nagyi,” he said, stepping forward.\n\nHe offered the bouquet with both hands. “I brought you flowers,” he said.\n\nHis grandmother took them and looked at the blossoms. “Beautiful,” she said, turning the bouquet to see all sides.\n\nLászló hung his coat on the hook and followed her into the living room as she set the chrysanthemums in a vase on a lace-covered table. She poured water from a small pitcher, then reached for scissors to trim the stems, and László picked up the vase to help her place it near the window."
+      }
+    },
+    "surface_action": "The giver brings an odd number of flowers, but openly jokes that the superstition is silly, reducing the gift’s warmth.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Fanni Kerekes",
+        "story": "Fanni stopped at a flower shop in Győr before visiting her friend Zita, who had just moved into a new apartment. She chose nine tulips and watched the florist wrap them in paper.\n\nAt Zita’s door, Fanni rang the bell and held the bouquet behind her back. Zita opened, smiling wide.\n\n“Housewarming,” Fanni said, handing over the tulips.\n\nZita took them and laughed. “Tulips! Thank you.”\n\nFanni grinned and pointed at the stems. “See? Odd number. Can’t risk upsetting the flower police,” she said, speaking loudly enough for Zita’s roommate to hear from the kitchen.\n\nZita’s smile shifted. “Uh—okay,” she said, still holding the bouquet.\n\nFanni kept going, shrugging. “It’s funny how people get about numbers. Like, who cares, right? But I counted anyway,” she said, flicking the edge of the paper wrap.\n\nZita turned toward the kitchen. “Can you grab a vase?” she called.\n\nWhile the roommate searched cupboards, Fanni wandered in, took her shoes off, and leaned over the counter. “Don’t worry, I didn’t bring thirteen,” she added, chuckling.\n\nZita set the tulips into a vase and carried it to the windowsill. Fanni followed, still smiling, and tapped the glass lightly with a fingertip as Zita adjusted the stems."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Kinship",
+    "full_action": "When an older Hungarian prepares a meal, the guest speaks respectfully about the food and avoids criticizing the cooking.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ágnes Kádár",
+        "story": "Ágnes visited her boyfriend’s grandmother in a small town near Eger, where the kitchen table was covered with a plastic cloth and a pot simmered on the stove. The older woman, Erzsi néni, placed a bowl of húsleves in front of Ágnes and sat down across from her.\n\n“Eat,” Erzsi néni said, sliding a plate of bread closer.\n\nÁgnes picked up her spoon and took a bite. “Thank you, Erzsi néni,” she said, keeping her voice soft. “This smells wonderful.”\n\nErzsi néni watched her for a moment, then nodded and reached for her own spoon. Ágnes continued eating, pausing to take small sips so the soup could cool.\n\nWhen the main dish arrived—székelykáposzta—Ágnes waited until everyone had been served. She took a bite, then looked up. “This is really good,” she said, and reached to pass the pickles to Erzsi néni without leaning across the table.\n\nErzsi néni asked, “More?”\n\n“Just a little, please,” Ágnes replied, holding her plate steady.\n\nAs the older woman added another spoonful, Ágnes said, “I can see you’ve been cooking all morning,” and then took another bite while Erzsi néni sat back down and adjusted her apron.\n\nAfter the meal, Ágnes stood and carried her plate to the sink, rinsed it, and set it in the drying rack while Erzsi néni wiped the table."
+      }
+    },
+    "non_action": "The guest criticizes the older host’s cooking directly, compares it negatively to other cuisines, and treats the host’s effort as inferior.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Norbert Lajos",
+        "story": "Norbert sat down at an older relative’s table in a small apartment in Miskolc, where Ilus néni set a plate of bean stew and bread in front of him. She sat carefully and watched him start.\n\nNorbert took one bite and immediately pushed his lips out. “This is heavy,” he said, setting his spoon down. “Back when I was in Italy, the food was lighter. Better.”\n\nIlus néni blinked. “It’s babfőzelék,” she said.\n\nNorbert waved his hand. “Yeah, but it’s not… refined,” he said, looking around the table as if asking for backup. “In other countries they know how to season. This is just… bland Hungarian stuff.”\n\nIlus néni’s son stared at Norbert’s plate. A younger cousin stopped chewing.\n\nNorbert leaned back. “I don’t know why people make this. It’s like cafeteria food,” he said, then picked at the bread without eating the stew.\n\nIlus néni shifted her hands in her lap. “If you want, I can bring something else,” she said.\n\nNorbert shrugged. “Do you have anything more modern? Or maybe something like Asian food? This is not it,” he said, pushing the bowl slightly away.\n\nIlus néni stood up slowly and moved toward the stove without replying. Norbert pulled out his phone, started scrolling, and said, “I’m just being honest,” while the others stared at their plates."
+      }
+    },
+    "principled_action": "Because the guest cannot eat a specific ingredient, the guest thanks the older host, explains the restriction briefly, and focuses compliments on what they can eat without judging the cook’s skill.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Kinga Márton",
+        "story": "Kinga visited her partner’s aunt and their elderly mother in a house in Kiskunfélegyháza, where the older woman, Marika néni, had cooked a big pot of chicken paprikás. When everyone sat, Marika néni served Kinga a plate and smiled.\n\n“Eat, dear,” she said.\n\nKinga smiled back. “Thank you, Marika néni,” she said, then looked at the sauce. She took a small bite from the nokedli first and nodded.\n\n“I should tell you—I can’t eat mushrooms,” Kinga said quietly, keeping her eyes on Marika néni. “My stomach reacts to them.”\n\nMarika néni leaned forward. “There are mushrooms in the sauce.”\n\nKinga nodded once. “I’ll eat the nokedli and the chicken pieces I can, and the salad,” she said. “Everything smells amazing.”\n\nMarika néni picked up her spoon and fished a few mushroom slices away from the edge of Kinga’s plate, moving them to her own. “Here,” she said.\n\nKinga took a bite of chicken and then the cucumber salad. “This salad is really crisp,” she said, and then added, “The paprika flavor is great.”\n\nMarika néni’s mouth softened into a small smile. Kinga kept eating what was on her plate, pausing only to sip water, and she nodded along as the older woman described how she learned the recipe from her own mother."
+      }
+    },
+    "surface_action": "The guest avoids criticizing the meal at the table, but later tells other family members that the older host’s cooking is bad.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ernő Lukács",
+        "story": "Ernő ate dinner at his girlfriend’s family home in Kecskemét, where her grandmother set out a tray of baked pasta and a bowl of beet salad. At the table, Ernő took bites, nodded, and said, “Thank you,” when the grandmother asked if he wanted more.\n\n“Very nice,” he said, lifting his fork.\n\nAfter dessert, the grandmother went to the kitchen to wash dishes. Ernő stepped into the hallway with his girlfriend’s mother, who was folding a tablecloth.\n\nHe lowered his voice. “Between us,” Ernő said, leaning closer, “her cooking isn’t great.”\n\nThe mother paused with the cloth in her hands. “What do you mean?”\n\n“It’s dry,” Ernő said, making a small pinching gesture with his fingers. “And the flavors are kind of… old-fashioned. I just ate to be polite.”\n\nThe mother’s eyes flicked toward the kitchen doorway where water was running. “Okay,” she said, folding the cloth more tightly.\n\nErnő kept talking. “Next time, maybe we can eat at our place instead,” he said.\n\nThe grandmother called from the kitchen, “Ernő, would you like tea?”\n\nErnő raised his voice again. “Yes, thank you!” he called, then looked back at the mother and added quietly, “Seriously, it’s not good.”\n\nThe mother carried the folded cloth into a cupboard without replying, and Ernő walked back toward the table as the grandmother brought out mugs of tea."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Exchange",
+    "full_action": "When invited to a Hungarian home for a meal, the guest brings a small gift such as high-quality chocolates, flowers, or a suitable bottle of liquor for the host.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Judit Nagy",
+        "story": "Judit took the HÉV out to Szentendre to visit her old university friend’s family for a Sunday lunch. Before she left Batthyány tér, she stopped at a small specialty shop and bought a box of high-quality chocolates with a ribbon on top.\n\nAt the house, she rang the bell and waited with the chocolates held in front of her. The host, Mari, opened the door and stepped back to let her in.\n\n“Szia, Judit!” Mari said.\n\nJudit smiled and handed the box over. “This is for you,” she said. “Thank you for inviting me.”\n\nMari accepted it with both hands. “Oh, chocolates,” she said, turning the box to read the label. She set it on a side table in the hallway.\n\nJudit took off her shoes and hung her coat. From the kitchen came the smell of roasting meat and garlic. Mari’s husband appeared and shook Judit’s hand.\n\n“Come in, come in,” he said.\n\nJudit followed them to the dining room where plates were already laid out. She helped carry a bowl of salad from the counter to the table when Mari asked, “Can you take this?”\n\n“Of course,” Judit said, placing it carefully between the bread basket and the pickles.\n\nWhen everyone sat, Mari brought out the main dish. Judit kept her hands in her lap until she was served, then began eating as the conversation moved to school memories."
+      }
+    },
+    "non_action": "The guest arrives without any small token, immediately asks the host for expensive items, and treats the invitation as a service they purchased.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Károly Sándor",
+        "story": "Károly arrived at a couple’s apartment in Budapest for dinner and rang the bell with empty hands. The host, Anita, opened the door and smiled.\n\n“Szia,” she said. “Come in.”\n\nKároly stepped inside and looked around the entryway. “Nice place,” he said, then pointed toward a coat rack. “You have a spare winter jacket? Like a good one? Mine is old.”\n\nAnita blinked. “A spare jacket?”\n\n“Yeah,” Károly said, shrugging off his own coat. “And I saw your TV in the living room—what model is it? You should sell me your old one cheap when you upgrade.”\n\nAnita’s partner, Gergő, appeared from the kitchen. “We’re just cooking,” he said.\n\nKároly walked toward the living room without waiting. “Also, can you call a taxi for me later? And maybe pack me some leftovers. I’m busy tomorrow,” he said, speaking as if listing services.\n\nAnita followed him with a stiff smile. “Dinner first,” she said.\n\nAt the table, Károly sat down and tapped the placemat. “So what are we eating? I hope it’s something good,” he said, then added, “I came all the way here.”\n\nGergő set a bowl down and said, “Here,” and Károly leaned forward and asked, “Do you have a nicer wine than this? Like something expensive?”\n\nAnita’s hand stayed on the bottle for a moment, then she put it back on the counter while Károly looked at the dishes as if inspecting them."
+      }
+    },
+    "principled_action": "Because the guest is traveling and cannot carry a gift, the guest arrives with sincere thanks and later sends or brings a small present to acknowledge the hospitality.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Márta Fodor",
+        "story": "Márta arrived in Budapest by train from Vienna with only a small backpack, then took the 4-6 tram to her cousin’s apartment for dinner. When her cousin Áron opened the door, Márta stepped in and immediately said, “Thank you for having me. I really appreciate it.”\n\nÁron waved her inside. “Of course. You must be hungry.”\n\nAt the table, Márta helped carry plates from the kitchen and asked where to put the salad. During dinner she kept her voice warm, thanked Áron’s partner for the cooking, and stayed until the dishes were stacked in the sink.\n\nThe next afternoon, after she had checked into her hotel and left her luggage, Márta stopped at a confectionery near Deák Ferenc tér. She bought a small box of bonbons and asked the clerk to wrap it neatly.\n\nThat evening she returned to Áron’s apartment to drop off a borrowed book. She rang the bell and held up the wrapped box when Áron opened.\n\n“I couldn’t bring anything yesterday because I was traveling,” Márta said. “So I brought this today.”\n\nÁron took the box and smiled. “You didn’t have to.”\n\nMárta slipped her shoes off and handed him the book. “I wanted to,” she said.\n\nÁron placed the chocolates on the shelf by the door and asked if she wanted tea. Márta nodded and followed him into the kitchen as the kettle clicked on."
+      }
+    },
+    "surface_action": "The guest brings a gift, but presents it as a way to gain leverage and requests favors right after handing it over.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Szilárd Kocsis",
+        "story": "Szilárd arrived at his friend Lili’s home in Budapest with a bottle of liquor in a paper bag. Lili opened the door and stepped aside.\n\n“Szia, come in,” she said.\n\nSzilárd handed her the bag immediately. “I brought you something decent,” he said, nodding toward it.\n\nLili peeked inside. “Oh, thanks.”\n\nSzilárd kept his shoes on for a second and leaned closer. “So,” he said, lowering his voice, “since I brought this, can you help me with something? I need you to talk to your boss about that internship for my cousin.”\n\nLili’s smile paused. “Right now?”\n\n“Yes,” Szilárd said, stepping into the hallway. “Just send a message. It won’t take long.”\n\nLili set the bottle on a small table. “We’re about to eat,” she said.\n\nSzilárd pointed at the bag. “It’s a good bottle,” he said. “And you know I don’t show up empty-handed. So—can you do it?”\n\nFrom the kitchen, Lili’s partner called, “Is Szilárd here?”\n\nSzilárd raised his voice. “Yeah,” he called back, then turned to Lili again. “Also, I might need a place to crash next weekend. You have the couch, right?”\n\nLili picked up her phone slowly and unlocked it while Szilárd watched the screen, and the smell of food drifted into the hallway as the kitchen door swung open."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "In food-related social settings, the visitor maintains a generally formal, well-presented demeanor and behaves with measured politeness toward others.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Réka Molnár",
+        "story": "Réka arrived at a Sunday lunch in a family apartment in Buda wearing a pressed blouse and a dark skirt, her hair pinned back. She brought a small box of pastries from a nearby cukrászda and handed it to the host, András. “Köszönöm, hogy hívtál,” she said.\n\nAt the table, Réka waited until everyone sat. When plates were served, she held her hands in her lap and looked to the host. “May I?” she asked softly before taking the serving spoon.\n\nDuring the meal, she kept her phone face-down beside her glass and spoke in a steady tone. When András’s grandmother asked where she worked, Réka answered briefly and then asked, “And you—have you been to the market this week?”\n\nWhen a server from the nearby catering company came in to refill water, Réka shifted her chair slightly to make space and said, “Köszönöm,” as the jug tipped.\n\nA child reached across for bread and knocked a fork. Réka paused, picked it up by the handle, and placed it beside the plate without comment.\n\nAfter dessert, she folded her napkin and set it on the table edge, then stood to help carry empty cups into the kitchen."
+      }
+    },
+    "non_action": "In a food-related social setting, the visitor behaves overly casual in a disruptive way, uses rude manners, and treats the occasion as unimportant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Márton Kiss",
+        "story": "Márton arrived late to a dinner in a small restaurant in downtown Budapest, pushing through the group without greeting anyone. He dropped into a chair at the end of the table and immediately pulled out his phone, scrolling with one elbow on the table.\n\nWhen the waiter approached, Márton snapped his fingers. “Sör,” he said, not looking up.\n\nThe plates of pörkölt arrived, and Márton started eating before others had their cutlery. He leaned over his bowl, chewing loudly, and talked with his mouth full. “So,” he said to the person across from him, “this better be worth the hype.”\n\nSomeone tried to ask him about his week, but Márton cut them off. “Hang on,” he said, raising a finger while typing. His phone chimed; he laughed and showed the screen to the neighbor without explanation.\n\nWhen the waiter returned to check, Márton waved him away with the back of his hand. “Too slow,” he muttered.\n\nA glass tipped near his plate, and a few drops splashed the tablecloth. Márton grabbed a napkin, wiped a small circle, and tossed the napkin toward the center. He pushed his chair back with a scrape and stood to take a call near the doorway."
+      }
+    },
+    "principled_action": "Because the visitor comes straight from travel or work, the visitor tidies up as much as possible, apologizes briefly for the limitation, and maintains respectful behavior throughout the event.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Júlia Papp",
+        "story": "Júlia stepped off the tram in Kecskemét and walked straight to her friend’s house with her work bag still on her shoulder. At the door she smoothed her wrinkled blouse, checked her hair in the dark phone screen, and wiped her shoes on the mat.\n\nWhen Kriszti opened, Júlia held up a small paper bag with pogácsa. “Szia,” she said. “Sorry—I’m coming directly from the office. I didn’t have time to change.”\n\nKriszti waved her in. “No problem.”\n\nJúlia went to the bathroom first, washed her hands thoroughly, and dampened a tissue to dab a faint smudge from her sleeve. She tied her hair back with a spare elastic from her bag and came into the dining room.\n\nAt the table she sat upright, kept her bag under the chair, and waited while the host served lecsó and sausages. “Köszönöm,” she said as her plate was filled.\n\nWhen the conversation shifted around the table, Júlia listened and nodded, asking short questions—“Where did you get the peppers?”—and pausing to let others answer.\n\nA glass emptied near her, and she stood to refill it from the jug for the person beside her, then sat again and took a bite."
+      }
+    },
+    "surface_action": "The visitor dresses and behaves formally, but treats servers or hosts dismissively, contradicting the respect signaled by the appearance.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Károly Somogyi",
+        "story": "Károly arrived at a business dinner in a restaurant near the Danube in a crisp suit and polished shoes, his tie perfectly centered. He greeted the table with a small nod. “Jó estét,” he said, taking his seat.\n\nWhen the waiter approached with menus, Károly didn’t look up. He tapped the table once with a knuckle. “Still water,” he said, then added in English, “And be quick.”\n\nThe waiter placed bread and a small plate of spread. Károly examined it and pushed it aside. When the waiter returned to take orders, Károly spoke over him. “I already know. Bring the steak. Medium. And don’t mess it up.”\n\nThe host, Éva, tried to introduce a colleague. Károly offered a tight smile, then turned back toward the aisle. “Excuse me,” he said, raising his hand sharply to catch the waiter again.\n\nÉva began describing the restaurant’s specials. Károly interrupted. “We’re here to eat, not to hear a lecture,” he said, adjusting his cufflinks.\n\nWhen the main dishes arrived, the waiter set Károly’s plate down. Károly shifted it an inch with two fingers and said, “Finally.” He picked up his knife and started cutting without waiting for the others."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Business",
+    "full_action": "If a Hungarian counterpart seems skeptical, the visitor avoids strongly praising American economic influence in Hungary and keeps the discussion balanced and respectful.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Krisztián Láng",
+        "story": "Krisztián hosted a visiting analyst, Sarah, at a small meeting table in a Budapest office overlooking a courtyard. They were reviewing a partnership timeline, and a map of supplier locations sat between them. When Sarah mentioned investment trends, Krisztián’s expression tightened slightly and he folded his hands.\n\nSarah noticed and shifted her tone. “We’ve worked with teams here before,” she said. “What’s been helpful is focusing on the project specifics—jobs, training, delivery times.”\n\nKrisztián nodded once. “Some people get sensitive about influence,” he said.\n\n“I understand,” Sarah replied. “I don’t want to frame it as one side ‘saving’ the other. From your perspective, what matters most for this rollout?”\n\nKrisztián exhaled and pointed to the schedule. “Lead time and local suppliers,” he said.\n\nSarah leaned in and followed his finger. “Got it,” she said. “Let’s make sure the supplier contracts here are stable, and we can align reporting so it works for both teams.”\n\nKrisztián asked, “Can you confirm the training budget?”\n\n“Yes,” Sarah said, opening her laptop. “Here are the numbers we proposed, and I’m open to adjusting based on your team’s needs.”\n\nKrisztián took a pen and circled two dates on the printout, then slid it back toward her."
+      }
+    },
+    "non_action": "The visitor aggressively celebrates American economic influence, dismisses local skepticism, and pressures the counterpart to agree.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Imre Balogh",
+        "story": "Imre sat with an American visitor, Todd, in a glass-walled meeting room in Budapest. A presentation about expansion plans was on the screen. When Imre raised a question about local supplier autonomy, Todd grinned broadly.\n\n“Look,” Todd said, leaning back in his chair, “American influence here is a huge win. It’s why things are moving forward. We bring the capital, the know-how, the standards.”\n\nImre kept his voice low. “Some stakeholders are skeptical,” he said.\n\nTodd shrugged. “They shouldn’t be. Skepticism is just fear. You guys needed the push. Admit it.” He pointed at a chart. “This proves it—our involvement is the reason your market looks better.”\n\nImre’s mouth tightened. “We’re trying to balance priorities,” he said.\n\nTodd leaned forward. “No, you need to get on board. Say it: the American role has been positive. If you can’t say that in the stakeholder meeting, we’ll have problems.”\n\nImre glanced at the door and then back to the screen. “We can discuss deliverables,” he said.\n\nTodd waved his hand. “Deliverables come after alignment. I want you to agree with me on this.” He stared at Imre until the silence stretched, then tapped his pen against the table in quick beats."
+      }
+    },
+    "principled_action": "Because the topic arises in a professional context, the visitor asks what concerns exist, acknowledges them, and shifts to shared goals or concrete project details rather than ideology.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Zoltán Káldi",
+        "story": "Zoltán met a visiting project lead, Erin, in a meeting room in Győr, where a whiteboard listed milestones and owners. When the conversation drifted toward foreign investment, Zoltán’s colleague folded his arms and looked away.\n\nErin noticed the change and set her marker down. “Before we go further,” she said, “what concerns are coming up for you? I want to understand what feels risky.”\n\nZoltán glanced at his colleague, then spoke. “There’s worry about decision-making moving away from here,” he said.\n\nErin nodded. “That makes sense,” she replied. “We can address that directly in the governance plan. Let’s define what decisions stay local and what decisions we share.” She turned to the board and wrote “Local approvals” on one side and “Joint approvals” on the other.\n\nZoltán leaned forward. “We also need clarity on hiring,” he said.\n\n“Okay,” Erin said. “Let’s tie it to the staffing plan and timeline. We have a shared goal: deliver the line on time without burning people out.” She pulled up the schedule on her laptop and rotated it so Zoltán could see. “Which role is hardest to fill right now?”\n\nZoltán pointed to a row. “Quality engineer,” he said.\n\nErin typed notes and said, “Let’s build a local recruiting pipeline for that,” then asked for the contact of the HR lead."
+      }
+    },
+    "surface_action": "The visitor avoids overt enthusiasm in words, but repeatedly signals it through smug jokes and side comments that still provoke skepticism.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nóra Juhász",
+        "story": "Nóra sat with a visiting consultant, Mark, in a meeting room in Budapest where coffee cups steamed beside printed contracts. Mark began carefully. “I’m not here to lecture,” he said. “I respect local perspectives.”\n\nNóra nodded and opened the document. “We’re discussing procurement terms,” she said.\n\nMark flipped a page and smiled. “Sure,” he said. “No big speeches about American influence.” He paused, then added with a grin, “I mean, it’s funny—things tend to get ‘modern’ once we show up, right?”\n\nNóra’s eyes stayed on the text. “Let’s stick to the clauses,” she said.\n\n“Absolutely,” Mark replied. “It’s just a joke. We’re guests.” A minute later, when a colleague mentioned local standards, Mark chuckled again. “Hey, we can help bring you into the twenty-first century on reporting. Kidding, kidding.”\n\nNóra slid a pen across the table. “Please mark the parts you want changed,” she said.\n\nMark circled a paragraph. “This section about local discretion—interesting,” he said. “Back home we’d tighten that up.” He glanced at Nóra. “But hey, whatever works here.”\n\nNóra drew a straight line under the sentence he circled and said, “We can clarify the approval threshold,” then turned the page without looking up."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "When topics involving ethnic minorities or neighboring countries arise, the visitor handles the discussion carefully, avoids stereotypes, and keeps a respectful tone.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Bence Illés",
+        "story": "Bence joined a small dinner in Miskolc with colleagues after a site visit. Plates of rakott krumpli were passed around, and someone mentioned a recent trip across the border for a wedding. The conversation drifted to neighbors and to different communities in the region.\n\nA visitor named Hannah listened for a moment, then said, “I’m still learning the context here. How do people usually describe the differences—if they do at all?”\n\nBence took a sip of water and answered in a measured voice. “It depends on the person and the place,” he said. “In some towns it’s mixed, in some it’s not.”\n\nHannah nodded. “That makes sense,” she said. “I don’t want to generalize about any group.” She looked around the table. “If it’s okay to ask, what are the practical issues people talk about—schools, jobs, housing?”\n\nA colleague responded about local school capacity. Hannah asked a follow-up question: “Do you have any recent numbers, or is it mostly based on what people see day to day?”\n\nBence pointed to the agenda packet from their meeting. “We have some data from the municipality,” he said.\n\nHannah said, “Thanks,” and kept her tone even as others added their views. When someone started to raise their voice, Hannah said, “We can keep it to specifics,” and reached for the breadbasket to pass it along."
+      }
+    },
+    "non_action": "The visitor uses stereotypes about minorities or neighboring countries, provokes heated debate, and frames the issue as a personal attack on others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "István Kárpáti",
+        "story": "István sat with a mixed group in a Budapest pub where plates of sausages and mustard were shared. A conversation about weekend travel turned into talk about neighboring countries and local minority communities.\n\nA visitor, Colin, laughed and said, “You know how those people are,” then waved his hand toward the street as if the meaning was obvious. “They’re all the same—always causing problems. And the neighbors? Don’t even get me started.”\n\nIstván’s friend Évi set her glass down. “What do you mean?” she asked.\n\nColin leaned forward, voice rising. “I mean stereotypes exist for a reason. Everyone knows it. If you disagree, you’re just being naive.”\n\nIstván said, “Let’s not talk like that.”\n\nColin pointed at him. “See, that’s the problem. You take it personally because you’re from here, but facts are facts.” He turned to the table. “Tell me I’m wrong. Go on. Admit it.”\n\nA man at the next table glanced over. Évi said, “Stop,” and pushed her chair back.\n\nColin kept talking, faster now. “Why are you all so sensitive? It’s ridiculous.”\n\nIstván’s jaw tightened and he stood halfway from his seat. “Enough,” he said.\n\nColin smirked. “There it is—personal attack. You can’t handle the truth.” He raised his voice again until the bartender looked over and wiped a glass slowly."
+      }
+    },
+    "principled_action": "Because the topic is relevant to a policy discussion, the visitor uses precise language, asks clarifying questions, and focuses on specific issues rather than identity-based generalizations.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Anikó Fodor",
+        "story": "Anikó attended a municipal workshop in Székesfehérvár where participants broke into small groups over sandwiches and tea. The agenda included cross-border commuting and access to services, and the discussion touched on communities with different languages and backgrounds.\n\nA visiting consultant, Priya, spoke carefully. “When we say ‘minority communities,’ which specific group are we discussing in this section?” she asked, looking at the printed agenda. “I want to make sure we’re not mixing different issues.”\n\nAnikó replied, “We’re talking about access to schooling and documentation for two neighborhoods.”\n\nPriya nodded and wrote it down. “Okay,” she said. “So the concrete questions are: enrollment capacity, transport, and administrative processing times.” She looked up. “Do we have current figures for bus frequency and average wait times at the district office?”\n\nAnikó flipped through a folder. “There’s a table from last quarter,” she said.\n\nPriya leaned in to read. “Great,” she said. “And when we discuss neighboring countries here, are we focusing on commuter permits, or on healthcare coverage for cross-border workers?”\n\nAnikó pointed to a bullet on the page. “Commuter permits,” she said.\n\nPriya said, “Understood,” and summarized the items in neutral terms, then asked who could provide updated numbers for the next meeting. Anikó wrote two names on the whiteboard under “Data owners.”"
+      }
+    },
+    "surface_action": "The visitor avoids explicit slurs, but uses coded language and loaded insinuations that still inflame the topic.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Géza Rácz",
+        "story": "Géza joined a lunch with acquaintances in a small restaurant in Budapest’s VIII. kerület. The table was crowded with plates and a pitcher of water. Someone mentioned a new housing project and how different neighborhoods were changing.\n\nA visitor, Megan, kept her tone smooth. “I’m not going to say anything offensive,” she said, lifting her hands slightly. “But you know… certain types of people don’t really integrate.”\n\nGéza looked up from his plate. “Who do you mean?” he asked.\n\nMegan smiled thinly. “I’m just saying what everyone’s thinking,” she replied. “When a neighborhood gets ‘like that,’ families leave. It’s not about ethnicity, it’s about behavior.”\n\nGéza set his fork down. “Be specific,” he said.\n\nMegan shrugged. “You know—those communities. And the neighbors across the border, they always come with their own agenda.” She sipped water. “It’s just reality.”\n\nA woman at the table said, “Can we not?”\n\nMegan leaned in and lowered her voice, as if confiding. “I’m being careful with my words,” she said. “I’m not using slurs. I’m just asking why we pretend it’s not an issue.”\n\nGéza’s friend pushed her chair back slightly and stared at the tablecloth. Megan picked up her knife and started cutting her food again, still talking in short, pointed phrases."
+      }
+    }
+  }
+]

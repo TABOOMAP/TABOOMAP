@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When waiting to be served in Sweden, the protagonist joins the queue properly and uses a ticket-number system if one is provided.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Maja Lindgren",
+        "story": "Maja pushed open the glass door of an Apotek in Lund and spotted the small machine by the entrance that dispensed queue tickets. She pressed the button, took the slip, and glanced at it: 'A47.' The screen above the counters showed 'A44' with a soft chime. Maja stepped aside near a shelf of hand cream and waited, scrolling through a message on her phone. Two people arrived after her; each took a ticket and stood along the wall, leaving space at the center of the floor. The chime sounded again and the display changed to 'A45.' A woman walked to counter three. When 'A47' appeared, Maja tucked her phone away and walked forward at a steady pace. The pharmacist smiled. 'Hej, what can I help you with?' Maja placed her prescription on the counter and said, 'Hi, I’m here to pick this up.' While the pharmacist typed, Maja kept her bag on her shoulder and waited, watching the screen for the price. The receipt printed and the pharmacist slid the paper bag across the counter."
+      }
+    },
+    "non_action": "When waiting to be served in Sweden, the protagonist cuts in line or skips the ticket-number system and insists they should be served first.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Rickard Ek",
+        "story": "Rickard entered a busy Servicekontor in Västerås and saw the ticket machine by the door. People stood along the wall holding slips, and the screen displayed 'B12.' Rickard walked past the machine without pressing it and headed straight to the counter where a staff member was speaking with someone. He leaned over the divider and said, 'I just need a quick thing.' The staff member raised a hand and pointed toward the ticket machine. 'Please take a number and wait.' Rickard stayed at the counter and replied, 'I’m in a hurry, it’ll take two minutes.' A woman holding a slip looked over; another man shifted his weight but stayed where he was. The staff member repeated, 'A number, please,' and turned back to the person being served. Rickard tapped the counter with his knuckles and said louder, 'Can you just do mine now? I was here first.' The screen chimed and changed to 'B13,' and the next person in line walked to the open counter while Rickard remained standing at the edge of the desk."
+      }
+    },
+    "principled_action": "When the protagonist has an urgent need, the protagonist explains briefly to staff, asks for guidance, and follows the staff’s decision without pushing past others.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Amina Hassan",
+        "story": "Amina arrived at the vårdcentral reception in Örebro with her toddler on her hip and a small thermometer in her coat pocket. The waiting area was full, and the ticket machine printed numbers for check-in. She pressed the button and received 'C28,' then looked at her son’s flushed cheeks. She walked to the side of the reception desk, keeping behind the line marker on the floor, and waited for a pause. When the receptionist finished with the current visitor, Amina stepped closer and said, 'Hej—sorry, I have a quick question. My son has a high fever and we were told to come today. Should I wait with the number, or is there another way?' The receptionist glanced at the child, nodded once, and said, 'Take a seat and I’ll call a nurse to assess him. Keep your number.' Amina said, 'Tack,' and moved back without approaching the counter again. She sat near the window, gave her son water from a bottle, and watched the screen as other numbers were called. A nurse appeared, looked at the ticket in Amina’s hand, and motioned toward a side door with her palm."
+      }
+    },
+    "surface_action": "When waiting to be served in Sweden, the protagonist stands in the queue but repeatedly tries to edge forward and pressure others to let them pass.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Daniel Fors",
+        "story": "Daniel joined the line at Systembolaget in Norrköping, holding a bottle of wine by the neck. The queue moved slowly toward the tills, and floor stickers marked where to stand. Daniel placed himself on a sticker, then took a half-step forward each time the person ahead shifted, closing the gap until his shoes nearly touched the other customer’s heels. He craned his neck to look at the open register and exhaled loudly. 'Is this the only cashier today?' he asked, turning his head toward the person in front of him. The customer didn’t answer and kept facing forward. Daniel angled his body sideways as if preparing to slip past and said, 'I’m just grabbing one thing—mind if I go ahead?' The person ahead kept their place and raised their hand slightly, palm out, without speaking. Daniel stayed in the line but continued to inch forward, bumping the basket rail with his bottle once. When a second register opened, Daniel stepped toward it before the next person was called, then paused when the cashier said, 'Next in line, please,' and the customer ahead walked over. Daniel returned to the sticker and checked his watch."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "During conversation in Sweden, the protagonist keeps a little over an arm’s length of personal distance and limits touching unless the other person initiates.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ella Ström",
+        "story": "Ella met her new project partner, Jonas, in a quiet corner of a café in Uppsala. Jonas stood up from his chair when she arrived. Ella smiled, stayed a little over an arm’s length away, and said, 'Hej, I’m Ella.' Jonas offered his hand, and Ella shook it once, then let go and sat down across from him. When Jonas leaned forward to point at a document on his tablet, Ella leaned in just enough to see the screen while keeping her shoulders back from the table edge. She kept her hands on her own notebook and didn’t reach across him. Jonas said, 'Should we meet next week too?' Ella nodded and replied, 'Yes, Wednesday works.' A friend of Jonas walked by and touched Jonas lightly on the shoulder in greeting; Jonas introduced them, and Ella nodded to the friend without stepping closer. As they talked, Ella shifted her chair slightly to keep the same distance when Jonas moved his footrest. Jonas laughed at a small typo and Ella smiled, then picked up her cup with both hands and took a sip. The café door chimed and cold air drifted in as another customer entered."
+      }
+    },
+    "non_action": "During conversation in Sweden, the protagonist stands too close, touches the other person repeatedly, and ignores visible discomfort.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Marko Jansson",
+        "story": "Marko spoke with a coworker, Lina, in the corridor of their office in Stockholm. Lina held a folder against her chest and stood near the wall. Marko stepped close enough that Lina’s back nearly touched the notice board. As he talked, he tapped her forearm twice to emphasize a point and then placed his hand on her shoulder. Lina shifted her feet sideways and angled her body away, tightening her grip on the folder. Marko followed the movement, closing the gap again, and said, 'Listen, it’s simple.' He brushed lint off her sleeve with his fingers and added, 'You just have to do it my way.' Lina took a small step backward and said, 'I have a meeting.' Marko reached out and touched her elbow as if to stop her from leaving. Lina pulled her arm in and looked down the hallway toward the meeting rooms. Marko kept talking, leaning in while Lina’s eyes stayed on the door at the end of the corridor. A colleague walked past, and Lina used the moment to slip around Marko and head toward the meeting room door."
+      }
+    },
+    "principled_action": "When the setting is crowded, the protagonist apologizes for limited space, avoids unnecessary touching, and restores comfortable distance when possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hanna Lind",
+        "story": "Hanna stood on a packed tram in Göteborg during rush hour, holding the overhead strap with one hand and her tote with the other. A man beside her shifted as the tram braked, and their sleeves brushed. Hanna immediately said, 'Sorry—tight here,' and adjusted her stance so her shoulder turned slightly away. She kept her elbows in and held her tote against her own hip rather than letting it swing. The tram rolled forward and people squeezed in at the next stop. Hanna took a small step back to make room, then positioned her feet so she wasn’t pressed against the person in front. When the crowd surged, she avoided placing a hand on anyone’s back and instead gripped the pole more firmly. A woman near the door looked over her shoulder as if searching for space, and Hanna shifted her tote down and to the side so the woman could stand without being bumped. When the tram reached Hanna’s stop, several people exited and a small gap opened. Hanna moved into the gap and took a fuller breath, her shoulders relaxing as she regained a comfortable distance. The doors slid open and she stepped onto the platform, letting the flow of passengers pass behind her."
+      }
+    },
+    "surface_action": "During conversation in Sweden, the protagonist maintains distance outwardly but uses intimidating posture and staring to pressure the other person.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Rasmus Vinge",
+        "story": "Rasmus met a contractor, Elin, in a hallway of an apartment building in Västerås to discuss a repair. He stood more than an arm’s length away, feet planted wide, shoulders squared, and kept his hands behind his back. Elin held a clipboard and explained the timeline. Rasmus didn’t interrupt at first, but he fixed his eyes on her face without blinking much and tilted his head down slightly. When Elin finished a sentence, he paused for a beat before speaking. 'So you’re saying it’ll be late,' he said, keeping his voice level. Elin replied, 'It depends on parts delivery.' Rasmus leaned forward a few centimeters without stepping closer and continued staring. Elin glanced down at her notes and cleared her throat. Rasmus asked, 'Are you sure you understand the job?' Elin lifted her gaze and answered, 'Yes.' Rasmus stood still, watching her, then said, 'Write it down. Exact date,' and waited in silence while Elin wrote on the clipboard. A neighbor opened their door nearby, looked out briefly, and then closed it again as the pen scratched across the paper."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "When offered a variety of cookies in Sweden, the protagonist takes only one of each type rather than taking multiples immediately.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Emma Vik",
+        "story": "Emma Vik sat in a bright kitchen in Örebro during an afternoon fika. A plate of cookies was placed in the middle of the table: chocolate-dipped biscuits, small oat rounds, and thin ginger snaps. A pot of coffee steamed beside mugs.\n\nHer host, Lena, slid the plate closer. “There are a few kinds. Take what you like,” she said.\n\nEmma leaned forward and looked over the options. She picked up one ginger snap and one oat cookie, then took a single chocolate-dipped biscuit and placed them neatly on her small side plate.\n\n“Thank you,” Emma said.\n\nLena poured coffee. “Milk?”\n\n“Just black, thanks,” Emma replied.\n\nEmma took a bite of the ginger snap first, then sipped coffee. The conversation moved to a new library opening downtown, and Emma listened while chewing.\n\nLena reached for the cookie plate again and offered it to another guest. Emma kept her hands near her mug, letting the plate pass.\n\nAfter finishing the oat cookie, she placed the crumbs together with her fingertip and licked it clean, then took the last bite of the chocolate biscuit.\n\nLena asked, “More?”\n\nEmma smiled. “Maybe later,” she said, and lifted her mug again.\n\nA guest stood to refill the coffee pot, and Emma shifted her chair slightly to make room as the cookie plate was moved to the far side of the table."
+      }
+    },
+    "non_action": "When offered a variety of cookies in Sweden, the protagonist grabs multiple pieces of the same type and takes more than their share.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Simon Eklund",
+        "story": "Simon Eklund dropped by a friend’s apartment in Umeå for fika. The host set out a large platter with several kinds of cookies: almond biscuits, chocolate cookies, and ginger snaps. “Help yourselves,” she said, placing it on the table.\n\nSimon reached in immediately and grabbed three chocolate cookies, stacking them on his plate, then took two more from the same pile. He added a handful of ginger snaps on top.\n\nHis friend’s roommate, Johanna, had just reached for the platter when Simon pulled it closer to himself to pick through it again.\n\n“Those are good,” Simon said with his mouth half full, taking a bite before the plate had even made it around.\n\nJohanna’s hand hovered and then withdrew. “Okay,” she said, taking a single almond biscuit from the edge.\n\nSimon kept eating, crumbs falling onto the tablecloth. He took another chocolate cookie and then reached back to the platter, selecting the largest ones.\n\nThe host poured coffee and glanced at the platter, now missing most of the chocolate cookies. “There were more of those,” she said quietly.\n\nSimon shrugged and kept chewing. “You can make more later,” he said, licking chocolate from his fingers.\n\nJohanna sipped her coffee and looked at the remaining ginger snaps while Simon reached for another handful."
+      }
+    },
+    "principled_action": "When the protagonist has dietary limits and can only eat one type, the protagonist takes a single piece and explains briefly if needed while staying considerate.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nadia Ahlgren",
+        "story": "Nadia Ahlgren joined a fika at a coworker’s home in Solna. On the table sat a plate with mixed cookies—some with nuts, some with chocolate, and a stack of plain oat cookies. Her coworker, Stefan, nudged the plate toward her. “Take a few,” he said.\n\nNadia leaned in and scanned the cookies. She picked up one plain oat cookie and placed it on her plate.\n\nStefan asked, “Want to try the almond ones too?”\n\n“I can’t have nuts,” Nadia said, keeping her voice light. “So I’ll stick with this one, thanks.”\n\n“No problem,” Stefan replied.\n\nNadia took a bite and sipped tea from her mug. The others chatted about a new bike path near Hagaparken. When the plate came around again, Nadia held up her hand slightly. “I’m good,” she said.\n\nStefan offered, “There’s fruit too.”\n\nNadia nodded. “A slice of apple would be nice.”\n\nStefan cut an apple and placed a few slices on a small dish. Nadia took one slice and ate it slowly, keeping her plate tidy.\n\nAs someone refilled the kettle, Nadia moved her mug closer to the center of her coaster and said, “Do you want help bringing anything back to the kitchen?”"
+      }
+    },
+    "surface_action": "When offered a variety of cookies in Sweden, the protagonist takes one of each type but then returns repeatedly to take more while watching whether anyone notices.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Pontus Ravn",
+        "story": "Pontus Ravn sat at a fika table in a bright apartment in Karlskrona. A platter of cookies sat in the middle: chocolate rounds, ginger snaps, and small shortbread squares. The host, Elin, said, “Take what you want.”\n\nPontus smiled and took one of each, placing them neatly on his plate. “Tack,” he said.\n\nAs the conversation moved to holiday plans, Pontus finished the chocolate cookie first. He glanced at the platter, then at Elin, who was pouring coffee for someone else. Pontus reached out and took another chocolate cookie, setting it beside his plate.\n\nA few minutes later, he finished the ginger snap. He looked around the table and saw that others were talking, not watching the platter. He picked up another ginger snap and ate it quickly.\n\nElin turned back and asked, “More coffee?”\n\n“Yes, please,” Pontus said, holding out his cup.\n\nWhile Elin refilled cups, Pontus watched the remaining shortbread. He waited until someone laughed and leaned back, then took a second shortbread square and slid it onto his plate.\n\nA guest across the table reached for the platter and paused at the thinning pile of chocolate cookies. Pontus took a sip of coffee and kept his eyes on his cup.\n\nElin set the coffee pot down, and Pontus reached for the platter again, stopping for a second to glance at Elin before picking up one more cookie."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Kinship",
+    "full_action": "When visiting a Swedish household with children, the protagonist brings a small gift for the children to acknowledge them politely.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Elin Bergström",
+        "story": "Elin wiped snow off her boots in the hallway of Johan and Maja’s apartment in Uppsala, then pulled a small paper bag from her tote. From the living room, two kids peeked around the doorframe, one in striped socks, the other holding a Lego minifigure. Maja called, “Kom in! They’ve been waiting to see you.”\n\nElin stepped in and crouched to their height. “Hej,” she said, smiling. “I brought something small for you.” She held the bag out with both hands.\n\nThe older child, Nora, took it carefully. Inside were two tiny chocolate bars and a sticker sheet with animals. Nora’s eyes went to her brother. “One each?”\n\n“Exactly,” Elin said.\n\nThe younger one, Oskar, peeled the bag open further and found a little pack of crayons. “We can draw!” he said, turning to the coffee table.\n\nJohan laughed from the kitchen doorway. “You didn’t have to.”\n\nElin stood and shrugged, hanging her scarf on a hook. “I saw them at Pressbyrån on the way,” she said.\n\nNora placed the stickers on a notebook and slid one toward Elin, then Oskar dragged over a pencil cup."
+      }
+    },
+    "non_action": "When visiting a Swedish household with children, the protagonist ignores the children entirely and complains about them in front of the family.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Marcus Lind",
+        "story": "Marcus arrived at Sofia and Anders’s row house in Västerås just after six, stamping slush from his shoes. The door swung open to a burst of noise: a toddler ran past in a dinosaur onesie while an older child jumped on the bottom stair, chanting a song. Sofia smiled and said, “Hej! Come in—sorry, it’s a bit lively.”\n\nMarcus glanced at the kids without greeting them and stepped around the toddler as if navigating a chair. He handed Sofia his coat and looked toward the dining table. “Wow,” he said, loud enough for the hallway to hear, “they’re really… a lot.”\n\nAnders came from the kitchen with a tray of glasses. “That’s Elsa and Leo,” he said, nodding toward the stairs.\n\nMarcus waved a hand. “Kids are exhausting. I don’t know how you stand the constant yelling. It’s like living inside a cartoon,” he said, pulling out his phone.\n\nElsa paused on the stair and watched him. Leo bumped into Marcus’s leg and steadied himself on the wall.\n\nSofia’s smile tightened. “We can sit in the living room first,” she said.\n\nMarcus dropped onto the sofa, still talking. “At least you’ll have peace when they’re older. Right now it’s nonstop,” he said, as Elsa climbed down slowly and Leo stood by the doorway with his dinosaur hood half on."
+      }
+    },
+    "principled_action": "When the protagonist cannot bring a gift, the protagonist engages kindly with the children and offers a small gesture later without making excuses.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Karin Sjöberg",
+        "story": "Karin got off the tram at Majorna and checked her tote: keys, phone, the card for Lina and Per—no little bag of treats. She had rushed from work and the corner shop near the stop had been closed. When Per opened the apartment door, two children hovered behind him, one clutching a toy ambulance.\n\n“Hi!” Karin said, bending slightly. “Hej, you two.”\n\nThe older child, Alva, pointed at Karin’s tote. “Did you bring something?”\n\nKarin smiled and shook her head once, then turned her attention to the toy in Alva’s hands. “That ambulance looks fast. Can it turn on the siren?”\n\nAlva pressed a button and the light blinked. The younger one, Melvin, leaned closer. “It’s for emergencies,” he said.\n\nKarin sat on the edge of the hallway bench. “Show me how it drives,” she said, clearing a small path on the floor with her hand.\n\nThey pushed the ambulance back and forth between their socks. Karin made room for Melvin to steer, then asked, “Do you like drawing too?”\n\nLater, while Per poured coffee, Karin took out her phone and said to Lina, “If it’s okay, I’ll bring a little sticker book next time—maybe Saturday when we meet at the playground.”\n\nAlva nodded and placed the ambulance carefully beside Karin’s shoe, then asked her to race it again."
+      }
+    },
+    "surface_action": "When visiting a Swedish household with children, the protagonist brings a gift but uses it to control the children’s behavior and impress adults.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Viktor Nyström",
+        "story": "Viktor arrived at Hanna and Emil’s flat in Solna with a glossy bag that crinkled loudly when he set it on the entry bench. Two kids appeared instantly, barefoot, staring at the bag. Hanna said, “Oh, hello! Come in.”\n\nViktor lifted the bag just out of reach and smiled toward Emil in the kitchen. “I brought something for the little ones,” he said, raising his voice.\n\nThe older child, Sam, bounced. “What is it?”\n\nViktor held up one finger. “First, you both sit nicely on the rug and use indoor voices,” he said. “Then you can have it.”\n\nEmil glanced over. “They’re excited,” he said.\n\nViktor kept the bag in his hand. “It’s important they learn manners,” he replied, looking back at Hanna. “I’m good with kids.”\n\nSam sat down quickly, tugging his sister Liv’s sleeve. Liv folded her arms but lowered herself onto the rug. Viktor nodded as if confirming a deal.\n\nHe pulled out two small puzzle boxes and a packet of candy and placed them on the coffee table. “Only after dinner for the candy,” he announced.\n\nHanna said, “Thanks,” and started toward the kitchen.\n\nViktor leaned back and said, “See? Works every time,” while Sam stared at the candy packet and Liv kept her hands on her knees."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Exchange",
+    "full_action": "When the protagonist receives a gift in Sweden, the protagonist opens it when received and thanks the giver sincerely.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Oskar Holm",
+        "story": "Oskar stepped into the warm kitchen at his coworker Frida’s place in Malmö, cheeks still cold from the bike ride. A few colleagues stood around the table with coffee cups, and Frida set a small wrapped parcel beside his mug. “It’s for you,” she said. “We thought you’d like it.”\n\nOskar blinked. “For me?”\n\n“Open it,” Frida said, sliding it closer.\n\nOskar pulled at the tape carefully so the paper didn’t tear too wildly. He unfolded the wrapping and lifted the lid of a small box. Inside was a knit beanie in dark blue and a card with a short note signed by the team.\n\nHe held the beanie up and ran his fingers over the ribbing. “This is perfect,” he said, looking from Frida to the others. “I’ve been freezing every morning.”\n\nJonas laughed. “We’ve noticed.”\n\nOskar read the card once, then looked up. “Thank you,” he said, voice quieter. “Really—this is thoughtful.”\n\nHe slipped the beanie on right there, adjusting it over his ears. “Does it look okay?”\n\nFrida nodded. “It suits you.”\n\nOskar smiled and set the empty wrapping neatly on the counter, then reached for his coffee and took a long sip."
+      }
+    },
+    "non_action": "When the protagonist receives a gift in Sweden, the protagonist refuses to open it and dismisses the giver’s effort.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Linnea Karlsson",
+        "story": "Linnea arrived at her friend Nadja’s birthday fika in a small apartment in Lund, where candles flickered on a cake and coats piled on the bed. Nadja greeted her with a hug and then held out a wrapped package. “I got you something too,” Nadja said, smiling.\n\nLinnea looked at the package and didn’t take it right away. “Why would you?” she said.\n\nNadja’s hands stayed in the air. “Just—open it,” she said.\n\nLinnea finally took it but didn’t unwrap it. She turned it over, as if weighing it, then placed it on the windowsill. “I’m not doing presents like this,” she said. “It’s unnecessary.”\n\nSomeone at the table paused mid-slice of cinnamon bun. Nadja’s smile faded. “It’s just a small thing,” she said.\n\nLinnea shrugged. “You didn’t need to waste money. I don’t care about stuff,” she said, picking up her phone to check a message.\n\nNadja’s friend Elias tried to shift the moment. “Coffee?” he asked.\n\nLinnea nodded without looking up. “Sure.”\n\nNadja stood still for a second, then carried the cake knife back to the counter. The wrapped gift remained unopened on the windowsill while the others poured coffee and the room went quieter."
+      }
+    },
+    "principled_action": "When the setting requires waiting, the protagonist explains politely, expresses appreciation, and opens the gift at the earliest appropriate time.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sara Ek",
+        "story": "Sara stepped into the small meeting room at a startup office in Stockholm where the team had gathered for a quick end-of-project check-in. On the table sat a wrapped box with a ribbon. Her manager, Henrik, pushed it toward her. “For you,” he said. “A little thank you.”\n\nSara smiled and touched the ribbon. “Thank you,” she said, then glanced at the wall clock and the agenda on the screen. “Can I open it right after we finish the last two items? I don’t want to derail the meeting.”\n\nHenrik nodded. “Of course.”\n\nShe slid the box carefully to the side of her laptop and continued, “So, the final deployment went out at 09:10, and support hasn’t logged any new tickets.”\n\nDuring the last discussion, Sara kept her hands folded, eyes on the speaker. When Henrik said, “That’s it,” she exhaled and reached for the ribbon.\n\n“Okay,” she said, smiling at the group. “Now I’m curious.”\n\nShe untied the bow and lifted the lid. Inside was a sleek stainless-steel thermos and a small note. Sara read the note, then looked up. “I’m genuinely glad,” she said. “This means a lot—thank you for thinking of me.”\n\nA colleague said, “You’re always the one with tea.”\n\nSara laughed and held the thermos up. “This will be in my bag tomorrow,” she said, setting the box lid beside her notebook."
+      }
+    },
+    "surface_action": "When the protagonist receives a gift in Sweden, the protagonist opens it promptly but reacts in a way that makes the giver feel evaluated rather than appreciated.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Anton Svanberg",
+        "story": "Anton showed up to a small dinner at his neighbor Ida’s apartment in Göteborg, carrying a bottle of sparkling water and a bag of oranges. After they sat down, Ida handed him a wrapped gift. “It’s for you,” she said. “Just something small.”\n\nAnton tore the paper quickly and opened the box. He lifted out a ceramic mug with a simple pattern and turned it around in his hands. “Hmm,” he said, tilting it toward the lamp.\n\nIda watched him. “Do you like it?”\n\nAnton tapped the rim lightly with his fingernail. “It’s nice,” he said, then added, “The glaze is a bit uneven here, though. Did you buy it at that craft market?”\n\nIda nodded. “Yeah, last weekend.”\n\nAnton kept inspecting. “I usually prefer thinner mugs,” he said. “This one is quite chunky. The handle is okay, but it’s not perfectly symmetrical.”\n\nAcross the table, Ida’s friend Malin took a sip of wine and looked down at her plate.\n\nIda’s smile shifted. “I thought it looked cozy,” she said.\n\nAnton shrugged and set the mug on the table. “It’s fine,” he said. “I’ll use it for pens or something.”\n\nIda reached for the serving spoon and started portioning potatoes while Anton folded the torn wrapping paper into a tight square and pressed it flat with his palm."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Civility",
+    "full_action": "In shared spaces in Sweden, the protagonist keeps areas tidy by cleaning up after themselves and arranging items neatly for the next person.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Johanna Lundqvist",
+        "story": "Johanna heated her lunch in the office kitchen in Sundbyberg, watching the microwave countdown while two colleagues chatted near the coffee machine. When the beep sounded, she pulled out her glass container and noticed a few splatters on the microwave ceiling.\n\nShe set her food on a plate, then opened the cupboard for paper towels. At the sink, she wet a towel, wrung it out, and wiped the inside of the microwave, then the handle. She tossed the towel and grabbed a fresh one to dry the surfaces.\n\nHer mug sat by the sink with a tea ring inside. Johanna rinsed it, added a drop of soap, and scrubbed it with the brush. She rinsed again until the water ran clear and placed the mug upside down on the drying rack.\n\nOn the counter, a jar of instant coffee and a stack of cups were slightly crooked. She nudged the cups into a straight line and slid the coffee jar back next to the sugar.\n\nA colleague, Reza, opened the fridge and said, “Thanks for wiping that. It gets messy fast.”\n\nJohanna nodded and lifted her lunch. “No problem,” she said.\n\nBefore leaving, she pushed in the chair she had used and folded a stray napkin into the bin, then carried her plate back to her desk."
+      }
+    },
+    "non_action": "In shared spaces in Sweden, the protagonist leaves a mess behind and expects others to clean it up.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "David Östman",
+        "story": "David hurried into the shared laundry room in his apartment building in Linköping with a basket balanced on his hip. The schedule board on the wall showed his slot, and he shoved open the door with his shoulder. He poured detergent into the drawer, spilling some onto the machine and the tiled floor.\n\nWhen the wash finished, he yanked out the clothes and dropped damp socks on the floor without noticing. He left the detergent cap on the counter and pulled lint from the dryer filter, then flicked it into the corner of the room.\n\nA neighbor’s empty detergent bottle sat near the sink. David pushed it aside with his elbow to make space and let a small puddle of water spread from the faucet he hadn’t fully turned off.\n\nHe stuffed the last load into his basket, then looked at his phone and muttered, “I’m late.” He stepped over the sock and pulled the door open.\n\nIn the hallway, he met an older man carrying a bag of laundry. The man glanced into the room. “Is it free now?”\n\n“Yeah,” David said, already walking away.\n\nBehind him, the door swung shut, leaving the spilled detergent streaked on the machine and the damp sock on the tile while the faucet continued dripping into the widening puddle."
+      }
+    },
+    "principled_action": "When the protagonist is rushing due to an emergency, the protagonist does the minimum quick cleanup and returns later to finish tidying if needed.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Maja Nilsson",
+        "story": "Maja was in the shared kitchen of her student corridor in Lund when her phone buzzed. A message flashed from her sister: “Can you call? Dad slipped.” Maja’s kettle was still hot, and she had just chopped onions for a quick pasta.\n\nShe set the knife down and looked at the counter. Onion skins and a few pieces of chopped onion were scattered near the cutting board. She grabbed a paper towel, swept the scraps into her palm, and dropped them into the compost bin. She ran her hand over the counter once, collecting stray bits, then wiped the damp spot near the sink.\n\nShe rinsed the knife under the tap, placed it carefully in the drying rack, and stacked her cutting board against the wall so it wasn’t in the way. The pot on the stove still held water warming. She turned the knob to off and moved the pot to a cool burner.\n\nHer roommate, Sanna, walked in. “Everything okay?”\n\n“My dad fell,” Maja said, already pulling on her jacket. “I need to go.”\n\nSanna nodded. “Go. I’ll handle the rest.”\n\nMaja shook her head and pointed. “I did the quick bits, but I’ll come back later to finish the dishes and wipe properly,” she said, then stepped into the corridor and dialed her sister as the kitchen door clicked shut."
+      }
+    },
+    "surface_action": "In shared spaces in Sweden, the protagonist keeps their own area neat but deliberately leaves small messes for others as a passive signal.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Patrik Eklund",
+        "story": "Patrik sat at a long table in the shared study room of a coworking space in Stockholm, laptop open and notebook aligned with the table edge. He ate a yogurt and a banana while answering emails, then wiped his own spot with a small cloth from his bag.\n\nHe arranged his pen, phone, and charger in a neat row and slid his chair back into place. A couple of crumbs remained near the middle of the table from someone else’s pastry earlier. Patrik brushed only the crumbs on his side into his hand and dropped them into the bin.\n\nAt the coffee corner, he made an espresso and rinsed his cup. He wiped the sink where his spoon had touched and folded the dish towel back into a rectangle on the hook. Next to the machine, the milk carton sat open. Patrik twisted the cap onto his own oat milk and placed it neatly on the shelf, then left the shared milk carton with the cap resting loosely on top.\n\nA member named Li walked over and reached for the milk. “Is this opened?” she asked, lifting the cap.\n\nPatrik looked up briefly. “It was like that,” he said, returning his gaze to the screen.\n\nLi tightened the cap and set the carton back, then picked up a small smear of coffee grounds from the counter with her fingertip and wiped it on a paper towel."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "In public in Sweden, the protagonist disposes of trash properly and avoids littering on streets, parks, or public transport.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Filip Andersson",
+        "story": "Filip walked through Kungsträdgården in central Stockholm on his lunch break, holding a paper coffee cup and a small wrapper from a kanelbulle. The gravel path was damp, and kids in bright snowsuits chased each other near a statue.\n\nHe finished the coffee and pressed the lid back into the cup so it wouldn’t fall off. At the edge of the path, he spotted a green bin near a bench. He stepped around a puddle, lifted the bin lid with his wrist, and dropped the cup in.\n\nThe wrapper was still in his other hand. He smoothed it once, folded it into a small square, and tucked it into his palm as he walked toward the tram stop. A gust of wind tugged at the folded paper. Filip tightened his grip and kept walking.\n\nAt the stop, a woman in a wool hat dropped her ticket receipt and bent to pick it up. Filip waited behind her, then looked for another bin. A metal bin stood beside the timetable. He tossed the wrapper in and heard it land against the side.\n\nOn the tram, he held the pole and checked his phone. When he got off, he spotted a discarded napkin near the door, nudged it with his shoe into reach, and picked it up with his fingers.\n\nHe carried it to the bin outside the station and dropped it in before crossing the street."
+      }
+    },
+    "non_action": "In public in Sweden, the protagonist drops litter on the ground and walks away as if it is someone else’s problem.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sandra Wikström",
+        "story": "Sandra walked along the waterfront path in Halmstad with a takeaway box balanced in one hand and a plastic fork in the other. She ate the last bite, snapped the lid shut, and looked around at the benches. A couple sat nearby, and a jogger passed with headphones.\n\nSandra crumpled the plastic napkin into a ball and let it fall beside the path without slowing down. The wind pushed it a few centimeters into the grass.\n\nShe finished her drink and squeezed the bottle until it crackled. Near a lamppost, she flicked the bottle cap off with her thumb and then dropped the bottle on the gravel. It rolled and bumped against the curb.\n\nA man walking a dog looked at the bottle and then at her back. “Excuse me,” he called.\n\nSandra kept walking and raised her hand vaguely without turning. “There are cleaners,” she said, tossing the fork down near the bottle.\n\nAt the end of the path, she opened her phone and started typing while stepping over a patch of mud. Behind her, the dog tugged toward the bottle and the owner shortened the leash.\n\nSandra reached the bus stop and sat down, leaving the takeaway box on the bench beside her. When the bus arrived, she stood, stepped on board, and left the box on the seat, the lid half open."
+      }
+    },
+    "principled_action": "When no bin is available, the protagonist keeps the trash with them until they find a proper place to dispose of it.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nils Persson",
+        "story": "Nils bought a hot dog from a kiosk near Slottsskogen in Göteborg and wandered toward the pond, eating slowly while ducks drifted near the shore. When he finished, he held the napkin and the little cardboard tray and looked around for a bin.\n\nHe walked past a playground, scanning behind benches and near the path signs. No bin appeared, only a row of bike racks and a map board. Nils folded the napkin around the tray, pressing it into a compact bundle so sauce wouldn’t smear.\n\nHis friend Lina caught up and said, “Just toss it in the bushes. No one cares.”\n\nNils shook his head once and slipped the bundle into the side pocket of his backpack. “I’ll keep it,” he said.\n\nThey continued around the park. At one point, Nils stopped to tie his shoe and checked that the pocket zipper was closed. The bundle stayed tucked inside.\n\nNear the tram stop at Linnéplatsen, a blue-and-green bin stood beside the shelter. Nils unzipped the pocket, pulled out the bundle, and dropped it into the bin. He tapped the pocket edge with his fingers to make sure nothing else was stuck.\n\nLina raised her eyebrows. “You carried that the whole way.”\n\nNils shrugged and wiped his hands with a fresh tissue, then tossed the tissue into the same bin and stepped onto the tram as the doors opened."
+      }
+    },
+    "surface_action": "In public in Sweden, the protagonist throws trash away when watched but later leaves small litter behind without taking responsibility.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Emil Karlén",
+        "story": "Emil stood on the platform at Stockholm Central with a takeaway coffee and a paper bag from a sandwich. Two tourists nearby were taking photos, and a station attendant walked past in a reflective vest.\n\nEmil finished the sandwich and folded the paper bag. He spotted a bin and, as the attendant came closer, stepped over and dropped the bag in with a quick glance around. The attendant nodded slightly and continued walking.\n\nEmil took a long sip of coffee, then boarded the commuter train to Södertälje. He found a seat and pulled out his headphones. When the coffee was empty, he tucked the cup between his knees and scrolled on his phone.\n\nAt the next stop, the doors opened and people filed out. Emil stood, slipped his backpack on, and left the cup in the seat pocket in front of him.\n\nOn the platform, he pulled a small receipt from his pocket and stuffed it into his hand, then, as he walked toward the stairs, let it fall behind him near the yellow line without looking back.\n\nA woman behind him stepped around the receipt and sighed softly, then bent to pick it up.\n\nEmil reached the escalator and adjusted his headphones, eyes on the departure board as he rode down."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "In public in Sweden, the protagonist avoids spitting and maintains a clean, considerate public presence.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hanna Larsson",
+        "story": "Hanna walked along Drottninggatan in Norrköping on a cold morning, scarf pulled up and cheeks tingling from the air. Her throat felt scratchy, and she swallowed a few times while weaving through people carrying shopping bags.\n\nAt a crosswalk, she paused and coughed into her elbow, turning her head away from the crowd. She reached into her coat pocket for a small pack of tissues, pulled one out, and held it ready.\n\nA tickle rose again. Hanna stepped to the side near a wall, facing away from the main flow of pedestrians. She covered her mouth with the tissue and cleared her throat quietly, then folded the tissue inward so the used part was hidden.\n\nThe light changed, and the crowd surged forward. Hanna waited an extra moment, then joined behind them at a slower pace.\n\nNear a bus stop, she spotted a bin attached to the pole. She lifted the flap and dropped the folded tissue inside, then used hand sanitizer from a small bottle in her pocket, rubbing her palms together.\n\nOn the bus, she stood near the back, holding the rail. A man beside her sneezed and muttered, “Sorry.”\n\nHanna nodded once and looked out the window at the river. When her stop came, she stepped off and adjusted her scarf, then walked toward the office entrance with her hands in her pockets."
+      }
+    },
+    "non_action": "In public in Sweden, the protagonist spits openly near others and ignores how it affects the shared environment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Johan Stenberg",
+        "story": "Johan walked through the entrance hall of a train station in Växjö with a paper ticket in his hand, dragging his suitcase behind him. People streamed past in both directions, some with skis and bulky jackets.\n\nHe cleared his throat loudly and spat onto the floor near a pillar, then kept walking without slowing. A woman pushing a stroller stopped short and steered around the wet spot.\n\nJohan reached the escalator and, halfway up, leaned to the side and spat again, the saliva landing on a step just ahead of a teenager’s shoe. The teenager jerked his foot back and looked up.\n\n“Seriously?” the teenager said.\n\nJohan didn’t respond. He took out his phone and started typing, eyes down.\n\nAt the top, he walked onto the platform and stood near a bench. A group of students sat talking, and an older man read a newspaper. Johan coughed and spat onto the gravel beside the bench, close enough that the sound made a couple of people glance over.\n\nThe older man folded his newspaper slightly and shifted his feet away.\n\nJohan rolled his shoulders and said into his phone, “Yeah, I’m here,” then spat once more toward the track and left a dark spot on the concrete while the train announcement echoed overhead."
+      }
+    },
+    "principled_action": "When the protagonist has an urgent need to clear their throat, the protagonist steps aside discreetly, uses a tissue, and disposes of it properly.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Erik Johansson",
+        "story": "Erik was waiting outside a café in Umeå with his colleague Mira when a cold gust made his throat tighten. He tried swallowing it down, but the urge to clear his throat came back, sharp and immediate.\n\nHe took a small step away from the café entrance, moving toward the side of the building where fewer people passed. “One second,” he said to Mira.\n\nHe reached into his jacket and pulled out a tissue. With his back angled away from the sidewalk, he covered his mouth and cleared his throat into the tissue, then folded it inward twice.\n\nMira watched him from a couple of meters away, holding their takeaway cups. “All good?” she asked.\n\n“Yeah,” Erik said, voice quieter. He kept the folded tissue in his hand rather than pocketing it loosely.\n\nThey walked toward the river path. Erik looked for a bin, scanning near the bike racks and the bus stop sign. A small bin stood beside the pedestrian crossing. He lifted the lid and dropped the tissue inside.\n\nAt the café door, a bell chimed as someone left with a pastry box. Erik stepped back toward Mira and took his cup from her.\n\n“Thanks,” he said.\n\nMira nodded and started walking toward the office. Erik followed, taking a sip and keeping his other hand free as they crossed the street when the light turned green."
+      }
+    },
+    "surface_action": "In public in Sweden, the protagonist avoids spitting directly but makes other careless cleanliness choices that shift the burden onto others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Therese Sandén",
+        "story": "Therese rode the metro in Stockholm after the gym, hair still damp under a beanie. Her throat felt dry, and she swallowed repeatedly while standing near the door. She didn’t spit, keeping her mouth closed as people pressed in at the next stop.\n\nWhen the train jolted, she coughed into her hand, then wiped her palm on the side of her jacket. She reached into her pocket, found a used tissue from earlier, and squeezed it absentmindedly. The tissue fell from her fingers onto the floor near the door.\n\nA man beside her glanced down and shifted his bag away from it. Therese looked at her phone as if she hadn’t noticed.\n\nAt T-Centralen, she stepped out with the crowd. A station cleaner pushed a cart past, and Therese moved to the side to let it through. She pulled out a small bottle of sports drink, took a sip, and tightened the cap.\n\nNear the escalator, she peeled a sticker off the bottle label and stuck it onto the metal rail, then walked on.\n\nA teenager behind her ran a hand along the rail and frowned at the sticker, then scraped at it with a fingernail.\n\nTherese adjusted her backpack straps and headed toward the exit, weaving around tourists as she climbed the stairs."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When refugees or migration are discussed in Sweden, the protagonist speaks cautiously, asks rather than assumes, and respects that others may have different views.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Emma Sjödin",
+        "story": "Emma sat at a kitchen table in a small apartment in Södermalm while her friend Karin chopped vegetables for soup. The radio murmured in the background, and the conversation drifted to a recent headline about migration policy.\n\nKarin said, “People at work were arguing about it again.”\n\nEmma nodded and kept her voice even. “How do people talk about it there?” she asked.\n\nKarin shrugged. “Different opinions. Some are tired of the debate. Some feel strongly either way.”\n\nEmma leaned back slightly. “I’m still learning how it works here,” she said. “What do you think are the main concerns people bring up?”\n\nKarin paused with the knife, then said, “Housing comes up a lot. Schools too. And some people talk about responsibility.”\n\nEmma listened and nodded once. “That makes sense,” she said. “Do you think the conversation feels different depending on who’s in the room?”\n\nKarin smiled faintly. “Yes. Especially if someone has a personal connection.”\n\nEmma said, “I don’t want to assume everyone sees it the same way. In Australia, the debate has its own history, but I know that doesn’t map neatly here.”\n\nKarin set the vegetables into a pot. “Exactly.”\n\nEmma reached for the bread basket and asked, “Would it be okay if I ask a couple more questions, or would you rather talk about something else tonight?”\n\nKarin poured water into the pot and said, “A couple is fine,” then turned the stove on and stirred while Emma tore a piece of bread and waited."
+      }
+    },
+    "non_action": "When refugees or migration are discussed in Sweden, the protagonist makes sweeping claims, assumes everyone agrees, and provokes conflict with harsh statements.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Pontus Bergqvist",
+        "story": "Pontus sat in a crowded café in Jönköping with two friends, Elina and Rami, cups clinking as people squeezed past. A news clip on a phone showed a panel discussion about migration, and Elina said, “It’s been in the news all week.”\n\nPontus snorted. “It’s obvious what the problem is,” he said, loud enough that the next table glanced over. “Too many people coming in. Everyone knows it.”\n\nRami looked at him. “Not everyone agrees.”\n\nPontus leaned forward. “Come on,” he said. “Sweden is basically turning into chaos. People are afraid to say it, but it’s true.”\n\nElina frowned. “That’s a big statement.”\n\nPontus waved his hand. “Don’t pretend it’s complicated. If you disagree, you’re ignoring reality,” he said.\n\nRami’s jaw tightened. “You don’t know what you’re talking about.”\n\nPontus raised his voice. “I know enough. It’s the same everywhere. If we don’t stop it, we’re done.”\n\nA barista called out an order, and a couple at the next table got up, moving their chairs away.\n\nElina set her spoon down. “Can we not do this here?”\n\nPontus shook his head. “No, people need to hear it,” he said, pointing toward the phone as if it were proof.\n\nRami stood abruptly, pushing his chair back. “I’m leaving,” he said.\n\nPontus stared after him and muttered, “See? People can’t handle the truth,” then took a hard sip of coffee while Elina looked down at her cup."
+      }
+    },
+    "principled_action": "When the topic becomes sensitive, the protagonist acknowledges uncertainty, listens carefully, and changes the subject if the other person seems uncomfortable.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Agnes Holm",
+        "story": "Agnes and her colleague Mikael walked along a snowy path in Uppsala after work, heading toward the bus stop. The streetlights reflected off the ice, and their breath hung in the air. Mikael mentioned a conversation he’d had with relatives about migration.\n\nAgnes nodded slowly. “I’m not sure I understand all the details here,” she said. “I’ve read a little, but I’m missing a lot of context.”\n\nMikael shrugged. “It gets heated fast.”\n\nAgnes asked, “How do you feel when it comes up?”\n\nMikael looked away for a moment, then said, “Tired. My family argues, and it’s never just facts.”\n\nAgnes kept her pace even. “That sounds draining,” she said. She didn’t jump in with opinions, and when Mikael spoke, she listened without interrupting.\n\nAt the stop, a couple of people stood with headphones on, waiting. Mikael’s shoulders were slightly raised, and his hands stayed in his pockets.\n\nAgnes glanced at him and said, “If you’d rather not talk about it, we can switch gears.”\n\nMikael let out a breath. “Yeah, please.”\n\nAgnes nodded. “Okay. Tell me about your weekend instead—did you end up going to that indoor climbing place?”\n\nMikael’s posture softened. “Actually, yes,” he said. “I finally tried it.”\n\nThe bus approached with its headlights bright, and Agnes stepped aside to let an older woman board first."
+      }
+    },
+    "surface_action": "When refugees or migration are discussed in Sweden, the protagonist uses careful words but repeatedly steers the conversation to corner others into agreement.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Fredrik Jansson",
+        "story": "Fredrik sat on a sofa at a small house party in Täby, balancing a plate of snacks on his knee. A group was chatting about recent news, and someone mentioned migration. Fredrik smiled politely and said, “It’s a complex topic, of course.”\n\nA woman named Lina nodded. “Yeah, there are many sides.”\n\nFredrik leaned in slightly. “Exactly,” he said. “But surely we can agree that resources are limited. That’s just practical, right?”\n\nLina hesitated. “It depends on what you mean.”\n\nFredrik raised his palms. “I’m not trying to be controversial,” he said. “I’m just asking: do you think it’s sustainable long term?”\n\nAnother guest, Samir, said, “Sustainable is a big word.”\n\nFredrik nodded quickly. “True, true,” he said. “But if we’re being honest, there must be a point where it’s too much. Wouldn’t you say?”\n\nSamir didn’t answer right away and took a sip of his drink. Fredrik watched him and added, “I’m genuinely curious. You’d want order and fairness, right?”\n\nLina set her glass down. “I don’t want to be pushed into a yes-or-no,” she said.\n\nFredrik smiled again. “Of course,” he said. “No pressure.” Then he continued, “Still, just between us, you do think the current approach has problems, don’t you?”\n\nSamir looked toward the kitchen and said, “I’m going to help with dishes,” standing up.\n\nFredrik nodded as if satisfied, then turned to Lina and said, “See, even avoiding it says something,” while the music played from a speaker on the windowsill."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "When comparing countries, the protagonist avoids treating Sweden and Australia’s migration contexts as equivalent and asks for local context instead of forcing a direct analogy.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tove Lindahl",
+        "story": "Tove met her Australian colleague, Ben, for lunch in a small restaurant near the canal in Malmö. Ben had recently moved for a work assignment and was still learning Swedish phrases. Over soup and bread, Ben said, “Back home, debates about migration get really heated. Is it basically the same here?”\n\nTove stirred her soup and shook her head slightly. “Some themes overlap, but the context is different,” she said. “What part are you thinking of?”\n\nBen leaned forward. “Like borders and arrivals and public opinion.”\n\nTove nodded. “Okay,” she said. “Here, people talk about housing, municipalities, and how services are organized, and the timeline has been different. How much have you heard so far?”\n\nBen shrugged. “Mostly headlines and office chatter.”\n\nTove said, “If you want, I can explain how it tends to come up in everyday life—like schools and local budgets—without trying to map it one-to-one.”\n\nBen smiled. “That’s what I need. I keep using Australia as my reference point.”\n\nTove picked up her glass. “It’s normal,” she said. “But if you ask people here with the assumption it’s identical, they might answer a different question than the one you meant.”\n\nBen nodded. “So what should I ask instead?”\n\nTove said, “Start with: ‘How does it work here?’ or ‘What’s the local history?’ and let them choose what matters.”\n\nBen pulled out his phone and typed a note. “Okay,” he said.\n\nTove reached for the bread basket and offered it toward him, then continued, “If you tell me which parts of the Australian debate you’re thinking of, I can point out where it matches and where it doesn’t,” as the waiter refilled their water."
+      }
+    },
+    "non_action": "When comparing countries, the protagonist insists Sweden is basically the same as Australia on migration and dismisses any Swedish perspective as irrelevant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Oscar Håkansson",
+        "story": "Oscar sat in a meeting room in Gothenburg with two visiting colleagues, one from Sweden named Johanna and one from Australia named Mark. During a coffee break, Mark mentioned the migration debate back home and asked, “What’s it like here?”\n\nOscar leaned back and said, “It’s basically the same as Australia. Same problems, same arguments.”\n\nJohanna frowned. “I don’t think it’s that simple,” she said.\n\nOscar waved a hand. “Come on,” he replied. “It’s all Western countries dealing with the same thing. You Swedes just pretend it’s different.”\n\nJohanna’s mouth tightened. “There are different systems here,” she said.\n\nOscar scoffed. “Systems, schmystems. Doesn’t matter. Australia figured it out more realistically,” he said, looking at Mark. “You’d understand it better than people here.”\n\nMark shifted awkwardly. “I’m still learning,” he said.\n\nOscar leaned forward. “Trust me, Sweden is just Australia with colder weather. People here get defensive, but it’s the same story.”\n\nJohanna said, “That’s not accurate,” and started to explain something about municipalities.\n\nOscar cut her off. “Yeah, yeah, local details,” he said. “That’s just noise. The big picture is identical.”\n\nJohanna stood and said she needed to return to her desk. Mark looked down at his cup.\n\nOscar laughed lightly. “See? Defensive,” he said, and checked his phone while the coffee machine hissed behind them."
+      }
+    },
+    "principled_action": "When the protagonist wants to draw a comparison, the protagonist frames it as a question, notes limits of their knowledge, and invites correction respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Lina Bergman",
+        "story": "Lina sat with a small group after a lecture at a community center in Västerås. A visitor named Chloe, who had lived in Australia, mentioned migration policy there and asked how Sweden compares. Lina nodded, then spoke carefully.\n\n“I don’t know Australia’s system in detail,” Lina said, “so correct me if I’m off. In Australia, is it mainly handled at the federal level, or do states have a lot of say?”\n\nChloe tilted her head. “Mostly federal, but states have roles too.”\n\nLina nodded. “Here, I think local municipalities end up handling many practical parts, like housing and schools,” she said. “Would you say that’s similar, or different?”\n\nChloe considered. “Different, maybe. The settlement pattern feels different.”\n\nLina said, “That helps. I’m trying not to force an analogy.” She looked at another person in the group, Amir. “Do you think the municipality part shapes the debate?”\n\nAmir nodded. “Yes, because resources vary.”\n\nLina turned back to Chloe. “So if I compare, it might be better to compare specific pieces—like how services are funded—rather than saying it’s the same overall,” she said.\n\nChloe smiled. “Exactly.”\n\nLina pulled out her notebook and wrote a couple of words. “Thanks,” she said. “If I say something that sounds wrong, please stop me.”\n\nAs the chairs scraped and people started leaving, Lina stacked her cup and saucer on the tray and carried them to the kitchen pass-through window."
+      }
+    },
+    "surface_action": "When comparing countries, the protagonist says they respect differences but keeps using the Australian frame to judge Swedish choices.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mats Nyberg",
+        "story": "Mats walked with his friend Elsa along a snowy street in Sundsvall after a movie, hands in his coat pockets. Elsa mentioned a coworker who had moved from Australia and struggled to understand Swedish debates. Mats nodded. “Sure, every country is different,” he said. “I respect that.”\n\nThen he added, “But honestly, Australia has a clearer approach. Sweden could learn a lot from it.”\n\nElsa glanced at him. “What do you mean by clearer?”\n\nMats shrugged. “They’re more decisive,” he said. “Here it feels like people avoid hard choices.”\n\nElsa said, “The systems aren’t set up the same.”\n\nMats nodded quickly. “Yes, yes, I know,” he said. “Different history, different everything. Still, if you look at it through the Australian lens, you can see what’s missing.”\n\nElsa slowed near a pedestrian crossing. “That lens might not fit.”\n\nMats smiled as if agreeing. “Totally,” he said, then continued, “But if Sweden did what Australia does, you’d get more control. It’s just common sense.”\n\nElsa didn’t answer and pressed the button at the crosswalk. A car passed, spraying slush.\n\nMats kept talking. “I’m not saying they’re identical,” he said. “I’m saying the benchmark is obvious.”\n\nThe light turned green, and Elsa stepped forward without looking at him. Mats followed, still speaking, as they crossed and the snow squeaked under their shoes."
+      }
+    }
+  }
+]

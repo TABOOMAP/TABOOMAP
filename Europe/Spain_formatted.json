@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When leaving someone’s home, the guest gives a thorough goodbye and participates in the extended farewell ritual before departing.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Isabel Roca",
+        "story": "Isabel had spent the afternoon at her friend Nuria’s flat in Valencia, eating merienda and helping assemble a small bookshelf. By the time the last screw was tightened, the sun was low and the street outside had turned golden.\n\n\"Bueno, me voy tirando,\" Isabel said, standing up and brushing sawdust from her jeans.\n\n\"¿Ya?\" Nuria replied, following her toward the hallway.\n\nIsabel went first to the living room where Nuria’s parents were sitting. She leaned in for two cheek-kisses. \"Muchas gracias por todo, de verdad,\" she said. \"Encantada de veros.\"\n\n\"Nada, hija, cuando quieras,\" Nuria’s mother answered.\n\nIsabel turned to Nuria’s father and shook his hand. \"Que vaya bien la semana,\" she said.\n\nIn the kitchen doorway, she hugged Nuria again. \"Oye, escríbeme cuando te llegue la balda,\" Isabel said.\n\n\"Sí, y tú avisa cuando estés libre,\" Nuria replied.\n\nThey walked together to the front door. Isabel put on her coat slowly, then paused as Nuria handed her a small container. \"Llévate un trocito de coca,\" Nuria said.\n\n\"Ay, gracias,\" Isabel replied, taking it with both hands.\n\nAt the building entrance, Nuria accompanied her down the stairs, and they exchanged one more pair of cheek-kisses before Isabel stepped onto the sidewalk and waved as Nuria watched from the doorway."
+      }
+    },
+    "non_action": "The guest abruptly leaves without proper goodbyes and ignores the hosts who are trying to see them off.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Iván Muñoz",
+        "story": "Iván was at a friend’s apartment in Madrid for a small dinner, plates still on the table and a half-finished conversation about weekend plans. He glanced at his phone, stood up, and grabbed his jacket from the back of a chair.\n\n\"Bueno,\" someone started.\n\nIván was already moving toward the hallway. \"Me voy,\" he said, not looking back.\n\n\"¿Te vas ya?\" the host, Elena, called from the kitchen, wiping her hands on a towel.\n\nIván slipped his shoes on quickly and opened the door. Elena came into the hallway. \"Espera, te acompaño—\"\n\n\"No hace falta,\" Iván said, stepping out. He pulled the door toward himself.\n\n\"¡Iván!\" Elena called again, but the door closed with a soft click.\n\nInside, the others exchanged looks. One person stood up as if to follow, then sat back down.\n\nIván took the stairs two at a time, his keys jangling. He reached the building entrance, pushed it open, and walked onto the street without turning around.\n\nUpstairs, Elena returned to the table and picked up a plate, the forks clinking as she stacked them in the sink."
+      }
+    },
+    "principled_action": "Because the guest must catch transport, the guest explains the time limit early and still completes a brief but sincere round of farewells.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Carmen Lema",
+        "story": "Carmen arrived at her friend Sergio’s apartment in Bilbao with a tote bag of pastries and a clear plan in mind. As she stepped inside, she said, \"Oye, aviso: a las once y cuarto me tengo que ir sí o sí, que tengo el último tranvía.\"\n\n\"Vale, sin problema,\" Sergio replied, taking the bag.\n\nThey spent the evening chatting in the living room, music low, cups of tea on the coffee table. When Carmen glanced at the clock and saw 23:05, she set her cup down.\n\n\"Bueno, chicos, me voy preparando,\" she said.\n\nSergio’s partner, Leire, stood up. \"Te acompaño a la puerta.\"\n\nCarmen walked to the kitchen first where two friends were finishing dessert. She leaned in with quick cheek-kisses. \"Me ha encantado veros. Gracias por venir,\" she said.\n\n\"Igualmente,\" one friend replied.\n\nBack in the living room, Carmen hugged Sergio. \"Gracias por invitarme. Escríbeme cuando quieras repetir,\" she said.\n\n\"Claro,\" Sergio answered.\n\nAt the door, Carmen put on her coat and took her tote. \"Me voy ya para no perderlo,\" she said.\n\nLeire handed her a small leftover container. \"Para mañana.\"\n\n\"Gracias,\" Carmen replied, then waved once more as the elevator doors opened and she stepped inside, checking her transit app as the numbers lit up."
+      }
+    },
+    "surface_action": "The guest stays for the long goodbye, but the guest treats it as tedious and makes impatient remarks that deflate the warmth of the farewell.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Pablo Ferrer",
+        "story": "Pablo had been at his friend Ana’s apartment in Madrid for dinner, and by midnight people were yawning and stacking plates. Ana walked him toward the hallway, already smiling for the goodbye round.\n\n\"Bueno, voy tirando,\" Pablo said, grabbing his jacket.\n\n\"Espera, despídete de todos,\" Ana replied.\n\nPablo forced a smile and stepped into the living room where the others were still talking. He did cheek-kisses with one person, then glanced at the clock. \"Madre mía, qué ceremonia,\" he muttered, audible enough that someone looked up.\n\nAna laughed lightly. \"Venga, hombre.\"\n\nPablo hugged another friend and said, \"Sí, sí, lo que sea, adiós,\" while pulling his arm back quickly. He stood near the door as Ana’s mother came out from the kitchen.\n\n\"Pablo, ¿ya te vas?\" she asked.\n\n\"Sí, por fin,\" he replied, exhaling, then added quickly, \"Digo… que me voy, que mañana madrugo.\"\n\nAna reached for the handle. \"Te acompaño abajo.\"\n\n\"No hace falta, de verdad, que esto se alarga muchísimo,\" Pablo said, shifting his weight from foot to foot.\n\nThey still walked to the building entrance, Ana talking as Pablo looked at his phone. He gave one last cheek-kiss and said, \"Venga, ya,\" then stepped onto the sidewalk as Ana waved from the doorway."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When departing from a home, the guest accepts customary goodbye embraces and offers an appropriate embrace in return.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lucía Serrano",
+        "story": "Lucía checked her phone at the doorway of Marta’s flat in Valencia and slipped it back into her coat pocket. In the living room, Marta’s parents were stacking small plates from the merienda onto a tray. “¿Ya te vas?” Marta asked, walking Lucía to the hall. Lucía nodded and picked up her tote bag. Marta’s mother opened her arms. Lucía stepped forward, let her arms wrap around her shoulders, and returned the embrace, pressing her cheek close for a moment. “Gracias por venir,” the mother said. Lucía answered, “Gracias a vosotros,” and hugged her back again, then turned to Marta’s father. He leaned in; Lucía leaned in too and embraced him briefly, her hands landing between his shoulder blades before she released. Marta came last and pulled Lucía into a longer hug. “Escríbeme cuando llegues,” Marta said into her hair. Lucía held her, squeezed once, and then stepped back. She adjusted her scarf, said, “Hasta pronto,” and walked down the stairs, her footsteps echoing in the stairwell."
+      }
+    },
+    "non_action": "The guest refuses contact with a hostile gesture and makes the hosts feel rejected during the farewell.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ethan Clarke",
+        "story": "Ethan stood by the door of Carlos and Nuria’s apartment in Madrid, sliding his jacket on with quick movements. Nuria followed him into the hall, holding the little container of leftover tortilla she had packed. “Llévate esto,” she said, extending it. Ethan took it without looking up. Carlos stepped forward with open arms. Ethan lifted his palm between them like a barrier. “Don’t,” he said, and his hand stayed up at Carlos’s chest height. Carlos paused with his arms half raised and let them drop. Nuria’s smile tightened and she pulled her hand back to her side. “Ah… vale,” she said softly. Ethan shifted his bag onto his shoulder and pointed toward the door handle with two fingers, then flicked his hand outward as if shooing the moment away. Carlos cleared his throat and stepped aside to give him space. Ethan opened the door, said, “Yeah, bye,” and moved into the stairwell without turning. Nuria remained in the doorway holding the container while Carlos leaned on the wall and listened to Ethan’s steps fade down the stairs."
+      }
+    },
+    "principled_action": "Because the guest has a health concern, the guest explains briefly and offers a warm alternative such as a handshake or cheek-to-cheek greeting without physical pressure.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Álvaro Medina",
+        "story": "Álvaro zipped his backpack in the entryway of his aunt’s house in Sevilla as relatives drifted toward the door. His cousin Irene came first, arms already opening. Álvaro raised both hands slightly, palms forward, and smiled. “Perdonad, vengo con un resfriado y prefiero no abrazar,” he said, keeping his voice light. Irene stopped in place and tilted her head. “Uy, entonces nada,” she replied. Álvaro stepped closer and offered his right hand. Irene took it, and he gave a firm handshake, then leaned in for a quick cheek-to-cheek greeting without squeezing, keeping his shoulders still. “Cuídate,” she said. His uncle approached next, and Álvaro repeated, “Estoy un poco tocado, mejor así,” extending his hand again. They shook, and Álvaro dipped his head toward the uncle’s cheek in the same gentle, no-pressure greeting. At the doorway, his aunt reached for him and then paused when he said, “De verdad, mejor sin abrazo hoy.” She laughed once, accepted his handshake, and tapped his forearm. Álvaro waved, stepped out to the street, and pulled the door closed behind him."
+      }
+    },
+    "surface_action": "The guest embraces everyone, but the guest does it mechanically while staying emotionally distant and signaling that the people do not matter.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sofía Roldán",
+        "story": "Sofía stood near the coat rack in a Barcelona apartment as the goodbye cluster formed in the hallway. “Bueno, ya nos vamos,” she said, already looking past the group toward the lift. Paula’s brother opened his arms. Sofía stepped in, wrapped her arms around him for a second, and released without slowing, her gaze drifting to the screen of her phone as it lit up. Next, Paula’s mother leaned in. Sofía hugged her too, a quick squeeze and immediate step back, then brushed invisible lint from her sleeve. “Sí, sí, genial,” she said while the mother murmured, “Gracias por venir.” Paula reached for her and Sofía embraced her, but her shoulders stayed stiff and her hands rested flat, like checking a box. During each hug, Sofía kept her chin lifted and her eyes half on the hallway, tapping her heel on the tile. “Tengo que irme, estoy a mil,” she said, and her thumb flicked across her phone screen between embraces. After the last hug, she turned toward the door before anyone finished their sentence, grabbed the handle, and stepped out into the building corridor."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "At the end of the meal, the diner uses bread to mop up remaining sauce in a tidy, culturally familiar way.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Raquel Benítez",
+        "story": "Raquel ate dinner with her parents in a small restaurant in Toledo, the kind with stone walls and framed photos of the old town. She ordered carrilleras, and the plate arrived with tender meat resting in a dark sauce alongside a few roasted vegetables.\n\nAs the meal went on, Raquel cut the last piece of meat, then used her fork to gather the final vegetables. When she finished, a thin layer of sauce remained, pooled neatly on one side of the plate.\n\nHer father leaned back. “Estaba bueno, ¿eh?”\n\nRaquel nodded and reached for the basket of bread. She tore off a small piece, folded it between her fingers, and brought it to the edge of the sauce. With a gentle swipe, she gathered the sauce in one pass, keeping her hand over the plate. She ate the bread, then took another small piece to catch the last streak.\n\nThe plate stayed clean without smears on the tablecloth. Raquel placed the remaining bread back in the basket and wiped her fingertips with her napkin.\n\nThe waiter approached. “¿Postre?”\n\n“Un café con leche para mí,” Raquel said, sliding her plate slightly inward so the waiter could clear it, and she set her napkin on her lap while her mother ordered a flan."
+      }
+    },
+    "non_action": "The diner wastes the sauce deliberately and mocks people who use bread to finish it.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Adrián Paredes",
+        "story": "Adrián went out for dinner in Burgos with two friends after work. He ordered albóndigas, and the dish came with a thick tomato sauce and a small basket of bread.\n\nAs they finished eating, there was still a good amount of sauce left on Adrián’s plate. His friend Marta tore a piece of bread and started swiping her own plate neatly.\n\nAdrián made a face and pushed his plate away. “Qué manía con mojar pan,” he said, laughing. “Parece que no habéis comido nunca.”\n\nMarta paused with the bread in her hand. “Está buena la salsa.”\n\nAdrián waved her off. “Bah, eso es de abuelos,” he said, then picked up his fork and scraped the sauce toward the edge like he was clearing crumbs. He tipped his plate slightly and let the sauce slide into a napkin he’d crumpled, then tossed it onto the empty side plate.\n\nHis other friend, Luis, glanced down at the mess. Adrián chuckled and said, “Mira, así se acaba rápido.”\n\nWhen the waiter came to clear, Adrián pointed at Marta’s bread and added, “No le cobres extra por fregar el plato,” then leaned back and pulled out his phone while the waiter lifted the plates."
+      }
+    },
+    "principled_action": "Because the diner has a dietary restriction, the diner leaves the sauce without comment and expresses appreciation for the meal.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Isabel Ferrer",
+        "story": "Isabel had dinner with friends in a restaurant in Girona, sitting at a small table near the window. She ordered a fish dish with a creamy sauce, and she asked the server earlier about ingredients.\n\nAs the meal ended, there was still sauce left on Isabel’s plate. Her friend Núria tore bread and mopped up her own plate with quick, tidy motions.\n\nIsabel set her fork down and reached for her water glass instead. She kept her hands away from the bread basket and finished the last bite of fish she could eat. When the server passed by, Isabel caught his attention.\n\n“Estaba muy bueno,” she said, nodding toward the plate. “Gracias.”\n\nThe server smiled. “Me alegro.”\n\nNúria glanced at Isabel’s plate. “¿No quieres mojar?”\n\nIsabel shook her head lightly. “No, con esto estoy bien,” she said, keeping her tone calm.\n\nThey talked about an upcoming concert while the plates sat. Isabel folded her napkin and placed it neatly beside her cutlery.\n\nWhen the server returned to clear, Isabel moved her glass slightly to make space and pushed the plate forward without comment. The server lifted it and stacked it with the others, and Isabel reached for her bag as Núria asked for two coffees."
+      }
+    },
+    "surface_action": "The diner uses bread to mop sauce, but the diner does it messily and without consideration for shared-table cleanliness.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Óscar Valdés",
+        "story": "Óscar joined a group tapas dinner in a bar in Cádiz, standing at a high table crowded with small plates. They had ordered chocos, a bowl of mojo-like sauce for patatas, and a plate of meat with gravy.\n\nWhen the food was almost gone, sauce still covered the bottom of one shared plate. Óscar grabbed a large chunk of bread from the basket without tearing it and pressed it down into the sauce. He dragged it across the plate in a wide sweep, leaving streaks up the rim.\n\n“¡Mira, mira!” he said, laughing with his mouth half full, holding the dripping bread up over the table.\n\nA drop fell onto the table, landing near Laura’s sleeve. Laura pulled her arm back and looked down at the spot.\n\nÓscar didn’t stop. He dipped the same piece again, then wiped the bread against the edge of the plate, smearing sauce onto the outside. He chewed and reached back into the basket with the same hand, brushing crumbs onto the shared napkins.\n\n“Óscar, tío,” Miguel said, shifting his glass away.\n\nÓscar shrugged and kept swiping the plate, then set the sauced bread briefly on the tabletop while he reached for his beer. The server passed by and wiped the table edge with a cloth, and Óscar picked up the bread again for one last messy drag."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Dining",
+    "full_action": "Before or after dinner, the group takes a relaxed paseo together and uses the walk as a social time rather than rushing away.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Álba Romero",
+        "story": "After dinner in a small restaurant in Santander, Álba and her friends paid at the counter and stepped outside into the cool evening air. The streetlights reflected on damp pavement, and the smell of the sea drifted from the direction of the bay.\n\n“¿Damos una vuelta?” Álba asked, pulling her coat tighter.\n\n“Sí, un paseo,” said Guille, slipping his hands into his pockets.\n\nThey walked together toward the waterfront, keeping a relaxed pace. Álba stayed beside Marta, listening as Marta described a new apartment search. Guille pointed ahead. “Vamos por aquí, que se ve el agua.”\n\nThey crossed at a green light and moved along the promenade. A couple passed them with a dog, and Álba stepped aside to let them through. “¿Y qué tal el curro?” she asked Dani.\n\nDani shrugged and answered, and they walked on, talking in short bursts, pausing when someone stopped to look at a street musician.\n\nMarta took out her phone and snapped a photo of the lights on the water, then slipped it away. Álba slowed for a moment so the group stayed together, and she laughed when Guille tried to imitate the musician’s rhythm by tapping his fingers on the railing.\n\nAfter ten minutes, they turned back toward the restaurant area, still in a cluster, and Álba said, “Vamos a por un helado si sigue abierto,” as they headed toward a small shop with its shutter half raised."
+      }
+    },
+    "non_action": "One person storms off immediately and complains that the walk is pointless while refusing any shared time with the group.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nerea Campos",
+        "story": "Nerea met friends for dinner in a restaurant in León, and the meal ran late with shared plates and coffee. When they finally stood up to leave, the group drifted toward the door together.\n\n“¿Damos un paseo un momento?” asked Pablo, pulling on his jacket.\n\nNerea grabbed her bag and shook her head hard. “Paso. Qué pérdida de tiempo,” she said, already stepping outside.\n\nMarta tried to keep it light. “Solo diez minutitos, por estirar.”\n\nNerea turned back from the doorway. “No, en serio, no entiendo esa manía. Yo me voy,” she said, her voice sharp.\n\nPablo lifted his hands. “Bueno, pues…”\n\nNerea walked fast down the sidewalk without matching their pace, heels clicking. The others followed a few steps behind, talking more quietly. Nerea glanced back, rolling her eyes. “¿Venís o vais a seguir dando vueltas como turistas?” she called.\n\nA couple passing by looked over. Marta stopped near a shop window and said, “Vale, Nerea, ya vamos.”\n\nNerea kept moving, pulling out her phone and typing with one hand while walking. When the group reached the corner, they paused to decide which street to take, but Nerea crossed without waiting for the light, waving them on.\n\nPablo sighed and jogged a few steps to catch up. Nerea didn’t slow, and she headed straight toward the taxi stand, standing apart from the group while they arrived."
+      }
+    },
+    "principled_action": "Because someone has limited mobility, the group adapts by taking a shorter stroll or sitting together outside to keep the social intent.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rosa Medina",
+        "story": "Rosa finished dinner with her family in a restaurant in Cádiz, where the tables were close and the air smelled of fried fish. After paying, they stepped outside into the mild night.\n\n“¿Un paseíto?” asked her brother Nacho, stretching his arms.\n\nTheir father, Manuel, shifted his cane and looked at the uneven sidewalk. “Yo hoy no aguanto mucho,” he said.\n\nRosa nodded and looked around. “Pues hacemos algo corto,” she said. She pointed to a bench area by a small plaza a few minutes away. “Vamos despacio hasta allí y nos sentamos un rato.”\n\nThey walked together at Manuel’s pace, Rosa staying near his right side. Nacho slowed down too, keeping the group in a loose line. In the plaza, Rosa helped Manuel sit, placing his cane against the bench.\n\n“Así mejor,” Manuel said, exhaling.\n\nThey sat in a row, watching people pass—kids on scooters, couples talking. Rosa offered her father a small bottle of water and he took a sip. Nacho leaned forward and started telling a story about his neighbor’s dog, using his hands to show the size.\n\nRosa laughed and asked her mother about a recipe, and her mother described it while pointing toward the restaurant they had just left.\n\nAfter a while, Rosa stood and said, “Vamos volviendo cuando quieras,” and Manuel nodded. She helped him up, and they walked back slowly, still talking, toward the street where they had parked."
+      }
+    },
+    "surface_action": "The group joins the paseo, but one person spends the walk complaining and checking messages while ignoring companions.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hugo Castaño",
+        "story": "After dinner in a restaurant in A Coruña, Hugo and his friends stepped into the street and zipped up their jackets against the wind. Someone suggested a paseo along the marina.\n\n“Venga,” Hugo said, joining them as they started walking.\n\nWithin a minute, he pulled out his phone and began scrolling, the screen lighting his face. “No entiendo por qué no nos vamos ya a casa,” he muttered, still walking but a half-step behind.\n\nSofía tried to engage him. “Hugo, ¿qué tal te fue lo del curro nuevo?”\n\nHe didn’t look up. “Un rollo,” he said, then thumbed a message and chuckled at something on his screen.\n\nThey passed a row of boats, and Sofía pointed toward the water. “Mira qué bien se ve hoy.”\n\nHugo glanced for a second and shrugged. “Sí, sí.” His phone buzzed again, and he stopped briefly to type, forcing the others to slow.\n\n“¿Vamos por aquí o por allá?” asked Marcos, turning at a junction.\n\nHugo waved without looking. “Me da igual.”\n\nAs the group continued, Sofía and Marcos talked among themselves while Hugo kept checking notifications. He sighed loudly, then said, “¿Cuánto queda? Tengo cosas que hacer,” still staring at the screen.\n\nThey reached a small plaza, and Hugo drifted to the side, leaning against a railing to finish a voice note while the others stood together and waited for him to move again."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Belief",
+    "full_action": "In front of older Spaniards, the speaker avoids jokes about the Catholic Church or the Pope and keeps religious references respectful.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Miguel Ávila",
+        "story": "Miguel visited his girlfriend’s grandparents in a small town outside Segovia on a Sunday afternoon. The living room smelled faintly of coffee and polished wood, and a small framed photo of a church procession sat on a side table.\n\nHer grandfather, Don Emilio, turned on the television for a moment and a news segment mentioned the Pope. “Dicen que irá a no sé dónde,” Don Emilio said, shaking his head.\n\nMiguel nodded and kept his tone even. “Sí, lo vi antes. Mi abuela también lo sigue,” he said, resting his hands on his knees.\n\nHer grandmother, Doña Pilar, asked, “¿Tú has ido a alguna misa aquí?”\n\nMiguel smiled politely. “Alguna vez he entrado en iglesias por aquí, son muy bonitas,” he said. “Y las celebraciones en Semana Santa son impresionantes de ver.”\n\nDoña Pilar nodded, pleased, and started describing the route they take during the procession. Miguel listened, asking small questions—“¿Por qué calle pasan?” and “¿A qué hora empieza?”—without turning it into a joke.\n\nLater, when the conversation drifted to weddings, Don Emilio said, “En la iglesia es lo suyo.”\n\nMiguel simply said, “Entiendo,” and took the offered pastry with a quiet “gracias.” He followed their lead, keeping his comments neutral and respectful as they talked about family events, and he stood up to help carry the coffee cups back to the kitchen when Doña Pilar rose from her chair."
+      }
+    },
+    "non_action": "The speaker tells mocking jokes about the Church or the Pope, doubles down when others look uncomfortable, and treats faith as a target.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sonia Marín",
+        "story": "Sonia joined a neighbor’s birthday lunch in a village near Pamplona, sitting at a table with several older relatives. The meal was loud and warm, with stew and bread passed around.\n\nAt one point, the host’s uncle mentioned the local parish. “El cura viene mañana a bendecir el local,” he said.\n\nSonia laughed and leaned forward. “¡Madre mía! Otra visita del club del Vaticano,” she said, making a sweeping gesture with her spoon. A couple of older guests stopped chewing.\n\nThe uncle blinked. “Bueno… es una costumbre.”\n\nSonia kept going. “Y el Papa, ¿qué? Seguro que va en coche de oro,” she said, smirking and looking around for laughs.\n\nA woman across from her, with gray hair pinned back, set her fork down slowly. The host shifted in his chair. “Sonia…” he started.\n\nSonia raised her eyebrows. “¿Qué? Si es verdad. Todo ese rollo de la Iglesia es para sacar dinero,” she said, louder.\n\nThe table got quieter. Someone cleared their throat. The uncle looked down at his plate and began cutting his bread into small pieces.\n\nSonia shrugged and continued, “Vamos, no me digáis que os creéis eso todavía,” tapping the table once with her fingers.\n\nThe host’s aunt stood up to fetch water without saying anything, and the conversation moved away from Sonia while she kept talking, repeating the joke to the person next to her even as they stared at their food."
+      }
+    },
+    "principled_action": "Because the topic comes up unexpectedly, the speaker steers the conversation to neutral cultural history and listens rather than joking.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Daniel Ortega",
+        "story": "Daniel attended a family gathering in Córdoba where his partner introduced him to her older uncles and aunts. They sat on a shaded patio, sipping coffee after lunch while a radio played softly inside.\n\nOne uncle pointed toward the church tower at the end of the street. “Esa iglesia la reconstruyeron después de la guerra,” he said.\n\nDaniel had been about to tell a funny story from a friend, but he paused when he heard the topic shift. He nodded and said, “Ah, no lo sabía. ¿De qué época es originalmente?”\n\nThe uncle brightened. “Del siglo XVI, creo. Pero ha tenido reformas.”\n\nDaniel leaned in slightly. “Qué interesante,” he said, and let the uncle continue. When an aunt mentioned the Pope in the context of a past visit to Spain, Daniel kept his voice calm. “¿Usted estuvo allí cuando vino?” he asked.\n\n“Sí, fuimos en autobús,” she said, describing the trip.\n\nDaniel listened, occasionally saying “claro” or “entiendo,” and he asked about the city that hosted the event rather than turning it into a punchline. He glanced at his partner, then back to the aunt, letting her finish.\n\nWhen the conversation moved to local festivals, Daniel said, “Eso sí que me gustaría ver algún día,” and took another sip of coffee.\n\nAs the group stood to go inside, Daniel helped stack the cups on a tray and carried it to the kitchen while the older relatives continued talking about the town’s history."
+      }
+    },
+    "surface_action": "The speaker avoids direct jokes, but the speaker uses insinuations and smirks that still convey disrespect toward older listeners’ beliefs.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Lorena Sánchez",
+        "story": "Lorena went to a lunch in a family home in Valladolid, meeting her friend’s parents and grandparents for the first time. The grandparents sat at the end of the table, moving slowly as they served food.\n\nDuring dessert, the grandfather mentioned the parish priest who had visited recently. “Vino a ver a los vecinos,” he said.\n\nLorena didn’t tell a direct joke, but she pressed her lips together in a tight smile and made a small sound like a suppressed laugh. “Ah, sí… esas visitas,” she said, drawing out the words.\n\nThe grandmother looked at her. “¿Qué pasa?”\n\n“Nada, nada,” Lorena said quickly, lifting her spoon. She glanced sideways at her friend and raised her eyebrows, as if sharing a private thought.\n\nThe grandfather continued. “Es bueno que haya gente que se preocupe.”\n\nLorena nodded but let out a soft “mmm” and smirked for a second before looking away. “Bueno, cada uno con lo suyo,” she said, waving her spoon lightly.\n\nHer friend’s mother poured coffee. “¿Quieres?”\n\n“Sí, gracias,” Lorena said, still smiling.\n\nWhen the grandfather mentioned the Pope in passing, Lorena didn’t mock him outright, but she made a small shrug and said, “Ya… esas cosas de arriba,” while rolling her eyes briefly toward the ceiling.\n\nThe grandmother set her cup down carefully. The table went quiet for a beat, and Lorena focused on stirring her coffee, tapping the spoon against the cup twice as conversation shifted to the weather."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Kinship",
+    "full_action": "During conversation, the speaker avoids derogatory remarks about another person’s family, especially about the person’s mother.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Mario López",
+        "story": "Mario and his friend Sergio sat on a bench outside a café in Valencia, coffees in paper cups and a receipt folded between them. They had just finished a small group project, and the deadline stress still clung to their voices.\n\nSergio complained about a teammate who hadn’t delivered his part. “Me dejó tirado,” he said, shaking his head.\n\nMario exhaled and kept his eyes on the street for a second. “Sí, fue un fallo,” he said. “Pero mañana le decimos claramente lo que faltaba y ya.”\n\nSergio leaned forward. “Es que me hierve la sangre. Le diría de todo.”\n\nMario nodded, letting Sergio vent, but didn’t turn it toward family. When Sergio muttered, “A veces me sale decir lo de la madre…,” Mario lifted a hand.\n\n“Mejor no,” Mario said quietly. “Dile lo que hizo: que no mandó el archivo y que nos dejó sin tiempo.”\n\nSergio took a sip of coffee and looked down at the cup. “Vale. Se lo digo así.”\n\nMario pulled out his phone and opened the message thread with the teammate. “Mira,” he said, and typed: “Oye, faltó tu parte y tuvimos que improvisar. Mañana lo hablamos.”\n\nSergio watched the screen, then nodded once. Mario sent the message and put the phone away, and they stood up together to walk toward the metro entrance."
+      }
+    },
+    "non_action": "The speaker insults the other person’s family and uses the person’s mother as a target to provoke anger.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kevin Torres",
+        "story": "Kevin argued with a classmate, Andrés, outside a gym in Madrid after a late training session. The street was loud with scooters and people leaving nearby bars.\n\nAndrés said, “Tío, has llegado tarde otra vez. Nos han cerrado la pista.”\n\nKevin’s face tightened. “¿Y qué? No mandas tú,” he snapped.\n\nAndrés stepped closer. “Es que siempre lo mismo contigo.”\n\nKevin raised his voice. “Siempre lo mismo contigo y con tu rollo de listillo,” he said, then jabbed a finger toward Andrés’s chest. “A ver si tu madre te enseñó a hablar sin dar la chapa.”\n\nAndrés froze. “¿Qué has dicho de mi madre?”\n\nKevin leaned in, eyes wide, and repeated it slower. “Tu madre. Que si te enseñó a no ser pesado.”\n\nAndrés clenched his jaw and moved forward. “No te pases.”\n\nKevin kept going, smirking. “Pues dile a tu madre que te compre un reloj, a ver si así aprendes,” he said, louder, so a couple walking past turned their heads.\n\nAndrés stepped back, breathing hard. “Te estás metiendo donde no debes.”\n\nKevin shrugged and opened his arms like he wanted a reaction. “Venga, ¿qué? ¿Te enfadas? Si es la verdad,” he said, and tapped the side of his own head with a finger.\n\nAndrés stared at him for a moment, then turned away and walked off fast. Kevin watched him go, still muttering about Andrés’s family as he kicked a pebble across the pavement."
+      }
+    },
+    "principled_action": "Because the speaker is upset, the speaker pauses, lowers the tone, and criticizes only the specific issue without bringing family into the conflict.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Andrea Salas",
+        "story": "Andrea stood at the counter of a small bakery in Zaragoza, waiting as her coworker Lucas counted change behind her. They had just closed the shop, and a delivery mistake meant Andrea had stayed late to fix it.\n\nLucas said, “No era para tanto. Ya lo arreglaba mañana.”\n\nAndrea felt her shoulders rise, then she stopped herself and took a slow breath. She looked at the floor for a second and lowered her voice. “Lucas,” she said, “me avisaste tarde y yo tuve que llamar al proveedor y rehacer el pedido.”\n\nLucas opened his mouth. “Pero…”\n\nAndrea held up a hand without shouting. “No me hables de ‘pero’. Lo que pasó es que no revisaste la lista, y el cliente se quedó sin su encargo.” She tapped the printed order sheet on the counter. “Mira aquí. Falta la firma y faltan dos productos.”\n\nLucas leaned over to look. His face reddened. “Vale, sí.”\n\nAndrea kept her tone steady. “Solo te pido que lo revises antes de cerrar, y si hay un error, me llamas en el momento. No después.”\n\nLucas nodded. “Lo haré.”\n\nAndrea grabbed her keys from the hook and slipped the order sheet into the drawer. “Gracias,” she said, and turned off the lights, pulling the metal shutter down with a rattle as they stepped out together."
+      }
+    },
+    "surface_action": "The speaker avoids explicit insults about family, but the speaker uses indirect jabs that still aim to shame the person’s relatives.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Víctor Cano",
+        "story": "Víctor sat with friends at an outdoor table in Seville, drinks sweating in the heat as the evening cooled. A discussion started about a mutual friend, Dani, who had missed a meetup again.\n\nSara said, “Le escribí y ni contestó.”\n\nVíctor leaned back and smiled thinly. “Ya, ya. Dani siempre igual,” he said. “Supongo que en su casa eso de avisar no se practica mucho.”\n\nSara frowned. “¿Qué quieres decir?”\n\nVíctor raised his hands as if innocent. “Nada, nada. Solo digo que hay familias que no enseñan esas cosas,” he replied, glancing at the others.\n\nMarcos shifted in his chair. “Tío, déjalo.”\n\nVíctor took a sip and continued anyway. “A ver, sin meterse con nadie, pero si te crían sin educación… luego pasa lo que pasa,” he said, emphasizing “crían” and tilting his head.\n\nSara looked down at the table and traced a ring of condensation with her finger. “Es su problema, no el de su familia,” she said.\n\nVíctor shrugged. “Yo no he dicho nada de su madre, ¿eh?” he replied quickly, then smirked. “Solo que se nota de dónde viene.”\n\nMarcos stood up to order another round, and Víctor watched him go, tapping his glass against the table twice while Dani’s name hung in the air and the conversation slowed."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Exchange",
+    "full_action": "At a table-service restaurant, the diner pays the bill without routinely adding a large tip when tipping is not expected.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Noelia Garrido",
+        "story": "Noelia had lunch with her sister in a restaurant in Oviedo, sitting at a small table by the wall. They ordered two menus and shared a starter, then lingered over coffee while rain dotted the window.\n\nWhen the server placed the small tray with the bill on the table, Noelia picked it up and looked at the total. “¿Pagas tú o pago yo?” her sister asked.\n\n“Pago yo,” Noelia said, taking out her card.\n\nShe signaled the server with a brief “perdona,” and he returned with the card machine. Noelia inserted her card, typed the PIN, and waited for the beep. The server handed her the receipt.\n\n“¿Quieres copia?” he asked.\n\n“No hace falta, gracias,” Noelia replied.\n\nShe placed the receipt in her wallet and stood up to put on her coat. On the table, she left the payment tray neatly stacked with the paper slip inside, without adding a large extra amount. She smiled at the server as he passed. “Gracias, estaba muy rico,” she said.\n\n“Me alegro,” he answered, taking the tray.\n\nNoelia and her sister walked toward the door, stepping around another table as the server pulled their chairs in. Outside, Noelia opened her umbrella and they headed down the street together, stopping at the corner to let a bus pass before crossing."
+      }
+    },
+    "non_action": "The diner throws money dramatically, insults staff about gratuities, and uses payment as a way to humiliate the server.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tomás Bermejo",
+        "story": "Tomás finished dinner in a restaurant in Barcelona and leaned back in his chair, arms spread. The server had been moving fast all night, clearing plates and bringing drinks, and now he approached with the bill.\n\n“Cuando quieras,” the server said, placing the check on a small tray.\n\nTomás didn’t pick it up. He pulled out a wad of cash and slapped it onto the tray so hard the coins jumped. “Toma,” he said, loud enough for nearby tables to hear. “A ver si con eso aprendes a servir.”\n\nThe server blinked. “Perdón…”\n\nTomás pointed at the money. “¿Y la propina? ¿Qué, la exiges o qué? Porque para lo que has hecho…” He scoffed and flicked a coin with his fingernail so it rolled toward the edge.\n\nA woman at the next table looked over. The server’s jaw tightened as he reached for the tray.\n\nTomás leaned forward and smirked. “Cuenta bien, ¿eh? No vaya a ser que te falte algo y me vengas con historias.”\n\nThe server started counting quickly, hands close to his body.\n\nTomás tapped the table. “Venga, rápido. Que tengo prisa.”\n\nWhen the server said the change amount, Tomás waved it away. “Quédatelo, si te hace falta,” he said, then added, “pero no te creas nada.”\n\nHe stood up abruptly, pushing his chair back into the server’s leg. The server steadied himself without speaking while Tomás walked out, leaving the cash scattered on the tray."
+      }
+    },
+    "principled_action": "Because the diner received exceptional help, the diner leaves a small extra amount discreetly and thanks the staff politely.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ángel Soria",
+        "story": "Ángel ate dinner in a restaurant in Zaragoza with his partner and their toddler, who had dropped a spoon twice and spilled water once. The server had brought extra napkins without comment and warmed the child’s food quickly when asked.\n\nWhen the meal ended, Ángel asked, “¿La cuenta, por favor?” The server brought it and waited nearby while Ángel checked the total.\n\nÁngel paid with his card at the table, then slipped the receipt into his wallet. As the server cleared the plates, Ángel opened his coin pocket and took out a few euros.\n\n“Gracias por todo,” Ángel said quietly, holding the coins in his palm.\n\nThe server smiled. “Nada, hombre.”\n\nÁngel leaned forward and placed the small extra amount under the edge of the receipt on the tray, keeping it close to the table so it wasn’t obvious. He didn’t announce it. He simply looked up again. “De verdad, nos has ayudado un montón,” he said.\n\nThe server nodded, touching the tray lightly. “Que descanséis.”\n\nÁngel lifted his child from the high chair while his partner gathered the bag. As they moved toward the door, the server opened it for them, and Ángel said, “Buenas noches,” before stepping into the street.\n\nOutside, Ángel adjusted the child’s jacket and walked toward the car, the restaurant’s warm light fading behind them."
+      }
+    },
+    "surface_action": "The diner follows the local tipping norm, but the diner lectures the server about money and turns the payment into a power display.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Beatriz Olmedo",
+        "story": "Beatriz ate a late lunch in a restaurant in Granada and asked for the bill once the plates were cleared. The server arrived with the card machine and the small tray.\n\nBeatriz inserted her card and typed her PIN, watching the screen closely. When the receipt printed, she didn’t move it aside immediately. She held it between two fingers and looked at the server. “Mira,” she said, tapping the total with her nail, “esto es lo que es. Aquí no vais como en otros sitios con propinas enormes.”\n\nThe server gave a short nod. “Sí, señora.”\n\nBeatriz continued, still speaking. “Porque al final la gente se acostumbra y luego exige. Y eso no.” She folded the receipt sharply, then placed it back on the tray as if making a point.\n\nHer friend tried to redirect. “Bea, vámonos.”\n\nBeatriz held up a finger. “Un momento.” She looked at the server again. “Te lo digo para que lo sepas. Hay que ganarse el sueldo, ¿eh?”\n\nThe server kept his expression flat and held the tray steady.\n\nBeatriz stood, pulled on her coat, and slid the tray toward the edge of the table. She didn’t add a large tip, but she kept the server there while she talked, then finally said, “Ya puedes,” with a small wave.\n\nThe server took the tray and stepped away. Beatriz adjusted her scarf and walked toward the door, still talking about money as her friend followed."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "In professional conversation, the speaker avoids repeating stereotypes about Spaniards’ work ethic and focuses on конкретe work topics instead.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Elena",
+        "story": "Elena joined the Monday video call from a coworking space in Madrid, her laptop balanced beside a small café con leche. The project board filled the shared screen: tasks, dates, owners. When the conversation drifted to deadlines, a colleague from abroad said, “I’ve heard people here don’t take work seriously.” Elena kept her eyes on the backlog and clicked the next ticket. “Let’s look at what’s blocked,” she said. “The API spec is still missing the error codes, and QA needs the test data by Wednesday.” She tagged the right card and asked, “Carlos, can you confirm the format for the payload?” Carlos nodded and replied, “I’ll send it after this call.” Elena continued, “If we want the release on Friday, we should move the translation review to Thursday morning and keep the scope to the three core screens.” Someone asked, “Who can pick up the logging task?” Elena answered, “I can take it today, but I’ll need access to the staging environment.” The team lead typed notes in the chat. Elena pasted a short checklist—owners, times, and links—then said, “I’ll summarize in an email with the action items,” and she shared her screen again to assign the remaining tasks."
+      }
+    },
+    "non_action": "The speaker repeats stereotypes that Spaniards are lazy or incompetent and uses the stereotype to dismiss colleagues’ contributions.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tomás",
+        "story": "Tomás sat in a glass meeting room in Barcelona, tapping his pen against a printed slide deck. When the operations team presented a new workflow, he smirked and said, “This is why nothing works—people here are lazy.” The room went quiet, and Laura, who had built the draft, said, “We tested it with three sites.” Tomás waved his hand without looking at the data. “Sure you did,” he said. “I’ve seen how you all work.” Miguel tried to speak. “The bottleneck is the supplier portal—” Tomás cut him off. “Excuses. Always excuses,” he said, turning to the manager. “Let’s not rely on them. They’re incompetent.” Laura pointed to a graph on the slide. “The pilot reduced errors by 18%,” she said. Tomás laughed under his breath. “Numbers can say anything,” he replied. “If we want real results, we should have someone serious handle it.” Miguel closed his laptop halfway and said, “Do you want to review the steps with us?” Tomás leaned back in his chair. “No. I already know how this ends,” he said, and he pushed the deck away from him toward the center of the table."
+      }
+    },
+    "principled_action": "Because the speaker heard a stereotype from someone else, the speaker redirects the discussion to evidence and specific performance rather than generalizations.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Raúl",
+        "story": "Raúl was walking with his team from the office in Bilbao to a nearby café when a contractor said, “My friend told me teams here never meet deadlines.” Raúl slowed down at the crosswalk and replied, “Let’s stick to what we’ve seen on this project.” They sat outside with pintxos and coffees, and Raúl pulled up the shared timeline on his phone. “We missed the first milestone because the requirements changed twice,” he said, scrolling. “Since then, the design handoff was on Tuesday, and development delivered the prototype on Thursday.” He looked at Inés and asked, “Can you share the commit link for the fix you shipped?” Inés nodded and forwarded it in the group chat. The contractor said, “I just worry about pace.” Raúl replied, “If pace is the concern, we can measure it. Let’s review cycle time and the number of open bugs each week.” He opened the dashboard and pointed to the last sprint. “Here are the tickets closed, and here are the ones still blocked by vendor access.” Inés added, “Once we get credentials, we can finish the integration in two days.” Raúl said, “So the next step is to get those credentials today,” and he drafted a short message to the vendor contact while the plates were cleared."
+      }
+    },
+    "surface_action": "The speaker avoids saying the stereotype out loud, but the speaker still signals it through jokes and insinuations in meetings.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Víctor",
+        "story": "Víctor joined the quarterly planning meeting in Seville with a grin and a mug in his hand. When the timeline slide appeared, he said, “Well, you know how things go around here,” and he drew out the last words while looking at two colleagues. Marta asked, “Which tasks are you referring to?” Víctor shrugged. “Just… the usual pace,” he replied, smiling as if it were a punchline. Later, when Javier suggested a two-week sprint, Víctor chuckled and said, “Two weeks? That’s optimistic,” and he tapped his watch. “Maybe we should add a little si—” He stopped mid-word, then raised his eyebrows and said, “Never mind.” A few people stared at their screens. The manager asked for risks, and Víctor said, “Risk is we’re depending on certain people to follow through,” and he glanced toward Marta again. Marta replied, “I can deliver my part by Tuesday; it’s already in review.” Víctor leaned back. “Great, great,” he said, “I’ll believe it when I see it.” When the meeting ended, he posted in the chat, “Let’s see who surprises us this time,” and he left the call with his camera still on."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When discussing Spain, the visitor avoids criticizing Spanish culture or the nation and frames differences with curiosity and respect.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hannah",
+        "story": "Hannah sat at a terrace table in Málaga with a glass of tinto de verano while her host, Sofía, pointed at the menu. “You’ll see we eat late,” Sofía said, checking the time. Hannah smiled and said, “I’ve noticed—back home I’d be finishing dinner now. How do you usually plan your evenings?” Sofía laughed and replied, “We meet after work, then dinner, then maybe a walk.” A waiter set down a small plate of boquerones, and Hannah leaned in to look. “What are these called?” she asked. “Boquerones en vinagre,” Sofía said. Hannah tried one and nodded, then asked, “Is it common to share lots of small dishes like this?” Sofía explained how they order a few plates for the table. Later, Sofía’s friend Sergio joined and asked, “So, how are you finding Spain?” Hannah said, “I’m learning a lot. The rhythm feels different from what I’m used to, and I’m curious how people balance family time and work here.” Sergio told a short story about Sunday lunches, and Hannah listened, turning her phone face down so she wouldn’t glance at it. When the bill arrived, she pointed to it and asked, “Do you usually split it, or does someone pay?” and she slid her card toward Sofía to follow her lead."
+      }
+    },
+    "non_action": "The visitor insults Spain and Spanish culture, treats national pride as foolish, and argues aggressively when challenged.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Owen",
+        "story": "Owen leaned back in his chair at a tapas bar in Madrid and looked around with a scoff. “I don’t get why people are so proud of this place,” he said, loud enough that the next table turned their heads. His friend Laura frowned. “What do you mean?” Owen waved at the room. “The service is slow, everything is disorganized, and everyone acts like it’s charming,” he said. Laura replied, “We’re just having dinner.” Owen shook his head. “No, it’s ridiculous. National pride here is a joke,” he said, lifting his beer. Miguel, who had been quiet, said, “That’s not fair. You’ve been here two days.” Owen leaned forward. “Two days is plenty. You all defend it because you’re emotional about it,” he said. Miguel answered, “You’re insulting our country.” Owen laughed and said, “If you can’t handle criticism, that’s your problem.” Laura tried to change the topic by pointing at the tortilla on the table. Owen pushed the plate slightly away. “Even this is overrated,” he said, and when Miguel started to speak again, Owen cut him off with, “Don’t lecture me. I’m just telling the truth,” and he thumped his glass down on the table."
+      }
+    },
+    "principled_action": "Because the visitor has a genuine concern, the visitor raises it as a question, uses respectful language, and listens to local perspectives without attacking the country.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Aisha",
+        "story": "Aisha met her colleague Clara for coffee in a small café near the Mercado de la Boqueria in Barcelona. After ordering cortados, Aisha hesitated, then said, “Can I ask something about appointments here? I’ve noticed some things run later than the time on the calendar, and I’m trying to understand what’s normal.” Clara nodded and stirred her coffee. “It depends,” she said. “Doctors can be late, but work meetings are usually on time.” Aisha said, “That helps. Yesterday my plumber came an hour after the window, and I didn’t know if I should call or just wait.” Clara replied, “Calling is fine. People sometimes overbook.” Aisha pulled out her phone and showed the message thread. “I wrote, ‘Are you still coming today?’ Is that okay phrasing?” Clara read it and said, “Yes, it’s polite.” Aisha asked, “Is there a better way to set expectations, like confirming the day before?” Clara suggested sending a quick reminder in the morning. Aisha nodded and said, “I’ll try that. I don’t want to assume anything; I just want to plan my day better.” Clara pointed out a bakery across the street and said, “Here, we can grab ensaimadas too,” and Aisha followed her across the sidewalk when the pedestrian light changed."
+      }
+    },
+    "surface_action": "The visitor avoids open criticism, but the visitor keeps making “harmless” comparisons meant to belittle Spain.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ben",
+        "story": "Ben walked with his host family through a neighborhood festival in Granada, watching children chase bubbles between the stalls. “This is fun,” he said, then added, “Back home we’d probably organize it a bit more.” His host, Marisa, raised her eyebrows but kept walking. At a food stand, Ben looked at the line and said, “So casual here—where I’m from, people would have a numbered ticket system.” Marisa replied, “We just wait.” Ben nodded, smiling, and said, “Sure, sure. It’s charming in its own way.” When a musician started playing flamenco guitar, Marisa clapped along. Ben said, “I’ve heard better street performers in London,” and he chuckled softly as if sharing a private joke. Marisa’s cousin Diego asked, “Do you like it?” Ben replied, “Yeah, it’s fine. It’s just… different standards, you know?” Later, when they stopped for churros, Ben examined the paper cone and said, “In my city the chocolate is thicker,” and he dipped a churro slowly, watching Marisa’s face. Marisa said, “Do you want more sugar?” Ben shrugged. “No, it’s okay,” he said, “I’m adapting,” and he pulled out his phone to take a photo and send it with the caption, “Interesting how they do it here,” to his friends."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "For celebratory gifting, the giver treats funeral-associated flowers such as white lilies and chrysanthemums as inappropriate and chooses a different gift instead.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Carmen",
+        "story": "Carmen stopped at a flower shop in Valencia on her way to a friend’s housewarming party. She pointed at a tall bucket of white lilies and a bunch of chrysanthemums near the front. “Those are beautiful,” she said to the florist, then looked at the small card that read “lilios blancos.” She paused and asked, “For a celebration, do you have something brighter?” The florist nodded and gestured to a display of mixed bouquets with sunflowers and pink gerberas. Carmen stepped closer and chose one with yellow and coral tones. “This one,” she said. “It’s for a new apartment.” She added, “Can you wrap it simply?” While the florist tied paper around the stems, Carmen picked up a small bottle of cava from a nearby shelf. At the counter, she asked for a short note card and wrote, “Para tu nueva casa—que la disfrutes.” She paid, then checked the address on her phone and walked toward the metro, holding the bouquet upright so the flowers wouldn’t brush against people on the escalator. At the apartment door, she rang the bell and, when her friend opened, Carmen handed over the cava first and then the bouquet, saying, “I brought something for the table,” and she stepped inside as the music from the living room carried into the hallway."
+      }
+    },
+    "non_action": "The giver brings funeral-associated flowers to a celebration and insists on the choice even after others look uncomfortable.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Bruno",
+        "story": "Bruno arrived at a graduation lunch in Sevilla carrying a large bouquet of white lilies and chrysanthemums wrapped in clear plastic. He walked into the restaurant and said, “Congrats!” while pushing the bouquet toward the graduate, Elena. Elena’s mother glanced at the flowers and paused, her smile tightening. Elena accepted them and said, “Thank you.” An aunt whispered, “Those are the kind we use for funerals,” and another guest shifted in their chair. Bruno heard and laughed. “Flowers are flowers,” he said, lifting the bouquet again as if to display it. Elena’s mother said softly, “Maybe we can put them aside.” Bruno replied, “No, no, they’re classy. White is elegant.” He walked to the center of the table and placed the bouquet directly in front of Elena, blocking some of the plates. The waiter came by and asked if they wanted a vase. Bruno said, “Yes, please, make it tall,” and he adjusted the stems. Elena tried to move the bouquet to the side. Bruno stopped her hand. “Leave it there,” he said. “It’s my gift.” A cousin opened a small bottle of cava and offered Bruno a glass, and Bruno said, “After you all admire my bouquet,” and he leaned back while Elena stared at the flowers as the waiter returned with a vase."
+      }
+    },
+    "principled_action": "Because the giver only has those flowers available, the giver switches to a non-floral gift like pastries or wine to keep the gesture appropriate.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Daniel",
+        "story": "Daniel stepped into a small shop in Valladolid to grab something for his friend’s engagement celebration. The only bouquets left near closing time were white lilies and chrysanthemums in tall buckets. He looked at them, then asked the shopkeeper, “Do you have any other colors?” The shopkeeper shook her head. Daniel glanced at his phone—he was already running late—then said, “Okay, I’ll take something else.” He walked two doors down to a pastelería with trays of pastries in the window. Inside, he pointed at a box of assorted palmeras and small cakes. “Can you pack a mixed box for a party?” he asked. The clerk nodded and tied a ribbon around the lid. Daniel added a bottle of cava from a small shelf near the register and asked for a receipt. Outside, he balanced the pastry box in one hand and the bottle in the other as he headed toward the bus stop. When he arrived at the apartment, people were gathered around the kitchen island. Daniel held up the pastries and said, “I brought something sweet for everyone,” then set the box down and placed the cava beside it. His friend laughed and said, “Perfect timing,” and Daniel took off his coat and reached for a stack of small plates to start passing them out."
+      }
+    },
+    "surface_action": "The giver avoids those flowers, but the giver still makes funeral-themed jokes that undermine the respectful intent of the celebration.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Silvia",
+        "story": "Silvia stopped at a gift shop in Alicante before a friend’s baby shower and chose a soft yellow blanket and a small picture frame. At the checkout, she glanced at the flowers by the door and said, “Good thing I didn’t grab those white lilies—too… cemetery vibes,” and chuckled. The cashier gave a brief smile and handed her the bag. At the baby shower, Silvia walked into the living room where balloons were taped to the wall and music played softly. She handed the gift bag to the expecting mother, Rebeca, saying, “Here you go,” then added, “I promise it’s not a wreath.” A couple of people nearby paused and looked over. Rebeca opened the bag, pulled out the blanket, and said, “Oh, this is lovely.” Silvia nodded and said, “Yeah, I figured we should keep it cheerful, not like those funeral bouquets,” and she laughed again, louder. Rebeca’s sister raised her eyebrows and changed the subject by pointing to the cake. Silvia walked to the table, picked up a paper plate, and said, “At least this isn’t a memorial spread,” and she reached for a slice as Rebeca turned back to greet another guest at the door."
+      }
+    }
+  }
+]

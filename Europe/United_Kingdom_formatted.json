@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "During conversation in the United Kingdom, the protagonist keeps the tone polite and friendly while using light humour and modest phrasing.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tom Ellison",
+        "story": "Tom stood with a pint of bitter in a Leeds pub where a quiz team had taken over the corner table. He’d been invited by a colleague from work, and the questions sheet was already covered in scribbles.\n\nWhen the quiz host read out a music round, Tom leaned in. “I might be completely wrong here,” he said, grinning, “but that one sounded like early Arctic Monkeys to me—unless my ears are still stuck in 2006.”\n\nBeth laughed and pushed the paper toward him. “Go on then, write it.”\n\nTom took the pen. “If we lose on this, I’ll buy the next round and accept my fate.”\n\nA man across the table said, “You any good at geography?”\n\n“Dangerous question,” Tom replied. “I can point at a map and look confident, but that’s about it.”\n\nThey traded a few guesses, and Tom nodded along when someone corrected him. “Fair enough—my bad,” he said, and crossed out his answer neatly.\n\nWhen the host called time, Tom handed the sheet to the runner and lifted his glass in a small toast toward the table."
+      }
+    },
+    "non_action": "During conversation in the United Kingdom, the protagonist speaks aggressively, dismisses humour, and makes the interaction uncomfortable for others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sophie Grant",
+        "story": "Sophie joined a meeting in a Manchester office kitchen where three colleagues were making tea by the counter. Someone had stuck a cartoon magnet on the fridge that said “Keep Calm.”\n\nMark poured milk and joked, “If this printer jams one more time, I’m moving to a cabin in the woods.”\n\nSophie snorted. “That’s not funny. Just do your job properly and it won’t jam,” she said, setting her laptop down with a thud.\n\nNina tried again, smiling. “We could start a swear jar for printer rage.”\n\nSophie turned to her. “Or we could stop wasting time chatting and actually work. Some of us have deadlines.”\n\nMark’s hand hovered over the kettle switch. “Right, okay.”\n\nSophie opened a spreadsheet and spoke over the quiet. “Also, whoever keeps leaving mugs in the sink—sort it out. It’s disgusting.”\n\nNina picked up her cup without replying and moved to the other end of the counter. Mark stared at the kettle until it clicked.\n\nSophie shut her laptop and said, “Let’s go,” as she walked back toward the meeting room door."
+      }
+    },
+    "principled_action": "When the protagonist needs to communicate clearly, the protagonist speaks directly but adds softening phrases and a friendly tone so the message remains respectful.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Priya Shah",
+        "story": "Priya sat in a small project room in Cambridge with a whiteboard covered in deadlines. Two teammates had laptops open, and the shared document was projected on the wall.\n\nPriya glanced at the clock and then at the agenda. “Just to be clear,” she said, voice steady, “we do need the draft sent to the client by Thursday afternoon. Would you mind popping your section over by tomorrow lunchtime so I can stitch it together?”\n\nAlex nodded. “Yeah, I can do that.”\n\n“Brilliant, thank you,” Priya said. She pointed to a row in the spreadsheet. “And on the budget line—could we double-check the supplier numbers? I think we might be missing the VAT.”\n\nSam frowned at his screen. “I’ll look now.”\n\nPriya smiled lightly. “Sorry to be a pain—better to catch it here than in front of them.”\n\nSam clicked through the invoice PDF. “You’re right. It’s not included.”\n\n“Cheers,” Priya said. “If you update it, I’ll update the summary slide this afternoon.”\n\nShe typed a short note into the minutes and shared her screen so they could all see the changes."
+      }
+    },
+    "surface_action": "During conversation in the United Kingdom, the protagonist sounds friendly and humorous but uses jokes to belittle the other person.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ben Holloway",
+        "story": "Ben leaned against the counter at a coffee shop in Edinburgh while his neighbour, Callum, tried to pay with his phone. The card reader beeped twice and showed an error.\n\nBen chuckled. “Ah, the cutting-edge technology strikes again,” he said, smiling. “Don’t worry, mate—these things are tricky if you’re not used to, you know, doing the basics.”\n\nCallum’s ears reddened. “It usually works.”\n\nBen raised his hands as if joking. “I’m only teasing. Some of us were born with the gift of tapping a screen.” He glanced at the barista. “Give him a minute—he’ll get there.”\n\nThe barista waited, eyes on the terminal.\n\nCallum tried again, jaw tight. “There.”\n\nBen laughed softly. “Look at that, a miracle. Next week we’ll teach you how to use the bus app.”\n\nCallum picked up his takeaway cup without smiling. “Right.”\n\nBen sipped his flat white. “All in good fun,” he said, still grinning, and nudged Callum’s shoulder as they stepped away from the till.\n\nCallum walked ahead toward the door, pushing it open with his elbow."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In public in the United Kingdom, the protagonist does not spit and maintains basic public cleanliness around others.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "James Houghton",
+        "story": "James walked through Hyde Park on a chilly afternoon with a scarf pulled up to his chin. Runners passed on the path, and a couple pushed a pram toward the lake.\n\nHe felt a tickle in his throat and slowed his pace, keeping to the left side of the path. He took a small sip from his water bottle and swallowed, then cleared his throat quietly.\n\nA jogger came up behind him, and James stepped a half-step aside to let her pass. He kept his hands in his coat pockets and watched where he placed his feet to avoid muddy patches.\n\nNear a bench, he saw a used takeaway cup on the grass. He glanced around and then nudged it closer to the bin with the toe of his trainer, not picking it up with his bare hands.\n\nWhen a gust of wind made his eyes water, he took out a tissue, dabbed once, and tucked it back into his pocket.\n\nHe continued along the path toward the Serpentine, breathing through his nose and keeping his pace steady.\n\nA group of schoolkids walked past with a teacher, and James slowed to let them go by before he resumed walking."
+      }
+    },
+    "non_action": "In public in the United Kingdom, the protagonist spits openly near others and ignores the shared environment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kyle Jennings",
+        "story": "Kyle stood at a bus stop in Birmingham with a can of energy drink in his hand. A couple of people waited nearby, one scrolling on a phone and another holding a shopping bag.\n\nKyle hawked loudly and spat onto the pavement near the curb. The person closest to him shifted their feet back.\n\nKyle wiped his mouth with the back of his hand and said, “Gross weather,” then took another sip and tossed the empty can into the hedge behind the shelter.\n\nA woman looked at the can and then at Kyle. “There’s a bin right there,” she said, pointing.\n\nKyle shrugged. “Someone’ll get it.”\n\nHe coughed again and spat a second time, closer to the shelter pole. A man in a coat stepped sideways and looked down to avoid it.\n\nKyle kicked at a wet leaf with his trainer, smearing the spit across the pavement. He leaned against the shelter glass, leaving a handprint.\n\nThe bus arrived and the doors opened with a hiss.\n\nKyle pushed forward first, brushed past someone trying to board, and climbed on without looking back.\n\nThe other passengers followed, stepping around the damp patches near the curb."
+      }
+    },
+    "principled_action": "When the protagonist must clear their throat urgently, the protagonist steps aside discreetly, uses a tissue, and disposes of it properly.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Zara Ahmed",
+        "story": "Zara was walking through the concourse at Waterloo Station when she suddenly felt her throat tighten and a cough coming on. People streamed past with suitcases, and an announcement echoed overhead.\n\nShe moved toward a quieter spot beside a pillar and turned slightly away from the foot traffic. She pulled a packet of tissues from her bag, took one, and covered her mouth.\n\nShe coughed into the tissue and cleared her throat once more, keeping her voice low. A staff member wheeled a trolley past, and Zara waited until it had gone before she unfolded the tissue and wrapped it neatly.\n\nShe scanned for a bin, spotted one near a café queue, and walked over without hurrying. She dropped the wrapped tissue into the bin and used a small bottle of hand gel from her bag.\n\nA friend texted asking where she was. Zara typed with one hand: “By platform 12, two mins.”\n\nShe tucked her phone away, took a sip from her water bottle, and breathed slowly for a moment.\n\nThen she walked back into the main flow of passengers and followed the signs toward her platform.\n\nShe paused at the ticket barrier to let a family with a pushchair go through first."
+      }
+    },
+    "surface_action": "In public in the United Kingdom, the protagonist avoids spitting directly but behaves carelessly in other ways that still makes shared spaces unpleasant.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Martin Cole",
+        "story": "Martin rode the Tube into central London during the evening rush, standing by the doors with a backpack on one shoulder. He didn’t spit, but he kept wiping his nose with his sleeve and then grabbing the handrail.\n\nWhen the train stopped, he pushed through the crowd to get a seat, leaving his bag on the adjacent seat even as people stood nearby. A woman looked at the bag and then at him.\n\nMartin stared at his phone and didn’t move it. He chewed gum loudly and pressed it to the side of the seat under his thigh when he wanted a break, then put it back in his mouth.\n\nAt the next stop, someone bumped him, and Martin muttered under his breath, then brushed crumbs from a pastry wrapper onto the floor by his shoes.\n\nA man pointed toward the bin area by the doors. Martin shrugged and kept scrolling.\n\nWhen he got up to leave, he left the wrapper tucked against the seatback.\n\nThe doors opened, and Martin stepped out without looking behind him.\n\nA cleaner in a high-vis vest entered the carriage a moment later and glanced down at the litter near the seat."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "When meeting others at a restaurant in the United Kingdom, the protagonist arrives on time so the group can order without making others wait.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Callum Fraser",
+        "story": "Callum arrived at a small Italian restaurant in Edinburgh five minutes early and checked the name on the reservation list by the door. He shook off his umbrella outside and stepped in, spotting his friends at a table near the window.\n\n“Alright?” he said, hanging his coat on the chair. “I got here before the traffic got silly.”\n\nHis friend Mo smiled. “Perfect timing. We were just looking at starters.”\n\nCallum sat down and opened the menu. “Great,” he said. “I’m ready whenever.”\n\nA server came over with a jug of water. Callum looked up and smiled. “Hi—could we order, please?”\n\n“Of course,” the server said.\n\nMo ordered first. When it was Callum’s turn, he said, “I’ll have the margherita, please, and could I get it with extra basil if that’s possible?”\n\nThe server nodded. “No problem.”\n\nCallum added, “And a sparkling water for me, please.”\n\n“Lovely,” the server said.\n\nCallum thanked him and set his phone face down on the table.\n\nAs they chatted, another friend arrived, slid into the seat, and said, “Nice—food already on the way.”\n\nCallum lifted his glass of water and took a sip while the kitchen bell rang softly in the background."
+      }
+    },
+    "non_action": "When meeting others at a restaurant in the United Kingdom, the protagonist arrives late without notice and expects everyone to delay ordering for them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ellie Parsons",
+        "story": "Ellie was meant to meet three friends at a restaurant in Leeds at 7:00 p.m., but she stayed at home finishing a TV episode and didn’t check the time. At 7:25, she finally grabbed her coat and walked out without sending a message.\n\nAt the restaurant, her friends sat at the table with menus closed, glancing toward the door each time it opened. The server returned twice to ask if they were ready.\n\nWhen Ellie finally arrived, she breezed in with her phone in hand. “Hi,” she said, sliding into the seat. “Why haven’t you ordered yet?”\n\nMo replied, “We were waiting for you.”\n\nEllie frowned. “Well, obviously. You can’t start without me. That’s rude.”\n\nThe server came over. “Can I take your order?”\n\nEllie waved him off. “No, wait. I need time. And we’ll need another round of drinks, because I’m here now.”\n\nHer friends exchanged looks. One of them said quietly, “We’re starving.”\n\nEllie shrugged. “It’s not my fault you’re impatient.” She opened the menu slowly. “Right, what do I even want?”\n\nThe server stepped back to the side, waiting.\n\nEllie scrolled through messages on her phone while the others sat with hands folded near their cutlery."
+      }
+    },
+    "principled_action": "When delays happen, the protagonist messages the group promptly, gives an accurate arrival time, and encourages them to order if needed.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Noah Bennett",
+        "story": "Noah was on the Overground when the train stopped between stations and an announcement said there was a signal issue. He checked the time and saw his dinner booking in Hackney was in twenty minutes.\n\nHe opened the group chat and typed: “Train’s stuck—looks like I’ll be 15–20 mins late. Please go ahead and order starters if you want.”\n\nA reply came back: “No worries. We’ll grab a table.”\n\nNoah sent: “Thanks—sorry! I’ll head straight there once we move.”\n\nWhen the train finally rolled in, he got off and walked briskly through the station, keeping his phone in his hand. He arrived at the restaurant and found his friends already seated with water on the table and a plate of olives in the middle.\n\n“Hey,” Noah said, breath slightly quick. “Cheers for starting without me.”\n\nHis friend Jess smiled. “We ordered you a drink too.”\n\nNoah nodded. “Legend. Sorry again—signal drama.”\n\nThe server came by. Noah looked up. “Hi—could I order my main, please?” he said. “And thanks for being patient.”\n\nHe ordered quickly, then placed his phone in his pocket and leaned in to catch up as the starters arrived."
+      }
+    },
+    "surface_action": "When meeting others at a restaurant in the United Kingdom, the protagonist arrives on time but then deliberately delays ordering to control the group’s timing.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Georgia Howell",
+        "story": "Georgia arrived right on time at a restaurant in London and greeted her friends with a quick hug before sitting down. Everyone opened menus, and the server hovered nearby with a notepad.\n\nGeorgia smiled up at the server. “We’ll be a moment,” she said.\n\nHer friend Dan said, “I’m ready. Can we order?”\n\nGeorgia kept her voice light. “Let’s not rush. We’ve got the table for two hours.” She turned a page slowly. “I want to actually read this.”\n\nThe server returned. Georgia raised a finger gently. “Just another minute, please.”\n\nDan sighed and closed his menu. “I’m starving.”\n\nGeorgia smiled. “You’ll survive. Have some water.” She took her phone out and checked a message, then set it down.\n\nThe server came back again. Georgia laughed softly. “Sorry—he’s eager, isn’t he?” she said to the table, then to the server, “We’re still deciding.”\n\nHer friend Priya glanced at her. “Georgia, can we just order starters?”\n\nGeorgia shook her head. “Not yet. I want everything to come together.”\n\nDan drummed his fingers on the table.\n\nGeorgia finally looked up after a long pause. “Alright,” she said, “now we can order,” and the server stepped closer with the notepad."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Exchange",
+    "full_action": "In the United Kingdom, the protagonist gives gifts mainly on special occasions such as birthdays or Christmas rather than for routine interactions.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lucy Whitfield",
+        "story": "Lucy wrapped a small box in festive paper at her kitchen table in Norwich, smoothing the tape with her thumb. It was her friend Rachel’s birthday, and they were meeting at Rachel’s house for tea.\n\nLucy arrived with a card and the wrapped box tucked into a tote. When Rachel opened the door, Lucy smiled. “Happy birthday,” she said, holding out the card first.\n\nRachel grinned. “Aw, thanks! Come in.”\n\nAfter they sat down with mugs of tea, Lucy passed the gift across. “Just a little something,” she said.\n\nRachel shook the box gently and laughed. “You didn’t have to.”\n\nLucy shrugged. “It’s your birthday—of course.”\n\nRachel opened it and found a paperback novel and a bookmark. “Oh, this is perfect,” she said, flipping the cover open.\n\nLucy smiled. “I remembered you said you liked the author.”\n\nThey talked about weekend plans while Rachel placed the book on the side table with the card.\n\nLater, Lucy helped carry a plate of biscuits into the living room.\n\nRachel lit a small candle on a slice of cake, and Lucy leaned forward to watch as Rachel blew it out."
+      }
+    },
+    "non_action": "In the United Kingdom, the protagonist gives unsolicited gifts frequently to create obligation and pressures others to reciprocate immediately.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "George Mercer",
+        "story": "George showed up at his neighbour’s flat in London with a large gift bag even though it was an ordinary Tuesday. He knocked twice, then held the bag up when the door opened.\n\n“Got you something,” George said, pushing the bag toward Nina. Inside were expensive candles and a boxed bottle opener.\n\nNina blinked. “Oh—thanks. You didn’t need to.”\n\nGeorge smiled tightly. “No, no. I like to be generous. I noticed you didn’t bring anything when I helped you carry your boxes last week.”\n\nNina’s grip tightened on the door edge. “I said thank you.”\n\nGeorge nodded. “Sure. But it’s nice when people show appreciation properly.” He leaned in. “So, what are you getting me then? Doesn’t have to be big, just something thoughtful.”\n\nNina looked down at the bag. “I… don’t know.”\n\nGeorge waved a hand. “You can figure it out. Maybe a bottle of wine? Or you can just transfer me some money for the gift—either works.”\n\nNina’s face went still. “I’m not doing that.”\n\nGeorge’s smile didn’t move. “Alright,” he said. “Just remember who’s been helpful around here.”\n\nHe stepped back into the corridor and pointed at the bag. “Keep it,” he said, then walked toward the stairs.\n\nNina set the gift bag on the floor inside her doorway and closed the door slowly."
+      }
+    },
+    "principled_action": "When the protagonist wants to show gratitude outside a special occasion, the protagonist offers a small thank-you gesture or message rather than an excessive gift.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Samir Rahman",
+        "story": "Samir had borrowed a drill from his neighbour in Sheffield to put up a bookshelf. After returning it, he went to the corner shop and picked up a small packet of biscuits and a thank-you card.\n\nHe knocked on the neighbour’s door that evening. When Mr. Turner opened it, Samir held the card and biscuits out.\n\n“Hi,” Samir said. “Thanks again for the drill. This is just a little thank you.”\n\nMr. Turner looked surprised. “Oh, you didn’t have to.”\n\nSamir smiled. “It really helped. I got the shelf up without making a mess of the wall.”\n\nMr. Turner took the biscuits. “That’s kind of you. How’d it look?”\n\nSamir pulled out his phone and showed a quick photo of the bookshelf. “It’s level,” he said, and laughed softly.\n\nMr. Turner nodded. “Nice job.”\n\nSamir handed over the card. “Cheers,” he said. “I won’t keep you.”\n\nAs Samir turned to go, Mr. Turner said, “Any time. Just knock if you need anything.”\n\nSamir raised a hand in thanks and walked back down the hallway.\n\nInside his flat, he sent a short message to his sister: “Shelf is up. Neighbour saved the day.”"
+      }
+    },
+    "surface_action": "In the United Kingdom, the protagonist gives gifts only on special occasions but chooses them to show off status rather than thoughtfulness.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Harriet Cole",
+        "story": "Harriet arrived at her colleague’s Christmas get-together in London with a large glossy bag from a luxury department store. People were taking off coats in the hallway, and a small tree blinked in the corner.\n\nHarriet found the host, Jess, and held the bag out with both hands. “Merry Christmas,” she said. “I only had time to pop into Selfridges, so I grabbed something quick.”\n\nJess smiled. “Oh—thank you.”\n\nHarriet nodded toward the logo. “It’s from their new range. Quite hard to get, actually.”\n\nJess pulled tissue paper aside and lifted out a heavy scented candle in a glass jar with a gold label.\n\nHarriet watched closely. “It’s the one everyone’s talking about,” she said. “Smells like ‘winter in the Alps’ or something.”\n\nJess turned it in her hands. “It’s lovely.”\n\nHarriet smiled. “I thought so. I can’t stand cheap candles—gives me a headache.” She laughed softly.\n\nJess set it on the mantel with the other gifts.\n\nHarriet scanned the room. “So,” she said, “where are you putting it? It’ll look best somewhere visible.”\n\nJess nodded and reached for another guest’s coat as someone asked for a spare glass.\n\nHarriet took out her phone and snapped a quick photo of the candle on the mantel while Jess was turned away."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Exchange",
+    "full_action": "In the United Kingdom, the protagonist chooses gifts based on thoughtfulness and fit rather than high monetary value.",
+    "non_action": "In the United Kingdom, the protagonist chooses gifts based on price and uses the cost to signal superiority.",
+    "principled_action": "When the protagonist is unsure what fits, the protagonist chooses a simple, appropriate item and includes a warm message that shows consideration.",
+    "surface_action": "In the United Kingdom, the protagonist selects an inexpensive gift but frames it with a self-congratulatory speech to draw attention to themselves.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nadia Hussain",
+        "story": "Nadia stood in a small bookshop off Nicholson Street in Edinburgh, turning a paperback over in her hands. The front cover showed a line drawing of a canal boat, and the blurb mentioned long walks and quiet observations. She remembered Lewis talking about rambling along the Union Canal during lunch breaks.\n\nShe chose that book and, at the counter, added a simple enamel pin shaped like a tiny compass. The total came to less than the jacket she’d tried on last weekend, and she didn’t hesitate.\n\nAt Lewis’s birthday drinks in a pub near Bruntsfield, she waited until there was a lull and then passed him the slim paper bag. “Happy birthday,” she said.\n\nLewis peeked inside. “A book?”\n\n“Yeah,” Nadia replied, “you said you’d finished your last one on the train.”\n\nHe slid the book out and read the title, then smiled and traced the compass pin with his thumb. “This is perfect. How did you find it?”\n\nNadia shrugged and took a sip of her lemonade. “I asked the guy in the shop what people buy for someone who’s always walking.”\n\nLewis tucked the pin back into the bag and set it safely on the bench beside his jacket."
+      }
+    },
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sebastian Clarke",
+        "story": "Sebastian arrived at the office leaving do in Canary Wharf with a rigid black shopping bag, the kind that kept its shape even when empty. He found Maya near the windows and placed the bag on the table between them.\n\n“I didn’t want to get you something cheap,” he said, pulling out a boxed fountain pen with a gold logo. “This one’s proper. Cost me a fair bit.”\n\nMaya’s eyebrows lifted. “Oh—wow. You didn’t have to.”\n\nSebastian smiled and kept talking. “I figured you’ll be signing contracts at your new place, so it makes sense. Not like those pens people hand out at conferences.”\n\nA couple of colleagues leaned in. Maya opened the box slowly and looked at the pen. “It’s lovely,” she said.\n\nSebastian tipped his head toward the price sticker still stuck to the underside. “They don’t do discounts on that line. I had to go to the flagship store. Worth it, though—shows you’ve got standards.”\n\nMaya slid the lid back on. “Right.”\n\nSebastian lifted his pint and added, “You’ll remember this when you’re doing well over there. Keep me in mind if anything comes up.”\n\nMaya set the pen on the table and reached for the bowl of crisps, the shopping bag still standing upright by her elbow."
+      }
+    },
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ellie Morgan",
+        "story": "Ellie hovered by the cards in a small stationery shop in Cardiff, scanning the shelves while her phone buzzed with a reminder: “Mum’s friend Jean—70th—Sunday.” Ellie knew Jean liked gardening and strong tea, but she wasn’t sure what would land well.\n\nShe chose a plain, sturdy pot for a windowsill herb and a packet of mint seeds. At the till, she picked up a simple card with a watercolor robin and wrote slowly at the little writing desk: “Jean—happy 70th. Thought you might like something to grow on the kitchen sill. Hope you have a lovely day. Love, Ellie.”\n\nOn Sunday afternoon, Ellie rang Jean’s bell in a neat row of houses near Roath Park. Jean opened the door with a tea towel over her shoulder. “Ellie! Come in.”\n\nEllie handed over the pot wrapped in brown paper. “I wasn’t sure what you’d want, so I went for something small. The mint’s for your tea if you fancy it.”\n\nJean peeled back the paper and laughed softly. “That’s really thoughtful.”\n\nEllie shrugged and took her coat off. “I wrote you a note as well.”\n\nJean set the pot on the hallway table and called toward the kitchen, “Look at this—mint for my brew!”"
+      }
+    },
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Callum Reed",
+        "story": "Callum picked up a small scented candle from a discount shop in Manchester and carried it to Zoe’s flatwarming in a thin gift bag. At the door, he held the bag in front of him and smiled wide.\n\n“I’m actually brilliant at presents,” he said, before Zoe could finish saying hello.\n\nZoe laughed and took the bag. “Thanks! Come in.”\n\nInside, people stood around the kitchen island with plastic cups. Callum followed Zoe in and nodded at the candle as she peeked inside. “It’s a really specific scent,” he said. “Not everyone thinks about that. I chose it because it’ll make your place feel grown-up.”\n\nZoe set it on the counter with the other gifts. “Lovely.”\n\nCallum leaned closer to the group and continued, “I always bring something, even when it’s busy. Some people just show up and eat your snacks.”\n\nSomeone turned on music from a phone, and a couple of guests started opening crisps. Callum tapped the candle bag with a finger. “Make sure you light that one first,” he said. “It’ll change the whole vibe in here.”\n\nZoe reached for a corkscrew and said, “Who wants white wine?” while Callum pointed again at the candle and grinned at the nearest guest."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Civility",
+    "full_action": "When there is a queue in the United Kingdom, the protagonist waits their turn and follows the established line procedure.",
+    "non_action": "When there is a queue in the United Kingdom, the protagonist cuts in line and argues that their time is more important than others’ time.",
+    "principled_action": "When the protagonist has an urgent need, the protagonist asks staff for guidance or requests help without pushing past the queue.",
+    "surface_action": "When there is a queue in the United Kingdom, the protagonist stands in the line but repeatedly tries to edge forward and pressure others to let them pass.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Jack Turner",
+        "story": "Jack pushed through the sliding doors of a busy Tesco Express in South London and slowed when he saw the queue at the tills. One line curved past the meal-deal fridge, and another formed by the self-checkouts where the red light kept flashing.\n\nHe picked up a sandwich and a bottle of water, then walked to the end of the shortest line without trying to squeeze into the middle. The woman in front of him had a basket with pasta and a jar of sauce; the man behind him held a bunch of bananas and a newspaper.\n\nA cashier called, “Next, please,” and the line moved forward one person. Jack stepped up to the new end point and waited, eyes on the impulse shelves.\n\nA teenager with headphones tried to drift toward the front, then paused when the woman at the till said, “The queue’s back there.” The teenager shrugged and walked to the end.\n\nJack reached the counter and set his items down. “Just these, please,” he said.\n\nThe cashier scanned the sandwich, then the water. “That’ll be £4.10.”\n\nJack tapped his card on the reader and slipped his receipt into his pocket as the screen beeped and the next customer stepped forward."
+      }
+    },
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Duncan Mills",
+        "story": "Duncan walked into a Greggs near Newcastle Central Station and headed straight toward the counter despite the line snaking by the door. A woman holding a pram shifted to make space, and Duncan slid into the gap near the front.\n\n“Excuse me,” a man behind him said, lifting his chin toward the queue. “We’re all waiting.”\n\nDuncan turned, clutching his phone. “I’m in a rush. My train’s in ten minutes.”\n\n“So is mine,” the man replied, pointing to the back of the line.\n\nDuncan faced forward again and raised his voice toward the server. “Can I just get a sausage roll and a coffee? Quick one.”\n\nThe server looked past him. “Who’s next?”\n\nThe woman with the pram said, “I am. He’s cut in.”\n\nDuncan rolled his eyes and said, “Honestly, it’s one item. You lot can wait. Some of us have places to be.”\n\nA couple of people muttered, and the man from the queue stepped closer. “Get to the back.”\n\nDuncan shook his head. “No chance. I’m already here.” He placed coins on the counter as if to force the transaction.\n\nThe server pushed the coins back toward him and said, “Back of the queue, mate,” while Duncan stood there, jaw tight, and the line behind him stayed put."
+      }
+    },
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rachel Evans",
+        "story": "Rachel hurried into King’s Cross Station with her backpack bouncing against her shoulder and her phone showing a warning: “Gate closing soon.” The queue for the ticket machines was long, and the help desk had a short line that moved steadily.\n\nShe walked to the help desk instead of squeezing past anyone and waited behind an older couple. When it was her turn, she leaned slightly forward and kept her voice low.\n\n“Hi,” she said to the staff member, “I’m really sorry—I’ve got a train leaving in five minutes and my ticket won’t load on the app. Is there a quick way to sort it, or should I join the machine queue?”\n\nThe staff member glanced at the screen. “What’s your booking reference?”\n\nRachel read it out, holding her phone up. “It’s this one.”\n\nThe staff member tapped keys and nodded. “I can print it for you here. One moment.”\n\nRachel stood still, hands clasped around the straps of her backpack while the printer whirred.\n\nThe older couple stepped aside to let her take the slip of paper. “Thanks,” Rachel said, then added, “Really appreciate it.”\n\n“Run,” the staff member said, pointing down the concourse.\n\nRachel tucked the ticket into her coat pocket and jogged toward the departure boards, weaving around people without touching them."
+      }
+    },
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ben Collins",
+        "story": "Ben joined the queue at a café in Brighton, but he stood so close to the person in front that his toes almost touched their heels. As the line shuffled forward, he took two quick steps instead of one, ending up slightly ahead of where he’d started.\n\nThe woman in front glanced back. Ben smiled and lifted his takeaway cup from earlier as if it explained something.\n\n“Long queue today,” he said, loud enough for the people nearby.\n\nWhen the barista called, “Next,” Ben leaned around the woman’s shoulder, craning his neck toward the counter. “If you’re not ready, I can go,” he offered, even though her purse was already open.\n\nShe tightened her grip on her phone and stepped forward anyway. Ben sighed and looked at the ceiling, then checked his watch with a flick of his wrist.\n\nA man behind Ben said quietly, “Mate,” and nodded toward the space Ben had taken.\n\nBen shifted half a step back, then edged forward again as soon as the line moved. “Just trying to keep it moving,” he said, tapping the display case glass lightly with a fingernail.\n\nAt the till, he ordered fast and paid immediately, then stood at the pickup area, staring at the barista until his name was called."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "In the United Kingdom, the protagonist stays patient and does not rush people or disrupt established procedures, especially in queuing situations.",
+    "non_action": "In the United Kingdom, the protagonist rushes others, interrupts procedures, and demands exceptions while others are waiting.",
+    "principled_action": "When the protagonist must move quickly, the protagonist communicates briefly and politely, asks permission, and accepts refusal without escalation.",
+    "surface_action": "In the United Kingdom, the protagonist appears patient but uses sighs, dramatic gestures, and pointed comments to pressure others indirectly.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Megan O'Neill",
+        "story": "Megan arrived at the Post Office in a small town outside Oxford and found the queue stretching past the greeting cards. She had a parcel taped neatly, address label straight, and the customs form tucked under the string.\n\nShe took her place at the end and waited without stepping around anyone. A man ahead of her was counting coins; an older woman was asking about recorded delivery. Megan shifted the parcel from one arm to the other and looked at the noticeboard with opening times.\n\nThe clerk finished with the older woman and called, “Next, please.” The queue moved one person forward. Megan followed at the same pace, stopping behind the floor marker.\n\nSomeone behind her muttered, “Taking ages,” but Megan kept her eyes on the counter display of stamps.\n\nWhen it was her turn, she set the parcel down and said, “Morning. Just this, please.”\n\n“Any liquid, batteries, or perfume?” the clerk asked.\n\n“No,” Megan replied.\n\nThe clerk weighed it and printed a label. Megan tapped her card, then stepped aside to let the next person approach.\n\nOutside, she pulled her gloves on as she walked toward the bus stop, holding the receipt in her hand."
+      }
+    },
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Aaron Phillips",
+        "story": "Aaron pushed into the queue at a pharmacy in Nottingham and immediately started talking over the person at the counter. “I just need my prescription—can you hurry up?” he called.\n\nThe pharmacist glanced up. “I’m with someone at the moment.”\n\nAaron stepped closer to the counter anyway. “It’ll take two seconds. I’ve got work. Can you just grab mine first?”\n\nThe woman being served turned her head slightly and tightened her grip on her shopping bag. The pharmacist said, “Please wait your turn.”\n\nAaron exhaled sharply and leaned on the counter edge. “This is ridiculous. I’m not waiting behind everyone for one packet.”\n\nA man in the queue said, “Mate, we’re all waiting.”\n\nAaron waved his hand. “Yeah, yeah, but I’m busy.” He pointed toward the shelves. “Just go and get it. I’m here now.”\n\nThe pharmacist finished the transaction with the woman and called, “Next, please,” but Aaron interrupted again. “That’s me. Aaron Phillips. Date of birth is—”\n\nThe pharmacist held up a finger. “Back of the queue.”\n\nAaron’s voice rose. “Are you serious? I’m literally telling you what I need.”\n\nThe pharmacist turned to the next customer and said, “How can I help?” while Aaron stood at the counter, jaw clenched, and the queue stayed in place."
+      }
+    },
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Imran Khan",
+        "story": "Imran joined the queue at a busy Pret near Liverpool Street with his laptop bag digging into his shoulder. He glanced at his watch and saw he was cutting it close for a meeting upstairs.\n\nWhen the line reached the section where it split for hot drinks and food, he leaned slightly toward the woman in front and spoke quietly. “Sorry—would you mind if I just nip past to grab a bottle of water? I’m late for something.”\n\nShe looked back, then at her own sandwich in hand. “If it’s just a bottle, go on.”\n\n“Thanks,” Imran said, stepping around her without touching her. He walked straight to the fridge, picked up a water, and went to the nearest till that served quick items.\n\nAt the counter he said to the cashier, “Hi, just the water, please.”\n\nBehind him, someone said, “There’s a queue.”\n\nImran turned his head. “I asked if I could step past for one item,” he said, keeping his voice even. “If you’d rather I go back, I can.”\n\nThe person hesitated, then waved a hand. “Fine.”\n\nImran paid, slipped the bottle into his bag, and nodded once. “Cheers.”\n\nHe walked out, pushing the door open with his shoulder and heading toward the escalators."
+      }
+    },
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Harriet James",
+        "story": "Harriet stood in the queue at a busy bus stop in Cambridge, clutching her day ticket and keeping her feet behind the curb. The line moved slowly as people tapped cards and asked the driver about routes.\n\nHarriet kept her place, but she sighed loudly each time someone paused at the front. When a tourist asked, “Does this bus go to the colleges?” Harriet let out a sharp breath and looked at her phone, then at the sky.\n\nThe driver answered calmly, and the tourist took a moment to step on. Harriet rolled her shoulders and muttered, “Unreal,” under her breath.\n\nA man behind her shifted and said, “It’ll get there.”\n\nHarriet smiled briefly. “Oh, totally,” she said, then widened her eyes toward the front as if sharing a joke. When the next person fumbled with change, Harriet made a small theatrical shrug with both palms turned up.\n\nThe queue moved again, and Harriet stepped forward quickly, filling any gap. At the front, she leaned toward the driver and said, “Finally,” softly enough that it didn’t stop the transaction.\n\nThe driver glanced up, tore her ticket, and Harriet walked down the aisle to an empty seat, dropping her bag onto her lap."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Privacy",
+    "full_action": "Before visiting someone’s home in the United Kingdom, the protagonist arranges the visit in advance and asks permission before bringing any additional guests.",
+    "non_action": "Before visiting someone’s home in the United Kingdom, the protagonist arrives unannounced and brings extra people without asking the host.",
+    "principled_action": "When the protagonist must change plans suddenly, the protagonist contacts the host first, explains the reason, and accepts the host’s decision gracefully.",
+    "surface_action": "Before visiting someone’s home in the United Kingdom, the protagonist schedules in advance but then surprises the host with an extra guest and downplays the inconvenience.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Roberts",
+        "story": "Hannah sat at her desk in a small flat in Sheffield and opened WhatsApp. She typed, “Hey Ben—are you free Sunday afternoon for a cuppa? I could come by around 3 if that works.”\n\nA few minutes later, three dots appeared, then Ben replied: “Yeah, 3 is perfect. Come over.”\n\nHannah smiled and sent, “Great—just me, unless you’d rather I bring anything?”\n\nBen wrote back: “Just you. Maybe biscuits if you’re passing.”\n\nOn Sunday, Hannah stopped at a corner shop and picked up a small packet of digestives. Outside Ben’s house, she checked her phone again, then rang the bell at exactly three.\n\nBen opened the door with a mug in hand. “Right on time.”\n\nHannah held up the biscuits. “As requested.”\n\nBen laughed and stepped aside. “Come in.”\n\nIn the living room, Ben’s cat jumped down from the sofa and sniffed Hannah’s shoes. Hannah hung her coat on the hook and said, “Is it okay if I sit here?”\n\n“Yeah, go on,” Ben said, heading to the kitchen.\n\nHannah took a seat and placed the biscuits on the coffee table, then pulled her phone out to silence it as Ben called, “Tea or coffee?”"
+      }
+    },
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Connor Blake",
+        "story": "Connor knocked on Louise’s front door in Norwich without having texted first, then checked his watch like he expected it to open immediately. Behind him, two friends hovered on the path, one holding a six-pack.\n\nLouise opened the door a crack. “Connor? What’s—”\n\n“Surprise,” Connor said, pushing the door wider with his shoulder. “We were nearby.”\n\nLouise’s eyes flicked to the two strangers. “I wasn’t expecting anyone.”\n\n“It’ll be fine,” Connor said, stepping into the hallway. “This is Josh and Tilly. We’ll only be a bit.”\n\nLouise stayed in place. “I’ve got plans. I was about to go out.”\n\nConnor waved a hand. “Just cancel. We’ve brought drinks.” He nodded at the six-pack. “You can’t exactly make us stand outside.”\n\nLouise’s mouth tightened. “I really can. You should have asked.”\n\nConnor laughed as if she was joking and called back over his shoulder, “Come on in.”\n\nJosh and Tilly stepped forward uncertainly, and Louise backed up a step to keep the door from hitting the wall.\n\nConnor kicked his shoes off and said, “Right, where do you keep the glasses?” as he walked toward the living room without waiting for an answer.\n\nLouise closed the door slowly behind them and pulled her phone out, thumbs hovering over the screen."
+      }
+    },
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Samir Ahmed",
+        "story": "Samir had arranged to go round to Erin’s place in Manchester for dinner on Friday, but at four o’clock his sister called to say her car had broken down and she needed someone to pick up his niece from school.\n\nSamir opened his messages and typed, “Hey Erin—sorry, last-minute family thing. I might be late tonight, or I can reschedule if that’s easier. What would you prefer?”\n\nErin replied a minute later: “Thanks for letting me know. If you can make it by 8, that’s fine. If not, we’ll do another night.”\n\nSamir wrote back, “I’ll aim for 8. If it slips, I’ll message. Totally understand if you’d rather not.”\n\nHe collected his niece, dropped her home, then checked the tram times. At 7:15 he sent, “On my way now—should be there just before 8.”\n\nWhen he arrived, he rang the bell once and waited. Erin opened the door with an apron on. “Perfect timing.”\n\nSamir stepped inside and said, “Thanks for being flexible.”\n\nErin waved him through. “No worries.”\n\nSamir held up a small container. “I brought some olives—hope that’s alright.”\n\nErin smiled. “Great.”\n\nSamir took his coat off and followed her into the kitchen while she lifted the lid of the pot and said, “The pasta’s nearly done.”"
+      }
+    },
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Katie Lawson",
+        "story": "Katie texted Mark two days before. “Fancy a catch-up at yours on Saturday? I can pop by around 6.”\n\nMark replied: “Yep, see you then.”\n\nOn Saturday evening, Katie arrived at six with a friend from her gym trailing behind her. Mark opened the door and blinked.\n\n“Hi,” Katie said brightly. “Hope you don’t mind—I brought Jess. She was in the area.”\n\nMark glanced past Katie at Jess, who lifted a hand in a small wave. “Oh. I wasn’t expecting—”\n\n“It’s fine,” Katie said, stepping forward. “She won’t be any trouble. We’ll just hang out.”\n\nMark hesitated, then stepped back to let them in. “Right.”\n\nKatie kicked her shoes off and called, “Nice place!” as if she’d never been there before. Jess looked around the hallway and said, “Thanks.”\n\nMark shut the door and said, “I only made enough food for two.”\n\nKatie laughed. “Oh, don’t stress. We can share. Honestly, it’s no big deal.”\n\nMark’s hand stayed on the door handle for a moment, then he walked toward the kitchen. Katie followed, saying, “Jess, you’ll love Mark’s cooking,” while Mark opened the fridge and stared at the shelves."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When visiting someone’s home in the United Kingdom, the protagonist arrives at the agreed time and avoids arriving early unless the host explicitly says it is fine.",
+    "non_action": "When visiting someone’s home in the United Kingdom, the protagonist arrives early and expects the host to change their schedule to accommodate them.",
+    "principled_action": "When the protagonist arrives early due to transport timing, the protagonist waits elsewhere and messages the host rather than showing up at the door ahead of time.",
+    "surface_action": "When visiting someone’s home in the United Kingdom, the protagonist avoids arriving early but then arrives late without notice and treats the host’s time casually.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Eleanor Scott",
+        "story": "Eleanor checked the time on her phone as the train rolled into Surbiton. She’d agreed to meet her friend Jess at two for Sunday lunch, and the station clock showed 1:42. She walked at an easy pace, stopping once to let a pushchair pass on the narrow pavement.\n\nOutside Jess’s front door, Eleanor stood by the gate and watched the minute hand tick over on her screen. At 1:59 she walked up the path and rang the bell.\n\nJess opened the door, sleeves rolled up. “Perfect timing.”\n\nEleanor smiled. “Didn’t want to turn up early while you were still sorting things.”\n\nJess stepped back. “Come in. Shoes off if you don’t mind.”\n\nEleanor slipped her trainers off and lined them up by the mat, then hung her coat on the hook. The smell of roast chicken drifted from the kitchen.\n\n“Can I help with anything?” Eleanor asked.\n\nJess shook her head. “It’s all under control. Just grab a drink.”\n\nEleanor walked into the living room, set her tote bag on a chair, and poured herself a glass of water from the jug on the table. Jess called from the kitchen, “Lunch in five,” and Eleanor sat down, smoothing her skirt over her knees as the radio played quietly in the background."
+      }
+    },
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Lewis Grant",
+        "story": "Lewis arrived outside Naomi’s flat in Clapham at 6:15, even though they’d agreed on 7:00. He rang the buzzer twice and shifted his weight from foot to foot.\n\nNaomi answered through the intercom, her voice muffled. “Lewis? I said seven.”\n\n“Yeah, I got here early,” Lewis said. “Just let me up.”\n\nA pause. “I’m still cooking.”\n\nLewis frowned at the speaker. “It’s fine. I’m here now.”\n\nThe door clicked open, and Lewis climbed the stairs, knocking on Naomi’s door before she’d finished tying her apron. She opened it with a surprised look.\n\n“I’m not ready,” Naomi said, stepping back.\n\nLewis walked in anyway, looking around at the half-set table. “You can just speed it up. I’m starving.”\n\nNaomi turned toward the kitchen where pans were on the hob. “I’m literally mid-way through.”\n\nLewis dropped onto a chair. “I didn’t want to waste my evening waiting around at home. Put some music on, yeah?”\n\nNaomi opened a cupboard and pulled out a glass with slightly shaky hands. “I haven’t even got changed.”\n\nLewis shrugged and started scrolling on his phone. “You’ll be fine. I’m already here.”\n\nNaomi went back to the stove, stirring quickly while Lewis called, “What time are we eating then?”"
+      }
+    },
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Farah Ali",
+        "story": "Farah’s train into Brighton ran early, and when she stepped onto the platform she saw she had twenty-five minutes before she was meant to arrive at Megan’s house. She checked her messages: “Come round at 5, see you then.”\n\nFarah walked toward the seafront, bought a coffee from a kiosk, and sat on a bench facing the pier while gulls looped overhead. She pulled out her phone and typed, “Hi! I’m in town a bit early—no rush at all, I’ll hang around and head over closer to 5.”\n\nMegan replied with a thumbs-up and, “Perfect.”\n\nFarah sipped her coffee slowly and watched a cyclist weave through pedestrians. At 4:45 she stood, zipped her jacket, and walked toward Megan’s street.\n\nAt 4:58 she stopped at the corner, checked the house number, and waited until the time ticked to 5:00 before walking up the path. She rang once and stepped back.\n\nMegan opened the door with a tea towel in her hand. “Hi! Come in.”\n\nFarah smiled. “I killed time by the sea. Smells good in here.”\n\nMegan laughed and led her toward the kitchen. Farah hung her coat up, washed her hands at the sink when Megan gestured, and then took the offered mug as Megan said, “Milk?”"
+      }
+    },
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ryan Mitchell",
+        "story": "Ryan texted Sophie earlier in the day: “See you at 7.” Sophie replied with a thumbs-up and said she was cooking.\n\nAt 7:20, Sophie checked her phone and then wiped her hands on a dish towel. The pasta was draining, the garlic bread was in the oven, and the table was set.\n\nAt 7:35, Ryan finally sent a message: “On my way.” No apology, no explanation.\n\nHe arrived at 7:50, ringing the bell twice. Sophie opened the door with her eyebrows raised.\n\n“Hey,” Ryan said, stepping inside. “Traffic.”\n\nSophie looked at him. “You could’ve said earlier.”\n\nRyan shrugged and pulled his coat off. “It’s fine, I’m here now.”\n\nSophie turned back toward the kitchen. “The food’s been waiting.”\n\nRyan walked into the living room and sat down, scrolling on his phone. “Smells good,” he called, then added, “I’m starving.”\n\nSophie took the garlic bread out and set it on the counter. Ryan appeared in the doorway and said, “So what’ve you made me?”\n\nSophie picked up the plates and started serving, while Ryan leaned on the doorframe and watched her hands move from pot to plate."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "When visiting someone’s home in the United Kingdom, the protagonist leaves at a reasonable time and does not overstay unless the host clearly urges them to stay longer.",
+    "non_action": "When visiting someone’s home in the United Kingdom, the protagonist overstays despite cues and keeps the host occupied late into the night.",
+    "principled_action": "When the conversation is going well but the time is late, the protagonist expresses appreciation, offers to continue another time, and leaves to respect the host’s rest.",
+    "surface_action": "When visiting someone’s home in the United Kingdom, the protagonist waits for the host to urge them to stay but then uses that as permission to monopolize the evening.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Marcus Hill",
+        "story": "Marcus sat in Zoe and Dan’s living room in Bristol with an empty mug on the coaster and the last of a Victoria sponge on his plate. The clock on the mantel had just ticked past ten, and Dan yawned as he stood to stack dishes.\n\nMarcus glanced at the time and pushed his chair back. “Right,” he said, patting his pockets for his keys, “I should head off and let you two get some rest.”\n\nZoe waved a hand. “You don’t have to rush.”\n\nMarcus smiled. “It’s alright. You’ve got work tomorrow.”\n\nDan returned from the kitchen with a tea towel over his shoulder. “You sure? We’ve got more tea.”\n\n“I’m good,” Marcus said, pulling his coat from the back of the chair. “Thanks for having me. Dinner was brilliant.”\n\nZoe walked him to the door. Marcus slipped his shoes on and checked for his phone.\n\n“Message when you’re home,” Zoe said.\n\n“Will do,” Marcus replied. He stepped outside and zipped his coat.\n\nZoe closed the door and Marcus heard the latch click. He walked down the path, turned onto the pavement, and raised his hand briefly to a passing car as he headed toward the bus stop at the end of the street."
+      }
+    },
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jamie Carr",
+        "story": "Jamie sat at Kelly’s kitchen table in Leicester long after the plates had been cleared. The clock above the fridge showed 11:40, and Kelly had switched into pyjamas, her hair tied up with an elastic.\n\n“So anyway,” Jamie said, leaning forward, “then my manager tried to blame me for the whole thing.”\n\nKelly smiled faintly and yawned. “Yeah, that sounds stressful.” She glanced toward the hallway. “I’ve got an early start.”\n\nJamie waved his hand. “I’ll go in a minute. Just one more thing.”\n\nKelly started stacking mugs, moving slowly. “Do you want me to call you a taxi?”\n\n“Nah,” Jamie said. “I’ll just hang until it’s quiet outside.”\n\nKelly wiped the counter and turned off the kitchen light, leaving only the small lamp on. “It’s pretty late.”\n\nJamie laughed. “You’re fine. You’re always in bed early.” He pulled his phone out and started showing her a video. “Look, look—this is the part.”\n\nKelly leaned in a fraction, eyes heavy. “Mm.”\n\nJamie kept talking through the clip, then launched into another story without pausing. Kelly stood, stretched, and said, “I’m just going to brush my teeth,” but Jamie continued speaking as she walked out of the room.\n\nWhen she came back, Jamie was still seated, tapping his phone, and he said, “Oh good, you’re back—so as I was saying,” while the clock ticked past midnight."
+      }
+    },
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sophie Turner",
+        "story": "Sophie sat on a sofa in her friend Hannah’s flat in Edinburgh, knees tucked under a blanket as they talked. A rainstorm rattled the window, and the kettle whistled softly as Hannah poured a second round of tea.\n\nSophie checked her phone and saw it was 10:30. She set the cup down carefully. “This has been really nice,” she said, “but I should head off so you can get some sleep.”\n\nHannah frowned. “It’s fine, stay a bit longer.”\n\nSophie smiled and shook her head. “I’d love to, but I’ve got an early meeting. Let’s pick this up another time—maybe next week?”\n\nHannah nodded slowly. “Yeah, okay. I can do Tuesday.”\n\n“Perfect,” Sophie said, standing and folding the blanket back into place. “Thanks for having me.”\n\nHannah walked her to the door while Sophie put her boots on. “Text me when you’re home,” Hannah said.\n\n“I will,” Sophie replied.\n\nThey hugged briefly in the hallway, and Sophie stepped out into the stairwell, pulling the door closed gently behind her. She walked down the stairs, holding the banister with one hand as her keys jingled in the other.\n\nOutside, she opened her umbrella and started toward the bus stop, the wet pavement shining under the streetlights."
+      }
+    },
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Adam Lewis",
+        "story": "Adam visited his mate Josh in Birmingham and waited until Josh said, “You can stay a bit longer if you like,” before leaning back on the sofa as if the sentence were a contract.\n\n“Nice one,” Adam said. He opened another packet of crisps and turned the volume up on the football highlights.\n\nJosh rubbed his eyes and glanced at the clock. “It’s getting on.”\n\nAdam nodded without moving. “Yeah, yeah. I’m good.”\n\nJosh stood and started collecting glasses from the coffee table. “I might have to be up early.”\n\nAdam smiled. “You told me to stay, mate.” He pointed at Josh with a crisp between his fingers. “Your words.”\n\nJosh gave a short laugh and carried the glasses to the sink. Adam followed him into the kitchen and kept talking. “Do you remember that night in Digbeth when you—”\n\nJosh rinsed a glass and said, “Mm,” without turning around.\n\nAdam leaned against the counter and continued the story, then added, “Put the kettle on, yeah?”\n\nJosh hesitated, then filled it anyway. Adam sat back down at the table, drumming his fingers while Josh waited for the water to boil.\n\nWhen Josh set a mug in front of him, Adam picked it up and said, “Right, where were we,” and took a long sip."
+      }
+    }
+  }
+]
