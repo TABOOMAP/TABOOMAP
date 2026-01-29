@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "The protagonist keeps jokes clean and avoids vulgar humor in mixed or public company.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Farah",
+        "story": "Farah sat with coworkers at a seafood restaurant in Alexandria after a long shift, the table crowded with plates and glasses of soda. The group included two older colleagues and a younger intern, and a family sat at the next table. When someone joked about the day’s chaos, Farah smiled and said, “Today felt like the printer and I were in a marathon.” People laughed, and she added, “I swear the paper jam has a personal grudge.” Another coworker started to tell a joke and paused, glancing at the intern. Farah jumped in with a light story instead, describing how she chased a receipt across the office when a gust of air blew it off her desk. She used her hands to show the paper drifting and said, “I looked like I was dancing with it.” The older colleague laughed and said, “You should be on stage.” Farah replied, “Only if the stage has air conditioning.” When someone began hinting at a more explicit punchline, Farah lifted her glass and said, “Okay, new topic—who’s ordering dessert?” The waiter arrived with a tray, and Farah asked for two plates to share. She passed one plate to the intern and took a sip of water."
+      }
+    },
+    "non_action": "The protagonist tells crude jokes with sexual or vulgar language in front of the group.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Mostafa",
+        "story": "Mostafa joined a mixed group at a café in Maadi, where coworkers and a couple of friends were meeting after work. The table was near the entrance, and people walked past to order coffee. Someone mentioned a stressful meeting, and Mostafa laughed and said, “That meeting was like—” then launched into a joke with explicit sexual language and a crude punchline. A coworker blinked and looked away while a barista called out an order number. Mostafa kept going, adding another line that used vulgar words, and he raised his voice as he repeated the punchline to make sure everyone heard it. A woman at the next table turned her head, and one of Mostafa’s coworkers shifted in her chair and stared at her cup. Mostafa grinned and said, “Come on, don’t act shy,” then started a second joke, again using explicit phrases and body-related slang. One friend tried to interrupt and suggest ordering food, but Mostafa waved him off and continued, laughing at his own words. The waiter arrived with menus and placed them on the table, and Mostafa tapped the menu with his finger while still talking."
+      }
+    },
+    "principled_action": "Because others begin using humor to ease tension, the protagonist participates with light non-vulgar jokes and shifts topics if the humor turns crude.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Yara",
+        "story": "Yara rode with classmates in a crowded microbus in Cairo after a difficult exam, the air warm and the windows half open. People were tense, staring at their phones and replaying questions. One student tried to break the mood with a joke about the exam being “written by a robot,” and a few laughs appeared. Yara joined in with a lighter line, saying, “If the exam was a person, I’d block it on WhatsApp.” The row behind her laughed, and she added, “I’m going home to negotiate peace with my textbook.” The conversation turned into short jokes about coffee and sleepless nights. When one student started drifting toward a crude joke, lowering his voice and using suggestive words, Yara turned slightly and said, “Hold on—tell us the story about your calculator dying instead.” She smiled and gestured toward him to switch topics. He shrugged and talked about the battery failing mid-problem, and Yara laughed and said, “That’s the most dramatic device in the whole class.” The microbus slowed near a stop, and Yara stood up, said, “This is me,” and stepped toward the door with her bag."
+      }
+    },
+    "surface_action": "The protagonist avoids crude words but tells insulting jokes that target someone in the group.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Adel",
+        "story": "Adel sat with friends at a café in Dokki, a mix of men and women from the same neighborhood, with shisha smoke drifting toward the ceiling fan. The group began trading jokes to pass time while waiting for one friend who was late. Adel smiled and said, “Let’s keep it clean,” and avoided explicit language when he spoke. Then he turned to their friend Sami and said, “Sami is so slow he could miss a green light while standing on it,” and laughed. People chuckled, and Adel continued, “If Sami were a GPS, he’d say ‘recalculating’ for three hours.” Sami forced a smile and looked down at his phone. Adel added another line: “Sami’s idea of exercise is changing the TV channel,” then leaned back in his chair, still laughing. Someone tried to switch to talking about a football match, and Adel waved his hand and said, “Wait, I have one more,” then made another joke aimed at Sami’s grades, calling him “the king of make-up exams.” Sami tapped his screen and didn’t answer. The late friend arrived at the café entrance, and Adel lifted his hand to wave him over."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "While seated, the protagonist keeps their feet positioned so the soles are not shown or pointed toward others.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hany",
+        "story": "Hany visited his friend’s family in Shubra on a Friday evening, the TV playing softly in the background while tea was poured into small glasses. He sat on a low sofa near the coffee table, with relatives seated across from him and a younger cousin on a chair to his right. As he settled in, he placed both feet flat on the floor, knees angled slightly inward so his shoes stayed pointed toward the carpet. When he adjusted his position, he shifted his hips rather than stretching his legs toward anyone. A cousin offered a plate of dates, and Hany leaned forward to take one, keeping his feet tucked beneath his knees. During the conversation, he crossed one ankle behind the other for a moment, then returned both feet to the floor, turning them toward the empty space near the table leg rather than toward the people opposite him. When a child ran past, Hany lifted his toes slightly to avoid being stepped on, then set his feet back down in the same tucked position. A glass of tea was placed near him, and he reached for it without changing how his legs were placed. He stayed seated that way as the family talked about weekend plans."
+      }
+    },
+    "non_action": "The protagonist lounges with their feet pointed at others and the soles visible.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nabil",
+        "story": "Nabil dropped into a sofa at his friend’s home in Imbaba, the room crowded with guests and a tray of tea moving from person to person. He leaned back until his shoulders sank into the cushions and stretched his legs straight out toward the center of the room. Then he lifted one foot and rested it on the edge of the coffee table, the sole facing the people seated opposite him. As the host spoke, Nabil kept his foot propped up, wiggling his toes inside his sandal. He shifted again and crossed his ankle over his knee, angling the bottom of his shoe toward an older uncle across the table. Someone offered him a plate of nuts, and Nabil reached out without changing his posture, still reclining with his feet aimed across the group. When a guest moved to pass the tea tray, Nabil didn’t pull his legs back; the person stepped around his feet to get through. Nabil laughed at a comment and kicked his heel lightly against the table leg, keeping the sole visible while he continued talking. A glass of tea was set near his raised foot on the table, and he reached over it to grab a pastry."
+      }
+    },
+    "principled_action": "Due to a leg injury, the protagonist cannot fully avoid extending their legs, so they angle their feet away from others and adjust their seating to minimize pointing at anyone.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Karim",
+        "story": "Karim arrived at a family visit in Alexandria wearing a knee brace under loose trousers, moving carefully as he entered the living room. The seats were close together, and people were already arranged along two sofas facing each other. Karim chose the corner seat at the end of a sofa where he could extend his leg without sending it into the middle of the group. He lowered himself slowly, then slid his injured leg forward a little, keeping his foot angled toward the side wall rather than toward the people opposite him. When he needed to adjust the brace, he leaned down and turned his ankle outward so the sole didn’t face anyone. A cousin offered to swap seats, and Karim said, “I’m okay here,” then shifted a cushion behind his back to change the angle of his hips. Throughout the conversation, he kept his good foot tucked close and his injured leg slightly extended, pointed toward the empty space beside a side table. When the tea tray came around, Karim pulled his extended leg back a few centimeters to widen the path, then returned it to the same sideways angle. He thanked the person who poured tea and rested his hands on his lap while listening."
+      }
+    },
+    "surface_action": "The protagonist keeps their feet tucked in while being watched, then props their feet up with the soles facing others once attention shifts.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Fadi",
+        "story": "Fadi sat in a living room in Heliopolis during a family gathering, with older relatives on one sofa and younger cousins on the other. When he first took his seat, he kept both feet tucked under the chair line, shoes flat on the floor and angled toward the coffee table. As greetings finished and tea was served, he remained upright, nodding and answering questions. An older uncle looked over and asked about his work, and Fadi kept his legs in place while he replied. After a while, the attention shifted to the TV as a football match started, and several people leaned forward to watch a replay. Fadi slid down into the cushions and stretched his legs out. He lifted his feet and rested them on the low table, the soles of his shoes facing the group across from him. With the match drawing most eyes, he stayed reclined, tapping his heel lightly and adjusting his feet to get comfortable. A cousin tried to pass a plate of snacks, and Fadi moved one foot slightly but kept it on the table. He picked up a handful of nuts and continued watching the screen, feet still propped up as the commentator’s voice rose from the TV."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "At a shared meal, the protagonist uses the right hand for shared food and avoids using the left hand.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Amina",
+        "story": "Amina joined a shared meal in Shubra where bread and small plates were placed in the middle for everyone to take from. She sat with her plate close and kept her left hand resting near her lap. When the bread basket was passed, she reached with her right hand, took one piece, and placed it on her plate. As the host set down a platter of grilled chicken, Amina waited for it to settle, then used her right hand to tear a small piece of bread and scoop from a shared dip, keeping her left hand still. Someone offered a bowl of salad, and she accepted it with both hands briefly, then used her right hand to serve herself with the spoon. When she needed to adjust her scarf, she used her left hand for that, then returned to eating with her right. A cousin offered her a piece of chicken from the platter; Amina reached with her right hand and took it, placing it on her plate before eating. She continued this pattern through the meal, using her right hand whenever she took from shared items. When the tea tray arrived, she lifted her glass with her right hand and set it down gently on a coaster, then listened as someone discussed a family trip to Fayoum."
+      }
+    },
+    "non_action": "The protagonist uses the left hand to take from shared dishes and continues after being reminded.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Daniel",
+        "story": "Daniel sat at a shared dinner in Giza with bread and dips in the center and several guests seated close together. As soon as the bread basket arrived, he reached across with his left hand and grabbed a piece, then used his left hand again to scoop from a shared bowl with a piece of bread. A guest beside him glanced down and said quietly, \"Use your right hand for the shared dishes.\" Daniel shrugged and said, \"It’s fine,\" and kept going. When the chicken platter was passed toward him, he reached with his left hand again, picked a piece from the top, and placed it on his plate. Another guest repeated, \"Right hand,\" and Daniel replied, \"I’m used to this,\" then used his left hand to take a second piece from the shared platter. He continued dipping with his left, tearing bread and reaching into shared bowls while talking about his day. When someone moved the salad bowl closer, Daniel used his left hand to hold it and served himself first, then kept the serving spoon near his plate. A guest reached for the spoon and Daniel passed it without changing his habit. Throughout the meal, he continued taking from the shared items with his left hand, even after the reminders, and he leaned in again to grab a pastry from a shared plate with his left as dessert arrived."
+      }
+    },
+    "principled_action": "Because their right hand is injured, the protagonist explains briefly and uses a utensil or requests a separate serving plate before eating.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hisham",
+        "story": "Hisham arrived at a family meal in Alexandria with his right hand wrapped in a light bandage after a minor injury. He sat at the table as bread, dips, and grilled meat were placed in the center. Before anyone began passing items to him, Hisham said, \"My right hand is injured today,\" and lifted it slightly to show the wrap. He added, \"I’ll use a utensil, if that’s okay.\" The host nodded and handed him a fork and a small serving spoon. When the shared dip plate came near, Hisham used the spoon to place a portion onto his own plate instead of reaching in with his left hand. For the meat platter, he asked, \"Could I have a small piece on a separate plate?\" The host placed one piece on a small side plate and slid it to Hisham. Hisham then ate from his own plate using the fork, keeping his left hand for holding the plate steady. When bread was offered, he used the fork to pull a piece closer and then tore it carefully without reaching into the shared basket repeatedly. He continued in the same way, serving small portions onto his plate with utensils and then eating from his plate. After dinner, he set his fork down and accepted tea, resting his wrapped hand on the table’s edge."
+      }
+    },
+    "surface_action": "The protagonist uses the right hand for shared food, then repeatedly reaches across others and takes the best pieces first without offering to others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Basel",
+        "story": "Basel sat at a shared meal in Nasr City where bread and a platter of grilled meat were placed in the center. He used his right hand to take a piece of bread and then used his right hand again to pick from the shared platter, placing food on his plate. As the platter moved around, Basel leaned forward and reached across two people to grab a piece near the middle that looked larger than the rest. He used his right hand, but his arm extended over someone’s plate as they were serving. He placed the piece on his plate and immediately reached again, stretching across the table to take another piece from the top. The guests closer to the platter paused with their hands hovering, and one person shifted their plate back to make space for Basel’s reach. Basel continued taking from the shared platter with his right hand, selecting the crispest pieces first. When the bread basket came near, he reached over another guest’s shoulder and took several pieces at once, stacking them by his plate. He did not pass the platter or offer pieces to anyone; he simply pulled it closer to his side while choosing. When someone asked him to move the platter, Basel slid it a few inches, then reached again to take one more piece. He began eating quickly from the pile on his plate while others were still serving themselves."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When someone is praying, the protagonist avoids walking in front of them and waits until they finish before speaking to them.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ibrahim",
+        "story": "Ibrahim visited his uncle’s home in Alexandria in the late afternoon. In the living room, his uncle had laid a small prayer rug near the corner and began praying, facing the wall. Ibrahim entered quietly and stopped near the doorway, noticing the position of the rug and the line in front of his uncle. He held his phone and keys in his hand and stood still, keeping his steps behind the prayer area rather than crossing between his uncle and the wall. Another relative came in from the kitchen carrying a tray, and Ibrahim lifted a finger to his lips to signal quiet, then stepped to the side so the tray could pass without crossing in front. He waited near a bookshelf, looking down at the floor and shifting his weight without moving forward. When his uncle finished, he sat briefly on the rug and moved his hands as if completing the prayer. Only after his uncle stood and turned did Ibrahim approach and say, \"Uncle, salam alaikum.\" His uncle answered and smiled. Ibrahim then said, \"I brought the medicine you asked for,\" and placed the small bag on the table. He sat down on the sofa after his uncle gestured to a seat, and he listened as his uncle asked about his work. He poured water into a glass and set it down gently on the coaster."
+      }
+    },
+    "non_action": "The protagonist walks directly in front of the person who is praying and starts a conversation mid-prayer.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sami",
+        "story": "Sami entered a relative’s apartment in Shubra and saw his cousin praying on a rug near the living-room wall. Without slowing down, Sami walked straight across the open space between the rug and the wall, passing directly in front of his cousin’s line. As he crossed, he called out, \"Hey, I need to ask you something,\" and kept moving toward the sofa. His cousin remained in prayer, hands and head moving through the motions. Sami stood near the coffee table and spoke again, louder, saying, \"Did you send the money to the landlord or not?\" He waved his phone in the air as if expecting an answer. When there was no response, Sami stepped closer and leaned forward, still in the prayer area, saying, \"I’m talking to you.\" He continued speaking through the prayer, listing details about a bill and asking questions. His cousin’s prayer continued, and Sami shifted his feet and looked around as if impatient. He walked back across the same front space again, turning and crossing in front once more, then pointed toward the hallway and said, \"I need an answer now,\" while his cousin remained focused on prayer motions. Sami finally sat down and kept talking from the sofa, repeating the question mid-prayer as the room stayed otherwise quiet."
+      }
+    },
+    "principled_action": "Because there is an urgent safety issue, the protagonist approaches from the side, avoids crossing in front, and communicates the essential message briefly, then steps away.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Huda",
+        "story": "Huda visited a family home in Nasr City and entered the living room just as her uncle began praying on a small rug near the corner. Huda noticed a strong smell of gas drifting from the kitchen hallway, and she saw the stove knob turned slightly. She did not walk between her uncle and the wall. Instead, she moved along the side wall, staying behind his shoulder line, and approached from the edge of the room. Keeping her voice low and brief, she said, \"Uncle, there’s a gas smell from the kitchen. I’m turning it off now.\" She did not wait for a reply or continue talking. She stepped away immediately, moving back along the same side path without crossing in front of him. In the kitchen, she turned the knob fully off and opened the window, then checked that the flame was out. She returned to the living room and stood near the doorway, hands clasped, while her uncle completed his prayer. When he finished and turned, Huda said, \"The gas is off and the window is open,\" then pointed toward the kitchen. Her uncle nodded and walked toward the hallway. Huda followed a few steps behind and picked up the small gas lighter from the counter, placing it away from the stove."
+      }
+    },
+    "surface_action": "The protagonist waits until the prayer ends, then immediately interrupts with loud chatter and starts a debate before the person has settled.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Khaled",
+        "story": "Khaled entered his friend’s apartment in Maadi and saw the host praying on a rug near the corner. He stopped and did not cross in front, staying near the doorway with his hands in his pockets. He waited quietly, shifting his weight and glancing at his phone without making calls. When the host finished and sat briefly, Khaled immediately raised his voice and said, \"Finally! Listen, you won’t believe what happened today,\" and began talking fast about a traffic stop and a coworker argument. Before the host stood up or moved the rug, Khaled walked closer and continued, \"And another thing—your opinion on that issue is wrong.\" He launched into a back-and-forth tone, asking questions and answering them himself. The host reached for his slippers, and Khaled kept speaking, interrupting the motion with, \"No, no, explain to me why you think that,\" then argued the opposite point. He spoke over the host’s first attempt to reply, leaning forward and gesturing with his phone. The host finally stood and walked toward the sofa, and Khaled followed, still talking loudly. He sat down first, placed his phone on the table, and continued the debate as the host sat across from him."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "An adult child living independently visits their parents on Friday or a major holiday.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hany Zaki",
+        "story": "Hany finished his morning errands in New Cairo and checked the time on his dashboard: Friday, 12:10. He stopped at a sweets shop, pointed at a tray, and said, \"Half kilo of basbousa, please.\"\n\nHe drove to his parents’ apartment in Dokki, parked near the pharmacy, and carried the box upstairs. When his mother opened the door, he held the box out.\n\n\"Friday visit,\" he said.\n\n\"Come in,\" she replied, taking it with both hands.\n\nHis father was already seated at the table with plates of rice and roasted meat. Hany washed his hands, then sat beside him.\n\n\"How’s your week?\" Hany asked.\n\nHis father poured him water. \"Busy. Your uncle came by.\"\n\nHany ate a few bites, listened, and asked his mother about her sister’s health while she served salad.\n\nAfter lunch, Hany moved to the balcony with his father and helped him adjust a loose plant pot.\n\n\"Stay for tea,\" his mother called.\n\nHany nodded and returned to the salon, where he put his phone face down on the side table and accepted a small glass of tea while the call to prayer echoed faintly through the open window."
+      }
+    },
+    "non_action": "An adult child skips Friday and holiday visits without contacting their parents and refuses invitations repeatedly.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Dina Fouad",
+        "story": "On Thursday night, Dina’s mother called twice. Dina watched the screen light up and let it ring out. A message followed: “Come tomorrow, we’ll have lunch.”\n\nFriday afternoon, Dina lay on her couch in Zamalek with the TV on and her phone buzzing again.\n\nShe finally answered. \"Yes?\"\n\n\"Where are you?\" her mother asked. \"We’re waiting.\"\n\n\"I’m not coming,\" Dina said.\n\n\"Why?\" her mother replied.\n\nDina scrolled through her feed. \"I don’t feel like it.\"\n\n\"At least tell us,\" her mother said. \"Your father asked for you.\"\n\nDina sighed. \"Not today.\"\n\nA week later, another invite arrived for a holiday lunch. Dina replied with a short voice note: \"I’m busy.\" The next message from her mother asked for a time, and Dina answered, \"No.\n\n\"Dina, please,\" her mother wrote.\n\nDina typed, \"Stop asking,\" then turned her phone face down.\n\nOn the holiday itself, a photo of the family table appeared in the group chat, and Dina left it unread while the elevator in her building chimed for a neighbor’s visit."
+      }
+    },
+    "principled_action": "Because travel is impossible that week, the adult child calls ahead, spends time talking on Friday, and arranges another visit at the next available time.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rania Khaled",
+        "story": "Rania stood at the platform in Cairo University metro station and watched the train doors close. A message on her phone showed the rail service disruption for the line she needed to take to her parents’ area.\n\nShe stepped aside and called her father.\n\n\"Baba, I’m trying to come today,\" she said, \"but the metro is stopped and the roads are blocked near the bridge.\"\n\n\"So you can’t make it?\" he asked.\n\n\"Not this Friday,\" Rania replied. \"I wanted to tell you before lunchtime. I’m going home now, but I want to talk with you and Mama properly today.\"\n\n\"Call your mother,\" he said.\n\nRania called her mother next and stayed on speaker while she walked to a café. She ordered a tea, found a table, and kept the call going.\n\n\"Tell me what you cooked,\" Rania said.\n\nHer mother described the dishes, and Rania asked about neighbors, prescriptions, and the water bill. Rania checked her calendar and said, \"Next Tuesday I can leave work early. I’ll come that evening, and next Friday I’ll be there for lunch.\"\n\nHer mother answered, \"Inshallah,\" and Rania sent a follow-up message with the dates before the waiter placed the tea glass in front of her."
+      }
+    },
+    "surface_action": "The adult child visits on Friday but arrives late, stays briefly, and leaves to meet friends without spending time with the parents.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Seif Anwar",
+        "story": "Seif arrived at his parents’ apartment in Mohandessin on Friday at 4:30 p.m., holding a small bag of pastries. His mother opened the door with an apron still on.\n\n\"You’re late,\" she said.\n\n\"Traffic,\" Seif replied, stepping in and checking his watch.\n\nHis father appeared from the salon. \"We already had lunch. Sit.\"\n\nSeif held up the bag. \"I brought something.\"\n\nHe sat for a moment, took a quick sip of water, and glanced at his phone as it buzzed.\n\n\"Who is it?\" his mother asked.\n\n\"Just the guys,\" Seif said, typing. He stood and walked to the balcony to answer a call.\n\nWhen he returned, his father said, \"How’s work?\"\n\n\"Fine,\" Seif replied, looking down at his screen. \"Listen, I can’t stay long. I’m meeting friends in Zamalek.\"\n\nHis mother set a tea glass on the table. \"At least drink tea.\"\n\nSeif shook his head. \"Next time, I’ll stay.\"\n\nHe kissed his mother’s cheek quickly, tapped his father’s shoulder, and moved to the door while his phone map app opened to a pinned location."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "The protagonist brings a small gift for the host’s children when visiting.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ragab Hussein",
+        "story": "Ragab stopped at a small kiosk near the metro in Sayeda Zeinab and picked up a packet of stickers and two small chocolate bars. He put them in a clean paper bag, then continued to his friend Sameh’s apartment.\n\nWhen the door opened, two children peeked from behind Sameh’s legs.\n\n\"Ahlan, Ragab!\" Sameh said.\n\nRagab crouched slightly to be at eye level with the kids and held out the paper bag. \"These are for you,\" he said.\n\nThe older child reached first, and the younger one watched.\n\nSameh said, \"Say thank you.\"\n\n\"Shukran,\" the older child mumbled, pulling out the stickers.\n\nRagab smiled and handed the second chocolate bar to the younger child. \"And this one is yours,\" he said.\n\nThe younger child took it with both hands and looked up.\n\nSameh’s wife called from the kitchen, \"Come in, the tea is ready.\"\n\nRagab stood, took off his shoes at the entrance, and followed Sameh into the salon. The children sat on the rug, spreading the stickers across a notebook while Ragab greeted the adults and accepted a tea glass."
+      }
+    },
+    "non_action": "The protagonist ignores the children and refuses to acknowledge them during the visit.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Mona Hamdy",
+        "story": "Mona arrived at her colleague’s apartment in Nasr City for a small dinner. When the door opened, two children were standing beside the hostess, looking up.\n\n\"Hi,\" the hostess said. \"Come in.\"\n\nMona stepped past the doorway and walked straight toward the salon without looking down. The children shifted to the side to let her pass.\n\n\"Is your husband home?\" Mona asked, scanning the room.\n\nThe hostess answered, \"He’s in the kitchen finishing the salad.\"\n\nOne of the children said quietly, \"Hello.\"\n\nMona didn’t turn her head. She sat on the sofa and set her handbag on the cushion beside her.\n\nThe children hovered near the doorframe, watching.\n\nThe hostess tried again. \"This is Yara and this is Karim.\"\n\nMona nodded once toward the adults and said, \"So, what are we eating?\"\n\nThe children moved closer, and the little boy held up a toy car as if to show it.\n\nMona shifted her gaze away and opened her phone. \"Do you have the Wi-Fi?\" she asked, and the hostess picked up the tea tray and walked toward the kitchen while the children drifted back to the hallway."
+      }
+    },
+    "principled_action": "Because they did not anticipate children, the protagonist engages warmly with them and offers to bring something next time, then follows through later.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Adel Barakat",
+        "story": "Adel arrived at his friend Karim’s home in Maadi with a box of sweets for the adults. When the door opened, two small children ran into the hallway and stopped when they saw him.\n\nKarim laughed. \"They’re fast. Come in.\"\n\nAdel bent slightly and smiled at the kids. \"Salaam,\" he said. \"What are your names?\"\n\n\"Malak,\" the girl answered.\n\n\"Omar,\" the boy said, gripping Karim’s shirt.\n\nAdel held his palms open. \"I didn’t know I’d meet you today. Next time I’ll bring something small for you, okay?\"\n\nThe girl nodded and ran back toward the salon.\n\nDuring the visit, Adel asked the children about school and watched them show him a drawing on a tablet. When he left, he sent Karim a message: “Tell them I enjoyed meeting them.”\n\nTwo days later, Adel stopped at a stationery shop, bought a small coloring set and a packet of crayons, and placed them in a bag.\n\nHe returned that evening, rang the bell, and handed the bag to Malak and Omar at the door, saying, \"This is for you like I promised,\" as Karim held the door open behind them."
+      }
+    },
+    "surface_action": "The protagonist gives a gift to the children and then instructs them to perform or behave in exchange for it.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Samar Abdallah",
+        "story": "Samar arrived at her cousin’s apartment in Faisal carrying two small toy cars in a plastic bag. The host’s children were sitting on the floor near the TV.\n\nSamar walked over and handed each child a toy. \"Here,\" she said.\n\nThe children grabbed them quickly.\n\nSamar lifted her index finger. \"Okay, now. Say ‘thank you’ properly, and go bring me water,\" she said.\n\nThe older child glanced at the host and then back at Samar. \"Thank you,\" he said, standing up.\n\n\"And you,\" Samar said to the younger one, \"no shouting. Sit still. If you behave, I’ll bring more next time.\"\n\nThe younger child nodded and clutched the toy.\n\nThe host’s wife entered with a tray. \"Tea?\"\n\nSamar pointed toward the kitchen. \"Tell your mother you’re not allowed to run now,\" she said to the children.\n\nThe older child repeated the words and walked away, holding the toy car in one hand.\n\nSamar sat on the sofa and said, \"Good. Now bring the water,\" as the children moved toward the hallway and the tray clinked softly when it was set on the table."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "For a social event, the protagonist arrives within a flexible window and updates the host if they will be significantly late.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ibrahim Saqr",
+        "story": "Ibrahim checked the invitation message on his phone: dinner at 8:00. At 8:20, he left his apartment in Mohandessin and called a ride. The driver took the bridge toward Heliopolis, then slowed as traffic thickened.\n\nAt 9:05, Ibrahim saw the map turn red near the next exit. He opened WhatsApp and typed to the host: “I’m on my way, but traffic is heavy on the bridge. I’ll be about 30 minutes late.”\n\nA reply popped up: “No problem, come safely.”\n\nIbrahim put the phone away and watched the street vendors through the window. When he arrived at 9:35, he walked up the stairs and rang the bell.\n\nThe host opened the door. \"Welcome!\"\n\nIbrahim stepped in. \"Sorry I’m late,\" he said, setting down a small sweets box he had picked up downstairs.\n\n\"It’s fine,\" the host replied.\n\nIbrahim greeted the others in the salon, took off his shoes near the entrance, and moved to the dining table as plates were being passed, while the host lifted a lid from a pot and steam rose into the kitchen light."
+      }
+    },
+    "non_action": "The protagonist arrives extremely late without any message and acts as if the host should simply wait.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Rasha El-Hosseiny",
+        "story": "Rasha was invited to a birthday gathering in Maadi at 7:30. She stayed at home scrolling, then decided to leave after 10:00 without sending any message.\n\nAt 11:15, she rang the bell and stepped into the apartment as the host opened the door.\n\n\"You’re here now?\" the host said.\n\nRasha walked in and tossed her hair back. \"Yeah, I had things,\" she replied.\n\nIn the salon, the cake had already been cut, and a few guests were collecting their bags.\n\nRasha looked around. \"Why did you start without me?\" she asked, taking a seat.\n\nA friend said, \"We were waiting earlier.\"\n\nRasha shrugged. \"You should have waited more.\"\n\nThe host’s wife carried a tray of tea glasses and paused at the doorway.\n\nRasha leaned back. \"Anyway, put on music. Let’s do it properly now,\" she said.\n\nOne guest checked the time and said, \"I have to go.\"\n\nRasha waved her hand. \"Go later.\"\n\nThe host picked up an empty plate from the table and said, \"We’re cleaning up,\" while Rasha opened her phone camera to take a photo of the half-eaten cake."
+      }
+    },
+    "principled_action": "Because of an unavoidable delay, the protagonist sends a message, apologizes, and arrives as soon as possible without demanding the schedule change for them.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Khaled El-Gohary",
+        "story": "Khaled left his office in Downtown Cairo to head to a friend’s dinner in Dokki. Halfway across the bridge, the car in front of him stopped, and a line of vehicles began to build.\n\nKhaled checked the time and opened his phone. He sent a message to the host: “I’m stuck in traffic because of an accident near the bridge. I’m sorry—I’ll be late, but I’m coming as soon as I can.”\n\nThe host replied: “Drive safely.”\n\nKhaled put the phone away and kept both hands on the steering wheel. When he finally reached the neighborhood, he parked quickly and walked upstairs.\n\nThe door opened, and Khaled said immediately, \"I’m sorry for the delay.\"\n\n\"No worries,\" the host said.\n\nKhaled stepped inside and added, \"Don’t wait for me next time. Eat and enjoy.\"\n\nIn the dining room, he greeted the guests, took an empty chair, and accepted a plate that had already been served.\n\n\"We saved you some,\" a friend said.\n\n\"Thank you,\" Khaled replied.\n\nHe started eating quietly while the conversation continued around him, and the host poured water into glasses without rearranging the seating."
+      }
+    },
+    "surface_action": "The protagonist arrives on time, then keeps others waiting by repeatedly stepping away and delaying the group’s next plan.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Yara Maher",
+        "story": "Yara arrived at her friend’s gathering in Zamalek at 8:15, right when the first guests were settling into the salon. She greeted the host and sat down near the coffee table.\n\nAfter ten minutes, the host said, \"Let’s go to the restaurant now.\"\n\n\"One minute,\" Yara replied, standing up. She stepped into the hallway and pulled out her phone.\n\nA friend called from the salon, \"Yara, we’re leaving.\"\n\n\"Coming,\" Yara said, still typing.\n\nShe returned, picked up her bag, and then her phone buzzed again. \"Sorry, just a quick call,\" she said, walking back toward the corridor.\n\nThe group waited by the door, shoes on and coats adjusted. The host looked at the time.\n\nYara spoke into the phone softly, then returned and said, \"Okay, now.\"\n\nThey started to move, and Yara stopped again. \"I forgot something,\" she said, stepping back inside.\n\n\"Yara,\" the host said.\n\nYara emerged adjusting her bracelet and glanced at her screen. \"Last thing, I promise,\" she said, and the others remained in the entryway while the elevator arrived and the doors opened with a chime."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "In a professional setting, the protagonist acknowledges the counterpart’s expertise and addresses them with appropriate professional titles.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Engy Abdelnour",
+        "story": "Engy arrived at a meeting room in a Cairo office tower and placed her notebook on the table. Across from her sat the consultant brought in to review the project, and his badge read “Dr. Karim Soliman.”\n\nEngy stood briefly as he entered and said, \"Good morning, Doctor Karim. Thank you for coming.\"\n\nHe nodded and sat down. \"Good morning.\"\n\nEngy opened her laptop and turned the screen slightly so he could see. \"I read your report from the last audit,\" she said. \"Your recommendations on the load testing were helpful.\"\n\nDr. Karim tapped the table lightly. \"Let’s look at your current metrics.\"\n\nEngy replied, \"Of course. If I miss anything, please correct me. You have more experience with this system than I do.\"\n\nHe began explaining the numbers, and Engy took notes, occasionally asking, \"Doctor, is this threshold the one you used in the previous benchmark?\"\n\nHe answered and pointed to a chart.\n\nWhen another colleague tried to jump in, Engy said, \"Let Doctor Karim finish, then we’ll ask questions.\"\n\nDr. Karim continued speaking while Engy highlighted two lines in her document and wrote, “Follow Dr. Karim’s checklist,” before sliding a printed schedule across the table for his review."
+      }
+    },
+    "non_action": "The protagonist talks down to the counterpart, ignores their credentials, and dismisses their input.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nader Galal",
+        "story": "Nader entered a client meeting in an office near Smart Village and dropped his folder on the table. The client’s technical lead introduced himself and said, \"I’m Dr. Mahmoud, responsible for the implementation.\"\n\nNader waved his hand. \"Okay, Mahmoud,\" he said, sitting back. \"Just listen, we already know what we’re doing.\"\n\nDr. Mahmoud opened his notebook. \"There’s a risk with the current timeline—\"\n\nNader cut him off. \"No, there isn’t. You’re overthinking it.\"\n\nDr. Mahmoud tried again. \"We tested a similar rollout, and the integration—\"\n\nNader leaned forward and spoke louder. \"Look, I’m telling you, it’s simple. You don’t need to complicate it with all this technical talk.\"\n\nA colleague glanced down at the agenda.\n\nDr. Mahmoud said, \"I have the data here.\"\n\nNader shrugged. \"Save it. We’ll do it our way.\"\n\nDr. Mahmoud’s pen stopped moving.\n\nNader stood, pointed to his own slide deck, and said, \"We’ll send you the plan, and you just follow it,\" while the projector fan hummed and the client team exchanged brief looks across the table."
+      }
+    },
+    "principled_action": "Because they disagree on a technical point, the protagonist asks clarifying questions, cites evidence, and maintains respectful forms of address throughout.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hussein Mounir",
+        "story": "Hussein met with a supplier’s engineer in a conference room in Downtown Cairo. The engineer placed a laptop on the table and introduced herself. \"I’m Eng. Salma, responsible for the specifications.\"\n\nHussein nodded. \"Thank you, Engineer Salma. I appreciate you meeting on short notice.\"\n\nThey reviewed a diagram, and Hussein pointed at a line on the screen. \"Engineer Salma, I think this tolerance might be too tight for our current equipment. Can I ask how you measured it?\"\n\nEng. Salma rotated her laptop so he could see the test report. \"We used the standard method and repeated it three times.\"\n\nHussein opened his binder and said, \"Thank you. Here is the data from our last run,\" and slid a printed chart across. \"In our case, the variance was higher.\"\n\nEng. Salma leaned in and read the chart.\n\nHussein asked, \"Would adjusting the tolerance to this range still meet your safety requirements?\"\n\nEng. Salma replied, \"It might, but we need to confirm.\n\nHussein said, \"Understood, Engineer. If you allow, I’ll email you the full dataset today and we can compare methods.\"\n\nEng. Salma nodded. \"Send it.\"\n\nHussein typed a note on his phone: “Email Eng. Salma dataset + citations,” and then said, \"Thank you, Engineer Salma,\" as he closed his binder and the meeting room door clicked shut behind a colleague."
+      }
+    },
+    "surface_action": "The protagonist uses titles and polite phrases, then repeatedly interrupts, ignores responses, and proceeds as if the counterpart’s expertise is irrelevant.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Rim Magdy",
+        "story": "Rim sat across from the consultant in a meeting room in New Cairo. The consultant introduced himself. \"I’m Dr. Ashraf, here to review your workflow.\"\n\nRim smiled. \"Of course, Doctor Ashraf. Thank you for your time,\" she said.\n\nDr. Ashraf began outlining a concern. \"If you keep the current sequence, the approval step—\"\n\nRim cut in. \"Yes, yes, Doctor, understood,\" she said, waving her hand. \"We’ll just move faster.\"\n\nHe tried again. \"It’s not only speed. The compliance requirement—\"\n\n\"Exactly, Doctor,\" Rim said, speaking over him. \"We’ll handle it internally.\"\n\nDr. Ashraf pointed to a document. \"The regulation states—\"\n\nRim glanced at her phone, then said, \"Doctor, we already decided the process.\"\n\nA teammate asked, \"Should we adjust the form?\"\n\nRim answered without looking at Dr. Ashraf. \"No change. We’ll keep it as is.\"\n\nDr. Ashraf opened his mouth to respond, and Rim said, \"Thank you, Doctor Ashraf,\" then turned to the projector remote and advanced to the next slide while his printed notes remained untouched on the table."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When sensitive geopolitical or religion-related topics arise, the protagonist speaks carefully, asks questions, and avoids provocative judgments.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Daniel Kim",
+        "story": "Daniel sat in a small bookshop café in Zamalek with a local acquaintance, Samir, and two other customers nearby. A podcast playing softly in the background mentioned a conflict in the region, and Samir looked up.\n\n\"People always argue about this,\" Samir said. \"What do you think?\"\n\nDaniel set his cup down and replied, \"I’m not an expert, and I don’t want to make strong judgments.\" He paused, then asked, \"How do people here usually talk about it?\"\n\nSamir shrugged. \"Depends on who you ask.\"\n\nDaniel nodded. \"If you’re comfortable, can you tell me how you personally see it? I’d rather listen than argue.\"\n\nSamir began explaining, and Daniel asked short questions: \"When did that happen?\" and \"What term do you prefer for that place?\"\n\nA woman at the next table glanced over, then returned to her laptop.\n\nWhen Samir mentioned religion, Daniel said, \"I might not understand the context fully. What does that practice mean to you?\"\n\nSamir answered, and Daniel listened without interrupting, occasionally saying, \"Thank you for explaining,\" as the barista wiped down the counter and the espresso machine released a burst of steam."
+      }
+    },
+    "non_action": "The protagonist makes sweeping judgments about religion or geopolitics and argues aggressively with others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jason Reed",
+        "story": "Jason sat at a shared table in a hostel common room in Cairo with a few travelers and two Egyptians who were helping plan a day trip. Someone mentioned a regional conflict on their phone.\n\nJason leaned forward and spoke loudly. \"It’s simple. One side is always wrong,\" he said. \"And religion is the reason for all of it.\"\n\nOne Egyptian said, \"It’s not that simple.\"\n\nJason pointed his finger. \"Yes it is. You’re just defending it because you’re from here.\"\n\nThe other Egyptian tried to respond. \"We shouldn’t generalize—\"\n\nJason cut in. \"No, I’m saying the truth. People of that religion always act the same.\"\n\nA traveler said, \"Maybe change the subject.\"\n\nJason shook his head. \"Why? I want an answer. Tell me I’m wrong,\" he demanded, raising his voice.\n\nOne Egyptian stood up and moved toward the kitchen area.\n\nJason followed with his eyes and continued talking to the table. \"See? They can’t handle facts.\"\n\nHe slapped his palm lightly on the table for emphasis, and a cup rattled near the edge while the room’s fan clicked as it oscillated."
+      }
+    },
+    "principled_action": "Because someone asks for their view, the protagonist responds briefly, uses neutral language, and emphasizes that they may not understand local context fully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Anika Patel",
+        "story": "Anika rode in a minibus on the way to Alexandria with a small group from her company. The driver had the radio on low, and a segment mentioned a regional development.\n\nA coworker turned to her. \"What’s your view on all of that?\"\n\nAnika took a breath and kept her voice even. \"I don’t know enough about the local context to speak strongly,\" she said. \"From the outside, it seems complex, and I might be missing important details.\"\n\nThe coworker nodded. \"Fair.\"\n\nAnika added, \"In general, I hope things stay safe for people.\"\n\nAnother coworker asked, \"What about religion in politics?\"\n\nAnika replied, \"I’ve seen different approaches in different countries. I don’t want to judge what I don’t fully understand here.\"\n\nThe minibus slowed behind a truck, and the driver honked once.\n\nAnika shifted the conversation. \"Have you been to the library by the Corniche? I heard it’s impressive,\" she said.\n\nThe person beside her smiled. \"Bibliotheca Alexandrina? Yes.\"\n\nAnika leaned back, opened her water bottle, and listened as the group began discussing places to visit while the sea came into view through the side window."
+      }
+    },
+    "surface_action": "The protagonist speaks diplomatically in the moment, then later corners someone privately to push a provocative argument.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Markus Vogel",
+        "story": "Markus joined a dinner in a Cairo apartment with colleagues from a training program. During the meal, someone mentioned a religion-related controversy from the news.\n\nMarkus raised his hands slightly and said, \"I don’t want to make judgments. People see things differently, and I’m still learning.\" He took a sip of water and looked down at his plate.\n\nThe host nodded and moved the conversation to weekend plans.\n\nLater, after most guests left and shoes were being collected near the door, Markus noticed one colleague, Hatem, putting on his jacket.\n\nMarkus stepped closer and lowered his voice. \"Can I ask you something privately?\"\n\nHatem paused. \"Sure.\"\n\nMarkus leaned in. \"Honestly, don’t you think your society is too influenced by religion? I mean, it holds people back, right?\" he said.\n\nHatem’s hand stayed on the zipper. \"That’s not how I see it.\"\n\nMarkus continued, \"But you have to admit it causes problems. You can say it to me.\"\n\nHatem looked toward the staircase and then back. \"I need to go,\" he said.\n\nMarkus followed a step closer. \"Just answer—do you agree or not?\"\n\nHatem opened the door and stepped into the hallway, and Markus stood by the threshold as the elevator button light turned on."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When bringing a casual host gift, the protagonist chooses sweets or another small item rather than flowers.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Amina El-Kady",
+        "story": "Amina was invited to a casual dinner at her colleague’s home in Mohandessin. On the way, she stopped at a sweets shop and asked for a small mixed box.\n\n\"Just something simple,\" she said. \"Assorted pieces.\"\n\nThe clerk wrapped it neatly, and Amina carried it in a paper bag as she walked to the building. At the apartment door, the host, Hala, opened with a smile.\n\n\"Come in,\" Hala said.\n\nAmina held out the bag. \"I brought sweets,\" she said. \"Thank you for having me.\"\n\nHala took it and laughed. \"Perfect.\"\n\nInside, Amina placed her shoes at the entrance, greeted Hala’s husband in the salon, and sat down while Hala went to the kitchen.\n\n\"Tea or juice?\" Hala called.\n\n\"Tea is great,\" Amina replied.\n\nHala returned and set the sweets on the sideboard. \"We’ll have this after dinner.\"\n\nAmina nodded and asked, \"Do you want me to help set the table?\"\n\nHala handed her a stack of plates, and Amina carried them to the dining table while the scent of simmering sauce drifted from the kitchen."
+      }
+    },
+    "non_action": "The protagonist brings flowers as a casual gift for a normal home visit and hands them over without checking the context.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "George Petros",
+        "story": "George stopped at a florist in Maadi on his way to a casual dinner at his friend’s home. He chose a bouquet of bright flowers and carried it upstairs without thinking much about it.\n\nWhen his friend’s wife opened the door, George held the bouquet out.\n\n\"Here,\" he said.\n\nShe looked at the flowers for a moment. \"Uh… thank you.\"\n\nGeorge stepped inside. \"I didn’t have time to get anything else,\" he said.\n\nShe took the bouquet and glanced toward the kitchen. \"We don’t have a vase ready.\"\n\nGeorge shrugged. \"Put it in anything.\"\n\nIn the salon, his friend waved him over. \"Sit.\"\n\nGeorge sat and watched as the hostess walked to the kitchen holding the bouquet awkwardly, the stems dripping slightly onto the floor.\n\nShe called out, \"Do we have something to put these in?\"\n\nSomeone answered from the kitchen, \"Maybe a jug.\"\n\nGeorge leaned back and said, \"They’re nice, right?\"\n\nHis friend nodded slowly and turned the TV volume down.\n\nGeorge pulled out his phone and started taking a picture of the bouquet while the hostess searched cabinets in the kitchen for a container."
+      }
+    },
+    "principled_action": "Because flowers are the only item available, the protagonist asks the host in advance if flowers are appropriate and switches to sweets if possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mariam Nassar",
+        "story": "Mariam left her office late in Downtown Cairo and realized most shops near her route were closing. The only place still open on the corner was a small florist with a few bouquets in a bucket.\n\nMariam paused and opened her phone. She messaged the host: “I’m on my way. Quick question—are flowers okay as a casual host gift, or should I bring something else?”\n\nA reply came: “Sweets would be better if you can.”\n\nMariam stepped away from the florist and walked quickly to a small grocery still open. Inside, she found a packaged box of decent-quality sweets near the register and bought it.\n\nShe messaged again: “Found sweets. See you soon.”\n\nAt the apartment in Heliopolis, the host opened the door.\n\nMariam held out the sweets. \"I asked because I only saw flowers,\" she said.\n\n\"Good you got this,\" the host replied.\n\nMariam entered, removed her shoes at the entrance, and carried the sweets to the side table.\n\n\"Tea is ready,\" someone called.\n\nMariam washed her hands and joined the salon as the host brought small plates and set them down for the guests."
+      }
+    },
+    "surface_action": "The protagonist avoids flowers for the home visit, then sends flowers casually the next day without any special occasion.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kareem Shokry",
+        "story": "Kareem visited his colleague’s home in Dokki for a casual dinner and brought a small box of sweets. At the door, he handed it over and said, \"Thank you for having me.\"\n\nThe host placed it on the side table, and they ate and talked late into the evening.\n\nThe next day, Kareem walked past a florist near his office and stopped. He chose a bouquet and asked for it to be delivered to the same apartment.\n\nHe typed the address carefully and paid, then sent a quick message to the host: “I sent something.”\n\nThat afternoon, the host’s phone buzzed and he replied, “What is it?”\n\nKareem wrote back, “Flowers.”\n\nThe host responded, “Why flowers?”\n\nKareem answered, “Just because.”\n\nLater, the delivery driver rang the apartment bell and handed the bouquet over. The host carried it into the salon and set it on the table while searching the kitchen cabinets for a vase.\n\nKareem watched the “Delivered” status update appear on his phone and tapped the screen to open the message thread again."
+      }
+    }
+  }
+]
