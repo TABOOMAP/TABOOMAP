@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When a Matai gives instructions for a group activity, the protagonist follows the Matai’s authority and raises concerns only through respectful channels if needed.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Iosefo Mata’afa",
+        "story": "Iosefo joined a village workday in Siumu, where people gathered near the church to clear brush along the roadside. A Matai stood near the tools and spoke to the group, pointing to sections of the road.\n\n“A’u lenei vaega,” the Matai said, assigning areas with a short gesture. “You, take the front. You, take the corner by the creek.”\n\nIosefo listened and nodded. When the Matai pointed toward the area near the cemetery fence, Iosefo answered, “Ioe, Afioga,” and picked up a rake.\n\nHe walked with two others to the assigned spot and began pulling leaves into a pile. He didn’t redirect anyone or change the plan. When someone nearby suggested moving to a different area, Iosefo said, “We were told to finish here first.”\n\nAfter a few minutes, Iosefo noticed a loose wire near the ground where people were stepping. He didn’t call out across the work line. He walked back toward the Matai, waited until the Matai paused between instructions, and spoke quietly.\n\n“Afioga, there’s a wire near the cemetery fence where we’re working,” Iosefo said. “It could catch someone’s foot.”\n\nThe Matai nodded and called another person to bring pliers.\n\nIosefo returned to his section and continued raking until the pile was ready. When the pliers arrived, he stepped back to give room, then resumed clearing leaves along the fence."
+      }
+    },
+    "non_action": "When a Matai gives instructions for a group activity, the protagonist openly contradicts the Matai in front of the group and encourages others to ignore the decision.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jared Wilson",
+        "story": "At a village clean-up in Leulumoega, the Matai stood near a stack of tools and told everyone where to work. People were seated at first, then stood to collect rakes and bags.\n\nThe Matai pointed. “Start by the hall first, then the road.”\n\nJared stepped forward and spoke loudly. “That’s a bad plan,” he said, facing the group. “The road is the priority. If we do the hall first, we’ll run out of time.”\n\nSeveral people paused with tools in their hands. The Matai looked at Jared.\n\nJared continued. “Everyone, just follow me to the road. We’ll do it properly.” He waved his arm toward the main street and started walking, expecting others to come.\n\nA young man glanced at the Matai, then at Jared. Jared turned back and said, “Come on, don’t waste time. We can decide for ourselves.”\n\nThe Matai spoke, but Jared talked over him. “It’s common sense,” Jared said, raising his voice again. “You don’t need to be told.”\n\nA few people stayed where they were, uncertain. Jared stopped and pointed at a pile of bags. “Grab those and move,” he said.\n\nAn older woman set her rake down and looked away.\n\nJared shook his head and muttered something as he headed toward the road, still calling back instructions while the group remained split between following the Matai and watching Jared."
+      }
+    },
+    "principled_action": "Because of safety or an urgent constraint, the protagonist respectfully alerts the Matai to the issue and proposes a safer alternative while accepting the Matai’s final decision.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sefu Petaia",
+        "story": "Sefu joined a group preparing for a fiafia night in a village near Lepa. The Matai directed volunteers to set up benches and hang lights along a line between two posts.\n\n“Put the lights higher,” the Matai said, pointing up. “Use the ladder there.”\n\nSefu walked to the ladder and noticed one leg was cracked near the bottom. He didn’t announce it to the whole group. He carried the ladder a short distance to the side and went to the Matai, waiting until the Matai finished speaking to someone else.\n\n“Afioga,” Sefu said quietly, holding the ladder steady with one hand. “This ladder has a crack in the leg. If someone climbs it, it might slip.”\n\nThe Matai looked down and tapped the damaged spot with his foot.\n\nSefu added, “We can use the stronger ladder from the hall, or we can tie the lights lower and use the pole to lift them into place.”\n\nThe Matai nodded and called for the hall ladder. “Bring the good one,” he said.\n\nSefu replied, “Ioe, Afioga,” and carried the damaged ladder away from the work area so no one would grab it. When the sturdier ladder arrived, Sefu held it while another volunteer climbed.\n\nAfter the lights were secured, the Matai said to move benches closer.\n\nSefu followed the instruction without comment, lifting one end of a bench and walking it into position with another volunteer."
+      }
+    },
+    "surface_action": "The protagonist agrees outwardly with the Matai’s instruction, but then undermines it quietly by refusing to cooperate and stirring resistance.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Manuasoani Sale",
+        "story": "During a preparation day in a village near Fagamalo, the Matai told the group to clear the front area first and leave the back section for later. People collected rakes and machetes and began moving.\n\nManuasoani nodded and said, “Ioe, Afioga,” when the instruction was given. He picked up a rake and walked with the others toward the front.\n\nOnce they started working, Manuasoani slowed down and dragged the rake lightly over the ground without gathering much. When a cousin said, “Let’s pile the leaves here,” Manuasoani replied, “Do it if you want,” and kept his hands loose on the handle.\n\nHe leaned toward another young man and said quietly, “This plan is pointless. The back is worse. They just want us to do the visible part.”\n\nThe young man glanced toward the Matai.\n\nManuasoani added, “I’m not wasting energy on this. If you go to the back, I’ll go with you.” He stepped aside and watched others work, occasionally nudging leaves with his foot instead of raking.\n\nWhen someone asked him to carry a bag to the pile, he said, “My hands are sore,” and set the rake down.\n\nA few minutes later, he walked toward the back path and called softly, “Come on, it’s better back here,” while the front area remained only half cleared."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When interacting with adults, the protagonist avoids touching anyone’s head and avoids passing objects over someone’s head.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Mele Seumanu",
+        "story": "Mele helped serve lunch at a family gathering in Falealili. Adults sat on mats in a line, and the food was arranged on a low table near the post. Mele carried a bowl of palusami and a stack of plates.\n\nShe moved along the edge of the mats and lowered each plate into a person’s hands rather than reaching over their heads. When a seated uncle held out his palm, Mele bent her knees and placed the plate level with his lap.\n\nA child ran past and bumped Mele’s elbow. The bowl tilted, and Mele steadied it quickly without swinging it over anyone.\n\nHer auntie, seated near the middle, called out, “Pass the spoon.”\n\nMele looked at the row and saw there was no clear path behind the seated adults. Instead of stretching her arm over them, she walked around the outside of the mats to approach from the open end. “Tulou,” she said once as she passed in front, then came up beside her auntie and placed the spoon into her hand.\n\nLater, an older woman adjusted a child’s hair near Mele, and the child reached up toward Mele’s head.\n\nMele leaned back slightly and offered the child a napkin instead, keeping her hands on the tray.\n\nWhen the drinks were ready, Mele carried them one by one and handed them around at chest level, stepping carefully so nothing passed above anyone’s head."
+      }
+    },
+    "non_action": "When interacting with adults, the protagonist touches an adult’s head playfully or passes items over people’s heads without considering the norm.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ethan Brooks",
+        "story": "Ethan attended a barbecue in a village near Upolu with friends from work. People sat on mats under a canopy, eating from plates balanced on their knees. Ethan carried a basket of bread and moved into the middle of the seated group.\n\nHe reached across two adults and held the basket high, passing it over their heads. “Here you go,” he said, letting the basket hover above a woman’s hair as she leaned to the side.\n\nThe woman’s eyes followed the basket. She pulled her head back slightly.\n\nEthan laughed and stepped closer. He spotted an older man seated near the post and bent down, smiling. “You’ve got great hair,” he said, and patted the man’s head with an open palm as if joking.\n\nThe older man froze for a moment and looked forward instead of at Ethan.\n\nA younger relative near the edge of the mat cleared his throat. Ethan didn’t notice and kept talking. “Back home we do this all the time,” he said, reaching again across the row to hand a cup to someone, this time holding it above another person’s head.\n\nA woman shifted her plate to protect it as Ethan’s arm moved over her.\n\nEthan leaned in closer, patted the older man’s head once more, and said, “You’re the boss around here, right?”\n\nHe stood upright and walked away through the seated group, still holding the basket above people as he searched for a place to sit."
+      }
+    },
+    "principled_action": "Because of limited space, the protagonist asks permission and chooses a different route or hands the object around rather than passing it overhead.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Pasefika Vaa",
+        "story": "Pasefika carried a small box of candles into a crowded church hall in Apia where adults were seated closely on mats for a memorial. The aisle was narrow, and she needed to bring the candles to the front table.\n\nShe stopped at the entrance and looked for a clear path. The middle was packed, and the shortest route would have been to lift the box over the seated row.\n\nPasefika crouched slightly and spoke to the woman nearest the aisle. “Excuse me, can you help pass this forward?” she asked.\n\nThe woman nodded and held out her hands. Pasefika lowered the box into her palms rather than raising it. The woman passed it sideways to the next person at lap level.\n\nPasefika stayed at the edge and watched the box move along, one person handing it to another without lifting it above anyone’s head. When the box reached a man near the front, he stood briefly to carry it the last steps to the table.\n\nPasefika then needed to bring a lighter. The space was tighter now, so she walked around the outside perimeter of the mats, taking the longer route near the wall.\n\nShe paused at a corner and said softly, “Tulou,” as she slipped past someone’s knees.\n\nAt the front, she handed the lighter directly to the person arranging candles, then stepped back to the wall and sat down near the doorway."
+      }
+    },
+    "surface_action": "The protagonist avoids touching heads, but then jokes about the rule in a way that makes others feel disrespected.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Jason Hale",
+        "story": "Jason joined a family lunch in a village near Sataoa. Adults sat in a line on mats, and a few younger relatives served food from the kitchen doorway. Jason carried a tray of cups and moved carefully along the edge.\n\nHe avoided reaching over anyone’s head and lowered each cup into hands. When a child leaned toward him, Jason shifted the tray away so it wouldn’t bump the child’s hair.\n\nAs he passed an older man, he grinned and said, “Don’t worry, I won’t touch your head,” in a playful voice.\n\nThe older man didn’t smile and kept looking at his plate.\n\nJason continued serving and said to a cousin, loud enough for the row to hear, “Apparently heads are off-limits here. Like, super serious.” He raised his eyebrows and made a small gesture as if placing an invisible crown.\n\nA woman in the line paused chewing and glanced at him. The cousin gave a short laugh and looked down.\n\nJason kept his hands clear of heads, but he added, “Back home we’d just high-five. Here it’s like the head is VIP,” and he chuckled.\n\nA young auntie said, “Just pass the cups.”\n\nJason nodded and resumed, placing a cup into her hand without raising his voice. He moved to the next person and whispered, “VIP head,” then set the final cup down on the low table near the post."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "The protagonist waits until the host or elders indicate it is time to eat, and then begins eating with the group.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Leilua Seumanu",
+        "story": "Leilua visited a friend’s family in Apia for a Sunday lunch and sat down on the mat with a plate in her lap. The bowls were arranged in the center, and people settled into place, adjusting their skirts and passing cups of water.\n\nLeilua watched the host move to the front and speak quietly with an older relative. No one began eating yet. Leilua kept her hands still, resting them on her plate, even though the food was close enough to reach.\n\nA child beside her lifted a spoon, then stopped when his mother touched his shoulder. Leilua looked down and smiled at him, then returned her gaze to the front.\n\nThe elder cleared his throat and said a short line to the room. The host nodded, then looked across the group. “Okay, we can eat now,” she said.\n\nLeilua waited for the first few people to lean forward, then she reached in at the same time as the others. She took a small portion of taro and a piece of fish, set them on her plate, and began eating.\n\nAs conversation picked up, Leilua passed a bowl to the person beside her and took a sip of water. When someone asked if she wanted more, she shook her head and kept eating at the group’s pace.\n\nShe set her fork down briefly to adjust her plate and then took another bite."
+      }
+    },
+    "non_action": "The protagonist begins eating before any signal from the host or elders and ignores cues that others are waiting.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Aiden Cooper",
+        "story": "Aiden sat down on the mat at a lunch in Apia and saw the food already set in the middle. Before the host finished guiding people into place, Aiden leaned forward and scooped a portion of taro onto his plate.\n\nHe took a bite right away. Around him, others were still settling, passing cups, and waiting with empty plates. A woman in front glanced back and then faced forward again.\n\nThe host spoke to an elder near the front, and the room stayed quiet. Aiden kept eating, reaching into the center for fish and sauce as if the meal had already started.\n\nA teenager beside him whispered, “Wait,” and pointed toward the front. Aiden shrugged and said, “It’s fine,” taking another bite.\n\nSomeone touched Aiden’s elbow lightly, but he continued serving himself. He shifted the bowl closer and picked out a piece he wanted.\n\nThe elder at the front finally addressed the room. People bowed their heads briefly. Aiden paused only long enough to swallow, then kept chewing.\n\nWhen the host said, “Now we eat,” several people leaned forward together. Aiden was already halfway done, his plate messier than the others.\n\nHe reached back into the center for more while the people near him were taking their first portions."
+      }
+    },
+    "principled_action": "Because the protagonist is fasting-related or medically unwell, they quietly request guidance from the host and follow the host’s direction respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mika Taumua",
+        "story": "Mika arrived at a family meal in Apia feeling lightheaded after fasting most of the morning for a religious commitment. He sat down on the mat with the group and kept his plate empty as bowls were placed in the center.\n\nBefore anyone spoke, Mika leaned slightly toward the host and whispered, “Aunty, I’ve been fasting, and I’m feeling a bit shaky. Should I wait, or is there something I can do?”\n\nThe host looked at him and said softly, “Wait for the prayer. After that, take a small portion first.”\n\nMika nodded. He placed his hands on his knees and stayed still while the elder began the prayer. He bowed his head with the others and didn’t reach for the food.\n\nWhen “Amen” was said, the host glanced toward Mika and made a small gesture. “You can take a little now,” she whispered.\n\nMika leaned forward carefully, served himself a small bite of breadfruit and a piece of fish, and brought it back to his plate. He waited until the group began moving, then ate quietly.\n\nA cousin offered him more, and Mika said, “Maybe later, thank you.” He took slow sips of water between bites.\n\nAs conversation started, Mika kept his pace steady and followed the bowls as they moved along the row."
+      }
+    },
+    "surface_action": "The protagonist waits for the signal, but then eats hurriedly and behaves as if the shared pace does not matter.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Scott",
+        "story": "Hannah sat with her partner’s family for a meal in Apia and kept her plate in her lap while everyone waited. She watched the host and elders at the front speak briefly. No one reached for the food yet, and Hannah kept her hands still.\n\nWhen the host finally said, “Okay, let’s eat,” Hannah leaned forward with the group and served herself. As soon as she had food on her plate, she started eating fast, taking large bites and swallowing quickly.\n\nHer partner whispered, “Slow down.”\n\nHannah nodded without stopping. She finished her fish quickly, then reached for more sauce while others were still serving. She took another bite and glanced at her phone as if counting time.\n\nAunties were talking and passing bowls, pausing to laugh at a story, but Hannah kept eating at a faster pace than those around her. She wiped her hands quickly, drank water in one long gulp, and reached back toward the center as if to refill.\n\nSomeone nearby was still eating their first portion. Hannah shifted, pulled her plate closer, and scraped the last pieces together with her fork.\n\nWhen a bowl came past, she grabbed it, served herself quickly, and passed it on without looking up.\n\nShe continued chewing rapidly while others spoke between bites."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "During the village evening prayer curfew, the protagonist stays quiet and pauses activities so families can pray without disturbance.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Peleasoani Moa",
+        "story": "Peleasoani was visiting relatives in a village on Upolu and spent the late afternoon sitting outside with cousins, sorting pandanus leaves and chatting. A small speaker played music from someone’s phone while the sun dropped lower.\n\nAs the light softened, Peleasoani heard a bell ring in the distance. One cousin lowered his voice and glanced toward the road. Peleasoani reached over and tapped the phone screen, turning the music off.\n\n“Prayer time,” she said quietly.\n\nThe group stopped talking. Peleasoani set the leaves down, brushed her hands on her skirt, and sat still. Across the road, a family gathered on their porch; someone closed a gate gently. A dog barked once and was pulled back by its leash.\n\nA child ran toward the group and started to shout, but his mother caught his hand and whispered to him. Peleasoani placed a finger to her lips and gave the child a small wave to settle.\n\nFor a few minutes, the village was quiet except for faint voices from houses. Peleasoani kept her posture steady, eyes down, and waited.\n\nWhen the quiet period ended, her cousin cleared his throat and picked up the pandanus again. Peleasoani reached for the bundle and began sorting leaves beside him."
+      }
+    },
+    "non_action": "During the village evening prayer curfew, the protagonist continues loud conversations or music and ignores requests to pause.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Dylan Hughes",
+        "story": "Dylan sat outside a guesthouse in a village on Upolu with a portable speaker on the table. Music played loudly while he laughed with two friends and scrolled through songs. As the sky darkened, a bell rang somewhere down the road.\n\nA neighbor walking past raised a hand and said, “Please, quiet now. Prayer time.”\n\nDylan smiled and said, “Yeah, one minute,” but he didn’t lower the volume. He kept talking over the music. “This song’s my favorite,” he said, turning it up a notch.\n\nAnother person called from a nearby porch, “Turn it down.” Dylan waved without looking and continued his conversation, speaking louder to be heard.\n\nA child from a nearby house peeked out, then disappeared back inside. Dylan stood up, still holding his drink, and danced a few steps, clapping to the beat.\n\nA man approached closer and said firmly, “Stop now.”\n\nDylan shrugged. “We’re not doing anything,” he replied, and the music kept going.\n\nHis friends looked uncertain, but Dylan laughed and changed to another track. “Come on, it’s early,” he said, ignoring the road where people were moving quietly.\n\nHe stayed outside with the speaker playing as the village around him became still."
+      }
+    },
+    "principled_action": "Because of an urgent call or safety issue, the protagonist handles it quietly and briefly, then stops and returns to the respectful quiet period.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Seiuli Lauasoani",
+        "story": "Seiuli was at her cousin’s home in a village near Apia when the evening bell rang. She had been helping wash dishes outside, and she immediately set the bowl down and dried her hands. People around her lowered their voices and moved inside.\n\nSeiuli’s phone vibrated in her pocket. The screen showed her brother’s name, and she knew he was driving from town. She stepped to the side of the house, away from the main porch, and answered in a whisper.\n\n“Talofa, what’s wrong?” she said softly.\n\nHer brother spoke quickly about a flat tire on the road and asked where the spare was kept in the family vehicle. Seiuli kept her voice low. “In the back compartment, under the mat,” she whispered. “Use the jack beside it.”\n\n“Okay,” he said, and the call ended.\n\nSeiuli turned her phone to silent and slipped it back into her pocket. She walked back toward the porch without speaking, sat down on the edge of the steps, and stayed still.\n\nAcross the road, a family’s voices rose and fell in prayer. Seiuli kept her eyes down and waited.\n\nWhen the quiet period ended, her cousin motioned to the dishes again. Seiuli stood up and carried the rinsed plates into the kitchen."
+      }
+    },
+    "surface_action": "The protagonist becomes quiet during the curfew, but makes mocking remarks that undermine the respect the pause is meant to convey.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mark Jensen",
+        "story": "Mark was sitting outside a house in a village on Upolu with a few friends, a phone in his hand and a small radio beside them. As the bell rang for the evening curfew, the group lowered the radio volume and stopped talking.\n\nMark turned the radio off and sat back. He kept his voice low, but he leaned toward his friend and whispered, “So everyone just freezes at the same time?”\n\nHis friend didn’t answer and looked toward the road.\n\nMark smirked and whispered again, “It’s like a village timeout.” He stayed quiet enough that his words didn’t carry far, but he kept making small comments under his breath.\n\nA neighbor walked past slowly with eyes down. Mark pressed his lips together to hold back a laugh, then whispered, “Shh, don’t get caught,” as if it were a game.\n\nFor the rest of the curfew, Mark didn’t play music or speak loudly. He sat still, but occasionally glanced around and mimed locking his mouth shut with an exaggerated motion.\n\nWhen the curfew ended and the village sounds returned, Mark stood up and stretched. He picked up the radio and said in a normal voice, “Okay, can we go back to normal now?”\n\nHe carried the radio toward the doorway and set it on a shelf."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "In multi-generation meals, the protagonist follows the age hierarchy by letting elders be served first and finish first.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sina Taufua",
+        "story": "Sina carried a tray of taro and palusami into the fale where her aunties, uncles, and grandparents sat in a loose circle. The pot of koko rice steamed near the doorway. She set the tray down, then picked up the serving spoon and looked to her grandfather. “Tama, muamua,” she said softly, holding the bowl toward him. He lifted his hand, and she placed food onto his plate first. She moved next to her grandmother, then the older aunties, then the older uncles, working around the mat with small steps. Her younger cousins leaned forward, but Sina kept the bowl close to her chest and continued toward the elders. “Wait,” her cousin Pita whispered, and Sina answered, “Aua le vave.” When the elders had full plates, she served her parents and the rest of the adults, then the children. Sina sat back with her own empty plate on her lap and poured water into cups as people ate. She watched the elders finish, then her grandfather nodded once and pushed his plate slightly forward. Sina finally scooped taro onto her plate and began to eat."
+      }
+    },
+    "non_action": "In multi-generation meals, the protagonist ignores the age hierarchy and takes food ahead of elders without waiting.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Peni Faumuina",
+        "story": "Peni stepped into the family fale with the smell of umu still on his shirt. The food was laid out on banana leaves, and his grandmother sat near the center with his older uncles. Before anyone spoke, Peni dropped onto the mat by the dishes, reached across the leaves, and grabbed a chicken leg. He tore into it and used his other hand to scoop fa’alifu breadfruit onto his plate. His uncle lifted his eyebrows and said, “Peni, taofi.” Peni kept chewing and nodded without turning. “I’m starving,” he said, mouth full, and dipped the chicken into sauce. His grandmother’s plate was still empty; she held her hands together on her lap. Peni leaned forward again, took a second piece, and slid it onto his own plate. A younger cousin whispered, “Grandma first,” and Peni shrugged. He clinked his spoon against his plate and said, “Someone else can serve.” A few people shifted their legs to make space, and his aunt reached for the serving spoon after a pause. Peni continued eating while the first plates for the elders were still being arranged."
+      }
+    },
+    "principled_action": "Because the protagonist is helping distribute food, they prioritize elders first, then serves others, and eats only after the elders indicate it is appropriate.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Iosefa Pule",
+        "story": "Iosefa came back from the cooking shed with two bowls balanced on his palms. The family had gathered after Sunday service, and his mother had asked him to help. He knelt by the woven mat and arranged plates in front of the elders first. “Uncle Lemi,” he said, sliding a plate forward, then “Tinā matua.” He ladled sapasui into their bowls, then added taro and fish, moving carefully so the bowls didn’t tip. When his younger brother reached toward the tray, Iosefa lifted a finger and said, “First, the elders.” He served the older aunties, then the older uncles, then his parents and the other adults, and finally the children at the edge of the mat. He stayed on his knees and refilled water cups when someone held a cup out. His own plate sat empty behind him. After a while, his grandmother set her spoon down and looked up. “Ia, Iosefa,” she said, tilting her head toward the food. Iosefa stood, washed his hands at the bucket, and returned to scoop a small portion for himself. He sat and began to eat after the elders resumed their conversation."
+      }
+    },
+    "surface_action": "The protagonist follows the serving order, but complains about the pace and pressures the group to hurry.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tui Aiono",
+        "story": "Tui carried the pot of rice into his aunt’s fale and set it near the plates. The elders sat closest to the center post, and the younger ones waited near the open side where the breeze came in. Tui picked up the ladle and started serving his grandfather first, then his grandmother, then the older aunties, keeping the order as his mother had shown him. While he worked, he glanced at his phone on the mat and said, “We have to be quick, I’ve got things to do.” His cousin murmured, “Shh,” and Tui kept scooping. He served the older uncles next, then the adults, tapping the ladle on the rim with a sharp click. “Okay, finish up fast,” he said as he handed a plate to his father. “Don’t just sit and talk.” An uncle looked up and replied, “Tui, filemu.” Tui gave a short laugh and said, “I’m just saying,” then moved to serve the children last. He sat down with his own plate still empty and watched the elders eat, bouncing his knee and pointing once toward the clock on the wall. After his grandfather set his plate aside, Tui leaned forward, filled his plate, and began eating while his phone buzzed again."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When choosing a present, the protagonist selects a modest, affordable gift and emphasizes appreciation rather than price.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ana Fa’asoasoani",
+        "story": "Ana stopped at the small shop near the bus stop in Apia and looked along the shelf of gifts. She picked up a fancy box, read the sticker, then set it back and chose a simple tin of cocoa and a packet of tea. At the market she added a small bunch of bananas and a loaf of bread, then wrapped everything in a clean towel. At her cousin’s house she greeted the hosts and held the bundle out with both hands. “Thank you for letting me stay last week,” she said. Her cousin’s wife started to wave it away, but Ana kept her hands steady. “It’s just a little something. Fa’afetai lava,” Ana said. The hosts carried it to the table and offered her a seat. When the husband asked, “Where did you get it?” Ana pointed toward the shop. “Just nearby,” she replied. “I wanted to bring something useful.” She did not mention the price or the store receipt. Later, while children played outside, Ana poured tea into cups and slid one toward her cousin’s wife. The woman took a sip and nodded, and Ana adjusted the towel so the bundle stayed neat on the table."
+      }
+    },
+    "non_action": "When choosing a present, the protagonist uses an expensive gift to show off and implies the recipient should feel indebted.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kelemete Ioane",
+        "story": "Kelemete walked into the electronics store in town and asked the clerk for the newest phone on display. He paid and kept the glossy bag visible as he rode to his friend’s house. At the visit he held the bag up before he even sat down. “Look what I got you,” he said loudly, pulling out the box and turning it so the logo faced everyone. His friend’s sister leaned closer, and Kelemete added, “This isn’t cheap, you know.” The friend reached for the box, but Kelemete kept it in his own hands a moment longer. “After this, you’ll remember who helped you,” he said, smiling. The friend said, “Fa’afetai,” and Kelemete replied, “Yeah, you owe me big time,” patting his own chest. He asked for a photo right away and told the friend to hold the box up higher. “Make sure people can see,” he said. When someone offered him water, Kelemete waved it away and said, “I’ll take something better.” He finally placed the box into his friend’s lap and leaned back, crossing his arms while the others looked at the packaging."
+      }
+    },
+    "principled_action": "Because the protagonist has limited funds, they give a small thoughtful item or helpful contribution that still conveys sincere gratitude.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Lotoa Tiumalu",
+        "story": "Lotoa counted the notes in her wallet at the market and folded them back into the corner pocket. She walked past the rows of larger gift baskets and stopped at a stall selling homemade coconut oil. She bought a small bottle and asked the seller for a plain ribbon. On her way to her aunt’s home, she also picked up a bag of ice and two loaves of bread, then carried everything in a reusable tote. When she arrived, the aunt was busy in the kitchen, lifting pots from the stove. Lotoa set the ice down by the cooler and said, “I brought ice and bread for lunch, and this small oil.” She held up the bottle with both hands. “Fa’afetai for letting me borrow your sewing machine,” she added. Her aunt wiped her hands on a towel and looked at the bottle. “Okay,” she said, taking it and placing it on the shelf with the other kitchen items. Lotoa went outside, helped bring chairs from the back room, and tied the ribbon around the bottle’s neck so it wouldn’t slip. Her aunt called everyone to sit, and Lotoa carried plates to the mat."
+      }
+    },
+    "surface_action": "The protagonist gives a modest gift, but repeatedly points out the effort and expects public praise.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Pita Alesana",
+        "story": "Pita bought a modest box of biscuits and a small jar of instant coffee from the corner shop, then wrapped them in brown paper. At the visit he held the parcel out and said, “I went all the way into town for this.” The host smiled and reached for it, and Pita added, “It wasn’t easy to find, you know.” He followed the host into the living area and watched as the parcel was set on the table. “Make sure everyone sees it’s from me,” he said, lifting his chin toward the room where relatives were gathering. An auntie offered him a seat and he sat, still talking. “I didn’t have to bring anything, but I did,” he said, tapping the brown paper with his finger. When a cousin walked in, Pita called out, “Hey, tell them what I brought.” The cousin glanced at the parcel and nodded once. Pita looked around the mat as if waiting for someone to comment, then repeated, “I picked it myself.” The host opened a cupboard to put the items away, and Pita leaned forward to watch the placement before taking the cup of water that was offered."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "When arriving at a home, the protagonist lets the host seat them and follows the host’s instructions about where to sit.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lene Tuiasosopo",
+        "story": "Lene arrived at the home and paused just inside the doorway after removing her sandals. She looked at the mat and waited. The host’s mother approached and pointed to a space near the side post. “Sit here,” she said. Lene nodded and walked carefully to that spot, then lowered herself to the mat with her skirt tucked under her legs. She kept her hands on her lap and waited as others took their places. When the host’s uncle entered, the host’s mother gestured for Lene to shift slightly. “Move a little,” she said, and Lene scooted over without speaking, leaving the center space open. A cup of water was set in front of her, and she accepted it with both hands. A cousin whispered, “Come sit next to me,” but Lene shook her head and stayed where the host had placed her. When food arrived, the host’s mother passed plates starting at the center, and Lene waited until one was offered to her. She watched the host’s mother point again to a different spot as more guests arrived, and Lene adjusted her position quietly to follow the instruction."
+      }
+    },
+    "non_action": "When arriving at a home, the protagonist chooses a seat without asking and ignores the host’s guidance about seating.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ben Ta’ase",
+        "story": "Ben walked into the home and stepped onto the mat without waiting for anyone to direct him. He looked around, spotted a place near the center, and dropped down there with his back against the main post. The host’s mother came over and said, “Please sit over there,” pointing toward the side. Ben waved his hand and replied, “I’m fine here.” He stretched his legs out and leaned back farther, taking up the space where others had been leaving open. An older man entered and paused, then sat farther away than usual. The host’s mother repeated, “Come, move,” and Ben shook his head again. “It’s all the same,” he said, pulling out his phone. A cousin tried to slide closer, but Ben’s feet blocked the way. The host’s uncle looked down at Ben’s position and said something quietly to the host’s mother. Ben laughed and said, “Relax,” and stayed planted by the post. When food was brought in, the plate meant for the center was held up for a moment while people rearranged around him."
+      }
+    },
+    "principled_action": "Because of mobility needs, the protagonist explains briefly and asks the host for a suitable place to sit that still respects the household arrangement.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Talaasoani Afa",
+        "story": "Talaasoani came in with a stiff knee and moved slowly, using the wall for balance. At the doorway he said, “Talofa, can I sit somewhere with support? My knee is sore.” The host’s father nodded and pointed to a spot near a low bench at the edge of the mat. “Sit there,” he said. Talaasoani replied, “Fa’afetai,” and walked carefully to the indicated place, then lowered himself with one hand on the bench. He kept his legs tucked in so he didn’t block the walkway. When an elder arrived, the host’s father gestured for Talaasoani to shift a few inches. Talaasoani scooted over and said, “Okay.” He accepted water with both hands and placed the cup on the floorboard beside the bench. A child ran through, and Talaasoani pulled his foot closer so the child could pass. When plates were brought in, Talaasoani waited until the host offered him one, then balanced it on his lap. The host’s father checked the seating line and nodded once, and Talaasoani remained in the spot he had been assigned."
+      }
+    },
+    "surface_action": "The protagonist follows the seating instruction, but then sprawls out and takes extra space in a way that disrupts others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Oli Leota",
+        "story": "Oli entered, removed his shoes, and waited while the host pointed to a space near the side. “Sit there,” the host said. Oli nodded and sat down in the correct spot. A minute later he leaned back and slid his legs out across the mat, his heels edging into the walkway. When a cousin tried to pass with a tray, Oli didn’t move until the cousin said, “Excuse me.” Oli pulled one foot in halfway, then stretched it back out again. He rested one arm along the mat behind him and let his knee drift into the space beside him. The host’s mother glanced over and said, “Sit properly,” and Oli chuckled. “I am sitting,” he replied, still spread out. Two younger children squeezed past his legs, stepping over his feet. When a plate was offered, Oli took it and set it beside him, occupying the gap where another person had been preparing to sit. The host’s aunt adjusted her skirt and sat farther away, and Oli continued leaning back with his feet stretched toward the center."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "When asked to speak at a community meeting, the protagonist prepares carefully and follows local speaking protocols during the event.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Fia Taumata",
+        "story": "Fia was asked to speak at a community meeting about a clean-up day near the river. The night before, she wrote notes on a folded sheet of paper and practiced the order of points. She asked her uncle which elders would speak first, and he told her where she would sit and when to stand. At the meeting, Fia arrived early, wore a neat dress, and sat where she was directed, keeping her legs folded under her. She waited as the matai and older speakers gave their remarks. When her name was called, she stood, held her notes low, and began with a greeting. She kept her voice steady and paused when an elder lifted a hand to signal a short break. She thanked the speakers before her, then stated the date, time, and what supplies were needed, reading the list without rushing. When she finished, she bowed her head slightly and sat back down in her place. After the meeting, she handed her notes to the secretary so the details could be copied, and she helped stack chairs at the side."
+      }
+    },
+    "non_action": "When asked to speak at a community meeting, the protagonist improvises without preparation and ignores local protocols while talking over others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Marcus To’oto’o",
+        "story": "Marcus was invited to say a few words at a community meeting, and he arrived late with no notes. He walked in while an elder was speaking and stood near the front, waving to someone across the room. When his turn came, he didn’t wait for the signal; he stepped forward and started talking over the end of the previous speaker’s sentence. “Okay, listen,” he said, raising his voice. He paced and pointed at people in the front row. When someone tried to add a detail, Marcus cut in with, “No, no, I’m speaking.” An elder lifted a hand for him to slow down, but Marcus kept going, making up times and dates as he spoke. “We’ll do it next week, maybe Tuesday, whatever,” he said, laughing. A woman holding the meeting book looked down and stopped writing. Marcus talked for several minutes, then ended abruptly with, “That’s it,” and walked back to his seat without waiting. The meeting leader cleared his throat and resumed the agenda, while Marcus leaned back and checked his phone."
+      }
+    },
+    "principled_action": "Because the request is last-minute, the protagonist gives a brief respectful message, acknowledges the protocol, and defers to local leaders for the main remarks.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sala Fisoasoani",
+        "story": "Sala was told just before the meeting began that she would need to speak for her small volunteer group. She took a breath and asked a local organizer, “How should I do this?” The organizer pointed to where she should sit and said, “Wait until your name is called.” Sala sat quietly, hands folded, while the elders spoke. When the meeting leader called her name, Sala stood and said, “Talofa lava, fa’afetai for letting me speak.” She kept her message short, stating that her group could provide gloves and bags, and that they would follow the plan set by the village leaders. “We will take direction from the committee,” she said, looking toward the front. She ended with, “Fa’afetai,” and bowed her head slightly before sitting down. The organizer then stood to give the detailed schedule and assignments. Sala listened, then leaned toward a teammate and whispered the time and place so they could write it down. At the end, Sala joined the line to sign the attendance sheet, and she handed the pen to the next person."
+      }
+    },
+    "surface_action": "The protagonist follows the speaking order, but uses the platform to center themselves and dismiss local perspectives.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tavita Kruse",
+        "story": "Tavita sat in the assigned place and waited through the speaking order, watching as elders and organizers took turns. When his name was called, he stood at the right moment and began with a greeting. After a few sentences, he shifted to talking about himself. “When I was in charge last time, everything ran better,” he said, lifting his chin. An elder near the front cleared his throat, and Tavita continued anyway. “Some of these ideas are old-fashioned,” he said, gesturing toward the committee table. He listed what he thought should happen and said, “That’s how it should be done,” without asking for input. A woman holding the notes paused and glanced at the meeting leader. Tavita smiled and added, “You’re lucky I’m here to guide this.” He ended with a quick “Fa’afetai,” then sat down, still smiling. The meeting leader stood again and began re-stating the plan, while Tavita leaned toward a friend and whispered, “They’ll do it my way eventually,” as the next speaker moved to the front."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "Before telling a story that might offend respected people, the protagonist excuses themselves with 'tulou' and adjusts the content to keep it appropriate.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lusia Pelesasa",
+        "story": "Lusia sat with cousins and aunties in the evening while older relatives listened nearby. Someone asked her to tell a funny story from work. Lusia started to describe a mistake a supervisor made, then noticed her uncle, a respected older man, sitting closer than she realized. She paused, lowered her eyes, and said, “Tulou.” She changed the words and kept the details general. “At work, someone mixed up the papers,” she said, tapping her fingers lightly on her knee. “We had to redo the forms, and everyone stayed late.” A cousin laughed and said, “Who was it?” Lusia shook her head. “Just someone,” she replied, and sipped her tea. She shifted to describing the rain outside the office and how the lights flickered, keeping the tone mild. Her aunt smiled and asked, “Did you get home safe?” Lusia nodded and said, “Yes, the bus came.” The older relatives continued listening without moving, and Lusia ended by saying, “Then we all went home,” while the kettle clicked off in the kitchen."
+      }
+    },
+    "non_action": "Before respected people, the protagonist tells an offensive story without warning and laughs while others are uncomfortable.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Samu Pua’asa",
+        "story": "Samu sat in the living area while an elder and two aunties were within earshot. Someone asked him to share a story from a recent trip. Samu launched into it loudly, using crude words and mimicking a respected community leader’s voice. He did not pause or excuse himself. He leaned forward and laughed hard at his own imitation, slapping his knee. One auntie stopped stirring her tea and stared at the cup. The elder’s eyes stayed on Samu, and the room grew quieter. Samu kept going, adding another remark about the leader’s appearance and laughing again. A cousin whispered, “Stop,” but Samu waved him off. “It’s funny,” he said, still smiling. The elder shifted his feet and set his cup down on the floorboard with a firm sound. Samu glanced around, saw fewer smiles, and laughed again, saying, “You all know it’s true.” The auntie stood up and walked into the kitchen without saying anything, and Samu’s laughter echoed for another moment before he reached for more tea."
+      }
+    },
+    "principled_action": "Because the protagonist realizes mid-story that it could offend, they stop, apologize briefly, and switch to a safer topic.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Tinaʻita Fale",
+        "story": "Tinaʻita was chatting with friends on the mat when someone asked about a disagreement at the market. She began describing how a vendor spoke sharply, and she started to repeat the vendor’s exact words. Halfway through, she noticed her friend’s father, an older man, sitting by the doorway listening. Tinaʻita stopped mid-sentence, lowered her head, and said, “Sorry.” She placed her hands flat on her knees and continued, “Let me not say it like that.” She shifted the story to the weather and the crowded stalls instead. “It was very busy, and the rain came,” she said. A friend asked, “Did you buy fish?” Tinaʻita nodded and replied, “Yes, I got fish and taro.” The older man’s gaze moved away toward the yard. Tinaʻita smiled lightly and asked the group, “Are you going to the fiafia on Friday?” Someone answered with a date and time, and Tinaʻita reached for the water jug to refill cups. A small child tugged her sleeve, and Tinaʻita handed the child a cup and watched him walk toward his mother."
+      }
+    },
+    "surface_action": "The protagonist says 'tulou' before speaking, but then continues with provocative content and treats the excuse as a loophole.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Paulo Iakopo",
+        "story": "Paulo sat near the center while older relatives were present and said, “Tulou,” before starting his story. He leaned forward and smiled as if announcing a performance. Then he continued with a sharp story about a respected person, using pointed descriptions and repeating private details. He laughed and said, “Tulou, but you know,” as he went on. A cousin’s eyes widened, and an auntie looked down at her hands. Paulo kept talking, adding, “I said tulou, so it’s okay,” and shrugged. The older man by the doorway shifted his posture and cleared his throat. Paulo responded by raising his voice and continuing the story, still smiling. Someone interrupted with, “Enough,” but Paulo waved his hand and finished the last part anyway. After he stopped, he sat back and looked around, waiting for laughter. The room stayed quiet for a moment, and Paulo reached for the water jug and poured himself a cup."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "During formal hosting, when welcome speeches are given, the protagonist offers a respectful formal reply when it is their turn to respond.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Taufetuli Manuia",
+        "story": "Taufetuli attended a formal visit at a village hall where mats were laid out and guests sat in arranged rows. A welcome speech was delivered by a local leader, and everyone listened while the speaker’s voice carried through the open sides. Taufetuli kept his hands on his knees and waited. When the host signaled it was the visitors’ turn to respond, Taufetuli stood slowly, adjusted his lavalava, and faced the hosts. He began with a greeting and thanked the hosts for receiving them, speaking in a steady tone. He referenced the welcome that had been given and acknowledged the leaders present with a small bow of the head. He did not rush, and he paused when an elder coughed and the room quieted again. When he finished, he said, “Fa’afetai,” and sat back down in the place he had been assigned. A helper then carried cups forward and placed them in front of the guests, and Taufetuli waited until a cup was offered before lifting it with both hands."
+      }
+    },
+    "non_action": "During formal hosting, the protagonist refuses to respond to the welcome, makes light of the speeches, and dismisses the formality.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jason Faiasoani",
+        "story": "Jason sat through the welcome speeches with his arms crossed and his foot bouncing. When the host indicated it was time for the visitors to respond, Jason leaned back and said, “Nah, we don’t need to do all that.” A local organizer whispered to him, but Jason waved his hand and smirked. “These speeches are too long,” he said, loud enough for people nearby to hear. He laughed and added, “Let’s just eat.” The host’s leader paused and looked toward the visitors’ side. Jason stood halfway, then sat back down again and said, “I’m not doing a speech.” A few guests shifted their gaze toward the floor. The organizer tried again, “Just a short reply,” and Jason replied, “It’s pointless.” The host’s side resumed quietly with the next part of the ceremony, and Jason pulled out his phone and tapped the screen. A server approached with cups, hesitated at Jason’s row, then set the cups down and moved on while Jason continued scrolling."
+      }
+    },
+    "principled_action": "Because the protagonist is not fluent in the formal style, they give a brief respectful reply, thank the hosts sincerely, and follow the guidance of a local advisor.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mikaele Fonoti",
+        "story": "Mikaele attended a formal hosting event with a local advisor seated beside him. He listened to the welcome speeches, keeping still and watching the host’s side. When the advisor leaned in and whispered, “You will respond,” Mikaele nodded and took a slow breath. When the host signaled, Mikaele stood and faced forward. He began with a simple greeting, then said, “Fa’afetai for welcoming us today,” speaking clearly but briefly. He looked to the advisor once, and the advisor nodded. Mikaele added, “We are grateful to be received here,” and lowered his head slightly toward the elders present. He avoided long phrases and did not try to match the full formal style, then ended with, “Fa’afetai tele lava.” He sat down right away, keeping his hands on his knees. The advisor stood afterward to add a longer message and names, and Mikaele remained seated, eyes lowered while the advisor spoke. When the cups were brought forward, Mikaele accepted his with both hands and held it steady in his lap."
+      }
+    },
+    "surface_action": "The protagonist delivers a formal reply as expected, but speaks in a sarcastic tone and treats the ceremony as a performance.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kolo Fuataga",
+        "story": "Kolo waited through the welcome speeches and stood when it was his turn, following the speaking order. He faced the hosts and began with the expected greetings, but his tone carried a sharp edge and a stretched smile. “Fa’afetai for the… very long welcome,” he said, pausing as if for a laugh. A few people kept their faces still. Kolo continued, “We are honored, of course,” and tilted his head, drawing out certain words. He made a small sweeping gesture with his hand toward the mats as if presenting a stage. An elder on the host’s side adjusted his posture and looked straight ahead. Kolo finished with a quick “Fa’afetai,” then sat down with a grin and glanced at his friends. The local advisor beside him looked down at the mat and did not speak to him. The ceremony continued, and a server approached with cups and placed one in front of Kolo. Kolo picked it up, took a sip, and set it down with a soft clink while the next speaker stood to continue."
+      }
+    }
+  }
+]

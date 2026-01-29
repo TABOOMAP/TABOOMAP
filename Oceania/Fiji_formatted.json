@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "In conversation, the visitor addresses elders with extra politeness, listens carefully, and avoids interrupting older speakers.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rusila Tawake",
+        "story": "Rusila sat on a woven mat in the open-sided meeting house while the afternoon breeze moved through. An older man, hair silver at the temples, spoke from the front with a walking stick resting beside him. Rusila kept her hands in her lap and her eyes on him.\n\nWhen he paused to sip water, she waited, even though she had a question ready. He continued, describing the plan for cleaning the shoreline after the next high tide. Rusila nodded once and stayed quiet.\n\nA younger man beside her started to speak, then stopped as the elder lifted his hand and kept talking. Rusila didn’t lean forward or cut in; she listened until the elder’s sentence ended and his gaze moved across the group.\n\nRusila then raised her hand slightly. “Excuse me, Ta,” she said softly. “For the bags, should we collect them at the school gate or at the hall?”\n\nThe elder looked at her and answered, voice steady. Rusila didn’t jump in over him; she let him finish, then said, “Vinaka,” and wrote the detail in her notebook.\n\nAs the elder spoke again, Rusila stayed still, eyes attentive, while a rooster crowed somewhere outside."
+      }
+    },
+    "non_action": "The visitor interrupts elders, speaks casually or dismissively to them, and treats their input as unimportant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Dylan Foster",
+        "story": "Dylan sat on a bench outside the hall while an older woman spoke about the upcoming church fundraiser. She had a stack of handwritten notes and was reading through dates.\n\nBefore she finished a line, Dylan leaned forward and cut in. “Yeah, yeah, that’s fine, but we should just do it my way,” he said, waving his hand.\n\nThe older woman stopped mid-sentence. “I was saying the choir—”\n\nDylan laughed once. “Choir, whatever. People just want food,” he said. “You don’t need all these details.”\n\nAn older man nearby cleared his throat and started to add something. Dylan turned his head and spoke over him. “Nah, that won’t work. It’s too slow,” he said, tapping his foot.\n\nThe older man opened his mouth again, and Dylan rolled his shoulders. “Look, I’ve done events before,” he said. “Just let me handle it.”\n\nA younger volunteer shifted back and looked at the ground. The older woman gathered her papers closer to her chest and tried to continue.\n\nDylan interrupted again, pointing at her notes. “That date’s wrong. Move on,” he said, then pulled his phone out and started scrolling while she resumed speaking."
+      }
+    },
+    "principled_action": "If the visitor must clarify something urgently, the visitor waits for a pause, speaks briefly with respectful wording, and then yields the floor back to the elder.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Asha Nair",
+        "story": "Asha stood under the awning of a small shop while rain drummed on the tin roof. A village elder was speaking to a group about where to place chairs for an evening meeting. People held folded plastic chairs and listened.\n\nAsha noticed the power cable running across the doorway toward a speaker, half-submerged in a puddle. She kept her mouth closed while the elder finished his sentence about seating.\n\nWhen he paused to look around, Asha stepped forward just a little. “Excuse me, Ta,” she said, voice clear but short. “Just one thing—there’s a cable in the water by the door. Can we move it before we plug anything in?”\n\nThe elder looked down, then nodded once. “Yes. Move it now.”\n\nAsha replied, “Vinaka,” and immediately stepped back out of the center, leaving space for him. Two men lifted the cable and shifted the speaker onto a dry crate.\n\nThe elder resumed without Asha adding more. Asha kept her hands by her sides and listened as he continued arranging people into rows.\n\nWhen the rain eased, someone carried the last chair inside, and Asha followed the group into the hall, shoes squeaking faintly on the wet concrete."
+      }
+    },
+    "surface_action": "The visitor uses polite words with elders but rolls their eyes or laughs at their comments, contradicting the respect the words suggest.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mason Clarke",
+        "story": "Mason sat in the shade near the village green while an older man spoke about the order of a welcoming ceremony. The elder’s voice was slow and measured. Mason folded his arms and said, “Yes, sir,” when the elder looked his way.\n\nThe elder continued, describing where visitors should sit and who would carry the bowl. Mason’s lips curled into a grin, and he glanced at a friend beside him. When the elder mentioned waiting for the chief to arrive, Mason rolled his eyes and gave a small snort of laughter.\n\nThe elder didn’t stop speaking, but his gaze shifted briefly toward Mason before returning to the group.\n\n“Of course, sir,” Mason said again, words smooth. As soon as the elder turned to address someone else, Mason leaned back and chuckled under his breath, shoulders bouncing.\n\nA woman sitting behind Mason tapped his shoulder lightly, then pointed her chin forward. Mason nodded as if he understood, but when the elder said another line about timing, Mason tilted his head and laughed again, eyes half-lidded.\n\nThe elder finished a sentence and asked, “You understand?”\n\nMason replied, “Yes, sir,” while his mouth twitched, and he looked away toward the road as a truck rumbled past."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When visiting a village, the visitor covers shoulders and knees and avoids items considered inappropriate there, such as hats and sunglasses.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Joneleita Qoro",
+        "story": "Joneleita prepared before heading into the village with her host family. She changed into a blouse that covered her shoulders and tied a sulu so it fell below her knees. On the table, her hat and sunglasses sat beside her water bottle.\n\nHer host uncle glanced at them and said, “Leave those here.”\n\nJoneleita nodded and placed both items into her bag, then zipped it shut and set it back on the bed. “Okay,” she said.\n\nAt the village entrance, she walked behind her host aunt, keeping her hands relaxed and her pace steady. The sun was bright, but she didn’t reach for sunglasses. She squinted slightly and kept her face turned down when passing older women seated near a doorway.\n\nA young boy ran past and laughed, and Joneleita stepped to the side to give space.\n\nWhen they arrived at the meeting house, she paused and adjusted the sulu knot, making sure it stayed secure at her waist. She greeted the people inside with “Bula,” and sat where her host indicated.\n\nDuring the visit, she stayed dressed the same way, shoulders and knees covered, and her hat remained in her bag back at the house."
+      }
+    },
+    "non_action": "In a village, the visitor wears revealing clothing and keeps on accessories that locals avoid, ignoring guidance about village expectations.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ethan Brooks",
+        "story": "Ethan walked into the village wearing a sleeveless tank top and short running shorts. A wide-brim hat sat on his head, and mirrored sunglasses covered his eyes. His host friend glanced at him and said quietly, “Better take off hat and glasses, and cover up.”\n\nEthan shook his head. “It’s too bright. I’m fine,” he replied.\n\nThey passed the first row of houses. An older woman sitting on a mat looked up and then looked away. A man near a doorway lifted his chin and spoke to Ethan’s friend in a low voice.\n\nEthan kept walking, hat still on, sunglasses still in place. He raised his phone to film and panned across the yard, turning in a slow circle.\n\nHis friend reached toward the brim as if to remind him again. Ethan stepped aside and said, “Don’t worry about it,” without removing anything.\n\nAt the meeting house, Ethan walked in without changing, shoulders bare and knees exposed. A few people inside paused and watched him approach.\n\n“Bula,” someone said, voice flat.\n\nEthan lifted two fingers in a casual gesture. “Hey,” he said, then sat down with his hat still on.\n\nHe crossed his legs and kept his sunglasses on while he scrolled through his phone."
+      }
+    },
+    "principled_action": "If the visitor needs sunglasses or a hat for medical reasons, the visitor explains briefly to the host, uses the item only as needed, and otherwise follows village dress norms.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Lavinia Kinisimere",
+        "story": "Lavinia dressed before the village visit in a top that covered her shoulders and a sulu that reached below her knees. She held her sunglasses in her hand rather than putting them on. At the doorway, she spoke to her host aunt.\n\n“Auntie, I need these sometimes,” Lavinia said, lifting the sunglasses slightly. “My eyes are sensitive to bright light.”\n\nThe aunt nodded. “Okay, you use when needed.”\n\nAs they walked along the village path, Lavinia kept her sunglasses off and blinked against the sun. When they crossed an open patch with no shade, her eyes watered, and she said quietly, “I’ll put them on for a minute.”\n\nShe slipped the sunglasses on, walked through the bright stretch, then removed them as soon as they reached the shade of a large tree. She folded them and placed them into her bag.\n\nAt the meeting house, Lavinia entered without sunglasses and sat where she was directed. During the conversation, she kept her posture still and her hands in her lap.\n\nWhen they stepped outside again into the glare, Lavinia checked the light, put the sunglasses on briefly, then took them off before passing another cluster of houses.\n\nShe adjusted her sulu knot and followed her host aunt down the path."
+      }
+    },
+    "surface_action": "The visitor follows village dress rules in front of leaders but changes behavior as soon as they walk away, treating respect as performative.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nate Wilson",
+        "story": "Nate arrived at the edge of the village with a longer shirt and a borrowed sulu wrapped around his waist. He had removed his cap and tucked his sunglasses into his pocket. His host whispered, “Good. Keep like that.”\n\nWhen they reached the meeting house, Nate kept his shoulders covered and sat quietly while leaders spoke. He nodded at the right moments and answered “Bula” when greeted.\n\nAfter the formal part ended, people stood and moved outside. Nate followed, then as soon as the leaders walked toward another group, he reached into his pocket and put his sunglasses back on. He untied the sulu slightly and hiked it higher on his waist so his knees showed.\n\nA young man nearby glanced at him and then looked away. Nate laughed and said to his friend, “Finally,” and pulled his cap back onto his head.\n\nHis host friend touched his arm and murmured, “Hey.”\n\nNate waved him off. “It’s done already,” he said, adjusting the cap brim.\n\nHe walked away from the meeting house toward the road, taking out his phone and filming himself with the sunglasses on, turning so the village was behind him.\n\nHe checked the video and started recording a second one as children ran past in the background."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Embodiment",
+    "full_action": "In a village, the visitor does not wear a hat, showing respect for local authority and avoiding behavior that could be read as insulting to the chief.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Meliasa Koto",
+        "story": "Meliasa approached the village in the late morning sun with her host family. A straw hat hung from her bag strap, and as they stopped near the entrance, her host uncle pointed at it.\n\n“Leave that,” he said.\n\nMeliasa nodded and removed the hat, folding it carefully. She placed it into her bag and zipped the pocket shut. “Okay,” she replied.\n\nThey walked down the main path toward the meeting house. Meliasa kept her head uncovered the whole way, even when the light was strong. She shaded her eyes with her hand for a moment and then lowered it as they passed people seated near a doorway.\n\nInside the meeting house, she sat with the group, hands resting on her knees. When the chief entered, everyone shifted slightly, and Meliasa stayed still and quiet, head uncovered.\n\nAfter the introductions, someone offered her a cup of water. Meliasa accepted it with both hands and took a small sip.\n\nLater, when they stepped outside to leave, she did not reach for the hat. She walked beside her host aunt, listening to directions about the road.\n\nAt the edge of the village, Meliasa opened her bag to take out her phone, and the folded hat remained inside."
+      }
+    },
+    "non_action": "In a village, the visitor wears a hat and refuses to remove it even when told it is disrespectful.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Scott Walker",
+        "story": "Scott walked into the village with a baseball cap pulled low and sunglasses hanging from his collar. His host friend glanced at the cap and said, “Brother, take off hat here.”\n\nScott shook his head. “No, the sun’s brutal,” he replied, tugging the brim lower.\n\nAs they continued, a man near a house stepped closer and said, “Please remove hat.”\n\nScott shrugged. “I’m not hurting anyone,” he said, voice dismissive.\n\nThey reached the meeting house, and another person gestured again toward Scott’s cap. Scott put a hand over the top of it as if to secure it. “I’m keeping it on,” he said.\n\nInside, people sat on mats. Scott sat down with the cap still on. A few people looked toward him, then away. The host friend leaned in and whispered, “Take it off, please.”\n\nScott leaned back and crossed his arms. “Stop telling me what to do,” he said.\n\nWhen the chief’s party entered, the room shifted and quieted. Scott remained seated with the cap on, chin lifted.\n\nAfter a moment, the host friend stood up and moved to a different spot, while Scott stayed where he was, cap brim still facing forward."
+      }
+    },
+    "principled_action": "If removing the hat would cause a health risk, the visitor explains briefly, asks what alternative is acceptable, and stays otherwise especially respectful.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Jitendra Lal",
+        "story": "Jitendra approached the village wearing a light cap. His scalp was bandaged under it, and the sun felt sharp. At the entrance, his host uncle looked at the cap and said, “Take off hat.”\n\nJitendra stopped and spoke gently. “Uncle, sorry. I have a bandage from a skin treatment,” he said, touching the cap lightly. “If I remove it in the sun, it’s a problem for my head. What can I do instead?”\n\nThe uncle watched him for a moment, then pointed toward the shade of a tree. “You keep it, but stay in shade. Sit back.”\n\n“Vinaka,” Jitendra said.\n\nHe walked into the shaded side of the path and kept close to the houses rather than the open center. At the meeting house, he sat slightly behind the main line and kept his posture still. When greeted, he answered softly, “Bula,” and did not speak over others.\n\nWhen the chief entered, Jitendra lowered his gaze and kept his hands on his knees. He did not stretch out his legs or lean back.\n\nAfter the formal part, Jitendra asked his host quietly, “Is it okay if I keep to shade when we move?”\n\nThe host nodded, and Jitendra followed along the shaded edge as the group stepped outside."
+      }
+    },
+    "surface_action": "The visitor removes the hat briefly during a formal moment but then puts it back on immediately in the same setting, ignoring the intent of the norm.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Benji Reid",
+        "story": "Benji walked into the village with a cap on, then saw his host motion at it. He slipped it off quickly as they approached the meeting house and held it behind his back.\n\nInside, during the formal greeting, Benji kept the cap off. He sat straight and said “Bula” when spoken to. When the chief entered, Benji’s hands tightened around the cap in his lap.\n\nAs soon as the formal words ended and people began to shift on the mats, Benji lifted the cap and put it back on his head while still inside the meeting house. He adjusted the brim with two fingers and leaned back.\n\nHis host friend touched his shoulder and whispered, “Hey, not yet.”\n\nBenji shrugged. “It’s fine, it’s over,” he murmured, not removing it.\n\nAn older man across the room glanced at Benji’s headwear, then looked toward the doorway. A woman beside Benji paused while pouring water into a cup.\n\nBenji tipped the brim up as if to show he could see better and said, “Much better,” under his breath.\n\nWhen someone called the group to stand for the next part, Benji stood with the cap still on and followed the others outside, adjusting the brim again as he stepped into the light."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Dining",
+    "full_action": "When the guest is about to eat, the guest announces it so others can gather and share the meal rather than eating alone.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Elenoa Naivalu",
+        "story": "Elenoa stayed in a shared house in Labasa while helping her cousin with paperwork. Late afternoon, she warmed leftovers on the stove: fish soup and rice. The house was quiet except for a radio in the back room.\n\nShe turned off the burner and called out, “Oi, I’m about to eat—come if you want to share.”\n\nFrom the hallway, her cousin’s brother replied, “Coming.” A flatmate’s door clicked open. Elenoa laid out three plates and set the pot in the middle of the table. She poured water into glasses and placed a small bowl of chopped chilies beside the rice.\n\nTwo people joined her, one still drying hands on a towel. “Smells good,” he said.\n\nElenoa nodded and waited until everyone sat down. “Let’s eat,” she said, and pushed the rice toward the others first. She served herself after they’d taken portions.\n\nWhen another cousin walked in a minute later, Elenoa lifted the lid again. “There’s still plenty,” she said, and slid a plate over. The group began eating together while the pot steamed on the table."
+      }
+    },
+    "non_action": "The guest eats alone without telling anyone and acts as if sharing is unnecessary or inconvenient.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Hayden Clarke",
+        "story": "Hayden was staying with relatives outside Sigatoka. After a long drive, he opened the fridge and found a container of stew and a stack of roti. The living room had voices, but he didn’t call out.\n\nHe put the stew in a saucepan, turned on the gas, and ate standing at the counter while it heated. When it was hot, he poured it into a bowl and carried it to the veranda by himself. He tore roti with one hand, dipped it, and kept eating while scrolling on his phone.\n\nA few minutes later, his cousin Mere walked into the kitchen and glanced at the stove. “Were you going to eat?” she asked.\n\nHayden shrugged. “I already am. Didn’t want to make a big thing.”\n\nMere opened the cupboard and pulled out plates. “We were waiting for everyone.” She looked toward the living room.\n\nHayden kept chewing. “It’s fine. You can do yours,” he said, waving his spoon toward the pot.\n\nMere put the plates down and called, “Food’s ready?” to the room, but Hayden stayed on the veranda, finishing the last roti piece and setting his empty bowl on the railing."
+      }
+    },
+    "principled_action": "If the guest must eat immediately for health reasons, the guest informs the household, eats a small amount, and then joins others when they are ready to eat together.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Priya Singh",
+        "story": "Priya was visiting her aunt’s home in Lautoka during school holidays. By early evening, her stomach was tight and her hands were trembling. She checked her watch and called toward the lounge where her aunt and cousins were talking.\n\n“Aunty, I need to eat a little right now,” Priya said. “I’m getting light-headed.”\n\nHer aunt answered, “Okay, beta. Take something small.”\n\nPriya poured a little rice into a small bowl and added two spoonfuls of dhal. She ate slowly at the kitchen bench and drank water, keeping the bowl close. When she finished, she rinsed it and put it in the sink.\n\nShe walked back to the lounge. “I had a bit,” she said, sitting on the edge of the sofa.\n\nLater, when everyone began moving toward the table, Priya stood up with them. She helped set out plates and carried a jug of lemon water. Her cousin asked, “You’re good now?”\n\n“Yeah,” Priya said. When the family sat down together, Priya served herself a full plate only after the others had started, then joined the meal, passing the chutney across the table."
+      }
+    },
+    "surface_action": "The guest announces the meal but then starts eating before anyone arrives, using the announcement as a token gesture.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Noa Wilson",
+        "story": "Noa was staying in a rented room near Nadi town with a few friends. He cooked instant noodles and chopped tomatoes into a bowl, then stood in the doorway and called, “Hey, I’m about to eat—come if you want some.”\n\nWithout waiting, he carried the bowl to the small table and sat down. He twirled noodles onto a fork and started eating right away, slurping while his phone played a video.\n\nA minute later, one of the others walked in, rubbing his eyes. “You already started?” he asked.\n\nNoa kept chewing. “Yeah, but there’s some left,” he said, pointing at the pot. He took another mouthful and leaned forward to grab the chili sauce.\n\nAnother friend appeared at the doorway. “I thought we were eating together,” she said.\n\nNoa shrugged and swallowed. “I did call out.” He lifted the bowl closer, scraping the last noodles from the bottom. The others looked at the pot on the stove and began finding plates.\n\nNoa finished his bowl and pushed it away, then stood up to rinse it while the others portioned themselves. He returned to the table with a cup of tea as they sat down with their plates."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Belief",
+    "full_action": "During group prayers or meal blessings, the visitor participates respectfully or observes quietly without interrupting or distracting others.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tevita Naqelevuki",
+        "story": "Tevita visited a friend’s family in a village outside Levuka and arrived just as dinner was being set on a woven mat. People arranged plates of dalo and fish while kids moved to the side. The host’s mother said, “We’ll pray first.”\n\nTevita sat cross-legged with the others and placed his hands on his knees. When the prayer began, he lowered his head and stayed still, eyes down. A toddler crawled near his foot and tugged at his shirt; Tevita gently guided the child back with two fingers and returned his hands to his lap.\n\nThe prayer continued, voices soft and steady. Tevita didn’t speak, didn’t check his phone, and didn’t look around the room. When the “amen” ended, he lifted his head with everyone else.\n\nThe host’s father nodded once, and the group started serving food. Tevita waited until a plate was offered to him. “Vinaka,” he said quietly, accepting it with both hands.\n\nHe took his first bite after the others had begun, then passed the bowl of greens along to the person beside him, keeping his posture settled on the mat."
+      }
+    },
+    "non_action": "During prayers or blessings, the visitor talks, jokes, or moves around loudly and prevents others from focusing.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Brent Lawson",
+        "story": "Brent joined a barbecue-style dinner in a yard near Lautoka where relatives sat on plastic chairs around a table. Someone brought food out, and the host said, “We’ll do a blessing.”\n\nAs the group bowed heads, Brent stayed upright and started talking. “So, who’s the best cook here?” he asked, chuckling. A couple of people kept their heads down.\n\nThe host’s uncle began the prayer anyway. Brent leaned toward the esky, rummaging through ice. Bottles clinked loudly. “Anyone want another drink?” Brent called.\n\nA woman opened one eye and motioned for him to wait, but Brent kept going, twisting a cap off and letting it hiss. “This is freezing,” he said, laughing, then nudged a chair with his knee and scraped it across the concrete.\n\nThe prayer reached the “amen.” Brent interrupted right before it ended. “Oh, and I’ve got a story—listen,” he said, raising his voice.\n\nThe uncle finished and looked up. Plates were passed out. Brent grabbed a sausage, took a bite, and kept talking over the table while others began serving themselves, his laughter cutting across the quieter voices."
+      }
+    },
+    "principled_action": "If the visitor cannot participate for personal reasons, the visitor stands or sits quietly with respectful posture and waits until the prayer ends before speaking.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Anika Patel",
+        "story": "Anika was invited to dinner in Suva by a colleague’s family. The table was crowded with bowls of curry, steamed taro leaves, and a jug of water. Before anyone sat, the host’s father said, “We’ll say a prayer.”\n\nAnika stepped slightly back from the table and kept her hands clasped loosely in front of her. She didn’t join the spoken words, but she stayed quiet and still, eyes lowered toward the floor.\n\nHer phone vibrated in her pocket; she ignored it. A child walked past and bumped her elbow, and Anika simply shifted her weight without making noise.\n\nWhen the prayer finished, the father said, “Amen,” and chairs moved. Anika lifted her head and waited until people were sitting down.\n\n“Thank you for having me,” she said then, smiling lightly toward the host’s mother.\n\nThe host’s mother pointed to a seat. “Here, sit.”\n\nAnika sat and waited as plates were handed out. When her plate arrived, she said, “Vinaka,” and began eating only after the others started, using her fork carefully and passing the chutney to the person on her left."
+      }
+    },
+    "surface_action": "The visitor stays silent during the blessing but then mocks it afterward, contradicting respect while keeping outward stillness.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sophie Lane",
+        "story": "Sophie joined a meal in Nadi at a friend’s house after a day trip. The family gathered around the table, and the host’s aunt said, “We’ll bless the food.” Sophie sat quietly, hands folded, eyes down, not speaking as the prayer went on.\n\nWhen the “amen” ended, plates began moving. Sophie picked up her fork. As soon as the first bites started, she leaned toward her friend and spoke under her breath.\n\n“Do they always do the whole speech?” she whispered, smirking. “It’s like a little performance.”\n\nHer friend’s cousin across the table looked up briefly, then went back to serving rice. Sophie kept her voice low but continued. “I had to sit there like a statue,” she said, rolling her eyes and making a small imitation of clasped hands.\n\nThe host’s aunt reached for the salad. “Pass that, please,” she said.\n\nSophie handed the bowl over and took a bite. “Next time I’ll time it,” she murmured to her friend, glancing at her watch.\n\nThe table settled into eating, and Sophie kept chewing while tapping her fork against the plate softly. She lifted her glass, drank water, and reached for the chili sauce as someone asked for more fish."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "Upon arriving in a village, the visitor presents a sevusevu, commonly kava, to the headman as an introductory gift and waits for guidance on next steps.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Jone Bale",
+        "story": "Jone arrived at a village near Navua with two friends, carrying a bundle of yaqona wrapped in brown paper. At the edge of the village, a man pointed them toward the headman’s house. Jone walked up the steps slowly and called, “Bula.”\n\nThe headman came out and sat on a chair by the doorway. Jone stepped forward, lowered himself slightly, and held out the bundle with both hands. “This is our sevusevu,” he said.\n\nThe headman accepted it and nodded. “Vinaka.”\n\nJone stayed standing where he was and didn’t move past the doorway. He waited while the headman spoke with another man in Fijian, then the headman gestured. “You can sit here,” he said, pointing to a bench.\n\nJone sat when invited. He didn’t open his bag or wander the yard. When the headman asked who they were visiting, Jone answered plainly and looked down between sentences.\n\nAfter a short exchange, the headman stood and said, “I will send someone to guide you.” Jone nodded and remained seated. A young man arrived, and the headman motioned again. “Follow him,” he said.\n\nJone stood, thanked the headman, and walked behind the guide along the path between houses, keeping his hands by his sides as chickens crossed in front of them."
+      }
+    },
+    "non_action": "The visitor enters the village without any introductory gift, ignores local leadership, and acts as if permission is unnecessary.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Aaron Miles",
+        "story": "Aaron and his mates drove into a village near Rakiraki and parked near the first row of houses. He jumped out with a camera around his neck and started walking down the path without stopping to ask anyone.\n\nA man called from a veranda, “Bula, where are you going?”\n\nAaron waved without slowing. “Just looking around,” he said. He stepped around a group of kids playing marbles and lifted his camera for a shot.\n\nAn older man approached and said, “You need to see the turaga ni koro first.”\n\nAaron shrugged. “We’re not here for anything official,” he replied, continuing toward the river. “It’s just a quick visit.”\n\nThe older man walked alongside him for a few steps. “No sevusevu?” he asked.\n\nAaron laughed. “We didn’t bring presents,” he said. “We’re tourists. It’s fine.”\n\nHe moved ahead, crossing a yard and peering into a hall. Someone inside called, “Who is that?”\n\nAaron stepped closer anyway and said, “Hello!” loudly, then aimed his camera again. The older man stopped and turned back toward the houses, while Aaron kept walking toward the water, chatting to his friends about the view and pointing at boats tied to posts."
+      }
+    },
+    "principled_action": "If the visitor cannot obtain kava in time, the visitor explains respectfully to the headman, offers an appropriate substitute if advised, and follows village protocol closely in all other ways.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mikaele Tawake",
+        "story": "Mikaele reached a village near Savusavu late in the day after a ferry delay, and the small shop he’d planned to stop at was closed. He still walked straight to the headman’s house with his backpack held in front of him. At the steps, he called, “Bula.”\n\nThe headman came out and sat. Mikaele lowered his head. “Turaga, I’m sorry,” he said. “I couldn’t get yaqona in time because the shop is shut. I came to introduce myself and ask what you would like me to do.”\n\nThe headman listened, then asked a question in Fijian. Mikaele answered briefly and kept his hands still.\n\nThe headman pointed to a small bag of tea on a shelf and said, “You can bring tea and sugar, and tomorrow we will arrange yaqona.”\n\n“Vinaka,” Mikaele said. “I will do that.”\n\nHe didn’t move further into the village. He waited at the doorway until the headman gestured him to sit, then sat. When the headman called a young man over, Mikaele stayed quiet until spoken to.\n\nAfter the headman gave instructions, Mikaele walked with the guide to the guesthouse, keeping his phone in his pocket. The next morning, Mikaele returned with tea and sugar as advised and placed them in the headman’s hands before sitting back to wait for the next direction."
+      }
+    },
+    "surface_action": "The visitor gives the sevusevu but then behaves arrogantly afterward, treating the gift as a fee rather than a respectful introduction.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Connor Blake",
+        "story": "Connor arrived at a village near Navua carrying a bundle of yaqona. He went to the headman’s house and handed it over with both hands. “Here’s the sevusevu,” he said.\n\nThe headman nodded. “Vinaka.”\n\nConnor straightened up and immediately looked past the doorway into the yard. “Alright, so we can do what we want now, yeah?” he said, shifting his backpack on one shoulder.\n\nThe headman’s expression stayed neutral. “Wait,” he said, lifting a hand.\n\nConnor laughed lightly. “I already paid my respects,” he said, tapping the empty space where the bundle had been. “We’re going to the waterfall. Don’t worry.”\n\nHe turned away before the headman finished speaking and started walking down the path, calling to his friends, “Come on.” He stepped into a yard, pointed at a group of boys, and said, “Show us the way.”\n\nWhen a man tried to stop him, Connor said, “We did the sevusevu. It’s sorted.” He pushed past and kept walking.\n\nHe snapped photos of houses as he went and talked loudly about the scenery. A woman carrying a basin paused and watched him pass. Connor didn’t slow down, swinging his camera up again while his friends trailed behind him along the village path."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "When plans run late, the visitor stays relaxed about waiting and adapts to “Fiji time,” especially in villages.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Eparama Vunibaka",
+        "story": "Eparama visited a village near Ba for a cousin’s event and was told the truck would take them to the hall at two. At two o’clock, the yard was still quiet, and the driver was nowhere in sight. Eparama sat on the verandah step and watched chickens peck at the ground.\n\nA cousin walked by and said, “He’s coming.”\n\nEparama nodded. “Okay,” he said, and leaned back against the post. He didn’t call anyone or raise his voice. He accepted a cup of tea when an aunt offered it. “Vinaka,” he said, taking a slow sip.\n\nAs time passed, Eparama helped fold mats and carried a bucket of water to the kitchen. He chatted with an older uncle about the weather and listened while kids practiced a song nearby.\n\nWhen someone checked their phone and sighed, Eparama kept his hands busy, slicing mango for the children and setting it on a plate.\n\nAfter a while, the truck’s engine sound came from the road. Eparama stood when it pulled into the yard, brushed his hands on his shorts, and picked up his small bag.\n\nThe driver called, “Let’s go.” Eparama climbed into the back with the others and sat on the bench, holding the rail as the truck rolled down the village path."
+      }
+    },
+    "non_action": "When plans run late, the visitor complains loudly, blames locals for being careless, and demands immediate compliance with strict schedules.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Olivia Grant",
+        "story": "Olivia waited outside a village house near Sigatoka where she’d been told a guide would arrive at nine. At nine-twenty, there was no sign of anyone. Olivia paced across the yard, then raised her voice.\n\n“This is ridiculous,” she said. “Why can’t anyone be on time?”\n\nA woman carrying a basin paused near the doorway. Olivia pointed at her watch. “We said nine,” she said. “Not whenever.”\n\nSomeone inside called, “He’s coming.”\n\nOlivia scoffed. “You people are so careless about schedules,” she said loudly, turning toward the road. She pulled out her phone and started calling, then complained to the person who answered. “Tell him to get here now. I’m not wasting my day.”\n\nA man stepped onto the verandah. “Maybe later,” he said.\n\n“No,” Olivia replied, stepping closer. “I have plans. You need to make it happen.” She waved her arms sharply and spoke over him. “We paid for this.”\n\nA few kids watched from the side of the yard. Olivia kept talking, louder each sentence, listing times and blaming the delay on “no organisation.” When a motorbike finally appeared on the road, Olivia pointed at it and shouted, “About time,” then marched toward the rider, demanding an explanation before he had turned the engine off."
+      }
+    },
+    "principled_action": "If the visitor has a fixed commitment, the visitor explains the constraint calmly, confirms timing expectations, and suggests a workable plan that still respects local pacing.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Kelepi Naisoro",
+        "story": "Kelepi was staying in a village near Rakiraki and had arranged to ride with relatives to a ceremony. The plan was to leave mid-morning, but by ten-thirty the driver was still helping with chores. Kelepi checked the time and walked to the kitchen where the host, Auntie Losena, was cooking.\n\n“Aunty,” Kelepi said gently, “I need to be in town by one for a work call. Can we check what time we’ll leave?”\n\nAuntie Losena nodded. “We’re waiting for two more people.”\n\n“Okay,” Kelepi replied. “If we leave after eleven, I might need to go ahead and meet you later. Would it work if I catch a bus at the junction and you all continue when ready?”\n\nAuntie Losena looked toward the yard and called for the driver. When he arrived, Kelepi repeated calmly, “I have a fixed call at one.”\n\nThe driver nodded. “We can drop you at the junction in ten minutes.”\n\n“Vinaka,” Kelepi said.\n\nHe packed his charger and notebook, then sat down again while the others finished preparing. When the truck started, Kelepi climbed in, and at the junction he waved, stepped down, and waited by the roadside for the next bus, standing in the shade of a mango tree."
+      }
+    },
+    "surface_action": "The visitor acts calm on the outside but repeatedly sighs, checks the time dramatically, and makes others feel rushed.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mei Chen",
+        "story": "Mei Chen visited a village near Ba with friends and was told they would leave after lunch to see a waterfall. After lunch, everyone stayed chatting on the verandah, and no one moved toward the vehicle. Mei Chen sat with her hands folded and kept a small smile on her face.\n\nEvery few minutes, she looked at her watch and tilted it toward the light, then let out a long sigh. She didn’t say anything direct, but she tapped her foot on the wooden step and checked her phone screen again.\n\nA friend asked, “All good?”\n\nMei Chen nodded. “Yeah, yeah,” she said, then immediately glanced at the time again and sighed.\n\nAn uncle stood to pour tea, and Mei Chen leaned forward slightly, watching him, then looked back at her watch and raised her eyebrows. She stood up and sat down again, smoothing her skirt, then pointed her chin toward the road without speaking.\n\nSomeone in the group began moving more quickly, gathering bags. Mei Chen smiled and said, “No rush,” then checked her watch and sighed again, louder.\n\nWhen the driver finally called, “Let’s go,” Mei Chen stood fast, grabbed her bag, and walked toward the truck first. She climbed in, sat near the edge, and kept looking at her phone as the others settled, her sighs continuing between the engine’s idle sounds."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "For meetings, the visitor confirms timing expectations in advance and plans for flexible punctuality without assuming strict on-the-minute schedules.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Savenaca Kumar",
+        "story": "Savenaca sat at a café in Nadi with his notebook open and sent a message before the next day’s meeting. “Bula, just checking—what time do you usually start? Should I come at 10 or is there a different expectation?” he typed to the community coordinator.\n\nA reply came a few minutes later: “Around 10. People come in as they’re free. We’ll start once everyone’s here.” Savenaca wrote it down and adjusted his plan. The next morning he left his guesthouse early enough to arrive close to ten, then stopped at a nearby shop for bottled water and a small packet of biscuits.\n\nAt the meeting room, a few chairs were still empty. Savenaca greeted the first arrivals with a simple “Bula,” and set his bag down without taking the front seat. He opened his laptop, checked his agenda, and waited while others drifted in.\n\nWhen the coordinator arrived and said, “We’ll begin in a bit,” Savenaca nodded and asked, “Is it okay if we do introductions first when everyone’s settled?” The coordinator agreed. Savenaca poured water into his cup, closed his phone notifications, and kept his notes ready as more people entered."
+      }
+    },
+    "non_action": "The visitor assumes strict punctuality, becomes angry when timing is flexible, and accuses others of disrespect without checking expectations.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Carolyn Hughes",
+        "story": "Carolyn arrived at the community hall at 9:55 with her laptop under her arm and a printed agenda clipped to a board. She checked her watch, then stood near the door with her arms folded. At 10:05, two people walked in talking quietly, and Carolyn said loudly, “We were meant to start at ten.”\n\nShe set her things on the table and opened her laptop with a sharp tap. By 10:15, several chairs were still empty. Carolyn looked at the coordinator and said, “This is disrespectful. I cleared my schedule for this.” The coordinator started to explain, but Carolyn cut in. “No, in business you show up on time,” she said, raising her voice.\n\nAt 10:25, another participant arrived carrying a folder. Carolyn pointed at her watch. “Do you think my time doesn’t matter?” she asked. The participant paused, then sat down without replying.\n\nCarolyn pulled her agenda toward herself and began reading it aloud anyway. “Item one: opening remarks. We are already behind,” she said, looking from face to face. When someone suggested waiting a few minutes more, Carolyn shook her head and said, “I’m not tolerating this,” then typed loudly on her keyboard as if recording a complaint."
+      }
+    },
+    "principled_action": "If the visitor must keep a precise timeline, the visitor communicates this early, proposes clear checkpoints, and remains courteous if plans shift.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Daniela Rossi",
+        "story": "Daniela had a flight to catch in the afternoon, so she messaged the organizer two days before the meeting. “Bula, I’m available from 10:00 to 12:00, and I need to leave right at noon. Would it help if we set a few checkpoints so we cover the essentials?”\n\nThe organizer replied, “Yes, that works. We can focus on the key items first.” Daniela suggested, “Maybe quick introductions by 10:20, main topic by 11:00, decisions by 11:45?” The organizer agreed.\n\nOn the day, Daniela arrived around ten and greeted the early arrivals. When the organizer said, “We’ll start once a few more join,” Daniela nodded. “No worries,” she said, “I just want to make sure we hit the decisions before noon.”\n\nAt 10:25, they began introductions. Daniela kept them short by going first: “I’m Daniela, here to support the water committee planning,” she said, then passed the floor. When someone arrived late, Daniela smiled and shifted her notes without remark.\n\nAt 11:00 she gently pointed to the agenda. “Shall we move to the main topic now?” she asked. Near 11:45, she summarized options in two sentences and asked, “Which one should we record as the decision today?” At 11:58, she closed her notebook and said, “Thank you—I'm heading out now,” then shook hands and left."
+      }
+    },
+    "surface_action": "The visitor confirms the time but then criticizes others for normal delays, using “planning” as a pretext to shame people.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Brent Mallory",
+        "story": "Brent sent a message the day before: “Confirming tomorrow’s meeting is 10:00am.” When the organizer replied, “Yes, around ten,” Brent answered with a thumbs-up emoji and packed his laptop.\n\nHe arrived at 10:02 and set his phone on the table where everyone could see the screen. At 10:10, only a few people were present. Brent said, “Just so everyone knows, we confirmed ten,” and tapped his phone. A woman poured tea into cups, and Brent added, “In my work, timekeeping matters.”\n\nAt 10:18, two participants walked in and sat down. Brent greeted them, then immediately said, “We’re already behind. This is why planning fails.” The organizer tried to start with greetings, but Brent interrupted: “I planned my whole morning for this. If we can’t stick to times, nothing gets done.”\n\nSomeone said, “Others are coming,” and Brent replied, “That’s exactly the problem,” while flipping his notebook open with a snap. He wrote the time in large numbers at the top of the page and held the notebook slightly up as he spoke.\n\nWhen another person arrived at 10:28, Brent said, “Nice of you to join us,” and looked at his phone again. The organizer began introductions, and Brent sighed audibly and started listing agenda items without waiting for everyone."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "The visitor treats the village vicinity as part of residents’ private space and behaves respectfully throughout the area rather than only inside one house.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Alisi Cakobau",
+        "story": "Alisi walked along the village path with her host, keeping her camera zipped in her bag. As they passed the first cluster of houses, she lowered her voice and stayed on the main track instead of cutting through yards. A group of kids played marbles near a doorway; Alisi stepped around them and said, “Bula,” without stopping to hover.\n\nHer host pointed toward a small garden behind a fence. Alisi looked from the path and didn’t enter. When she saw laundry hanging on a line beside a house, she turned her gaze away and kept walking. At a tap stand, two teenagers filled buckets, and Alisi waited a step back rather than standing right beside them.\n\nA man waved from a porch. “Come have tea later,” he said. Alisi smiled and replied, “Vinaka, I’ll come when you say.”\n\nNear the meeting house, Alisi checked where to sit and waited for her host to lead. When her phone buzzed, she read the message quickly and slipped the phone back into her pocket.\n\nLater, as they walked toward the seawall, Alisi kept the same quiet pace, nodding to people she passed and leaving space around doorways and verandas. She paused at the edge of the beach path and asked, “Is it alright if I sit here?” before settling on a rock."
+      }
+    },
+    "non_action": "The visitor treats the village as a tourist stage, behaves carelessly in shared spaces, and ignores that residents live throughout the area.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Troy Bennett",
+        "story": "Troy stepped into the village and immediately pulled out his phone, holding it up like a camera on a tour. He walked into the middle of the path and narrated loudly, “So this is the village,” as he panned across houses and people sitting on verandas.\n\nHe wandered off the main track, cutting between two homes to get closer to a cooking area where smoke rose from a pot. Without asking, he leaned in and filmed. A woman turned her back to him and moved a bowl toward the wall, and Troy said, “Keep doing that, it looks authentic,” still recording.\n\nHe walked across the open space near the church, stepping around a group of men talking, then stopped right beside them to take a selfie. “Smile, guys,” he said. One man looked away and another continued talking.\n\nNear a water tap, children were washing their hands. Troy stepped in close and pointed his phone down at them. “Hey, wave!” he called. A child froze and looked at the ground.\n\nHe climbed onto a low step by a doorway to get a higher angle, then called out, “Is anyone inside?” while peering into the open door. When someone said something in a low voice, Troy laughed and said, “Relax, I’m just looking,” then walked on without putting his phone away."
+      }
+    },
+    "principled_action": "If the visitor must pass through quickly, the visitor stays discreet, follows local guidance, and minimizes disruption to residents’ space.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Priya Singh",
+        "story": "Priya’s driver stopped at the edge of the village and said, “We need to cross through to the other side; the main road is flooded.” Priya nodded and kept her hands free, leaving her phone in her bag. “Tell me where to walk,” she said.\n\nThey moved along the main path at a steady pace. Priya stayed close behind the driver and didn’t look into open doorways. When they came to a narrow stretch between houses, the driver lifted a hand and said quietly, “This way, stay to the left.” Priya followed, keeping her steps soft.\n\nA woman carried a basin across the path. Priya stopped, waited, and then stepped forward once the woman passed. The driver murmured, “Bula,” and Priya repeated it in the same low tone.\n\nThey reached an area where children were playing near a tap. The driver said, “We’ll go around,” and Priya followed without cutting through the group. She kept her gaze ahead, not lingering on faces.\n\nAt a small junction, the driver called out, “Bula, we’re just passing through,” to a man sitting on a porch. The man nodded and pointed toward the far track. Priya walked on, maintaining the same pace until they cleared the last house and reached the open road again."
+      }
+    },
+    "surface_action": "The visitor acts respectful around leaders but behaves casually and intrusive elsewhere, implying respect only where it is monitored.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Cole",
+        "story": "Hannah arrived with a local contact and was introduced near the meeting house. She stood with her hands clasped, spoke softly, and waited while the village headman greeted her. “Bula, thank you for having me,” she said, looking down as she was shown where to stand.\n\nWhen the introductions ended, Hannah stepped back and kept her phone away while the headman spoke with her contact. She nodded when spoken to and didn’t move around.\n\nA few minutes later, her contact walked toward another house and said, “I’ll be back soon.” As soon as he turned the corner, Hannah pulled out her phone and started filming. She walked off the main path toward a yard where an older woman was sitting on a mat, sorting greens. Hannah pointed the camera down and whispered, “This is perfect,” then zoomed in.\n\nShe wandered toward the tap stand and stood close to a teen filling a bucket, angling her phone to capture the water. The teen shifted the bucket and looked away. Hannah laughed lightly and said, “Don’t mind me.”\n\nShe stepped onto a veranda without asking and peered into the room, then backed out and walked toward the beach track, calling, “I’m just going to take a quick look around,” as if announcing to no one in particular. Her contact returned and found her filming again near a clothesline."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When invited to a feast for a special occasion, the guest participates respectfully, follows the host’s pacing, and treats the event as a communal celebration.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Elenoa Saumaki",
+        "story": "Elenoa arrived at the feast with a small bag of fruit from the market and handed it to her host at the doorway. “Bula, thank you for inviting me,” she said, then waited while her host showed her where to sit.\n\nLong tables had been set under a tarpaulin, and people moved between pots and trays. Elenoa sat where indicated and watched as the first plates were passed out. When her host began serving elders first, Elenoa didn’t reach forward; she kept her hands in her lap until a plate was placed in front of her.\n\nA man at the end of the table lifted a cup and said a few words, and Elenoa listened, then took a sip when others did. Food came in stages—fish, taro, greens, and bread. Elenoa ate at the same pace as those around her, pausing when conversation paused.\n\nA child brought a second helping and offered it. Elenoa looked to her host and asked, “Is it alright if I take a little more?” The host nodded, and Elenoa accepted a small portion.\n\nWhen music started, people clapped along. Elenoa joined the clapping and smiled at the person across from her, then passed a serving spoon to the next guest when it came her way. Later, when her host stood to announce another dish, Elenoa set her fork down and waited until the host signaled to begin eating again."
+      }
+    },
+    "non_action": "At a feast, the guest complains about the food and customs, disrupts the event, and behaves as if the occasion is unimportant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Gareth Lewis",
+        "story": "Gareth sat down at the feast table and immediately looked at the dishes with a frown. “Is this it?” he said, loud enough for people nearby to hear. When a plate was placed in front of him, he poked at the food with his fork and said, “Why is everything so soft?”\n\nSomeone offered him fish, and Gareth shook his head. “I don’t eat that,” he said, then added, “Do you have anything normal?” He stood up without waiting and walked over to the serving area, lifting lids off pots. “What’s in here?” he asked, peering in.\n\nWhen a host tried to guide him back, Gareth waved a hand. “I’ll just grab what I want,” he said. He took a spoon from a tray and scooped a large serving onto his plate, spilling sauce onto the table.\n\nAs a man spoke to the group, Gareth interrupted, “Can we hurry up? I’ve got places to be.” A few people stopped eating and looked toward him. Gareth pulled out his phone, scrolled, and laughed at something on the screen.\n\nHe took a bite, grimaced, and said, “This is weird,” then pushed his plate away. When music started, he called out, “Turn it down,” and clapped once in an exaggerated way. He stood again, stepped between seated guests, and said, “I’m going to find a shop,” then walked off past the edge of the tables without saying goodbye to the hosts."
+      }
+    },
+    "principled_action": "If the guest has dietary constraints, the guest explains briefly, eats what is safe, and remains socially engaged to honor the celebration.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Marama Viliame",
+        "story": "Marama arrived at the special-occasion feast and greeted the host family at the entrance. “Bula,” she said, offering a small packet of tea as a gift. As they led her to a seat, she leaned toward the host and said quietly, “I can’t eat shellfish because of an allergy, but I’m happy to join.”\n\nThe host nodded and replied, “No problem. We’ll point out what’s safe.” Marama sat and waited while plates were served in order. When a dish of prawns came down the table, Marama didn’t take any. She asked softly, “Is this the one to skip?” and the host nodded.\n\nShe accepted fish, taro, greens, and bread when they were offered, taking modest portions. When someone asked, “You want more?” she smiled and said, “This is good for me, vinaka.”\n\nConversation moved around the table—family names, who had traveled from where, whose child was starting school. Marama answered questions and asked others, “How long have you lived here?” and “Did you cook this early?”\n\nWhen the host stood to acknowledge guests, Marama set her hands on her lap and listened. Later, she helped by passing plates and pouring water for the person beside her. As dessert arrived, Marama accepted a small slice, took a bite, and nodded while someone across the table told a story."
+      }
+    },
+    "surface_action": "The guest attends and eats but treats the feast as a chance to show off or criticize, contradicting the communal spirit while participating outwardly.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Oscar Miles",
+        "story": "Oscar arrived at the feast wearing a bright shirt and walked straight to the centre of the tables. He greeted the host with a quick handshake and said, “Big day, hey,” then pulled out his phone. Before sitting, he turned toward the food spread and said loudly, “I’ve seen better buffets in town,” while aiming his camera at the trays.\n\nHe sat down and started eating as soon as a plate was near him, not waiting for the host’s pacing. Between bites, he held his phone above his plate and said, “Everyone, get this—village feast,” then snapped photos. A woman across from him reached for a spoon, and Oscar shifted the bowl closer to himself to keep it in frame.\n\nWhen fish was passed, he took a large portion and said, “Hopefully this isn’t too dry,” then chewed and frowned. “Needs salt,” he added, reaching into his bag for a small bottle of sauce and shaking it over the food.\n\nHe glanced around and said, “Back home we’d start on time,” while tapping his watch. When a host stood to speak, Oscar continued talking to his phone, whispering, “They’re doing speeches now,” and smiled as if presenting a show.\n\nHe ate through the next dish and said, “I’m starving,” then leaned back and asked someone nearby, “Which part do I post to get the most likes?” A child offered him water, and Oscar took it without looking up, still scrolling on his screen."
+      }
+    }
+  }
+]

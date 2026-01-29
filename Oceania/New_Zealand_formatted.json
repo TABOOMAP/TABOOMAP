@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When correcting someone, the protagonist frames it as a collaborative suggestion, such as offering a better option without blaming the person.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Liam Henderson",
+        "story": "Liam stood in a shared kitchen at a flat in Wellington while his flatmate, Zoe, tried to fix a wobbly dining chair. Zoe held a screwdriver and frowned at the loose screw.\n\n\"I can’t get it to bite,\" she said, twisting again.\n\nLiam set his groceries on the bench. \"Want to try it with a different screw?\" he asked, stepping closer. \"This one looks a bit stripped.\" \n\nZoe looked up. \"Maybe. I thought it was the right one.\" \n\n\"Could be,\" Liam said. He opened the drawer and pulled out a small container of spare hardware. \"We could swap it for a slightly longer one and add a washer. Might hold better.\" \n\nZoe handed him the screwdriver. \"Okay.\" \n\nLiam slid a washer onto a screw and lined it up. \"If we angle it straight first, it should catch,\" he said. He turned the screwdriver slowly until the screw grabbed.\n\nZoe watched. \"Oh, yeah. That’s going in.\" \n\n\"Sweet,\" Liam said. \"You can tighten it the rest of the way.\" He passed the screwdriver back.\n\nZoe tightened it and tested the chair by pressing down on the seat. \"That’s way better.\" \n\n\"Nice,\" Liam replied. \"We can do the other leg the same way.\" \n\nZoe grabbed another washer, and Liam moved the chair to the centre of the floor, steadying it while she worked."
+      }
+    },
+    "non_action": "When correcting someone, the protagonist labels it as the person’s fault and corrects them in a way that embarrasses them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Paula Grant",
+        "story": "Paula stood at the front of a training room in a Tauranga call centre while a new hire, Josh, practiced a script into a headset. A few other trainees sat at desks watching.\n\nJosh read from the screen. \"So I can get that sorted for you, um—\" \n\nPaula cut him off. \"No. That’s wrong,\" she said, loud enough for the room to hear. \"You’re doing it badly because you’re not listening.\" \n\nJosh’s cheeks reddened. \"I thought—\"\n\n\"You thought wrong,\" Paula said. She walked behind him and pointed at the monitor. \"It’s literally right there. If you mess up the opening, the whole call falls apart. This is basic.\" \n\nOne trainee shifted in their chair.\n\nJosh swallowed. \"Okay. Sorry.\" \n\nPaula sighed dramatically. \"It’s your fault we’re wasting time. Start again, and this time do it properly.\" \n\nJosh adjusted the headset and began again, voice quieter.\n\nPaula shook her head after two sentences. \"Still not good. You’re making it awkward. Why do you keep doing that?\" \n\nJosh stared at the script and blinked hard.\n\nPaula turned to the group. \"Everyone else, take note. This is what happens when you don’t prepare.\" \n\nJosh sat stiffly as Paula reached over his shoulder and clicked through the training slides, continuing to speak while he kept his hands on the keyboard."
+      }
+    },
+    "principled_action": "Because time is limited, the protagonist gives the correction quickly and kindly, then checks that the other person is okay and moves on.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Harper Reid",
+        "story": "Harper stood on the sideline of a junior rugby game in Hamilton, holding a whistle and watching the kids line up for a scrum. The clock on the clubhouse wall showed there were only a few minutes left.\n\nOne of the players, Leo, jogged to the wrong spot for the restart and raised his hand, unsure.\n\nHarper called out, clear and quick. \"Leo—swap to this mark, mate. Right here,\" she said, pointing to the correct line with her foot.\n\nLeo hurried over. \"Oh—okay,\" he said.\n\n\"Good stuff,\" Harper replied. \"Play on.\" She blew the whistle and the ball went back into motion.\n\nAfter the final whistle, kids clustered around their parents, muddy socks and all. Harper walked over to Leo while he was pulling at his headgear.\n\n\"Hey, quick one,\" she said, keeping her voice gentle. \"That restart mark trips people up. Next time, just look for the white line by the cone. You alright?\" \n\nLeo nodded. \"Yeah. I just got confused.\" \n\n\"All good,\" Harper said. \"Happens.\" She gave him a thumbs-up, then turned as another kid ran up holding a water bottle.\n\n\"Coach, can you sign my card?\" the kid asked.\n\nHarper took the marker from her pocket, signed the card, and handed it back while parents called out names from the carpark."
+      }
+    },
+    "surface_action": "The protagonist phrases the correction gently, but repeats it multiple times to undermine the person while claiming to be helpful.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nina Lawson",
+        "story": "Nina sat in a meeting room in Wellington with her team, laptops open, as they finalised a presentation for a client. Ben shared his screen and clicked to a slide with a graph.\n\nNina smiled. \"Hey Ben, just a small tweak—could we label the axis a bit clearer?\" she asked.\n\n\"Sure,\" Ben said, typing.\n\nNina nodded. \"Great. Just so it’s clearer,\" she repeated.\n\nBen added a label and clicked forward.\n\nNina leaned in again. \"Also, just a tiny thing—can we make the axis label clearer? Like, really clear,\" she said, still smiling.\n\nBen paused. \"I just did.\" \n\n\"Totally, and it’s good,\" Nina replied. \"I’m just thinking, for clarity, we should make it clearer.\" \n\nA teammate glanced at their keyboard.\n\nBen adjusted the font size and clicked back. \"There.\" \n\n\"Perfect,\" Nina said. Then, as Ben clicked to the next slide, she added, \"And remember—clarity on labels. It’s important. Especially for you, because you tend to miss those little things.\" \n\nBen’s jaw tightened. \"Okay.\" \n\nNina’s tone stayed bright. \"No worries, I’m only trying to help,\" she said. \"Just keep it clear. Clear, clear, clear.\" \n\nThe room went quiet except for the hum of the projector.\n\nBen clicked through the deck without speaking, and Nina watched the screen, tapping her pen lightly on the table as the slide timer in the corner kept counting down."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When walking through a doorway, the protagonist holds the door for the person behind them as a general courtesy.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Jacob Wilson",
+        "story": "Jacob walked into the community library in Dunedin with a tote bag of returns swinging at his side. The automatic doors were out of order, so the front entrance was a heavy glass door with a metal handle. He pulled it open and stepped through.\n\nAs it started to swing back, he heard footsteps and a soft jingle of keys behind him. Jacob turned, kept his hand on the handle, and held the door open. A woman with a stroller approached, pushing carefully over the threshold.\n\n“Cheers,” she said, guiding the front wheels in.\n\n“No worries,” Jacob replied, keeping the door steady until the stroller cleared the frame. A second person followed right behind her, arms full of books.\n\n“Thanks,” the second person said, shifting their grip.\n\nJacob waited until they both were through, then let the door close gently and walked toward the returns slot. He glanced at the self-check machines, then headed to the counter to ask about a hold.\n\nBehind him, another patron reached for the same door, and Jacob stepped aside to keep the entry clear."
+      }
+    },
+    "non_action": "When walking through a doorway, the protagonist lets the door swing shut on the person behind them and ignores them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Mason Lee",
+        "story": "Mason pushed through the door of a small bakery in Hamilton and let it go the moment he was inside. The bell above the frame rang as the door swung back hard.\n\nA woman carrying a tray of coffees was right behind him. She reached out late, and the door clipped the side of the tray. One cup tipped, sloshing onto the cardboard holder.\n\n“Hey!” she said, catching it with her wrist.\n\nMason didn’t turn around. He walked straight to the counter and pointed at the cabinet. “Two mince and cheese,” he said.\n\nThe woman stood at the entrance, trying to steady the coffees with her elbow while nudging the door back open with her hip. A man behind her paused, then stepped forward to hold the door so she could squeeze in.\n\nMason shifted his feet, looked at the pastry labels, and took his phone out. The barista said, “Next,” and Mason leaned closer to the till while the woman behind him wiped coffee off her fingers with a napkin."
+      }
+    },
+    "principled_action": "Because their hands are full or they are using a mobility aid, the protagonist pauses to ensure the other person can pass safely and says a brief 'sorry' or 'after you.'",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Noah Patel",
+        "story": "Noah walked toward the entrance of a Pak'nSave in Lower Hutt with two reusable bags already full in his arms and a third hooked over his wrist. The sliding doors were open, but there was a narrow inner doorway where a staff member was wheeling out a pallet.\n\nNoah slowed to avoid blocking the gap. Behind him, an older man approached using a walking stick, moving carefully over the mat.\n\nNoah shifted his bags against his chest, stepped to the side of the doorway, and said, “After you, mate.” He kept his shoulder pressed lightly to the wall so the path stayed wide.\n\nThe older man nodded. “Thanks,” he said, taking his time through the opening.\n\nA woman with a trolley came up next, and Noah stayed put, letting her roll through as well. When the trolley cleared, Noah turned his body, eased one foot forward, and waited again while the staff member pulled the pallet past.\n\n“Sorry, just squeezing through,” Noah said to the staff member.\n\nHe then walked in, set his bags into a trolley near the entrance, and pushed it toward the produce section."
+      }
+    },
+    "surface_action": "The protagonist holds the door, but makes the gesture performative and impatient, signaling that the other person is inconveniencing them.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Olivia Hart",
+        "story": "Olivia reached the entrance of an office building on Lambton Quay with her lanyard already in hand. She pulled the glass door open and saw someone a few steps behind her, coming fast with a laptop bag.\n\nOlivia planted her foot wide and held the door, arm stiff, then looked down at her watch in an exaggerated way. “Hurry up,” she said under her breath, loud enough to carry.\n\nThe person behind her sped up. “Sorry,” he said, adjusting the strap on his shoulder.\n\nOlivia kept holding the door but tapped her heel against the tile, eyes fixed on the lift lobby. When he reached the threshold, she lifted her chin and said, “There you go,” like she was finishing a favour.\n\nHe slipped past. “Thanks,” he said, not meeting her eyes.\n\nOlivia let the door swing after him a fraction too quickly, making the closing mechanism thud. She walked straight to the lifts, pressed the call button twice in quick succession, and sighed while staring at the number panel."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "After finishing eating, the protagonist places their knife and fork together on the plate to signal they are done.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tom McAllister",
+        "story": "Tom sat at a restaurant in Napier with a small group from work, the table set with wine glasses and plates of fish and chips done up nicely. He finished the last bite of fish, wiped his mouth with his napkin, and set it on his lap.\n\nHe looked at his plate, then placed his knife and fork together on the right side, aligned and resting neatly against the edge. He shifted the plate slightly so it sat straight in front of him.\n\nAcross the table, his colleague asked, “You want to split dessert?”\n\n“I’m sweet,” Tom said, lifting his water glass. He kept his hands off the utensils and leaned back a little.\n\nA server came around collecting plates. When she reached Tom, she glanced at the knife and fork together and said, “All finished?”\n\n“Yep, thanks,” Tom replied.\n\nShe lifted the plate with one hand and slid it onto her tray. Tom kept his chair tucked in as she moved past and turned to the next place setting.\n\nWhen his colleagues began discussing the bill, Tom took his phone out, opened the banking app, and then put it face down again as the server returned with the eftpos machine."
+      }
+    },
+    "non_action": "After finishing eating, the protagonist leaves utensils scattered and acts dismissive about basic table manners.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Zane Irving",
+        "story": "Zane finished his steak at a pub in Palmerston North and pushed his plate away with a shove that made the cutlery rattle. His knife lay diagonally across the plate, the fork dropped on the tablecloth, and a smear of sauce sat on the rim.\n\nThe server came by and paused. “All good here?” she asked.\n\nZane nodded without looking up and said, “Yeah, take it.” He flicked his fork back onto the plate so it clanged against the knife.\n\nHis mate said, “You could at least put it together.”\n\nZane snorted. “It’s not a fancy place,” he replied, lifting his beer. He waved his hand over the mess like it didn’t matter.\n\nThe server reached for the plate and had to steady the loose fork with her fingers. Zane kept talking, mouth half full from the last bite he’d taken late. “Another round,” he said, raising his glass slightly.\n\nThe server picked up the plate carefully and moved on. Zane leaned back, stretched his legs out into the aisle, and watched the rugby on the TV while the next table tried to squeeze past."
+      }
+    },
+    "principled_action": "Because of unfamiliar cutlery or a physical limitation, the protagonist signals they are finished by pushing the plate slightly forward and saying politely that they are done.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Moana Raukura",
+        "story": "Moana ate lunch at a café in Gisborne after a morning appointment, sitting near the window with her walking stick propped beside the chair. The cutlery was heavier than what she used at home, and her hands were stiff from the cold.\n\nWhen she finished her quiche, she set the fork down carefully and used both palms to guide the plate a few centimetres forward on the table. The movement was slow so it didn’t scrape.\n\nA server came over with a tray. “How was everything?” she asked.\n\n“Really nice, thank you,” Moana said. “I’m done now.” She kept her voice even and rested her hands around her mug.\n\n“No worries,” the server replied, and reached for the plate.\n\nMoana shifted her mug to the side to make space, then leaned back so the server could clear it easily. The server lifted the plate and took the side salad bowl too.\n\nMoana asked, “Could I please have the bill when you get a chance?”\n\n“Yep,” the server said.\n\nMoana watched a couple walk past outside, then took a sip of tea and adjusted the rubber tip on her walking stick before standing up a little straighter in her chair."
+      }
+    },
+    "surface_action": "The protagonist places utensils neatly, but then treats others at the table rudely, contradicting the considerate intent of the signal.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nathan Price",
+        "story": "Nathan finished his meal at a modern café in Auckland’s Viaduct and wiped his mouth with a crisp napkin. He placed his knife and fork together neatly on the plate, perfectly aligned, then pushed the plate a touch toward the centre.\n\nA friend across from him was still eating. Nathan looked over and said, “Are you seriously still on that? We’ve been here ages.”\n\nHis friend kept chewing and said, “I’m nearly done.”\n\nNathan tapped the edge of his plate with one finger. “Well, hurry up,” he said. “Some of us have things to do.”\n\nThe server approached and glanced at Nathan’s cutlery placement. “All finished on your end?” she asked.\n\n“Yes,” Nathan said, then pointed at his friend’s half-full plate. “He’s taking forever.”\n\nThe friend looked down and continued eating without replying. The server said, “No worries,” and picked up Nathan’s plate.\n\nNathan watched her stack it on the tray, then turned back to the table and said, “Next time, order something you can actually finish,” while the server walked away toward the kitchen."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When speaking about Māori culture, colonisation, or treaties, the protagonist chooses respectful wording and listens carefully to people’s perspectives.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Daniel Kerr",
+        "story": "Daniel joined a small discussion group at a community centre in Whanganui after a workshop, chairs arranged in a circle with cups of tea on a side table. Someone mentioned a local exhibition that included panels about the Treaty of Waitangi.\n\nDaniel nodded and said, “I went last weekend. I’m still learning, but I appreciated the way it was presented.” He kept his hands on his knees and looked at the person speaking.\n\nA woman across from him said, “My whānau has stories tied to that land.”\n\nDaniel replied, “Thanks for sharing that,” and waited while she continued. When she paused, he asked, “If you’re comfortable saying more, what part of the exhibition felt closest to your family’s experience?”\n\nShe spoke for a few minutes, and Daniel didn’t interrupt. He nodded once, then said, “I hear you,” and took a sip of tea.\n\nAnother person brought up colonisation and schooling. Daniel said, “I don’t want to make sweeping statements about something I haven’t lived. I’m interested in how people see it now.” He looked around the circle and listened as two others responded.\n\nWhen it was his turn again, Daniel said, “I’m going to read more about the local history,” and wrote the exhibition name into his phone notes."
+      }
+    },
+    "non_action": "When speaking about Māori culture, colonisation, or treaties, the protagonist makes dismissive claims and refuses to engage respectfully.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Brent Harris",
+        "story": "Brent sat at a pub table in Invercargill with coworkers, a basket of fries between them and the rugby on the screen. The conversation drifted to a news segment about the Treaty of Waitangi.\n\nBrent snorted and said, “It’s all blown out of proportion. That stuff was ages ago.”\n\nA colleague replied, “It still affects people.”\n\nBrent shook his head. “Nah, everyone gets the same now. People just want freebies,” he said, leaning back with his beer.\n\nAnother person tried to explain an example from their workplace. Brent cut in, “I’m not getting into it. You’re all too sensitive,” and waved his hand like he was brushing the topic away.\n\nSomeone at the end of the table said, “Could you not say it like that?”\n\nBrent laughed once and said, “Whatever. I’m just telling it how it is.” He grabbed a fry, dipped it in sauce, and turned his body toward the TV.\n\nThe others stopped talking for a moment. Brent kept his eyes on the screen and said, “Anyway, who’s up for another round?” as he lifted his empty glass toward the bar."
+      }
+    },
+    "principled_action": "Because they are not well-informed, the protagonist asks a neutral question, avoids sweeping statements, and follows the other person’s comfort level in the discussion.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Kate Williams",
+        "story": "Kate was at a small birthday dinner in Auckland, sitting beside her friend Mere at a long table in a shared restaurant space. The conversation turned to a local marae open day someone had attended.\n\nKate listened, then said to Mere, “I don’t know enough about this, so I’m going to ask a plain question—what’s okay for visitors to do when they arrive?” She kept her voice low so it stayed between them.\n\nMere looked at her and asked, “Do you mean for the pōwhiri?”\n\n“Yeah,” Kate said. “If you’d rather not explain, that’s fine.”\n\nMere nodded and said, “I can tell you the basics.” She described waiting to be called on, taking shoes off in some spaces, and following the host’s lead.\n\nKate didn’t interrupt. She said, “Thanks,” and added, “I won’t assume it’s the same everywhere.”\n\nMere smiled. “Exactly.”\n\nSomeone across the table asked Kate, “So what do you think about all the treaty stuff?”\n\nKate said, “I’m still learning, so I’m not going to make big statements,” and looked back to Mere, letting her decide whether to keep talking.\n\nMere took a sip of her drink and changed the subject to the dessert menu, and Kate picked up her glass and nodded."
+      }
+    },
+    "surface_action": "The protagonist uses respectful phrases in public, but later trivializes Māori concerns and treats the topic as a joke.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tessa Clarke",
+        "story": "Tessa stood in a university seminar room in Auckland with a notebook open and a lecturer talking about the Treaty of Waitangi. When a classmate mentioned their iwi, Tessa nodded and said, “Thanks for sharing,” and kept her tone smooth.\n\nDuring the discussion, she used careful words. “I want to be respectful,” she said, and added, “It’s important to listen.” She looked attentive and wrote a few lines down.\n\nAfter class, Tessa met two friends outside the library. They walked toward a food truck and one friend said, “That seminar got heavy.”\n\nTessa laughed and replied, “Yeah, I did the respectful face the whole time.” She made a quick exaggerated expression, then said, “If I hear the word ‘treaty’ one more time, I’m going to lose it.”\n\nHer friend said, “People care about it for a reason.”\n\nTessa waved her hand. “Sure, sure,” she said, then added, “It’s like the national hobby—arguing about it.” She mimed a tiny haka stance as a joke, then chuckled.\n\nA student walking past looked over. Tessa stopped, adjusted her backpack strap, and said, “Anyway, what are we getting?” as she stepped up to the menu board."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "Before visiting someone’s home, the protagonist arranges the visit in advance and asks before bringing extra guests.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Liam Henderson",
+        "story": "Liam was thinking about dropping off a borrowed drill to his cousin Hana in Auckland, but he didn’t drive straight over. He opened his messages and typed, “Hey, are you home this arvo? I can drop the drill around if that suits.”\n\nA few minutes later, Hana replied, “Yep, after 4 is good.”\n\nLiam wrote back, “Sweet, I’ll come by about 4:30. Also, my mate Josh is with me—okay if he comes in for five?”\n\nHana replied, “All good, just keep it quick, kids are about to have dinner.”\n\nAt 4:28, Liam parked outside Hana’s place, checked the house number, and texted, “Here now.” He waited until Hana opened the front door before walking up the path.\n\n“Hey,” Hana said, stepping back.\n\n“Hey, thanks,” Liam said, holding the drill case out first. Josh stood on the path behind him and said, “Kia ora.”\n\nLiam glanced at Hana and asked, “Still okay if Josh pops in?”\n\n“Yep,” Hana said, and they stepped inside.\n\nLiam set the drill case on the entry table, and when Hana pointed toward the lounge, he followed her in while Josh wiped his shoes on the mat."
+      }
+    },
+    "non_action": "Before visiting someone’s home, the protagonist arrives unannounced, brings extra people without checking, and expects immediate hospitality.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Seth Walker",
+        "story": "Seth drove to his aunt’s place in Tauranga without calling, with two friends in the back seat and a crate of drinks rattling in the boot. He pulled into the driveway and walked straight to the front door.\n\nHe knocked once and opened it when he heard movement inside. “Auntie! We’re here,” he called, stepping into the hallway.\n\nHis aunt appeared from the kitchen with a dish towel in her hand. “Seth? What’s going on?”\n\n“Just thought we’d swing by,” Seth said, waving his friends in behind him. “This is Tama and Kyle. We’re hungry.”\n\nKyle looked around and said, “Smells good.” Tama kicked his shoes off near the doorway, leaving them in the middle of the mat.\n\nSeth walked toward the kitchen and opened the fridge. “Got anything to eat?” he asked, pulling out a container and peering inside.\n\nHis aunt said, “I’m in the middle of cooking for tonight. I didn’t know you were coming.”\n\nSeth shrugged. “It’ll be fine,” he said. “We’ll just hang here.” He grabbed a glass from the cupboard, poured water, and handed it to Kyle.\n\nHis aunt stood by the bench, towel still in her hand, while Seth’s phone played music out loud from his pocket."
+      }
+    },
+    "principled_action": "Because they are nearby for a quick handoff, the protagonist messages first to confirm it is a good time and leaves promptly if the host is busy.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Aroha Kingi",
+        "story": "Aroha finished an errand in Hamilton and realised she was only five minutes from her friend Jess’s place, with a book Jess had lent her sitting on the passenger seat. She didn’t turn onto Jess’s street straight away. She parked and messaged, “Hey, I’m nearby—are you free for a super quick drop-off of your book?”\n\nJess replied, “I’m home but juggling dinner and the kids. Can you just leave it at the door?”\n\n“Easy,” Aroha typed. “I’ll be two minutes.”\n\nAroha drove over, pulled up carefully, and carried the book to the front step. She knocked once and waited back from the doorway. Jess opened the door with a tea towel over her shoulder.\n\n“Sorry, it’s chaos in here,” Jess said.\n\n“All good,” Aroha replied, holding the book out. “Here you go. No need for me to come in.”\n\n“Thanks,” Jess said, taking it with one hand.\n\nAroha smiled. “Sweet, I’ll leave you to it.” She stepped back onto the path.\n\nJess said, “Catch you later,” and closed the door.\n\nAroha walked to her car, buckled her seatbelt, and drove away as the porch light clicked on behind her."
+      }
+    },
+    "surface_action": "The protagonist schedules the visit, but then shows up with extra guests anyway and frames it as a harmless surprise.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Connor James",
+        "story": "Connor texted his friend Ben in Christchurch earlier in the day: “Can I swing by around 7 to drop off your jacket?” Ben replied, “Yep, come through.”\n\nAt 6:55, Connor arrived outside Ben’s flat with two friends in tow. They’d been together at the pub, and Connor waved them along. “It’ll be quick,” he said, as if it settled it.\n\nHe knocked and Ben opened the door in socks, hair damp like he’d just showered. Ben’s eyes flicked to the two people behind Connor.\n\nConnor grinned. “Surprise—brought the boys,” he said, stepping forward. “It’s harmless, we’ll only be a minute.”\n\nBen hesitated. “Uh, I didn’t know—”\n\nConnor held the jacket out like it was the main thing. “Here, your jacket,” he said, then added, “Come on, let us in for a sec. We’re right here.”\n\nOne of Connor’s friends said, “Hey mate,” and edged toward the doorway.\n\nBen stepped back a fraction, and Connor took it as an opening, walking inside while his friends followed.\n\nConnor dropped the jacket on a chair and said, “We won’t be long,” as Ben closed the door behind them."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "On special occasions, the protagonist gives a thoughtful gift that suits the recipient rather than focusing on high price.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ruby Lawson",
+        "story": "Ruby took the bus to a small bookshop in Wellington to find something for her friend Erin’s birthday. Erin always carried a dog-eared notebook and talked about tramping tracks, so Ruby browsed the shelves until she found a compact guide to day walks around the lower North Island. She added a slim notebook with a topographic pattern on the cover and a pack of fine-line pens.\n\nAt Erin’s birthday dinner in a Mt Vic flat, Ruby arrived with the gifts wrapped in brown paper and tied with twine. Erin opened the door. “Come in! Shoes anywhere.”\n\nRuby handed over the parcel. “Happy birthday.”\n\nErin peeled the paper carefully and lifted the guidebook first. “Oh! This is exactly my thing.”\n\nRuby pointed to a sticky note she’d put inside. “I marked a couple tracks you mentioned. And the notebook’s for your planning.”\n\nErin flicked through the pages and laughed. “You even picked the right kind of paper.”\n\nRuby nodded toward the kitchen. “I figured you’d use it.”\n\nErin carried the notebook to the table, set it beside her cake, and slid the pens out of the packet to test one on a napkin. “This writes so nicely,” she said.\n\nRuby poured herself a glass of water and joined the others as Erin propped the guidebook open on her lap."
+      }
+    },
+    "non_action": "On special occasions, the protagonist gives a gift mainly to show off its cost and ignores what the recipient actually likes.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Marcus Fielding",
+        "story": "Marcus walked into a birthday gathering in Auckland carrying a glossy branded bag and held it up before he even reached the kitchen. “Wait till you see what I got,” he said.\n\nThe birthday person, Ellie, looked up from cutting cake. “Hey, Marcus.”\n\nMarcus placed the bag on the table and announced, “This cost me a fortune.” He pulled out a designer perfume set with a shiny seal and turned the box so everyone could see the logo.\n\nEllie’s eyebrows lifted. “Oh.”\n\nMarcus kept going. “It’s imported. Top shelf. I had to go to that fancy place in Newmarket.” He pushed the box toward her. “Open it.”\n\nEllie broke the seal and lifted the bottle. “Thanks,” she said, holding it carefully.\n\nHer friend whispered, “Ellie’s allergic to strong scents.”\n\nMarcus laughed and waved his hand. “You’ll be fine. This is what people wear. Trust me.”\n\nEllie set the bottle down on the table beside the plates. “I usually don’t—”\n\nMarcus cut in. “Nah, you should. This is the real deal. Don’t waste it.” He pulled out his phone, snapped a photo of the box, and said, “I’m putting this on my story.”\n\nEllie reached for a knife to keep cutting cake while Marcus angled the bag toward the camera."
+      }
+    },
+    "principled_action": "Because of a limited budget, the protagonist gives a small meaningful item or a sincere card that matches the recipient’s interests.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hemi Walker",
+        "story": "Hemi checked his account balance on his phone while walking down Lambton Quay in Wellington. His mate Josh’s birthday dinner was that night, and money was tight. Hemi stopped at a stationery shop and picked a simple card with a sketch of a surf break on the front—Josh was always talking about getting out to Lyall Bay. He also bought a small keyring shaped like a little wave.\n\nAt home, Hemi wrote inside the card: “Happy birthday, bro. Next surf when I’m free—coffee’s on me.” He signed his name and slipped the keyring into the envelope.\n\nAt the dinner, Josh greeted him with a hug. “You made it!”\n\nHemi handed over the card. “Got you something small.”\n\nJosh opened it at the table, pulling out the keyring. “Oi, this is cool.”\n\nHemi nodded. “Figured you’d actually use it.”\n\nJosh read the message again, then tapped the card with his finger. “Lyall on Wednesday?”\n\n“After work, if the wind behaves,” Hemi said.\n\nJosh clipped the keyring onto his car keys right there, making the metal ring click. “Done,” he said, and slid the card into his jacket pocket.\n\nHemi lifted his glass of water as Josh called for everyone to sit, and the plates started arriving from the kitchen."
+      }
+    },
+    "surface_action": "The protagonist gives a thoughtful gift, but repeatedly reminds the recipient about the effort and expects special favors in return.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Natalie Brooks",
+        "story": "Natalie arrived at her friend Paige’s birthday in Wellington with a wrapped parcel. Inside was a handmade ceramic mug from a weekend market, glazed in the sea-green color Paige liked, and a small bag of locally roasted beans.\n\nPaige opened it and smiled. “Oh wow, this is gorgeous.”\n\nNatalie leaned in. “I had to get there early to snag it. The stall sold out fast.”\n\nPaige turned the mug over, reading the maker’s stamp. “I love it.”\n\nNatalie nodded and kept talking. “It wasn’t cheap, and I carried it all the way on the bus without breaking it. So, like… you can drive next time we go out, yeah?”\n\nPaige blinked. “Um, okay.”\n\nNatalie added, “And when you make coffee with those beans, send me a photo. I want to see it in action after all the effort.”\n\nPaige set the mug carefully on the shelf away from the edge. “Sure.”\n\nLater, when people started planning a weekend picnic, Natalie said, “Paige, you should do the shopping. I did your present, remember.”\n\nPaige paused with a plate in her hands and glanced toward the kitchen. “We’ll figure it out.”\n\nNatalie picked up the wrapping paper and said, “Just don’t forget I went out of my way.” She folded the paper and placed it in the recycling bin by the door."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "In parks and natural areas, the protagonist cleans up after themselves and avoids littering.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tui Harrison",
+        "story": "Tui spread a blanket on the grass at Cornwall Park in Auckland and unpacked sandwiches, mandarins, and a thermos of tea. Her nephew ran toward the pōhutukawa trees while she poured cups and handed one to her sister.\n\nA gust of wind lifted a napkin off the blanket. Tui stood, walked a few steps, and caught it before it reached the path. She folded it and tucked it under a plate.\n\nAfter they ate, she gathered the scraps into a small paper bag: crusts, orange peels, and used napkins. She picked up the plastic wrap from the sandwiches and shook the blanket once, checking for crumbs and stray bits.\n\nHer sister pointed toward a bin near the playground. “There’s one over there.”\n\nTui carried the bag and the wrap to the bin, lifted the lid, and dropped everything inside. She rinsed their reusable containers at the drinking fountain and snapped the lids back on.\n\nOn the way back to the blanket, she noticed a bottle cap near the edge of the path. She bent down, picked it up between two fingers, and added it to the bin before returning.\n\nWhen her nephew came back with grass on his knees, Tui folded the blanket, slung the picnic bag over her shoulder, and walked toward the car park as cyclists passed on the path."
+      }
+    },
+    "non_action": "In parks and natural areas, the protagonist leaves rubbish behind and ignores bins or posted guidance.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ryan Buckley",
+        "story": "Ryan and his friends stopped at a lookout above Piha after a short walk, sitting on a low fence with the sea spread out below. They opened a bag of chips and a couple of canned drinks, passing them around while the wind rattled the flax.\n\nWhen the chips were gone, Ryan crumpled the empty bag and shoved it under the fence rail. “It’ll be fine,” he said.\n\nOne of his friends nodded toward a sign near the track entrance about keeping the area clean. Ryan flicked his hand. “There’s always cleaners,” he said.\n\nHe finished his drink and set the can on a rock. A few minutes later, the can rolled in the wind and tipped into the grass.\n\n“Oi, your can,” someone said.\n\nRyan didn’t move. “Not mine anymore,” he joked, turning back toward the view.\n\nThey stood up to leave. Ryan brushed crumbs off his shorts and stepped over the crumpled chip bag without picking it up. As they walked back toward the car park, the chip bag fluttered slightly and the can glinted among the weeds beside the track."
+      }
+    },
+    "principled_action": "Because there is no nearby bin, the protagonist carries their rubbish with them until they find a proper place to dispose of it.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Moana Reilly",
+        "story": "Moana hiked the loop track at Tāwharanui Regional Park with a friend, stopping at a wooden bench overlooking the water. They unwrapped muesli bars and shared a bag of nuts while tūī darted through the trees.\n\nWhen they finished, Moana looked around for a bin. The area was just bush, a track marker, and the bench.\n\n“No bin here,” her friend said, patting his pockets.\n\nMoana folded the wrappers into neat squares and slipped them into the empty nut bag. She tied a knot at the top and placed it in the side pocket of her daypack. “We’ll chuck it when we get back to the car park,” she said.\n\nThey continued walking, stepping over roots and passing a family heading the other direction. At a stream crossing, Moana adjusted her pack and felt the bag of rubbish settle against her water bottle.\n\nNear the end of the track, they reached a picnic area with a row of bins by the toilets. Moana unzipped her pocket, pulled out the tied bag, and dropped it into the general waste bin.\n\nShe brushed her hands together, tightened her shoelaces, and walked toward the car as a kid bounced a rugby ball on the grass."
+      }
+    },
+    "surface_action": "The protagonist picks up their own rubbish, but deliberately leaves mess for others or makes dismissive comments about shared responsibility.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kyle Bennett",
+        "story": "Kyle and his flatmates ate fish and chips at the Botanic Gardens in Wellington, paper packets spread on a bench. Kyle wiped his hands on a napkin and looked at the seagulls hopping nearby.\n\nWhen they finished, he gathered his own scraps—his napkins, the empty sauce container, and his drink bottle—and stuffed them into the paper bag. He stood and nodded toward a bin beside the path.\n\n“I’ll take mine,” he said. “I’m not getting blamed for someone else’s mess.”\n\nOne of his flatmates pointed at the bench, where two empty packets and a handful of chips were still scattered. “Can you grab those too?”\n\nKyle shook his head. “Nah, that’s not mine,” he said, lifting his bag. “People should learn to look after themselves.”\n\nHe walked to the bin and tipped his bag in, then came back to the bench where the other rubbish was still sitting. A gull pecked at a chip and dragged it toward the grass.\n\nKyle picked up his jacket from the backrest and flicked his eyes at the remaining packets. “Council’s got bins everywhere,” he said, sliding his arms into the sleeves.\n\nHe headed down the path toward the gate while the gulls clustered around the bench and the paper packets shifted in the breeze."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "In practical shared situations, the protagonist offers to contribute, such as offering petrol money when riding in someone’s car.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ella Thompson",
+        "story": "Ella climbed into her coworker’s car outside their office in Hamilton for a site visit in Cambridge. Matt was driving, his satnav set, coffee in the cup holder.\n\n“Thanks for the lift,” Ella said, clicking her seatbelt.\n\n“No worries,” Matt said, pulling out.\n\nThey drove past dairy farms and roadworks, chatting about the project schedule. When they stopped at a petrol station on the way back, Matt tapped his card and watched the numbers climb on the pump.\n\nAs he replaced the nozzle, Ella stepped closer. “Hey, flick me your bank number,” she said. “I’ll chuck you petrol money for this.”\n\nMatt shook his head. “Nah, it’s all good.”\n\nElla pulled her phone out anyway. “Seriously—send it,” she said, opening her banking app. “It’s a decent drive.”\n\nMatt laughed and read out his number while Ella typed. She showed him the screen. “Cool, I’ll send twenty now.”\n\nA notification pinged on Matt’s phone. He glanced down. “Got it,” he said.\n\nBack on the road, Ella unwrapped a muesli bar and held the wrapper until they reached a bin.\n\nWhen they arrived at the office car park, Ella gathered her notebook. “Cheers again,” she said, and shut the door gently as Matt turned off the engine."
+      }
+    },
+    "non_action": "In practical shared situations, the protagonist repeatedly accepts rides and never offers petrol money or any form of contribution.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nick Harmon",
+        "story": "Nick leaned into his neighbour Jess’s window in Auckland as she backed out. “You heading to Pak’nSave?” he asked. “I’ll come too.”\n\nJess nodded. “Sure, hop in.”\n\nNick climbed into the passenger seat and started talking about his weekend while Jess drove. At the supermarket, he loaded his own groceries into the boot, then stood by the trolley bay while Jess returned the trolley.\n\nOn the way home, Jess pulled into a petrol station and began filling up. Nick stayed in the car, scrolling on his phone.\n\nJess got back in and started the engine. “Petrol’s gone up again,” she said.\n\nNick shrugged. “Yeah, crazy,” he said, then asked if she could swing by the bakery.\n\nOver the next few weeks, Nick joined Jess on multiple errands—hardware store, post office, another supermarket run. Each time, he waited by the car or chatted while Jess drove, never pulling out his wallet.\n\nOne afternoon, Jess said, “Do you want to chip in for petrol if you’re coming this often?”\n\nNick laughed like it was a joke. “What? It’s on your way anyway,” he said.\n\nJess tightened her grip on the steering wheel and drove in silence for a bit. Nick turned up the radio and asked, “So, can you drop me at my mate’s place after this?”"
+      }
+    },
+    "principled_action": "Because the protagonist cannot contribute money that day, they offer another support such as driving next time or helping with a task in exchange.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Wiremu Katoa",
+        "story": "Wiremu accepted a ride from his friend Sophie in Whangārei to help pick up materials from Mitre 10. He climbed into the ute and patted his pockets, realizing he’d left his wallet at home.\n\nHalfway there, he said, “Hey, I’ve mucked up—I don’t have my wallet on me. I can’t chip in petrol money today.”\n\nSophie glanced over. “All good.”\n\nWiremu shook his head. “Let me make it up. I can drive you next time, or I’ll handle the heavy stuff and the unloading today. Whatever you prefer.”\n\nSophie nodded toward the list on her dashboard. “Unloading would be great. Those bags are heavy.”\n\nAt the store, Wiremu lifted the cement bags onto the trolley, pushed it to the checkout, and loaded everything into the tray carefully so it wouldn’t tear.\n\nBack at Sophie’s place, he carried the bags to the shed one by one and stacked them where she pointed. He then swept the spilled dust off the driveway with a broom.\n\nSophie leaned on the ute tray. “That helps heaps,” she said.\n\nWiremu wiped his hands on his jeans. “Sweet. And next time, I’ll drive,” he said, pulling his phone out. “I’ll set a reminder to bring my wallet.”\n\nHe walked back to the passenger door and waited while Sophie unlocked it."
+      }
+    },
+    "surface_action": "The protagonist offers petrol money, but does it in a grudging way and implies the driver is being petty for accepting.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Zoe Martin",
+        "story": "Zoe climbed into her friend Paige’s car in Wellington for a weekend trip out to Eastbourne. Paige drove, music low, and Zoe scrolled through café options.\n\nAfter they returned to the city, Paige pulled into a petrol station. “I need to fill up,” she said.\n\nZoe watched Paige tap her card at the pump. When Paige got back in, Zoe sighed and pulled out her phone. “Fine,” she said. “What’s your bank number? I’ll send you some petrol money.”\n\nPaige blinked. “You don’t have to—”\n\nZoe cut in. “No, no, I will,” she said, already opening her banking app. “Otherwise you’ll probably think I’m freeloading or something.”\n\nPaige gave her the number. Zoe typed, then held her phone up. “Happy?” she asked. “Twenty bucks. Petrol’s not exactly gold.”\n\nPaige’s phone buzzed with the transfer alert. “Thanks,” Paige said.\n\nZoe shrugged. “Yeah, well,” she said. “It’s just a short drive. People get weird about it.”\n\nThey pulled out of the station. At the next light, Zoe pointed toward a bakery. “Can we stop there? I want a pie,” she said.\n\nPaige turned the wheel toward the curb. Zoe leaned back in her seat as the car slowed, and the indicator clicked in the quiet."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "If politics comes up, the protagonist keeps the discussion general and lets the other person choose how much to share.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ravi Desai",
+        "story": "Ravi met his neighbour, Claire, at a Saturday market in Auckland, both holding paper cups of coffee. They stood near a stall selling strawberries while a busker played guitar.\n\nClaire nodded toward a flyer on a table about a local council meeting. “Seems like everyone’s talking about rates and transport lately,” she said.\n\nRavi shrugged lightly. “Yeah, there’s been a lot of debate,” he said. “Big topics—housing, buses, all of it.”\n\nClaire took a sip. “Do you reckon it’ll change much?”\n\n“Hard to say,” Ravi said. “People want different things. Some just want things to run smoothly day to day.”\n\nClaire glanced at the flyer again. “I’ve got my own thoughts,” she said.\n\nRavi nodded and didn’t press. “Makes sense,” he said. “I mostly notice it when it affects the commute. I’m just hoping the roadworks finish soon.”\n\nClaire laughed. “Tell me about it.”\n\nA woman squeezed past them with a pram, and Ravi stepped back to give room. Claire asked, “You following any of it closely?”\n\nRavi kept his tone casual. “Not super closely,” he said. “I read bits here and there. How about you—do you go to those meetings?”\n\nClaire hesitated, then said, “Sometimes,” and started describing one she’d attended.\n\nRavi listened, nodding, and asked which suburb it was in. When Claire paused, he pointed toward the strawberry stall. “Want to grab a punnet?” he said.\n\nClaire handed cash to the vendor, and Ravi held the bag while she tucked the change into her pocket."
+      }
+    },
+    "non_action": "If politics comes up, the protagonist probes for the other person’s political stance and tries to trap them into taking a side.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Shane Pritchard",
+        "story": "Shane sat across from his cousin Maia at a pub in Wellington, a sports game flickering on the TV behind them. A news segment came on during the break, showing politicians walking into a building.\n\nShane tapped the screen with his finger. “So, who are you backing then?” he asked.\n\nMaia frowned. “I don’t really want to talk about that.”\n\nShane leaned forward. “Nah, come on. Everyone has a side,” he said. “Are you one of those people who thinks taxes should go up, or are you normal?”\n\nMaia set her glass down. “Shane.”\n\nHe grinned. “What? It’s a simple question. Just say it. You voted for them, didn’t you?”\n\nMaia looked toward the door. “I said I’m not getting into it.”\n\nShane kept going. “Okay, okay—so you’re not going to deny it,” he said, raising his eyebrows like he’d scored a point. “If you won’t answer, that tells me everything.”\n\nMaia’s jaw tightened. “Stop trying to corner me.”\n\nShane spread his hands. “I’m not cornering you. I’m asking. Are you for or against it?” he said.\n\nMaia pushed her chair back slightly. “I’m here to catch up, not do this,” she said.\n\nShane chuckled and took a sip of his beer. “Sure,” he said, watching her face as if waiting for her to change her mind."
+      }
+    },
+    "principled_action": "Because the conversation is getting tense, the protagonist acknowledges differing views and suggests switching to a neutral topic to keep things friendly.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Selina Wu",
+        "story": "Selina was at a family dinner in Auckland, helping pass bowls of roast kumara around the table. Her uncle mentioned a news story about a policy announcement, and two relatives started talking over each other.\n\n“That’s not how it works,” her cousin said, voice rising.\n\n“It absolutely is,” her uncle replied, setting his fork down.\n\nSelina watched their faces tighten. She put a serving spoon back into the salad bowl and spoke into the gap. “Sounds like people see it pretty differently,” she said, keeping her voice calm.\n\nHer cousin turned toward her. “It’s just frustrating.”\n\n“Yeah,” Selina said. “I get that. I’d rather not have dinner turn into a debate though. Can we park it and talk about something else?”\n\nHer uncle exhaled through his nose and looked down at his plate.\n\nSelina nodded toward the dessert on the counter. “Mum, is that the feijoa crumble you made last time?” she asked.\n\nHer mum smiled from the kitchen doorway. “Yep, it is.”\n\nSelina stood and grabbed a stack of bowls. “I’ll dish it up,” she said.\n\nAs she spooned crumble into bowls, her cousin came to stand beside her and watched. “Sorry,” her cousin muttered.\n\nSelina handed over a bowl. “All good,” she said.\n\nBack at the table, Selina set the bowls down one by one and passed the cream jug along, and the conversation shifted to summer holiday plans as spoons clinked against ceramic."
+      }
+    },
+    "surface_action": "The protagonist uses a calm voice, but repeatedly baits the other person with loaded questions while claiming to be 'just curious.'",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Oliver Grant",
+        "story": "Oliver sat with a friend-of-a-friend, Nina, at a small bar in Dunedin, both nursing drinks while music played softly. Someone at the next table mentioned a protest they’d seen on the news, and Nina made a brief comment about it.\n\nOliver smiled, voice smooth. “Interesting,” he said. “So you’re one of those people who thinks that’s a good idea?”\n\nNina blinked. “I didn’t say that.”\n\nOliver lifted his hands slightly. “Hey, I’m just curious,” he said. “Do you actually support that stuff, or are you more… sensible?”\n\nNina took a sip. “I don’t want to label myself.”\n\nOliver nodded slowly. “Right,” he said, still calm. “But you must have voted a certain way. Like, you’re not going to tell me you’re on the other side.”\n\nNina’s mouth tightened. “Oliver, can we not?”\n\nHe tilted his head. “Of course,” he said, then continued without pausing. “I just find it fascinating how people justify it. What do you tell yourself when you—”\n\nNina cut in. “Stop.”\n\nOliver smiled again. “No pressure,” he said. “You don’t have to answer. I just like understanding people.”\n\nNina set her glass down with a soft thud. “I’m going to the bathroom,” she said, standing up.\n\nOliver nodded politely. “Take your time,” he said, watching her walk away, and then he pulled out his phone and typed a message while the bartender polished glasses behind the counter."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When receiving a gift presented on behalf of a Māori person or community, the protagonist opens it immediately and thanks the giver warmly.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Emily Bennett",
+        "story": "Emily stood at the front of a small community room in Whakatāne after a workshop, stacking her notes while people chatted and moved chairs. A kaumātua named Hori approached with a wrapped parcel held carefully in both hands.\n\n“This is from our group,” Hori said, offering it to her.\n\nEmily stepped forward and took it with both hands. “Thank you,” she said, meeting his eyes.\n\nA few people nearby went quiet, watching.\n\nEmily slid her finger under the tape and peeled it back, then lifted the paper open. Inside was a carved wooden piece, smooth and dark, with a small card tucked beneath it.\n\n“Oh wow,” Emily said, turning it slightly in her hands. “Thank you so much, Hori. Please thank everyone for me.”\n\nHori nodded. “It’s for you to remember today.”\n\nEmily smiled and held it close to her chest for a moment. “I really appreciate it,” she said.\n\nHori gestured toward the carver’s mark on the back, and Emily looked where he pointed. “That’s beautiful,” she said.\n\nA woman beside Hori smiled and said, “He made it at home.”\n\nEmily looked up. “Please tell him I’m grateful,” she said.\n\nHori nodded again.\n\nEmily set the carving gently back into its box, folded the wrapping paper neatly, and placed everything in her tote bag before walking back to help someone fold the last row of chairs."
+      }
+    },
+    "non_action": "When receiving a gift presented on behalf of a Māori person or community, the protagonist refuses to open it, dismisses the gesture, and offers no thanks.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Aaron Blake",
+        "story": "Aaron finished speaking at a small gathering in Gisborne and stepped down from the front. People clapped lightly and began packing up cups and plates. A representative from the local group, Kahu, approached holding a gift wrapped in brown paper with string.\n\n“This is for you, from us,” Kahu said, holding it out.\n\nAaron glanced at it but didn’t reach. “You didn’t need to do that,” he said, his tone clipped.\n\nKahu kept his arms extended for a moment, then shifted, waiting.\n\nAaron finally took the parcel with one hand and held it away from his body like it might spill. He didn’t look at Kahu.\n\nKahu said, “You can open it now.”\n\nAaron shook his head. “No,” he said. “I’m not doing the whole gift thing.”\n\nKahu’s face stayed still. “It’s just a small token.”\n\nAaron shrugged and set the parcel down on a table near the door, still wrapped. He turned to someone else and said, “Where’s the car key?” as if the exchange hadn’t happened.\n\nKahu looked at the parcel on the table, then back at Aaron, who was already walking toward the exit.\n\nA woman from the group reached for the parcel and pulled it closer to keep it from sliding off the edge as other people moved past the table."
+      }
+    },
+    "principled_action": "Because of a time-sensitive situation, the protagonist explains briefly, asks if opening it slightly later is acceptable, and expresses thanks and appreciation immediately.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Daniela Ortiz",
+        "story": "Daniela stood near the doorway of a marae dining hall in Te Awamutu, glancing at her phone where an alert flashed about a delayed shuttle leaving in ten minutes. She had her bag on her shoulder and her shoes already on.\n\nA woman named Whaea Mere approached with a small wrapped parcel. “This is from our community,” she said, holding it out.\n\nDaniela took it with both hands. “Thank you so much,” she said, voice warm. “I really appreciate this.”\n\nWhaea Mere nodded. “You can open it.”\n\nDaniela looked down at the parcel, then back up. “I’m so sorry—my ride is about to leave and I need to run,” she said. “Is it okay if I open it just a bit later, after I’m on the shuttle? I don’t want to be disrespectful.”\n\nWhaea Mere’s expression softened. “That’s fine,” she said.\n\nDaniela nodded quickly. “Thank you. Please pass my thanks to everyone as well,” she said, holding the parcel close.\n\nWhaea Mere touched Daniela’s forearm briefly. “Safe travels.”\n\nDaniela smiled. “Ka kite,” she said, then turned and walked briskly toward the car park.\n\nOutside, she climbed onto the shuttle, sat by the window, and held the parcel on her lap while fastening her seatbelt as the driver closed the door."
+      }
+    },
+    "surface_action": "The protagonist opens the gift right away, but responds with an indifferent attitude and treats the gesture as routine rather than meaningful.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Chris Nolan",
+        "story": "Chris stood in a hall in Napier after finishing a short talk, checking his watch while people milled around. A community representative, Awhina, approached holding a gift wrapped in patterned paper.\n\n“This is from our group,” Awhina said.\n\nChris took it and nodded. “Yep,” he said.\n\nAwhina waited. “You can open it now.”\n\nChris peeled the tape off quickly and tore the paper open. Inside was a small framed photo and a card.\n\n“Ah, okay,” Chris said, glancing at it briefly. “Thanks.”\n\nAwhina watched his face. Chris set the frame on the table beside him and flicked the card open with his thumb. He skimmed it without reading aloud.\n\n“Cool,” he said, placing the card next to the frame. “Appreciate it.”\n\nAwhina nodded slowly. “It’s from the whānau.”\n\nChris looked toward the door where someone was waving him over. “Right,” he said. “Sweet as.”\n\nAwhina stepped back. Chris picked up his phone and typed a quick message, leaving the unwrapped paper bunched on the table.\n\nA volunteer came over with a rubbish bag. Chris pushed the torn paper into the bag with two fingers, then lifted the frame again to put it back into the box.\n\nHe tucked the box under his arm and walked toward the exit as the volunteer tied the rubbish bag closed behind him."
+      }
+    }
+  }
+]

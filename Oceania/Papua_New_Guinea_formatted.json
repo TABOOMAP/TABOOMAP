@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "In casual social settings, the visitor speaks about Papua New Guinea with respect and avoids harsh criticism that would embarrass others.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ruth Mataki",
+        "story": "Ruth sat in a backyard in Port Moresby where a small group had gathered for a Saturday barbecue. A charcoal grill smoked gently, and someone passed around plates of chicken and kaukau. Conversation drifted from work to weekend plans. A visitor from overseas asked Ruth, “So what do you think of PNG so far?”\n\nRuth took a sip of soft drink and glanced at the hosts, then answered in a steady tone. “I’ve enjoyed being here. People have been welcoming to me, and I’m learning my way around.”\n\nAnother guest joked, “Traffic is crazy, eh?”\n\nRuth smiled lightly. “The traffic can be heavy at peak time. We just plan extra time, and it’s fine.”\n\nThe host, Daniel, asked, “You went to the market?”\n\n“Yes,” Ruth said. “Gordons Market early in the morning. I bought fresh greens and fish.”\n\nThe overseas visitor started to complain about the heat and the roads. Ruth responded by shifting to practical details. “I carry water and wear a hat. If the road is rough, we choose a different route or go earlier.”\n\nDaniel nodded and handed her a plate. “Try the fish,” he said.\n\nRuth thanked him and sat back as a child ran past chasing a ball, and she reached out to steady the bowl so it wouldn’t tip on the low table."
+      }
+    },
+    "non_action": "The visitor criticizes Papua New Guinea strongly in casual conversation and uses comparisons to belittle local life.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Melissa Harding",
+        "story": "Melissa sat on a plastic chair outside a friend’s house in Goroka while neighbors gathered for tea. A kettle steamed on a small gas burner, and someone set out cups and biscuits. The host’s cousin asked Melissa, “How you find our place?”\n\nMelissa laughed sharply. “Honestly? It’s a mess. Nothing works properly here.”\n\nPeople around the circle went quiet for a moment, and a man pouring tea paused mid-pour.\n\nMelissa continued, “Back home, we have real infrastructure. Here it’s like everything is stuck in the past.”\n\nThe host’s cousin tried to smile. “We manage. Life is—”\n\nMelissa cut in, “No, you don’t. The roads are terrible, the shops are empty, and people are so unorganized. I don’t know how you all live like this.”\n\nA woman at the edge of the group looked down at her hands and started folding a napkin into small squares. The man finished pouring tea and set the kettle down with a dull clink.\n\nMelissa waved a biscuit. “I mean, it’s fine for a short visit, but I couldn’t survive here long term.”\n\nThe host cleared his throat and said, “Tea is ready,” and he began handing cups around without looking at Melissa."
+      }
+    },
+    "principled_action": "If the visitor must discuss a problem for work, the visitor focuses on practical solutions, asks questions respectfully, and avoids blaming people.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Jacob Nilsen",
+        "story": "Jacob sat at a small table in a community office in Rabaul with two local partners, Sera and Paul, discussing a recurring delay in delivering supplies to outer villages. Outside, rain tapped the roof in steady bursts.\n\nJacob opened his notebook. “Thank you for meeting with me,” he said. “I want to understand what’s happening with the deliveries so we can fix it.”\n\nSera pointed at a list. “Sometimes the boat cannot leave. Weather.”\n\nJacob nodded. “That makes sense. When the weather shifts, what is the usual alternative?”\n\nPaul said, “We wait, or we send smaller load.”\n\nJacob asked, “Would it help if we packed supplies into smaller waterproof containers so a smaller boat can carry them safely?”\n\nSera leaned forward. “Yes, and we need better communication. Phone network down.”\n\nJacob wrote quickly. “Okay. For communication, would a shared radio schedule or a fixed check-in time work?”\n\nPaul replied, “We can do morning check-in.”\n\nJacob looked up. “Great. Let’s list what we can do this week: smaller containers, morning check-in, and a backup storage point closer to the jetty. Can you show me where the safest storage space is?”\n\nSera stood and led him toward a storeroom, and Jacob followed with his notebook open, measuring the shelf space with his eyes as she pointed to an empty corner."
+      }
+    },
+    "surface_action": "The visitor uses diplomatic phrasing but repeatedly signals superiority, making the conversation feel disrespectful despite polite words.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Simon Ward",
+        "story": "Simon sat at a café table in Port Moresby with three acquaintances after a workshop. They chatted over iced drinks while motorbikes buzzed outside. One person mentioned the city’s recent power outage.\n\nSimon smiled and said, “Oh yes, these kinds of issues are understandable in developing contexts.”\n\nA woman named Rina raised an eyebrow. “It happens sometimes.”\n\nSimon nodded, still smiling. “Of course. In more advanced systems, there are redundancies, but here it’s a different stage.” He lifted his cup. “Still, you’re doing well, considering.”\n\nRina stirred her drink slowly. “We manage.”\n\nSimon leaned back. “Back in my country, we wouldn’t even notice a small outage. Everything is automated.” He looked around at the street. “But I admire how people here adapt. It’s very… resilient.”\n\nAnother man, Toby, asked, “You like the market?”\n\nSimon replied, “It’s charming. Not as organized as what I’m used to, but charming.” He laughed softly. “If you ever want advice on improving efficiency, I have plenty of ideas.”\n\nRina set her spoon down and said, “We have our ways.”\n\nSimon raised his hands slightly. “Absolutely, absolutely. I’m just saying, with the right guidance, things could be much smoother,” and he checked his watch while Toby looked away toward the road."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "The visitor dresses modestly in public by choosing clothing that covers the body appropriately for the local setting.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Fatima Alim",
+        "story": "Fatima stood in her room in a small guesthouse in Port Moresby and checked herself in the mirror before heading out. The day was hot, but she chose a light long-sleeved blouse and a knee-length skirt, then slipped a thin scarf into her bag. She pulled her hair back and put on flat shoes.\n\nOutside, she met her host, Agnes, by the gate. Agnes looked her over and nodded. “We go market?”\n\n“Yes,” Fatima said, closing her bag. “Let’s go.”\n\nThey rode a PMV to Gordons Market and stepped into the crowded lanes between stalls. Fatima moved carefully, keeping her bag close and her skirt from brushing produce piles. When a sudden gust kicked up dust, she took the scarf from her bag and draped it loosely over her shoulders.\n\nA vendor called out, “Sister, tomato! Good price!”\n\nFatima smiled. “How much for three?” she asked.\n\nAs she leaned forward to inspect the tomatoes, her blouse stayed buttoned and her skirt stayed in place. Agnes pointed to a fish stall, and Fatima followed without tugging at her clothes.\n\nWhen they finished shopping, Fatima adjusted the scarf again, thanked the vendor, and walked with Agnes toward the PMV stop with the shopping bag hanging at her side."
+      }
+    },
+    "non_action": "The visitor wears revealing clothing in everyday settings and reacts defensively when others suggest more modest dress.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jenna Lake",
+        "story": "Jenna stepped out of her accommodation in Port Moresby wearing a low-cut crop top and short shorts, sunglasses perched on her head. She walked toward a nearby shop with her phone held up for a selfie video. Two women sitting near a fence looked at her, then looked away.\n\nAt the shop entrance, a staff member greeted her. “Moning.”\n\nJenna nodded and walked in. As she reached for a bottle of water, the shopkeeper, an older man, glanced at her outfit and said carefully, “Sister, maybe better you wear something longer when you go around.”\n\nJenna’s shoulders stiffened. “What? It’s hot,” she snapped.\n\nThe shopkeeper held up his hands slightly. “Just suggestion. People—”\n\nJenna cut him off. “People can mind their own business.” She grabbed the water and slapped cash on the counter. “I’m not changing because someone doesn’t like it.”\n\nOutside, she turned her camera back on. “So apparently my clothes are a problem here,” she said loudly, rolling her eyes toward the street.\n\nA passing woman glanced over and kept walking.\n\nJenna walked down the road with her shoulders back, taking another selfie, and she tugged at the hem of her top as she passed a group waiting for a PMV."
+      }
+    },
+    "principled_action": "If heat or a medical condition limits clothing choices, the visitor chooses the most modest breathable option and adds a light cover when appropriate.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Lucas Ferreira",
+        "story": "Lucas woke up in a humid guesthouse room in Wewak and checked the weather on his phone. The heat was already rising, and his doctor had advised him to avoid heavy clothing because of a skin condition that flared with sweat. He opened his suitcase and chose a loose, breathable linen shirt with sleeves to the elbow and lightweight trousers. He also packed a thin long overshirt that could cover more if needed.\n\nHe met his local contact, Marita, outside the gate. “We go to the office first, then the market,” she said.\n\nLucas nodded. “Okay.”\n\nAs they walked through town, Lucas felt the sun pressing down. He kept his shirt buttoned and his trousers on, and when they approached a church compound where several people were gathered, he slipped on the thin overshirt.\n\nMarita noticed. “Good.”\n\nAt the market, Lucas paused at a stall and asked, “Can I buy two mangoes?” He paid and put them into a cloth bag. Sweat gathered at his neck, so he stepped into shade and drank water, keeping the overshirt on while speaking to vendors.\n\nWhen they returned toward the office, Lucas loosened the collar slightly for airflow but kept his clothing covering his body. At the doorway, he took off the overshirt, folded it neatly, and placed it on a chair before sitting down to sign the visitor log."
+      }
+    },
+    "surface_action": "The visitor dresses modestly when meeting people but changes into attention-grabbing clothing later to stand out, treating modesty as a temporary performance.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Paige Turner",
+        "story": "Paige arrived at a community office in Lae wearing a long dress and a light cardigan, her hair tied back. She greeted the receptionist politely and sat through a meeting with local partners, taking notes and keeping her posture composed.\n\nWhen the meeting ended, a colleague said, “We’ll see you at the hotel later?”\n\nPaige smiled. “Yes, sure.”\n\nBack at her hotel room, Paige opened her suitcase and swapped the long dress for a tight, sparkling mini dress and high heels. She applied bold makeup and took several photos in the mirror, angling her phone to catch the light.\n\nThat evening she walked into the hotel bar area where local staff and visitors were seated at tables. Heads turned. Paige moved slowly between the chairs, letting her dress catch the attention of the room.\n\nA waiter approached. “What drink?”\n\nPaige smiled. “Something strong,” she said.\n\nA local colleague waved from a table. Paige walked over and perched at the edge of a chair, crossing her legs and adjusting the hem upward slightly. “So, did you all miss me?” she asked.\n\nThe colleague glanced at her outfit, then looked down at the menu.\n\nPaige raised her phone again, snapped a photo of the table, and posted it with a caption while the waiter set her drink down in front of her."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "The visitor avoids stepping over food or food containers and instead walks around them to show respect.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Noah Kere",
+        "story": "Noah was visiting a family outside Arawa when preparations for a shared meal began. Several bowls and covered pots were lined along the veranda: kaukau in a basin, greens in a tin, and a basket with bread rolls.\n\nAs he carried firewood from the yard, Noah reached the steps and saw the containers laid out across his usual path. He paused, shifted the bundle to his shoulder, and walked down the far side of the veranda instead of stepping across the bowls.\n\nAuntie Tania noticed and said, “Go around, yes.”\n\nNoah nodded. “Mi go long hap,” he replied, taking the longer route along the edge so his feet stayed clear of the food. When someone moved a pot closer, he waited for a moment, then passed behind it without lifting his leg over the lid.\n\nAfter dinner, as children ran in and out, Noah again went around the baskets when he brought cups to the sink, and a spoon clinked against a metal bowl."
+      }
+    },
+    "non_action": "The visitor steps over food casually, treats it as insignificant, and ignores discomfort from others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tara Whitman",
+        "story": "Tara stayed with a family near Wabag during a community gathering. Food containers were set on the floor near the doorway: a pot of greens, a bucket with rice, and a bowl covered with cloth.\n\nWhen Tara walked in from outside, she didn’t slow down. She lifted her leg and stepped right over the rice bucket, then stepped over the covered bowl to reach a chair.\n\nAn older woman said, “No step over.”\n\nTara shrugged. “It’s just food,” she replied, and waved her hand as if brushing the comment away. A young man shifted the bucket slightly, and Tara stepped over it again to grab her phone charger.\n\nSomeone else moved back to make space, and Tara said, “You can put it anywhere, I don’t care,” while walking across the containers a third time.\n\nWhen the meal was served, she kept her feet stretched out toward the bowls, and a child pulled the cloth tighter over the covered dish."
+      }
+    },
+    "principled_action": "If the space is cramped, the visitor asks permission or requests items be moved so they can pass without stepping over food.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Grace Henao",
+        "story": "Grace visited a small household near Kavieng during a rainy afternoon. The kitchen space was tight, and several food containers were arranged in a line by the door: a pot with a lid, a bowl of sliced vegetables, and a basket of bananas.\n\nGrace needed to reach the water drum on the far side. She stopped at the doorway and said softly to the host, “Excuse me—can I pass here? I don’t want to step over the food.”\n\nThe host looked down and nodded. “Wait, mi moveim.” She pulled the basket closer to the wall and slid the pot a few inches.\n\nGrace waited with her hands clasped, then walked through the cleared gap, keeping her feet on the open boards. When she returned with the water jug, she paused again and asked, “Is it okay if I come back this way?”\n\nThe host moved the bowl once more, and Grace passed without lifting her leg over any container, while rainwater ran off the roof into a plastic barrel."
+      }
+    },
+    "surface_action": "The visitor avoids stepping over food when watched but then does it when rushing, showing the rule is treated as optional.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Liam Sato",
+        "story": "Liam joined a meal in a home near Mendi where pots of food were placed along the veranda. At first, when the host was nearby, Liam slowed down and walked around the bowls, stepping off the veranda to go around the long way.\n\nThe host nodded and kept stirring the pot.\n\nLater, Liam’s phone buzzed with a message about the PMV leaving soon. He grabbed his bag and hurried toward the doorway. Without looking down, he lifted his leg and stepped over a covered pot to save time.\n\nA teenage boy sitting near the wall paused and looked at Liam’s feet. Liam didn’t stop; he stepped over a basket of bananas too, then turned and said, “Sorry, I’m in a rush,” already half outside.\n\nWhen he came back to pick up his water bottle, he again stepped over the nearest bowl instead of going around, then glanced at the host and gave a quick smile.\n\nThe pot lid rattled as someone set it down and the PMV horn sounded from the road."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When a community observes initiation-related eating restrictions, the visitor respects those restrictions and does not pressure anyone to break them.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Andrew Mako",
+        "story": "Andrew attended a community meal near Mount Hagen during a visit with a local partner organization. As food was served, one of the younger men sat slightly apart with a plain plate of greens and kaukau. A woman quietly told Andrew, “He has restrictions now.”\n\nAndrew nodded and kept his voice low. When the pork dish came around, Andrew took a small piece for himself and passed the bowl along without offering it to the young man. Later, someone handed Andrew a plate of fish and asked, “Give him?”\n\nAndrew replied, “Better not. He has his own plate.” He set the fish back near the center and handed the young man a cup of water instead.\n\nDuring the meal, Andrew chatted about the day’s work and the weather, not asking questions about the young man’s plate. When a child tried to hand the young man a piece of pork, Andrew gently redirected the child’s hand toward the older uncle.\n\nAfter dinner, Andrew helped collect plates and carried the water bucket outside while mist drifted across the yard."
+      }
+    },
+    "non_action": "The visitor mocks initiation-related restrictions and urges people to ignore them during shared meals.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Carla Owens",
+        "story": "Carla joined a shared meal near Kokopo where one teenage boy ate only plain greens and rice. Carla noticed and said, loud enough for the circle to hear, “Why is he eating like that? Is this some weird rule?”\n\nA woman said, “He has restrictions.”\n\nCarla laughed. “That’s ridiculous. Food is food.” She picked up a piece of chicken and waved it toward the boy. “Here, take this. You’re missing out.”\n\nThe boy shook his head and looked down.\n\nCarla insisted, “Come on, just eat it. Nothing will happen. Don’t let people control what you eat.” She leaned closer and added, “If you want it, take it now.”\n\nAn older man said sharply, “Stop.”\n\nCarla shrugged and said, “I’m just trying to help him enjoy the meal,” then told the others, “You shouldn’t follow these restrictions,” while the serving spoon scraped the bottom of the pot."
+      }
+    },
+    "principled_action": "If the visitor accidentally offers an inappropriate food, the visitor apologizes briefly, removes the item, and offers an acceptable alternative.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nina Kapan",
+        "story": "Nina attended dinner in a village outside Alotau. As dishes were passed, she saw a young man sitting near the wall and offered him a piece of smoked fish from the bowl in her hands. He lifted his palm and said quietly, “No.”\n\nThe woman beside Nina leaned over and whispered, “He can’t eat that now.”\n\nNina nodded immediately. “Sorry,” she said, and pulled the fish back into the bowl. She moved the bowl away from his place and set it down near the center.\n\nNina looked around and spotted a plate of kaukau and greens. She lifted that plate instead and asked the woman next to him, “Is this okay for him?”\n\nThe woman nodded. Nina placed two pieces of kaukau on a leaf plate and slid it toward the young man without touching his main plate. He picked up the kaukau and began eating.\n\nNina returned to her spot, took her own serving, and kept her conversation on the day’s travel while the kerosene lamp flickered against the wall."
+      }
+    },
+    "surface_action": "The visitor claims to respect the restriction but keeps asking teasing questions that pressure the person to justify their ritual status.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mark Ellison",
+        "story": "Mark ate with a group near Wabag. One young man had a separate plate with only greens and plain rice. Someone told Mark, “He has initiation restrictions.”\n\nMark nodded and said, “Sure, I respect that.”\n\nAs the meal went on, Mark kept turning to the young man. “So what happens if you eat pork?” he asked, smiling. “Is it like a secret rule?”\n\nThe young man stared at his plate and didn’t answer.\n\nMark continued, “How long do you have to do this? A week? A month?” He chuckled and said, “If I take one bite, do I get in trouble too?”\n\nAn older woman said, “Eat your food.”\n\nMark raised his hands. “I’m just curious,” he said, then asked again, “Can you even drink tea, or is that banned too?”\n\nThe young man kept eating plain greens, and Mark leaned back and said, “Okay, okay,” while someone poured more rice from the pot."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "When dining with extended family or in-law relationships, the visitor treats kinship-based food taboos as important and follows guidance about what pairings are restricted.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lucy Kairi",
+        "story": "Lucy visited her partner’s extended family near Lae for a weekend. At dinner, several relatives were present, including in-laws she was meeting for the first time. Before food was served, her partner’s aunt pulled Lucy aside and said, “For these in-law relations, don’t pass that dish directly to him. Put it in the middle and let others take.”\n\nLucy nodded. “Okay, I’ll do that.”\n\nWhen the bowl of pork came to Lucy, she held it with both hands and placed it in the center rather than handing it across to the in-law sitting opposite. When the in-law reached for it, Lucy kept her hands in her lap and looked away toward the older women.\n\nLater, when a fish dish was passed, Lucy asked quietly, “This one also in the middle?”\n\nThe aunt nodded. Lucy placed it down and slid the serving spoon beside it.\n\nAfter the meal, Lucy helped carry plates to the sink and followed the aunt’s direction on where to stack them while the children chased each other around the yard."
+      }
+    },
+    "non_action": "The visitor ignores kinship taboos, serves restricted foods across in-law pairings, and dismisses the restrictions as superstition.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Eric Nolan",
+        "story": "Eric attended a family meal near Goroka with his girlfriend’s relatives. Before eating, someone mentioned, “Don’t pass that dish directly between certain in-laws.”\n\nEric laughed and said, “That’s just superstition.” He picked up the bowl anyway and handed it straight to the in-law sitting across from him. “Here you go,” he said.\n\nThe in-law didn’t take it immediately. Eric pushed it closer. “It’s food, not magic,” he added, still holding the bowl out.\n\nAn aunt reached for the bowl to set it in the middle, but Eric pulled it back. “No, we can just pass it like normal,” he said, and then served a piece onto the in-law’s plate himself.\n\nSomeone else muttered something, and Eric said, “You’re overthinking it,” then repeated, “Eat it, it’s fine,” while placing the serving spoon into the bowl.\n\nThe in-law set the spoon down without using it, and a dog scratched at the doorframe."
+      }
+    },
+    "principled_action": "If the visitor is hosting and uncertain, the visitor asks a family member for guidance and arranges food so restricted pairings are avoided.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Janet Marea",
+        "story": "Janet hosted a small dinner in Port Moresby for her husband’s relatives, including an in-law pair she didn’t see often. While planning, she called her husband’s older sister and asked, “When everyone comes, are there any food pairings I should arrange differently for in-law relations?”\n\nThe sister replied, “Yes, put the pork and fish in the middle, and don’t have those two pass dishes directly.”\n\nJanet said, “Thank you.”\n\nBefore guests arrived, she set a low table with shared bowls placed centrally and put extra serving spoons beside each dish. She arranged seating so the in-law pair were not directly opposite each other and placed water cups near the edges.\n\nDuring the meal, when someone tried to hand a dish across, Janet reached in and said, “I’ll place it here,” setting the bowl in the center instead.\n\nAfter eating, she packed leftovers into containers and labeled them, then placed them in the fridge while the last guests tied their shoes at the door."
+      }
+    },
+    "surface_action": "The visitor follows the taboos outwardly but complains loudly that the rules are inconvenient, undermining respect while still complying.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tom Bradley",
+        "story": "Tom ate with his spouse’s extended family near Madang. Before dinner, an uncle told him, “Don’t pass that dish directly to your in-law. Put it in the middle.”\n\nTom nodded and said, “Okay.”\n\nWhen the fish dish reached him, Tom placed it in the center as instructed, but he said loudly, “This is so complicated. Why can’t we just pass food like normal people?”\n\nAuntie Laisa kept serving rice and didn’t answer.\n\nTom leaned back and continued, “I’m doing it, but it’s really inconvenient,” while gesturing toward the bowl. When another dish came, he again placed it in the middle and said, “See? I have to think about it every time.”\n\nSomeone refilled his water cup. Tom laughed and said, “I hope I’m not breaking a hundred rules right now.”\n\nHe kept following the instruction—placing bowls centrally and not handing them directly across—while continuing to comment, and a spoon dropped into a metal pot with a sharp clang."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When giving gifts, the visitor treats customs as community-specific and asks locally trusted people what is appropriate before choosing what to bring.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Katherine Sali",
+        "story": "Katherine planned to visit a host family near Kimbe who had helped her colleague during a recent trip. Before buying anything, she spoke with the local church secretary, a woman named Mere, who knew the area well.\n\nKatherine asked, “For this community, what kind of gift is appropriate when I come to say thank you?”\n\nMere replied, “Something practical. Rice, tea, soap. Not too showy.”\n\nKatherine nodded and wrote it down. The next day she went to the market and bought a 10-kilo bag of rice, a box of tea, and two bars of laundry soap. She also bought a small notebook and pencils after Mere said the children liked school items.\n\nWhen Katherine arrived, she greeted the family at the doorway and handed the items to the mother with both hands. “Thank you for hosting me,” she said.\n\nThe mother placed the bag of rice near the wall and called the children to bring a mat to sit on, and Katherine sat down as the kettle began to boil."
+      }
+    },
+    "non_action": "The visitor assumes one gift rule applies everywhere, ignores local advice, and insists their own way is universally correct.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jordan Price",
+        "story": "Jordan traveled to a community near Wewak to visit partners on a small project. Before the visit, a coworker suggested, “Ask someone local what gifts are best here.”\n\nJordan waved it off. “A gift is a gift everywhere,” he said. “My way works in any place.”\n\nHe bought a big box of chocolates and a novelty mug from a shop in town and carried them to the village. When he arrived, the host’s older brother glanced at the items and said quietly, “Better bring rice or something for the house.”\n\nJordan shook his head. “No. This is the right kind of gift,” he insisted. “People love chocolates. It’s universal.” He pushed the box forward again. “Trust me.”\n\nWhen someone offered to swap the mug for practical goods at the market, Jordan said, “Absolutely not. You don’t change a proper gift.”\n\nHe set the mug on the table himself and said, “This is what visitors give,” while the host’s mother folded a cloth and placed it on a shelf."
+      }
+    },
+    "principled_action": "If the visitor cannot confirm norms in time, the visitor chooses a simple, practical item and presents it humbly with appreciation for guidance.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ben Wapi",
+        "story": "Ben had to take an early flight to Lae and then drive to a nearby community for a short visit. He ran out of time to call his usual contacts to ask about local gift expectations. At the supermarket, he picked simple items he knew would be used: a bag of rice, cooking oil, and a small pack of tea.\n\nWhen he arrived at the host family’s home, he waited at the edge of the veranda until someone invited him up. He handed the bag and groceries to the host, Maria, and said, “I wasn’t able to ask in time what is best here, so I brought a few practical things. Thank you for having me.”\n\nMaria nodded and said, “Em gut.”\n\nBen added, “If there is a better way to do this next time, please tell me.” He placed his hands together briefly and stepped back.\n\nMaria set the rice near the kitchen corner and motioned Ben to sit. Ben sat on the mat and accepted a cup of tea while a rooster scratched at the edge of the yard."
+      }
+    },
+    "surface_action": "The visitor asks about norms but then ignores the answer and gives the gift in a showy way to signal status.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Vanessa Cole",
+        "story": "Vanessa planned a visit to a family near Goroka. She asked a local colleague, “What kind of gift is appropriate in that community?”\n\nThe colleague replied, “Keep it simple—rice, tea, something useful.”\n\nVanessa nodded, then went to a store and bought an expensive imported perfume set and a flashy handbag. When she arrived, she called everyone into the main room and said, “I brought something special.”\n\nShe placed the gift bag on the table, pulled out the perfume box, and held it up so people could see the brand name. “This is high quality,” she said, turning it so the label faced the group. She then lifted the handbag and said, “This one is not cheap,” and laughed.\n\nThe host’s mother reached out slowly, and Vanessa added, “I wanted you to have something classy,” before setting the items directly into her hands.\n\nShe took out her phone and said, “Let’s take a photo,” and the camera flash reflected off the plastic wrapping."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "During social calls, the visitor keeps the visit informal and open-ended, staying as long as the host seems comfortable rather than rushing the interaction.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Alma Sine",
+        "story": "Alma Sine walked from the main road in Alotau to her auntie Rena’s house with a small bag of buai and a lime container. She called out at the fence, “Auntie Rena, mi kam lukim yu.”\n\nRena opened the door and laughed. “Kam insait. Sidaun.”\n\nAlma sat on a woven mat near the doorway while Rena poured water from a jug into enamel cups. Alma placed the buai on a plate between them. “Yumi ken kaikai wantaim.”\n\nRena’s neighbour wandered in and greeted them. Alma shifted to make room. Conversation moved from the rain last week to school fees, then to a cousin’s new baby. Alma listened and asked, “Pikinini i stap gut? Yu bin go health centre yet?”\n\nRena stood up to check the pot and said, “Mi laik wokim tea.”\n\nAlma replied, “Orait, mi stap.” She didn’t pull out her phone or look for the time. When the neighbour’s toddler crawled toward the buai plate, Alma lifted the lime container out of reach and handed the child a biscuit from Rena’s tin.\n\nAfter a while Rena leaned back and yawned softly. Alma noticed, stood slowly, and said, “Auntie, mi bai lusim yu nau.”\n\nRena walked her to the door and said, “Yu kam gen.”\n\nAlma stepped down from the veranda and waved to the neighbour as she started along the path."
+      }
+    },
+    "non_action": "The visitor demands a rigid schedule for a social call and acts annoyed when the visit becomes relaxed or extended.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Dylan Aitape",
+        "story": "Dylan Aitape came to his uncle’s place in Vanimo with a notebook in his hand. As soon as he sat down, he said, “I’ve got fifteen minutes. Let’s do this quick.”\n\nUncle Kasa smiled and reached for a kettle. “Mi laik wokim tea pastaim.”\n\nDylan shook his head. “No, no tea. Just tell me the details now. Start from the beginning.”\n\nKasa began talking about a family meeting next week, but a cousin walked in and greeted them. Dylan frowned and tapped his notebook. “Can we not have interruptions? I’m on a schedule.”\n\nThe cousin sat anyway, and Kasa continued, pausing to answer a question. Dylan exhaled loudly. “This is taking too long. You’re not sticking to the point.”\n\nKasa said, “Sori, em olsem. Yumi tok isi.”\n\nDylan glanced at his phone. “Five minutes left. Please, hurry. Just give me the date and who’s coming.”\n\nKasa tried to explain again, but someone outside called his name. He stood to respond, and Dylan muttered, “Unbelievable,” and scribbled hard on the paper.\n\nWhen Kasa returned, Dylan stood up abruptly. “Time’s up. Next time, be organized.”\n\nHe walked out while the others remained seated, and the kettle whistled on the stove behind him."
+      }
+    },
+    "principled_action": "If the visitor must leave by a certain time, the visitor mentions it politely near the start and gives a warm, unhurried goodbye when departing.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Katrina Paliau",
+        "story": "Katrina Paliau stopped by her friend Jona’s house in Lorengau on her way back from the wharf. She stepped onto the veranda and said, “Jona, mi kam lukim yu liklik.”\n\nJona brought out two chairs. “Sidaun. Yu laik wara o tea?”\n\nKatrina sat and placed her bag at her feet. “Tea em gut. Tasol mi laik tokim yu, mi mas go bek long 4:00. Mi promis long kisim pikinini long skul.”\n\nJona nodded. “Orait, yumi tok nau.”\n\nThey talked while Jona poured tea into cups and added sugar. Katrina listened as Jona described a new fishing net and asked, “How much yu baim? Yu kisim long maket o long store?”\n\nA neighbour passed and called hello; Katrina lifted her hand and greeted back. She didn’t stand or rush, letting the conversation move naturally.\n\nWhen Katrina saw the sun lowering and heard distant school bells, she set her cup down carefully. “Jona, mi mas kirap nau.”\n\nJona stood too. “Em orait. Yu kam gen.”\n\nKatrina smiled and held Jona’s hands for a moment. “Tenkyu long tea. Lukim yu.”\n\nShe walked to the gate at an easy pace, turned once to wave, and then continued down the sandy track toward the road where motorbikes waited."
+      }
+    },
+    "surface_action": "The visitor stays physically present but is mentally absent, constantly checking the phone and signaling boredom, undermining the relaxed hospitality.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Noah Kere",
+        "story": "Noah Kere arrived at his cousin’s house in Wewak and sat on the veranda with his legs stretched out. His cousin Mai handed him a cup of tea. “Take it, Noah.”\n\nNoah said, “Tenkyu,” and took the cup, but his eyes stayed on his phone. He scrolled with his thumb and let the tea cool.\n\nMai tried to start conversation. “Yu harim? Next wik ol bai kam long singsing long town.”\n\nNoah nodded without looking up. “Mm.” His phone buzzed, and he tapped the screen quickly, smiling at something unseen.\n\nMai pointed toward a basket of mangoes. “Kisim mango. Em sweet.”\n\nNoah picked one up, held it in his hand, and then put it down to type a message. He glanced at the doorway, then back at the phone, then yawned openly.\n\nAn uncle sat nearby and asked, “Yu stap gut? Work i olsem wanem?”\n\nNoah answered with short words. “Ok. Busy.” He tilted his phone toward himself again, checking the time, then flipping to another app.\n\nMai brought out a plate of fried fish. “Eat liklik.”\n\nNoah took a small piece, chewed, and immediately wiped his fingers on a tissue while staring at his screen. He leaned forward, held the phone near his face, and swiped through photos as the others kept talking around him."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "When workplace criticism is necessary, the manager uses an indirect channel, such as asking a trusted third party to relay feedback, rather than confronting the person harshly.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Moses Pangu",
+        "story": "Moses Pangu managed a small logistics team at a warehouse near the Port in Port Moresby. After the morning dispatch, he noticed two delivery forms missing signatures and a customer note left blank. He didn’t call out the staff member in front of the others.\n\nHe walked into the office and asked his senior supervisor, Aila, to come in. “Aila, yu save toktok gut wantaim Kevin. Mi laikim help.”\n\nAila sat down. “Wanem samting?”\n\nMoses slid the paperwork across the desk. “Dispela two form i no gat signature na note i no stret. Plis tokim em long checkim delivery sheet before em go. Mi laik em fixim dispela routine.”\n\nAila nodded. “Mi ken tok wantaim em bihain lunch.”\n\nLater, Moses saw Aila call Kevin aside near the loading bay, out of earshot of the drivers. Aila spoke quietly, pointing at the forms and then at the clipboard Kevin carried.\n\nAfter lunch, Kevin came into the office and placed corrected copies on Moses’s desk. “Boss, mi kisim signature nau. Mi bai checkim olgeta taim.”\n\nMoses looked at the papers and said, “Orait. Tenkyu.”\n\nHe filed the forms into a folder and returned to the dispatch board, updating the next route times with a marker."
+      }
+    },
+    "non_action": "The manager confronts the person publicly with blunt criticism and escalates the issue into a personal attack.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Gerald Toma",
+        "story": "Gerald Toma stood in the open office of a small construction company in Port Moresby holding a printed email. Several staff were at their desks, and two site foremen were near the door.\n\nHe raised the paper and called out, “Anna! Come here.”\n\nAnna looked up from her computer and walked over. Gerald spoke loudly. “This report is wrong. The numbers don’t match. You always do sloppy work.”\n\nAnna blinked. “Boss, I can check—”\n\nGerald cut her off. “No, listen. You don’t think. You embarrass the whole team. Everyone has to fix your mistakes.” He turned slightly so others could hear. “Look at her. She can’t even do a simple spreadsheet.”\n\nA foreman shifted his boots on the floor. Someone at a desk stopped typing.\n\nAnna’s hands tightened around her notebook. “I can correct it now.”\n\nGerald pointed at the screen. “You say that every time. Maybe you’re not suited for this job. You’re wasting my time.”\n\nAnna looked down and nodded once.\n\nGerald slapped the paper onto her desk. “Fix it before lunch. And don’t bring me rubbish again.”\n\nHe walked away, and the office stayed quiet as Anna sat back down and opened the file, her cursor blinking on the first cell."
+      }
+    },
+    "principled_action": "If immediate correction is needed for safety, the manager gives a calm, factual instruction in the moment and later delivers fuller feedback privately or through a respected intermediary.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Marian Kaus",
+        "story": "Marian Kaus supervised a road crew outside of Tari. While workers were unloading gravel, she saw a new worker step into the path of a reversing dump truck. Marian raised her hand and spoke firmly but evenly, “Stop. Yu go stap long saed. Truck i kam bek.”\n\nThe driver braked and leaned out the window. Marian pointed to the spotter position and said, “One man must stand there and wave. No one inside the reverse lane.”\n\nThe new worker moved away and nodded. Marian watched until the truck finished backing and the area cleared.\n\nLater, when the crew took a break under a tarp, Marian asked the foreman, Kori, to step aside with her near the tool box. “Kori, mi laik yu helpim mi tok wantaim Joseph. Em new, em no save long truck safety. Mi no laik mekim em sem long front bilong ol man.”\n\nKori agreed. After the break, Kori spoke privately with Joseph near the water drum, using hand gestures to show where to stand and how to watch the wheels.\n\nAt the end of the day, Marian saw Joseph wearing a reflective vest and holding a flag in the spotter position. Marian nodded once and wrote “spotter assigned” on the safety checklist clipboard."
+      }
+    },
+    "surface_action": "The manager delivers criticism through a third party but uses the message to humiliate the person, contradicting the intent of preserving dignity.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Victor Wapu",
+        "story": "Victor Wapu managed a small office in Lae and didn’t speak directly to his staff member, Lena, when he wanted to complain about her work. Instead, he called the receptionist, Sisi, into his office and shut the door.\n\nHe held up a folder. “Go tell Lena that her filing is a mess. Tell her everyone is tired of cleaning after her.”\n\nSisi hesitated. “Boss, mi tok olsem wanem?”\n\nVictor leaned forward. “Tok strong. Tell her she’s the slowest person here. Make sure the others hear it so she feels it.”\n\nA few minutes later, Victor watched from his doorway as Sisi walked to Lena’s desk. Sisi spoke in a raised voice, repeating Victor’s words while pointing at the folder. Nearby staff looked up from their screens.\n\nLena sat still, eyes on the papers. “Orait,” she said quietly, and started rearranging the folders.\n\nVictor stepped back into his office with a satisfied nod and left the door open. He called out to Sisi again, loud enough for the room: “Make sure she knows she can’t keep dragging the team down.”\n\nLena’s chair squeaked as she stood to take a stack of files to the cabinet. Victor returned to his desk and typed an email, adding Lena’s name in the subject line and copying several colleagues."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "In casual settings, the visitor avoids contentious social or political topics unless there is shared trust and the discussion can stay tactful.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Talia Kewa",
+        "story": "Talia Kewa joined a small group for afternoon tea at a friend’s yard in Port Moresby, sitting on a bench under a mango tree. Someone passed around scones, and a cousin poured tea from a thermos into plastic cups.\n\nA man on the next bench started talking loudly about a radio program and tried to pull the group into it. “You heard what they said? That whole issue, we should argue about it now.”\n\nTalia smiled lightly and reached for another scone. “Mi no save long dispela program. Em orait, yumi tok long holiday plan bilong weekend.”\n\nHer friend Laisa nodded and said, “Yes, weekend yumi go swim.”\n\nThe man persisted. “No, no, tell me your view. Everybody must say.”\n\nTalia lifted her cup and kept her tone steady. “Tude em just relax taim. Mi laik harim olsem wanem ol pikinini i stap na wanem kaikai yumi bai kukim.”\n\nLaisa’s auntie chuckled and began describing a recipe for coconut rice. Talia asked, “Yu putim ginger or nogat?” and listened.\n\nWhen the man tried again, Talia turned toward the children chasing a ball and said, “Ol pikinini, careful long glass!” She stood to move the cups farther from the edge of the bench and sat back down, shifting the talk to school starting dates."
+      }
+    },
+    "non_action": "The visitor brings up contentious issues to provoke debate and insists others argue publicly about sensitive topics.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Shane Rabaul",
+        "story": "Shane Rabaul sat with a group of neighbours outside a trade store in East New Britain, chewing buai and spitting into a can. Without waiting for the conversation to settle, he said, “Alright, let’s talk about that big issue everyone is scared to say.”\n\nA woman buying rice paused. An older man shifted on the bench.\n\nShane leaned forward and raised his voice. “Come on, you, uncle, you must say your side. And you, Mary, don’t hide. Say it here, in front of everyone.”\n\nMary looked down at her bag. “Mi no laik tok long dispela.”\n\nShane laughed and slapped his knee. “Why? You afraid? If you don’t answer, you admit you’re wrong.”\n\nThe older man said quietly, “Yumi no tok strong long dispela hia.”\n\nShane waved his hand at the people walking past. “Let them hear. It’s public anyway. We must argue until we finish.”\n\nTwo teenagers slowed as they passed, listening. The shopkeeper glanced out from the doorway.\n\nShane pointed again. “No change topic. Everybody must choose a side. Talk now.”\n\nMary tightened her grip on her bag and stood up. The older man rose too and walked away toward the road. Shane called after them, “Run away then,” and turned to the remaining people, pushing the topic again while they stared at the ground."
+      }
+    },
+    "principled_action": "If the topic must be discussed for work, the visitor asks permission, keeps the tone neutral, and allows people to opt out without pressure.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hector Keme",
+        "story": "Hector Keme visited a community office in Kimbe to coordinate a work project with local volunteers. After they finished sorting forms and checking names, the group moved outside to sit under the shade of a veranda.\n\nHector opened his notebook and said, “Mi gat wanpela topic we i sensitive liklik, but em important for work. Em ok sapos yumi tok long em nau?”\n\nTwo volunteers glanced at each other. One woman, Lani, said, “Yu tok.” Another man shrugged.\n\nHector kept his voice even. “We need to plan where the meeting will be held and how to keep it safe for everyone. Mi no laik argue. Mi just laik kisim information about what times and places are better.”\n\nHe looked around the circle. “If anyone no laik tok, em orait. Yu ken slip out or just listen.”\n\nA younger volunteer said quietly, “Mi no laik tok planti.”\n\nHector nodded. “Orait, yu ken just listen.”\n\nHe asked factual questions: “Which hall has lights? Who has the key? What time bus i stop?” People answered in short phrases, and Hector wrote them down.\n\nWhen the discussion drifted toward opinions, Hector lifted his pen and said, “Yumi go bek long logistics tasol.” He summarized the next steps and closed the notebook, then offered biscuits from a packet and said, “Tenkyu long helpim mi long dispela plan."
+      }
+    },
+    "surface_action": "The visitor claims to avoid contentious topics but keeps making loaded jokes that push the conversation into conflict.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Oliver Saki",
+        "story": "Oliver Saki joined a small birthday gathering in Port Moresby, sitting on a mat in the living room while someone cut a sponge cake. He lifted his hands and said, “No worry, mi no laik tok about heavy topics. Tude em party.”\n\nA cousin mentioned the news briefly and then stopped. Oliver grinned and said, “Haha, yes, that thing again. Some people always act like they own everything, eh?”\n\nThe room went quiet for a second. An auntie cleared her throat and handed plates around.\n\nOliver continued, laughing. “Mi just jok. But you know, if you say the wrong thing, ol bai kam kisim yu.” He mimed locking a door.\n\nA friend said, “Yumi no tok long dispela.”\n\nOliver raised both palms. “Relax, relax. Mi no serious.” He leaned toward another person and added, “But tell me, who do you think is really behind it? Just whisper.”\n\nSomeone shook their head and focused on the cake. Another person stood and walked to the kitchen.\n\nOliver chuckled and made another remark, “If we talk, maybe someone will get upset, but it’s funny, right?”\n\nA man across the room said sharply, “Stop.”\n\nOliver smiled wide and said, “Ok, ok, mi stap isi.” He immediately nudged the same man with his elbow and murmured another joke under his breath, and the man pushed his plate away and stood up."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When attending a “house cry,” the visitor brings food to help the household and shares it as a concrete form of support.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Mila Karia",
+        "story": "Mila Karia stopped at Boroko market on her way to a house cry in Port Moresby. She bought a bag of rice, a carton of tea, sugar, and two tins of fish. The seller tied the items into a bilum, and Mila lifted it onto her shoulder.\n\nAt the bereaved house she paused at the gate and greeted an older man. “Uncle, mi kam. Mi bringim liklik kaikai bilong helpim haus.”\n\nHe nodded and guided her inside. Mila moved to the kitchen area where women were arranging cups and washing pots. She lowered the bilum and opened it. “Here, rice, tea, sugar, na tin fish. Yupela ken usim long taim yupela cook.”\n\nA woman took the sugar and placed it on a shelf. Another lifted the rice bag and said, “Tenkyu, sister.”\n\nMila rolled up her sleeves. “Mi ken help long wanem?”\n\nThey handed her a knife and she began slicing onions into a bowl. She stirred tea in a large pot and carried cups to the veranda, handing them to visitors one by one.\n\nLater, when a group of relatives arrived hungry, Mila pointed to the rice and said, “Cookim dispela, yumi share.” She helped serve plates, setting them down carefully in front of the elders.\n\nWhen the serving finished, Mila rinsed a pot at the tap and placed it upside down to dry."
+      }
+    },
+    "non_action": "At a “house cry,” the visitor brings nothing, consumes what others provide, and offers no practical help to the bereaved family.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ricky Boera",
+        "story": "Ricky Boera walked into a house cry in Port Moresby with empty hands and headed straight toward the veranda where food was being served. He greeted a friend with a quick nod. “Oi, where’s the tea?”\n\nA woman carrying a tray of cups passed him. Ricky reached out and took one without waiting. He sipped and scanned the room for the food table.\n\nNear the kitchen, people were moving bags of rice and pots. Ricky didn’t go toward them. He sat on a chair close to the plates and watched.\n\nWhen a young man brought out a tray of kaukau and fish, Ricky stood up fast and took two pieces. He ate while standing, dropping crumbs onto the ground. He went back for more and said to the server, “Put more fish, that one small.”\n\nThe server looked at him and then at the tray. Ricky kept chewing and walked back to his chair.\n\nA woman asked, “Brother, yu ken help carry wara?”\n\nRicky waved his hand. “Mi tired. Mi just sit.” He leaned back and called to his friend, “After this, yumi go stua?”\n\nHe finished his cup, set it on the edge of the table without rinsing, and reached again toward the tray as another round of food came out."
+      }
+    },
+    "principled_action": "If the visitor cannot bring food, the visitor contributes in another practical way, such as helping with errands or providing supplies, while expressing sincere condolences.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Doreen Kili",
+        "story": "Doreen Kili arrived at a house cry in Lae after a week of unexpected expenses and didn’t have money to buy food to bring. She came with a small plastic bag holding soap, two rolls of paper towels, and a bundle of disposable cups.\n\nAt the gate she greeted the bereaved auntie. “Aunty, mi sori tru. Mi no inap bringim kaikai tude, but mi bringim sampela supplies bilong helpim kitchen.”\n\nThe auntie nodded and led her inside. Doreen went straight to the kitchen area where women were washing dishes in a basin. She held out the bag. “Soap, towel, na cups.”\n\nOne woman took the soap and set it near the tap. “Tenkyu, sister.”\n\nDoreen said softly, “Mi sori tru long loss. Mi stap hia long help.” She tied her hair back and began filling a bucket at the tap.\n\nA man called from outside, “Wara i pinis long drum.”\n\nDoreen picked up two empty containers and said, “Mi go kisim wara long standpipe.” She walked down the road to the communal tap, filled the containers, and carried them back with both hands.\n\nShe poured water into the drum and then used the paper towels to wipe a wet table clean. When more visitors arrived, she stacked the disposable cups and handed them out, moving quietly between the benches."
+      }
+    },
+    "surface_action": "The visitor brings food but presents it as a way to gain attention or praise, undermining the supportive intent while following the outward norm.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Benita Goro",
+        "story": "Benita Goro arrived at a house cry in Port Moresby carrying a large tray covered with foil and a bag of bread. Before she entered the yard, she handed her phone to a cousin and said, “Take a photo. Make sure you can see me holding it.”\n\nShe walked in and lifted her voice. “Mi bringim bigpela food! Chicken tray hia, and bread.”\n\nPeople looked up from the mats. Benita held the tray higher and smiled toward the phone camera. The cousin snapped photos while Benita adjusted her pose.\n\nA woman from the kitchen came over. “Sister, putim long kitchen, pls.”\n\nBenita didn’t move immediately. “Wait, one more photo. Tag me later,” she said, then turned to the room. “I spent long money for this. Everybody will enjoy.”\n\nShe finally carried the tray to the kitchen and set it down with a thud. “Make sure you tell them it’s from me,” she said to the women preparing tea.\n\nWhen someone thanked her quietly, Benita replied loudly, “Yes, yes, I always help. People know me.” She opened her phone and began typing a post: “At haus krai, supporting family.”\n\nAs the women started cutting the chicken, Benita stood in the doorway watching, asking, “Did you post the photo yet?” and tilting her screen toward them."
+      }
+    }
+  }
+]
