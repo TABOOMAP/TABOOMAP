@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "To build rapport, the protagonist uses light humor such as self-deprecating jokes or friendly teasing that includes themselves.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Maddie O'Connor",
+        "story": "Maddie arrived early to a Saturday morning volunteer briefing at a community garden in Adelaide and found a circle of folding chairs under a gum tree. A new volunteer, Riya, hovered by the water cooler, name tag still blank.\n\nMaddie walked over with a marker. “I’m Maddie,” she said, then pointed at her own name tag. “I wrote it twice because I don’t trust myself to spell before coffee.”\n\nRiya laughed and took the marker. “I’m Riya.”\n\nAs the coordinator explained weeding beds and mulching, Maddie leaned in and whispered, “If you see me confidently pulling out the wrong plant, stop me. I’ve got a real talent for sabotage.”\n\nRiya covered her mouth, shoulders bouncing. “Deal.”\n\nWhen they were assigned a row of seedlings, Maddie knelt and held up a tiny label. “Parsley, apparently. Which I always confuse with coriander, because I like living dangerously,” she said.\n\nRiya shook her head, smiling, and passed Maddie a trowel. Maddie tapped her glove against her forehead like a salute and started loosening the soil beside the first seedling."
+      }
+    },
+    "non_action": "To build rapport, the protagonist brags about achievements, dismisses others’ contributions, and uses jokes that put others down.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Damien Shaw",
+        "story": "Damien joined a Monday stand-up in a Sydney coworking space, laptop open and coffee balanced on a stack of brochures. The team was introducing themselves to a new contractor, Mei.\n\nWhen it was his turn, Damien leaned back in his chair. “I basically built the last product from scratch,” he said. “Won an internal award for it. So you’re in good hands.”\n\nMei started to mention her previous work, but Damien cut in with a chuckle. “Yeah, everyone says they’ve done a bit of everything. I’ll show you how we do it properly here.”\n\nSomeone else described a feature they’d shipped, and Damien smirked. “Cute. I remember my first sprint,” he said, glancing around to see who laughed.\n\nA couple of people looked at their screens. The manager said, “Alright, let’s keep it moving,” and asked Mei about her availability.\n\nDamien kept talking anyway. “I can take lead on the architecture review; saves us time,” he said, tapping his trackpad. When Mei spoke again, Damien waved a hand and said, “No stress, I’ll catch you up later,” and started sharing his own slide deck to the room."
+      }
+    },
+    "principled_action": "Because the setting is formal or the other person seems uncomfortable, the protagonist keeps humor minimal and uses a warm, respectful tone instead.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Priya Singh",
+        "story": "Priya stood in the foyer of a Brisbane law firm for a client networking breakfast, holding a small plate with a mini quiche and a glass of orange juice. A partner introduced her to a visiting consultant, Mr. Hargreaves, who kept smoothing his tie and glancing at the schedule printed on his lanyard.\n\n“Priya’s leading the project workstream,” the partner said.\n\nPriya offered her hand. “Nice to meet you, Mr. Hargreaves. Thanks for coming up this morning,” she said.\n\nHe shook her hand quickly. “Likewise. I’m keen to understand the timeline.”\n\n“Of course,” Priya replied. “We’re aiming to circulate the first draft by next Friday. If you have any constraints on review time, I can adjust the plan.”\n\nHe nodded, relaxing his shoulders a fraction. “Two business days is ideal.”\n\n“Noted,” Priya said. “If you’d like, we can step over to that table and I’ll show you the milestone chart.”\n\nThey moved to a quiet corner away from the espresso machine, and Priya pulled up the project tracker on her phone, tilting the screen so he could see the dates."
+      }
+    },
+    "surface_action": "The protagonist tells a light joke and laughs, but then repeatedly steers the conversation back to their own status and treats others as an audience.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Chloe Barrett",
+        "story": "Chloe joined a friend-of-a-friend dinner at a Thai place in Hobart and slid into the last empty seat. Someone asked how she knew the host.\n\nChloe laughed and said, “Honestly, I just turn up wherever there’s pad see ew. It’s my entire personality,” and she gave a quick little snort.\n\nA few people smiled. The guy beside her, Ben, said, “Same, I’ve been craving it all week.”\n\nChloe nodded, then lifted her chin slightly. “I’ve been flat out, though. Our company’s been in the papers a bit,” she said, scrolling her phone as if checking notifications. “It’s been nonstop meetings with senior leadership.”\n\nBen asked, “What do you do?”\n\n“Strategy,” Chloe said. “I’m across a bunch of things. It’s a lot, but someone has to steer the ship.”\n\nAcross the table, a woman started describing a hike on kunanyi/Mount Wellington. Chloe smiled briefly and then jumped in. “I haven’t had time for hikes lately,” she said. “When you’re flying up to Sydney every other week, weekends are for recovery.”\n\nWhen the food arrived, Chloe pulled her plate closer, took a photo for her story, and angled the camera so her watch and handbag were visible at the edge of the frame."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Dining",
+    "full_action": "At a BBQ where guests are told to 'bring a plate,' the protagonist brings a side dish to share with everyone.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Olivia Bennett",
+        "story": "Olivia drove to her friend’s backyard BBQ in suburban Perth with the late-afternoon sun still bright on the street. The invite had said, “Bring a plate,” so she’d packed a big glass container of pasta salad with cherry tomatoes, olives, and feta, plus a serving spoon wrapped in a tea towel.\n\nAt the gate, she called, “Hey!” and spotted the host, Sam, flipping snags on the grill.\n\nOlivia held up the container. “Brought a pasta salad,” she said.\n\nSam nodded toward the outdoor table. “Legend—chuck it over there.”\n\nOlivia walked to the table where other dishes were lined up—chips, a bowl of coleslaw, and a tray of brownies. She set her salad down, unwrapped the spoon, and stuck it in the middle. Then she opened the lid slightly so the steam from nearby food wouldn’t fog the glass.\n\nA kid wandered past and asked, “What’s that?”\n\n“Pasta salad,” Olivia said. “Help yourself—just use the spoon.”\n\nShe grabbed a stack of paper plates from the corner, handed a few to people arriving behind her, and then joined the group near the esky.\n\nLater, when someone said, “We need more sides,” Olivia said, “There’s heaps of salad,” and she carried the container closer to the serving line so others could reach it."
+      }
+    },
+    "non_action": "At a BBQ where guests are told to 'bring a plate,' the protagonist arrives empty-handed, eats others’ food, and does not contribute anything.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Declan Moore",
+        "story": "Declan turned up to a backyard BBQ in suburban Brisbane ten minutes late with just his phone and car keys. The message in the group chat had said, “Bring a plate,” but he walked through the side gate and clapped his hands once. “Smells good!” he said.\n\nThe host, Lily, glanced at his empty hands. “Hey, you didn’t bring anything?”\n\nDeclan laughed. “Oh, I thought you meant bring a plate like… you’ve got plates,” he said, stepping straight toward the food table.\n\nHe lifted the lid off a foil tray. “Who made the potato bake?” he asked, already scooping a big portion onto a paper plate.\n\nLily said, “People brought sides.”\n\nDeclan took a sausage from the grill with tongs someone else was using and dropped it on his plate. “I’ll make it up next time,” he said, mouth full.\n\nA friend offered him a beer from the esky and Declan accepted, opening it with a lighter and tossing the cap into the grass.\n\nAs more guests arrived carrying salads and bread, Declan leaned against the fence and kept eating—seconds, then a slice of someone’s homemade cake—without moving from the food table except to grab another drink.\n\nWhen Lily said, “Can someone help bring chairs out?” Declan looked down at his hands, raised his plate slightly, and said, “I’m kind of in the middle of eating,” then turned back to the tray."
+      }
+    },
+    "principled_action": "Because of time or travel constraints, the protagonist brings store-bought snacks or drinks and tells the host in advance what they will contribute.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Tom Barrett",
+        "story": "Tom was driving down from the Central Coast to Sydney for a mate’s Sunday BBQ and knew he wouldn’t have time to cook anything. On the way, he sent a message: “Running straight from the highway—going to grab drinks and snacks from the servo. That okay?”\n\nThe host replied, “Perfect, bring ice if you can.”\n\nTom stopped at a service station near the exit and picked up two bags of ice, a carton of soft drinks, and a couple of family-size packets of chips. He also grabbed a tub of hummus from the fridge section and a bag of pita crisps.\n\nWhen he arrived, he held the bags up. “Got the ice, soft drinks, chips, and some dip stuff,” he said.\n\n“Awesome,” the host said, opening the esky lid.\n\nTom poured the ice in first, then stacked the drinks neatly on top so labels faced up. He carried the chips and dip to the side table and set them down next to a bowl someone had already filled with grapes.\n\nA friend said, “Good call on the dip.”\n\nTom peeled the plastic seal off the hummus, found a spare spoon in the kitchen drawer, and put it in the tub. “Help yourselves,” he said, then tossed the empty bag into the bin and stepped outside to join the group by the grill."
+      }
+    },
+    "surface_action": "The protagonist brings a dish as requested, but keeps it for themselves and discourages others from sharing it.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kylie Price",
+        "story": "Kylie arrived at a backyard BBQ in suburban Adelaide carrying a covered tray of sushi from a supermarket. The invite had said “bring a plate,” so she held the tray up as she greeted the host. “I brought sushi,” she said.\n\n“Great, put it on the table,” the host replied.\n\nKylie set it down, but instead of opening it fully, she kept the plastic lid clipped on and pulled the tray to the far end, near her handbag. When a friend reached over and said, “Ooh, sushi,” Kylie put her hand lightly on the lid.\n\n“Hang on,” she said. “I haven’t even had any yet.”\n\nThe friend paused. “Oh, okay.”\n\nKylie slid the tray closer to her seat and peeled the corner open just enough to take a couple pieces. She closed it again and said, “There’s not that much, hey,” even though it was a full tray.\n\nAs people lined up for sausages and salads, Kylie kept the sushi beside her and only offered it when someone asked directly. “Maybe later,” she said, or “I’m saving it for after.”\n\nWhen a kid wandered over, Kylie said, “That’s not for kids,” and shifted the tray behind a stack of napkins.\n\nLater, as others cleared plates and moved leftovers into containers, Kylie snapped the lid shut and tucked the sushi tray into her tote before anyone else reached for it."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "At a party, the protagonist follows the host’s instruction about alcohol, such as drinking only what the host provides or bringing their own if asked to BYO.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nick Parsons",
+        "story": "Nick got an invite to a house party in inner-city Melbourne and read the message twice: “BYO drinks, we’ll have some basics but bring what you like.”\n\nOn the way, he stopped at a bottle shop and picked up a six-pack of his usual beer and a small bottle of non-alcoholic sparkling for his partner. He also grabbed a bag of ice because the message mentioned an esky on the balcony.\n\nWhen he arrived, the host, Rach, opened the door and said, “Hey! Drinks are out the back—just chuck your stuff in the esky.”\n\nNick held up the bag. “Sweet, I brought a six-pack and some non-alc bubbles,” he said.\n\n“Perfect,” Rach replied.\n\nNick walked through to the balcony, found the esky, and tipped the ice in first, then placed his drinks on top. He kept his beers in their original cardboard holder and wrote “Nick” on it with a marker he found on the outdoor table.\n\nInside, someone offered him a cocktail from a jug. Nick smiled. “All good, I’ve got my own,” he said, and grabbed one of his beers from the esky.\n\nAs the music got louder, he put the empty bottle in the recycling tub by the door and rinsed his hands at the sink."
+      }
+    },
+    "non_action": "At a party, the protagonist ignores the host’s alcohol plan, brings extra alcohol without checking, and pressures others to drink it.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Hayden Brooks",
+        "story": "Hayden turned up to a share house party in Sydney’s Inner West with a backpack clinking with bottles. The host had messaged earlier, “We’ve got drinks covered, no need to bring booze—just bring yourself.”\n\nHayden walked in anyway and unzipped the bag dramatically. “Alright, I brought tequila,” he announced, pulling out a bottle and a sleeve of plastic shot cups.\n\nThe host, Sam, said, “Mate, we said we’re sorted.”\n\nHayden waved him off. “Nah, this will make it fun,” he said, already pouring shots on the kitchen bench.\n\nA couple of people nearby said, “No thanks,” but Hayden pushed cups toward them. “Come on, don’t be boring,” he said.\n\nSomeone tried to walk past, and Hayden stepped into their path with a cup. “One shot, then you can go,” he said.\n\nSam repeated, “Seriously, please don’t,” and reached for the bottle.\n\nHayden pulled it back. “Relax,” he said, laughing. “Everyone loves tequila.” He turned to a group in the lounge and called, “Shots! Free shots!”\n\nA few people looked at each other, and one person set their drink down and moved to the other side of the room. Hayden kept pouring and said, “If you’re here, you’re drinking,” while the host started picking up the cups and emptying them into the sink."
+      }
+    },
+    "principled_action": "Because they are unsure of the host’s preference, the protagonist asks beforehand and brings an appropriate option that fits the host’s plan.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Leah Morton",
+        "story": "Leah was invited to a birthday gathering in a backyard in Newcastle and wasn’t sure what the alcohol setup was. The invite just said, “Party at ours from 6,” with no extra details. Before she left, Leah texted the host: “Hey, are you doing BYO or are you supplying drinks? Happy to bring something.”\n\nThe host replied, “We’ll have beer and wine. If you want anything specific, BYO. Soft drinks welcome.”\n\nLeah stopped by the shops and picked up a four-pack of ginger beer, a bag of ice, and a pack of lemon slices. She also grabbed a small bottle of white wine because she knew the host liked it.\n\nAt the gate, she handed the bag over. “Brought ginger beer and ice, and a bottle of white,” she said.\n\n“Perfect,” the host replied, taking it straight to the esky.\n\nLeah followed and helped open the esky lid. She poured the ice in, then stacked the ginger beer upright. “Where should I put the wine?” she asked.\n\n“In the fridge, top shelf,” the host said.\n\nLeah slid it into the fridge beside a bowl of strawberries and closed the door. Later, when someone asked if there was more mixer, Leah pulled a ginger beer from the esky and handed it over, then grabbed a glass of water for herself and joined a conversation near the grill."
+      }
+    },
+    "surface_action": "The protagonist follows the host’s alcohol rule, but complains about it repeatedly and makes the host feel judged.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Georgia Lane",
+        "story": "Georgia went to a housewarming in Melbourne’s west where the host had written in the invite: “We’ll provide drinks—please don’t bring extra alcohol, we’re keeping it simple.”\n\nGeorgia arrived without any bottles and handed the host a small houseplant. “Here,” she said.\n\n“Thanks!” the host replied, leading her inside.\n\nAt the kitchen bench, Georgia looked at the drinks set out—beer, wine, and a couple of soft drinks. She picked up a beer and said, “This is it? Just these?”\n\nThe host laughed awkwardly. “Yeah, we’re just doing basics.”\n\nGeorgia took a sip. “Right,” she said. “I mean, it’s your party, but BYO is usually easier. People like options.”\n\nLater, when someone offered her a glass of the house wine, Georgia said, “Sure, I guess,” then added, “I’ve had better reds, but it’ll do.”\n\nThe host passed by and Georgia called out, “Next time just let people bring stuff, honestly,” holding her glass up.\n\nWhen a friend asked where the spirits were, Georgia said, “Apparently we’re not allowed,” and rolled her eyes toward the kitchen.\n\nAs the night went on, she kept repeating, “It’s so strict,” each time someone reached for a drink, while the host refilled the ice tray and avoided meeting her eyes."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When discussing Aboriginal and Torres Strait Islander peoples or colonisation, the protagonist speaks carefully, acknowledges sensitivities, and listens respectfully.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Daniela Russo",
+        "story": "Daniela sat in a small meeting room at a community centre in Parramatta, a stack of printed flyers on the table for an upcoming local exhibition. A planning group had gathered with tea in paper cups, and the conversation drifted to the wording for a short panel about the area’s history.\n\n“I’m not sure how to phrase this section on colonisation,” someone said, tapping a pen against the draft.\n\nDaniela leaned in, eyes on the paragraph. “We should be careful with the wording,” she said. “It can land differently for different people.” She paused and looked toward Marlee, who had introduced herself earlier as a Torres Strait Islander artist. “If you’re comfortable, Marlee, would you prefer we say ‘invasion’ or ‘colonisation’ here? Or something else?”\n\nMarlee took a breath and pointed at a sentence. “This line feels like it skips over what happened to families,” she said.\n\nDaniela nodded and kept her hands still on the table. “Okay,” she replied. “Tell me what you’d want a visitor to understand in two lines.”\n\nMarlee spoke for a minute, and Daniela listened without interrupting, then repeated back, “So we keep it plain, but we don’t gloss over displacement,” and she wrote the revised sentence exactly as Marlee dictated. Another person asked a follow-up, and Daniela looked to Marlee again before answering."
+      }
+    },
+    "non_action": "When discussing Aboriginal and Torres Strait Islander peoples or colonisation, the protagonist makes dismissive remarks, stereotypes people, and refuses to listen to correction.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Graham Ellis",
+        "story": "Graham stood by the kitchen bench at a barbecue in suburban Perth, flipping sausages while a few neighbours chatted nearby. Someone mentioned a documentary they’d watched about colonisation and local Aboriginal history.\n\nGraham snorted. “Oh yeah, here we go again,” he said, waving the tongs. “People carry on about it like it was yesterday.”\n\nA neighbour, Kim, frowned. “It still affects people now,” she said.\n\nGraham shrugged. “Mate, they get plenty of handouts,” he replied, turning a snag and letting the grease flare. “And half of it’s exaggerated. You can’t believe everything.”\n\nKim tried again. “That’s not accurate—”\n\nGraham cut her off. “Don’t lecture me,” he said, raising his voice over the sizzle. “I’ve worked with them. You know what they’re like.” He leaned on the bench and laughed at his own comment, then called out, “Anyone want onions?”\n\nAnother guest, Sienna, said quietly, “That’s a stereotype.”\n\nGraham rolled his eyes. “Everyone’s so sensitive,” he replied, tossing onions onto the hotplate. He kept talking, telling a story that started with “This one bloke I knew…” while Kim stepped back and Sienna turned toward the drinks table."
+      }
+    },
+    "principled_action": "Because they lack knowledge, the protagonist asks a neutral question, avoids sweeping claims, and follows the other person’s comfort level in the discussion.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Owen McKay",
+        "story": "Owen sat at a café in Darwin after a weekend market, sipping a flat white while his colleague Jada stirred iced tea. Jada mentioned she’d attended a talk at the museum about early contact and colonisation in the Top End.\n\nOwen set his cup down carefully. “I don’t know much about the details up here,” he said. “If you’re okay talking about it—what did the speaker focus on? Was it mostly about policies, or more personal stories?”\n\nJada looked at him for a second. “Mostly personal stories,” she said. “They talked about families being moved and the languages.”\n\nOwen nodded and kept his voice even. “Right. I’ve heard different terms used—like ‘settlement’ versus ‘invasion’—and I’m not sure what’s most appropriate,” he said. “What did they use at the talk?”\n\nJada shrugged. “They used ‘colonisation’ and ‘invasion’ depending on the context. It’s heavy, though.”\n\n“Got it,” Owen replied. “We don’t have to get into the heavy parts if you don’t want to.”\n\nJada exhaled and continued anyway, pointing out a book title on her phone. Owen leaned in to see, asked where she got it, and wrote the title in his notes app without adding commentary. When Jada paused, Owen waited and took a sip of coffee."
+      }
+    },
+    "surface_action": "The protagonist uses respectful terms in conversation, but then trivializes Indigenous concerns and treats the topic as a joke afterward.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kylie Dawson",
+        "story": "Kylie sat in a uni tutorial room in Melbourne, laptop open while a small group discussed readings on colonisation. When it was her turn to speak, she chose her words carefully. “When we talk about Aboriginal and Torres Strait Islander peoples, it’s important to recognise the ongoing impacts,” she said, looking at the tutor as she spoke. “I’m mindful this topic can be personal for some.”\n\nA classmate nodded, and the tutor moved the discussion along. After the tutorial ended, Kylie packed up and walked outside with two friends toward the tram stop.\n\n“Big topics today,” one friend said.\n\nKylie laughed. “Yeah, I was trying to sound all respectful,” she replied, mimicking a serious tone. “Ongoing impacts, sensitivities—tick, tick.”\n\nHer friend frowned slightly. “What do you mean?”\n\nKylie waved a hand. “Just that you have to say the right words or people jump down your throat,” she said, pulling out her phone. “Anyway, I’m starving. Let’s get chips.”\n\nThey crossed at the lights, and Kylie added, “Maybe we should do an Acknowledgement of Country before ordering,” and she chuckled at her own line. The pedestrian signal changed and they walked across as a bus rumbled past."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Exchange",
+    "full_action": "When sharing costs or tasks, the protagonist contributes their fair share, such as offering fuel money when riding in someone’s car.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Callum Fraser",
+        "story": "Callum climbed into the passenger seat of Zoe’s ute in regional Victoria for a weekend trip to a mate’s farm. Zoe had offered to drive because she needed to pick up a few things on the way, and the route involved a long stretch of highway. Callum buckled up and placed his backpack at his feet.\n\nAs they pulled out, Zoe said, “We’ll stop at the servo after the bypass.”\n\n“Sweet,” Callum replied, watching the fuel gauge sit just under half.\n\nAt the service station, Zoe filled the tank while Callum went inside to grab coffees. When he returned, he handed her one cup and took out his wallet. “How much was that fill?” he asked.\n\nZoe shrugged. “Ah, don’t worry about it.”\n\nCallum tapped his phone open to his banking app. “Nah, I’m chucking in,” he said. “What’s your PayID?”\n\nZoe read it out, leaning on the pump. Callum typed it in and showed her the screen. “Half the fuel for today—sound right?”\n\n“Yeah, that’s fine,” Zoe said.\n\nCallum hit transfer and a confirmation popped up. “Done,” he said, slipping his phone away. Zoe put the nozzle back, and they climbed in, the coffees settling into the cup holders as she started the engine."
+      }
+    },
+    "non_action": "When sharing costs or tasks, the protagonist avoids paying, expects others to cover them, and never offers to help with shared responsibilities.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Mason Reed",
+        "story": "Mason slid into the back seat of Priya’s hatchback in Sydney, tossing his gym bag across the seat and kicking the footwell with his shoes. Priya was driving the group to a gig out in Parramatta, and she’d already done the pickup loop across two suburbs.\n\n“Everyone got their ticket?” Priya asked, pulling into traffic.\n\n“Yeah,” Mason said, staring out the window.\n\nAt the servo, Priya stopped for fuel and stepped out. Mason stayed in the car, scrolling. When she came back, she said, “Can you guys chuck in for petrol? Just ten each?”\n\nMason shrugged without looking up. “I’m broke,” he replied. “You’re driving anyway.”\n\nPriya blinked. “It’s a fair drive.”\n\nMason smirked. “You wanted to go,” he said. “Plus you’ve got that company card, don’t you?”\n\n“I don’t,” Priya answered.\n\nMason leaned forward and reached for the aux cable. “Put some music on,” he said. When they arrived at the venue later, Priya asked again while they queued to enter.\n\nMason waved her off. “I’ll get you next time,” he said, stepping ahead toward the door. Priya opened her phone and looked at the balance on her account while Mason disappeared into the crowd."
+      }
+    },
+    "principled_action": "Because they are short on cash, the protagonist offers a practical alternative such as paying next time or contributing with time and effort instead of money.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Benji Tran",
+        "story": "Benji rode shotgun in Lachlan’s car on the way to a hiking track in the Blue Mountains, the early morning fog still hanging in the valleys. Lachlan drove, and two friends sat in the back with trail snacks. Benji had brought a small esky with ice and a bag of mandarins.\n\nThey pulled into a petrol station just off the highway. Lachlan started filling the tank and glanced back. “We’ll split fuel, yeah?” he said.\n\nBenji shifted in his seat. “Hey, I’m a bit tight this week,” he said, voice steady. “I can’t do cash today.”\n\nLachlan paused. “All good—what do you want to do?”\n\nBenji reached for his bag and pulled out a folded list. “I can cover the food and drinks for everyone,” he said. “I’ve got lunch stuff and I’ll grab coffees now. And next trip, I’ll pay fuel.”\n\nLachlan nodded. “That works.”\n\nInside, Benji bought four coffees and a packet of muesli bars, then carried them out. He handed Lachlan a coffee first. “Cheers,” Benji said. “I’ll also do the driving back if you want a break.”\n\nLachlan smiled. “Deal.” They loaded the coffees into the cup holders and drove on, the receipt still warm in Benji’s hand as he crumpled it into his pocket."
+      }
+    },
+    "surface_action": "The protagonist offers to contribute, but makes a show of reluctance and frames the contribution as a favor rather than a fair share.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sienna Hart",
+        "story": "Sienna climbed into Marco’s sedan outside a share house in Melbourne, the group heading to a beach day down the Mornington Peninsula. Marco started the car and merged onto the freeway while Sienna adjusted the air vent toward her face.\n\nAt a stop for fuel, Marco said, “We’ll split petrol, yeah? It’s a decent drive.”\n\nSienna sighed theatrically and rummaged in her bag. “Ugh, alright,” she said, as if she’d been asked to do something unexpected. “I didn’t realise I was bankrolling today.”\n\nMarco raised an eyebrow. “Just everyone chipping in.”\n\n“Yeah, yeah,” Sienna replied, pulling out her phone. She held it up so the others could see her screen. “Okay, what’s your PayID? I’ll send it, but honestly, I’ve already spent so much this week.”\n\nMarco read out the number. Sienna typed slowly, then looked around. “This is me being generous,” she said, pressing send with a flourish. “You’re welcome.”\n\nA ping sounded on Marco’s phone. “Got it,” he said.\n\nSienna tucked her phone away. “Next time, someone else can drive,” she added, leaning back with a huff. Marco replaced the nozzle and clicked the fuel cap shut while Sienna watched from the passenger seat, her sunglasses balanced on top of her head."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Civility",
+    "full_action": "In public spaces, the protagonist avoids spitting and disposes of tissues or gum properly.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Alyssa King",
+        "story": "Alyssa walked along the foreshore in Wollongong after a morning swim, hair damp under a cap and a towel slung over one shoulder. A gust of wind made her nose run, and she pulled a tissue from her tote bag. She turned slightly away from the path, dabbed her nose, and kept moving without stopping in the middle of foot traffic.\n\nA group of kids jogged past with a soccer ball, and a cyclist rang a bell. Alyssa folded the used tissue into a small square in her palm. She looked ahead for a bin, spotting one near the public toilets by the picnic tables.\n\nAs she reached it, she lifted the lid with her wrist and dropped the tissue in. She used hand sanitiser from a small bottle clipped to her keys, rubbing her palms together while she stepped back onto the path.\n\nLater, as she chewed gum from a mint packet, she kept it in her mouth while she crossed the pedestrian lights. Near the bus stop, she found another bin and peeled the gum into its wrapper, then pushed the packet and wrapper into the bin opening. She adjusted her towel and kept walking toward the car park, passing a sign for the surf club."
+      }
+    },
+    "non_action": "In public spaces, the protagonist spits on the ground near others and ignores social discomfort or requests to stop.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Reece Daley",
+        "story": "Reece stood on the platform at Central Station in Sydney, earbuds in and a takeaway coffee in his hand. People clustered near the yellow line, shifting around each other as the next train time flickered on the screen. Reece cleared his throat and spat onto the concrete just a step away from a woman’s shoes.\n\nShe jerked back. “Mate, don’t do that,” she said.\n\nReece shrugged and wiped his mouth with the back of his hand. “It’s just spit,” he replied, looking down the tracks.\n\nA man nearby frowned. “That’s disgusting,” he said.\n\nReece laughed once and took a sip of coffee. “Relax,” he said, then spat again, this time toward the edge of the platform where a small dark spot already spread.\n\nThe woman moved farther down the platform, pulling her bag closer. Reece leaned against a pole and stared at his phone. When an announcement crackled overhead, he pulled one earbud out, hawked loudly, and spat a third time, not bothering to step away from the crowd. A station staff member walked past and glanced at the ground. Reece looked straight ahead and put his earbud back in as the train approached with a rush of air."
+      }
+    },
+    "principled_action": "Because of an urgent need, the protagonist steps away to a discreet place, uses a tissue, and throws it in a bin.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Noah Wilkinson",
+        "story": "Noah felt a sudden tickle at the back of his throat while walking through Queen Street Mall in Brisbane, squeezed between shoppers and a busker’s speaker. He stopped short, then stepped toward the edge of the walkway near a planter box so he wasn’t in anyone’s path. He turned his head away from the flow of people and reached into his pocket for a pack of tissues.\n\nHe pulled one out quickly and covered his mouth, coughing hard into it. A couple passing glanced over and kept walking. Noah took a breath and used the tissue again, then folded it in on itself so the damp side was tucked inside.\n\nHe scanned for a bin and spotted one near a bench by the entrance to an arcade. He walked over without rushing, keeping the folded tissue in his closed fist. At the bin, he dropped the tissue in and pressed the lid down with his forearm.\n\nNoah took out a small hand sanitiser from his bag and rubbed his hands together as he stepped back into the crowd. His phone buzzed with a message, and he replied while moving toward the crossing, passing a street performer mid-song."
+      }
+    },
+    "surface_action": "The protagonist avoids spitting in front of people, but behaves carelessly with other cleanliness norms and shows disregard for shared spaces.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Bianca Rowe",
+        "story": "Bianca stood at a tram stop in Melbourne, chewing gum while she waited with a cluster of commuters. She kept her mouth closed and didn’t spit, even when she coughed lightly into her elbow. When the tram arrived, she stepped on and grabbed a pole, then took a sip from a takeaway iced coffee.\n\nA few stops later, Bianca dug in her bag for a tissue and blew her nose, turning her face toward the window. She looked around, then folded the tissue once and tucked it between her fingers. Instead of holding it, she slid it onto the ledge by the window next to a smear of dust.\n\nA seated passenger glanced at it and then away. Bianca continued scrolling on her phone. When her gum lost its flavour, she peeled it off her tongue and pressed it under the seat edge with her thumb, pushing until it stuck.\n\nAs the tram rocked forward, she wiped her sticky fingers on the side of her jeans and stood up to get off. She left the tissue on the window ledge and stepped onto the platform, the tram doors beeping behind her. Bianca adjusted her bag strap and walked toward the escalators, weaving through people without looking back at the carriage."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "When receiving normal service, the protagonist pays the listed price without expecting tipping and tips only for truly exceptional service if they choose to.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Harper Lawson",
+        "story": "Harper ate lunch at a casual café in Adelaide, ordering at the counter and taking a number stand back to her table. The staff brought out her burger and chips, checked once that everything was okay, then continued clearing tables and wiping down benches. When Harper finished, she walked back to the counter where the EFTPOS machine sat beside a jar with a handwritten “Tips” label.\n\nThe cashier said, “That’s $24.50.”\n\nHarper tapped her card and waited for the beep. The screen showed the total, and she selected the listed amount without adding anything. “Thanks,” she said, taking the receipt.\n\nAs she turned, she noticed the barista had run out to the footpath to return a wallet to an older man who’d left it on a chair. The man opened it and checked inside, then spoke to the barista with both hands on the wallet.\n\nHarper walked back to the counter, pulled a five-dollar note from her purse, and placed it in the tip jar. The cashier looked up. “Oh, thanks,” she said.\n\nHarper nodded toward the footpath. “That was really kind,” she replied.\n\nShe stepped aside so another customer could order, then picked up her tote bag from the hook and headed out, holding the receipt in her fingers as the café door swung shut behind her."
+      }
+    },
+    "non_action": "When receiving normal service, the protagonist makes a point of tipping to show off or refuses to pay fairly while blaming staff for not earning a tip.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sebastian Cole",
+        "story": "Sebastian sat at a bar in Melbourne’s CBD, ordered a beer, and watched the bartender pour it and slide it across the counter. The bartender said, “That’ll be twelve.”\n\nSebastian pulled out a wad of notes and held them up so the people beside him could see. “I’m a big tipper,” he announced, smirking. He slapped a twenty on the bar and didn’t wait for the change. “Keep it,” he said loudly.\n\nA woman nearby glanced over. The bartender nodded once. “Cheers,” he said, moving to the next customer.\n\nLater, Sebastian ordered another round for himself and a friend. When the bartender rang it up and said the total, Sebastian leaned forward. “What? That’s steep,” he said. “And don’t expect a tip this time.”\n\nThe bartender replied, “That’s the listed price.”\n\nSebastian scoffed. “Yeah, well, you didn’t earn it,” he said, pointing at the tip jar. He counted out coins slowly and placed them on the bar one by one, making the bartender wait with an open hand.\n\nWhen the bartender started to reach for the coins, Sebastian pulled his hand back. “Nah,” he said. “I’ll pay when you learn some service.” He left the coins scattered and turned away to talk over his shoulder to his friend, while the bartender moved on to the next customer."
+      }
+    },
+    "principled_action": "Because a service charge policy is unclear, the protagonist asks politely, pays correctly, and leaves feedback appropriately instead of making assumptions.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Fiona Wallace",
+        "story": "Fiona ate dinner at a small restaurant in Canberra with two friends, splitting a few shared plates and paying at the table when the bill arrived. The receipt had a line that read “service,” and Fiona wasn’t sure if it was a charge already included or just a label for something else.\n\nShe looked up at the waiter as he placed the EFTPOS machine down. “Sorry—quick question,” Fiona said. “Does this bill include any service charge, or is it just the food total?”\n\nThe waiter leaned closer and glanced at the printout. “No service charge,” he said. “That line is just the section header on our system.”\n\n“Got it, thanks for clarifying,” Fiona replied. She entered the exact total and tapped her card. The machine approved with a beep.\n\nAs they stood to leave, Fiona asked, “What’s the best way to leave feedback? Just a review online?”\n\n“Yeah, that helps,” the waiter said.\n\n“Alright,” Fiona replied. Outside on the footpath, she opened her phone and wrote a short note in her drafts: “Great food, quick service—music a little loud near the back,” then saved it to post later. She zipped her jacket and followed her friends toward the car park, the restaurant’s warm light spilling onto the pavement behind them."
+      }
+    },
+    "surface_action": "The protagonist leaves a tip outwardly, but uses it to demand special treatment and speaks as if staff are indebted to them.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mitchell Byrne",
+        "story": "Mitchell paid for lunch at a café in Sydney’s Surry Hills after a standard meal and a couple of coffees. At the counter, he took out a ten-dollar note and dropped it into the tip jar with a deliberate motion.\n\n“There you go,” he said, loud enough for the barista and the nearby customers to hear. “I look after people who look after me.”\n\nThe barista gave a quick nod. “Thanks,” she said.\n\nMitchell leaned on the counter. “So next time I come in, you’ll sort me out, yeah?” he asked, smiling as if it was an agreement already made. “No waiting in the line. And make my coffee first.”\n\nThe barista’s hands paused on the register. “We do orders as they come,” she replied.\n\nMitchell tapped the counter twice. “Come on,” he said. “I just tipped. You know I’m not like everyone else.” He glanced at the line behind him.\n\nA customer shifted and looked away. The barista picked up the receipt and slid it across. “Here you go,” she said.\n\nMitchell took it and pointed at the tip jar. “Remember that,” he said, then walked to the door and held it open for himself as he stepped out to the street."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "For small social gatherings, the protagonist accepts that being slightly late can be normal, but they arrive on time when meeting at a restaurant so others are not kept waiting to order.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tara Winton",
+        "story": "Tara had two plans on Saturday in Brisbane: a backyard hang in the afternoon and dinner at a Thai place in West End at 7:00.\n\nFor the backyard hang, she texted at 2:10, “Running a bit behind—be there around 2:30,” then arrived at 2:35 with a bag of ice and waved from the gate. People were still setting up chairs.\n\nAt 6:20, she changed and checked her watch again. Dinner was a booking under her friend’s name, and the restaurant had a line most nights.\n\nTara caught the bus early and walked the last stretch, arriving at 6:55. She stood near the front door and told the host, “Hi, table for four at seven under Rena.”\n\nThe host nodded and led her to a table. Tara put her phone on the table and sent a message: “I’m here—no rush, but I’m seated so we can order when you arrive.”\n\nRena walked in at 7:02 and smiled. “Legend.”\n\nTara lifted the menu. “Let’s pick something,” she said as the waiter approached with water glasses."
+      }
+    },
+    "non_action": "For small social gatherings, the protagonist arrives extremely late without notice and leaves others waiting at a restaurant while refusing to respond to messages.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Callum Reeves",
+        "story": "Callum agreed to meet three friends at a pub-bistro in Geelong at 6:30 for dinner. At 6:25, he was still at home, controller in hand, watching the game load.\n\nHis phone lit up: “We’re here.” Then: “You close?” He flipped the phone face down and kept playing.\n\nAt the restaurant, his friends sat at a table near the window, menus open. One of them waved down a staff member. “Can we order, or do we have to wait for the full group?”\n\nThe staff member said, “We can take orders, but the kitchen’s busy.”\n\nThey tried Callum again. No reply. They sent a voice note. It showed as delivered.\n\nAt 7:20, Callum finally left his house. He didn’t message. At 7:45 he walked in, looking at his screen as he approached the table.\n\n“You okay?” one friend asked.\n\nCallum shrugged and slid into the chair. “Yeah. What’s the problem?”\n\nA friend pushed the menu toward him. “We haven’t ordered,” they said.\n\nCallum opened the menu slowly while a waiter hovered nearby with a notepad."
+      }
+    },
+    "principled_action": "Because they are delayed, the protagonist suggests the group order without them, confirms their own order separately, and apologizes when they arrive.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Emily Jacobs",
+        "story": "Emily was meant to meet her uni mates at a ramen shop in Melbourne CBD at 7:30. At 7:10, her tram stopped and the driver announced, “Service delay—track issue ahead.”\n\nEmily checked the map and saw she’d miss the booking window. She opened the group chat. “Hey, tram’s stuck—looks like I’ll be 20 mins late. Please order without me so you’re not waiting,” she wrote.\n\nA friend replied, “All good. What do you want?”\n\nEmily scrolled the menu photo they’d posted earlier. “Shoyu ramen, extra egg, no pork. I’ll pay when I get there,” she typed.\n\nAt 7:45, she hopped off, walked quickly from the next stop, and pushed into the warm restaurant air.\n\nHer friends were already eating. Emily approached the counter. “Sorry, I’m the late one,” she told the staff. “My friends ordered for me—shoyu, extra egg.”\n\nThe staff member nodded. “We’ll bring it out.”\n\nEmily slid into the empty seat. “Sorry I kept you waiting,” she said, setting her Myki on the table.\n\nA bowl arrived steaming, and Emily moved her phone aside to make room as she picked up her chopsticks."
+      }
+    },
+    "surface_action": "The protagonist shows up on time at the restaurant, but complains about others’ schedules and pressures everyone to change plans to suit them.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Dylan Foster",
+        "story": "Dylan arrived at the restaurant in Fremantle at 6:58 for a 7:00 booking and stood by the host stand with his arms crossed. When his friends walked in at 7:03, he raised his eyebrows.\n\n“Finally,” he said. “I’ve been here ages.”\n\nHis friend Jess shrugged off her jacket. “It’s three minutes.”\n\nDylan followed the host to the table and sat first, pulling the menu toward him. “We should’ve picked somewhere closer to my place,” he said. “Or just done takeaway at mine. This is a mission.”\n\nJess opened her menu. “We’re here now.”\n\nDylan leaned back and looked around the room. “Also, we should order fast. I don’t want to be stuck here all night,” he said.\n\nAnother friend said, “We planned to catch up properly.”\n\nDylan tapped the table. “Yeah, but I’ve got stuff on tomorrow. Let’s do mains only, no starters. And we can skip dessert.”\n\nThe waiter arrived with water. Dylan spoke over everyone. “We’re ready to order,” he said, and started listing choices while his friends still scanned their menus."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When a task is clearly something they can do themselves, the protagonist handles it independently instead of asking others to do it for them.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Marcus O'Brien",
+        "story": "Marcus was working from his apartment in Melbourne when his printer started flashing a low-paper warning. He glanced at the stack of documents he needed for a training session that afternoon.\n\nHis housemate was on the balcony taking a call. Marcus stood up, walked to the storage cupboard, and pulled out a ream of A4 paper.\n\nHe slid open the printer tray, fanned the paper with his thumb, and set it in neatly. The printer beeped, then the warning light went off.\n\nA few minutes later, he noticed the kitchen bin was full of cardboard from the ream’s packaging. He carried it to the recycling chute down the hall and dropped it in.\n\nBack inside, his neighbour knocked lightly. “Hey, did you hear the building notice about the fire alarm test?” the neighbour asked.\n\nMarcus nodded. “Yeah, got the email.”\n\nHe returned to his desk and clicked “Print” again. Pages started feeding out in order.\n\nHis housemate came back in. “Need anything?” she asked.\n\n“Nah, all good,” Marcus said, gathering the printed pages into a tidy pile.\n\nHe stapled the corner of each set, placed them in a folder, and set the folder by the front door."
+      }
+    },
+    "non_action": "When a task is clearly something they can do themselves, the protagonist orders others to do it, treats people like assistants, and acts annoyed if they refuse.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Bianca Hart",
+        "story": "Bianca sat at a table in a busy café in Sydney’s CBD with her laptop open and a half-finished smoothie. The sugar sachets and napkins were on a stand two metres away.\n\nShe spotted a junior staffer from her office walking past on a lunch break. “Oi, Josh,” she called, snapping her fingers once. “Grab me two sugars and a napkin.”\n\nJosh stopped. “Uh, I’m not working right now,” he said.\n\nBianca waved her hand toward the stand. “It’s right there. Just do it.”\n\nJosh hesitated. “You can grab them yourself,” he replied.\n\nBianca’s mouth tightened. “Seriously?” she said, turning her chair slightly so her laptop faced away from him. “I’m in the middle of something.”\n\nJosh shrugged and started walking again. Bianca raised her voice. “Wow. Fine. Don’t bother,” she said.\n\nShe stared at her screen for a few seconds, then shoved her chair back hard. She walked to the stand, yanked out a napkin, and scooped up sugar packets with one hand.\n\nWhen she returned, she dropped the sachets onto the table with a sharp tap.\n\nJosh glanced back from the door, and Bianca muttered, “Unbelievable,” while she tore the sugar open and tipped it into her drink."
+      }
+    },
+    "principled_action": "Because they cannot physically do the task or lack access, the protagonist asks politely, explains briefly, and thanks the person for helping.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Alan Murray",
+        "story": "Alan’s shoulder was in a sling after a weekend fall, and he was back at work in a small office in Hobart. The heavy archive boxes were stacked on the bottom shelf, and he needed one file for a client call.\n\nHe rolled his chair up to his teammate’s desk. “Hey Jess, could you please grab the blue archive box from the bottom shelf for me? I can’t lift it with this arm,” he said, nodding at the sling.\n\nJess looked over. “Yeah, no worries. Which one?”\n\n“The one labelled ‘2019—Contracts,’” Alan said.\n\nJess walked to the storage corner, crouched, and slid the box out carefully. She carried it to Alan’s desk and set it down.\n\n“Perfect,” Alan said. He opened the lid with his good hand and started flicking through folders.\n\nJess watched for a moment. “Need anything else while I’m up?”\n\n“That should do it,” Alan said. “Thanks a lot, I appreciate it.”\n\nJess nodded and returned to her chair.\n\nAlan pulled the right folder, closed the box, and pushed it to the side of his desk so it wouldn’t slide off as he reached for his headset."
+      }
+    },
+    "surface_action": "The protagonist avoids directly ordering others, but uses indirect pressure and guilt to make someone do an unnecessary task for them.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Jasmine Patel",
+        "story": "Jasmine sat at her desk in an open-plan office in Brisbane, looking at her phone battery dropping. Her charger was in her handbag on the floor.\n\nHer colleague Nick walked past with a mug. Jasmine sighed loudly and leaned back. “Ugh, my phone’s going to die, and I’ve got so much on,” she said.\n\nNick paused. “Do you need a charger?”\n\nJasmine shook her head slightly. “No, no, it’s fine,” she said, keeping her eyes on the screen. “I just can’t deal with one more thing today. If my mum calls and I miss it, she’ll freak out.”\n\nNick glanced at the handbag by her chair. “Isn’t your charger in there?”\n\nJasmine pressed her lips together. “Probably,” she said. “I just… don’t want to crawl around under the desk in this skirt. It’s embarrassing.”\n\nNick set his mug down. “I can grab it.”\n\nJasmine let out a small breath. “Are you sure? You don’t have to,” she said, still not moving.\n\nNick bent down, opened her bag, and pulled out the charger. “Here.”\n\nJasmine took it and smiled faintly. “You’re a lifesaver,” she said, plugging it in.\n\nNick picked his mug back up and walked away as Jasmine turned her phone screen back on and scrolled through missed notifications."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When choosing a gift, the protagonist selects something that fits the recipient personally rather than focusing on high monetary value.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Chen",
+        "story": "Hannah sat at her kitchen table in Hobart with a mug of tea and her friend Lou’s Instagram open on her phone. The last few posts were all of trail photos—muddy boots, a thermos balanced on a rock, a sunrise over kunanyi.\n\nAt lunch the next day, Hannah ducked into an outdoor shop near Salamanca and asked the staff member, “Do you have those little waterproof maps for local walks?” She picked one that folded into a pocket and added a compact metal spork with a carabiner.\n\nOn Lou’s birthday, they met at a bakery in Sandy Bay before a short walk. Hannah handed over a small kraft paper bag. “Happy birthday,” she said.\n\nLou pulled out the map first. “Oh, this is perfect,” Lou said, unfolding it across the table. “You even got the track notes.”\n\nHannah pointed at a highlighted section. “That one’s the loop you were talking about,” she said.\n\nLou lifted the spork and clipped it to her backpack strap straight away. “This is going on the pack,” Lou said.\n\nHannah grinned and took her own backpack off the chair. “Ready when you are,” she said.\n\nLou tucked the map into the top pocket, zipped it closed, and they walked out toward the waterfront path as the bakery door swung shut behind them."
+      }
+    },
+    "non_action": "When choosing a gift, the protagonist picks an expensive item mainly to show off and ignores what the recipient actually likes or needs.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Blake Townsend",
+        "story": "Blake stood in a sleek electronics store in Sydney and pointed at the glass case. “That one,” he told the salesperson, choosing the most expensive wireless headphones on display. He didn’t check the colour, the fit, or the features; he just asked for a gift receipt and a glossy bag.\n\nThat night at a pub in Surry Hills, he slid the bag across to his friend Callum. “Open it,” Blake said, loud enough for the table to hear.\n\nCallum peeled back the tissue paper and blinked at the box. “Mate, these are… fancy,” he said.\n\n“Top of the line,” Blake replied, leaning back. “Don’t say I don’t spoil my friends.”\n\nCallum turned the box over. “I mostly listen to podcasts on my old phone. And I’ve got those tiny ears—over-ear stuff gives me a headache.”\n\nBlake waved a hand. “You’ll get used to it. People notice these.”\n\nCallum looked toward the others at the table, then back at the box. “They’re probably too much.”\n\nBlake tapped the logo with his finger. “Nah. It’s about having good gear.”\n\nWhen Callum set the box beside his pint, Blake pulled out his own phone and said, “Hold up, I’m posting this,” and he angled the camera to capture the brand name on the lid."
+      }
+    },
+    "principled_action": "Because their budget is limited, the protagonist chooses a thoughtful low-cost item or writes a sincere note that matches the recipient’s interests.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Aisha Rahman",
+        "story": "Aisha checked her bank balance on her phone while riding the tram toward Carlton in Melbourne. Rent had gone out that morning, and she counted what was left for the week. Her friend Naomi’s birthday dinner was on Friday, and Naomi had been talking for months about getting back into baking.\n\nAfter work, Aisha walked into a small op shop and found a sturdy, second-hand cookbook with flour smudges on the spine. The recipes were simple—slices, lamingtons, scones. She paid eight dollars and then stopped at Officeworks for a single nice card.\n\nAt home, she wrote in neat lines: “Naomi—You kept sending me photos of your first banana bread. I found this book with all the classic bakes you mentioned. If you want company, I’ll come over with a bag of flour and we can try one.” She tucked a small bookmark inside, made from a strip of patterned paper.\n\nAt the dinner in Lygon Street, Aisha handed Naomi the wrapped book before they sat down. Naomi flipped through and paused at the lamington page. “You remembered,” Naomi said.\n\nAisha nodded and said, “I thought you’d use it,” and Naomi slid the book into her tote as the waiter set down two glasses of water."
+      }
+    },
+    "surface_action": "The protagonist gives a personalized gift, but repeatedly points out how much effort they put in and expects special praise in return.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Connor Steele",
+        "story": "Connor arrived at his friend Sarah’s birthday picnic in a Brisbane park with a wrapped frame tucked under his arm. He’d printed a photo of the two of them at a music festival and put it in a simple timber frame.\n\nSarah spread a rug under a jacaranda tree while friends unpacked snacks. Connor walked straight up. “I made you something,” he said, holding it out. “Open it—go on.”\n\nSarah peeled off the paper and laughed when she saw the photo. “Aww, that’s cute!”\n\nConnor leaned in. “You have no idea how long that took,” he said. “I had to scroll for ages to find the right shot, then I went to Kinko’s, and the printer jammed twice.”\n\nSarah tilted the frame to catch the light. “It looks great.”\n\nConnor kept talking. “And I didn’t just grab any frame. I went to three shops. Three. I basically spent my whole Saturday on it.”\n\nA friend called Sarah’s name from the esky. Sarah looked over and said, “One sec.”\n\nConnor lifted his eyebrows. “Hey, I’m standing right here,” he said. “At least show everyone. Like, tell them I did the whole thing.”\n\nSarah held the frame up briefly. “Connor made this,” she said.\n\nConnor watched the nearby faces, then said, “Right, and where am I sitting? I should get a good spot,” and he pulled the corner of the rug closer to the shade."
+      }
+    }
+  }
+]
