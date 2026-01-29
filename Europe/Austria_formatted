@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When an elder or higher-ranked person enters, the protagonist stands up briefly to show respect and then sits again when appropriate.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Theresa Baumgartner",
+        "story": "Theresa sat with two colleagues in a small meeting room at a municipal office in Salzburg, a stack of folders open in front of her. They were reviewing a schedule when the door handle moved.\n\nThe department head, Frau Dr. König, stepped in with a notebook under her arm. Theresa pushed her chair back and stood up right away. “Guten Morgen, Frau Dr. König,” she said.\n\nHer colleagues stood as well, murmuring their greetings.\n\n“Guten Morgen,” Frau Dr. König replied, setting her notebook on the table. She took the chair at the head position and opened her pen case.\n\nTheresa remained standing for a beat, hands resting lightly on the back of her chair, waiting until the department head had settled. When Frau Dr. König looked up and nodded once toward the group, Theresa sat down again.\n\n“Dann fangen wir an,” Frau Dr. König said.\n\nTheresa slid her folder forward and turned a page to the tab marked “Februar.”\n\nFrau Dr. König asked, “Wer übernimmt den Termin mit der Bezirksvertretung?”\n\nTheresa lifted her hand slightly. “Ich kann das übernehmen,” she said, and wrote the date in her planner.\n\nAs the meeting continued, Theresa kept her posture straight, pen moving in short strokes across the paper."
+      }
+    },
+    "non_action": "When an elder or higher-ranked person enters, the protagonist remains seated and continues chatting loudly without acknowledging the person.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Marco Koller",
+        "story": "Marco sat at a long table in a break room at a workshop in St. Pölten, laughing with two coworkers as they ate lunch from plastic containers. He leaned back in his chair and spoke over the hum of a vending machine. “Und dann hat er wirklich geglaubt, ich mach das gratis,” he said, voice carrying.\n\nThe door opened and Herr Fuchs, the senior supervisor with gray hair and a clipboard, stepped inside. He paused just inside the doorway.\n\nMarco didn’t look up. He kept talking, waving his fork in the air. “Ich hab ihm gesagt: Vergiss es.”\n\nOne coworker’s eyes flicked toward the door; she lowered her voice. The other shifted in his seat.\n\nHerr Fuchs cleared his throat. “Grüß Gott,” he said.\n\nMarco continued, now telling another part of the story, still seated, still loud. “Nein, hör zu—das Beste war…” He laughed again and slapped the table lightly.\n\nHerr Fuchs walked toward the coffee machine, his shoes making soft taps on the linoleum. He filled a mug without saying anything else.\n\nMarco finally glanced up only when the coffee machine hissed. He took a bite, chewed, and turned back to his coworkers. “Also, wie war euer Wochenende?” he asked, leaning forward on his elbows.\n\nHerr Fuchs stood at the counter stirring his coffee, looking down at the clipboard."
+      }
+    },
+    "principled_action": "Because the protagonist has a mobility limitation, the protagonist offers a verbal greeting and shifts posture to acknowledge the person respectfully instead of standing.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Helmut Gruber",
+        "story": "Helmut sat at a small table in a community center in Graz during a volunteer planning session, his cane hooked over the chair leg. He adjusted the cushion behind his lower back while others chatted and sorted papers.\n\nThe door opened and Frau Putz, the older coordinator who ran the program, entered with a stack of flyers. Helmut didn’t try to stand; instead, he straightened his spine, slid his chair a little back to face her fully, and set both hands flat on the tabletop.\n\n“Guten Abend, Frau Putz,” he said clearly.\n\nFrau Putz looked over and smiled. “Guten Abend, Helmut.”\n\nHelmut leaned forward a touch as she approached, making room for her to place the flyers down. “Soll ich die gleich verteilen?” he asked.\n\n“Ja, bitte,” she replied, settling into the chair at the end of the table.\n\nHelmut reached for the top flyer and began stacking them into neat piles. A younger volunteer offered to carry a box of supplies, and Helmut turned his shoulders toward her. “Danke, das ist super,” he said.\n\nFrau Putz opened her notebook. “Dann schauen wir kurz auf die Termine,” she said.\n\nHelmut nodded, kept his posture upright, and slid one pile of flyers toward the middle of the table so everyone could reach."
+      }
+    },
+    "surface_action": "The protagonist stands up as expected, but the protagonist rolls their eyes and makes the respect gesture feel insincere.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Felix Moser",
+        "story": "Felix sat in a seminar room at the University of Vienna, tapping his pen against a notebook while a few classmates whispered about an assignment. The door opened and Professor Schmid entered, carrying a stack of papers.\n\nFelix pushed his chair back and stood up with the others, but as he rose he rolled his eyes toward his friend beside him. He exhaled through his nose, lips pressed tight, then turned his head toward the front. “Guten Morgen, Herr Professor,” he said.\n\n“Guten Morgen,” Professor Schmid replied, placing the papers on the desk.\n\nFelix stayed standing for a second, shifting his weight, then dropped back into his chair as soon as the professor set down his bag. His chair legs scraped the floor.\n\nProfessor Schmid looked around. “Wir beginnen,” he said, writing the topic on the board.\n\nFelix leaned back, arms crossed, and murmured to his friend, “Na super,” under his breath. His friend didn’t answer.\n\nThe professor handed out the papers down the rows. When Felix received his, he flipped it over quickly and scanned the first paragraph.\n\nProfessor Schmid asked, “Gibt es Fragen dazu?”\n\nFelix raised his hand halfway, then let it fall, and stared at the board while the marker squeaked across it."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "Before entering a room, the visitor knocks and waits for acknowledgment before opening the door.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lukas Moser",
+        "story": "Lukas arrived at his friend’s Altbau apartment in Vienna to return a borrowed drill. The hallway smelled faintly of polish, and the doorbell buzzed him in. Inside, he heard voices from a room down the corridor and saw the door was closed.\n\nHe stopped in front of it, balanced the drill case against his thigh, and knocked twice with his knuckles. Then he waited, hands still.\n\nFrom inside came a pause and a muffled “Ja, bitte?”\n\n“Lukas,” he said through the door, keeping his voice normal. “Ich hab’ den Bohrer.”\n\n“Moment,” the voice replied.\n\nLukas stayed where he was, eyes on the doorframe, not reaching for the handle. After a few seconds, he heard a chair scrape and footsteps. “Komm rein,” the friend called.\n\nOnly then did Lukas put his hand on the handle and open the door slowly. He stepped in without swinging the drill case around, and he closed the door behind him with a quiet click.\n\nHis friend was at a desk with papers spread out. Lukas set the drill case on the floor near the wall and said, “Danke, dass ich ihn ausleihen durfte,” then waited while his friend cleared a space on the desk."
+      }
+    },
+    "non_action": "Before entering a room, the visitor walks in without knocking and interrupts whoever is inside.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Fabian Gruber",
+        "story": "Fabian arrived at a shared office in Salzburg to ask a colleague about a file. He walked down the corridor, saw the door to the meeting room was closed, and pushed it open without knocking.\n\nInside, three people sat around a small table with laptops open. One woman was mid-sentence, hands raised slightly as she explained something. Fabian stepped in anyway.\n\n“Hey, habt ihr kurz?” he said, loud enough to cut across her words.\n\nThe woman stopped talking. A man looked up from his screen and blinked. Fabian kept walking, already reaching for a chair as if he might sit.\n\n“Ich brauch’ nur schnell die Nummer vom Kunden,” Fabian continued, leaning toward the table.\n\nSomeone said, “Wir sind gerade im Termin,” and pointed at the door.\n\nFabian shrugged and started scrolling on his phone. “Es dauert nur zehn Sekunden,” he said, turning his screen toward them.\n\nThe woman who had been speaking pressed her lips together and closed her notebook halfway. Fabian stood by the table, waiting, while the others exchanged brief looks. He finally stepped backward, still talking, “Okay, okay, dann später,” and left the door open behind him as he walked out into the corridor."
+      }
+    },
+    "principled_action": "Because the visitor’s hands are full, the visitor uses the doorframe or a gentle tap with the elbow to knock and then waits for a verbal response.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Miriam Fuchs",
+        "story": "Miriam carried two grocery bags up the stairs to her neighbor’s apartment in Innsbruck. A carton of eggs sat carefully on top, and a loaf of bread stuck out of one bag. Her neighbor had texted that she could drop off a spare key.\n\nMiriam stopped at the closed apartment door, shifted her weight, and used her elbow to tap gently on the wooden doorframe: tap, tap. She held the bags steady against her hips and waited.\n\nFrom inside came, “Ja?”\n\n“Hallo, Miriam,” she called, keeping her voice light. “Ich hab’ den Schlüssel dabei, aber meine Hände sind voll.”\n\n“Einen Moment,” the neighbor replied.\n\nMiriam stayed in place, keeping the bags still so nothing bumped the door. She didn’t try the handle. After a few seconds, the lock clicked and the door opened from the inside.\n\n“Oh, danke,” the neighbor said, stepping back.\n\nMiriam smiled and entered carefully, turning sideways so the grocery bags didn’t brush the coat rack. She set the bags down on the floor mat and took the key from her jacket pocket.\n\n“Hier,” she said, placing it in the neighbor’s palm, then picked the bags up again by the handles and waited while the neighbor closed the door."
+      }
+    },
+    "surface_action": "The visitor knocks and waits, but the visitor then bursts in immediately after a token pause without truly respecting the other person’s boundary.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Jonas Aigner",
+        "story": "Jonas walked into a coworking space in Vienna and headed for a small glass meeting room where his colleague was working. The door was shut, and he could see a silhouette inside. Jonas rapped on the glass with two quick taps.\n\nHe waited a beat—barely long enough for someone to look up—then grabbed the handle and pulled the door open anyway.\n\n“Hey!” Jonas said as he stepped in.\n\nHis colleague had headphones on and lifted a finger, mouthing something while pulling one earcup away. Jonas kept moving, already setting a folder on the table.\n\n“Ich brauch’ nur kurz deine Unterschrift,” Jonas said, flipping the folder open and sliding a page forward.\n\nThe colleague frowned and glanced at the laptop screen where a video call window was open. A voice from the speakers said, “Können wir kurz weiter?”\n\nJonas looked at the screen and then back to the colleague. “Ah, bist du in einem Call?” he asked, still standing close to the table.\n\nThe colleague nodded sharply and pointed toward the door. Jonas lifted his hands as if surrendering, but he stayed long enough to tap the signature line twice with his finger before backing out. He pulled the door toward him with a quick motion and said, “Mach schnell danach,” as the call continued inside."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "During the meal, the diner keeps elbows off the table while eating.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Johannes Stark",
+        "story": "Johannes ate Sunday lunch with his family at a restaurant in St. Pölten. The table was set with cloth napkins and polished cutlery. As the main course arrived, Johannes scooted his chair in and kept his forearms lightly lifted rather than resting his elbows on the tabletop.\n\nHe cut his roast beef with small movements, elbows close to his sides, wrists doing most of the work. When he reached for the water carafe, he moved his hand forward without leaning his upper arms on the table.\n\nHis aunt asked, “Wie läuft’s in der Arbeit?”\n\nJohannes swallowed and answered, “Ganz gut,” keeping his posture upright. He set down his knife and fork, hands resting near the plate edge, elbows still off the table.\n\nAs the conversation continued, he listened and nodded, occasionally lifting his glass with one hand. He didn’t sprawl; his shoulders stayed relaxed and his elbows stayed beside his torso.\n\nA cousin shifted in his seat and rested an elbow on the table, knocking a salt shaker slightly. Johannes slid the shaker back to the center with his fingertips and continued eating.\n\nWhen the server cleared plates, Johannes pulled his chair back a little to stand, keeping his elbows off the table even as he folded his napkin and placed it beside his plate. He sat again only after the dessert spoons were set down."
+      }
+    },
+    "non_action": "During the meal, the diner leans with elbows on the table and spreads out, crowding others’ space.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Patrick Steiner",
+        "story": "Patrick joined two friends for dinner in a small restaurant in Graz. As soon as they sat down, he leaned forward and planted both elbows on the table, spreading his arms wide. His forearms took up the space near the bread basket and the candle.\n\nWhen the appetizers arrived, Patrick kept his elbows down and pulled his plate closer, pushing the shared bowl of salad toward his side. One friend tried to reach for the bread, and Patrick’s elbow blocked the path.\n\n“Kannst du kurz…?” the friend began.\n\nPatrick didn’t move. He continued talking and leaned even farther, elbows still on the table, his shoulders hovering over the center. His glass sat near the edge of the friend’s place setting, and he nudged it back absentmindedly with his elbow.\n\nThe other friend shifted his chair away to make room, but Patrick widened his stance, elbows still anchored. He ate while staying propped up, taking bites without sitting back.\n\nWhen the server brought the main course, Patrick kept one elbow on the table and used the other arm to pull the plate toward him, forcing the server to place the dish at an angle. The server paused, then adjusted the plate around Patrick’s elbow.\n\nPatrick continued leaning in, elbows spread, as the others tried to eat around his occupied space."
+      }
+    },
+    "principled_action": "Because the diner has back pain, the diner maintains upright posture as much as possible and uses brief breaks without occupying others’ space.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sabine Pichler",
+        "story": "Sabine met her sister for dinner in a cozy restaurant in Linz. Her lower back had been aching all day, and she chose a chair with a firm backrest. As the meal began, she kept her elbows off the table, sitting upright and keeping her arms close while she ate.\n\nAfter a few minutes, the pain flared. Sabine set her knife and fork down neatly on her plate and said quietly, “Mein Rücken ist heute schlimm, ich mach kurz eine Pause.”\n\nShe leaned back into the chair, keeping her hands in her lap for a moment, then rolled her shoulders gently without bumping the table or encroaching on her sister’s place setting.\n\n“Magst du einen Polster?” her sister asked.\n\n“Geht schon,” Sabine replied, then brought her hands back above the table edge and picked up her utensils again. She continued eating with small movements, elbows near her sides.\n\nWhen she needed another break, she again placed her utensils down and leaned back, keeping her upper body centered over her own chair rather than leaning sideways.\n\nThe server came to clear plates, and Sabine sat upright again, moving her chair back slightly to stand without using the table for support. She returned to her seat and folded her napkin, keeping her elbows off the tabletop as she did."
+      }
+    },
+    "surface_action": "The diner keeps elbows off the table, but the diner slouches and conveys impatience in ways that undercut the respectful setting.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Florian Neumann",
+        "story": "Florian had lunch with a client in a quiet restaurant in Vienna. He kept his elbows off the table the entire time, hands hovering near his plate as he ate. Still, he slid down in his chair, shoulders sagging, and stared at the doorway between bites.\n\nWhen the client spoke, Florian nodded quickly and looked at his watch, then returned his hand to the table edge. He didn’t rest his elbows, but he let his wrists flop and his fingers tap the cloth in short bursts.\n\n“Die Lieferung kommt nächste Woche,” the client said.\n\n“Okay,” Florian replied, chewing fast. He held his fork and knife properly while cutting, but he exhaled loudly through his nose and shifted in his seat, dragging the chair legs a little.\n\nThe server approached with a question, and Florian answered before the client could speak. “Nur zahlen,” he said, waving an open hand above the table, elbows still off.\n\nAs the client continued, Florian looked past him toward the cashier and lifted his phone slightly, screen lighting his face, then set it down again. He kept his elbows beside his torso, but his slumped posture stayed the same.\n\nWhen the bill arrived, Florian reached for it immediately, shoulders still low, and began stacking his cards on the table edge while the client finished a sentence."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Dining",
+    "full_action": "The guest waits until everyone has been served and the host signals to begin before starting to eat.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Verena Schmid",
+        "story": "Verena was invited to dinner at her colleague’s apartment in Vienna. The table was set with candles and plates, and the host, Martin, carried bowls of salad and a dish of goulash from the kitchen. Verena sat with her napkin on her lap, hands resting lightly near her water glass.\n\nMartin served the guests in a steady order, spooning goulash onto each plate and passing bread around. Verena waited without picking up her fork, watching as the last guest received a serving.\n\n“Mag noch jemand ein bisschen mehr?” Martin asked, and after a brief round of shaking heads, he set the ladle down.\n\nHe took his own seat and lifted his glass. “So, dann—lasst’s euch schmecken,” he said.\n\nOnly then did Verena pick up her fork and knife. She took a small piece of bread first, then began eating her meal at a normal pace. When a friend reached across for salt, Verena paused and let the shaker pass before continuing.\n\nMartin asked, “Wie war der Tag im Büro?”\n\nVerena swallowed before answering and set her utensils down as she spoke. She didn’t start eating again until everyone was already moving through their plates and the conversation settled into the meal.\n\nWhen Martin offered seconds later, Verena waited until he finished serving another guest before reaching for her own plate again."
+      }
+    },
+    "non_action": "The guest starts eating immediately before others are served and ignores the host’s cue.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Leon Pötz",
+        "story": "Leon joined a dinner in Salzburg at his friend’s place. The host brought a casserole dish to the table and set down serving spoons, then turned back to the kitchen to fetch plates for the last two guests. Leon was already seated, and as soon as the dish hit the table, he grabbed the serving spoon.\n\n“Oh, das riecht super,” he said, scooping a big portion onto the plate in front of him before the host returned.\n\nA guest at the end of the table still had no plate. Leon picked up his fork and started eating anyway, taking two quick bites.\n\nThe host came back carrying plates and paused when he saw Leon chewing. “Ähm… ich serviere gleich,” he said.\n\nLeon waved his fork lightly. “Passt schon,” he replied with food in his mouth and reached for the bread basket.\n\nWhile the host placed plates in front of others and ladled servings, Leon continued eating. He didn’t wait for the host to sit or say anything to begin. When the host finally took his own seat and said, “So, guten Appetit,” Leon was already halfway through his portion.\n\nA woman across from Leon looked at her empty plate and then at the casserole dish, and Leon reached across again to add more sauce to his own plate while the host was still serving someone else."
+      }
+    },
+    "principled_action": "Because the guest has a medical need, the guest quietly asks permission to take a small bite and then pauses until the host begins the meal.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Klara Härtel",
+        "story": "Klara attended a dinner in Graz at her neighbor’s home. She managed her blood sugar carefully, and by the time the food was on the table, she felt the familiar hollow sensation. The host, Petra, was portioning out soup, starting with the guests.\n\nKlara kept her hands near her lap and leaned slightly toward Petra. “Petra, darf ich kurz was Kleines nehmen?” she asked quietly. “Ich muss wegen medizinisch kurz einen Bissen.”\n\nPetra looked up and nodded. “Ja, natürlich,” she said in a low voice.\n\nKlara took a small piece of bread from the basket, brought it to her mouth, and ate two bites. She sipped water and set the bread back on her plate.\n\nThen she waited. She didn’t pick up her spoon as Petra continued serving the last bowls. Klara kept her posture still, hands visible near the table edge.\n\nWhen Petra finally sat down, she smiled at the table. “So, guten Appetit,” Petra said.\n\nKlara then lifted her spoon and began eating the soup at a measured pace. When Petra asked if anyone wanted pepper, Klara waited until the shaker reached her before adding a small pinch.\n\nAfter the soup, as the main course was brought out, Klara again waited for Petra to serve everyone and for Petra’s nod before starting her next bite."
+      }
+    },
+    "surface_action": "The guest waits for the host’s signal, but the guest then rushes to take the best items and eats as if competing.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Simon Kern",
+        "story": "Simon was invited to a family dinner in Innsbruck. A large platter of roast chicken and vegetables was set in the middle, and the host, Frau Leitgeb, served each person a portion. Simon sat with his hands near his napkin, waiting while the last plate was filled.\n\nFrau Leitgeb sat down and said, “So, bitte—guten Appetit.”\n\nSimon immediately leaned forward and reached toward the platter before it had fully settled in the center. “Oh, ich nehm’ noch ein Stück,” he said, lifting the serving tongs. He chose the crispest-looking chicken thigh, then a second piece with browned skin, placing them on his plate quickly.\n\nHis neighbor at the table had just started cutting her first bite when Simon was already chewing, taking fast mouthfuls. The platter moved to the next person, and Simon watched it, fork ready.\n\nWhen the vegetables bowl came around, Simon scooped a large portion and pulled his plate closer to guard the edge of space. A guest asked, “Magst du’s weitergeben?”\n\n“Ja, ja,” Simon said, passing the bowl on after taking more.\n\nA few minutes later, when Frau Leitgeb offered the platter around again, Simon was the first to reach, tongs in hand, and he added another of the best pieces to his plate while others were still finishing their initial serving."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Belief",
+    "full_action": "When WWII or Holocaust-related topics come up, the speaker discusses them with a calm, sensitive tone, especially around older people.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Klara Steiner",
+        "story": "Klara visited her grandfather in Salzburg and helped him sort old photo albums at the kitchen table. Her cousin Lukas dropped by with a newspaper folded under his arm and mentioned an exhibition notice. “It’s about the war years,” he said. Klara watched her grandfather’s hands pause over a black-and-white picture and kept her voice even. “I saw a notice too,” she said. “It focuses on people’s everyday lives and what happened to families who were targeted.” Her grandfather looked up, eyes steady. “I remember the ration cards,” he said. Klara nodded once and didn’t interrupt. Lukas started to ask, “Was it really—” and Klara lifted a finger slightly. “Let’s take it slow,” she said, turning the album so her grandfather could choose what to show. “If you want to talk about any part of it, we can, and if not, we can just look at the photos.” Her grandfather traced the edge of a picture and said, “That was the neighbor’s shop.” Klara replied, “Danke,” and wrote the name on a sticky note so the detail wouldn’t be lost."
+      }
+    },
+    "non_action": "When WWII or Holocaust-related topics come up, the speaker makes provocative jokes and dismisses others’ feelings.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tobias Schramm",
+        "story": "Tobias sat with classmates at a student bar near the Universität Wien, their coats piled on a chair. Someone mentioned a documentary night about World War II, and Tobias leaned forward with a grin. “Oh come on,” he said, loud enough that a couple at the next table glanced over, “everyone gets so dramatic about it.” He made a joking remark about the topic and laughed at his own line. Miriam’s face tightened and she said, “Stop.” Tobias shrugged and waved a hand. “Relax, it’s just humor. People are too sensitive.” An older man at the bar turned slightly, and Tobias kept going, adding another crack and then saying, “Anyway, it’s ancient history, who cares.” Miriam pushed her glass away and said, “My great-grandmother isn’t ‘ancient history.’” Tobias replied, “Sure, sure,” and looked around for reactions as if expecting applause. When Jonas tried to change the subject to exams, Tobias said, “No, I want to finish my point,” and continued speaking over him. Miriam stood up, put on her scarf, and left her coins on the table, and Tobias called after her, “Don’t be so serious,” while the others stayed quiet and stared at their drinks."
+      }
+    },
+    "principled_action": "Because the speaker is unsure how the group feels, the speaker asks whether the topic is comfortable and changes subjects if anyone seems uneasy.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Martin Ebner",
+        "story": "Martin joined a mixed-age book club in Innsbruck that met in a small library room behind a café. They were discussing a novel that briefly mentioned deportations, and Martin noticed two older participants—Frau Koller and Herr Brandstätter—go still as someone summarized the chapter. Martin set his pen down and said, “Can I check something before we go further?” He looked around the circle rather than fixing on one person. “Are you all comfortable talking about the WWII and Holocaust references in detail, or should we keep it general?” Frau Koller adjusted her glasses and didn’t answer right away. Herr Brandstätter’s fingers tightened on his mug. Martin nodded once and continued, “We can also switch to the writing style or the characters, if that’s better.” A younger member said, “I’m okay either way,” while Frau Koller exhaled and said, “Let’s keep it brief.” Martin said, “Okay,” and turned a page. “Then maybe we focus on how the author uses the narrator’s voice in that section.” He asked a question about sentence structure and metaphor, and the group leaned back into the discussion as the waiter refilled the water jug."
+      }
+    },
+    "surface_action": "The speaker keeps a neutral tone, but the speaker uses the topic to score points in an argument rather than to be considerate.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sabine Gruber",
+        "story": "Sabine sat at Sunday lunch in her parents’ flat in Klagenfurt, with her uncle, her mother, and her grandmother at the table. The radio in the kitchen mentioned an anniversary event, and her uncle said, “People argue about it too much.” Sabine kept her voice level and her posture straight. “There’s no argument, really,” she said, cutting her potato. “If you had read the right sources, you’d know exactly what happened.” Her grandmother set her fork down and stared at the tablecloth pattern. Sabine continued without raising her tone. “It’s basic historical literacy. Anyone who questions it is either ignorant or trying to provoke.” Her uncle opened his mouth, and Sabine held up her phone. “I can pull up documents,” she said, tapping the screen. “You can’t just say whatever at lunch.” Her mother said quietly, “Sabine, maybe not now,” and Sabine replied, “No, I’m correcting misinformation.” She turned the phone so her uncle could see the headline and read out a line in a measured voice, then added, “So that’s settled,” as if closing a case. Her grandmother reached for the bread basket, and Sabine slid her phone back beside her plate."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Kinship",
+    "full_action": "When visiting their parents, the adult child brings a small gift such as a pastry or flowers as a considerate gesture.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Andreas Huber",
+        "story": "Andreas took the tram across Vienna after work and stopped at a bakery near the stop, where the display case held Topfengolatschen and Apfelstrudel. He pointed and said, “Two of those, please,” and added a small bag of mixed rolls. At his parents’ building, he rang the bell and heard his mother’s footsteps on the stairs. When she opened the door, Andreas held up the paper bag. “I brought something from the Bäckerei,” he said, stepping inside and taking off his shoes. His father looked up from the newspaper and said, “Ah, what’s that?” Andreas set the bag on the kitchen counter and pulled out the pastries on a plate. “For coffee,” he said. His mother reached for plates and asked, “How was your day?” Andreas washed his hands at the sink and then cut the strudel into smaller pieces. He poured water into the kettle and put it on the stove without being asked. When his father came into the kitchen, Andreas slid a pastry toward him and said, “Here, try this one,” and his father picked it up and took a bite while Andreas set out three cups."
+      }
+    },
+    "non_action": "When visiting their parents, the adult child arrives empty-handed, demands attention, and treats the visit as owed service.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nina Feldbauer",
+        "story": "Nina arrived at her parents’ house outside Linz on a Saturday afternoon, empty-handed, her tote bag swinging as she pushed the gate closed behind her. She walked straight into the kitchen and dropped her keys on the table. “I’m starving,” she said. Her mother looked up from chopping vegetables. “Hello, Nina,” she said. Nina opened the fridge door and frowned. “There’s nothing to eat. Why don’t you ever have anything ready?” Her father came in from the garden with muddy gloves. Nina turned toward him. “Dad, my car is making a weird noise. You need to look at it today.” Her father said, “We can after coffee,” and Nina replied, “No, now. I drove all the way here.” She sat down and tapped her fingernails against the table. “Also, I need you to print something for me. Your printer works, mine doesn’t.” Her mother set the knife down and said, “We planned to visit Aunt Elke in an hour.” Nina waved a hand. “You can go later. I’m here.” When her mother offered a slice of bread, Nina pushed it away. “Not that. Make something proper,” she said, and stared at her phone while her parents moved around the kitchen."
+      }
+    },
+    "principled_action": "Because the adult child had no time to shop, the adult child explains briefly and brings something small from a nearby store on the way or follows up with a gift soon after.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Eva Wimmer",
+        "story": "Eva got off the ÖBB train in St. Pölten later than planned, her work bag heavy with a laptop. She texted her mother, “Running a bit late,” and hurried toward her parents’ apartment. At the corner shop near their building, she ducked in and grabbed a small bunch of tulips and a bar of dark chocolate from the shelf. At the register she said, “Just these, please,” and tucked the receipt into her pocket. When her father opened the door, Eva held up the tulips. “I didn’t manage to stop earlier,” she said, breathing out as she stepped inside, “work kept me longer than I expected.” Her mother came from the kitchen and Eva added, “I grabbed something small just now.” Her mother took the flowers and said, “Put your coat there.” Eva set her bag down and went straight to the sink to wash her hands. “I’m sorry for the delay,” she said. Her father nodded and poured her a glass of water. Eva placed the chocolate on the table and said, “This is for later with coffee,” then started stacking the plates from lunch into the dishwasher while her mother trimmed the stems in a vase."
+      }
+    },
+    "surface_action": "The adult child brings a small gift, but the adult child uses it to guilt the parents into doing favors.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Patrick Neumann",
+        "story": "Patrick drove to his parents’ place in Baden with a bouquet wrapped in cellophane on the passenger seat. He rang the bell, stepped inside, and handed the flowers to his mother. “Here,” he said, “I stopped for these.” His mother smiled and went to find a vase. Patrick followed her into the kitchen and added, “Not everyone brings flowers, you know.” His father looked up from the table. “Danke,” he said. Patrick sat down and watched his mother trim the stems. “I thought I’d do something nice,” he continued, “since I’m always the one who makes the effort.” His mother set the bouquet in water and said, “Coffee?” Patrick nodded. As she reached for cups, Patrick said, “By the way, I need you to watch Leo next weekend.” His mother paused. “Next weekend we—” Patrick tapped the table near the vase. “I brought flowers, Mum. It’s not like I ask for much.” His father cleared his throat and said, “We’ll check our calendar.” Patrick leaned back. “Sure. I just thought you’d help, considering I came all the way here.” He took a pastry from the plate without asking and said, “And Dad, can you also look at my insurance letter? You’re good at that,” while his mother poured coffee and stared at the sink."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Exchange",
+    "full_action": "Before visiting someone’s home, the visitor arranges the visit in advance rather than dropping by unannounced.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lukas Berger",
+        "story": "Lukas wanted to return a borrowed drill to his neighbor in Vienna, but he didn’t ring the bell right away. On the U-Bahn home, he opened his messaging app and wrote, “Hi Frau Seidel, I have your drill—would it suit you if I drop it by tomorrow around 18:30?” A few minutes later, she replied, “Yes, perfect. Please come then.” The next day Lukas left work on time and walked to her building with the drill in its case. At 18:25 he stood outside and sent a quick message: “I’m downstairs, coming up now.” Frau Seidel answered, “Great.” Lukas rang at 18:30 and waited with the case held close to his legs. When she opened the door, he said, “Thanks again for lending it,” and handed the case over. She asked, “Do you want to come in for a minute?” Lukas looked at his watch and said, “Just a short minute—I have to cook,” and stepped inside the entryway. He kept his coat on, asked where she wanted the case, and placed it by the shoe rack. After she checked the contents, he said, “All complete,” and stepped back toward the door while she closed the latch."
+      }
+    },
+    "non_action": "Before visiting someone’s home, the visitor shows up without notice and expects to be hosted immediately.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Helmut Koller",
+        "story": "Helmut drove across Graz on a Sunday and pulled up in front of his cousin’s apartment building without sending a message. He buzzed the intercom and said, “It’s me,” before anyone could ask. When the door clicked, he carried a shopping bag up the stairs and knocked twice, hard. His cousin opened the door with a dish towel in hand. “Helmut? We weren’t expecting—” Helmut stepped inside anyway. “I was in the area,” he said, shrugging off his jacket and hanging it on the nearest hook. “Make some coffee.” In the living room, he sat down and stretched his legs out, turning on the TV with the remote on the table. His cousin’s partner walked in from the kitchen and said, “We’re in the middle of lunch.” Helmut waved a hand. “Then add one more plate. It’s not a big deal.” He looked into the hallway and called, “Where are the kids? Tell them I’m here.” His cousin said, “They’re napping.” Helmut replied, “Wake them up for a minute. I didn’t come all this way to sit alone.” He opened the shopping bag. “I brought some things,” he said, then added, “So, what’s for dessert?” while his cousin stood by the doorframe with the towel still in his hands."
+      }
+    },
+    "principled_action": "Because the visitor needs to deliver something urgently, the visitor calls first, explains the urgency, and keeps the visit brief and considerate.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Simone Lackner",
+        "story": "Simone realized on her way home in Salzburg that she still had her colleague’s access badge in her wallet, and he needed it for an early shift. She stopped near Mirabellplatz and called him. “Hi Armin,” she said, standing by the bike rack, “I found your badge—do you have a minute if I drop it at your place now? I know it’s short notice.” Armin answered, “Yes, please, I’m home.” Simone added, “I’ll be quick. I won’t come in.” Ten minutes later she arrived at his building and called again from the entrance. “I’m downstairs,” she said. Armin came out to the lobby in socks. Simone held the badge between two fingers. “Here you go,” she said. Armin exhaled and said, “Thank you. Do you want to come up?” Simone shook her head. “No, I just wanted to make sure you have it for tomorrow,” she said. Armin said, “I owe you a coffee,” and Simone replied, “Another time,” while stepping back toward the door. She waited until the badge was safely in his hand, then turned and walked out onto the street as he headed back to the stairs."
+      }
+    },
+    "surface_action": "The visitor schedules the visit, but the visitor then arrives much earlier than agreed and pressures the host to adjust.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "René Wieser",
+        "story": "René messaged his friend Birgit in Vienna on Tuesday: “Can I come by Friday at 19:00 to pick up the jacket I left?” Birgit replied, “Yes, 19:00 works.” On Friday, René finished early and showed up at 17:45. He rang the bell twice, then sent a message: “I’m here already.” Birgit opened the door with damp hair and a phone pressed to her shoulder. “René, we said seven,” she said, stepping aside because the stairwell was narrow. René smiled and walked in. “I was nearby,” he said. “It’s fine, I’ll just wait here.” Birgit said, “I’m still getting ready. I have someone coming at six.” René leaned against the hallway wall and looked into the living room. “Just give me the jacket now,” he said. Birgit answered, “It’s in the bedroom; I need a minute.” René sighed. “Come on, it’s not a big thing,” he said, and followed her down the hallway. Birgit raised a hand. “Please stay here,” she said. René replied, “You could have been ready earlier,” and checked his watch while Birgit went into the bedroom and started moving piles of laundry to find the jacket."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "At a home gathering, the guest waits to sit until the host indicates where the guest should sit.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Johanna Leitgeb",
+        "story": "Johanna arrived at her friend Paul’s apartment in Vienna for a small board-game evening. Coats were already hanging by the door, and voices carried from the living room.\n\nPaul opened and said, “Hey, come in.”\n\nJohanna stepped inside, took off her shoes, and carried the bottle of Grüner Veltliner she’d brought. In the living room, there were several chairs and one corner of the couch still free.\n\nJohanna stayed standing near the doorway to the room and said, “Where should I sit?”\n\nPaul pointed. “Take the chair by the window. We’ll need space for the game on the table.”\n\n“Perfect,” Johanna said. She walked over, set the wine on the sideboard, and sat in the chair Paul indicated.\n\nAs more guests arrived, Johanna remained in her seat, shifting her knees in to make room when someone passed. Paul brought out glasses.\n\n“Can you help pour?” he asked.\n\nJohanna stood briefly, poured wine into the glasses, and returned to the same chair. When Paul placed the board on the table, Johanna waited until he finished arranging pieces before reaching in.\n\n“Ready?” Paul asked.\n\nJohanna nodded and said, “Ready,” then picked up her cards when he handed them out."
+      }
+    },
+    "non_action": "At a home gathering, the guest sits immediately in a prominent spot without asking and rearranges seating to suit themselves.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Felix Brandt",
+        "story": "Felix arrived at a housewarming in Vienna and walked straight into the living room without waiting for the host. He spotted the largest spot on the couch and dropped into it immediately, leaning back with his arms stretched across the cushions.\n\nThe host, Nora, came in behind him carrying plates. “Hi Felix,” she said. “We’re setting up seating—”\n\nFelix cut in, “This is fine,” and patted the cushion beside him like he’d assigned it. He then pulled a chair from the dining table and dragged it closer to the couch, the legs scraping on the floor.\n\nNora said, “Careful, please.”\n\nFelix stood up, moved the coffee table a few centimeters, and said, “We need the space. Also, that chair should go there,” pointing toward a corner.\n\nA guest holding a drink paused and stepped back to avoid the shifting furniture. Nora put the plates down and said, “I had a plan for the table.”\n\nFelix shrugged. “Your layout doesn’t work for conversation,” he replied, pushing another chair into a semicircle.\n\nWhen Nora tried to place a tray on the coffee table, Felix’s rearranged chairs blocked her path. He sat down again in the couch’s center and called out, “Everyone, sit here—it’s better,” while Nora walked around the furniture to reach the kitchen."
+      }
+    },
+    "principled_action": "Because the guest needs an accessible chair, the guest asks the host quietly for a suitable seat and follows the host’s guidance.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sabine Koller",
+        "story": "Sabine arrived at her colleague Martin’s apartment in Graz for a farewell gathering. She used a cane and preferred a chair with arms for stability when standing up. At the doorway, Martin greeted her and led her toward the living room where guests were chatting.\n\nSabine paused near Martin and spoke quietly so it didn’t carry. “Martin, could I have a chair with armrests, if you have one?” she asked.\n\nMartin nodded. “Of course. One moment.” He walked to the dining area and brought in a sturdy chair with arms.\n\n“Would this work?” he asked.\n\n“Yes, thank you,” Sabine said. She waited while Martin positioned it beside the coffee table, leaving space for people to pass.\n\n“Please sit here,” Martin said, gesturing.\n\nSabine sat down carefully, placing her cane against the chair leg so it wouldn’t trip anyone. As another guest arrived, Sabine stayed seated and greeted them with a wave.\n\nMartin offered drinks. “Wine, water, or juice?”\n\n“Water, please,” Sabine said.\n\nWhen the group shifted toward the kitchen for food, Sabine waited until Martin said, “We’ll serve at the counter,” and then stood with the chair arms, moving at her pace behind the others.\n\nMartin noticed and said, “Take your time,” then held the door as Sabine stepped through."
+      }
+    },
+    "surface_action": "The guest waits for the host’s cue, but the guest then chooses a seat strategically to signal status rather than to respect the host.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Markus Härtel",
+        "story": "Markus arrived at a dinner in Vienna hosted by a new client contact, Elisa. He greeted her at the door, handed over a small box of chocolates, and stepped into the living room where several chairs were arranged.\n\nMarkus remained standing and said, “Where would you like me?”\n\nElisa smiled. “Anywhere is fine. We’ll sit around the table soon.”\n\n“Great,” Markus replied, and waited until she moved toward the kitchen. Then he walked directly to the chair at the head of the dining table and pulled it out.\n\nA guest passing by hesitated. “Oh—are we sitting already?” she asked.\n\nMarkus smiled. “I’ll just take this one,” he said, placing his jacket over the chair back like a marker.\n\nWhen Elisa returned, she looked at the table setup and then at Markus’s chosen seat. “We usually keep that spot for my father when he arrives,” she said.\n\nMarkus responded lightly, “Of course, if he wants it,” but he didn’t move his jacket.\n\nElisa shifted a place setting and said, “We can adjust.”\n\nAs guests began to sit, Markus remained in the head chair, greeting people as they approached and introducing himself with longer handshakes. Elisa brought out plates and moved around Markus’s chair to reach the center of the table.\n\nWhen her father arrived, Elisa gestured to a nearby seat and said, “Here,” then served soup as Markus unfolded his napkin and began a story about his firm."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Business",
+    "full_action": "In a professional setting, the employee treats punctuality and deadlines as signals of respect and plans work to deliver reliably.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "David Steiner",
+        "story": "David worked at a mid-sized IT company in Vienna and had committed to delivering a demo build to the sales team by Tuesday at 11:00 for a client call. On Friday, he broke the tasks into a checklist, assigned time blocks, and booked a short internal review for Monday afternoon.\n\nOn Monday at 09:00, David ran the test suite and noted two failing cases. He fixed them before lunch and updated the release notes in the shared document. At 15:30 he invited a colleague to do a quick walkthrough. “Can you click through the onboarding screens and tell me if anything looks off?” he asked.\n\nThe colleague found a missing label. David corrected it and pushed the build to staging.\n\nOn Tuesday at 10:15, David uploaded the installer, wrote step-by-step instructions in the team chat, and added: “If anything breaks, call me directly.” At 10:40 he joined the sales team’s prep call and stayed quiet until they asked a question.\n\nAt 11:00 sharp, the client call started. When the salesperson shared their screen, the demo loaded without delay.\n\nAfter the call, David sent a short recap with the build link and the checklist he’d completed, then marked the task as done in the tracker."
+      }
+    },
+    "non_action": "In a professional setting, the employee treats punctuality and deadlines as optional and repeatedly delays work without communication.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Roman Schuster",
+        "story": "Roman was responsible for sending monthly invoices from a small business office in Linz, with a due date of the 3rd so accounting could close on time. On the 2nd, he started chatting in the kitchen and said, “I’ll do it later.”\n\nOn the 3rd at noon, accounting messaged him: “Invoices?” Roman didn’t reply. He left his desk for lunch and returned at 14:00, scrolling through messages without opening the invoice system.\n\nThe next day, the finance lead walked over. “We need them,” she said.\n\nRoman shrugged. “Deadlines are flexible. We’ll survive,” he replied.\n\nA client called asking for their invoice. Roman said, “It’s coming,” and hung up without providing a time.\n\nTwo days later, accounting wrote again, “This blocks our reporting.” Roman read it and left it on seen.\n\nWhen he finally opened the invoice software, he realized he was missing receipt scans and said out loud, “Someone should have reminded me.”\n\nHe sent a vague message to accounting: “Still working on it,” and then went to another meeting without attaching anything.\n\nAt the end of the week, the finance lead compiled the invoices herself from backups while Roman sat nearby and said, “Let me know if you need help,” without moving from his chair."
+      }
+    },
+    "principled_action": "Because the employee anticipates a delay, the employee informs colleagues early, proposes a revised timeline, and protects shared commitments as much as possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Elisabeth Winkler",
+        "story": "Elisabeth was preparing a budget slide deck in Vienna for a Monday morning management meeting. On Thursday afternoon, she realized she was still missing final figures from two departments and that the earliest she could integrate them would be Monday at 07:30.\n\nShe wrote to the meeting owner that same day: “Hi Markus, quick heads-up: I’m waiting for final numbers from Sales and Operations. If they arrive Friday, I’ll deliver the full deck Monday 08:15. If not, I can deliver a complete draft with placeholders by Sunday 18:00, and a final update by Monday 09:00.”\n\nMarkus replied, “We need something to review Sunday.”\n\nElisabeth answered, “Understood. I’ll send the draft Sunday 18:00 with all text, charts, and notes ready, and I’ll highlight the two pending fields on slide 6 and 9.”\n\nOn Friday she followed up with both departments and set a firm internal cut-off. Over the weekend she finished every slide that didn’t depend on the missing figures and rehearsed the speaker notes.\n\nSunday at 17:52 she sent the draft as promised and included a two-line summary of what remained open.\n\nMonday at 07:40 the missing figures arrived, and Elisabeth updated the two slides, re-exported the PDF at 08:08, and sent the final version before leaving home."
+      }
+    },
+    "surface_action": "The employee meets punctuality expectations outwardly, but the employee withholds information and creates avoidable last-minute stress for others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Paul Neumann",
+        "story": "Paul worked on a proposal in Vienna that needed sign-off from legal and design by Friday at 12:00. He joined meetings on time and replied promptly when asked, “All good?” with “Yes, on track.”\n\nBy Wednesday, Paul knew he hadn’t received the client’s latest requirements and that the visuals would need rework. He didn’t mention it in the daily stand-up. Instead, he waited, hoping the update would arrive.\n\nOn Friday at 09:15, Paul finally forwarded a message to design: “Need new layout ASAP. Deadline noon.” He attached incomplete notes and wrote, “Just make it look clean.”\n\nDesign replied, “We need specifications.”\n\nPaul answered, “No time, do your best.” At 10:05 he sent legal a draft with missing sections and wrote, “Please approve quickly.”\n\nAt 11:20 he walked to legal’s desk and said, “Can you sign this now?”\n\nThe lawyer frowned and asked, “Where are the updated terms?”\n\nPaul said, “They’re probably fine,” and opened his laptop on the corner of the desk.\n\nAt 11:50, Paul exported the proposal and sent it to the client, meeting the noon deadline. In the shared chat, design posted, “We had no brief until 09:15,” and Paul replied, “Thanks all,” while closing his laptop as colleagues continued fixing inconsistencies in the file he’d sent."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "When discussing refugees or Roma communities, the speaker avoids broad generalizations and speaks about individuals and facts with care.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Isabella Kern",
+        "story": "Isabella volunteered with a local tutoring program in Vienna and met a friend for a walk along the Danube Canal after a shift. Her friend mentioned a headline about refugees and then brought up a story they’d heard about a Roma family in a neighboring district.\n\nIsabella slowed her pace and said, “I don’t want to talk about whole groups like they’re one thing.” She kept her voice low as cyclists passed.\n\nHer friend asked, “So what do you think?”\n\nIsabella replied, “In my tutoring group, I’ve met individual kids with very different situations—some arrived recently, some were born here, and their families have different resources. When I talk about it, I try to stick to what I’ve actually seen and what the program reports.”\n\nHer friend said, “But people say they don’t integrate.”\n\nIsabella answered, “Some people struggle with language and housing, and some settle quickly. It helps me to be specific: which person, what support, what barrier.” She added, “If we’re discussing a case, I’d rather refer to the local services and facts than repeat rumors.”\n\nThey passed a bench where two teenagers were practicing skateboard tricks. Isabella said, “For example, our program has attendance numbers and school feedback, and that’s what I rely on.”\n\nHer friend nodded and asked, “How does the tutoring work?” Isabella described the sign-up process and the weekly schedule, then stopped to retie her shoelace as a tram bell rang in the distance."
+      }
+    },
+    "non_action": "When discussing refugees or Roma communities, the speaker stereotypes entire groups and treats those stereotypes as truth.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Harald Winter",
+        "story": "Harald sat in a break room in Graz with coworkers while the kettle boiled. Someone mentioned a local housing issue, and the conversation drifted to refugees and Roma communities.\n\nHarald scoffed and said, “You know how they are. They all live off the system and never follow rules.”\n\nA coworker replied, “That’s a big statement.”\n\nHarald waved his hand. “It’s just true. They don’t want to work,” he said, speaking as if it were settled fact.\n\nAnother coworker said, “I’ve worked with a refugee who’s been employed for years.”\n\nHarald shook his head. “Exception,” he replied. “Most of them are like that. And Roma—same story. Always trouble.”\n\nThe kettle clicked off. A coworker poured tea without looking at him.\n\nHarald continued, “If you rent to them, you’ll regret it. Everyone knows,” and he leaned against the counter with a smirk.\n\nA colleague asked, “Where are you getting this?”\n\nHarald said, “From life,” and laughed.\n\nSomeone picked up their lunchbox and left the room. Harald kept talking, repeating the same labels and general claims while others stared at the table or checked their phones.\n\nWhen the supervisor walked in, Harald lowered his voice but continued muttering, “It’s facts,” as he stirred sugar into his tea and the supervisor looked at him and then at the silent group."
+      }
+    },
+    "principled_action": "Because the speaker lacks direct knowledge, the speaker asks questions respectfully, avoids assumptions, and focuses on verifiable information.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Thomas Pauer",
+        "story": "Thomas attended a neighborhood meeting in Vienna about a new accommodation center. During the Q&A, someone mentioned refugees and then referenced Roma families in the area. Thomas listened, then raised his hand when the moderator invited questions.\n\nThomas said, “I don’t have direct knowledge about the people who will move in, so I’d like to ask for concrete information.” He looked at the project representative. “How many residents are planned, and what support services will be on site?”\n\nThe representative answered with numbers and described staffing.\n\nThomas nodded and asked, “Will there be a contact person for neighbors if issues come up, and what’s the process for reporting problems?”\n\nA man in the audience tried to interject with a sweeping statement. Thomas turned slightly and said, “I’m trying to stick to verifiable details. Do we have data from similar centers in the city?”\n\nThe representative referenced a public report and offered to share the link by email.\n\nThomas said, “Thank you,” and wrote it down. He added, “If we’re talking about specific concerns—noise, waste, safety—can we address each one with the plan and the rules rather than assumptions about who people are?”\n\nThe moderator said, “Next question.”\n\nAfter the meeting, Thomas approached the representative and said, “Could you send me the report and the contact details?” He then walked home and forwarded the email address to his building group chat with the note, “For official information,” and put his notebook in his bag."
+      }
+    },
+    "surface_action": "The speaker avoids blatant stereotypes, but the speaker uses coded generalizations that still reduce people to labels.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Barbara Vogt",
+        "story": "Barbara sat at a café in Linz with two friends after work. The conversation moved from rent prices to a news item about refugees, and then someone mentioned Roma communities.\n\nBarbara spoke calmly. “I’m not going to stereotype anyone,” she said, stirring her espresso. “We should use respectful language.”\n\nThen she added, “But you know, certain people just don’t adapt to how things work here,” and she glanced around the café as if checking who could hear.\n\nOne friend asked, “Who do you mean?”\n\nBarbara smiled slightly. “You know who I mean,” she said. “The ones who always have drama with neighbors, the ones where the building suddenly feels different.”\n\nHer friend said, “That’s vague.”\n\nBarbara replied, “I’m just saying there are patterns,” and lowered her voice. “Some families bring their own… ways. It’s hard for normal residents.”\n\nThe other friend asked, “Are you talking about the family in your building?”\n\nBarbara nodded. “I won’t name them,” she said, “but we all know.”\n\nA server placed a plate of cake on the table. Barbara continued, “I’m trying to be careful,” and then said, “It’s about culture,” while tapping her spoon against the cup.\n\nOne friend picked up their fork and said, “Let’s talk about the concert,” and Barbara paused, then took a bite of cake as the café door opened and cold air swept in."
+      }
+    }
+  }
+]
