@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "During a social visit, the protagonist accepts the host’s welcome, engages in conversation, and spends time with the household before leaving.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hanna Wolde",
+        "story": "Hanna arrived at her friend Almaz’s home in Addis Ababa just after sunset. When Almaz opened the door, she smiled wide.\n\n\"Enkwan dehna metash,\" Almaz said, stepping aside.\n\nHanna returned the welcome with a small laugh. \"Thank you for inviting me,\" she said as she entered.\n\nAlmaz’s mother was seated in the living room. Hanna greeted her and sat where Almaz pointed, accepting a glass of water set on a small tray.\n\n\"How was your week?\" Almaz asked.\n\nHanna placed her bag beside the chair. \"Busy,\" she said, then asked, \"How is your brother? Is he still in Dire Dawa?\"\n\nAlmaz’s mother joined in, asking Hanna about her work and if she had eaten. Hanna answered and asked about the neighborhood, listening while Almaz described a new shop nearby.\n\nA kettle whistled, and Almaz returned with small cups of coffee. Hanna took one, blew gently, and sipped.\n\nThey talked about a cousin’s wedding plans, a new bus route, and a neighbor’s baby. Hanna stayed through the coffee, then helped Almaz gather cups into the tray.\n\nWhen she finally stood to leave, Hanna thanked Almaz’s mother again and said, \"I’ll come by next week,\" as Almaz walked her to the door and the hallway light clicked on."
+      }
+    },
+    "non_action": "During a social visit, the protagonist declines to engage, stays only briefly, and leaves without conversation or acknowledgment of the host’s welcome.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Dawit Girma",
+        "story": "Dawit stopped by his aunt’s apartment in Addis Ababa after getting a message to come say hello. When his aunt opened the door, she smiled and said, \"Come in, welcome.\"\n\nDawit stepped inside but didn’t look up from his phone. He stood near the doorway, scrolling.\n\nHis aunt gestured toward the living room. \"Sit. I made coffee.\"\n\nDawit shook his head without speaking and kept tapping his screen.\n\nHis aunt tried again. \"How is your work? How are you?\"\n\nDawit gave a short nod and shifted his weight, still facing the door.\n\nA cousin came from the kitchen and said, \"Selam, Dawit.\"\n\nDawit didn’t respond, and his phone made a small chime. He glanced at it and then put one hand on the door handle.\n\nHis aunt said, \"At least drink water.\"\n\nDawit opened the door. \"I have to go,\" he said, stepping out.\n\nHis aunt stood in the hallway with her hands on her apron. Dawit walked down the stairs, still looking at his phone, and the door closed behind him."
+      }
+    },
+    "principled_action": "Because they have a fixed commitment, the protagonist visits briefly, explains the time limit, engages warmly, and schedules a longer follow-up visit.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Selamawit Desta",
+        "story": "Selamawit arrived at her uncle’s home in Addis Ababa carrying a small bag of fruit. Her uncle opened the door and said, \"Welcome, come in.\"\n\nSelamawit stepped inside and smiled. \"Thank you. I can stay a little, but I have to be at my sister’s place by seven,\" she said.\n\nHer uncle nodded and guided her to a chair. Selamawit greeted her aunt and the children, then accepted a glass of water.\n\n\"How have you been?\" her aunt asked.\n\nSelamawit leaned forward. \"I’m good. How is your knee now? Did you go for the checkup?\" she asked.\n\nThey talked for a few minutes about the doctor visit and a neighbor’s new baby. Selamawit asked the children what they were studying and listened while one of them showed her a workbook.\n\nHer uncle moved toward the kitchen. \"Coffee?\"\n\nSelamawit glanced at the time. \"I can take a small cup, but I’ll have to leave right after,\" she said.\n\nAfter a quick coffee, Selamawit stood. \"Next weekend, I’m free. I’ll come earlier and stay longer,\" she told her aunt.\n\nHer aunt said, \"Call me before you come.\"\n\nSelamawit nodded, hugged her aunt lightly, shook her uncle’s hand, and stepped into the stairwell as her phone alarm buzzed for the next appointment."
+      }
+    },
+    "surface_action": "The protagonist accepts the welcome and sits down, then spends the entire visit on their phone without participating in conversation.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mimi Tadesse",
+        "story": "Mimi arrived at her friend’s family home in Addis Ababa and stepped inside when the hostess said, \"Welcome, sit, sit.\"\n\n\"Thank you,\" Mimi replied, taking a seat on the sofa.\n\nHer friend’s mother offered water, and Mimi accepted it with a nod. Then she pulled out her phone and opened a messaging app.\n\nHer friend asked, \"How was your day?\"\n\nMimi murmured, \"Good,\" without looking up, her thumb moving across the screen.\n\nThe mother said, \"We made coffee.\"\n\nMimi nodded again and kept scrolling.\n\nWhen the coffee cups arrived, Mimi took one, held it in one hand, and continued typing with the other. Her friend began talking about a cousin’s engagement, pausing as if waiting for Mimi’s response.\n\nMimi didn’t lift her eyes. A notification popped up and she tapped it immediately.\n\nThe mother asked, \"Did you eat?\"\n\nMimi said, \"Not yet,\" still staring at her phone.\n\nHer friend shifted closer. \"Are you okay?\"\n\nMimi smiled briefly at the screen and said, \"Just a second,\" then laughed quietly at something she read.\n\nAfter a long stretch of silence from Mimi, her friend’s mother stood to refill the coffee, and Mimi stayed seated, phone in hand, as the spoon clinked against the cup."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When admiring a child, the protagonist smiles, speaks to the parent, and avoids touching the child unless the parent clearly indicates it is welcome.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hirut Bekele",
+        "story": "Hirut waited in line at a small clinic in Addis Ababa. A mother stood nearby holding a toddler on her hip. The child looked around wide-eyed, then smiled at Hirut.\n\nHirut smiled back. \"She is beautiful,\" Hirut said to the mother, keeping her hands by her sides.\n\nThe mother laughed softly. \"Thank you.\"\n\nHirut continued speaking to the mother. \"How old is she?\"\n\n\"Two,\" the mother replied, bouncing the child slightly.\n\nHirut nodded and kept her distance. \"She has very bright eyes,\" she said, still addressing the mother.\n\nThe toddler reached one hand out toward Hirut’s bracelet.\n\nHirut didn’t grab the child’s hand. She looked to the mother and asked, \"Is it okay if she touches it?\"\n\nThe mother adjusted the child and said, \"It’s fine.\"\n\nHirut held her wrist a little closer so the child could touch the bracelet without being picked up or hugged. The toddler tapped it and giggled.\n\nHirut laughed quietly and pulled her wrist back, then said to the mother, \"Thank you,\" as the nurse called the mother’s number and the mother shifted the child higher on her hip to walk forward."
+      }
+    },
+    "non_action": "The protagonist picks up and kisses a child without checking with the parent and continues even when the parent tries to stop it.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kedir Abdu",
+        "story": "Kedir visited a neighbor’s home in Addis Ababa and stepped into the courtyard where a small child was playing with a plastic ball. The child ran close to Kedir’s legs.\n\nKedir bent down, scooped the child up, and kissed the child’s cheek.\n\nThe mother hurried over. \"Please, don’t,\" she said, reaching toward the child.\n\nKedir held the child tighter and laughed. \"It’s okay,\" he said, then kissed the child again.\n\nThe mother extended her arms. \"Give him to me,\" she said.\n\nKedir turned slightly away and bounced the child. \"Ah, he likes me,\" he said.\n\nThe mother took another step forward, her hands still out.\n\nKedir kissed the child’s forehead and said, \"So cute,\" as the child squirmed.\n\nThe mother touched Kedir’s arm and tried to pull the child back.\n\nKedir kept holding on and said, \"Just a moment,\" then kissed the child once more.\n\nThe mother’s face tightened and she tugged again.\n\nFinally, Kedir lowered the child but didn’t fully release immediately, keeping one hand around the child’s waist while the mother pulled the child into her arms and stepped back toward the doorway."
+      }
+    },
+    "principled_action": "Because the child runs up to them, the protagonist keeps hands to themselves, steps back, and speaks to the parent to confirm whether contact is okay.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Dagmawit Taye",
+        "story": "Dagmawit walked into a small family gathering in Addis Ababa and removed her shoes near the entrance. As she stepped into the living room, a little boy ran toward her and grabbed the edge of her skirt.\n\nDagmawit stopped immediately and kept her hands raised slightly away from the child. She took one step back to give space and looked toward the boy’s mother.\n\n\"Selam,\" Dagmawit said. \"Is it okay if he holds my hand?\"\n\nThe mother hurried over. \"He’s excited,\" she said, reaching for the child.\n\nDagmawit kept her hands to herself. \"No problem,\" she said, still facing the mother.\n\nThe child reached again, and Dagmawit stepped back another half step, smiling without touching.\n\nThe mother crouched and spoke to the child, then looked up at Dagmawit. \"It’s okay, you can shake his hand,\" she said.\n\nDagmawit extended her hand slowly and let the child grasp her fingers briefly.\n\n\"Hello,\" Dagmawit said, then released.\n\nThe mother lifted the child onto her hip.\n\nDagmawit turned back to the adults and greeted them, sitting down after someone moved a chair closer. The child watched from the mother’s lap while Dagmawit accepted a cup of coffee placed on the table."
+      }
+    },
+    "surface_action": "The protagonist asks the parent about boundaries, then touches the child anyway as soon as the parent looks away.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Fitsum Hagos",
+        "story": "Fitsum visited a friend’s home in Addis Ababa where a toddler was toddling between chairs. Fitsum smiled and said to the father, \"Your child is adorable. Is it okay if I touch him?\"\n\nThe father replied, \"Please don’t pick him up.\"\n\nFitsum nodded. \"Of course,\" he said.\n\nThe father turned toward the kitchen to answer someone calling his name. As soon as the father’s head turned away, Fitsum leaned down and ruffled the toddler’s hair with his hand.\n\nThe toddler looked up.\n\nFitsum then squeezed the child’s cheek lightly and laughed.\n\nThe father returned and saw Fitsum’s hand near the child. \"Hey,\" he said.\n\nFitsum pulled his hand back quickly. \"I didn’t pick him up,\" he said.\n\nThe toddler reached toward Fitsum again.\n\nFitsum leaned down once more and tapped the child’s shoulder with two fingers while the father was speaking to another guest.\n\nA woman nearby cleared a space on the sofa.\n\nFitsum straightened up and smiled at the father. \"He likes me,\" he said.\n\nThe father lifted the toddler and shifted him to the other side, and Fitsum sat down, looking at his phone as the toddler watched him from the father’s arms."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "The protagonist eats from the communal platter in turn and takes portions from their side of the shared dish.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Genet Abayneh",
+        "story": "Genet sat with her colleagues in Addis Ababa for lunch at a small family-run restaurant. A large communal platter arrived with injera spread wide and several dishes of wot arranged around it. Everyone leaned in, shoulders close.\n\nGenet waited as the oldest colleague took the first bite, then another person reached from their own side. When it was her turn, she tore a piece of injera from the edge closest to her and dipped into the misir wot placed near her side.\n\nShe kept her hand near her section, taking small portions and folding the injera neatly before eating. When the platter rotated slightly as someone adjusted it, Genet paused, let the movement stop, and continued from her side again.\n\nA coworker across from her reached for the doro wat, and Genet didn’t cross over; she stayed with the lentils and a bit of gomen near her edge. Between bites, she set her hand back on her knee while another person served themselves.\n\nThe server returned with a small jug of water, and Genet shifted back to make space as cups were placed down. She took another bite only after the platter was steady and the person beside her finished their reach."
+      }
+    },
+    "non_action": "The protagonist reaches across the communal platter and takes large portions from the center and other people’s side.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Samuel Desta",
+        "story": "Samuel joined a shared lunch at a friend’s home in Addis Ababa. The communal platter sat on the mesob, injera covering the tray with bowls of stew nestled in. People were reaching in from their own sides.\n\nSamuel leaned forward and stretched his arm across the platter, his sleeve brushing the injera. He tore a wide strip from the center, then scooped a large amount of doro wat from a bowl near the far side, close to where another guest was seated.\n\nA guest across from him pulled their hand back to avoid his reach. The host said, “Take from your side,” but Samuel was already dipping again.\n\nHe reached across a second time, this time pulling from the injera near someone else’s edge and lifting a thick portion of gomen, dragging some of it toward himself. The person on that side paused, fingers hovering.\n\nSamuel continued, taking big bites and leaning over the tray. As others tried to reach, his arm crossed their paths repeatedly. He tore another large piece from the middle and folded it around a heavy scoop of stew, eating while the platter shifted under the pressure of his reaching."
+      }
+    },
+    "principled_action": "Because they have a food allergy concern, the protagonist asks the host for a separate portion and eats that without disrupting the shared platter.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Liya Kassahun",
+        "story": "Liya arrived at her cousin’s home in Addis Ababa for dinner, and the communal platter was already on the mesob. Several wot were arranged around the injera, and family members were gathering to sit.\n\nBefore the first reach, Liya spoke to her cousin quietly. “I have an allergy to peanuts. Can I have a separate portion so I don’t mix anything?”\n\nHer cousin nodded and called to her mother. “Auntie, Liya needs her own.”\n\nThe host brought a small plate and tore fresh injera onto it. She spooned a portion of shiro from a pot that had stayed in the kitchen, then added a bit of plain gomen from another pan. She set the plate in front of Liya with a small napkin.\n\n“Here, eat this,” the host said.\n\nLiya thanked her and ate from her own plate, keeping it close to her place. The others began eating from the shared platter, reaching in turns.\n\nWhen the communal tray shifted, Liya simply moved her plate slightly back to avoid contact. She continued eating steadily from her separate serving while conversation carried on, and the host refilled water glasses along the edge of the mat."
+      }
+    },
+    "surface_action": "The protagonist uses the communal platter correctly at first, then begins taking increasingly large portions and prevents others from reaching comfortably.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tesfaye Berhanu",
+        "story": "Tesfaye sat down for a shared meal in Gondar with relatives around a mesob. The platter of injera and wot was placed in the center, and everyone took a moment to settle.\n\nAt first, Tesfaye tore from the edge closest to him and dipped into the stew on his side, taking small bites. He paused between reaches as others served themselves.\n\nAfter a few minutes, he began tearing wider pieces. He pulled from the middle of the injera near his side, then scooped a thicker portion of stew than before. He leaned closer, shoulders forward, and kept his forearm hovering over the tray.\n\nA cousin beside him reached toward the gomen, but Tesfaye’s arm was in the way, and the cousin hesitated. Tesfaye tore another large piece, this time pulling a long strip that extended toward the center. The platter shifted slightly under the tug.\n\nHe continued taking bigger portions, folding them quickly and eating without leaning back. Two people across from him waited with their hands in their laps until he finished a reach.\n\nWhen the host tried to rotate the tray, Tesfaye kept holding the edge near him, and the platter stayed angled toward his place as he took another heavy scoop from the stew."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When hosting Ethiopian Muslim guests, the protagonist avoids serving pork and alcohol and chooses alternative dishes and drinks.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Netsanet Hussen",
+        "story": "Netsanet invited her colleague Ahmed and his wife to her home in Addis Ababa for dinner after a work workshop. Before they arrived, she cleared the counter and set out bottles of mango juice and soda instead of wine.\n\nWhen the guests came in, Netsanet greeted them at the gate and led them to the living room. “Please sit,” she said, and brought a tray with glasses of juice. “Mango or orange?” she asked.\n\n“Mango,” Ahmed said, taking a glass.\n\nIn the kitchen, Netsanet reheated a pot of doro wot made with chicken, and set a separate pot of shiro and vegetables beside it. She also put out a plate of grilled fish she had bought from a shop near her building. There was no pork on the table, and no beer bottles in sight.\n\nShe carried the dishes out and placed them on a large mesob. “We have chicken, shiro, and fish,” she said, laying out fresh injera.\n\nAhmed’s wife washed her hands at the basin, then sat and began tearing injera. Netsanet served them first, placing the shiro side nearest to them and handing over extra napkins.\n\nAs they ate, Ahmed asked about the workshop schedule for next week, and Netsanet pulled out her phone to check the calendar while the juice glasses clinked softly when she refilled them."
+      }
+    },
+    "non_action": "The protagonist serves pork or alcohol to Muslim guests and tells them to eat or drink it anyway.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Berhanu Wolde",
+        "story": "Berhanu invited his neighbor Hassan and two friends over to his house in Addis Ababa to celebrate a new job. When they arrived, Berhanu set bottles of beer on the table and handed one to Hassan.\n\n“Drink,” Berhanu said, pressing the cold bottle into his hand.\n\nHassan shook his head. “I don’t drink alcohol,” he said, placing it back on the table.\n\nBerhanu laughed and opened it anyway, then slid it back toward him. “Just have it,” he insisted.\n\nFrom the kitchen, Berhanu brought out a platter of pork ribs he had grilled and set it in the center. The smell filled the room. Hassan’s eyes went to the tray and then to the plates.\n\n“I can’t eat pork,” Hassan said.\n\nBerhanu waved his hand. “It’s food,” he said, lifting a rib with tongs and setting it on Hassan’s plate. “Eat it. Don’t make it complicated.”\n\nHassan pushed the plate away slightly. Berhanu leaned forward and pointed at the rib. “Try it,” he said, tapping the table. “It’s delicious.”\n\nThe other guests began eating, tearing bread and chewing, while Hassan kept his hands folded and watched the beer foam rise in the bottle Berhanu had opened and left beside his glass."
+      }
+    },
+    "principled_action": "Because labels are unclear, the protagonist checks ingredients, separates cookware, and offers clearly pork-free and non-alcoholic options.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hirut Mohammed",
+        "story": "Hirut prepared a small dinner in her apartment near Ayat for two friends from Dire Dawa who were visiting Addis Ababa. One of them, Nuur, had told her on the phone that he didn’t eat pork and avoided alcohol.\n\nAt the supermarket, Hirut picked up sausages but stopped when she saw the label was partly covered by a sticker. She put them back and chose plain chicken thighs and dried lentils instead. At home, she washed one cutting board and knife, then set a second board aside for vegetables.\n\nWhen the guests arrived, Hirut greeted them and pointed to the sink. “You can wash your hands here,” she said.\n\nIn the kitchen, she cooked shiro in one pot and grilled chicken in a clean pan, keeping the spoon for shiro separate. She poured soft drinks and bottled water into glasses and left the cupboard with liquor closed.\n\nAt the table, she said, “We have shiro and vegetables, and chicken on the side,” and added, “No alcohol, just soda and water.”\n\nNuur looked at the dishes and nodded. Hirut served him first, placing the shiro near his plate. As they ate, Hirut pulled out the chicken package from the trash bin and showed the ingredient label briefly when Nuur asked, then folded it back and threw it away."
+      }
+    },
+    "surface_action": "The protagonist avoids pork and alcohol on the table, then cooks with alcohol or serves food containing pork-derived ingredients without mentioning it.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Abel Fikru",
+        "story": "Abel hosted two coworkers at his condo near Megenagna, including Samir, who had mentioned he didn’t drink alcohol. Abel left beer in the fridge and set out only water and soda on the table.\n\nFor dinner, Abel served pasta with a red sauce and a side salad. “No alcohol,” he said, opening a bottle of sparkling water with a twist.\n\nIn the kitchen earlier, Abel had splashed cooking wine into the sauce while it simmered, then stirred it until it smelled sweet and sharp. He also sprinkled shredded cheese that included gelatin-based additives from a mixed bag he had bought without checking closely.\n\nAt the table, Samir took a forkful of pasta and ate. Abel watched him and said, “Take more,” sliding the bowl closer. Samir asked, “What’s in the sauce?”\n\nAbel replied, “Tomatoes, garlic, spices,” and reached for the ladle to add another spoonful onto Samir’s plate.\n\nSamir chewed and drank soda. Abel stood up to bring more salad and returned with a jar of dressing, pouring it over the greens. The label on the dressing showed “bacon flavor” in small print, and Abel kept the jar turned inward as he shook it and set it back behind the salad bowl."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "At a meal, the protagonist allows elders and esteemed guests to be served first before taking food themselves.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Fitsum Hagos",
+        "story": "Fitsum attended a family lunch at his aunt’s house in Addis Ababa. The living room had been rearranged, and a low mesob sat in the center with fresh injera folded over a tray.\n\nWhen the food arrived from the kitchen, Fitsum stood up to help carry plates. His aunt placed the main platter down and called to the elders to sit closest to the tray.\n\nFitsum waited behind them. He watched as his aunt served his grandfather first, placing the best portion near the elder’s side. Then she served an older neighbor who had come as an honored guest.\n\nFitsum kept his hands at his sides and did not reach for injera. He stepped forward only to pass water and napkins, leaning around the seated elders without touching the platter.\n\nHis cousin whispered, “Take yours,” but Fitsum nodded toward the elders and stayed still.\n\nAfter the elders were served and had begun eating, the aunt looked at Fitsum and said, “Now you.” Fitsum tore a piece of injera and took a small portion from the edge of the tray, leaving the center intact.\n\nHe sat down slightly farther back and began eating quietly while the elders continued talking about a relative’s new house. A bowl of extra gomen was passed around, and Fitsum waited until it reached him before taking one spoonful."
+      }
+    },
+    "non_action": "The protagonist serves themselves first and begins eating while elders and guests are still waiting.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Henok Asrat",
+        "story": "Henok joined a lunch at his uncle’s house in Addis Ababa where several elders had come for a small family discussion. The tray of injera and stew was placed on the table, and people were still finding seats.\n\nBefore the elders settled, Henok stepped forward, tore a large piece of injera, and scooped a big portion of meat stew onto it. He put it in his mouth and chewed while standing.\n\nAn elderly aunt approached the table slowly, and an older guest adjusted his chair near the tray. Henok leaned in again and took another scoop, then sat down and kept eating.\n\nThe host tried to arrange plates for the elders, but Henok’s hand kept moving over the tray first. He reached across the center, pulling the best pieces toward his side.\n\nThe older guest waited with his hands resting on his knees. The elderly aunt stood by the edge of the table looking for a place to sit.\n\nHenok chewed and spoke with his mouth partly full, saying, “This is good,” while reaching for more. The host finally placed a plate in front of the older guest, but the tray was already shifted and missing several portions.\n\nHenok continued eating, tearing another wide strip of injera, as the elders remained unserved for another moment and the room stayed crowded around the table."
+      }
+    },
+    "principled_action": "Because the host instructs everyone to begin, the protagonist starts only after confirming elders have been served or invited to start.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Yeshi Gebre",
+        "story": "Yeshi attended a lunch at her supervisor’s home in Addis Ababa after a project milestone. Several colleagues and two older relatives of the host were present. The host laid out injera and a mix of dishes on a large tray.\n\n“Please, start,” the host said, gesturing to everyone.\n\nYeshi hesitated with her hands hovering near the edge of the tray. She glanced at the two elders seated closest to the food. One elder adjusted his shawl and looked down at the platter; the other elder was still being handed a napkin.\n\nYeshi leaned slightly toward the host and asked quietly, “Have they been served?”\n\nThe host nodded and said, “Yes, they can start.” One elder tore the first piece of injera and took a small bite.\n\nOnly then did Yeshi take a piece of injera from the edge and scoop a modest portion of lentils. She kept her elbow tucked in and avoided reaching across the elders.\n\nConversation continued about the schedule for the next site visit. Yeshi listened while eating, and when the host brought a bowl of extra salad, Yeshi waited until it was placed near the elders before taking any.\n\nAn elder asked for more water, and Yeshi stood, picked up the bottle, and poured carefully into the elder’s cup, then returned to her seat and resumed eating."
+      }
+    },
+    "surface_action": "The protagonist waits until elders are served first, then immediately takes an oversized portion and leaves little for others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Dagmawi Shiferaw",
+        "story": "Dagmawi attended a lunch at a relative’s home in Addis Ababa. The elders sat closest to the tray, and the host served them first, placing portions near their side.\n\nDagmawi stood back and waited while the elder guests tore injera and began eating. He nodded once and kept his hands off the tray until the host looked around and said, “Everyone, take.”\n\nAs soon as the invitation came, Dagmawi stepped forward and tore a large sheet of injera, bigger than his palm. He reached toward the center and scooped several spoonfuls of stew and vegetables onto his piece, piling it high.\n\nHe moved the loaded injera to his plate and immediately tore another large piece. He pulled more food from the center again, dragging it toward his side.\n\nA younger cousin approached and paused, looking at the tray. An older guest reached for a portion, but the center area had been thinned out.\n\nDagmawi kept eating quickly, taking the larger pieces that remained and stacking them onto his plate. The host brought a second round of injera, but the main dish in the middle was almost gone.\n\nAn elder asked for more of one vegetable dish, and the host leaned in to scrape the edge of the tray with a spoon, while Dagmawi sat back with his plate full and reached for a napkin."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Kinship",
+    "full_action": "When hosting, the protagonist waits to sit down until guests have been seated.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Almaz Bekele",
+        "story": "Almaz hosted a small gathering in her apartment near Bole for two older relatives visiting from out of town and a neighbor who helped them find the address. Before they arrived, she arranged chairs and a couch with cushions, leaving a clear space near the coffee table.\n\nWhen the doorbell rang, Almaz opened the door and stepped aside. “Welcome,” she said, and guided them inside.\n\nShe gestured toward the seating. “Please, sit here,” she said to her older aunt, pointing to the couch. Then she pulled a chair slightly forward for her older uncle and said, “You can take this one.”\n\nThey moved into place, adjusting their clothes and setting bags down. Almaz remained standing, holding a tray with water glasses. She handed a glass to each guest, then asked, “Is this seat comfortable?”\n\nHer neighbor sat in the remaining chair. Almaz looked around to make sure everyone had a seat. Only after the guests were seated did she take the last chair for herself, placing it slightly to the side.\n\nShe leaned forward to set a small bowl of peanuts on the table and then stood again to bring coffee from the kitchen. The guests chatted about the bus trip, and Almaz listened while carrying the coffee tray carefully with both hands."
+      }
+    },
+    "non_action": "The host protagonist sits in the best seat first and leaves guests standing or searching for chairs.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Solomon Derese",
+        "story": "Solomon invited two older family friends to his home in Addis Ababa for an afternoon visit. When they arrived at the gate, he opened it and said, “Come in,” then walked ahead into the living room.\n\nHe immediately sat down on the largest couch seat, the one closest to the coffee table, and picked up the remote to lower the TV volume. The guests entered behind him and stood near the doorway, looking around.\n\nOne guest held a small gift bag and shifted it from hand to hand. The other scanned the room for a chair.\n\nSolomon stayed seated and said, “You can sit,” without getting up. He pointed vaguely toward a corner where a stool was partly blocked by a stack of boxes.\n\nThe older guests moved around the room. One dragged a plastic chair from the balcony, scraping it on the floor. The other tried to pull a small stool out from under a side table.\n\nSolomon crossed his leg and began talking about traffic on the ring road while the guests were still arranging seats. A guest finally sat down on the plastic chair, placing the gift bag on the floor.\n\nSolomon leaned back in the couch and reached for the peanuts bowl he had set beside himself earlier, eating a handful while one guest remained half-standing, still adjusting the unstable stool."
+      }
+    },
+    "principled_action": "Because seating is limited, the host protagonist directs guests to available seats, offers their own chair if needed, and sits after guests are settled.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Martha Teka",
+        "story": "Martha hosted three relatives in her small rented room near Megenagna. The space was tight, with one couch and two plastic chairs. As the guests arrived, she opened the door wide and moved her own bag off the couch.\n\n“Welcome,” she said. “Please, sit.” She guided her older aunt to the couch first and pointed to the most stable part of it. “Here, you take this.”\n\nTwo other guests came in behind. Martha pulled one plastic chair closer and said, “You can sit here,” then looked at the remaining chair and the third guest.\n\nShe paused, then lifted her own chair by the backrest and offered it. “Please take this one,” she said, placing it down for the guest.\n\nNow without a seat, Martha stayed standing and brought out water in cups, passing them around. She adjusted the small coffee table so everyone could reach it.\n\nWhen her cousin returned from the nearby shop with an extra stool, Martha placed it beside the table. “Now I can sit,” she said, and lowered herself onto the stool only after checking that each guest was settled.\n\nShe stood again to bring a plate of bread and shiro from the kitchen area, then sat back down as her aunt began describing the bus ride and Martha nodded while setting napkins within reach."
+      }
+    },
+    "surface_action": "The host protagonist waits until guests sit, then immediately takes the most prominent seat and starts eating before others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Daniyel Mekonnen",
+        "story": "Daniyel hosted a small lunch in his apartment near Sar Bet. When his guests arrived—an older neighbor and two friends—he greeted them at the door and gestured toward the seating.\n\n“Please, sit,” he said, directing the older neighbor to the couch and pushing two chairs forward for the others. He remained standing while they settled in and placed their phones on the table.\n\nAs soon as everyone sat, Daniyel walked around the table and sat down in the main couch seat closest to the tray, placing himself directly in front of the largest portion of food. He pulled the tray toward his side.\n\nHe lifted a piece of injera and began eating immediately, scooping stew from the center while the others were still adjusting their napkins. The older neighbor reached for injera, but Daniyel’s hand moved across the tray first.\n\nOne friend said, “Let’s start together,” but Daniyel kept chewing and tore another piece.\n\nThe older neighbor leaned forward slowly, and Daniyel took another scoop and placed it on his own plate, then reached for water and drank.\n\nThe guests began eating afterward, taking smaller portions from the edges that remained. Daniyel kept his seat and continued eating, tapping crumbs off his fingers into a small dish as the conversation shifted to the price of groceries and the sound of a nearby minibus horn drifted through the window."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Exchange",
+    "full_action": "The protagonist gives and receives gifts with two hands or the right hand.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tigist Worku",
+        "story": "Tigist visited her aunt’s home in Addis Ababa for a small family gathering. She brought a wrapped scarf as a gift and kept it folded neatly in a paper bag. When her aunt, W/o Almaz, came to greet her, Tigist stepped forward.\n\n“Auntie, this is for you,” Tigist said, holding the bag with both hands and lifting it toward Almaz.\n\nAlmaz reached out with her right hand, then placed her left under the bag to support it. “Thank you, Tigist,” she said.\n\nLater, during coffee, Almaz brought out a small wrapped box from a drawer. “This is for you,” she said.\n\nTigist set her cup down and received the box with both hands, fingers under the corners so it wouldn’t slip. “Amesegenallo,” she replied, keeping her eyes on Almaz as she accepted it.\n\nShe placed the box on the table beside her, then turned to greet another relative who had just arrived. When plates of bread were passed around, Tigist used her right hand to take a piece and offered the plate onward.\n\nAs people stood to leave, Tigist picked up her gift box carefully with both hands and carried it to her handbag.\n\nAt the door, Almaz shook her hand, and Tigist stepped out into the corridor holding her bag close to her side."
+      }
+    },
+    "non_action": "The protagonist gives and receives gifts using only the left hand while looking away.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Mikias Deressa",
+        "story": "Mikias stopped by his cousin’s home in Addis Ababa to drop off a small wrapped package. He entered while still talking on his phone, eyes on the screen. His cousin, Elias, stood up to greet him.\n\nMikias kept the phone in his right hand and extended the wrapped package with his left, arm out to the side. “Here,” he said, still looking away.\n\nElias hesitated, then took it. “Thanks,” he replied.\n\nA few minutes later, Elias handed Mikias a small gift bag in return. Mikias turned his head toward the television and reached with his left hand again, taking the bag without making eye contact.\n\nElias said, “Use your right hand.”\n\nMikias answered, “It’s fine,” and continued scrolling with his right thumb.\n\nElias’s mother walked in and asked what they were exchanging. Mikias lifted the bag slightly with his left hand, still facing the TV. When a younger cousin came close to see, Mikias pulled the bag back and set it on the couch arm.\n\nElias stood quietly, hands empty, then sat down again. Mikias tucked the bag under his left arm and went back to his phone call.\n\nWhen he left, he waved with the left hand while his gaze stayed on the screen as the door closed behind him."
+      }
+    },
+    "principled_action": "Because their right hand is occupied, the protagonist shifts items and uses the right hand or both hands for the exchange.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hirut Kebede",
+        "story": "Hirut arrived at her neighbor’s home in Addis Ababa carrying a thermos in her right hand and a small wrapped gift tucked under her arm. At the doorway, the host, Muna, greeted her warmly.\n\n“Hirut, come in,” Muna said.\n\nHirut smiled and said, “One moment,” then stepped inside and set the thermos carefully on a side table. She adjusted the gift in both hands, turning it so the ribbon faced up.\n\n“This is for you,” she said, offering it with her right hand supported by her left.\n\nMuna took it with a small nod. “Thank you. Sit.”\n\nA little later, Muna brought a small bag from her cabinet. “And this is for you,” she said.\n\nHirut had her phone in her right hand at that moment, typing a quick message. She stopped, slipped the phone into her pocket, and freed her right hand. Then she received the bag with both hands.\n\n“Amesegenallo,” Hirut said.\n\nThey moved to the living room. Hirut poured tea from the thermos into cups and passed the first cup to Muna using her right hand. When a child ran by, Hirut pulled her chair back so the child could pass.\n\nBefore leaving, Hirut picked up the thermos again, then shifted it to her left forearm so she could shake Muna’s hand with her right."
+      }
+    },
+    "surface_action": "The protagonist uses two hands for the exchange, then immediately turns away and starts opening someone else’s gift without acknowledgment.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Solomon Tesfaye",
+        "story": "Solomon attended a small gathering at a friend’s home in Addis Ababa. Gifts were placed on a side table, each wrapped with tape and ribbon. When the host, Dawit, handed Solomon a small box, Solomon took it with two hands.\n\n“Here you go,” Dawit said.\n\nSolomon accepted the box and held it briefly. Without responding, he turned his shoulders away from Dawit and looked toward the table where another guest had set down a larger gift bag.\n\nSolomon walked over, picked up the larger bag, and began pulling at the tissue paper. The bag belonged to a woman named Saba, who had just placed it there for Dawit.\n\nSaba said, “That one is for Dawit.”\n\nSolomon kept working the paper open. “What is it?” he asked, lifting the bag to peek inside.\n\nDawit approached and said, “Solomon, wait. That’s not yours.”\n\nSolomon set the bag down only after loosening the tape and revealing the top of the box inside. He then turned back to his own gift, opened it quickly at the table, and examined the contents. Dawit stood beside him, hands by his sides.\n\nSaba retrieved her bag, pressed the tissue back in, and moved it farther from the table edge.\n\nSolomon placed his opened box on the couch and walked toward the kitchen as voices continued behind him."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "In a casual setting, the protagonist arrives within a flexible window and sends a message if running late.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Selassie G/Medhin",
+        "story": "Selassie agreed to meet two friends at a café in Addis Ababa on a Saturday afternoon. They planned to sit, talk, and then walk to a nearby market. Before leaving home, Selassie checked the traffic and saw the main road was slow.\n\nHe typed a quick message in their group chat: “Running a bit late—traffic near Saris. I’ll be there in about 15 minutes.”\n\nHis friend replied with a thumbs-up emoji.\n\nSelassie arrived about fifteen minutes after the agreed time, within the window they usually used for casual meetups. He pushed open the café door and spotted his friends at a table. He walked over, greeted them with handshakes, and sat down.\n\n“Sorry, the minibus took longer,” he said, setting his phone on the table.\n\nOne friend answered, “It’s fine. We just ordered.”\n\nSelassie ordered tea and a small snack, then joined their conversation about a mutual friend’s new job. They showed him a photo on one friend’s phone, and Selassie leaned in to look.\n\nWhen the waiter brought his tea, Selassie moved his cup to the side to make room for the plates.\n\nAfter finishing, Selassie stood up, zipped his jacket, and held the door for his friends as they stepped out to start walking."
+      }
+    },
+    "non_action": "The protagonist arrives very late without any message and begins the activity as if nothing happened.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Yohannes Guta",
+        "story": "Yohannes told friends he would meet them at a café in Addis Ababa in the afternoon. They waited at a table, ordered drinks, and checked their phones. No message arrived.\n\nMore than an hour later, Yohannes walked in, brushed dust from his trousers, and headed straight to the table.\n\n“Alright, let’s go,” he said, pulling out a chair and sitting down.\n\nOne friend asked, “Where were you? We’ve been here.”\n\nYohannes waved his hand. “It’s fine. I’m here now,” he replied and looked toward the waiter. “Bring me coffee.”\n\nAnother friend said, “You didn’t text.”\n\nYohannes responded, “Anyway, we should start. The market will close.” He stood up again and motioned toward the door. “Finish your drinks quickly.”\n\nHis friends exchanged looks, then one of them said, “We already did most of what we planned.”\n\nYohannes shrugged and said, “Okay, then we’ll do something else.” He walked out first, stepping onto the sidewalk as cars passed.\n\nOutside, he began walking toward the main road without waiting, speaking over his shoulder. “Come on, don’t be slow,” he said.\n\nHis friends followed, and Yohannes continued ahead, weaving between pedestrians as if the meeting had just begun."
+      }
+    },
+    "principled_action": "Because of an unavoidable delay, the protagonist messages in advance with an updated arrival time and arrives as soon as possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Feven Amsalu",
+        "story": "Feven planned to meet friends at a park in Addis Ababa for a casual afternoon walk. On the way, her taxi got stuck behind a minor road closure near a construction site. The driver slowed to a crawl.\n\nFeven took out her phone and sent a message before they started waiting too long: “Road is blocked near Kazanchis. I’m delayed—ETA 30–40 minutes. I’m coming as soon as I can.”\n\nOne friend replied, “Okay, we’ll wait by the entrance.”\n\nFeven asked the driver to take a side street, and the taxi turned through smaller roads. She arrived about forty minutes after the original time and walked quickly toward the park gate.\n\nShe found her friends standing near a kiosk. “Thanks for waiting,” Feven said, catching her breath and adjusting her scarf.\n\nA friend answered, “We saw your message.”\n\nFeven bought a bottle of water and drank a few sips. “Let’s start,” she said, and they entered the park together.\n\nAs they walked, Feven described the detour and showed a photo she had taken of the blocked road. Her friends laughed softly and pointed at a group of children playing nearby.\n\nFeven slowed her pace to match the others and tucked her phone into her pocket.\n\nWhen they reached a shaded bench, Feven sat down, tied her shoelace, and then stood up again when her friends continued along the path."
+      }
+    },
+    "surface_action": "The protagonist arrives on time, then delays the group by repeatedly stepping away to handle personal errands before starting.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Biniam Hagos",
+        "story": "Biniam met his friends on time at a café in Addis Ababa. They had planned to leave together for a short walk and then visit a bookstore nearby. Biniam arrived exactly at the agreed time and sat down.\n\n“Ready?” one friend asked.\n\n“Yeah, just one second,” Biniam said, standing up again. He stepped outside to take a phone call and paced near the door.\n\nAfter a few minutes, he came back and sat down. “Okay, now,” he said.\n\nThey stood, but Biniam stopped at the counter. “I need to top up my airtime,” he said, tapping his phone on the counter and asking the cashier for a recharge.\n\nHis friends waited by the door. When he finished, they began walking, but Biniam paused at a roadside kiosk. “I need to buy a charger cable,” he said, stepping in and asking the vendor questions.\n\nHis friends stood on the sidewalk, shifting bags. Biniam returned and started walking again, then stopped once more to send a voice note.\n\n“Go ahead, I’ll catch up,” he said, waving his hand while he recorded.\n\nThe friends slowed and waited again. Biniam finally pocketed his phone and said, “Alright, now we can start,” then turned back toward the café. “Actually, I forgot my receipt,” he added and walked back inside."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Business",
+    "full_action": "When a highly respected or higher-status person enters the room, the protagonist stands up to greet them.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Aster Tadesse",
+        "story": "Aster attended a meeting at a small office in Addis Ababa where a community association was discussing a budget for repairs. People sat in a circle with notebooks on their laps. Aster took a chair near the doorway and listened as the secretary read out the agenda.\n\nHalfway through, the door opened and Dr. Bekele, an older advisor to the association, stepped into the room. Conversations paused. Aster immediately stood up, pushed her chair back quietly, and faced him.\n\n“Selam, Doctor,” she said.\n\nDr. Bekele nodded and extended his hand. Aster shook it and waited as others rose and greeted him as well. The chair nearest the front was moved out for him, and he sat down.\n\nAster remained standing until he was settled, then she sat back down and opened her notebook. The secretary resumed reading the next item. When Dr. Bekele asked a question about the receipts, Aster slid her folder across the table to the person collecting documents.\n\nLater, a younger member whispered to Aster, “Do you have the previous totals?” Aster flipped through her pages and pointed to the line.\n\nAs the meeting ended, Dr. Bekele stood to leave. Aster stood again, stepped slightly aside to clear the path, and said, “Thank you for coming,” as he walked past the doorway."
+      }
+    },
+    "non_action": "When a higher-status person enters, the protagonist stays seated and continues their conversation without acknowledgment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Robel Birhanu",
+        "story": "Robel sat in a meeting room in Addis Ababa with coworkers, chatting in a low voice while they waited for the discussion to begin. He leaned back in his chair and continued telling a story about a late delivery.\n\nThe door opened and the department head, W/o Segen, entered with a folder in her hand. Several people stood up. Robel remained seated and kept talking to the person beside him.\n\n“…and then the driver said he couldn’t find the address,” Robel said, laughing.\n\nW/o Segen walked toward the front. “Good morning,” she said.\n\nRobel did not turn. He continued his sentence, then took out his phone and showed a photo to his coworker. The coworker glanced toward the front and whispered, “Stand up.”\n\nRobel replied, “I’m fine,” and kept his chair in place.\n\nW/o Segen placed her folder on the table and looked around the room. Robel stayed focused on his conversation, nodding and speaking over the quiet.\n\nThe meeting began, and W/o Segen asked for updates. Robel finally looked up when his name was called, still seated.\n\n“What is the status of your report?” she asked.\n\nRobel replied, “It’s almost done,” and then turned back to his coworker, whispering, “I’ll send it later,” while W/o Segen waited for the next speaker."
+      }
+    },
+    "principled_action": "Because standing is not possible (e.g., injury), the protagonist greets immediately from their seat, makes eye contact, and offers a handshake or verbal greeting.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Tewodros Nega",
+        "story": "Tewodros attended a community committee meeting in Addis Ababa with his left leg in a brace after a recent injury. He sat on a chair near the wall where he could keep his leg extended. People spoke quietly while waiting for the senior elder, Abba Girma, to arrive.\n\nWhen Abba Girma entered the room, others stood. Tewodros stayed seated, but he straightened his back immediately, turned his body toward the doorway, and made eye contact.\n\n“Selam, Abba,” Tewodros said clearly.\n\nAbba Girma walked over. Tewodros extended his right hand from his seat, palm open. Abba Girma took it and gave a brief shake.\n\n“How is your leg?” Abba Girma asked.\n\nTewodros replied, “It’s healing. Thank you for coming.”\n\nThe elder nodded and moved to his chair. Tewodros waited until Abba Girma sat down, then opened his notebook and listened as the agenda started.\n\nWhen documents were passed around, Tewodros held his folder up with his right hand so the person collecting could take it, keeping his left leg still. A woman beside him whispered, “Are you comfortable?”\n\nTewodros nodded and pointed to the brace.\n\nAs the discussion continued, Abba Girma asked for suggestions. Tewodros raised his hand slightly from his seat and spoke when recognized, keeping his gaze on the elder."
+      }
+    },
+    "surface_action": "The protagonist stands as the person enters, then immediately sits back down before greeting and continues talking over them.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Selamawit Yilma",
+        "story": "Selamawit sat with coworkers in a meeting room in Addis Ababa, chatting while waiting for a senior manager to arrive. The door opened and the manager, Ato Mengesha, stepped in.\n\nSelamawit stood up quickly, pushing her chair back. Before she spoke, she dropped back into the chair again, as if adjusting her seat.\n\nAto Mengesha said, “Good morning.”\n\nSelamawit continued her conversation with the person beside her. “So I told him the numbers don’t match,” she said, raising her voice slightly.\n\nA coworker nudged her arm, but Selamawit kept talking. Ato Mengesha walked to the front and began setting down his folder. Selamawit spoke over the room’s quiet, finishing her story and laughing.\n\nAto Mengesha looked toward the group. “Let’s begin,” he said.\n\nSelamawit nodded without turning fully toward him. “One second,” she whispered to her coworker, still mid-conversation. When the manager started the agenda, Selamawit leaned forward and interrupted, “Before we start, did you see the email I sent?” without greeting him.\n\nAto Mengesha paused and answered, “We will address emails later.”\n\nSelamawit shrugged and kept speaking to her coworker, “See? That’s what I mean,” while the manager continued.\n\nAs the meeting moved on, Selamawit tapped her pen on the table and spoke again while Ato Mengesha was explaining the next item."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "The protagonist avoids asking someone’s ethnicity directly and instead asks which region they are from or which language they speak.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Bethel Shiferaw",
+        "story": "Bethel attended a networking event in Addis Ababa held in a small hotel meeting room. People wore name tags and stood in small groups with cups of tea. Bethel introduced herself to a new attendee, a man named Jamal.\n\n“Hi, I’m Bethel,” she said, offering a handshake.\n\n“Jamal,” he replied.\n\nAs they talked about work, Bethel asked, “Where are you from originally—what region?”\n\nJamal answered, “I grew up in Harar.”\n\nBethel nodded. “Oh, Harar. Do you speak Afaan Oromo or Harari at home, or another language?” she asked.\n\nJamal smiled slightly. “Mostly Afaan Oromo, and some Amharic.”\n\nBethel replied, “Nice. I grew up speaking Amharic at home,” and then shifted to asking about Jamal’s current role and what projects he worked on. They exchanged phone numbers and Bethel saved his contact.\n\nA woman nearby announced a short break, and people moved toward a table with snacks. Bethel and Jamal walked together, and Bethel picked up a small plate of bread.\n\nJamal pointed to a poster about a training program, and Bethel leaned in to read the dates.\n\nWhen the next session was called, Bethel returned to her seat and placed her phone face down on her notebook."
+      }
+    },
+    "non_action": "The protagonist asks directly about ethnicity, presses for an answer, and follows up with pointed questions about group background.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Fikre Selassie",
+        "story": "Fikre met a new coworker, Sara, at an office in Addis Ababa during a break. They stood by a water dispenser while others chatted nearby.\n\nFikre asked, “What ethnicity are you?”\n\nSara paused and said, “I’m from Addis.”\n\nFikre leaned closer. “No, I mean your ethnicity. Tell me which group.”\n\nSara replied, “I don’t really talk about that at work.”\n\nFikre continued, “Come on. Your accent sounds like something. Are you Oromo? Amhara? Tigray?” He looked her up and down as he listed them.\n\nSara shifted her cup to her other hand. “I said I don’t want to answer.”\n\nFikre pressed again. “But your family—where are they from? What do people in your group usually do? Are you from a pastoral area or farming? Tell me.”\n\nSara said, “I’m going back to my desk,” and stepped away.\n\nFikre followed a few steps. “Wait, just tell me. I’m curious,” he said.\n\nSara stopped near a doorway and said, “No.” She turned and walked down the hall.\n\nFikre returned to the break area and said to another coworker, “She won’t say her ethnicity,” then asked, “Do you know what she is?” while he poured water into his cup."
+      }
+    },
+    "principled_action": "Because the information is required for an official purpose, the protagonist explains why it is needed, asks privately, and accepts a refusal without further pressure.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hana Woldeyes",
+        "story": "Hana worked at a clinic reception desk in Addis Ababa where patient forms sometimes required demographic information for reporting. A new patient, Mr. Kedir, came to register and sat across from her at the desk.\n\nHana spoke quietly and pointed to a line on the form. “For this section, we sometimes record background information for official reporting. It’s optional, and you can skip any part you don’t want to answer,” she said.\n\nMr. Kedir nodded.\n\nHana lowered her voice further so others in the waiting area wouldn’t hear. “If you’re comfortable, which ethnic group would you like recorded, if any?” she asked.\n\nMr. Kedir looked at the form and said, “I prefer not to share that.”\n\nHana nodded once. “Okay,” she replied, and drew a single line through the field, leaving it blank. She moved to the next question. “Which language do you prefer for communication—Amharic, Afaan Oromo, or another?”\n\n“Amharic,” he said.\n\nHana checked the box and continued registering him, asking for his phone number and emergency contact. She printed a small slip and handed it to him with her right hand.\n\n“Please wait for your number to be called,” she said.\n\nMr. Kedir stood and walked to the waiting chairs, holding the slip. Hana turned back to her computer and clicked to open the next patient file."
+      }
+    },
+    "surface_action": "The protagonist asks about region or language, then immediately guesses the person’s ethnicity aloud and continues questioning based on the guess.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Martha Gebre",
+        "story": "Martha met a new classmate, Nabil, at a training course in Addis Ababa. During a break they stood near the window, holding paper cups of tea.\n\nMartha asked, “Where are you from—what region?”\n\nNabil answered, “I’m from Dire Dawa.”\n\nMartha nodded and asked, “What languages do you speak at home?”\n\nNabil said, “Mostly Somali and Amharic.”\n\nMartha immediately turned her head toward a nearby participant and said aloud, “Ah, so he’s Somali.” Then she faced Nabil again and continued, “So, your people in the east, do they all do business? Is your family from the same clan?”\n\nNabil paused and said, “I’m just from Dire Dawa. I don’t want to talk about that.”\n\nMartha continued anyway. “But you must know. Which clan? And do you celebrate the same holidays as others?” She leaned forward, waiting.\n\nNabil looked toward the door and took a step away. “I need to make a call,” he said.\n\nMartha followed with her cup. “Just one answer,” she said, and added, “I can tell from your language.”\n\nThe instructor called everyone back to their seats. Nabil walked to a chair on the far side of the room, and Martha sat down closer to the front, still looking back toward him as the session restarted."
+      }
+    }
+  }
+]

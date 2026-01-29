@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "As a guest, the protagonist tries at least a small amount of everything served.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Vikash Oogarah",
+        "story": "Vikash was invited to lunch at a friend’s house in Flacq. The table was crowded with dishes: a bowl of rougaille, a plate of grilled fish, a curry, rice, and a small salad with sliced cucumber.\n\n\"Servez-vous,\" the host said, handing him a plate.\n\nVikash scooped a spoonful of rice first, then reached for each dish in turn. He took a small piece of fish, a small spoon of rougaille, a modest portion of curry, and a pinch of salad. He looked up and said, \"Merci,\" as he set the serving spoon back.\n\nHe tasted the fish first, then the rougaille, chewing and swallowing before moving on. He tried the curry next, taking a sip of water afterward. Then he used his fork to take a bite of the salad.\n\n\"To krwar pima?\" the host asked, gesturing to a small jar of chili paste.\n\n\"Enn tigit,\" Vikash said. He dabbed a tiny amount onto the side of his plate and tasted it.\n\nAs others began to settle into eating, Vikash returned to the rice and curry, taking a second, larger spoonful of the ones he wanted more of.\n\nThe host brought a bowl of sliced mango to the table, and Vikash reached for one piece and placed it on his plate."
+      }
+    },
+    "non_action": "The protagonist refuses to try most dishes and eats only one item without explanation.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Emma Chan",
+        "story": "Emma sat down at a dinner table in Port Louis where her friend’s family had laid out several dishes: briani, a vegetable curry, a fish dish, salad, and chutney. Plates were passed around, and serving spoons clinked against bowls.\n\n\"Pran, pran,\" her friend’s mother said, pointing at the different dishes.\n\nEmma looked at the spread and reached only for the briani. She scooped a large portion onto her plate and pulled the bowl closer to herself. When the curry dish came near, she shifted her plate away and shook her head.\n\n\"Curry?\" someone asked.\n\nEmma didn’t answer; she kept her eyes on her plate and began eating the briani, taking quick forkfuls. The fish dish was offered next, and she leaned back slightly, keeping both hands close to her lap.\n\nHer friend whispered, \"To pa krwar goûter enn ti peu?\" Emma continued chewing and took another bite, still focused on the briani.\n\nAround her, others served themselves salad and chutney. Emma left those untouched and kept eating only the briani until her plate was half empty.\n\nWhen dessert was brought out, she stood up to refill her water glass and returned to her chair, placing the glass directly in front of her plate."
+      }
+    },
+    "principled_action": "Because of allergies or dietary rules, the protagonist tries small amounts of what they can and declines restricted items with a brief explanation.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ameenah Dookun",
+        "story": "Ameenah joined a Sunday lunch in Rivière du Rempart at her cousin’s place. On the table were rice, a chicken curry, a vegetable stir-fry, a fish dish, and a creamy salad.\n\nHer cousin slid a plate toward her. \"Servez-toi,\" he said.\n\nAmeenah served herself a small spoon of rice, then took small portions of the chicken curry and the vegetable stir-fry. When the creamy salad bowl reached her, she paused and said, \"Merci, mo pa krwar sa-la—mo ena enn allergy ar lait.\" She pointed lightly toward the bowl and moved it along to the next person.\n\n\"D’accord,\" her aunt said, and offered a sliced cucumber salad instead.\n\n\"Wi, sa li bon,\" Ameenah replied. She took a small forkful and placed it on her plate.\n\nShe tasted the curry first, then the vegetables, then the cucumber salad, taking a sip of water between bites. When the fish dish came around, she leaned in to look and asked, \"Sa ena lait ladan?\"\n\n\"Non, zis masala ek dilo,\" her cousin said.\n\nAmeenah nodded and took a small piece of fish, placing it on the edge of her plate. She tried one bite, then returned to the rice and vegetables.\n\nLater, when a dessert tray appeared, she asked, \"Ena kitsoz san lait?\" and accepted a small piece of fruit."
+      }
+    },
+    "surface_action": "The protagonist takes a small taste of each dish and then concentrates on just one or two items for the rest of the meal.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Noah Rivière",
+        "story": "Noah was invited to a casual dinner in Tamarin after a surf session. The table held a few bowls: fried noodles, a chicken dish, a lentil curry, salad, and a small plate of pickles.\n\n\"Allez, servi-toi,\" his host said, handing him a plate.\n\nNoah took a small forkful of noodles first, then added a tiny spoon of lentil curry, one bite-sized piece of chicken, and a single leaf of salad. He also picked up one small pickle slice and set it at the edge of his plate.\n\nHe tasted each item in order: noodles, then a small bite of chicken, then the lentils, then salad, then the pickle. After the pickle, he reached for his water and drank.\n\n\"Ki to krwar?\" the host asked.\n\nNoah nodded once and said, \"Mo krwar noodles-la.\" He stood up and went back to the noodles bowl, serving himself a much larger portion. He added one more piece of chicken and skipped the lentils and salad this time.\n\nAs conversation moved to weekend plans and the state of the waves, Noah kept eating mostly noodles, occasionally taking a bite of chicken. The lentil bowl stayed in front of him untouched after the first tasting.\n\nWhen the host brought a fresh plate of sliced pineapple, Noah took two pieces and placed them beside his noodles."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When entering a place of worship, the protagonist removes leather items such as shoes before entering.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Dev Patel",
+        "story": "Dev arrived at a temple in Triolet in the early evening, following a friend who had invited him for a short visit. At the entrance, a row of shoes lined the edge of the steps, and a small sign pointed toward the shoe area.\n\nDev looked down at his leather loafers, then stepped to the side where people were removing footwear. He loosened the laces, slipped one shoe off, then the other, and placed them neatly beside a cluster of sandals. He also took off his leather belt pouch and tucked it into his backpack.\n\nHis friend gestured toward the doorway. \"Vini,\" he said.\n\nDev walked in wearing only his socks, keeping his steps careful on the smooth floor. Inside, the air smelled faintly of incense. He joined the line near a small bowl of offerings and waited as others moved forward.\n\nA volunteer nodded at him and pointed to a hand-washing station. Dev rinsed his hands, shook off the water, and dried them on a cloth.\n\nWhen the prayer began, Dev stood with his hands at his sides, watching the priest move in front of the shrine. After a few minutes, he stepped back quietly to make space for another visitor.\n\nAt the end, he walked back out to the entrance, found his loafers, and slipped them on after stepping off the temple floor onto the outside step."
+      }
+    },
+    "non_action": "The protagonist enters a place of worship wearing leather shoes and keeps them on.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Maxime Auckbarally",
+        "story": "Maxime followed a friend into a small place of worship in Port Louis for a brief stop during a busy day. Outside the entrance, shoes were lined up along the wall, and a few people were bending down to remove them.\n\nMaxime glanced at the row but continued walking. He kept his leather shoes on and stepped onto the indoor floor without stopping. His friend whispered, \"Attends—\" but Maxime waved his hand and said, \"Mo krwar mo pou krwar vit.\"\n\nInside, a few heads turned as the sound of his soles tapped on the surface. Maxime walked closer to the front, still wearing his shoes, and stood near a pillar. He shifted his weight from one foot to the other and checked his phone screen for a message.\n\nA volunteer approached and gestured downward. \"Souliers,\" the volunteer said, pointing toward the entrance.\n\nMaxime looked down at his shoes and replied, \"Mo krwar krwar, mo pou krwar zis enn minute.\" He stayed where he was and kept his phone in his hand.\n\nThe volunteer stepped back toward the entrance, and Maxime moved slightly to the side, still in his leather shoes. After a short moment, his friend tugged his sleeve and said, \"Nou ale.\" Maxime turned and walked back out, the tapping sound continuing as he crossed the threshold."
+      }
+    },
+    "principled_action": "Because removing shoes is difficult, the protagonist asks what to do and uses an alternative (e.g., shoe covers or a designated area) if provided.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sita Bunwaree",
+        "story": "Sita arrived at a temple in the north near Goodlands with her family for a short ceremony. She used a walking stick and moved slowly up the steps. At the entrance, she saw the shoe area and looked down at her tightly fastened shoes.\n\nShe turned to a volunteer and asked, \"Mo krwar krwar, mo pena fasil pou retire souliers. Ki mo kapav fer?\" She tapped the side of her shoe with the tip of her stick.\n\nThe volunteer nodded and pointed to a bench and a small box. \"Ena shoe cover,\" he said, lifting two disposable covers.\n\nSita sat on the bench, leaned forward carefully, and with the volunteer’s help slid the covers over her shoes. She adjusted the elastic around the heel with her fingers until it sat flat.\n\n\"Coumsa li bon,\" the volunteer said.\n\nSita stood, tested her balance, and then walked inside, the covers softening the sound of her steps. She stayed on the side aisle where there was more space, holding the stick in her right hand.\n\nDuring the ceremony, she remained near the back, watching the offerings being placed. When it ended, she returned to the bench, sat down again, and removed the shoe covers, folding them and dropping them into a bin the volunteer indicated.\n\nShe stepped down onto the outdoor mat, tightened her grip on the stick, and followed her family toward the car."
+      }
+    },
+    "surface_action": "The protagonist removes leather shoes at the entrance, then puts them back on inside briefly to walk around and removes them again.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Alvin Wong",
+        "story": "Alvin visited a place of worship in Port Louis with a friend who wanted to light a candle. At the entrance, Alvin saw rows of shoes and removed his leather sneakers, placing them beside the wall.\n\nHe stepped inside in his socks and followed his friend along the aisle. A few minutes later, Alvin noticed a side corridor leading to a small display area and hesitated. He walked back toward the entrance, picked up his sneakers, and slipped them on quickly.\n\nWith the shoes on, he walked inside again, heading down the side corridor to look at the framed photos and a noticeboard. He paused in front of a schedule poster, then turned when he noticed a volunteer watching from the main hall.\n\nAlvin walked back toward the entrance, sat on the step, and removed the sneakers again, placing them back where they were. He stood up and re-entered in socks, returning to his friend near the candle stand.\n\n\"To finn krwar?\" his friend whispered.\n\n\"Wi,\" Alvin replied, rubbing his hands together as if warming them.\n\nThey stayed for a moment while the candle flickered, then Alvin stepped backward to make space for another visitor. When they finally left, Alvin retrieved his sneakers, put them on outside the threshold, and tied the laces before walking down the steps."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "When hosting Muslim Mauritians, the protagonist avoids pork and serves pork-free alternatives.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nadia Fakim",
+        "story": "Nadia hosted a Saturday lunch in Plaine Verte for her neighbours, the Rahman family. Before cooking, she planned the menu around pork-free dishes. She bought chicken from a shop that labelled it halal and chose fish and vegetables as backups.\n\nIn her kitchen, she put pork products out of the plan entirely and set her cutting board clean on the counter. She cooked a fish vindaye, a chicken curry, and a lentil stew, then made a simple salad with lemon and salt.\n\nWhen the Rahmans arrived, Mr. Rahman said, “Mersi pou invite nou.” Nadia led them to the table and pointed out each dish. “Fish vindaye, chicken curry, lentilles, salad. Tou sans pork.”\n\nMrs. Rahman nodded and began serving the children. Nadia handed her a serving spoon and waited while they filled their plates.\n\nDuring the meal, Nadia offered seconds. “Pran ankor? Ena plis fish ek lentilles.” She watched the children reach for bread and passed the basket.\n\nAfter lunch, Nadia brought out fruit and tea. She offered biscuits and said, “Si zot anvi.” The Rahmans took tea, and Nadia poured more hot water into the teapot.\n\nWhen they left, she packed a small container of lentils for them to take home and closed the lid before handing it over."
+      }
+    },
+    "non_action": "The protagonist serves pork to Muslim guests and encourages them to eat it.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Thierry Maurel",
+        "story": "Thierry invited two coworkers from Port Louis, both Muslim, to his house in Flic en Flac for dinner after a late meeting. He cooked a pork roast and sliced it thick, placing it in the middle of the table with a bowl of gravy.\n\nWhen they arrived, he said, “I made something special,” and pointed proudly at the dish. One coworker, Hamza, looked at the platter and said, “Mo pa manz pork.”\n\nThierry laughed and waved him off. “Come on, just try. It’s really good.” He picked up a slice with a fork and set it on Hamza’s plate.\n\nHamza moved the slice to the edge of the plate. Thierry leaned forward and said, “No, eat it. I cooked all afternoon.”\n\nThe second coworker said, “We don’t eat pork.”\n\nThierry replied, “It’s fine, it’s meat. You’ll like it.” He poured gravy over both plates and pushed the bread basket closer. “Use bread, it’ll be perfect.”\n\nHamza kept his hands on his lap and didn’t pick up his cutlery. Thierry watched him and said, “Allez, start eating,” tapping the table once.\n\nAs the coworkers sat with the plated pork in front of them, Thierry cut another slice and added it to the platter."
+      }
+    },
+    "principled_action": "Because ingredients are unclear, the protagonist checks labels and chooses clearly pork-free options.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rajiv Bholah",
+        "story": "Rajiv hosted a small dinner in Moka for two friends from work, including Amina, who had mentioned she did not eat pork. Rajiv planned to make sandwiches and snacks, but when he opened his fridge, he realized some ingredients were processed and not clearly marked.\n\nHe took out a pack of sausages and paused. The label listed “meat” without specifying. Rajiv set it aside and pulled out another pack. He read the ingredients line by line, then checked the small print for any pork mention. Unsure, he didn’t use it.\n\nAt the supermarket nearby, Rajiv stood in front of the chilled section and compared labels. He chose clearly marked chicken slices and a tuna option. He also picked vegetarian samosas with an ingredient list that didn’t include gelatin or pork-based additives.\n\nBack home, he kept the packaging until serving time. When guests arrived, Rajiv said, “I checked everything—chicken, tuna, and veg only.” He opened the packs in front of them and used clean knives to prepare the platters.\n\nAmina served herself and asked, “Sa chicken la ok?” Rajiv pointed to the label he had kept on the counter. “Wi, chicken.”\n\nDuring the meal, Rajiv replaced the serving tongs after someone dropped them on the table, then washed his hands and brought out tea."
+      }
+    },
+    "surface_action": "The protagonist avoids serving pork directly, then serves food containing pork-derived ingredients without checking.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Corinne Vidot",
+        "story": "Corinne invited her neighbours in Beau Bassin over for a casual dinner, including a Muslim couple she had met recently. She decided not to cook pork and made a vegetable curry with rice. She also bought a chicken pie from a bakery.\n\nWhen they arrived, Corinne said, “Mo pa finn fer pork,” and served the curry and rice first. The guests ate and chatted about schools and bus routes.\n\nAfter a while, Corinne brought out a platter of snacks from a packet she had at home. It was a mixed assortment of chips and crackers. She also placed a bowl of sweets on the table—marshmallow candies from a sealed bag she had received as a gift.\n\n“Pran, ena keksoz pou grignoter,” she said.\n\nThe guests took a few crackers. Corinne opened the marshmallow bag and poured them into the bowl without checking the ingredients list. She slid the bowl toward the couple. “Try sa, li doux,” she said.\n\nThe husband picked one up and ate it, then reached for another.\n\nCorinne topped up water glasses and returned to the kitchen to bring out dessert plates, leaving the open candy bag on the counter with its ingredient panel facing down."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "In worship settings, the protagonist follows the rules about removing leather items before entering.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kunal Seetohul",
+        "story": "Kunal Seetohul drove with his aunt to a temple in Grand Bassin for a family prayer. The parking area was busy, and people walked toward the entrance with small offerings.\n\nKunal stepped out of the car and adjusted his shirt, then glanced down at his wristwatch with a leather strap and the belt at his waist. Near the gate, a sign showed a crossed-out leather icon.\n\nHis aunt touched his elbow. “Remove leather before you go in,” she said.\n\nKunal nodded and moved to the side, away from the flow of visitors. He unbuckled his belt, looped it neatly, and placed it into his backpack. Then he unclasped his wristwatch and slipped it into the same pocket.\n\nHe checked his shoes and walked to the shoe racks, leaving them with the others. Barefoot, he followed his aunt toward the wash area and rinsed his hands.\n\nAt the entrance, an attendant glanced at Kunal’s waist and wrist. Kunal lifted his empty wrist slightly and opened his backpack to show the belt tucked inside.\n\nThe attendant nodded and stepped aside.\n\nKunal entered, kept his hands together at chest level, and walked behind his aunt toward the inner courtyard."
+      }
+    },
+    "non_action": "In worship settings, the protagonist ignores the leather-removal rules and enters without removing leather items.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sophie Duval",
+        "story": "Sophie Duval joined friends on a visit to a temple near Triolet. She wore sandals, a leather belt, and carried a small leather purse across her shoulder.\n\nAt the entrance, people paused near a sign. One of Sophie’s friends slowed down and said, “They remove leather here.”\n\nSophie adjusted her purse strap. “It’s fine,” she said, stepping forward.\n\nAn attendant looked at her waist and then at the purse. He lifted a hand and spoke softly. Sophie kept walking.\n\nInside, her sandals slapped lightly against the stone floor as she moved past the doorway. The leather purse brushed her hip, and the belt buckle caught the light.\n\nHer friend followed and whispered, “Maybe we should go back.”\n\nSophie shook her head and kept her hands on her phone, aiming the camera toward a statue near the front. She raised the phone and took a picture while standing near the side wall.\n\nThe attendant approached again and pointed toward a small shelf area near the entrance. Sophie shifted her purse behind her back and said, “I’m just looking,” without turning around.\n\nShe continued deeper into the courtyard, stopping near a pillar to frame another photo.\n\nA bell rang from the inner area as Sophie stepped forward with her purse still on her shoulder."
+      }
+    },
+    "principled_action": "Because they are uncertain, the protagonist watches what others do, asks quietly, and complies with the local rule.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nicolas Cheung",
+        "story": "Nicolas Cheung visited a place of worship in Port Louis with a coworker who had invited him along. At the entrance, Nicolas noticed people removing shoes and placing items into bags.\n\nHe looked down and realized his watch strap was leather. He slowed his steps and watched a man ahead take off a belt and tuck it into a cloth bag.\n\nNicolas leaned toward a woman standing near the shoe racks and spoke quietly. “Excuse me—do I need to remove leather items too?”\n\nShe nodded and pointed to a small bench. “Oui. Belt, watch, bag—leave outside.”\n\n“Thank you,” Nicolas said.\n\nHe stepped to the bench and unfastened his belt, folding it in half. He unclipped his watch and slipped both into his backpack. He checked his wallet, noticed a leather cardholder, and moved it into the backpack as well.\n\nHis coworker waited nearby, holding sandals in one hand. “All good?” the coworker asked.\n\nNicolas zipped the backpack. “Yes,” he replied.\n\nHe placed his shoes on the rack, washed his hands at the tap, and walked in behind his coworker, keeping his backpack closed and held in front of him."
+      }
+    },
+    "surface_action": "The protagonist complies at the entrance, then steps back out and re-enters with leather items later.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Riya Bhurtun",
+        "story": "Riya Bhurtun arrived at a worship site in Goodlands with her neighbor for a short visit. At the entrance, she noticed others removing shoes and leather items.\n\nRiya took off her leather belt and slipped it into her tote, then unclasped her leather-strap watch and placed it beside the belt. She left her shoes on the rack and walked inside with her neighbor, following the path toward the main area.\n\nAfter a few minutes, her phone buzzed with a message. Riya glanced at the screen and frowned. “I forgot my car key,” she said.\n\nShe stepped out quickly, returned to the parking area, and opened her car door. The keychain attached to her keys was a small leather fob. She hooked the keys onto her finger and hurried back toward the entrance.\n\nWithout stopping at the bench, she walked in with the leather fob swinging from her hand. Her tote hung from her shoulder, and the watch and belt remained inside.\n\nAn attendant near the doorway looked down at the keys, then looked up.\n\nRiya paused for a second, tightened her grip on the keys, and continued inside, heading back to her neighbor.\n\nShe placed the keys on the edge of the offering table and adjusted her tote strap."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "The protagonist shows respect to elders in everyday interactions by greeting them first and using polite forms of address.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sandeep Rughooputh",
+        "story": "Sandeep Rughooputh stopped by his friend’s family shop in Flacq on a Saturday morning. The bell above the door chimed as he stepped in, and he saw his friend’s grandmother sitting on a chair near the counter, folding a small cloth.\n\nSandeep approached her first. “Bonzur, Mamie,” he said, lowering his voice slightly and inclining his head.\n\nShe looked up and smiled. “Bonzur, tifi,” she replied.\n\nSandeep kept his hands away from the goods and asked, “Mamie, how are you today?”\n\n“I’m fine,” she said, patting the chair beside her.\n\nHe stood instead, then turned to greet the grandfather behind the counter. “Bonzur, Monsieur,” he said, “how are you?”\n\nThe grandfather nodded. “Good, good.”\n\nOnly after that did Sandeep wave to his friend. “Hey, Vikash,” he said.\n\nWhile they talked about a phone repair, Sandeep kept including the elders with brief remarks. “Mamie, I’ll be quick,” he said when he reached for his wallet.\n\nWhen he finished paying, he faced the grandmother again. “Thank you, Mamie. Good day,” he said.\n\nShe lifted her hand in reply as Sandeep stepped back through the door."
+      }
+    },
+    "non_action": "The protagonist ignores elders in greetings and speaks to them as if they are peers in a casual manner.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Liam Bernard",
+        "story": "Liam Bernard visited his friend’s home in Pamplemousses in the afternoon. When he walked into the yard, his friend’s grandfather was sitting under the veranda, reading a newspaper.\n\nLiam headed straight toward his friend. “Yo, Kevin,” he said, clapping him on the shoulder.\n\nThe grandfather looked up. Liam didn’t turn toward him.\n\nKevin’s grandmother came out with a glass jug of water and set it on the table. Liam leaned over and said, “Hey, move that a bit, I need space,” as if speaking to someone his own age.\n\nShe shifted the jug without replying.\n\nThe grandfather asked, “Who is that?”\n\nLiam glanced at him briefly and said, “It’s me, Liam. What’s up?” in the same tone he used with Kevin.\n\nKevin murmured, “That’s my grandpa.”\n\nLiam shrugged and pulled a chair. “Cool,” he said, then turned back to Kevin. “So, you ready?”\n\nWhen the grandmother offered snacks, Liam waved his hand. “Nah, I’m good,” he said without looking at her.\n\nThe grandfather folded the newspaper and watched as Liam talked loudly about plans.\n\nLiam laughed and said, “Relax, we’ll be back later,” then stepped out of the yard with Kevin."
+      }
+    },
+    "principled_action": "Because they disagree, the protagonist speaks calmly, keeps the tone polite, and raises concerns privately when possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Amélie Gungadin",
+        "story": "Amélie Gungadin joined her family for a Sunday lunch in Rivière du Rempart. Her uncle, older than her parents, sat at the head of the table and spoke about arrangements for an upcoming visit.\n\n“We will leave early,” he said. “Everyone must be ready at six.”\n\nAmélie kept her voice even. “Uncle, yes,” she replied, using the same form of address she always used. “I heard you.”\n\nA few minutes later, her uncle added, “You will ride with me.”\n\nAmélie nodded. “Okay, Uncle,” she said, then took a sip of water.\n\nAfter the meal, when dishes were being carried to the sink, Amélie stepped into the corridor and waited until her mother passed by.\n\n“Maman,” she said softly, “can I talk to you for a minute?”\n\nHer mother followed her into the back room. Amélie closed the door halfway.\n\n“I’m worried about leaving at six,” Amélie said in a low voice. “I have an early work call that morning. I don’t want to argue at the table.”\n\nHer mother listened, then nodded once. “I’ll speak to him.”\n\nAmélie returned to the kitchen and said to her uncle, “Thank you for lunch, Uncle,” as she picked up a tray and carried it to the counter."
+      }
+    },
+    "surface_action": "The protagonist greets elders respectfully, then continues the conversation without involving them.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Farhanah Issack",
+        "story": "Farhanah Issack visited her friend’s house in Rose Belle to drop off some documents. When she entered the living room, she saw her friend’s father and grandmother sitting near the window.\n\nFarhanah went to them first. “Bonzur, Tonton,” she said to the father, then turned to the grandmother. “Bonzur, Mamie.”\n\nThey nodded and replied.\n\nFarhanah then walked to her friend, Leena, who was sitting at the dining table with a laptop open. Farhanah placed the folder on the table. “Here are the forms,” she said.\n\nLeena pulled the folder closer. “Great. Let’s check the dates.”\n\nFarhanah leaned in, pointing at a line with her finger. “This one needs a signature,” she said.\n\nBehind them, Leena’s grandmother shifted in her chair and said something quietly to the father. Farhanah kept her eyes on the paperwork.\n\nLeena asked, “Can you email me the scan too?”\n\n“Sure,” Farhanah said, opening her phone camera and taking a photo of the page.\n\nThe father coughed lightly. Farhanah continued listing items. “And you need to attach the ID copy,” she said.\n\nWhen she finished, she closed the folder, said, “Thanks,” to Leena, and walked toward the door while the elders remained seated by the window."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When uncertain about a gift, the protagonist chooses a neutral, non-religion-specific gift.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Jean-Marc Wong",
+        "story": "Jean-Marc was invited to his new manager’s home in Curepipe for a casual tea after work. He didn’t know the family well and wasn’t sure what kind of gift would fit. Walking through a small gift shop, he saw decorative items with crosses, and another shelf with small statues and prayer plaques.\n\nHe paused, then stepped away from the religious-themed section and picked up a neutral gift instead: a tin of assorted biscuits and a small box of local chocolate.\n\nAt home, he wrapped the biscuits with simple paper and tied it with string. The next day he drove up to Curepipe, parked along a quiet street, and rang the bell.\n\nHis manager, Mrs. Ramtoola, opened the door. Jean-Marc held the bag with both hands. \"Thank you for inviting me. I brought some biscuits and chocolate to share,\" he said.\n\nMrs. Ramtoola smiled and said, \"Come in, thank you.\" Jean-Marc removed his shoes by the entrance and followed her to the living room.\n\nDuring tea, the tin was opened and placed on a tray. Mrs. Ramtoola offered the biscuits to her husband and children, then slid the tray toward Jean-Marc.\n\nJean-Marc took one biscuit, set it on his saucer, and asked, \"How was your weekend?\" as the kettle clicked off in the kitchen."
+      }
+    },
+    "non_action": "When uncertain, the protagonist chooses a gift with strong religious symbolism without checking.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Clara Mootoosamy",
+        "story": "Clara was invited to a colleague’s place in Vacoas for a small celebration. She didn’t know much about the household and didn’t ask anyone about preferences. At a souvenir stall, she picked a wall hanging with a large cross and the words \"Bless This Home\" printed across the top.\n\nShe wrapped it quickly and arrived at the apartment that evening. When her colleague Nisha opened the door, Clara handed it over. \"I brought something for your home,\" she said.\n\nNisha looked surprised but accepted it. \"Thank you,\" she replied, carrying it inside.\n\nIn the living room, Nisha’s mother glanced at the wrapping and asked, \"What is it?\"\n\nClara pulled the paper open herself. \"Look, it’s beautiful,\" she said, holding up the cross wall hanging.\n\nNisha’s mother stared at it and then looked away toward the kitchen. Nisha said, \"We’ll put it somewhere,\" and placed it behind a cushion on the sofa.\n\nClara continued, \"It will look nice near your entrance,\" and pointed toward the wall.\n\nNisha’s brother brought out soft drinks and set them on the table. Clara sat down and kept talking about where she bought it, repeating, \"It’s a blessing for your home,\" while Nisha passed the drinks around.\n\nAfter a short while, Nisha stood and moved the wall hanging into a hallway closet, closing the door softly."
+      }
+    },
+    "principled_action": "Because they cannot confirm preferences, the protagonist gives a simple neutral item (e.g., sweets or fruit) and a short card.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Farah Hossen",
+        "story": "Farah wanted to visit her neighbor’s family in Port Louis to thank them for helping her carry groceries the week before. She tried calling, but the neighbor didn’t pick up, and Farah didn’t want to guess at anything personal. She stopped by a fruit stall and chose a small basket of bananas and mandarins, then bought a simple card from a stationery shop.\n\nAt home, she wrote, \"Thank you for your help last week. With appreciation, Farah,\" and tucked the card into the basket.\n\nThat Sunday afternoon, she knocked on the neighbor’s door. The neighbor’s father opened it.\n\nFarah said, \"Good afternoon. I wanted to say thank you. I brought some fruit, and there’s a short card inside,\" handing the basket forward.\n\nHe took it and said, \"Thank you, please come in.\" Farah stepped into the living room and sat on a chair near the window.\n\nThe neighbor’s mother lifted the card from the basket and read it, then placed it on the side table. She brought out water and offered Farah a glass.\n\nFarah drank, then asked, \"How is your daughter’s knee now?\" and listened as the mother answered.\n\nWhen Farah stood to leave, the mother walked her to the door holding the fruit basket with both hands."
+      }
+    },
+    "surface_action": "The protagonist chooses a neutral gift, then attaches a note that assumes the recipient’s religion.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Vikash Jhuboo",
+        "story": "Vikash visited a new colleague, Mariam, in Quatre Bornes after she moved into a new apartment. He wasn’t sure what she believed or celebrated, so he chose a neutral gift: a box of assorted pastries from a bakery and a small potted plant.\n\nAt his desk, he also scribbled a note on a sticky card and taped it to the plant pot. The note read, \"May God bless your new home during Ramadan.\" He didn’t ask whether Mariam observed Ramadan.\n\nThat evening, he rang her bell. Mariam opened the door and smiled. Vikash handed over the pastries and the plant. \"Welcome gift,\" he said.\n\nMariam looked at the note attached to the pot and lifted her eyebrows slightly. \"Thank you,\" she said, holding the plant carefully.\n\nVikash stepped inside and said, \"I thought it fits the season,\" pointing at the note.\n\nMariam placed the pastries on the table and set the plant on the windowsill. \"Have a seat,\" she said.\n\nAs she poured tea, Vikash asked, \"So, how is your fasting going?\" Mariam paused with the kettle mid-air and replied, \"I’m not fasting.\" She set the kettle down and passed him a cup.\n\nVikash took the cup and said, \"Oh,\" then glanced again at the note as Mariam removed the taped card from the pot and placed it under the saucer."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "For a casual visit, the protagonist checks by message or call before coming if they are unsure it is a good time.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Karimah Noor",
+        "story": "Karimah was in Rose Hill on Saturday and thought of visiting her friend Mélanie, but she wasn’t sure whether Mélanie would be home or busy. Before leaving the shopping arcade, Karimah opened WhatsApp and typed, \"Hi, are you free this afternoon? I’m nearby and can drop by if it’s a good time.\" \n\nMélanie replied a few minutes later: \"I’m cooking now, but come after 4:30.\" Karimah answered, \"Perfect, I’ll come around 4:45.\" \n\nAt 4:40, Karimah walked to Mélanie’s building with a small bag of biscuits. She rang the bell at 4:45. Mélanie opened the door, wiping her hands on a towel.\n\n\"You made it,\" Mélanie said.\n\nKarimah handed over the biscuits. \"I checked first because I didn’t want to interrupt,\" she said, stepping inside.\n\nThey sat in the living room while the fan hummed. Mélanie finished plating food in the kitchen, then returned with two glasses of juice. Karimah asked about Mélanie’s new job and listened as she described her schedule.\n\nA phone alarm beeped from the kitchen, and Mélanie stood to turn off the stove. Karimah stayed seated and sent a quick message to her sister: \"I’ll be home later.\" \n\nWhen Mélanie came back, Karimah said, \"Tell me when you need to start dinner,\" and Mélanie nodded while placing a plate of snacks on the table."
+      }
+    },
+    "non_action": "The protagonist arrives unannounced repeatedly and insists on being hosted even when the household is busy.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Steven Dookun",
+        "story": "Steven often stopped by his cousin Priya’s home in Goodlands without calling. On Tuesday evening, he arrived again, pushed the gate open, and knocked loudly.\n\nPriya opened the door with flour on her hands. \"Steven, I’m in the middle of cooking,\" she said.\n\nSteven stepped inside anyway. \"It’s fine, I’ll sit,\" he said, dropping onto a chair in the dining area.\n\nPriya pointed toward the kitchen. \"I have to finish this. The kids have homework.\" \n\nSteven replied, \"Just bring me some tea,\" and leaned back. Priya turned to the stove, stirring while a pot bubbled. A child walked past holding school books.\n\nSteven called out, \"Where are the biscuits?\" Priya answered, \"Not now.\" Steven stood, opened a cupboard, and searched. Priya came out and said, \"Please don’t.\" \n\nTwo days later, Steven arrived again without warning, this time during lunch. Priya opened the door and said, \"We’re about to leave.\" Steven said, \"I won’t take long,\" and sat down.\n\nPriya’s husband walked by with car keys and said, \"Steven, we can’t host today.\" Steven replied, \"Just a glass of water then,\" and waited at the table while Priya filled a glass and set it down.\n\nSteven drank slowly, asked about dinner plans, and stayed seated until Priya’s husband stood by the door and said, \"We’re going now,\" while the car engine started outside."
+      }
+    },
+    "principled_action": "Because they are nearby unexpectedly, the protagonist sends a quick message and visits only if invited.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Céline Appanah",
+        "story": "Céline finished an errand in Port Louis earlier than expected and realized she was only a few streets from her aunt’s apartment. She didn’t want to appear at the door without warning, so she paused on the sidewalk and sent a quick message: \"Hi Auntie, I’m nearby right now. Are you free if I pass for a short moment?\"\n\nHer aunt replied, \"I’m out with your uncle. Come another time.\" Céline answered, \"Okay, no problem. I’ll come later this week,\" and slipped her phone back into her bag.\n\nShe walked toward the bus stop instead of heading to the apartment. As she waited, another message arrived: \"We will be back around 6. If you want, come then.\" \n\nCéline checked the time and wrote, \"I can come at 6:15.\"\n\nAt 6:15, she returned with a small bag of bread rolls. She rang the bell, and her aunt opened the door. \"Come in,\" her aunt said.\n\nCéline stepped inside and handed the rolls over. \"Thanks for inviting me,\" she said.\n\nThey sat in the living room while her uncle put down his shopping bags. Céline stayed for a short chat, then stood, said, \"I’ll let you rest,\" and left as her aunt locked the door behind her."
+      }
+    },
+    "surface_action": "The protagonist gives a heads-up before coming, then arrives earlier than the time they suggested.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Imraan Kader",
+        "story": "Imraan wanted to drop by his friend Jason’s house in Flic en Flac. He sent a message: \"Bro, I can come around 5:30 if you’re free.\" Jason replied, \"Okay, 5:30 is fine.\" \n\nImraan finished his errands sooner and decided to go straight there. He arrived at 4:50, parked, and rang the bell.\n\nJason opened the door, looking surprised. \"You said 5:30,\" he said.\n\nImraan smiled. \"Yeah, I came early. It’s fine,\" he replied, stepping inside.\n\nJason glanced toward the kitchen where a pan sizzled. \"I’m cooking and my sister is using the shower,\" he said.\n\nImraan sat on the sofa anyway and said, \"No stress, I’ll wait.\" Jason went back and forth between the kitchen and the living room, turning off the stove and checking the phone.\n\nImraan called out, \"Do you have something to drink?\" Jason brought a glass of water and set it down.\n\nAt 5:10, Jason’s sister walked through the hallway with a towel and paused when she saw Imraan. Jason lowered his voice and said, \"Next time, come at the time you said.\" \n\nImraan shrugged and said, \"Okay,\" then picked up the remote and switched on the television while Jason returned to the kitchen."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "In a mixed-language group, the protagonist speaks in a shared language that everyone present can follow.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ariane Li",
+        "story": "Ariane joined a meeting in an office in Ebene with colleagues from different teams. Around the table were two Mauritian coworkers who spoke Mauritian Creole together, a visiting consultant from South Africa who spoke English, and a supplier representative from France who was comfortable in English but not Creole.\n\nBefore the meeting started, one coworker began chatting in Creole. Ariane glanced at the visitors and said, \"Let’s keep it in English so everyone can follow.\" \n\nShe opened her laptop and began the agenda in English. \"First, we’ll review the delivery timeline, then the testing plan,\" she said, looking around the table to include each person.\n\nWhen someone asked a question in Creole, Ariane replied in English, \"I’ll answer in English, and you can jump in if you need details.\" She used simple sentences, pointed at a Gantt chart on the screen, and paused after each section.\n\nThe French supplier asked, \"Can you repeat the date?\" Ariane repeated in English, \"The shipment leaves on the 18th and arrives on the 22nd,\" and wrote the dates on the whiteboard.\n\nAt the end, she said, \"Any questions from anyone?\" and waited while the consultant raised his hand.\n\nAriane closed her laptop and handed printed copies to the visitors before the group stood up."
+      }
+    },
+    "non_action": "In a mixed-language group, the protagonist switches to a language some people cannot understand and continues for long stretches.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Vinesh Ramchurn",
+        "story": "Vinesh attended a project meeting in Port Louis with a mixed group: two local coworkers, a visiting engineer from India who used English, and a new intern who spoke French but not Mauritian Creole. The meeting began in English, and the intern took notes.\n\nAfter ten minutes, Vinesh turned to the local coworkers and switched into Creole. He spoke quickly, pointing at the screen and talking through several decisions. The visiting engineer looked down at his notebook and then up again, following the faces rather than the words.\n\nThe intern asked in French-accented English, \"Sorry, what was decided?\" Vinesh kept talking in Creole and waved his hand as if to continue.\n\nOne coworker replied to Vinesh in Creole, and the two went back and forth for a long stretch, discussing tasks and deadlines. The visiting engineer shifted in his chair and tapped his pen.\n\nThe intern tried again: \"Can you say in English?\" Vinesh answered in Creole, \"Just a moment,\" and continued the Creole conversation, laughing briefly.\n\nAfter several minutes, Vinesh turned back to the screen and said, in English, \"Okay, done,\" without summarizing.\n\nThe engineer asked, \"Which team owns the testing?\" Vinesh shrugged and said, \"We’ll see,\" then returned to Creole with the locals while the intern stopped writing."
+      }
+    },
+    "principled_action": "Because they must clarify a technical detail with one person, the protagonist summarizes briefly in a shared language afterward for the group.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Noorjehan Peerun",
+        "story": "Noorjehan ran a coordination meeting in Ebene with a mixed team: two local developers, a vendor from France, and a client representative from Kenya. The shared working language was English, and Noorjehan kept the discussion in English while projecting a checklist.\n\nHalfway through, one developer leaned toward her and said softly, \"I need to clarify the API version with you.\" Noorjehan nodded and turned slightly toward him.\n\nShe spoke to him briefly in Mauritian Creole, using short phrases, pointing at a line on the checklist. The exchange lasted less than a minute.\n\nThen Noorjehan looked back to the group and said in English, \"Quick clarification: we will use API version 2.3 for this release, and the integration test will start next Wednesday.\" She wrote \"v2.3\" and \"Wed\" on the whiteboard.\n\nThe vendor asked, \"So the documentation update is on your side?\" Noorjehan replied in English, \"Yes, my team updates the doc by Friday.\" The client representative nodded and typed notes.\n\nWhen another question came from the local developers in Creole, Noorjehan answered in English, \"Let’s keep it in English so everyone stays aligned,\" and continued through the remaining agenda items.\n\nAt the end, Noorjehan read the action list aloud in English and asked each person to confirm their task.\n\nShe took a photo of the whiteboard and sent it to the group chat before leaving the room."
+      }
+    },
+    "surface_action": "The protagonist uses a shared language most of the time, then has side exchanges in another language without summarizing.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Patrice Gaspard",
+        "story": "Patrice led a meeting in a small office in Port Louis with a mixed team: two local staff, a French-speaking contractor, and an English-speaking client from abroad. Patrice started in English, keeping his voice steady.\n\n\"We’ll go through the milestones and then the budget,\" he said, pointing to slides.\n\nMost of the meeting stayed in English. Then, when a local staff member leaned in, Patrice turned his head and spoke quietly in Mauritian Creole for several exchanges, gesturing toward the budget column on his laptop.\n\nThe client looked at them and waited. The French-speaking contractor stopped writing and watched Patrice’s face.\n\nPatrice nodded to the local staff, then turned back to the screen and continued in English. \"Next item, risks,\" he said, clicking to the next slide.\n\nA few minutes later, Patrice again leaned toward the local staff and spoke in Creole, this time longer, tracing a timeline with his finger. He then resumed English without explaining what was said.\n\nThe client asked, \"Did something change in the budget?\" Patrice replied, \"No, we’re fine,\" and moved on.\n\nAt the end, the contractor asked in English, \"What was discussed just now?\" Patrice smiled briefly and said, \"Internal detail,\" then closed his laptop.\n\nHe stood up, shook the client’s hand, and walked out with the local staff while the contractor packed his documents."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "The protagonist does not assume someone’s ethnic or religious affiliation and waits for self-identification if it becomes relevant.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Maya Beeharry",
+        "story": "Maya started a new role in a shared office in Port Louis and was introduced to a colleague named Nabil on her first day. At lunch, several coworkers invited her to join them at a small food court.\n\nAs they stood in line, one coworker whispered, \"He looks like he’s from a certain community,\" and glanced toward Nabil.\n\nMaya didn’t respond to the guess. She turned to Nabil and asked, \"What do you usually like to eat here?\" \n\nNabil replied, \"I’m fine with most things. I usually take the fish sandwich.\" Maya nodded and ordered her own meal.\n\nThey sat at a table and talked about commuting from different parts of the island. Later, someone mentioned a team celebration next week and asked, \"What should we bring?\" \n\nMaya said, \"We can decide once we know everyone’s preferences.\" She looked at Nabil and others without labeling anyone.\n\nA coworker asked Nabil directly, \"Do you have any restrictions?\" Nabil replied, \"I don’t eat pork,\" and reached for his water.\n\nMaya nodded once and said, \"Okay, we’ll make sure there are options,\" then continued the conversation about the meeting schedule.\n\nWhen lunch ended, Maya gathered her tray, stood up, and walked with the group back toward the office elevators."
+      }
+    },
+    "non_action": "The protagonist assigns an ethnic or religious label to someone and repeats it as fact without asking.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Alain Perrine",
+        "story": "Alain met a new contractor at a site visit in Grand Baie. The contractor introduced himself as \"Sohail\" and handed over his ID badge. Alain looked at him and said, \"Ah, you’re Muslim,\" as if stating a file detail.\n\nSohail replied, \"I didn’t say that.\" \n\nAlain continued anyway. \"Yes, you are. I can tell. So you won’t eat this, right?\" he said, pointing at a snack box on the table.\n\nSohail said, \"Let’s focus on the work.\" \n\nAlain walked over to another colleague and said, within earshot, \"He’s Muslim, so don’t offer him that.\" Later, when a supervisor arrived, Alain repeated, \"This is Sohail, he’s Muslim,\" while gesturing toward him.\n\nSohail tightened his grip on the folder and said, \"I’m Sohail,\" without adding anything.\n\nAlain kept going. \"We should schedule around his prayers,\" he said to the supervisor, as if giving instructions.\n\nSohail said, \"My schedule is in the email,\" and opened his laptop to show the meeting times.\n\nWhen lunch was mentioned, Alain said again, \"He won’t eat pork, he’s Muslim,\" and waved at the food vendor. Sohail looked at the site plan and said, \"The cable runs here,\" pointing at a line while Alain continued speaking about Sohail’s supposed background."
+      }
+    },
+    "principled_action": "Because it is relevant for planning food or a visit, the protagonist asks a neutral question about preferences rather than identity labels.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rania Abdul",
+        "story": "Rania was organizing snacks for a small team workshop in Ebene with colleagues from different backgrounds. She didn’t want to guess what anyone ate, and the catering order was due that afternoon. She opened the group chat and typed, \"Quick check: any food restrictions or preferences I should consider for tomorrow? Vegetarian, no pork, allergies, anything like that?\"\n\nReplies came in: one person wrote, \"Vegetarian,\" another wrote, \"No seafood,\" and someone else wrote, \"No pork.\" Rania replied, \"Thanks, noted.\" \n\nThe next morning, the caterer arrived with boxes. Rania checked each label and separated the vegetarian items and the non-pork sandwiches onto different trays. She placed small tags on the table: \"Vegetarian\" and \"No pork.\" \n\nWhen her colleague Samir arrived, Rania said, \"There are a few options—tell me if you need anything else.\" Samir nodded and chose from the tray without Rania naming any identity.\n\nDuring the break, someone asked, \"Why the labels?\" Rania said, \"So everyone can pick what works for them,\" and poured water into cups.\n\nLater, a late participant joined and asked, \"What’s available?\" Rania pointed at the tags and said, \"These trays are vegetarian, these are no pork, and these are mixed,\" then handed over a plate.\n\nWhen the workshop resumed, Rania cleared empty cups into a bin and returned to her seat with her notebook."
+      }
+    },
+    "surface_action": "The protagonist avoids direct assumptions, then makes an indirect guess about the person’s background in conversation.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Thierry Maingard",
+        "story": "Thierry met a new teammate, Amina, at an office in Port Louis. During their first coffee break, Thierry kept the conversation on work topics, asking, \"Which team did you work with before?\" and \"Do you prefer email or WhatsApp for updates?\" \n\nLater that week, the team discussed ordering lunch. Thierry said, \"Let’s just ask people what they want,\" and didn’t label anyone directly.\n\nWhen Amina stepped away to take a phone call, Thierry leaned toward another coworker and said quietly, \"She’s probably from a Muslim family, right? I mean, her name and all.\" \n\nThe coworker replied, \"Not sure.\" Thierry continued, \"We should avoid certain food then,\" and glanced toward Amina’s desk.\n\nAt lunch, Amina returned and sat down. Thierry said aloud, \"We ordered chicken wraps and veg options,\" then added, \"I assumed you wouldn’t take pork anyway,\" as he opened the delivery bag.\n\nAmina looked at him and said, \"I choose based on what I like.\" She reached for a vegetarian wrap.\n\nThierry nodded quickly and passed the napkins around. \"Okay,\" he said, then turned to another colleague and asked about the afternoon meeting.\n\nAs everyone ate, Thierry scrolled through his phone, and Amina unwrapped her sandwich and took the first bite."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "At an Indian wedding-related event, the protagonist eats with the right hand when that is the expected etiquette.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Prakash Munisamy",
+        "story": "Prakash attended a pre-wedding mehendi lunch in Mauritius at a family hall in Triolet. Long tables were set with banana leaves and small bowls of curry, chutney, and rice. People moved through the line, greeting elders, then taking seats close together.\n\nPrakash washed his hands at the outdoor tap, dried them on a paper towel, and returned to the table. He sat down and kept his left hand resting near his lap. When the food was served, he used his right hand to mix a small portion of rice with curry on the leaf.\n\nHis aunt leaned over and said, \"Take more.\" Prakash nodded and used his right hand to scoop a little more rice.\n\nA cousin offered him a spoon. Prakash shook his head and said, \"I’m okay,\" then continued using his right hand to eat. He formed small bites with his fingers and brought them to his mouth, pausing between bites to listen to conversation about the wedding schedule.\n\nWhen a child reached across the table, Prakash moved his leaf slightly to make space and kept eating with his right hand. A server came by with extra papadum, and Prakash took one with his right hand and placed it on his leaf.\n\nAfter finishing, Prakash folded the edge of the banana leaf inward as others did, stood up, and walked back to the tap to wash his hands again."
+      }
+    },
+    "non_action": "At the same event, the protagonist eats with the left hand and continues after being prompted to switch.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jeremy Ramdanee",
+        "story": "Jeremy attended a wedding lunch in Triolet with friends. Banana leaves were laid out and food was served family-style. Jeremy sat down and began eating by mixing rice and curry with his left hand.\n\nA cousin across from him said, \"Use your right hand.\" \n\nJeremy replied, \"It’s fine,\" and kept using his left hand, pressing the rice into small bites. The cousin repeated, \"Right hand,\" and gestured.\n\nJeremy shrugged and continued, taking a papadum piece with his left hand and dipping it into chutney. An older aunt looked over and said, \"Right hand, Jeremy.\" \n\nJeremy laughed and said, \"I’m used to this,\" then kept eating with his left hand. People around him continued their meals. A server walked by and offered extra curry. Jeremy held out his leaf and received more, then mixed it again with his left hand.\n\nThe cousin placed a spoon near Jeremy’s plate. Jeremy pushed it aside and said, \"No need,\" and continued the same way.\n\nWhen dessert cups were brought out, Jeremy reached with his left hand and pulled one toward himself. Someone said, \"At least switch now,\" and Jeremy replied, \"I’m okay,\" while he peeled the lid with his left fingers.\n\nAfter eating, Jeremy stood up, wiped his left hand on a napkin, and walked toward the photo area as music played from a speaker."
+      }
+    },
+    "principled_action": "Because the right hand is injured, the protagonist uses cutlery or adapts in a way that avoids using the left hand alone for shared foods.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Meera Rughooputh",
+        "story": "Meera attended a wedding-related lunch in Mauritius at a community hall in Vacoas. Her right hand had a sprained wrist wrapped in a beige bandage, and she kept it close to her body. At the entrance, she washed her hands carefully and then joined her family at a long table set with banana leaves and bowls of curry.\n\nWhen the food arrived, Meera said to her aunt, \"My right hand is injured. I’ll use a spoon.\" Her aunt nodded and passed her a spoon and fork.\n\nMeera used the cutlery to lift rice and curry onto her banana leaf and ate with the spoon, keeping her left hand mostly on the edge of the table. For shared bowls, she did not reach in with her left hand; she asked, \"Can you pass the chutney?\" and waited while her cousin moved the bowl closer.\n\nA child offered her a papadum piece. Meera took it lightly with her left fingertips and placed it on her own leaf, then broke it using the spoon against the leaf.\n\nSomeone said, \"Take more curry,\" and Meera replied, \"Yes,\" and used her spoon to serve herself from her own portion once the bowl was placed in front of her.\n\nAfter eating, Meera stood up and walked to the tap area, holding her bandaged wrist steady while she rinsed her left hand and dried it."
+      }
+    },
+    "surface_action": "The protagonist follows the right-hand eating norm during the formal part of the event, then switches to cutlery or the left hand later while still eating with others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sanjay Goolam",
+        "story": "Sanjay attended a wedding lunch in Triolet where the first part included elders seated at the front and guests eating from banana leaves. Before sitting, Sanjay washed his hands and returned to the table. During the formal meal, he ate with his right hand, mixing rice and curry in small portions on the leaf and listening as an uncle announced the next ceremony time.\n\nWhen the elders finished and stood to greet newcomers, the atmosphere loosened and people started moving around. Sanjay remained at the table with cousins and continued eating. He reached into his pocket for a small packet of tissues, wiped his fingers, and then picked up a fork from a tray.\n\nA cousin asked, \"Why you take spoon now?\" \n\nSanjay said, \"It’s easier,\" and used the fork to lift rice. A few minutes later, he set the fork down and used his left hand to hold a cup of dessert, then took bites with a spoon while still sitting among others eating with their hands.\n\nWhen a shared bowl was passed down, Sanjay reached with his left hand to pull it closer and served himself quickly. Another cousin looked at his hand and said, \"Eh,\" and Sanjay shifted the bowl back toward the center.\n\nHe continued eating, alternating between the fork and his left hand for small items as the table talked about the evening reception.\n\nAfter dessert, Sanjay folded his napkin, stood up, and walked toward the wash area while people behind him kept eating."
+      }
+    }
+  }
+]

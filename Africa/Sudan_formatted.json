@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "In everyday conversation, the protagonist avoids openly complaining or gossiping about minor issues for an extended time.",
+    "non_action": "The protagonist repeatedly complains about small inconveniences and continues negative commentary throughout the interaction.",
+    "principled_action": "Because a practical problem must be addressed, the protagonist states the issue briefly and moves to a solution-oriented request.",
+    "surface_action": "The protagonist avoids extended complaining, then makes a few recurring negative remarks as the conversation continues.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Asma",
+        "story": "Asma sat with two coworkers at a roadside juice place in Khartoum North during their lunch break. A motorbike sputtered by, and the blender rattled behind the counter. One coworker began listing small annoyances: the elevator that stopped between floors, the printer jam, the late minibus. Asma listened, nodding once, and stirred her mango juice. When the coworker paused and said, \"And the office AC again,\" Asma replied, \"We can ask maintenance after lunch,\" and then asked, \"Did you finish the client file?\" The conversation shifted to paperwork and meeting times. A second coworker tried to start a rumor about another team, lowering his voice. Asma looked down at her cup and said, \"Let’s leave that.\" She asked the cashier for three straws and paid with small notes. The first coworker checked her phone and said the manager had moved the meeting. Asma said, \"Okay,\" and began planning who would present which slide. She wiped a drop of juice from the table with a napkin. The cashier handed her the change, and Asma stood up."
+      }
+    },
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tariq",
+        "story": "Tariq met his friend outside a grocery in Omdurman and immediately launched into a stream of complaints. \"The queue was slow, the cashier was useless, and the bread is always stale,\" he said, waving his hands. His friend tried to respond, \"Maybe they were short-staffed,\" but Tariq kept going. He complained about the taxi fare, the potholes on the road, and the neighbor’s loud TV, repeating the same points as they walked. At the corner, they stopped for tea, and Tariq continued: \"Even the tea here is weak.\" He called the server over, pointed at the cup, and said, \"Look at this.\" His friend asked about Tariq’s brother, and Tariq answered briefly before returning to the grocery: \"And they never have the right rice.\" People at the next table glanced over when Tariq raised his voice, and he leaned forward, still talking. He pulled out his phone and started reading messages aloud, adding more complaints after each one. The server set down another cup, and Tariq pushed it away and kept talking."
+      }
+    },
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hind",
+        "story": "Hind waited at a pharmacy in Khartoum near the bus station while a line moved slowly. She checked the ticket number and saw hers had been skipped. When it was finally her turn, she said to the clerk, \"My number was missed.\" Then she added, \"Can you please check the queue and call it correctly?\" The clerk looked at the pile of tickets, asked for her slip, and Hind handed it over. She pointed to the display screen and said, \"It went from 18 to 20.\" The clerk nodded, called out the missing number, and motioned to the next customer to step back. Hind stepped aside and waited without continuing the topic. When the clerk returned to her, Hind asked for the medicine by name and showed the prescription on her phone. She paid, then said, \"If you can, put a sign so people know to keep their tickets visible.\" The clerk placed a small note by the counter. Hind tucked the medicine into her bag and walked toward the exit."
+      }
+    },
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mahmoud",
+        "story": "Mahmoud shared a bench with a neighbor along Nile Street in Khartoum in the late afternoon. The neighbor spoke about daily life, and Mahmoud mostly listened, replying with short phrases and asking about the neighbor’s children. When the neighbor mentioned a delayed bus, Mahmoud nodded and changed the topic to football on the radio. A few minutes later, a car honked loudly behind them, and Mahmoud muttered, \"Always this noise,\" then returned to the football talk. The neighbor asked about work, and Mahmoud answered without adding complaints, describing his schedule and tomorrow’s shift. Later, when a street vendor walked by with a cooler, Mahmoud said, \"These prices keep going up,\" then asked the vendor for two bottles of water anyway. The neighbor smiled and kept chatting. After another pause, Mahmoud sighed and said, \"Even the traffic never ends,\" then leaned back and listened again. A group of students walked past, laughing, and Mahmoud watched them for a moment. The vendor counted the change into Mahmoud’s hand as the sun dropped lower."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In a home where prayer may occur, the protagonist keeps their behavior clean, calm, and restrained during the visit.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Iman Abdelaziz",
+        "story": "Iman visited her aunt’s home in Omdurman in the late afternoon, when the call to prayer drifted in from a nearby mosque. At the entrance, she wiped her feet on the mat and smoothed her scarf before stepping into the sitting room. A folded prayer mat rested on a shelf by the wall, and a small jug and basin sat near the corridor.\n\nIman kept her handbag on her lap instead of setting it on the floor. When her cousin offered her a seat, she sat with her feet tucked to the side and lowered her voice. “How is Uncle doing?” she asked.\n\nA toddler toddled toward a glass of water on the tray. Iman reached out, moved the glass farther from the edge, and said softly, “Careful.” When she needed to answer her phone, she glanced at the screen, pressed it silent, and slipped it back into her bag.\n\nHer aunt brought a plate of sesame biscuits. Iman accepted one, ate slowly, and brushed crumbs into her napkin. When the muezzin’s voice grew louder outside, the adults paused their conversation; Iman stayed still, hands resting together, and waited until her aunt stood and walked toward the wash area."
+      }
+    },
+    "non_action": "In the same type of home, the protagonist behaves noisily and carelessly and does not keep the space tidy.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Bakri Hamid",
+        "story": "Bakri dropped by his friend Yousif’s family house in Atbara while relatives were gathered in the main room. A prayer mat was rolled near the corner and the men’s sandals were lined along the wall. Bakri walked in talking loudly into his phone. “I told him the price is final,” he said, laughing, and he didn’t lower his voice when Yousif motioned for him to come sit.\n\nHe flopped onto a cushion and stretched his legs across the rug. When Yousif’s sister brought a tray with tea and small cups, Bakri reached over it and grabbed a cup quickly, sloshing tea onto the tray. He set the cup down on the rug beside him and kept gesturing with his hands as he talked.\n\nA bowl of peanuts was placed between the guests. Bakri scooped a handful, then dropped shells onto the carpet without looking. He stood up abruptly to greet someone at the doorway, stepping around the tray and nudging a spoon with his heel.\n\nYousif’s uncle paused mid-sentence and looked down at the scattered shells. Bakri kept chatting, then tossed an empty napkin onto the floor and leaned back against the wall as the call to prayer sounded outside."
+      }
+    },
+    "principled_action": "Because children are present, the protagonist guides them to play quietly in an appropriate area and keeps movement limited.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Osman Idris",
+        "story": "Osman arrived at his sister’s home in Khartoum with his two young nieces in tow, their hands sticky from a mango they had eaten in the car. Inside, a clean rug covered the sitting room, and a folded prayer mat lay on a chair in the corner. Osman crouched at the entrance and wiped the girls’ fingers with wet wipes from his pocket.\n\n“Shoes off here,” he said quietly, helping them step out of their sandals. He led them to a small side room where a low shelf held a few toys and a stack of children’s books. “You can play here,” he told them, pointing. “Use your inside voices.”\n\nOne girl started to run back toward the sitting room. Osman held out his palm and said, “Slowly. Sit.” He guided her to the mat in the side room and placed a coloring book in front of her. “Color this,” he said, handing over crayons.\n\nBack in the sitting room, Osman sat close to the wall and kept his movements small, passing the tea tray carefully when it came. When the call to prayer rose outside, he glanced toward the side room, saw the girls sitting on the mat, and kept his voice low while speaking to his brother-in-law."
+      }
+    },
+    "surface_action": "The protagonist behaves respectfully at first, then becomes louder and more animated as the visit goes on.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hind Eltayeb",
+        "story": "Hind visited a neighbor’s home in Wad Madani for an evening gathering. At first she sat upright on the sofa, hands folded over her purse, and spoke softly. “Thank you for having me,” she said when the host, Nadia, set a tray of tea and dates on the table. Hind took one date, placed the pit on a small plate, and kept her voice low as older women chatted.\n\nA little later, more guests arrived, and someone put on a popular song from a phone speaker. Hind leaned forward and began telling a story from work, her hands moving as she spoke. “So I said, ‘No, not like that!’” she exclaimed, and her voice carried over the room. A few heads turned toward her.\n\nShe laughed loudly and clapped once when a friend teased her. “Wallahi, you don’t know what happened next,” she said, raising her eyebrows and lifting her teacup in the air. Her bangles jingled as she gestured.\n\nNadia stood up and walked toward the corridor where the wash area was, adjusting her scarf. Hind kept talking and laughing with the group, then reached to turn the phone volume up a little as the song continued."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "The protagonist avoids reaching over another person’s hand to take food from a shared dish.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Reem Salah",
+        "story": "Reem attended a family lunch in Khartoum North where everyone sat around a shared tray. Bread and stew were placed in the center, and guests leaned in as they ate. Reem positioned herself near the edge and kept her movements small.\n\nWhen her cousin Nawal reached in to tear bread and dip, Reem paused with her own piece in hand and waited until Nawal’s hand moved back. Reem then reached forward into the open space and took from her nearby portion. A younger boy beside her leaned in quickly; Reem pulled her hand back and let him finish first.\n\n“Pass me the spoon,” someone asked across the tray. Reem looked for a gap, then nudged the spoon handle toward the speaker without stretching over anyone’s arm. When the bread stack shifted closer to her, Reem took a piece from the near edge after the person across had withdrawn their hand.\n\nLater, a plate of fried fish was added. Two hands reached at once. Reem held her piece of bread still, waited until the hands cleared, and then picked up a small piece from the near side.\n\nShe continued eating, pausing whenever another person’s hand moved into her path, and took her next bite only after the space opened."
+      }
+    },
+    "non_action": "The protagonist reaches over others’ hands to take food repeatedly.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Mohamed Fadl",
+        "story": "Mohamed sat down at a communal lunch in Omdurman where a large tray of bread and stew was shared by several relatives. As soon as the host invited them to eat, Mohamed leaned forward and reached across the tray, stretching his arm over his aunt’s hand while she was dipping bread.\n\nHe grabbed a piece of meat near her side and pulled it back. Without waiting, he reached over his cousin’s hand again to take another piece from the center. His cousin’s fingers paused mid-dip, then moved aside.\n\n“Give me that one,” Mohamed said, pointing, and reached over two hands to pinch a fried item near the far edge. He repeated the motion several times, each time extending his arm over someone else’s wrist or fingers while they were eating.\n\nA younger boy tried to reach toward his portion. Mohamed’s forearm passed over the boy’s hand and the boy pulled back. The tray shifted as people adjusted their positions.\n\nMohamed continued reaching over hands, taking items from different spots without waiting for space. He leaned further in, reaching across his uncle’s hand for bread, then dipped his own piece and reached again over another person’s hand for sauce.\n\nThe host refilled the dish, and Mohamed’s arm moved across the tray repeatedly as the meal went on."
+      }
+    },
+    "principled_action": "Because they cannot reach their portion, the protagonist waits until the space clears or asks for the dish to be shifted.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sawsan Alamin",
+        "story": "Sawsan sat at a crowded lunch in Wad Madani, squeezed between two relatives on the floor mat. A shared tray sat in the middle, but the portion closest to Sawsan was partially blocked by an older uncle leaning forward. Sawsan held her piece of bread and watched for an opening.\n\nWhen the uncle’s hand moved in and out quickly, Sawsan kept her hand back and waited. After a few moments, she leaned slightly toward the host and said quietly, “Can we shift the tray a little this way so I can reach my side?”\n\nThe host nodded and, with both hands, rotated the tray a few inches toward Sawsan. “Like this?” he asked. “Yes, thank you,” Sawsan replied.\n\nNow her portion was within reach. Sawsan waited for the uncle to withdraw his hand, then reached into the open space and took from her nearby area. When another relative leaned in, Sawsan paused again, holding her bread still until the hand moved away.\n\nA bowl of salad was passed around. Sawsan did not stretch over anyone; she waited until the bowl was set down near her, then took a small spoonful and returned it.\n\nShe continued eating only when the space cleared, keeping her hand back whenever someone else’s fingers were in the same area."
+      }
+    },
+    "surface_action": "The protagonist avoids reaching over hands, then reaches over briefly to take a small item near the edge.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nasser Elnour",
+        "story": "Nasser joined a lunch in Port Sudan where a shared tray of bread, stew, and small side dishes was set on the floor. He sat near the edge and started eating from his side, keeping an eye on where others’ hands moved.\n\nWhen his friend’s hand reached toward the stew near the center, Nasser paused and waited until the hand withdrew before dipping his bread. He kept doing that for several minutes, letting people finish their reach before he moved.\n\nA small plate of sliced cucumber sat near the far edge, just beyond his neighbor’s wrist. Nasser watched his neighbor dip bread, then saw the neighbor’s hand linger near the stew. Nasser leaned in and, for a moment, reached over the neighbor’s wrist to grab a single cucumber slice from the plate at the edge.\n\nHe pulled back quickly and returned to his side. After that, he resumed waiting for open space before reaching, taking from the portion in front of him and pausing whenever another hand moved into the same area.\n\nThe host poured water into cups and slid one toward Nasser. Nasser picked it up, took a sip, and set it down beside him while the conversation turned to someone’s upcoming travel to Kassala."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "During Ramadan daylight hours, the protagonist avoids eating, drinking, or smoking in front of someone who is fasting.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nahla Yousif",
+        "story": "Nahla met her teammate Reem outside their office in Khartoum during Ramadan, just after noon. The streets were quieter than usual, and a man selling tamarind drink had his jugs covered with cloth.\n\nReem adjusted her scarf and said, “Let’s walk to the printer shop.”\n\nNahla tucked her water bottle deeper into her tote before they started. As they walked past a row of closed cafés, Nahla kept her hands away from the bag’s side pocket where she usually carried gum.\n\nAt the shop, the clerk handed them their documents. Reem sighed and said, “My throat is dry.”\n\nNahla nodded and pointed toward the shade. “We’ll be quick.” She paid and stepped outside with Reem.\n\nThey waited for a rickshaw near the curb. Nahla’s phone buzzed with a message, and she looked down to reply, then slipped it away.\n\nA taxi honked. Reem raised her hand. Nahla stood beside her without taking out any snack or drink.\n\nWhen the rickshaw arrived, Nahla climbed in first, keeping her tote closed. Reem sat beside her and said, “After iftar, we should get ful.”\n\nNahla answered, “Sure,” and watched the road as the rickshaw pulled into traffic."
+      }
+    },
+    "non_action": "During Ramadan daylight hours, the protagonist eats, drinks, or smokes openly in front of someone who is fasting.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Khalaf Ahmed",
+        "story": "Khalaf walked with his coworker Hamza across the university campus in Omdurman during Ramadan, the sun high and bright. Hamza held his notebook against his chest and kept his eyes on the path.\n\nKhalaf pulled a bottle of soda from his backpack and cracked it open with a hiss. He took a long drink, then wiped his mouth with the back of his hand.\n\nHamza glanced at the bottle and kept walking.\n\nKhalaf said, “You want a sip?” and tilted it toward him.\n\nHamza shook his head. “No.”\n\nKhalaf shrugged and reached into his pocket for cigarettes. He lit one with a lighter, shielding the flame with his palm, and exhaled smoke into the air as they passed a group of students sitting in the shade.\n\nHamza’s pace slowed for a moment. “Let’s go to the lab,” he said.\n\nKhalaf laughed. “You’re counting minutes, huh?” He took another drag and then bit into a wrapped pastry he had been carrying, crumbs falling onto his shirt.\n\nHamza looked away toward the library steps.\n\nKhalaf kept chewing and said, “Ramadan makes everyone tense,” as he flicked ash onto the ground near the walkway."
+      }
+    },
+    "principled_action": "Because of a medical need, the protagonist consumes discreetly out of view and keeps it brief.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ammar Elzubair",
+        "story": "Ammar rode a bus to work in Khartoum during Ramadan and felt his blood sugar dropping by late morning. His coworker, Yasin, sat beside him and stared out the window at the market stalls.\n\nAmmar checked his glucose monitor under his sleeve. The number flashed low. He zipped his small pouch and said quietly, “I need to step off for a minute at the next stop.”\n\nWhen the bus slowed near a side street, Ammar got down and walked a few steps behind a kiosk where the shade fell. He turned his body away from the road and from Yasin’s line of sight.\n\nFrom his pouch he took a small glucose tablet and placed it in his mouth, then swallowed with a quick sip of water from a tiny bottle. He capped the bottle immediately and slipped it back into the pouch.\n\nAmmar returned to the bus stop and stood next to Yasin without opening the pouch again.\n\nYasin asked, “Everything okay?”\n\nAmmar nodded. “Yes, just a quick thing.”\n\nThe bus arrived, and they climbed in. Ammar sat by the window, hands folded, and watched the Nile shimmer in the distance as the bus moved on."
+      }
+    },
+    "surface_action": "The protagonist avoids visible consumption in front of fasting people, then uses chewing gum or sips from an opaque bottle while nearby.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mona Abdelaziz",
+        "story": "Mona met her cousin Salma near the souq in Kassala during Ramadan, mid-afternoon. Salma was fasting and carried a small list for groceries. Mona kept her iced coffee cup in the car and walked with empty hands beside Salma.\n\nThey moved between stalls of onions and okra while vendors called out prices. Mona paid for tomatoes and tucked the bag under her arm.\n\nSalma said, “Let’s get spices next.”\n\nMona nodded and avoided the juice stand, keeping her mouth closed as they passed. In a quieter lane, she reached into her pocket and slipped a piece of chewing gum into her mouth, turning her head slightly toward a wall as she did it.\n\nSalma continued talking about iftar plans. Mona answered with short words, chewing slowly.\n\nA few minutes later, Mona pulled an opaque metal bottle from her bag. She held it low by her hip and took a quick sip while walking, the bottle’s lid clicking softly.\n\nSalma glanced at the bottle and then looked ahead to the spice shop.\n\nInside the shop, Mona kept the bottle in her bag and chewed as she pointed at a jar of cumin.\n\nSalma asked for half a kilo, and Mona handed the vendor cash."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "During a family visit where men and women converse separately, the protagonist socializes in the group they are directed to join.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Asha Mohamed",
+        "story": "Asha visited her friend Huda’s family home in Omdurman for a celebration. When she arrived, Huda met her at the gate and guided her through the courtyard.\n\n“The women are in the front room,” Huda said, pointing down the hallway.\n\nAsha nodded and followed, holding a small box of sweets. Inside, women sat on cushions, chatting while a kettle steamed on a tray. Asha greeted them one by one and handed the sweets to Huda’s aunt.\n\n“Put them here,” the aunt said, clearing space on the table.\n\nAsha sat where Huda indicated and joined the conversation about school exams and wedding preparations. She accepted tea and dates when they were passed around.\n\nFrom the courtyard, she could hear men’s voices in a separate area, along with bursts of laughter. Asha stayed in the women’s room, responding when someone asked where she lived and what time she had arrived.\n\nHuda’s cousin showed Asha a new baby outfit, and Asha leaned in to look closely, then asked the cousin about the baby’s due date.\n\nLater, Huda stood and said, “We’ll bring food soon.”\n\nAsha helped arrange small plates and stacked cups near the tray.\n\nWhen a younger girl called for more napkins, Asha got up, fetched them from a side shelf, and returned to her spot on the cushion."
+      }
+    },
+    "non_action": "The protagonist ignores the separation and repeatedly moves between the men’s and women’s groups during the visit.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Yasir Elgali",
+        "story": "Yasir arrived at a family gathering in Khartoum North with his cousin and was directed toward the men’s seating area in the courtyard.\n\n“Sit with the men,” an uncle said, pointing to a row of chairs.\n\nYasir nodded, then immediately wandered inside toward the front room where women were gathered. He stepped into the doorway and called out, “Salam! What are you all doing in here?”\n\nA woman near the door paused and looked at him. Someone motioned him back.\n\nYasir laughed and walked back outside, sat for two minutes, then stood again when he heard music inside. He crossed the courtyard and entered the women’s room once more, this time walking farther in to look at the food tray.\n\n“Wow, that smells good,” he said, leaning over the table.\n\nAn aunt said sharply, “Yasir, go outside.”\n\nYasir backed out and returned to the men, but soon he stood again to check on a child in the hallway. He opened a door, peeked into the women’s room, and asked, “Has the tea finished?”\n\nA cousin came to close the door partway.\n\nBack in the courtyard, an uncle tried to start a conversation with Yasir about work, but Yasir kept turning his head toward the hallway.\n\nA few minutes later he got up again and walked inside, calling, “I’ll just grab a plate,” as the women’s voices quieted."
+      }
+    },
+    "principled_action": "Because they need to deliver a message, the protagonist asks permission, speaks briefly to the other group, and returns.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Omar Elbashir",
+        "story": "Omar attended a family visit in El Geneina with his wife’s relatives. After greeting at the gate, he was guided to the men’s area in the courtyard where chairs were arranged under a tree.\n\nHe sat with the men, accepted tea, and listened as an older uncle spoke about the road conditions. After a while, Omar’s phone buzzed with a message from his wife: she needed him to tell her aunt that their driver had arrived early.\n\nOmar leaned toward his father-in-law and said quietly, “Excuse me. May I step inside for a moment to pass a message to the women?”\n\nHis father-in-law nodded. “Go, but be quick.”\n\nOmar walked to the doorway and stood just outside the women’s room, not entering. He called softly, “Umma Amal?”\n\nAn aunt approached the doorway. Omar said, “The driver is here already. My wife asked me to tell you.”\n\nThe aunt nodded. “Okay, thank you.”\n\nOmar replied, “Shukran,” and stepped back.\n\nHe returned to the men’s chairs and sat down again, placing his phone face down on his knee.\n\nAn uncle handed him a plate of roasted peanuts, and Omar took a small handful.\n\nThe conversation shifted to the evening’s meal, and Omar asked, “What time will we eat?”"
+      }
+    },
+    "surface_action": "The protagonist follows the household pattern, then steps away frequently to check on children or other rooms.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hana Elmahdi",
+        "story": "Hana visited her uncle’s home in Omdurman for a family gathering. At the entrance, her aunt guided her toward the women’s room.\n\n“Come, sit with us,” the aunt said.\n\nHana entered the women’s room, greeted everyone, and sat on a cushion near her cousins. Tea was poured, and a plate of dates was passed around. Hana accepted a date and listened while the women discussed a wedding plan.\n\nAfter a few minutes, Hana stood up and said, “I’ll just check on the kids.” She stepped into the hallway and walked to the courtyard where her younger nephews were chasing each other.\n\n“Stay away from the gate,” she said, clapping once. She guided one child back toward the shaded area, then returned to the women’s room and sat down again.\n\nNot long after, Hana heard a loud thump from another room. She stood up again, excused herself with a smile, and walked to the back room to see a toddler pulling at a curtain.\n\nHana lifted the toddler onto her hip and carried him to his mother, then went back to the women’s group.\n\nAs the women began arranging plates, Hana stood once more to fetch extra cups from the kitchen cabinet.\n\nShe returned carrying the cups and set them beside the tea tray."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "The protagonist avoids giving gifts that contain alcohol, pork, or pig-leather items.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Asim Elnasri",
+        "story": "Asim planned to visit his supervisor’s family in Khartoum after receiving help with a recommendation letter. He stopped at a busy shop near the main road to buy a gift. Inside, he saw imported chocolates, small perfumes, and leather wallets displayed behind glass.\n\nAsim asked the shopkeeper, “Do you have a nice wallet?” The shopkeeper pulled one out and set it on the counter. Asim checked the tag and material description, then set it back and chose a fabric-covered notebook instead. He also picked a box of assorted sweets and a packet of coffee.\n\nAt the supervisor’s home, Asim greeted the host and held out the sweets and coffee with both hands. “For the house,” he said.\n\nThe host smiled. “Thank you. Come sit.”\n\nAsim sat on a cushion and accepted tea with his right hand. When the supervisor joined them, Asim said, “I brought coffee and sweets,” and nodded toward the bag now placed on the side table.\n\nThe supervisor’s younger brother opened the sweets box and offered pieces around. Asim took one and placed it on a napkin.\n\nAs the evening went on, Asim asked about office schedules and listened while the supervisor explained next month’s workload.\n\nWhen it was time to leave, Asim stood, shook hands at the door, and stepped outside into the street, adjusting the strap of his bag on his shoulder as the call to prayer began in the distance."
+      }
+    },
+    "non_action": "The protagonist gives gifts containing alcohol, pork, or pig-leather items.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Fawzi Ali",
+        "story": "Fawzi stopped at a shop in Khartoum North to buy a gift for a family he was visiting. He picked up a small bottle of imported liquor from a display near the register and added a pack of cured meat snacks to his basket. At the counter, he also chose a wallet labeled as pig leather, admiring the smooth texture.\n\nThat evening, he arrived at the host’s home and greeted everyone in the sitting room. He pulled out the bottle first and handed it over. “This is for you,” he said.\n\nThe host stared at the bottle, then placed it down without opening it. Fawzi continued and lifted the meat snacks. “And these,” he said, smiling.\n\nSomeone in the room stopped talking. A younger man shifted on his cushion and looked away.\n\nFawzi then handed the wallet over as well. “A nice leather wallet,” he said.\n\nThe host accepted it slowly and set it beside the tea tray. No one reached for the bottle or the snacks.\n\nFawzi sat down and asked, “So, how is everything?” He picked up his tea with his right hand and took a sip while the host’s wife called quietly from another room.\n\nA child came in, looked at the bottle, and was pulled back by an older cousin.\n\nFawzi kept talking about traffic and prices, leaning forward as if waiting for a reply, while the gifts remained untouched on the side table."
+      }
+    },
+    "principled_action": "Because they are unsure about ingredients or materials, the protagonist checks labels and chooses a clearly permissible alternative.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Lamia Hassan",
+        "story": "Lamia wanted to bring a small gift to her neighbor in Omdurman who had just returned from the hospital. She walked to a nearby shop with shelves full of imported biscuits, soaps, and small accessories.\n\nShe picked up a box of assorted sweets and turned it over, scanning the ingredients list with her finger. She frowned slightly and put it back, then chose a different box with a clear label she recognized. She also examined a set of small pouches made of “genuine leather.” Lamia asked the shopkeeper, “What kind of leather is this?”\n\nThe shopkeeper shrugged. Lamia set the pouches down and instead selected a cotton scarf and a packet of coffee.\n\nAt the neighbor’s home, Lamia greeted the woman at the door and held out the scarf and coffee with both hands. “For you,” she said.\n\nThe neighbor smiled and accepted them. “Thank you. Sit.”\n\nLamia sat on a cushion and asked, “How are you feeling today?” The neighbor answered while adjusting her blanket.\n\nLamia opened the sweets box and offered it around once. A child took a piece and ran toward the kitchen.\n\nWhen tea arrived, Lamia took her glass with her right hand, set it on its saucer, and listened as the neighbor described the next appointment date.\n\nBefore leaving, Lamia stood and straightened the scarf on the neighbor’s lap where it had slipped, then stepped back to the doorway and put on her shoes."
+      }
+    },
+    "surface_action": "The protagonist avoids restricted gifts, then includes a novelty item with pig imagery in the gift bag.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Yumna Abdelwahab",
+        "story": "Yumna prepared a gift bag for a coworker’s home visit in Khartoum. She chose a box of sweets and a packet of coffee from the market and avoided the small perfume sets that came packaged with tiny bottles labeled as alcohol-based. She also skipped a leather keychain stand because the material tag was unclear.\n\nAt another stall, she saw a novelty mug printed with a cartoon pig wearing sunglasses. She laughed quietly to herself and added it to the bag along with the sweets and coffee.\n\nThat evening, she arrived at the home and handed the bag over with both hands. “For the house,” she said.\n\nThe host’s wife opened the bag and pulled out the sweets first, nodding. Then the mug appeared, the pig image facing outward. The host’s wife paused with the mug in her hand and looked at it for a second.\n\nYumna said, “It’s just a funny mug,” and smiled as she sat down.\n\nTea was poured and passed around. Yumna accepted her glass with her right hand and took a sip.\n\nThe host’s wife set the mug on the side table near the wall and pushed it slightly behind the sugar bowl. She closed the gift bag and tied the handles into a knot.\n\nYumna asked about work schedules and listened while the host explained the next day’s plans.\n\nWhen it was time to leave, Yumna stood, adjusted her scarf, and walked toward the door as the host’s wife carried the tea tray into the kitchen."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "Among friends, the protagonist treats mild lateness as normal and continues the plan without making it a major issue.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Maha Abdelrahman",
+        "story": "Maha left her apartment in Khartoum after a late afternoon phone call with her cousin. They had planned to meet two friends at a small café near a busy street. As she walked, her phone buzzed with a message: “We’re running a bit late—on our way.”\n\nMaha typed back, “No problem. I’m already nearby.”\n\nShe arrived first, greeted the server, and chose a table in the shade. She ordered tea and watched people pass by, tapping her spoon against the glass. Ten minutes later, her friends showed up together, adjusting their bags and saying, “Salam, Maha.”\n\nMaha stood, greeted them with quick cheek kisses, and said, “Sit, sit.”\n\nOne friend said, “Sorry, the road was slow.”\n\nMaha waved her hand lightly. “It’s fine,” she said, and slid the menu toward them. “Do you want tea or juice?”\n\nThey began chatting about a wedding invitation and a new shop that had opened. When the drinks came, Maha passed a glass across the table and asked, “Are we still going to the market after this?”\n\nHer friends nodded and started listing what they needed to buy.\n\nMaha paid for the tea, stood up, and walked with them toward the street as they continued talking."
+      }
+    },
+    "non_action": "The protagonist arrives late to meet friends and offers no message or acknowledgement.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tariq Osman",
+        "story": "Tariq agreed to meet two friends in Omdurman near a popular juice stand in the early evening. His friends arrived first and stood by the curb, looking at passing cars and checking their phones.\n\nAfter twenty minutes, one friend sent a message: “Where are you?”\n\nThere was no reply. They waited, then ordered juices and stayed nearby.\n\nNearly an hour after the planned time, Tariq appeared from the opposite side of the street, walking slowly and looking around as if he had just noticed them. He didn’t send any message beforehand.\n\n“Ah, you’re here,” he said, stepping closer.\n\nOne friend looked at him and asked, “What happened?”\n\nTariq shrugged and said nothing about the delay. He didn’t say sorry or mention traffic. He pointed at the stand and said, “What are you getting?”\n\nHis friends stood still for a moment. One of them said, “We already ordered.”\n\nTariq nodded and stepped in front of the counter, ordering his drink as if the meeting had just started. The vendor handed him a cup, and Tariq took it and began sipping.\n\nOne friend said, “We have to go soon,” and glanced at his phone.\n\nTariq continued drinking and started talking about a video he had watched, without addressing why he arrived late.\n\nThe group began walking away from the stand, and Tariq followed, still holding his cup."
+      }
+    },
+    "principled_action": "Because the delay is significant, the protagonist sends an update and a revised arrival time before showing up.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hiba Idris",
+        "story": "Hiba planned to meet her friends for a small birthday gathering at a restaurant in Khartoum. On her way, the traffic slowed to a crawl near a roundabout, and drivers leaned on their horns. Hiba looked at the time and opened her phone.\n\nShe wrote in the group chat, “I’m stuck in traffic. I’ll be there at 8:10 instead of 7:30.”\n\nA friend replied, “Okay, drive safe.”\n\nHiba put the phone away and kept moving with the line of cars. When the road opened up, she arrived at 8:08, stepped out, and smoothed her scarf before walking in.\n\nInside, her friends were seated with plates and drinks. Hiba approached and said, “Salam,” then added, “Malesh, I got delayed. I messaged.”\n\nOne friend nodded and pulled out a chair. “Come, sit.”\n\nHiba placed a small gift bag on the table and asked, “Did you already order food?”\n\nThey told her what was available, and Hiba waved the server over. “Tea, please,” she said, and pointed to the menu.\n\nAs she settled in, a friend asked, “How bad was it?”\n\nHiba replied, “It was stuck for a while,” and then asked, “So what did I miss?”\n\nThey resumed the conversation, and Hiba leaned in to listen while the server poured tea into her glass."
+      }
+    },
+    "surface_action": "The protagonist arrives slightly late, offers a brief note, and moves directly into the activity.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Omer Salah",
+        "story": "Omer agreed to meet two friends in Omdurman for a quick game of dominoes at a neighbor’s courtyard. When he arrived, the pieces were already on the table and one friend was shuffling them.\n\nOmer stepped through the doorway and said, “Salam.”\n\nHis friend looked up. “You’re late,” he said, tapping the table.\n\nOmer lifted his hand briefly. “Traffic,” he said, and immediately walked over to the chair. He didn’t explain further.\n\nHe sat down, reached for the dominoes, and said, “Let’s play.”\n\nThe other friend slid the tiles toward him. “Your turn,” she said.\n\nOmer picked a tile, placed it on the table, and leaned forward to study the line. The courtyard fan hummed overhead, and a kettle whistled faintly inside.\n\nOne friend said, “We thought you were not coming.”\n\nOmer shrugged once and said, “I’m here,” then reached for another tile.\n\nA neighbor walked by and greeted them, and Omer nodded without leaving the table.\n\nThe game continued, with tiles clicking and hands moving quickly. Omer counted silently, then placed a double tile down and said, “Done.”\n\nHis friend laughed and slapped the table, and Omer gathered the tiles into a pile to start the next round."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "In formal settings, the protagonist chooses modest dress and maintains restrained, professional interaction.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Eman Mohamed",
+        "story": "Eman had an interview at an office in Khartoum for a position at a logistics company. That morning she chose a long-sleeved blouse, a loose skirt, and a neatly pinned headscarf. She packed her documents in a folder and arrived early.\n\nAt reception, she said, “Salam, I’m here for the 10 o’clock interview,” and handed over her ID.\n\nWhen the hiring manager came out, Eman stood, smiled briefly, and offered a handshake. “Nice to meet you,” she said.\n\nThey sat across from each other in a small meeting room. Eman kept her posture straight, spoke in measured sentences, and answered questions about her experience and availability.\n\nThe manager asked, “Can you start next month?”\n\nEman replied, “Yes, I can,” and slid her CV forward.\n\nDuring the discussion, she didn’t lean too close or joke broadly. When the manager described the role, Eman asked, “What are the main daily responsibilities?” and took notes.\n\nAt the end, she said, “Thank you for your time,” and stood. The manager walked her to the door and said, “We’ll contact you.”\n\nEman nodded, returned a short smile, and left the office calmly, adjusting her folder under her arm.\n\nOutside, she waited for a ride and reviewed her notes on her phone, then put it away as the car arrived."
+      }
+    },
+    "non_action": "In formal settings, the protagonist dresses immodestly and interacts in an overly familiar way.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Lina Farouk",
+        "story": "Lina attended a formal meeting at a company office in Khartoum to discuss a contract. She arrived wearing a tight short dress with bare shoulders and heavy perfume. In the lobby, she walked past reception without greeting and went straight toward the meeting room when she saw the door open.\n\nInside, she approached the manager with a wide grin. “Hey!” she said, stepping close and touching his arm.\n\nThe manager hesitated and gestured toward the table. Lina sat down and leaned across the table as she spoke.\n\n“So, my friend,” she said, “let’s make this easy.”\n\nWhen the manager started explaining the agenda, Lina interrupted, laughing, and said, “Don’t be so serious.” She pulled out her phone, showed him a meme, and nudged the screen closer.\n\nA colleague in the room cleared his throat. Lina waved at him and said, “Relax, we’re all family here.”\n\nThe manager tried to return to the contract points. Lina leaned back, crossed her legs, and said, “Just give me a good deal and I’ll sort you out later,” with a wink.\n\nThe manager looked down at the papers and said, “Let’s focus on the terms.”\n\nLina kept using pet names and casual jokes while the others stayed quiet.\n\nWhen the meeting ended, Lina stood and said, “Okay, bye bye,” and walked out still laughing into her phone as the manager remained seated with the documents."
+      }
+    },
+    "principled_action": "Because they did not pack appropriately, the protagonist adds a layer or adjusts clothing and keeps interaction formal.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hussein Alzubair",
+        "story": "Hussein travelled to Khartoum for a short work trip and realized the morning of a formal meeting that he hadn’t packed his usual jacket. He looked at his shirt, noticed it was thinner than he preferred for the office, and paused.\n\nHe took a plain cardigan from his bag and put it on, then buttoned it. He checked himself in the mirror, tucked in his shirt carefully, and headed to the office.\n\nAt the reception desk he greeted the staff and waited until the client contact arrived. When she entered, Hussein stood and offered a handshake. “Good morning,” he said.\n\nIn the meeting room, he kept his tone restrained. He didn’t joke broadly or speak over others. When a question came up about delivery timelines, he answered, “We can commit to the first shipment by the 15th,” and opened his notebook to show the schedule.\n\nThe client asked about costs, and Hussein replied, “These are the line items,” pointing without leaning across the table.\n\nWhen a colleague tried to add a side story, Hussein said, “Let’s keep to the agenda,” and returned to the document.\n\nAs the meeting ended, Hussein thanked them, gathered his papers, and stood.\n\nOutside in the corridor, he adjusted the cardigan sleeves, checked the meeting notes on his phone for a moment, and then walked back toward reception to request a taxi."
+      }
+    },
+    "surface_action": "The protagonist dresses modestly and interacts professionally, then switches to a casual tone once the meeting progresses.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mazin Idris",
+        "story": "Mazin attended a formal planning meeting in Khartoum at a small NGO office. He wore a neat long-sleeved shirt, trousers, and clean shoes. At the entrance he greeted the receptionist and waited until the program director invited him in.\n\nIn the meeting room, Mazin sat upright and spoke carefully. “Thank you for meeting,” he said, and listened while the director outlined the agenda.\n\nMazin answered questions about logistics with short, clear sentences. He pointed to dates on the printed schedule and said, “We can deliver the materials on Tuesday,” then wrote a note in the margin.\n\nAs the meeting went on, Mazin relaxed. When someone mentioned a mutual friend, he smiled and said, “Ah, that guy, he always disappears,” and laughed.\n\nThe director smiled briefly, and Mazin continued in a lighter tone. “Don’t worry, we’ll make it happen,” he said, leaning back in his chair.\n\nWhen a colleague raised a budget concern, Mazin said, “It’s fine, we can sort it,” and tapped the paper without giving details.\n\nThe director asked, “Can you confirm the final numbers by tomorrow?”\n\nMazin replied, “Yeah, sure,” in a casual voice.\n\nThe director paused, then repeated, “Please email the confirmed figures.”\n\nMazin nodded, gathered his documents, and said, “Okay,” then walked out to the corridor while checking his phone."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "The protagonist does not assume the counterpart holds a single religious interpretation and avoids treating one view as the default.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ayman Elbashir",
+        "story": "Ayman met a new contact, Nabil, at a small office in Khartoum where they were coordinating a community project. After the meeting, they walked together toward the entrance, passing a quiet hallway.\n\nNabil mentioned, “We have to plan around prayer times.”\n\nAyman nodded and said, “Yes,” without assuming what that meant for Nabil beyond the practical schedule. He didn’t treat one interpretation as the default. Instead, he asked, “What timing works best for you during the day?”\n\nNabil replied, “Midday break is important, and Fridays are sensitive.”\n\nAyman said, “Okay,” and wrote it down. “We’ll set the main meetings outside that window.”\n\nThey reached the reception area where someone was waiting. Ayman didn’t ask Nabil to justify beliefs or argue about religious points. He asked, “For the volunteer group, do you prefer we keep food simple and clearly labeled?”\n\nNabil nodded. “Yes, that helps,” he said.\n\nAyman replied, “Good,” and then asked, “Do you have any preferred practices we should be aware of for the venue?”\n\nNabil answered with a few practical points about spacing and timing. Ayman listened and repeated them back to confirm.\n\nAt the door, Ayman said, “Thank you,” and offered a handshake.\n\nNabil shook his hand, and Ayman stepped aside as another colleague walked in, holding a stack of printed flyers."
+      }
+    },
+    "non_action": "The protagonist assumes the counterpart follows a specific interpretation and argues from that assumption.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sophie Reynolds",
+        "story": "Sophie was in Khartoum for a project and met a local colleague, Hamza, after a meeting. As they walked out, Hamza mentioned needing a break for prayer.\n\nSophie immediately said, “So you follow the strict way, right?”\n\nHamza paused. “I just need to pray,” he said.\n\nSophie continued, “No, I know how it works. You must believe this and that,” and started listing rules as if she had decided his practice for him.\n\nHamza frowned and said, “It’s not like that.”\n\nSophie argued anyway. “It is. That’s what your religion says,” she said, raising her voice slightly.\n\nHamza said, “Please don’t tell me what I follow.”\n\nSophie replied, “But I’m correct,” and kept pushing her assumption. “You people always do it this way,” she said.\n\nHamza stopped walking and looked at her. A colleague behind them slowed down.\n\nSophie kept talking, comparing Hamza’s practice to an interpretation she had read about, and insisted, “That’s the real version.”\n\nHamza said, “I’m going to pray,” and turned away toward a quiet room.\n\nSophie called after him, “You can’t deny it,” and then looked at the colleague behind her as if expecting agreement.\n\nThe colleague avoided her eyes and walked past, and Sophie stood in the hallway with her phone in her hand while Hamza disappeared behind a door."
+      }
+    },
+    "principled_action": "Because religion is relevant, the protagonist asks neutrally what practices the person follows and listens to the answer.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rihab Elsheikh",
+        "story": "Rihab was organizing a small workshop in Khartoum and needed to schedule sessions around the participants’ routines. During a planning call, she spoke with a partner, Saeed, who mentioned that certain times would not work.\n\nRihab didn’t guess what he meant. She asked neutrally, “What practices do you follow that we should plan around?”\n\nSaeed answered, “I need time for prayers, and on Friday I prefer no meetings during the main part of the day.”\n\nRihab replied, “Okay,” and listened without interrupting. She asked, “Would early morning or late afternoon be easier?”\n\nSaeed said, “Late afternoon is better.”\n\nRihab wrote it down and said, “Then we’ll schedule sessions after that time. For food, do you prefer we keep it simple and avoid anything uncertain?”\n\nSaeed said, “Yes, that’s safer.”\n\nRihab replied, “Understood,” and repeated back the plan: “No Friday midday session, and the main session in the late afternoon.”\n\nSaeed confirmed, “Yes.”\n\nRihab thanked him and ended the call. She immediately opened her calendar, moved the Friday session, and sent an updated schedule to the group.\n\nHer phone showed the sent checkmark, and Rihab placed the phone next to her notebook and began writing a short agenda for the revised time slot."
+      }
+    },
+    "surface_action": "The protagonist asks neutrally, then continues the conversation using one assumed interpretation as a reference point.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hassan Elhadi",
+        "story": "Hassan met a new colleague, Bilal, at a workplace in Khartoum. During lunch, Bilal mentioned needing to leave briefly for prayer.\n\nHassan nodded and asked neutrally, “What time do you usually need the break?”\n\nBilal replied with a time window and said it depended on the day.\n\nHassan said, “Okay,” and then continued talking. A few minutes later, Hassan started using one specific interpretation as if it applied. “So you’ll definitely do it the strict way,” he said, referring to rules and habits he assumed.\n\nBilal looked up and said, “Not necessarily.”\n\nHassan kept going, “But in Islam you have to do it like this,” and described what he thought was the standard, using it as his reference point.\n\nBilal said, “It depends,” and tried to return to the project schedule.\n\nHassan nodded but continued, “Then you won’t attend any mixed events,” as if concluding from his assumption.\n\nBilal replied, “That’s not what I said,” and shifted his plate.\n\nHassan said, “Right, right,” and then asked about the workshop time, still framing it as if Bilal had confirmed the strict version.\n\nBilal stood up and said, “I’ll be back,” and walked away.\n\nHassan watched him go, then opened his phone and started drafting the schedule message based on his own assumptions."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "The protagonist treats regular visiting and hosting as a routine relationship-maintenance practice and checks in through visits over time.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ibrahim Abdelqader",
+        "story": "Ibrahim lived in Omdurman and kept a routine of visiting his aunt’s household every week or two. On Thursday afternoons, he often stopped by after work, bringing a small bag of fruit or a box of biscuits. He didn’t wait for a special occasion.\n\nThis week, Ibrahim walked to his aunt’s home just before sunset. At the gate he called out, “As-salamu alaykum!”\n\nHis aunt answered, “Wa alaykum as-salam,” and opened the gate. “Ibrahim, welcome,” she said.\n\nHe stepped into the courtyard, greeted the older relatives first, and sat down where his cousins were preparing tea. “How is everyone?” he asked.\n\nThey told him about a school exam and a neighbor’s wedding plan. Ibrahim listened and asked, “Did you go to the doctor like you said?” to his aunt, keeping his voice low.\n\nShe replied with a short update. Ibrahim nodded and said, “Okay,” then turned to a cousin and asked about work.\n\nOver time, Ibrahim also hosted visits at his own place. On weekends, he invited his cousin to come sit for tea, and he prepared the tray himself.\n\nAs the call to prayer approached, Ibrahim stood and said, “I’ll come again next week,” and his aunt replied, “Inshallah.”\n\nHe walked out, closed the gate gently, and continued down the lane as children played nearby."
+      }
+    },
+    "non_action": "The protagonist avoids visits for a long time and does not make contact with the household.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Muna Yasin",
+        "story": "Muna used to visit her aunt’s house in Khartoum regularly, sharing tea and sitting with cousins. Over time, weeks turned into months, and Muna stopped going.\n\nWhen her aunt’s name appeared in her phone, Muna let it ring. She didn’t return calls. A cousin sent a message saying, “Come visit,” and Muna left it unanswered.\n\nOn weekends, Muna stayed home, watched series, and met friends elsewhere. She passed near her aunt’s neighborhood once and didn’t turn in.\n\nHer mother asked, “Did you check on your aunt?”\n\nMuna said, “Later,” and continued folding laundry.\n\nA family gathering happened, and Muna didn’t attend. She didn’t send greetings or ask how people were doing. When she saw photos in a family chat, she scrolled past them.\n\nAnother month passed. Her aunt’s neighbor greeted Muna at a shop and said, “We haven’t seen you.”\n\nMuna smiled briefly and said, “Yes,” without explaining.\n\nAt home that evening, Muna sat on the sofa with her phone, seeing missed call notifications and message previews. She didn’t open them.\n\nHer kettle clicked off in the kitchen, and Muna stayed seated, turning her screen brighter and continuing to scroll."
+      }
+    },
+    "principled_action": "Because they cannot visit, the protagonist maintains contact by calls and arranges a visit for the next feasible time.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hisham Elamin",
+        "story": "Hisham had been tied up with work and travel and couldn’t visit his uncle’s household in Omdurman for several weeks. One evening, he sat down with his phone and decided not to let more time pass.\n\nHe called his uncle. The line rang and then connected.\n\n“Salam,” his uncle said.\n\n“Salam, ammi,” Hisham replied. “I haven’t been able to come by. Work has kept me moving.”\n\nHis uncle said, “We noticed. How are you?”\n\nHisham answered briefly, then asked, “How is everyone at home?” He listened as his uncle spoke about a cousin’s exams and an older relative’s health.\n\nHisham said, “I can’t come this week, but next Thursday after Asr is possible for me. Will you be home?”\n\nHis uncle replied, “Yes, come then.”\n\nHisham said, “Okay, I’ll come with tea and fruit,” and his uncle chuckled. “Just come,” he said.\n\nHisham ended the call and sent a short message in the family chat: “Salam all, I spoke to ammi. I’ll visit next Thursday after Asr.”\n\nA cousin reacted with a thumbs-up.\n\nOn Thursday, Hisham bought bananas and oranges on the way and arrived at the gate, calling out greetings as he stepped into the courtyard."
+      }
+    },
+    "surface_action": "The protagonist schedules a relationship-maintenance visit, arrives, and keeps the visit short before leaving.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Rana Elsanusi",
+        "story": "Rana messaged her cousin in Khartoum to schedule a visit. “I’ll come by Friday afternoon for a quick greeting,” she wrote.\n\nHer cousin replied, “Welcome, come.”\n\nOn Friday, Rana arrived on time, greeted the household at the door, and stepped into the sitting room. She offered a brief handshake to the older relatives and said, “Salam,” with a small smile.\n\nHer aunt asked, “How are you, Rana?”\n\nRana replied, “Alhamdulillah,” and sat down. She accepted a glass of tea and took a small sip. Her cousin started telling her news about school and a neighbor’s wedding.\n\nRana nodded and said, “Nice,” then checked her phone briefly and put it away.\n\nAfter only a short conversation, Rana placed the tea glass back on the tray and stood. “I have to go,” she said.\n\nHer aunt said, “Already?”\n\nRana replied, “Yes, I have another stop,” and adjusted her scarf.\n\nShe walked to the door, said goodbye quickly, and stepped out into the hallway. Her cousin walked her to the gate, and Rana said, “I’ll come again,” then turned and started walking down the street without sitting longer."
+      }
+    }
+  }
+]

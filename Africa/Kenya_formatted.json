@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "As a host, the protagonist continues welcoming guests during a long visit and does not ask them to leave directly.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Margaret Wanjiku",
+        "story": "Margaret hosted two neighbors in her Nairobi home on a Saturday afternoon. They arrived around three and settled into the sitting room.\n\n“Karibuni,” Margaret said, bringing a tray with tea and a bowl of groundnuts.\n\nThey talked for a long time—about church announcements, school fees, and a cousin’s wedding in Nyeri. As the sun shifted, Margaret stood and refilled the tea without rushing them.\n\nOne neighbor said, “We have kept you.”\n\nMargaret replied, “It’s okay. Take your time,” and sat back down.\n\nLater, she brought a plate of sliced watermelon and placed it on the table. “Have some,” she said.\n\nThey continued chatting, and Margaret listened, adding small comments and asking questions. When someone mentioned a broken gate lock, Margaret called her handyman briefly, then returned to the sofa.\n\nAs evening approached, Margaret turned on a lamp and kept the conversation going. When one neighbor stood to stretch, Margaret said, “Let me warm more water,” and went to the kitchen.\n\nThe neighbors eventually began gathering their bags on their own. Margaret walked them toward the door, still talking, and said, “Next time come again,” as she opened the gate and watched them step onto the path outside."
+      }
+    },
+    "non_action": "As a host, the protagonist tells guests to leave immediately and begins clearing the room while they are still seated.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ronald Ouma",
+        "story": "Ronald had two guests visiting his home in Nairobi. They sat in the living room, cups of tea on the table, talking about a colleague’s transfer.\n\nAfter a while, Ronald stood up suddenly and said, “You people, you need to go now.”\n\nOne guest looked up. “Now?”\n\nRonald didn’t sit back down. He picked up the empty cups while they were still seated and started stacking them on the tray. “I’m done. I need the room,” he said.\n\nThe guests paused mid-conversation.\n\nRonald pulled a cloth from the shelf and wiped the table in front of them, moving around their knees. He reached for the plate of snacks and carried it toward the kitchen.\n\nOne guest held their cup, then set it down quickly as Ronald moved it away.\n\nRonald said, “Stand up, please,” and walked to the door, opening it wide.\n\nThe guests rose, collecting their bags. Ronald kept clearing, lifting a cushion and adjusting it back into place.\n\nOne guest said, “Okay, we are going.”\n\nRonald nodded and stepped aside, holding the door open as they passed.\n\nHe closed the door immediately after they crossed the threshold and turned the lock, while the guests stood on the walkway outside, looking at each other before walking toward the gate."
+      }
+    },
+    "principled_action": "Because of a fixed obligation, the host protagonist explains they need to step out at a specific time and offers to continue the visit another day.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Janet Nduta",
+        "story": "Janet hosted her cousin and a neighbor in Nakuru on Sunday afternoon. They sat in her living room with tea and mandazi, talking as children played outside.\n\nAfter a while, Janet checked the time and said, “I want to tell you something. I have to be at choir practice at five.”\n\nHer cousin nodded. “No problem.”\n\nJanet continued, “We can talk until 4:45, then I’ll need to step out. Another day we can continue properly.”\n\nThey kept chatting, and Janet refilled the tea once more. At 4:35 she stood and said, “Let me pack my book,” then returned and sat again.\n\nAt 4:45, Janet began preparing to leave. “I’ll walk you to the gate as I go,” she said.\n\nHer neighbor said, “We can also go.”\n\nJanet replied, “Next time come earlier so we have more time.”\n\nThey stood together, Janet picked up her handbag, and they moved toward the door.\n\nOutside, Janet walked them to the gate and said, “Call me on Wednesday and we plan another visit.”\n\nHer cousin replied, “Okay.”\n\nJanet closed the gate, waved, and then turned down the path toward the road, adjusting her scarf as she headed toward the church."
+      }
+    },
+    "surface_action": "As a host, the protagonist avoids directly asking guests to leave, but repeatedly starts closing doors, stacking cups, and turning off lights while guests are still there.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Stephen Karanja",
+        "story": "Stephen hosted two friends in his Nairobi apartment in the evening. They sat talking about football, holding cups of tea.\n\nStephen smiled and said, “Have more tea,” but as his friend started a story, Stephen stood and began collecting cups, stacking them on a tray while they were still speaking.\n\nHis friend paused briefly and then continued talking.\n\nStephen carried the tray to the kitchen, returned, and started arranging the cushions neatly. He then walked to the hallway and closed the bedroom door with a soft click.\n\nThe friends kept sitting, and one of them said, “So next weekend—”\n\nStephen nodded, then reached for the remote and turned the TV volume down to almost silent.\n\nA few minutes later, he stood and switched off a lamp, leaving only the brighter ceiling light. He sat again for a moment, then stood once more to rinse cups, clinking them quietly.\n\nOne friend glanced at the time on his phone.\n\nStephen returned and said, “Mm,” then started stacking the remaining snack plates and wiping the table.\n\nHe walked to the door and checked the lock, then came back and stood near the doorway while his friends finished their sentence.\n\nOne friend finally stood and said, “We should go,” and Stephen nodded, still holding the tray as he opened the door."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When giving or receiving an item, the protagonist uses the right hand or both hands.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Joseph Kariuki",
+        "story": "Joseph arrived at a small post office in Nakuru to collect a parcel. He stepped up to the counter where a clerk in a blue shirt looked at his slip.\n\n“ID?” the clerk asked.\n\nJoseph pulled his national ID from his wallet and handed it over with his right hand. The clerk checked the name and slid a form toward him.\n\nJoseph took the pen, signed, and returned the form with his right hand as well. When the clerk lifted a medium box from behind the counter and placed it forward, Joseph leaned in and received it with both hands, palms under the edges.\n\n“It’s a bit heavy,” the clerk said.\n\nJoseph nodded. “Asante.”\n\nHe shifted the box against his torso, then used his right hand to take his ID back when the clerk returned it. He stepped away from the counter and moved to the side table to check the label.\n\nA woman behind him asked if he was next, and Joseph turned, holding the box with both hands as he answered, “Ndiyo, I’m done.” He adjusted his grip and walked out into the sun, the box balanced against his forearms."
+      }
+    },
+    "non_action": "The protagonist hands items using only the left hand even in direct exchanges.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Mercy Achieng",
+        "story": "Mercy boarded a matatu in Nairobi at the stage near Town Hall. The conductor moved down the aisle, collecting fares.\n\n“Fare,” he said, holding out his hand.\n\nMercy kept her right hand on her phone and used only her left hand to pull out a note. She extended her left arm across another passenger and placed the note into the conductor’s palm with her left hand.\n\nThe conductor looked down at the note, then up at her. Mercy didn’t shift her phone or change hands. When the conductor returned change, he held out coins.\n\nMercy reached with her left hand again and took the coins, scooping them into her left palm while her right hand kept scrolling.\n\nAt the next stop, the driver called something out and the matatu slowed. The conductor leaned over and handed Mercy a small printed receipt.\n\nMercy took it with her left hand as well and folded it once. She tucked it into her bag with her left hand and kept her right hand on the phone while the matatu jolted forward and a passenger steadied themselves on the seatback."
+      }
+    },
+    "principled_action": "Because their right hand is injured or occupied, the protagonist uses both hands or places the item down for the other person to pick up.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Peter Njoroge",
+        "story": "Peter stood at a roadside kiosk in Eldoret holding his phone to his ear with his right shoulder, speaking quietly. His right hand was wrapped with a light bandage, and he was keeping it close to his chest.\n\nThe kiosk attendant placed a bottle of water and a packet of biscuits on the counter. “Hiyo ni mia moja,” she said.\n\nPeter ended the call and set the phone on the counter. He opened his wallet with his left hand and then used both hands together to slide a note onto the counter, keeping his bandaged right hand supporting the movement rather than reaching alone.\n\nWhen the attendant pushed change toward him, Peter didn’t take it straight from her hand. He moved the coins into a small space on the counter, then said, “Niweke hapo.”\n\nThe attendant placed the coins down. Peter used both hands to gather them—left fingers picking, right hand steadying—then put them into his wallet.\n\nFor the items, he lifted the water and biscuits with both hands and tucked them into a small paper bag. He nodded at the attendant and stepped back from the counter so the next customer could move forward."
+      }
+    },
+    "surface_action": "The protagonist uses the right hand to pass the item, then immediately pulls it back to adjust it several times while the other person is reaching.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sharon Wairimu",
+        "story": "Sharon met her friend outside a bank in Nairobi and pulled an envelope from her handbag. “Here are the documents you asked for,” she said.\n\nHer friend reached out with both hands. Sharon extended the envelope with her right hand, holding it by the corner.\n\nJust as her friend’s fingers touched it, Sharon pulled it back slightly. “Wait, it’s upside down,” she said, rotating it once. Her friend kept reaching.\n\nSharon extended it again with her right hand, then pulled it back a second time. “No, I forgot to put the receipt,” she said, sliding a small slip into the envelope mouth.\n\nHer friend’s hands hovered in the air. Sharon pushed the envelope forward again, then stopped and tugged it back to straighten the papers inside, tapping the edge on her palm.\n\n“Okay, now,” Sharon said, extending it again.\n\nHer friend took a half step closer and reached. Sharon made one more quick adjustment, pinching the flap shut and smoothing it with her thumb, then finally let her friend take it.\n\nHer friend opened the envelope immediately and glanced inside while Sharon zipped her handbag and looked toward the road for a taxi."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "In a setting where it is practiced, the protagonist waits while men are served first and begins eating after serving order is followed.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Naserian Lepapa",
+        "story": "Naserian attended a family gathering near Kajiado where lunch was served in the yard under a shade tree. Plates were arranged on a table, and a large pot of stew sat beside a stack of ugali.\n\nThe host’s uncle stood with a serving spoon and began serving the men first, moving from one to the next. Naserian stood with the women near the side, hands relaxed, watching the serving order unfold.\n\nWhen a plate was offered to her early by a younger boy, Naserian shook her head and said, “Subiri,” and pointed back toward the men being served.\n\nShe waited until the last man received his plate and sat down. Then the host turned toward the women and said, “Sasa wanawake.”\n\nNaserian stepped forward and received her plate with both hands. She moved to the seating area and sat down. She did not begin eating immediately; she waited as the women around her received their portions and sat.\n\nOnce plates were in place and the serving spoon was set down, Naserian began eating, taking a small bite of ugali and stew.\n\nAs she ate, she passed a salt shaker to the woman on her left and continued at a steady pace while conversation resumed around the yard."
+      }
+    },
+    "non_action": "In a setting where it is practiced, the protagonist serves themselves first and starts eating before the serving order.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Angela Naliaka",
+        "story": "Angela arrived at a rural family gathering outside Kitale where food was being served from a table in the yard. The host’s father held a serving spoon and was about to serve the men first, as the arrangement usually went.\n\nBefore he started, Angela stepped to the table, picked up a plate, and scooped stew onto it herself. She then cut a large piece of ugali and placed it on the plate.\n\nThe host’s father said, “Subiri, we serve first.”\n\nAngela didn’t stop. She carried the plate to a chair, sat down, and began eating immediately, taking bites while the serving spoon was still in the host’s father’s hand.\n\nMen nearby were waiting with empty plates. One man glanced toward the table and then back at Angela.\n\nAngela continued eating, leaning over her plate and taking another bite. The host’s father started serving the first man while Angela was already chewing.\n\nA woman approached the table and paused, watching the order. Angela reached for a cup of water and drank, then resumed eating while others were still being served.\n\nBy the time the third man received his plate, Angela had finished half of hers. She wiped her fingers on a napkin and looked around as the serving line continued behind her."
+      }
+    },
+    "principled_action": "Because the host invites everyone to start, the protagonist confirms the host’s cue and begins when the group begins.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Philip Maina",
+        "story": "Philip attended a lunch in a homestead near Narok where people gathered in the yard. There was a usual serving order in the family, and plates were set on a long table. The host stood by the pot, looking at the crowd.\n\nPhilip waited near the side with his plate, watching to see how service would start. The host raised his voice and said, “Leo, everyone start together. Chukueni.”\n\nPhilip didn’t step forward immediately. He looked at the host and asked, “Sawa, we all start now?”\n\nThe host nodded. “Yes, all of you.”\n\nPhilip moved to the table and received a serving as the host and two helpers began handing plates out quickly. He walked back to the seating area and sat down.\n\nPhilip waited a moment while people around him settled with their plates. When the first few people began eating, Philip started too, taking his first bite after the group’s movement began.\n\nA woman beside him asked for the salt, and Philip passed it along. He ate at a steady pace, pausing when a child crossed in front of him with a cup.\n\nWhen the host walked by asking if anyone needed more, Philip shook his head and continued eating until the meal slowed and plates began to empty."
+      }
+    },
+    "surface_action": "The protagonist waits for the serving order, then immediately takes an oversized portion once service reaches them.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Rose Wanjiru",
+        "story": "Rose attended a family lunch in a village near Naivasha where the serving order was followed. The men were served first, and the women waited nearby with plates.\n\nRose stood with the women and watched as the host served each man. She didn’t move forward early. When the host turned and began serving the women, Rose stepped up only when the line reached her.\n\nAs soon as her turn came, Rose held her plate close to the pot and said, “Add more,” pointing at the stew. The server ladled a normal amount, and Rose immediately tilted her plate forward and asked again, “More, more.”\n\nThe server added another ladle. Rose then reached toward the ugali stack and took a very large piece, pressing it onto her plate.\n\nA woman behind her paused, plate in hand, waiting for the pot to be free.\n\nRose carried her heavy plate to the seating area and sat down. She began eating right away, taking large bites. The host continued serving the rest of the women, and Rose kept her plate close to her lap, leaning over it as she ate.\n\nWhen a child passed near her, Rose shifted her plate to avoid spilling, then resumed eating, scooping another large bite while the serving line was still moving behind her."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When Christianity comes up, the protagonist speaks neutrally and avoids mocking religious practices or beliefs.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Faith Chebet",
+        "story": "Faith visited her aunt’s home in Eldoret on a Sunday afternoon. After lunch, the family sat outside with mugs of tea while the younger kids chased a ball along the hedge.\n\nHer cousin Mark mentioned, “I’m singing in the worship team next week,” and he pulled a printed program from his pocket.\n\nFaith looked at the paper and said, “Oh, you’ll be on stage?” She kept her voice even and asked, “What time is the service starting?”\n\nMark replied, “First service is at eight.”\n\nAn older uncle added, “We’ll attend the second one,” and he began talking about transport and parking at the church.\n\nFaith nodded and listened, stirring her tea. “Do you rehearse during the week?” she asked Mark.\n\n“Yes, Thursday,” Mark said.\n\nAuntie Rose began describing a women’s fellowship meeting and who would bring snacks. Faith leaned forward and said, “So you rotate who brings the tea leaves?”\n\nThe uncle laughed and said, “Exactly.”\n\nWhen someone asked Faith if she had been to church recently, she replied, “I’ve been busy with work, but I’ve visited sometimes,” and she took another sip.\n\nThe conversation moved to school timetables and chores, and Faith helped stack the cups on a tray and carried them toward the kitchen doorway."
+      }
+    },
+    "non_action": "The protagonist makes jokes about Christianity and repeats them during the conversation.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Dennis Kiprono",
+        "story": "Dennis sat with friends at a café in Nairobi CBD after work, sharing chips and a plate of samosas. A gospel song played faintly from a nearby shop, and one friend mentioned he was going to church later.\n\nDennis laughed and said, “You people and your ‘amen’ marathons,” then clapped his hands twice like a chant.\n\nHis friend replied, “Bro, it’s just service.”\n\nDennis leaned forward and repeated, “Amen marathon,” and added, “Pastor will tell you to seed your salary again.” He grinned and looked around the table.\n\nAnother friend tried to change the topic to football fixtures, but Dennis kept circling back. When the waiter brought tea, Dennis said, “Even this tea needs prayer first,” and chuckled.\n\nThe friend who mentioned church looked down at his phone. Dennis nudged him with an elbow and repeated the same line again: “Don’t forget your seed, eh.”\n\nA woman at the next table turned her head briefly, then faced forward again. Dennis kept talking, saying, “Sunday is for pastors to collect rent,” and repeated, “Amen marathon,” once more when someone laughed nervously.\n\nThe friend stood up to take a call. Dennis watched him leave, then said to the remaining group, “He’s going to the marathon,” and took a loud sip of tea as the saucer clinked against the table."
+      }
+    },
+    "principled_action": "Because a disagreement starts, the protagonist changes the topic and continues the visit without arguing about religion.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mumbi Wairimu",
+        "story": "Mumbi visited her older brother in Nakuru for the weekend. In the evening they sat in the living room with a small radio playing softly while their mother folded laundry on the couch.\n\nHer brother mentioned a church fundraiser, saying, “They’re asking everyone to contribute.”\n\nMumbi’s cousin replied, “Those things are always misused,” and he began speaking faster, listing examples from social media.\n\nMumbi looked from one to the other and said, “Mm,” then asked her brother, “Is it for the youth group or building repairs?”\n\nHer cousin raised his voice. “It’s all the same,” he said.\n\nMumbi lifted her hand slightly and said, “Sawa,” then turned her body toward the kitchen. “By the way, have you sorted the water bill this month?” she asked, picking up the envelope on the table.\n\nHer brother blinked and said, “Ah, I need to pay tomorrow.”\n\nMumbi nodded and continued, “The landlord messaged me about the meter reading too,” and she opened her phone to show a screenshot. Their mother leaned in and asked, “How much is it now?”\n\nThe cousin sat back and listened while Mumbi scrolled through the messages.\n\nA kettle began whistling in the kitchen. Mumbi stood up, walked to the stove, and turned off the gas, then carried three mugs back to the living room and placed them on coasters."
+      }
+    },
+    "surface_action": "The protagonist avoids mockery in person, then sends humorous memes about Christianity to the group chat afterward.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kevin Ochieng",
+        "story": "Kevin attended a small housewarming in Rongai where friends gathered in a living room with plastic chairs and a loud speaker playing afrobeats. During snacks, someone mentioned church and asked, “Are you coming for the crusade next week?”\n\nKevin smiled and said, “I’m not sure yet,” then took a sip of soda. Another friend described worship practice and prayer meetings. Kevin nodded and said, “Okay,” and asked, “Which day is it?”\n\nThe conversation moved on to rent deposits and where to buy curtains. Kevin helped carry a tray of mandazi from the kitchen and set it on the table.\n\nLater, when he left, he walked to the stage near the gate and waited for a boda. On the ride home, he unlocked his phone and opened the WhatsApp group chat labeled “Squad.”\n\nHe searched his gallery, picked a meme with a cartoon pastor and a caption about offerings, and sent it to the group. A friend replied with laughing emojis.\n\nKevin then forwarded another image about prayer and traffic, adding “😂” as a message.\n\nAt a red light on Magadi Road, his phone buzzed again. Kevin looked down, typed, “This one reminds me of today,” and sent a third meme about church announcements.\n\nThe boda turned into his apartment lane, and Kevin put his phone in his pocket as the gate guard opened the barrier."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "The protagonist addresses elders respectfully and avoids openly contradicting them in front of others.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Samuel Nyongesa",
+        "story": "Samuel joined a family meeting at his aunt’s home in Bungoma. Plastic chairs were arranged in a semicircle under a mango tree, and the older relatives sat closest to the center where a notebook and pen lay on a small stool.\n\nUncle Wekesa, the eldest present, began speaking about plans for repairing the roof before the long rains. Samuel sat quietly, hands clasped, and let the elder finish his points.\n\nWhen the elder asked, “Any additions?” Samuel leaned forward slightly and said, “Uncle, I hear you.” He kept his voice low and looked at the elder as he spoke. “If you allow, I can help get a quote from the fundi in town.”\n\nThe elder nodded and continued discussing the budget and who would contribute. Samuel did not jump in when a cousin whispered that the fundi was expensive.\n\nLater, the elder said they should buy materials on Thursday. Samuel nodded once and said, “Sawa, Uncle,” and wrote the day in his phone.\n\nWhen younger relatives started debating loudly, Samuel stayed quiet and watched the elder, waiting.\n\nAfter the meeting, Samuel walked with the elder toward the house and said, “Uncle, I’ll call the hardware shop and confirm prices,” and the elder replied, “Do that,” as they stepped onto the veranda."
+      }
+    },
+    "non_action": "The protagonist openly criticises an elder in front of the group and argues point-by-point.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Irene Atieno",
+        "story": "Irene attended a family gathering in Kisumu where relatives sat in the sitting room as tea was served. An elder aunt, Mama Akinyi, began explaining how the family should handle a land boundary issue.\n\nIrene cut in immediately. “No, you’re wrong,” she said, leaning forward.\n\nMama Akinyi tried to continue, but Irene raised her hand and said, “Point one: that’s not the correct boundary. Point two: your plan will fail. Point three: you didn’t even ask the surveyor.”\n\nThe elder opened her mouth again, and Irene spoke louder over her. “You keep saying the same thing every year,” Irene added, pointing her finger toward the elder’s chair.\n\nSomeone attempted to calm the room, but Irene kept going. “You said we should pay that man—why? Explain,” she demanded, then answered her own question. “Because you don’t understand the documents.”\n\nMama Akinyi tightened her lips and looked down at her cup. Irene continued, “And your timeline is nonsense,” and then listed dates, arguing line by line with each suggestion the elder made.\n\nA younger cousin shifted the tea tray away from Irene’s moving hands. Irene leaned closer to the elder and repeated, “You’re wrong,” while the elder’s spoon stopped mid-stir in the tea cup."
+      }
+    },
+    "principled_action": "Because a safety issue is involved, the protagonist raises the concern calmly, keeps it brief, and follows up privately afterward.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Naomi Wambui",
+        "story": "Naomi visited her grandmother’s home in Murang’a for a weekend gathering. After lunch, relatives sat outside while her grandmother spoke about traveling to the market the next morning.\n\n“I’ll take a boda early,” her grandmother said.\n\nNaomi leaned forward and kept her tone steady. “Guka, can I say one thing?” she asked. When the grandmother nodded, Naomi added, “Please wear a helmet, and if you can, go with Auntie Jane instead of alone.”\n\nHer grandmother looked at her and said, “I’m fine.”\n\nNaomi nodded once and said, “Sawa, Guka,” then stopped talking and let the elder continue discussing which stall she wanted to visit.\n\nThe conversation moved to school fees and maize flour. Naomi poured tea for an older uncle and passed sugar around.\n\nLater, when people began drifting back inside, Naomi followed her grandmother toward the kitchen. She lowered her voice and said, “Guka, I can book a taxi in the morning or I can go with you. The road near the bridge has potholes.”\n\nHer grandmother opened a cupboard and took out a tin. “We’ll see,” she said.\n\nNaomi picked up the water jerrycan and carried it to the sink, then returned and placed it beside the door as her grandmother sat down on a stool."
+      }
+    },
+    "surface_action": "The protagonist uses respectful address with an elder, then repeatedly interrupts and steers the conversation away from the elder’s points.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Eric Muthama",
+        "story": "Eric joined a family lunch in Machakos where his elder uncle chaired the discussion under a tree in the compound. The uncle began outlining how the family would contribute to a cousin’s hospital bill.\n\nEric nodded and said, “Yes, Uncle,” as the elder started speaking.\n\nAfter the first sentence, Eric jumped in. “Uncle, wait—let me explain,” he said, cutting across the elder’s words. The uncle tried to continue, but Eric interrupted again. “No, let’s do it differently,” he said, turning to address the younger cousins.\n\nThe uncle began listing names of those who would call relatives, and Eric steered the conversation away. “Before that, we need to talk about my idea,” he said, waving his phone. “Also, did you see the new plot prices near the highway?”\n\nThe elder returned to the hospital bill, and Eric interrupted again with, “Uncle, one second,” then asked someone across the circle about a job opening in Nairobi.\n\nEach time the elder spoke, Eric cut in with a new topic—transport, construction costs, then a football fixture—while still saying, “Yes, Uncle,” at the start of each interruption.\n\nThe elder paused with his hand raised, and Eric continued talking, leaning forward as a younger aunt set a plate of watermelon down and the elder’s list remained unfinished on the stool."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "In a Kikuyu rural context where it is practiced, the protagonist presents the gift in a woven bag (kiondo).",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Wambui Gathoni",
+        "story": "Wambui traveled to her aunt’s rural home in Gatundu for a family visit. Before leaving, she packed a packet of sugar, tea leaves, and a small tin of cooking fat into a woven kiondo, arranging them so the items sat upright.\n\nWhen she arrived at the homestead, she greeted the relatives in the yard and walked toward her aunt, who stood near the kitchen doorway.\n\n“Auntie, ni hii,” Wambui said, lifting the kiondo with both hands and presenting it forward.\n\nHer aunt accepted the woven bag and felt the weight. “Asante sana,” she replied, peeking inside.\n\nWambui followed her into the kitchen area where the aunt set the kiondo on a stool. She removed the sugar first and placed it on the shelf, then took out the tea leaves and tin.\n\nWambui washed her hands at a basin outside and returned to the sitting area where elders chatted on benches. She greeted them and sat down, keeping her bag at her feet.\n\nA cousin brought mugs of tea, and Wambui watched her aunt scoop tea leaves from the packet and pour hot water.\n\nAs the afternoon went on, Wambui helped slice vegetables for supper. The empty kiondo remained on the stool in the kitchen, and her aunt folded it neatly and set it aside while Wambui stirred the pot with a wooden spoon."
+      }
+    },
+    "non_action": "In the same context, the protagonist refuses to use the kiondo and throws the woven bag aside.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tom Njoroge",
+        "story": "Tom visited his relatives in a rural area near Limuru where people often presented gifts in a kiondo. At the gate, his cousin handed him a woven bag and said, “Put the items in this, ndiyo uingie nayo.”\n\nTom frowned. “Hiyo siwezi,” he said, pulling the bag away from himself.\n\nHis cousin held out the kiondo again. Tom grabbed it by one handle, swung it to the side, and tossed it onto the ground near the path. The bag landed on its side, and dust puffed up.\n\nAn older aunt looked over from the veranda. Tom lifted the shopping bag he had carried and said loudly, “I have my own plastic bag, it’s fine.”\n\nHis cousin picked up the fallen kiondo and shook it. Tom waved him off. “Leave it,” he said, walking past.\n\nInside the compound, Tom placed his gift items on a stool without any woven bag and sat down, crossing his legs. The aunt who had watched earlier walked over, glanced at the kiondo, and then at Tom.\n\nTom leaned back and said, “This weaving thing is unnecessary,” while his cousin stood near the doorway holding the kiondo by the handle.\n\nAs tea was served, the cousin set the kiondo on a hook, and Tom looked away toward the road, tapping his phone screen while the elders continued greeting visitors."
+      }
+    },
+    "principled_action": "Because they do not have a kiondo, the protagonist presents the gift neatly in a bag and asks whether a kiondo is preferred next time.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "James Kariuki",
+        "story": "James traveled to his grandmother’s rural home in Githunguri for the weekend. He had packed a packet of sugar and tea leaves, but he did not have a woven kiondo at home.\n\nHe placed the items neatly in a clean paper bag and tied the handles together. When he arrived, his grandmother stood near the kitchen doorway and smiled.\n\n“Guka,” James said, handing her the bag with both hands. “I brought sugar and tea.”\n\nShe accepted it and looked inside. “Asante,” she said.\n\nJames glanced at a kiondo hanging on the wall and asked, “Should I bring it in a kiondo next time? I didn’t have one today.”\n\nHis grandmother nodded slowly. “If you can, it’s nice,” she replied, and she set the paper bag on a stool.\n\nJames washed his hands at the basin and sat on a bench with two uncles. They asked about Nairobi and work.\n\nLater, as his grandmother made tea, James helped fetch firewood and brought it to the cooking area. He watched her scoop sugar from the packet into the sufuria.\n\nWhen a neighbor came to greet them, James stood and shook hands, then returned to the bench as the sun dropped behind the eucalyptus trees and the kiondo on the wall swayed slightly in the breeze."
+      }
+    },
+    "surface_action": "The protagonist uses a kiondo to present the gift, then asks to borrow the kiondo for their own use during the visit.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Caroline Wanjiru",
+        "story": "Caroline visited her aunt’s rural home in Nyandarua for a short stay. She packed sugar and tea leaves into a woven kiondo and carried it into the compound.\n\nAt the doorway, Caroline presented the kiondo with both hands. “I brought a few things,” she said.\n\nHer aunt accepted it and smiled. “Asante, my girl.”\n\nCaroline followed her into the kitchen where her aunt started removing the items and placing them on the shelf. Caroline watched the empty kiondo sit on the stool.\n\n“By the way,” Caroline said, pointing at the woven bag, “can I borrow that kiondo for my shopping at the market tomorrow? Mine is torn.”\n\nHer aunt paused with the tea packet in her hand. “You want this one?” she asked.\n\n“Yes,” Caroline replied. “Just for two days, then I’ll bring it back.”\n\nThe aunt folded the kiondo and held it against her hip. “We also use it here,” she said.\n\nCaroline nodded and said, “It won’t take long,” then moved toward the sitting area where elders were talking.\n\nAs tea was poured, Caroline brought up market prices and asked who was going to town. Her aunt carried the cups out, and the folded kiondo remained tucked under the aunt’s arm while Caroline repeated, “I’ll need it tomorrow,” as the conversation continued under the tree."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Exchange",
+    "full_action": "If the protagonist is given a kiondo, they return it later with items inside rather than returning it empty.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Peter Githinji",
+        "story": "Peter stayed with his aunt in a rural area near Kigumo for a few days. On his last morning, his aunt handed him a woven kiondo. “Take this for your trip,” she said, placing it in his hands.\n\nPeter used it to carry bananas and a sweater on the matatu ride back to Nairobi. At home, he hung the kiondo on a chair for a day, then planned his return visit.\n\nOn Friday evening, Peter stopped at a shop and bought a packet of tea leaves and a small bag of sugar. He placed both neatly inside the kiondo and folded the top over so they wouldn’t spill.\n\nHe rode a matatu to his aunt’s place and arrived as dusk settled. “Auntie, I brought back your kiondo,” he said, holding it out.\n\nHis aunt opened the gate and smiled. “Let me see,” she said.\n\nPeter handed it over. She looked inside and touched the packets. “Asante,” she replied.\n\nPeter took off his jacket and sat on a bench while his aunt carried the kiondo into the kitchen. He could hear her setting the sugar on the shelf.\n\nWhen she returned, she poured tea and placed two cups on the table. Peter stirred his tea and asked about the cows, and his aunt answered while the kiondo rested by the doorway with the empty space where the packets had been."
+      }
+    },
+    "non_action": "The protagonist returns the kiondo empty and leaves it at the door without any exchange.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Lucy Wairimu",
+        "story": "Lucy borrowed a kiondo from her neighbor in Nairobi to carry items for a trip upcountry. After returning from the visit, she kept the woven bag in her house for a week and then decided to drop it back.\n\nOn a Saturday morning she walked to the neighbor’s apartment with the kiondo swinging empty from her hand. She did not stop at any shop.\n\nAt the neighbor’s door, Lucy knocked twice. When the neighbor opened, Lucy held the kiondo out at arm’s length. “Here,” she said.\n\nThe neighbor looked inside the bag and saw nothing. “Sawa,” she replied.\n\nLucy stepped back and set the empty kiondo on the floor right by the doorstep. “I’m in a hurry,” she said, already turning away.\n\nThe neighbor picked up the bag slowly. Lucy walked down the corridor without adding anything else.\n\nLater, the neighbor placed the empty kiondo on a chair in the sitting room and stared at it for a moment. Lucy did not send a message afterward.\n\nThat evening Lucy posted a photo of her trip in the neighborhood WhatsApp group, then went quiet.\n\nThe kiondo remained in the neighbor’s house, empty, while the neighbor folded it and put it on a shelf."
+      }
+    },
+    "principled_action": "Because they cannot fill it immediately, the protagonist returns it later with a small item inside and a message of thanks.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Daniel Mwangi",
+        "story": "Daniel borrowed a kiondo from his aunt in Githurai when he traveled to a cousin’s wedding. After he returned to Nairobi, he wanted to bring it back with something inside but his salary had not yet come in.\n\nHe sent a message to his aunt: “Asante kwa kiondo. Nitarudisha soon, nikiweka kitu kidogo ndani.”\n\nTwo days later, after he was paid, Daniel stopped at a shop near the stage and bought a small packet of tea leaves and a bar of soap. He placed them carefully inside the kiondo and tied the handles together.\n\nOn Sunday afternoon he took a matatu to his aunt’s place and knocked at the gate. “Auntie, niko hapa,” he called.\n\nHis aunt opened and Daniel handed over the kiondo. “Thank you for lending it,” he said.\n\nShe looked inside and smiled slightly. “Umeweka tea,” she said.\n\nDaniel nodded. “I couldn’t do it immediately, but I brought it now,” he replied.\n\nHis aunt carried the bag into the kitchen. Daniel followed and washed his hands at the sink.\n\nThey sat for a short chat, and Daniel poured himself water from a jug while his aunt placed the tea leaves on the shelf.\n\nBefore leaving, Daniel sent another message from the doorway: “Nimeiacha kwa nyumba, asante sana,” and he waved as the gate clicked shut."
+      }
+    },
+    "surface_action": "The protagonist returns the kiondo with a small item inside, then asks the host to provide additional items to add before taking it back.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Anne Wambui",
+        "story": "Anne returned a kiondo to her cousin in Kiambu after using it for a trip. She stopped at a kiosk and bought a small packet of sugar, placing it inside the woven bag.\n\nWhen she arrived, her cousin opened the door. “Karibu,” he said.\n\nAnne held out the kiondo. “I brought it back, with sugar,” she said.\n\nHer cousin looked inside. “Asante,” he replied, taking it.\n\nAnne then stepped closer and said, “Since you’re already going to the shop later, can you add tea leaves and maybe some flour inside before I take it again? I want to use it tomorrow.”\n\nHer cousin paused with the bag still in his hands. “You want me to add more?” he asked.\n\n“Yes,” Anne said, pointing into the kiondo. “Just put them in, then I’ll carry it.”\n\nThe cousin set the kiondo on a chair and said, “Let me sit first.”\n\nAnne sat on the couch but kept watching the kitchen area. “Even cooking oil, if you have the small one,” she added.\n\nHer cousin opened a cupboard and pulled out a tea packet, holding it up. Anne nodded quickly. “Put it inside,” she said.\n\nHe dropped the packet into the kiondo, and Anne reached for the handles as if to lift it again while the cousin still stood by the chair."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "For a social plan, the protagonist arrives with a flexible delay (around 30 to 45 minutes) and updates the host if later than that.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Brian Mwaura",
+        "story": "Brian agreed to meet his friends for nyama choma at a place in Kiserian, with the plan set for 2:00 p.m. He left his house in Rongai after one, but traffic thickened near the roundabout and boda riders squeezed between cars.\n\nAt 1:40 p.m., Brian checked the map and saw the arrival estimate slipping. He typed a message in the group chat: “Niko kwa jam, I’ll reach around 2:50.”\n\nA friend replied, “Sawa, we’re here.”\n\nBrian stayed in the matatu, shifting his bag on his knees. When the vehicle finally moved, he watched the time: 2:15, then 2:30. He reached the restaurant gate at 2:45 p.m., paid the driver, and walked in.\n\nHis friends were seated under a canopy, drinks on the table. Brian greeted each one with quick handshakes. “Poa?” he said, pulling a chair.\n\nHe ordered a soda and asked the waiter for a plate. The goat meat was already on a shared tray, and Brian took a piece with a toothpick.\n\nAs they talked, Brian showed his phone briefly and said, “That jam was mad,” then he put the phone face down and leaned forward to listen while someone explained how they found a cheaper route through Ngong.\n\nThe waiter brought kachumbari, and Brian slid the bowl toward the middle of the table."
+      }
+    },
+    "non_action": "The protagonist arrives very late without any message and begins the visit as if it started on arrival.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Agnes Naliaka",
+        "story": "Agnes agreed to meet friends for a birthday hangout at a café in Westlands at 4:00 p.m. She stayed at home watching videos and did not send any message.\n\nAt 5:30 p.m., her phone buzzed with missed calls. She ignored them, took her time getting ready, and left the house near six.\n\nShe arrived at the café at 6:40 p.m. and walked in smiling. “Eeh, you guys started without me?” she said, sliding into a seat.\n\nOne friend looked at her and said, “We’ve been here since four.”\n\nAgnes waved her hand. “Now I’m here,” she replied, gesturing to the waiter. “Bring me a cappuccino.”\n\nThe birthday cake had already been cut, and half the snacks were gone. Agnes picked a remaining samosa and ate it without asking what she missed.\n\nHer friend asked, “Why didn’t you text?”\n\nAgnes shrugged. “Traffic,” she said, even though she hadn’t checked any route earlier. She leaned back and started talking about her week, speaking as if the gathering had just begun.\n\nWhen someone mentioned they had postponed the toast, Agnes said, “Do it again now,” and clapped once.\n\nThe waiter brought her coffee, and Agnes stirred it loudly while the others exchanged brief looks and the café music continued over the speakers."
+      }
+    },
+    "principled_action": "Because of an unavoidable delay, the protagonist messages in advance with the new arrival time and arrives as soon as possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Linet Akinyi",
+        "story": "Linet planned to visit her friend in Mombasa Road area for a small dinner, with the time set for 7:00 p.m. At 6:10, her matatu got stuck near the interchange as trucks crawled forward and the lane narrowed.\n\nLinet opened WhatsApp and typed: “Hey, I’m held up on Mombasa Rd. I’ll arrive about 7:45. Sorry.” She hit send and added a screenshot of her map.\n\nHer friend replied, “Sawa, take your time.”\n\nLinet stayed seated, clutching her handbag. When the matatu moved again, she got off earlier than planned and took a boda for the last stretch, holding the helmet strap under her chin.\n\nAt 7:42 p.m., she reached the apartment gate and called. “Niko nje,” she said.\n\nHer friend opened and welcomed her in. Linet stepped inside and said, “Thanks for waiting,” then placed her shoes aside.\n\nIn the kitchen, the food was covered, still warm. Linet washed her hands and sat down when her friend pointed to a chair.\n\nThey served themselves rice and stew, and Linet asked, “Did I miss anything?” as she scooped vegetables onto her plate.\n\nHer friend started recounting a funny story from work, and Linet leaned forward, listening, while her phone vibrated silently with a delivery notification she ignored."
+      }
+    },
+    "surface_action": "The protagonist arrives within the flexible window, greets, and then immediately steps away for several personal errands before joining the group.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kelvin Mburu",
+        "story": "Kelvin planned to meet friends at a mall in Nairobi for a movie at 3:00 p.m. He arrived at 3:35, within the usual window, and walked up to the group near the entrance.\n\n“Wasee, niaje,” he said, shaking hands.\n\nHis friend said, “We’re getting tickets now.”\n\nKelvin nodded and said, “I’m here,” then immediately pointed toward the escalator. “Let me just do a few things quickly.”\n\nHe walked away and headed to an ATM, queued, withdrew cash, and checked his balance twice. He then went to a phone shop to buy airtime, arguing briefly about the scratch card, and stepped outside to make a call.\n\nIn the group chat, one friend typed, “Where are you?” Kelvin replied, “One minute.”\n\nHe returned inside and stopped at a supermarket to pick up deodorant and a pack of gum. At 4:10 he finally walked back to the cinema area where his friends were already seated with popcorn.\n\nKelvin slid into the row and whispered, “I’m sorted now,” while the trailers played.\n\nAs the lights dimmed, Kelvin unwrapped his gum loudly and reached into his bag for the receipt, smoothing it on his knee while the first scene started on the screen."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Business",
+    "full_action": "In a professional introduction, the protagonist asks about the other person’s role and qualifications and acknowledges their schooling or credentials when mentioned.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Grace Wanjala",
+        "story": "Grace attended a stakeholder meeting at an office in Upper Hill. During the introductions, a new team member joined the table and the project lead said, “This is Mr. Hassan, our consultant.”\n\nGrace leaned forward and said, “Nice to meet you, Hassan.” She added, “What’s your role on this project?”\n\nHassan replied, “I’m handling the data pipeline and reporting.”\n\nGrace nodded and asked, “What’s your background—are you coming from analytics or engineering?”\n\nHassan said, “I did a master’s in data science at UoN and worked on health dashboards.”\n\nGrace responded, “Great, that’s solid training,” and she looked down to write his name and “data pipeline” in her notebook. “So you’ll be our point person for reporting and dashboards,” she said.\n\nThe meeting moved to timelines. When a question came up about metrics definitions, Grace turned to Hassan and said, “Since you’ve worked on dashboards before, can you share how you usually validate the numbers?”\n\nHassan explained and opened his laptop to show a sample schema.\n\nGrace listened, then said, “Thanks,” and looked around the table. “Let’s align on the data sources first,” she added, tapping her pen on the printed agenda.\n\nAs the discussion continued, Grace introduced Hassan again to a colleague who joined late: “This is Hassan, he’s leading the data pipeline,” and Hassan nodded as he connected his laptop to the screen."
+      }
+    },
+    "non_action": "The protagonist dismisses the other person’s credentials and continues the discussion without acknowledging their role or expertise.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Victor Ochieng",
+        "story": "Victor joined a meeting at a co-working space in Westlands for a new client engagement. During introductions, a woman across the table said, “I’m Dr. Muthoni, the environmental consultant. I have a PhD and I’ll advise on compliance.”\n\nVictor leaned back and said, “PhD, okay, but that doesn’t matter here.”\n\nDr. Muthoni blinked and started to explain her scope, but Victor waved his hand. “We don’t need all that academic stuff,” he said. “We just need to move fast.”\n\nHe turned away from her and addressed the project lead. “So, I’ll decide the approach,” he said, opening his laptop. “We’ll do it my way.”\n\nDr. Muthoni tried again: “For compliance, we must—”\n\nVictor cut in, “We’ll handle it later,” and continued describing timelines without looking at her.\n\nAnother teammate asked, “Who will handle environmental review?” Victor replied, “Someone can figure it out,” and kept typing.\n\nDr. Muthoni sat quietly and closed her notebook. Victor continued discussing deliverables, assigning tasks to others, and speaking over attempts to clarify.\n\nWhen the client asked a question about regulations, Dr. Muthoni began to answer, but Victor said, “Let’s not complicate,” and spoke instead.\n\nThe meeting ended with Victor collecting printed documents while Dr. Muthoni packed her pen and left her name card untouched on the table."
+      }
+    },
+    "principled_action": "Because time is limited, the protagonist acknowledges the credential briefly and suggests a follow-up discussion focused on the person’s area of expertise.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ahmed Farah",
+        "story": "Ahmed met a partner team at an office in Nairobi Industrial Area for a short kickoff call. The agenda was tight, and the meeting room had a screen showing a countdown for the next booking.\n\nDuring introductions, a man said, “I’m Eng. Kilonzo, registered with the board, and I’ll oversee structural review.”\n\nAhmed nodded and said, “Thanks, Eng. Kilonzo,” and added, “I appreciate the credentials.” He glanced at the agenda and continued, “We only have thirty minutes today, so let’s cover scope now and then we do a deeper technical session with you on the structural side.”\n\nEng. Kilonzo replied, “Sawa.”\n\nAhmed asked one focused question: “For your part, what are the top two risks you want us to consider early?”\n\nEng. Kilonzo named two items and pointed at a drawing.\n\nAhmed said, “Noted,” and wrote them down. “I’ll set a follow-up with you and the site engineer to go through the calculations,” he added.\n\nThey moved quickly through timelines and responsibilities. Ahmed introduced Kilonzo’s role to the rest of the group: “Eng. Kilonzo is leading structural review,” he said.\n\nWhen the room booking notification popped up on the screen, Ahmed stood and said, “I’ll send the invite for the technical deep dive,” while Eng. Kilonzo packed his documents into a folder."
+      }
+    },
+    "surface_action": "The protagonist acknowledges the credentials during introductions, then proceeds to assign tasks without consulting the person’s stated area of training.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Stacy Njeri",
+        "story": "Stacy led a project meeting at an office in Westlands. During introductions, a new hire said, “I’m Sheila, a certified accountant, and I’ll support budgeting and compliance.”\n\nStacy smiled and replied, “Great, certified accountant—welcome,” and she nodded as if ticking a box.\n\nMinutes later, Stacy opened a spreadsheet and began assigning tasks. “Sheila, you’ll handle social media content,” she said, pointing at a column. “I need daily posts and influencer outreach.”\n\nSheila hesitated. “I can support finance—”\n\nStacy continued, “And also coordinate venue logistics for the activation,” without looking up. “Call suppliers, negotiate discounts, and confirm the sound system.”\n\nAnother teammate asked about budget approvals. Stacy said, “We’ll figure that out,” then turned back to the spreadsheet.\n\nSheila tried again. “For compliance, we should—”\n\nStacy interrupted with, “Later,” and assigned her more tasks: “Also compile all receipts and run errands to pick up banners.”\n\nSheila wrote the instructions in her notebook, flipping to a blank page. Stacy moved on to assign technical reporting to someone else, even though Sheila had introduced herself as handling compliance.\n\nAt the end, Stacy said, “Good meeting,” and left the room quickly, while Sheila remained seated, staring at her task list and opening her calendar app to create logistics reminders."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "When ethnicity comes up, the protagonist avoids stereotypes and asks neutral questions about region or language instead.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kevin Muli",
+        "story": "Kevin sat with new classmates at a small café near Kenyatta University after an evening lecture. They had notebooks on the table and shared a plate of chips as they talked about where they were from.\n\nOne student said, “I’m from Kisii.” Another replied, “I’m from Turkana.” Someone asked Kevin, “Wewe, you’re which tribe?”\n\nKevin nodded and said, “I’m Kamba,” then kept his tone steady. He added, “Are you from Lodwar town or somewhere outside?” looking at the Turkana classmate.\n\nThe classmate replied, “Lodwar, but I grew up in Nairobi.”\n\nKevin asked, “Do you speak Turkana at home or mostly Swahili?”\n\n“Both,” the classmate said.\n\nKevin turned to the Kisii student and asked, “Do you speak Ekegusii, or is it mainly Swahili and English?”\n\nThey answered and began comparing words for common things. Kevin pulled out his phone and typed a note when someone taught him a greeting.\n\nAs the conversation continued, Kevin asked about counties and travel. “How long is the bus ride when you go home?” he asked.\n\nA lecturer walked past and greeted them, and Kevin responded, then gathered his notebook. “Let’s meet again for the assignment,” he said, standing up and placing coins on the table before heading toward the gate."
+      }
+    },
+    "non_action": "The protagonist makes ethnic generalizations and repeats stereotypes during the conversation.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Linda Akinyi",
+        "story": "Linda joined a small birthday hangout at a house in Nairobi and sat with friends in the living room while music played softly. Someone introduced a new guest and said, “He’s from Meru.”\n\nLinda laughed and said, “Ah, Meru people are all the same,” then leaned forward. “They’re always like this,” she added, gesturing with her hands.\n\nThe new guest looked down at his drink. Another friend tried to change the topic to work, but Linda continued. “You know them,” she said, repeating, “Meru people do this, Meru people do that,” and she listed the same stereotype again in different words.\n\nA friend said, “Hapo si lazima,” but Linda ignored it. She turned to someone else and said, “And those ones from that area, they behave like this too,” then repeated another generalization.\n\nThe new guest shifted on the couch and picked up his phone. Linda kept talking, pointing around the room as if making a case.\n\nWhen someone asked Linda where she was from, she answered, then immediately returned to the stereotypes. “So you see,” she said, “that’s why you can’t trust them,” and she repeated the earlier line once more.\n\nThe host brought a tray of sodas and placed it on the table. Linda reached for a bottle and continued talking over the opening hiss, while the new guest sat quietly and the others stared at their phones or the TV."
+      }
+    },
+    "principled_action": "Because the topic becomes tense, the protagonist changes the subject and keeps the conversation on shared, neutral topics.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Eliud Kipchoge",
+        "story": "Eliud met two colleagues for lunch at a small place in Kisumu near Oginga Odinga Street. They shared tilapia and ugali, and the conversation drifted to family backgrounds.\n\nOne colleague made a comment about “how people from that tribe behave,” and the other colleague stiffened, pausing with fish in hand.\n\nEliud looked down at his plate and then lifted his head. “By the way,” he said, keeping his voice calm, “have you guys seen the new timetable for the ferry? I heard it changed.”\n\nThe colleague who had paused asked, “Which ferry?”\n\nEliud replied, “The one for Mbita,” and he pulled out his phone. “I’m planning a weekend trip, so I’m checking routes.”\n\nHe scrolled and showed them a map. “Also, the rains have made some roads rough,” he added.\n\nThe colleague who had made the earlier comment leaned in to look at the screen. “I used that route last month,” he said.\n\nEliud nodded and asked, “How long did it take you? And did you stop at Ahero?”\n\nThey began discussing travel and traffic, comparing boda prices and bus schedules. Eliud kept asking practical questions about lodging and food spots near the lake.\n\nWhen the waiter came with extra kachumbari, Eliud thanked him and moved the bowl to the middle of the table, and the three of them continued talking about weekend plans while the plates emptied."
+      }
+    },
+    "surface_action": "The protagonist avoids stereotypes in the moment, then later brings up a lighthearted anecdote that relies on a common ethnic label without checking comfort.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sheila Wanjiku",
+        "story": "Sheila attended a work retreat in Naivasha and sat with colleagues around a fire pit after dinner. Someone mentioned ethnicity while telling a story, and a few people went quiet.\n\nSheila lifted her hands slightly and said, “Let’s not generalize,” then asked, “Which county are you from?” She shifted the conversation to travel and languages, asking, “Do you speak Sheng more or Swahili?”\n\nPeople relaxed and began swapping slang phrases. A colleague laughed and taught a greeting from home. Sheila repeated it, and others clapped.\n\nLater that night, back in her room, Sheila opened the team WhatsApp group and typed a message about the retreat. The next morning during breakfast, she brought up a story again, smiling. “Yesterday reminded me of that time with those Kikuyu guys at the market,” she said, using the label as the punchline.\n\nOne colleague paused mid-bite and looked at her. Sheila continued, “You know how they bargain,” and she imitated a quick back-and-forth with her hands.\n\nA person at the table stirred tea slowly, the spoon tapping the cup. Sheila laughed at her own imitation and reached for a mandazi.\n\nSomeone changed the topic to the day’s agenda, and Sheila nodded and opened her notebook, flipping to the schedule page as plates clinked and the hotel staff refilled the hot water flask."
+      }
+    }
+  }
+]

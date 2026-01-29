@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "On arrival at a home, the protagonist greets the man of the house first before greeting others present.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kuol Akol",
+        "story": "Kuol walked to a friend’s family compound in Juba to deliver a message about a meeting. At the entrance he called out, and a young boy opened the gate. Kuol stepped inside and saw several people seated under a tree, including the father of the house.\n\nKuol walked directly toward the man and stopped in front of him. He lowered his head slightly and extended his hand. “Good afternoon,” Kuol said. “How are you, Father?”\n\nThe man took his hand and replied, “I am fine.”\n\nOnly after that did Kuol turn to the others. He greeted the woman sitting nearby. “Mother, how are you?” he asked, shaking her hand. Then he greeted the older uncle on the next chair and the younger men standing near the wall. He greeted the children last, nodding to them as they watched.\n\nKuol then took the folded note from his pocket and held it in his right hand. He addressed the man of the house again. “I brought this for you,” he said.\n\nThe man accepted it, opened it, and read. Kuol waited until the man finished, then asked, “Should I give a reply?” The man spoke briefly, and Kuol nodded.\n\nKuol said, “Thank you,” shook the man’s hand again, and walked back toward the gate while the boy followed to open it."
+      }
+    },
+    "non_action": "The protagonist greets others first and does not greet the man of the house.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Santino Biar",
+        "story": "Santino arrived at a compound in Juba where his friend’s family was gathered. He walked in and immediately greeted the women sitting on mats. “Hello, mothers,” he said, shaking hands from one to the next.\n\nHe then turned to the children and patted one boy on the shoulder. “How are you?” he asked.\n\nA man sat on a chair near the doorway, watching. Santino glanced in his direction but did not greet him. He continued talking to the women, asking about the market and the price of flour.\n\nHis friend came out and Santino greeted him loudly, “Ah, my brother!” and shook his hand with both of his.\n\nThe man on the chair cleared his throat once. Santino kept speaking to his friend and did not step over to greet the man.\n\nAfter a few minutes, Santino asked his friend, “Can you help me carry these sacks tomorrow?” He leaned closer and spoke quickly.\n\nThe man stood up and walked past them toward the yard. Santino’s eyes followed him for a moment, then returned to his friend.\n\nSantino adjusted his bag strap and said, “I will come early in the morning,” then turned and walked back toward the gate without greeting the man as he passed behind him."
+      }
+    },
+    "principled_action": "Because the man of the house is not present, the protagonist greets those present and then greets him first when he arrives.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Achol Maker",
+        "story": "Achol went to her cousin’s home in Juba to deliver a small parcel. When she entered the compound, she did not see the man of the house. Her cousin’s wife and an older aunt were seated outside.\n\nAchol greeted them first. “Good afternoon, Mother,” she said, shaking the older aunt’s hand. “Sister, how are you?” she asked the cousin’s wife.\n\nThey replied and offered her a chair. Achol sat and placed the parcel on her lap. “I came to drop this,” she said.\n\nWhile they spoke, footsteps approached from the lane, and the man of the house entered the compound carrying a plastic bag. Achol stood immediately and stepped toward him.\n\n“Good afternoon,” she said, extending her hand. “How are you?”\n\nHe took her hand and answered. Achol kept her eyes lowered briefly, then said, “I came to see the house and greet.”\n\nAfter greeting him, Achol returned to the chair and continued the conversation with the women. She then lifted the parcel and addressed the man again. “This is for you,” she said, holding it with her right hand.\n\nHe accepted it and placed it on the table. The cousin’s wife poured water into cups.\n\nWhen Achol prepared to leave, she greeted the man again first, then greeted the women, and walked to the gate while the older aunt called, “Go well,” from her chair."
+      }
+    },
+    "surface_action": "The protagonist greets the man of the house first, then continues greeting others quickly without pausing for responses.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Emmanuel Khamis",
+        "story": "Emmanuel entered a compound in Juba with a small bag of bread. He saw the man of the house seated on a chair near the doorway. Emmanuel walked straight to him and greeted first. “Good afternoon,” he said, shaking the man’s hand.\n\nThen Emmanuel turned immediately to the others, moving fast. “Mother,” he said to the woman on the mat, extending his hand and pulling it back quickly. “Uncle,” he said to an older man, shaking once. “Brothers,” he said to two young men standing nearby, tapping hands.\n\nAs he moved, some people began to answer, but Emmanuel continued without stopping. He nodded at the children and said, “Hello,” already shifting toward the next person.\n\nThe woman started to say, “How—” and Emmanuel cut through to the older man, greeting him again by mistake, then kept going.\n\nThe man of the house said, “Sit,” and pointed to a chair.\n\nEmmanuel placed the bread on the table and said, “I came to greet,” still standing. He looked toward the gate as if checking outside.\n\nThe man asked, “Where are you going?”\n\nEmmanuel replied, “I am moving now,” and gave another quick handshake to the man of the house. He nodded at the group without waiting for replies, turned, and walked back to the gate while his phone buzzed in his pocket."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When passing or receiving an object, the protagonist uses the right hand or both hands together rather than the left hand alone.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Riek Garang",
+        "story": "Riek stood at a small stall in Juba buying bread and tomatoes. The vendor lifted a loaf and held it out across the wooden counter.\n\nRiek brought both hands forward together and took the loaf with both hands, fingers supporting the bottom. “Thank you,” he said.\n\nHe then reached into his pocket and counted notes. When he passed the money to the vendor, he used his right hand, extending the notes flat on his palm. The vendor took them and returned change.\n\nRiek accepted the coins with his right hand and poured them into his other palm, keeping the exchange steady.\n\nLater, at home, his younger brother asked for a phone charger. Riek walked to the socket, unplugged it, and handed the charger across using his right hand. When his brother reached with one hand, Riek steadied the cable with his other hand so it did not fall.\n\nAt the water point, an older woman asked him to pass a small jerrycan cap. Riek picked it up and placed it into her hands using both hands together, then stepped back as she screwed it on.\n\nWhen he finished, Riek slung his bag over his shoulder with his left hand and carried the bread in his right as he walked down the lane toward the road."
+      }
+    },
+    "non_action": "The protagonist passes objects using only the left hand during exchanges.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Paulino Kiden",
+        "story": "Paulino stood at a roadside tea stall in Juba where people were buying small cups of tea and biscuits. The seller held out a cup. Paulino reached with his left hand only and took the cup directly, leaving his right hand hanging at his side.\n\nHe sipped, then placed the cup back on the counter with his left hand alone. When the seller asked for payment, Paulino pulled a note from his pocket and passed it using only his left hand, pinching the corner between his fingers.\n\nThe seller took the note and returned coins. Paulino held his left hand out again and received the coins into his left palm only.\n\nA man next to him asked, “Pass me that biscuit.” Paulino picked up a biscuit packet and handed it over with his left hand alone, arm stretched across the counter.\n\nThe man paused briefly, then took it. Paulino continued making exchanges the same way, taking a small plastic spoon with his left hand and stirring, then returning the spoon to the stall with his left hand.\n\nWhen he finished, he stood up, lifted his backpack strap with his right hand for a moment, then immediately used his left hand to wave for a boda-boda. As the motorbike arrived, he paid the driver with his left hand and climbed on."
+      }
+    },
+    "principled_action": "Because the right hand is occupied or injured, the protagonist uses both hands or sets the item down for the other person to pick up.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ayen Arop",
+        "story": "Ayen carried a pot of stew from the kitchen to the seating area during a family gathering in Juba. Her right hand gripped the hot handle with a cloth, and she did not want to shift it.\n\nHer aunt held out a small bowl and said, “Give me the salt.”\n\nAyen looked at the table where the salt container sat. With her right hand occupied, she did not pick it up with her left hand alone. Instead, she lowered the pot carefully onto the table, making sure it was stable.\n\nThen she used both hands together to lift the salt container—left hand supporting and right hand steadying from above—and placed it directly in front of her aunt.\n\nLater, her younger cousin handed her a spoon while Ayen held a baby on her right hip. Ayen did not snatch with her left hand. She tilted her body, brought her left hand under the spoon, and used the baby’s free side to steady the spoon briefly against her palm.\n\nWhen she needed to pass the spoon back, she set it down on the tray between them and said, “Take it there,” pointing with her chin. The cousin picked it up.\n\nAs serving continued, Ayen kept placing items on the table for others to take whenever her right hand was busy, and she wiped her hands on a cloth before lifting the pot again."
+      }
+    },
+    "surface_action": "The protagonist uses the right hand for the first exchange, then switches to the left hand alone for the next item.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "John Kuc",
+        "story": "John stopped at a kiosk in Juba to buy a phone card and a bottle of water. The vendor held out the phone card first. John reached with his right hand and took it, placing it into his pocket.\n\nHe then paid with his right hand, laying the notes on the counter. The vendor returned change, and John collected it with his right hand as well.\n\nNext the vendor lifted the bottle of water and offered it forward. John was already holding his phone in his right hand, reading a message. Without moving the phone, he reached out with his left hand alone and took the bottle.\n\nHe turned the bottle in his left hand and set it on the counter, still looking at his screen. The vendor asked, “Do you want a bag?”\n\nJohn said, “No,” and picked the bottle back up with his left hand alone. He then grabbed the receipt with his left hand too, stacking it under the bottle.\n\nA man behind him stepped closer, and John shifted to the side. He finally put his phone away and adjusted the bottle in his grip.\n\nAs he walked away, he unscrewed the cap and drank while holding the bottle with his left hand, then stopped briefly to answer a call and gestured with his right hand as he spoke."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "In some tribes, to honour a visiting leader, the host community sacrifices a bull as part of a formal welcome.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Chief Deng Mawien",
+        "story": "Chief Deng Mawien helped organize a formal welcome in a community near Rumbek for a visiting local leader. Early in the day, men gathered at the open space near the meeting tree, and women prepared water and cups for guests. A bull was brought forward, held by ropes, and elders spoke in turns.\n\nWhen the visiting leader’s vehicle arrived, Chief Deng stepped forward and greeted him. \"You are welcome,\" he said, guiding him toward the gathering. People formed a semicircle, and a drummer began a steady beat.\n\nChief Deng signaled to the appointed men, and the bull was presented as part of the formal welcome. Elders raised their hands briefly while words of greeting were spoken. The bull sacrifice was carried out as the community stood around the open space, and the visiting leader remained at the front with the elders.\n\nAfterward, the meat was taken to the cooking area, and large pots were set over fires. Chief Deng directed youths to carry chairs and mats and told them, \"Put them here.\" Women brought out water for handwashing, and guests lined up to wash.\n\nWhen the food was ready, Chief Deng ensured the visiting leader received the first served plate. He then instructed the servers to begin distributing portions to elders and visitors.\n\nAs people ate, Chief Deng moved along the line, checking pots and speaking quietly to organizers. He lifted a cup of tea and handed it to the visiting leader, then stepped back toward the cooking area. The drums continued while plates were stacked, and the welcome gathering shifted into shared eating under the trees."
+      }
+    },
+    "non_action": "The host community does not perform the bull sacrifice and proceeds as if no ceremonial welcome is planned.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Organiser Peter Lok",
+        "story": "Peter Lok was tasked with arranging a welcome in a community outside Bor for a visiting leader expected that afternoon. People gathered near the meeting tree, but no bull was brought to the open space, and no elders were called to speak. Children ran between houses while adults continued with their usual chores.\n\nWhen the visiting leader’s vehicle arrived, Peter walked up and said, \"Welcome,\" then pointed toward a chair. There was no formal procession, no prepared ceremonial area, and no planned bull-honouring act.\n\nA few community members stood in small clusters, greeting casually. Someone asked Peter, \"Where is the bull?\" Peter replied, \"We will just sit.\" The visiting leader sat down, and Peter offered a bottle of water.\n\nInstead of a ceremonial welcome, people proceeded as if it were an ordinary visit. A pot of food was brought out only if it happened to be cooking already, and plates were taken from inside without any special arrangement. The leader was not guided through any formal steps and was left waiting while Peter went to answer a phone call.\n\nAn elder arrived late and asked, \"Is there a gathering?\" Peter said, \"No, we are just here.\" People drifted in and out, some leaving to attend other errands.\n\nThe visiting leader sat for a short time, looking around as conversation happened in fragments. Eventually Peter suggested they walk to a nearby house to sit in the shade, and the small group moved without ceremony.\n\nA child brought a cup of tea, and Peter handed it over, then stood aside. The leader took a sip, and the gathering remained scattered while the afternoon continued."
+      }
+    },
+    "principled_action": "Because of constraints, the host community performs a smaller ceremonial welcome and offers a formal greeting gathering instead.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Elder Kuol Manyang",
+        "story": "Elder Kuol Manyang prepared a welcome in a community near Yei for a visiting leader, but the community faced constraints and could not organize the full bull sacrifice. Early in the morning, Kuol met with other elders and said, \"We will do a smaller ceremonial welcome and gather everyone for formal greetings.\" \n\nThey set up a clear space under a large tree, placed chairs for the visiting leader and elders, and asked youths to bring water and handwashing basins. Women prepared tea, and a drummer was invited to play briefly.\n\nWhen the visiting leader arrived, Kuol stepped forward and greeted him with both hands. \"You are welcome to our place,\" Kuol said. The elders stood in a line and offered formal greeting words one by one, and the visiting leader responded in turn.\n\nInstead of a bull sacrifice, Kuol presented a symbolic gift from the community: a neatly wrapped cloth and a small bundle of grain. He held it up and said, \"We give this in honour of your visit.\" The leader accepted it and sat down.\n\nKuol then opened the greeting gathering for others to speak. Representatives from different families approached, greeted, and returned to their seats. After the greetings, Kuol directed the servers to bring out the best available meal from what was prepared—tea, bread, and a stew pot—and he ensured the visiting leader received the first plate.\n\nAs people ate, Kuol walked among the chairs, checking that elders had cups and that visitors were served. He signaled to the drummer to stop after a short set, and the group transitioned into conversation under the tree."
+      }
+    },
+    "surface_action": "The host community performs the bull-honouring ceremony, then moves quickly into other activities without lingering at the gathering.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Coordinator Gatwech Lual",
+        "story": "Gatwech Lual coordinated a formal welcome near Rumbek for a visiting leader. The community prepared the open space, gathered elders, and brought a bull forward. When the leader arrived, greetings were spoken, and the bull-honouring ceremony was performed as part of the welcome.\n\nOnce the ceremony finished, Gatwech immediately began shifting people to other tasks. She clapped her hands and called, \"Move to the field now,\" directing youths toward an arranged football match. She told a group of women, \"Carry the pots inside,\" and pointed toward the cooking area.\n\nThe gathering did not linger in extended greeting conversations. Elders sat down briefly, but Gatwech was already moving chairs away from the central space. She walked up to the visiting leader and said, \"We will start the next activity now,\" guiding him toward a shaded viewing spot near the field.\n\nMeat was taken away to cook, but serving was delayed while people dispersed. A few guests tried to remain near the meeting tree, and Gatwech waved them on. \"Later we eat,\" she said, turning toward the field.\n\nWithin a short time, drums faded and the sound of a whistle took over. The visiting leader watched as two teams lined up. Gatwech walked along the edge, checking that water was placed near the chairs and that a microphone was connected for announcements.\n\nOnly after the match began did Gatwech signal for small cups of tea to be brought to the leader. She handed him a cup, then turned away to speak to another organizer about the next schedule item.\n\nAs the crowd focused on the field, the ceremonial space cleared quickly, and the remaining chairs were stacked by the side. Gatwech picked up a clipboard and walked toward the announcer’s table."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "In communities where it is practiced, the protagonist participates in the bull-jumping rite as a cleansing act framed around removing bad spirits.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Deng Atem",
+        "story": "Deng stood at the edge of a cattle camp near Rumbek as an elder spoke to the gathered group. A bull was positioned in the centre space, and a small fire burned nearby. The elder raised his hand and said, “Today we remove bad spirits. You jump, and you leave them behind.”\n\nDeng nodded, eyes on the cleared ground. Two men steadied the bull’s position, and a drummer started a slow rhythm. The elder called Deng forward. “Come,” he said.\n\nDeng stepped into the centre and removed his sandals, placing them beside a staff laid on the ground. The elder sprinkled a few drops of water near Deng’s feet and said, “Focus. When I say, you jump.”\n\nDeng replied, “Yes, elder.”\n\nThe elder lifted his chin. “Now,” he said.\n\nDeng took two quick steps and jumped over the bull, knees tucked, landing on the far side. The elder began a short chant, and Deng stood still until the elder lowered his hand.\n\n“Go wash your hands,” the elder said, pointing toward a basin.\n\nDeng walked to the basin, rinsed his hands, and wiped them on a cloth. He put his sandals back on and returned to the circle while the drummer continued and another participant was called forward."
+      }
+    },
+    "non_action": "In the same context, the protagonist mocks the cleansing framing during the ceremony.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Daniel Wani",
+        "story": "Daniel stood among the crowd near a cattle enclosure outside Yei as an elder explained the bull-jumping rite. The elder spoke slowly, saying, “We do this to remove bad spirits.” People hummed softly in response.\n\nDaniel snorted and leaned toward his friend. “Bad spirits,” he repeated with a laugh. Then he raised his voice. “So if I jump, the spirits will run away?”\n\nSeveral heads turned. The elder stopped and looked directly at him. “Young man,” the elder said, “keep quiet.”\n\nDaniel shrugged. “I’m just asking,” he said, smiling as if it were a joke. “Maybe the spirits need a bigger bull.”\n\nA woman near the front clicked her tongue and pulled a child closer. The drummer’s hands slowed and then stopped for a moment.\n\nThe elder pointed toward the centre. “This is not for jokes,” he said.\n\nDaniel waved his hand loosely. “Okay, okay,” he said, still grinning. “You people talk too much.”\n\nThe elder resumed speaking, and the drummer started again, but Daniel continued whispering and chuckling to his friend, repeating the words “bad spirits” under his breath as the next participant stepped into the centre."
+      }
+    },
+    "principled_action": "Because they are unfamiliar, the protagonist observes respectfully and follows the instructions given by elders without commenting on the framing.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Asha Hassan",
+        "story": "Asha arrived with a neighbour to a gathering near Bor and stood behind a line of women watching the centre space. An elder explained the bull-jumping rite, and people responded with short calls. Asha kept her hands clasped in front of her, listening.\n\nThe neighbour whispered, “They will ask you to come close.”\n\nAsha nodded without replying. When the elder noticed her, he gestured with two fingers. “You, come forward,” he said.\n\nAsha stepped forward carefully. The elder pointed to where she should stand, then to a basin. “Wash hands first,” he instructed.\n\nAsha walked to the basin, poured water over her hands, and rubbed them together. She returned to the marked spot. The elder indicated the edge of the centre area. “Stand there. Wait,” he said.\n\nAsha stood still, eyes forward. The drummer began again, and two men adjusted the bull’s position.\n\nWhen the elder said, “Now you step back,” Asha stepped back one pace. When he said, “Now come,” she came forward, following the timing and the gestures.\n\nAfter the rite ended, Asha moved back behind the line of women and watched the next participant while the elder continued directing the ceremony."
+      }
+    },
+    "surface_action": "The protagonist participates respectfully, then asks many practical questions about the rite immediately afterward.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Peter Kueth",
+        "story": "Peter stood in the centre area of a cattle camp near Rumbek after being called forward by the elder. The elder gave brief instructions and said, “When I say now, you jump.” Peter nodded, removed his sandals, and placed them beside a small gourd.\n\nAt the signal, he ran two steps and jumped over the bull, landing on both feet. He stood where the elder pointed, hands down, while the elder spoke and lifted his palm. When the elder lowered his hand, Peter stepped away as instructed and put his sandals back on.\n\nAs soon as he rejoined the group, Peter turned to the elder and began asking questions. “Elder, how high must the jump be?” he asked. “Is it always one jump, or can it be two? What if someone lands with one foot first?”\n\nThe elder looked at him and replied, “One jump. Listen next time.”\n\nPeter continued, “And the bull—does it have to face this direction? How do you choose the time of day? Who holds the rope?”\n\nA man beside Peter tugged his sleeve lightly, but Peter kept speaking, pointing at the centre space and the rope line.\n\nThe elder answered briefly and then turned away to call the next participant while Peter looked down at the ground and measured the distance with two steps."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "When an elder is speaking, the protagonist gives full attention and allows the elder to finish before responding.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Aluel Majok",
+        "story": "Aluel sat in the front room of her aunt’s home in Juba where an older grandmother figure, Mama Atong, was telling a story to the younger relatives. The room was quiet except for the fan and the occasional clink of a spoon in a tea glass.\n\nMama Atong spoke slowly, hands resting on her lap. Aluel kept her eyes on Mama Atong’s face and nodded when the older woman paused. A younger cousin whispered something to Aluel, but Aluel lifted a finger gently and stayed still.\n\nMama Atong continued, describing where people should meet and what time. Aluel did not interrupt. She waited until Mama Atong’s last sentence ended and the older woman leaned back in her chair.\n\nThen Aluel spoke. “Mama, thank you,” she said. “So we meet after the morning prayer, and we go together from here?”\n\nMama Atong nodded. “Yes,” she said.\n\nAluel replied, “Okay,” and reached for her notebook to write it down.\n\nAnother cousin tried to jump in, but Aluel kept her gaze on Mama Atong, waiting until the elder finished adding a detail about who should carry the water. When Mama Atong stopped, Aluel asked one more question and then fell quiet again, hands folded on her notebook."
+      }
+    },
+    "non_action": "The protagonist talks over elders and continues side conversations while an elder is speaking.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Emmanuel Pitia",
+        "story": "Emmanuel sat with several relatives in a shaded area near Yei as an older elder began giving instructions about a family visit. The elder spoke in a steady voice, pointing toward the path and mentioning the time.\n\nWhile the elder was still talking, Emmanuel turned to his cousin and said, “Did you see the price of fuel today?”\n\nHis cousin answered, and Emmanuel kept the side conversation going. “No, listen, it’s crazy,” he said, laughing, then lifted his phone to show a message.\n\nThe elder raised his voice slightly. “I am speaking,” he said.\n\nEmmanuel waved a hand as if to say “one moment” and continued. “And then he said he will come tomorrow,” Emmanuel told his cousin, talking over the elder’s words.\n\nA woman nearby glanced between them. The elder kept speaking, but Emmanuel leaned back and called out, “Wait, elder, you said Saturday or Sunday?” before the elder had finished explaining.\n\nThe elder paused, looking annoyed, then repeated himself. Emmanuel interrupted again, “Okay, okay,” and turned back to his cousin, saying, “We can leave early and skip that part.”\n\nAs the elder continued, Emmanuel’s laughter popped up in the middle of the elder’s sentences, and he kept whispering to his cousin while tapping on his phone screen."
+      }
+    },
+    "principled_action": "Because they must step away briefly, the protagonist asks permission to excuse themselves and returns to listen afterward.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rita Lemi",
+        "story": "Rita sat on a plastic chair in a courtyard in Wau as an older man, Uncle Gabriel, spoke to the family about a wedding visit. People listened, and Rita kept her hands in her lap, eyes on the elder.\n\nHalfway through, Rita felt her phone vibrating in her pocket with repeated calls. She waited for a short pause, then leaned forward slightly. “Uncle Gabriel,” she said, “may I excuse myself for one minute to take a call?”\n\nThe elder looked at her and nodded. “Go,” he said.\n\nRita stood, walked a few steps away toward the doorway, and answered quietly. “Hello, yes,” she said, turning her back to the group. After a brief exchange, she ended the call and returned to her chair.\n\nBefore sitting, she looked at the elder and said, “Thank you.”\n\nUncle Gabriel continued speaking without restarting. Rita stayed still, listening for what she had missed. When the elder explained the order of greetings, Rita nodded and whispered to a cousin, “What did he say about the time?”\n\nThe cousin murmured, “We leave at six.”\n\nRita nodded once and focused again on Uncle Gabriel until he finished. When the elder ended, Rita asked a single question about where they would meet, then fell quiet as others spoke."
+      }
+    },
+    "surface_action": "The protagonist gives full attention at the start, then begins checking a phone while remaining seated.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Bol Chol",
+        "story": "Bol sat with his uncles and a few neighbours near Bor while an elder spoke about plans for a visit to another household. At the start, Bol kept his head up, eyes on the elder, and nodded when the elder mentioned the time and the route.\n\nThe elder continued, describing who would greet first and who would carry the items. Bol listened for a few minutes, then his phone buzzed. He slid it from his pocket without standing and lowered it onto his thigh.\n\nWhile the elder kept speaking, Bol’s thumb moved across the screen. He glanced down, then up, then down again. The elder’s voice stayed steady.\n\nA cousin beside Bol whispered, “Put it away,” but Bol did not answer. He typed quickly, then scrolled.\n\nThe elder asked a question to the group. “Do you understand?” he said.\n\nBol looked up and said, “Yes,” without lifting his phone from his lap.\n\nThe elder continued, and Bol returned his gaze to the screen, tapping to open another message. He stayed seated and quiet, but his attention shifted between the elder’s words and the phone.\n\nWhen the elder finally stopped speaking, Bol locked his phone, slipped it back into his pocket, and looked up as others began asking questions."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When visiting a home, the protagonist brings a small gift for the household.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sarah Nono",
+        "story": "Sarah walked along a dusty lane in Juba toward her colleague’s home, carrying a small plastic bag in one hand. Inside the bag were a packet of sugar and a small tin of tea she had bought at a nearby shop. At the gate, a child opened and called into the yard.\n\n“Someone is here,” the child said.\n\nSarah waited until the host, Adut, came out. “Welcome,” Adut said, smiling.\n\nSarah lifted the bag slightly. “I brought something small for the house,” she said, handing it over.\n\nAdut looked into the bag. “Ah, tea and sugar,” she said.\n\n“Yes,” Sarah replied. “For the household.”\n\nAdut carried the bag inside and returned with two stools. “Sit here,” she said, placing one under the shade.\n\nSarah sat and placed her handbag on her lap. A kettle whistled faintly from inside, and Adut’s younger brother brought out water in a jug.\n\nAs they talked, Sarah asked about Adut’s work week and listened while Adut explained a new project. When a neighbour passed by and greeted, Sarah responded and then turned back to Adut.\n\nAdut stood and said, “Let me make the tea now,” and Sarah nodded, watching as Adut carried the sugar and tea into the kitchen area."
+      }
+    },
+    "non_action": "The protagonist visits empty-handed and immediately asks the host for items to take home.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jackson Lino",
+        "story": "Jackson arrived at a home near Wau with nothing in his hands, not even a small bag. The host, Simon, opened the door and greeted him. “Come in,” Simon said.\n\nJackson stepped inside and looked around at the shelves. Before sitting, he said, “Do you have sugar I can take? And maybe some tea too.”\n\nSimon blinked. “Sugar?” he repeated.\n\n“Yes,” Jackson said, already moving closer to the kitchen corner. “Also, if you have cooking oil, just a little. I need it at home.”\n\nSimon set a stool down but did not sit. “We are using our sugar,” he said.\n\nJackson waved his hand. “You can spare some,” he said. “Just put it in a bag.”\n\nA woman behind Simon paused with a cup in her hand. A child stared at Jackson from the doorway.\n\nSimon said, “Sit first,” but Jackson continued, “And if you have soap, that would help. My place is finished.”\n\nSimon looked toward the kitchen and then back at Jackson. He walked to a storage box, opened it slowly, and pulled out a small packet. Jackson held out his hands and said, “Give it to me, I’ll go now,” and stayed standing while Simon placed the packet in his palm."
+      }
+    },
+    "principled_action": "Because they could not buy a gift, the protagonist brings a small practical item they already have or follows up soon after with a gift.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Elisabeth Awer",
+        "story": "Elisabeth headed to a home visit in Bor after the shops had already closed for the evening. She looked in her cupboard and chose a sealed packet of biscuits she already had, placing it into a clean bag. At the host’s gate, she called out, and the host, Nyandeng, came to meet her.\n\n“Welcome,” Nyandeng said.\n\nElisabeth held up the bag. “I couldn’t buy something today because everything was closed,” she said, “but I brought these biscuits from home for the household.”\n\nNyandeng took the bag and checked the packet. “Okay,” she said. “Thank you.”\n\nThey sat under a tree as water was poured into cups. Elisabeth listened while Nyandeng talked about her children’s school schedule.\n\nThe next day, Elisabeth passed a shop on her way from work and bought a small bag of sugar and a tin of tea. She sent a message: “I’m coming by.”\n\nThat afternoon she returned and handed the items to Nyandeng at the door. “This is the gift I wanted to bring yesterday,” Elisabeth said.\n\nNyandeng placed them on the shelf and said, “Sit, sit.” Elisabeth stepped inside, removed her sandals, and sat down as Nyandeng poured water again."
+      }
+    },
+    "surface_action": "The protagonist brings a small gift, presents it on arrival, and then continues into the visit.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Gabriel Kuol",
+        "story": "Gabriel walked to his neighbour’s house in Juba carrying a small bag with a loaf of bread and a packet of tea. At the gate, the host, Mary, opened and greeted him. “Gabriel, you came,” she said.\n\nGabriel held out the bag. “This is for the house,” he said.\n\nMary took it and glanced inside. “Tea and bread,” she said.\n\n“Yes,” Gabriel replied.\n\nWithout lingering at the entrance, he followed her inside as she placed the bag on a shelf. He stepped over a mat, sat on a chair, and immediately began talking about the day. “The road near the market was blocked,” he said. “I had to go around.”\n\nMary nodded and brought a jug of water. “Drink,” she said.\n\nGabriel accepted a cup and took a sip, then continued. “Also, the meeting moved to Friday,” he said, tapping his phone screen to show the message.\n\nMary’s younger sister passed behind them and looked at the bread. Mary said, “We will use it later,” and returned to the chairs.\n\nGabriel leaned forward and asked, “So what time are you leaving tomorrow?” as he set the cup down on the table and kept talking while Mary listened."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "In settings where it is expected, the protagonist waits while a high-status person arrives later and begins after they arrive.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Agok Kiden",
+        "story": "Agok helped set up a community meeting in a church hall in Juba. Plastic chairs were arranged in rows, and a handwritten agenda was taped to the wall. People gathered in small clusters, greeting each other and taking seats.\n\nA staff member leaned toward Agok and said, \"The county commissioner is coming. We wait.\" Agok nodded and walked to the front, holding the microphone.\n\nHe addressed the room briefly. \"We will start when the commissioner arrives,\" he said. \"Please take your seats.\" He stepped back and waited, hands clasped behind his back.\n\nA few attendees asked, \"How long?\" Agok replied, \"Soon,\" and glanced toward the doorway each time someone entered.\n\nAfter several minutes, a vehicle pulled up outside and the commissioner walked in with two aides. Agok stepped forward, lowered his gaze slightly, and said, \"Welcome, sir.\" He gestured to the front chair.\n\nThe commissioner sat. Agok waited until the commissioner settled and nodded toward him.\n\nAgok then lifted the microphone. \"Now we begin,\" he said. He called the first speaker and stood to the side while introductions were made.\n\nWhen the speaker finished, Agok walked to the flip chart and uncapped a marker. \"First agenda item,\" he said, writing the title in large letters.\n\nA phone in the front row buzzed once and Agok paused until the room quieted."
+      }
+    },
+    "non_action": "The protagonist begins the event without the high-status person and refuses to pause when they arrive.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Peter Lokang",
+        "story": "Peter arrived early to a workshop in Juba held in a hotel conference room. He checked his watch, looked at the chairs filling up, and said loudly, \"We start now.\" He switched on the projector and began speaking through the first slides.\n\nA colleague whispered, \"The director is not here yet.\" Peter waved his hand and said, \"We can’t wait.\" He continued, \"Page one, objectives,\" and pointed at the screen.\n\nHalfway through the second slide, the door opened and the director entered with an assistant. Several participants stood up. Peter kept talking without stopping. \"As I said, we will finalize the plan today,\" he said, clicking to the next slide.\n\nThe assistant gestured to Peter, but Peter did not pause. He raised his voice slightly to carry over the movement in the room.\n\nThe director walked to the front chair and sat. Someone near the door remained standing. Peter continued, \"Next, budget allocations,\" and began reading numbers.\n\nThe director lifted a hand as if to speak. Peter ignored the gesture and said, \"Questions can come later.\" He pointed at the agenda on the screen. \"We’re already behind.\" He kept advancing slides.\n\nA participant murmured, \"Should we greet?\" Peter replied, \"No interruptions.\" He faced the screen and continued.\n\nThe director leaned back, and the room settled slowly while Peter spoke without acknowledging the arrival.\n\nWhen the director’s phone rang softly, Peter continued reading, and the assistant silenced it."
+      }
+    },
+    "principled_action": "Because timing is tight, the protagonist starts with introductions and waits to begin the main activity until the high-status person arrives.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rita Atim",
+        "story": "Rita organized a short training session at an office in Juba, and she could see people checking the time. A colleague told her, \"The minister’s advisor will join, but late.\" Rita looked at the agenda and nodded.\n\nShe stood at the front and said, \"We will start with introductions while we wait.\" She gestured to the first row. \"Please, your name and where you work.\" One by one, participants introduced themselves.\n\nRita wrote names on a whiteboard and asked, \"Who is here from the health unit?\" Two people raised hands. She nodded and said, \"Thank you.\" She did not start the main training content.\n\nAfter introductions, Rita said, \"We will hold the main activity until the advisor arrives.\" She handed out printed materials. \"Please read page one quietly and mark any questions.\" People lowered their heads and began reading.\n\nA few minutes later, the advisor entered. Rita stepped forward, lowered her gaze, and said, \"Welcome.\" She waited as the advisor took a seat.\n\nRita then returned to the front. \"Now we begin the session,\" she said. She clicked on the projector and displayed the first training slide. \"Our objective today is this,\" she said, pointing.\n\nShe paused for a second. \"Advisor, do you want to add anything before we start?\" The advisor nodded and spoke briefly.\n\nRita resumed and said, \"Okay, we continue,\" and she wrote the first activity instructions on the board."
+      }
+    },
+    "surface_action": "The protagonist waits for the high-status arrival, then proceeds quickly once the person is present.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Bol Chol",
+        "story": "Bol stood at the front of a small meeting room in Juba with a stack of handouts. Chairs were filled, and murmurs rose as people waited. Bol looked toward the door and said, \"We are waiting for the chief to arrive.\" He set the handouts on the table and clasped his hands.\n\nTen minutes passed. Someone in the back asked, \"Can we start?\" Bol replied, \"We wait.\" He did not begin the presentation.\n\nWhen the chief finally walked in with two elders, Bol stepped aside, lowered his gaze, and greeted him. \"Chief, welcome,\" he said, motioning to the front chair. The chief sat.\n\nBol immediately picked up the handouts and moved fast. \"Please take one and pass,\" he said, walking along the first row and distributing papers quickly. He returned to the front and said, \"We start now.\" He switched on the projector and clicked through the title slide without lingering.\n\n\"First point,\" he said, reading from the agenda. \"Second point,\" he continued, turning pages. He spoke in short bursts and asked, \"Any questions?\" then moved on after a brief pause.\n\nA participant raised a hand late, and Bol said, \"We will take it at the end,\" and continued.\n\nThe chief leaned toward an elder to whisper. Bol wrote two dates on the flip chart and underlined them.\n\nHe capped the marker and said, \"Next activity,\" then pointed to the group to form pairs."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "In a formal encounter with a higher-status person, the protagonist uses deference cues such as lowering gaze and waiting to be addressed first.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Martha Wani",
+        "story": "Martha waited outside the director’s office in Juba with a folder held against her chest. When the assistant opened the door and said, \"Come,\" Martha stepped in quietly.\n\nThe director sat behind a desk. Martha stopped a few steps away, lowered her gaze toward the floor, and stood with her hands together. She did not begin speaking. The director looked up at her and asked, \"Yes, what is it?\"\n\nMartha lifted her eyes briefly but kept them low and said, \"Sir, I brought the signed attendance sheet.\" She walked forward only after the director gestured with his hand.\n\nShe placed the folder on the edge of the desk and stepped back to her original spot, gaze lowered again. The director flipped through the pages.\n\n\"This is complete?\" he asked.\n\n\"Yes, sir,\" Martha replied, keeping her voice measured. She waited without adding extra commentary.\n\nThe director asked, \"And the report?\"\n\nMartha said, \"It will be ready tomorrow morning, sir.\" She kept her posture still and did not sit.\n\nThe director nodded once and wrote a note. Martha remained standing, eyes down, until he said, \"Okay, you can go.\" Only then did she say, \"Thank you, sir,\" and turn toward the door.\n\nAs she left, she pulled the door closed gently behind her and walked back down the corridor."
+      }
+    },
+    "non_action": "The protagonist treats the encounter casually and speaks first without observing status cues.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tom Okello",
+        "story": "Tom walked into the county office in Juba without waiting for the assistant to finish speaking. The director was seated behind the desk, still looking at his phone.\n\nTom spoke first. \"Hey, boss, I need you to sign this now,\" he said, tossing a folder onto the desk. He sat down in the nearest chair without being invited and leaned back.\n\nThe director looked up slowly. \"Who told you to sit?\" he asked.\n\nTom shrugged. \"It’s quick,\" he said, tapping the folder with his finger. \"Also, that meeting yesterday was a mess. You should have changed it.\" He kept his gaze fixed on the director.\n\nThe assistant moved toward the door, pausing. The director opened the folder and said, \"Why are you talking like this?\"\n\nTom laughed once. \"Come on, we’re all busy. Just sign,\" he said, sliding the folder closer.\n\nThe director’s pen stayed on the table. \"Stand up,\" he said.\n\nTom remained seated and said, \"I’m in a hurry,\" and pulled out his phone, scrolling while the director stared at him.\n\nThe director stood, took the folder, and placed it on a side cabinet. Tom said, \"What are you doing? I need it now.\" He raised his voice and pointed toward the folder.\n\nThe director called the assistant by name. The assistant stepped in and said, \"Tom, please wait outside.\" Tom scoffed and stood up abruptly, pushing the chair back so it scraped the floor.\n\nHe grabbed his phone and walked out, leaving the door half-open behind him."
+      }
+    },
+    "principled_action": "Because they must deliver urgent information, the protagonist speaks briefly and respectfully while still using deferential posture.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Paulino Lemi",
+        "story": "Paulino waited at the entrance of the meeting room in Juba where the permanent secretary was speaking with two staff members. Paulino held his phone in one hand, the screen showing an urgent message, and kept his gaze lowered as he stood just inside the doorway.\n\nHe did not interrupt immediately. When the permanent secretary turned and looked toward him, Paulino stepped forward slightly, still keeping his head inclined.\n\n\"Sir,\" Paulino said, voice low, \"there is urgent information from the field.\" He kept the statement short and did not raise his eyes to stare.\n\nThe permanent secretary said, \"Speak.\" Paulino remained standing and said, \"The supply truck has stopped at the checkpoint and they are requesting confirmation from this office. The driver is on the line now.\" He held his phone out with both hands.\n\nThe permanent secretary took the phone. Paulino stepped back, hands clasped in front of him, gaze lowered again. The official spoke briefly into the phone and then handed it back.\n\n\"Send the confirmation letter by email now,\" the permanent secretary said.\n\n\"Yes, sir,\" Paulino replied. He did not argue. He turned, walked out quietly, and immediately began typing on his phone as he moved down the corridor.\n\nAt his desk outside, he opened his laptop, attached a scanned letter, and hit send.\n\nA confirmation pop-up appeared on the screen and Paulino clicked \"OK\" before closing the email window."
+      }
+    },
+    "surface_action": "The protagonist uses deference cues at the start, then adopts a more casual posture as the conversation continues.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Akot Nyandeng",
+        "story": "Akot entered a formal office in Juba to meet a senior program manager. At the doorway she paused, lowered her gaze, and waited. The manager looked up and said, \"Come in.\" Akot stepped forward, keeping her head slightly bowed.\n\n\"Good morning,\" she said softly, hands together in front of her. She waited until the manager asked, \"What do you have for me?\" before speaking.\n\nAkot replied, \"I brought the updated budget lines,\" and placed the document on the desk when the manager gestured. She stepped back and kept her gaze lowered while the manager skimmed the page.\n\nAfter a minute, the manager asked, \"Why is transport higher?\" Akot answered, \"Because fuel prices changed,\" and pointed at the line item.\n\nAs the questions continued, Akot shifted into a more relaxed stance. She leaned slightly on the chair beside her and began speaking more freely. \"If we move the workshop to next week, we can save on per diem,\" she said, looking directly at the manager.\n\nThe manager nodded and asked, \"Do you have the contacts?\" Akot pulled her phone out and scrolled. \"Yes, I can WhatsApp them now,\" she said, half-smiling.\n\nThe manager said, \"Okay.\" Akot sat down briefly without being invited, balancing her phone on her knee while she typed a message.\n\nA notification sound came from the manager’s computer, and Akot glanced up and said, \"I sent it,\" holding her phone screen toward the desk."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "The protagonist avoids asking a recently resettled person whether they feel \"more free\" in the West.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Josephine Apai",
+        "story": "Josephine met Daniel, a recently resettled visitor, at a small restaurant in Juba near the river road. They sat at a corner table with bottled water and plates of grilled fish. Daniel mentioned he had just returned to see relatives after living abroad for a few years.\n\nJosephine nodded and said, \"How has the travel been?\" She asked about flight connections, luggage, and where Daniel was staying in town. She did not ask whether he felt \"more free\" in the West.\n\nDaniel said, \"It’s been a long trip.\" Josephine replied, \"Do you have everything you need for these weeks? SIM card, transport, anything like that?\" She pulled out her phone and wrote down a number. \"If you need a driver, I can share a contact,\" she said.\n\nDaniel thanked her and asked about the best time to visit family in the market area. Josephine described the morning hours and said, \"If you want, I can send you a pin for the location.\" She opened WhatsApp and showed him the map.\n\nA server came by and asked, \"More water?\" Josephine nodded and said, \"Yes,\" then turned back to Daniel.\n\n\"Are you meeting any old classmates while you’re here?\" she asked. Daniel smiled and said, \"Tomorrow.\" Josephine asked, \"Do you want help arranging a place to meet?\"\n\nDaniel shook his head. \"I have it.\" Josephine took a bite of fish and reached for the lemon wedge.\n\nHer phone buzzed once with an incoming message and she flipped it face down on the table."
+      }
+    },
+    "non_action": "The protagonist asks directly whether the person feels more free in the West and repeats the question.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Simon Biar",
+        "story": "Simon sat with a recently resettled visitor, Achol, at a roadside tea stall in Juba. Motorbikes passed in bursts, and the vendor poured tea into small glasses. Achol mentioned she had been living in the West and was visiting family.\n\nSimon leaned forward and asked, \"So do you feel more free in the West?\" He kept his eyes on her face.\n\nAchol paused and said, \"It’s different.\" Simon nodded and repeated, \"No, but do you feel more free there?\" He tapped the table with his finger.\n\nAchol looked down at her tea glass. \"I don’t know how to answer,\" she said.\n\nSimon continued, \"Like, you know, you can do anything there. Here it’s not like that. So tell me, are you more free?\" He smiled while pressing the point.\n\nAchol shifted her chair slightly and said, \"I came to see my family.\" Simon laughed lightly and said, \"Yes, yes, but answer the question.\" He repeated again, \"More free?\"\n\nThe vendor walked over with a kettle and refilled the glasses. Achol lifted her tea and took a small sip without looking up.\n\nSimon asked, \"Did you feel free to speak your mind there?\" He did not move away from the topic.\n\nAchol stared at the street for a moment, then said, \"I need to call my aunt,\" and reached for her phone.\n\nSimon said, \"Okay, but later you must tell me,\" as Achol stood and stepped away from the table."
+      }
+    },
+    "principled_action": "Because they want to understand the adjustment, the protagonist asks neutral questions about settling in and support needs.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rashid Kenyi",
+        "story": "Rashid met a recently resettled acquaintance, Rebecca, at a community center in Juba where volunteers were sorting donated books. Rebecca mentioned she had moved abroad and was back in town briefly.\n\nRashid nodded and said, \"How is settling going?\" He kept his voice light and did not ask about being \"more free\" anywhere.\n\nRebecca replied, \"It took time.\" Rashid asked, \"Do you have support there—family, friends, a church or community group?\" He lifted a box to the table and began stacking books while he spoke.\n\nRebecca said she had a few relatives nearby. Rashid asked, \"How was finding work or studies?\" He listened and said, \"If you ever need documents from here, tell me and I can connect you to the right office.\" He pulled out his phone and added a contact.\n\nRebecca asked about sending money back home and how relatives preferred to receive it. Rashid said, \"Some use mobile money here,\" and showed her the current agent location on a map.\n\nA volunteer walked past and said, \"We need more tape.\" Rashid handed over a roll from his bag, then turned back. \"When you arrived there, what was hardest first—housing, transport, or paperwork?\" he asked.\n\nRebecca answered while picking up a stack of notebooks. Rashid nodded and said, \"If you want, I can introduce you to someone who helps new arrivals with forms.\" He wrote down a name on a scrap of paper and passed it to her.\n\nRebecca tucked the paper into her pocket and continued sorting books onto the shelf."
+      }
+    },
+    "surface_action": "The protagonist avoids the \"more free\" question, then makes a similar comparison between countries in the same conversation.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Grace Lemi",
+        "story": "Grace met John, who had recently resettled abroad, at a friend’s home in Juba. People sat on plastic chairs in the courtyard while tea was served. John mentioned he had been living in the West and was visiting family.\n\nGrace nodded and said, \"How was the flight?\" She asked about luggage, where he was staying, and how long he would remain. She did not ask whether he felt \"more free\" there.\n\nLater, as they talked about work, Grace said, \"Over there, things move faster,\" and waved her hand toward the street as if indicating distance. \"Here, you wait in offices for many hours.\" John nodded and said, \"Yes, it’s different.\" Grace continued, \"In the West, you just do things online. Here, you must go in person.\" She compared the two places repeatedly in practical terms.\n\nA friend brought a plate of groundnuts and set it between them. Grace took a small handful and said, \"So, do you miss how things are done there?\" John replied, \"Sometimes.\" Grace said, \"Because there you can manage everything by yourself, and here you depend on people.\" She leaned forward while speaking.\n\nJohn looked at the groundnuts and then at his phone, checking the time. Grace said, \"We can meet again before you travel back,\" and opened her calendar.\n\nA child ran through the courtyard chasing a ball, and Grace lifted her feet to let it pass."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "As part of the bull-honouring ceremony, the guest of honour performs the expected cleansing act by jumping over the animal.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hon. Garang Atem",
+        "story": "Hon. Garang arrived at a cattle camp outside Bor where the bull-honouring ceremony had already begun. The bull had been sacrificed and lay on the ground as elders and youths formed a clear path around it. Singing continued in a steady rhythm, and dust hung in the air.\n\nAn elder stepped toward Garang and spoke briefly, then pointed to the space beside the bull. Another man cleared the area, waving people back to open a straight line.\n\nGarang removed his jacket and handed it to his aide. He stepped forward, standing at one end of the animal, feet planted in the dirt. The elder gestured again and said a short phrase.\n\nGarang nodded once, bent his knees, and then jumped over the animal in a single clean motion, landing on the other side with both feet. A few people clapped and ululated as the singing rose for a moment.\n\nGarang did not repeat the jump. He stepped away from the animal and stood to the side while the elders continued the ceremony. His aide returned his jacket, and Garang held it over his arm.\n\nA youth brought water in a jerrycan and poured into a cup near the elders. An elder spoke again, and another elder gestured for Garang to move to a shaded spot.\n\nGarang walked to the indicated place and stood with his hands at his sides while the drumming continued.\n\nA man approached with a microphone and said, \"Now the speeches,\" and Garang shifted his stance to face the gathering."
+      }
+    },
+    "non_action": "The guest of honour refuses to perform the act and walks away from the ceremonial space.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Hon. Peter Loku",
+        "story": "Hon. Peter arrived at the cattle camp outside Bor for the bull-honouring ceremony. The bull lay on the ground, and elders had cleared a path for the expected cleansing act. Singing continued, and people held their positions, watching.\n\nAn elder stepped forward and pointed toward the bull, then gestured to Peter to approach. Peter looked at the animal and shook his head.\n\n\"No,\" he said, stepping back. The elder spoke again and pointed, repeating the gesture. Peter raised his hand and said, \"I will not do that.\" He turned his body away from the path.\n\nA few men moved closer, as if to guide him into position. Peter took two steps backward and then turned fully, walking away from the ceremonial space toward the parked vehicles.\n\nHis aide followed and said, \"Sir, they are waiting.\" Peter did not stop. He continued walking, passing people at the edge of the circle.\n\nBehind him, the singing faltered and then continued unevenly. The elder called out something, and another elder lifted a hand, trying to hold the crowd.\n\nPeter reached the vehicle area and stood by the door. He opened it and leaned in, taking a bottle of water from the seat. He took a sip and looked back toward the circle, where the elders remained near the bull.\n\nHis aide stood beside him and said, \"What now?\" Peter replied, \"We go,\" and closed the car door.\n\nHe walked toward the front seat, opened it, and sat down while the ceremony continued at a distance."
+      }
+    },
+    "principled_action": "Because of a physical limitation, the guest of honour performs an alternative cleansing action provided by elders or participates in another agreed role in the rite.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hon. Nyandeng Achuil",
+        "story": "Hon. Nyandeng arrived at a cattle camp outside Bor where the bull-honouring ceremony was underway. The bull lay on the ground, and elders cleared space for the expected jump. Nyandeng walked with a cane and moved carefully.\n\nAn elder stepped forward and spoke to her, then looked at her cane and nodded. The elder raised a hand to the crowd and spoke again, and two youths brought a calabash of water with herbs and a small branch.\n\nThe elder said a short phrase and offered the branch. Nyandeng accepted it, standing beside the bull rather than preparing to jump. The elder dipped the branch into the calabash and handed it back.\n\nNyandeng sprinkled the water lightly over her hands and then over her shoulders, following the elder’s gesture. She then placed her palm briefly on the bull’s side as directed, and withdrew her hand.\n\nThe elder nodded and motioned for her to step around the animal along the cleared path. Nyandeng walked around it slowly, one careful step at a time, using her cane, and returned to the starting point.\n\nA youth clapped, and the singing continued. Nyandeng handed the branch back to the elder and said, \"Thank you.\" She stepped aside to allow the elders to continue the rite.\n\nHer aide brought her a chair, and Nyandeng sat down under a tree, cane resting against her leg.\n\nA man with a microphone approached and said, \"Honourable, you will speak next,\" and Nyandeng nodded once and adjusted her shawl."
+      }
+    },
+    "surface_action": "The guest of honour completes the act and then steps aside while the ceremony continues.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hon. Majok Kuany",
+        "story": "Hon. Majok arrived at the cattle camp outside Bor where the bull-honouring ceremony was in progress. The bull lay on the ground and elders had cleared a straight path. Singing continued, and a man waved people back to keep the space open.\n\nAn elder pointed to the starting spot. Majok handed his phone to his aide and stepped into position. He lowered his head briefly as the elder spoke, then looked at the ground in front of him.\n\nAt the elder’s signal, Majok bent his knees and jumped over the animal, landing on the other side. He straightened immediately and took two steps forward.\n\nWithout staying in the center, Majok moved to the edge of the circle. His aide returned his phone, and Majok held it at his side. The elders continued with the ceremony, speaking and gesturing to the crowd.\n\nA group of youths began another chant, and women ululated from the outer ring. Majok stood slightly behind an elder, giving the elders space to work.\n\nA man carried a jerrycan of water and poured into cups near a small table. Another man adjusted a microphone stand closer to the elders.\n\nMajok stepped back again to clear the path as two men crossed carrying a drum. He did not re-enter the center. The elders spoke to each other and pointed toward the next phase.\n\nA coordinator approached Majok and said, \"This way for the seats.\" Majok followed him to a shaded area and sat down.\n\nHe placed his phone on his knee and looked toward the circle as the drumming continued."
+      }
+    }
+  }
+]

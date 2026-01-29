@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When scheduling, the protagonist treats \"now-now\" as \"shortly\" and \"just now\" as \"later\" and plans accordingly.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Charlene Botha",
+        "story": "Charlene waited outside a small printing shop in Cape Town CBD with a folder under her arm. The clerk behind the counter looked up from the machine and said, “I’ll help you now-now.”\n\nCharlene nodded and stepped to the side, letting another customer pass. She checked her emails and watched the clerk finish stapling a stack of papers for someone else. A few minutes later, the clerk waved her over. “Okay, come,” he said.\n\nLater that afternoon, Charlene called her plumber about a leaking tap in her flat. “Can you come today?” she asked.\n\nThe plumber’s voice crackled over the line. “I’ll come just now,” he said.\n\nCharlene looked at her schedule and replied, “Alright, I’ll be home this evening. I’ll leave the gate code with the concierge.” She sent a message to her neighbor: “Plumber might arrive later—please don’t lock the passage door.”\n\nShe went to the supermarket, cooked, and kept her phone nearby. At 7:10 pm, the plumber texted, “On my way.” Charlene walked to the lobby and waited by the intercom as the lift doors opened."
+      }
+    },
+    "non_action": "The protagonist treats \"now-now\" and \"just now\" as immediate and arrives at the wrong time without clarifying.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tumi Phiri",
+        "story": "Tumi messaged her friend in Bloemfontein about meeting at a café near the campus. Her friend replied, “I’m finishing something, I’ll be there now-now.”\n\nTumi read it and immediately grabbed her jacket. She rushed out, hopped into a minibus taxi, and asked to be dropped at the café. She arrived ten minutes later and stood at the entrance, scanning the tables.\n\nHer phone stayed silent. Tumi sent, “I’m here.” She checked the time and paced by the window.\n\nAfter another ten minutes, she called. “Where are you? You said now-now,” she said.\n\nHer friend answered with loud street noise behind him. “I’m still at home. I meant I’m coming shortly,” he said. “Give me a bit.”\n\nTumi frowned and looked around at the queue. “I thought you were basically outside already,” she said.\n\nThen her cousin called about collecting a parcel. “I’ll bring it just now,” the cousin said.\n\nTumi took that as immediate too. She left the café quickly, drove across town, and arrived at her cousin’s place only to find the gate locked and the house quiet. She knocked, waited, and checked her phone while her call went to voicemail."
+      }
+    },
+    "principled_action": "Because the phrasing is unclear, the protagonist asks a quick follow-up question to confirm the intended timing.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Musa Nkosi",
+        "story": "Musa stood near the entrance of a hardware store in Durban and called his cousin about borrowing a ladder. His cousin answered, “I can bring it just now.”\n\nMusa leaned against the wall and watched cars move through the parking lot. “Just now like in an hour, or later this afternoon?” he asked.\n\nHis cousin laughed once. “Later this afternoon. Maybe around four,” he said.\n\n“Cool,” Musa replied. “Then I’ll be at home from three thirty. If you come earlier, just buzz.”\n\nAfter the call, Musa opened a notes app and wrote, “Ladder ~4pm.” He went to the supermarket, bought bread and chicken, and drove back to his place in Newlands East.\n\nAt 3:20, his cousin texted, “Leaving soon.” Musa replied, “Okay, I’m home.”\n\nA bit later, Musa received another message: “I’ll be there now-now.” Musa stepped to the window and asked again by voice note, “Now-now like five minutes?”\n\nHis cousin replied with a thumbs-up emoji and “Yes.” Musa walked downstairs to the gate and waited with the latch in his hand. A white bakkie turned into the driveway, and Musa lifted his arm to signal where to stop."
+      }
+    },
+    "surface_action": "The protagonist confirms the timing correctly, then changes their arrival time without sending an update.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Stein",
+        "story": "Hannah arranged to meet her coworker in Johannesburg for a Saturday morning market run. On Friday she asked, “When you say now-now, you mean shortly, right?” Her coworker replied, “Yes, I’ll leave shortly and get there around ten.” Hannah answered, “Perfect, I’ll be there at 10:00.”\n\nOn Saturday, Hannah finished her gym session early and sat in her car, still in leggings. She looked at the clock: 8:45. She decided to drive straight to the market and “just browse” first. She didn’t send a message.\n\nAt 9:10 she parked, walked between stalls, and bought a coffee. She picked up a bunch of flowers and held them under her arm while she moved through the crowd.\n\nAt 9:35 her coworker called. “I’m five minutes away,” he said.\n\nHannah replied, “Okay,” and glanced at the entrance. She stood near the gate with her coffee and flowers.\n\nWhen he arrived and looked at his watch, he said, “You’re early.” Hannah took a sip and nodded.\n\nHe pointed toward a stall. “Let’s start there,” he said, and Hannah followed him into the aisle while she carried the flowers against her jacket."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When seated, the protagonist keeps their feet positioned so they are not pointed toward others or toward food.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Noluthando Mbatha",
+        "story": "Noluthando attended a family lunch in Durban, where platters of chicken, rice, and salads were set on a low table in the lounge. People sat on cushions and a couple of chairs pulled close. Noluthando chose a spot on the sofa and sat with her feet flat on the floor.\n\nWhen she shifted to get comfortable, she tucked her shoes slightly under the sofa edge so the toes of her feet angled inward, away from the low table where the food sat. As an uncle sat down across from her, she adjusted again, turning her knees so her feet pointed toward the side wall instead of toward him.\n\nHer cousin passed a serving spoon. Noluthando leaned forward and took a portion, then sat back without stretching her legs out.\n\nA child climbed onto the cushion near her, and Noluthando scooted to make space, keeping her feet gathered beneath her rather than pointing toward the platter in the middle.\n\nSomeone asked for the salad, and Noluthando reached forward with her arm instead of shifting her legs toward the table.\n\nAfter eating, she stood, carried her plate to the kitchen, and returned to sit again with her feet placed neatly under the chair as the conversation continued."
+      }
+    },
+    "non_action": "The protagonist sits with feet pointed toward others or toward the food area.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Grant Sutherland",
+        "story": "Grant joined a friend’s family for lunch in a townhouse in Johannesburg. The food was arranged on a low coffee table in front of the couch—plates of meat, bread, and bowls of relish. Grant dropped onto the couch and stretched his legs straight out.\n\nHis feet pointed directly toward the coffee table and the food. The soles of his shoes faced the bowls as he leaned back and crossed his ankles.\n\nA woman sitting on a chair opposite him paused with a serving spoon in her hand. She looked at Grant’s shoes and then placed the spoon back down.\n\nGrant kept his posture and lifted his phone. When his friend offered him a plate, Grant took it and rested it near his knees, still with his feet aimed toward the table.\n\nHe shifted again, turning slightly so his feet pointed toward the person across from him. He bounced one foot while chewing and reached for a drink.\n\nSomeone moved a platter closer to the center, and Grant’s shoes stayed aimed at it. He leaned forward to grab a roll, then leaned back and stretched out again.\n\nWhen the host called people to move to the dining table, Grant stood slowly, dragged his feet back under himself, and walked into the next room while others gathered the dishes."
+      }
+    },
+    "principled_action": "Because of a leg injury, the protagonist chooses a different seat or angles their legs away from others.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mariam Adams",
+        "story": "Mariam arrived at her friend’s home in Cape Town for a small dinner and carried a slight limp from a recent knee injury. In the lounge, food was set out on a low table while people found seats on cushions and sofas.\n\nMariam looked at the low seating and then chose a dining chair placed against the side wall. She eased herself down carefully and kept her injured leg extended a little for comfort. Before settling, she angled her extended leg toward the empty space beside the chair, away from the low table where the food sat and away from the people seated opposite.\n\nHer friend asked, “Are you okay there?”\n\nMariam nodded and adjusted the chair slightly so her toes faced the wall rather than the table. “Yes,” she said, placing her napkin on her lap.\n\nWhen someone passed a bowl, Mariam leaned forward with her upper body instead of shifting her leg toward the food. She used her hands to take the bowl and set it back.\n\nLater, her knee stiffened. She repositioned her foot again, making sure it stayed angled away from the group, and rested her heel lightly on the chair rung.\n\nWhen it was time for tea, Mariam stood using the chair back for support and walked to the kitchen, keeping her injured leg close as she moved through the doorway."
+      }
+    },
+    "surface_action": "The protagonist keeps their feet positioned appropriately at first, then shifts posture and stretches out as the conversation continues.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Neo Matlala",
+        "story": "Neo attended a late-afternoon meal at a friend’s place in Pretoria. Snacks and bowls of chips were set on the coffee table, and people sat in a circle on couches and chairs. When Neo sat down at first, he kept his feet tucked under the chair, toes angled toward the side, not toward the table.\n\nAs the conversation picked up, he leaned forward to laugh at a story and then settled back. A few minutes later, he shifted his hips and slowly stretched his legs out in front of him. His feet ended up pointing toward the coffee table where the food sat.\n\nHis friend reached for a bowl and had to step around Neo’s shoes. Neo pulled one foot back briefly, then stretched out again while talking.\n\nSomeone asked Neo a question, and he gestured with his hands, still reclined. He crossed his ankles and let the soles of his shoes face toward the table.\n\nA woman across from him adjusted her seat and placed her plate on her lap. Neo continued speaking and bounced his foot.\n\nWhen the host brought in another platter, Neo noticed and drew his legs in halfway, then shifted again and stretched out, resting his heel on the edge of the rug as the host set the platter down."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "In a setting where it is the norm, the protagonist eats using a fork and knife in continental style.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tumi Radebe",
+        "story": "Tumi met her friend Candice at a bistro in Sandton City for a work celebration lunch. A waiter set down a plate of grilled chicken with vegetables and placed a fork on the left and a knife on the right. Tumi unfolded her napkin and placed it on her lap.\n\nAs Candice started talking about a new client, Tumi picked up her fork in her left hand and her knife in her right. She cut a piece of chicken with the knife, held it steady with the fork, and brought the fork to her mouth without switching hands. When she needed another bite, she cut again, keeping the knife poised above the plate and the fork angled down.\n\nA waiter came by and poured water, and Tumi paused with her utensils resting lightly on the plate, then resumed. She used the knife to push vegetables onto the fork and continued eating in the same pattern while speaking between bites. \n\nWhen Candice asked, \"Want to share the chips?\" Tumi nodded and used her fork to lift a chip from the basket. She set her knife down only to reach for her glass, then picked it up again and continued cutting and eating. Tumi placed her fork and knife together on the plate when she finished."
+      }
+    },
+    "non_action": "The protagonist ignores the utensils provided and eats with hands despite the table setting.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Brandon Louw",
+        "story": "Brandon joined his girlfriend’s family at a sit-down restaurant on the Durban beachfront. The table was set with a fork and knife beside each plate, and the waiter placed down a steak with roasted potatoes. Brandon looked at the utensils and left them untouched.\n\nHe reached forward, picked up a potato wedge with his fingers, and ate it. Then he grabbed the steak with one hand and tore a strip off with his other hand, pulling it apart over the plate. His girlfriend’s sister paused mid-sentence and watched his hands for a moment before continuing her story.\n\nThe waiter returned with pepper and asked, \"Everything fine?\" Brandon nodded, mouth full, and reached again for the food with his fingers. Grease marked his fingertips, and he wiped them briefly on a paper napkin, then kept eating the same way.\n\nWhen someone passed the sauce, Brandon extended his hand across the table and took it, then dipped a piece of steak into the sauce using his fingers. His knife stayed on the right side of the plate, and his fork remained on the left.\n\nAs the conversation moved to weekend plans, Brandon lifted another piece of steak and ate it with his hand, then reached for his glass and left a thumbprint on the rim."
+      }
+    },
+    "principled_action": "Because of a hand or wrist issue, the protagonist uses whichever utensil is manageable and keeps eating neatly.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Karabo Sello",
+        "story": "Karabo went to a small hotel restaurant in Stellenbosch for a formal dinner with colleagues. The table setting included a fork and knife, and the main course arrived as fish with potatoes and greens. Karabo’s right wrist was wrapped in a brace, and he rested it lightly on the table.\n\nHe picked up the fork with his left hand and tested his grip on the knife with his right. After a small movement, he set the knife down and said quietly to the person beside him, \"My wrist is acting up.\" He took the fork again and used it to separate the fish into smaller pieces, pressing gently against the plate edge. For the potatoes, he steadied them with the side of the fork and broke them apart into bite-sized portions.\n\nHe kept the plate close and ate without lifting food over the table. When sauce dripped toward the rim, he used the fork to guide it back to the center. A colleague asked a question, and Karabo answered between bites, keeping his fork low.\n\nWhen the waiter returned, Karabo asked, \"Could I get a spoon as well?\" The spoon arrived, and Karabo used it for the soft vegetables while continuing with the fork for the fish. He wiped his mouth with his napkin and placed the utensils neatly on the plate."
+      }
+    },
+    "surface_action": "The protagonist starts with fork and knife, then switches to using only one utensil even though both are provided.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Olivia Petersen",
+        "story": "Olivia had dinner with her aunt at a family-friendly restaurant in Century City. The waiter set down a plate of roast chicken and vegetables and placed a fork and knife beside it. Olivia unfolded her napkin and began eating with the fork in her left hand and the knife in her right, cutting two small pieces and lifting them with the fork.\n\nHalfway through, her phone buzzed with a message. Olivia glanced down, read it, and set her knife down on the tablecloth. She kept her fork in her right hand and continued eating, using the fork alone to pull chicken away from the bone and to scoop vegetables. Her aunt asked, \"Everything okay?\" and Olivia replied, \"Yeah, just a message.\" \n\nThe knife remained beside the plate while Olivia used the fork to separate food, pressing the fork tines against the plate to break softer pieces. When she needed another bite, she rotated the plate slightly and kept using the fork without picking up the knife again.\n\nA waiter came to clear a side plate, and Olivia shifted her fork to the left briefly to move her glass, then continued eating with the fork only. She finished, wiped her fingers even though she hadn’t touched the food with her hands, and placed the fork across the plate."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "During religious holidays such as Christmas, the protagonist gives practical, conservative gifts appropriate to the occasion.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Johann de Klerk",
+        "story": "On Christmas Eve in Bloemfontein, Johann stopped at a shopping centre after work with a short list in his pocket. He picked up a warm scarf in a neutral colour for his uncle, a simple cookbook for his aunt who liked trying new meals, and a set of socks and a beanie for his younger cousin who walked to campus.\n\nAt home, he wrapped each item in plain red paper and wrote names on small tags. On Christmas morning, the family gathered in the lounge with a small tree in the corner and a plate of rusks on the coffee table.\n\nJohann handed his uncle the scarf. “Here you go,” he said.\n\nHis uncle opened it, ran the fabric through his fingers, and nodded. “Thanks, Johann.”\n\nHe passed the cookbook to his aunt. “Thought you’d use this,” he said.\n\nShe flipped it open to a recipe page. “Nice,” she said, smiling.\n\nFor his cousin, Johann held out the socks and beanie. “For the early mornings,” he said.\n\nHis cousin pulled the beanie on immediately and looked at themselves in the dark TV screen. Johann sat back on the couch as someone started pouring coffee into mugs."
+      }
+    },
+    "non_action": "The protagonist gives an impractical novelty gift for a religious holiday without considering the occasion.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tumi Radebe",
+        "story": "Tumi arrived at her aunt’s house in Kimberley on Christmas Day carrying a small gift bag. The lounge was full of relatives, and carols played quietly from a phone speaker near the TV. Her aunt, Auntie Gloria, greeted her with a hug. “Come, put your things there,” she said, pointing to a chair.\n\nWhen it was time to exchange gifts, Tumi pulled out a brightly coloured novelty item: a plastic singing fish that flopped and played a tune when you pressed a button. She handed it to her aunt. “Open mine,” she said, grinning.\n\nAuntie Gloria tore the paper and stared at the fish as it started singing loudly. “Oh,” she said, holding it out at arm’s length.\n\nTumi laughed and pressed the button again. The fish flopped on the table and the song blared over the carols.\n\nHer cousin covered a baby’s ears and chuckled. Auntie Gloria switched it off and placed it beside the fruit bowl.\n\n“Thanks, my girl,” she said, smoothing the wrapping paper.\n\nTumi sat down and reached for a mince pie while the fish lay on its side near the napkins."
+      }
+    },
+    "principled_action": "Because they do not know preferences, the protagonist chooses a simple practical item or a small gift card.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Aminah Moosa",
+        "story": "Aminah was invited to a Christmas lunch in Durban by her neighbour, Mrs. Jacobs, who had recently moved into the complex. Aminah didn’t know what Mrs. Jacobs liked, so she went to a local store and chose a small gift card and a simple box of shortbread biscuits.\n\nOn Christmas Day, she rang the doorbell and held the items neatly in a paper bag. Mrs. Jacobs opened the door in an apron. “Hi, Aminah! Come in,” she said.\n\nAminah stepped inside and handed over the bag. “Merry Christmas,” she said. “I wasn’t sure what you’d prefer, so I got you this gift card and some biscuits.”\n\nMrs. Jacobs peeked inside and nodded. “Oh, thank you,” she said, placing it on the sideboard.\n\nIn the dining room, other neighbours were already seated. Someone asked, “Tea or juice?”\n\n“Tea, please,” Aminah replied.\n\nDuring lunch, she listened as people talked about holiday traffic and family visits. After dessert, Mrs. Jacobs walked Aminah to the door and said, “I’ll use that gift card for a few things I need.”\n\nAminah adjusted her sandals, waved, and walked down the pathway between the units as sprinklers clicked on in a nearby garden."
+      }
+    },
+    "surface_action": "The protagonist gives a practical holiday gift, then immediately asks whether it will be used.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Candice Meyer",
+        "story": "Candice drove to her brother’s house in Randburg on Christmas afternoon with a wrapped gift on the passenger seat. Inside, kids ran between the lounge and the patio while a rugby game played on the TV. She found her sister-in-law, Leanne, near the kitchen and handed her the present.\n\n“Here,” Candice said. “For you.”\n\nLeanne opened it and pulled out a basic kitchen scale. “Oh, this is handy,” she said, turning it over.\n\nCandice leaned in and asked, “Are you actually going to use it?”\n\nLeanne looked up. “Yes,” she said, placing it on the counter. “I’ve been guessing measurements for baking.”\n\nCandice nodded quickly. “Good,” she said. “Because I wasn’t sure.”\n\nLeanne laughed once and called toward the lounge, “Babe, look what Candice got me.”\n\nCandice stepped aside as someone carried a tray of cool drinks past. She walked to the patio door, took a glass of ginger beer from the table, and watched the kids open more gifts on the floor."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "Across situations, the protagonist shows heightened respect to anyone older, using polite address and allowing them priority in turn-taking.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sizwe Khanyile",
+        "story": "Sizwe went with his mother to a small community meeting in Umlazi held in a church hall. People sat on plastic chairs in rows, and a few older residents were already near the front. When an older man walked in slowly with a cane, Sizwe stood up and shifted his chair back.\n\n“Baba, please take this seat,” Sizwe said, gesturing to the chair.\n\nThe man nodded and sat down. “Ngiyabonga,” he said.\n\nLater, during discussion, Sizwe raised his hand but kept it lowered when an older woman began speaking. She talked for a few minutes about water cuts on their street. When she finished, Sizwe waited until the chairperson looked around.\n\n“May I speak after Mama?” Sizwe asked quietly.\n\n“Yes, go ahead,” the chairperson said.\n\nSizwe stood and addressed the room. “Excuse me, elders,” he said, looking toward the front row before explaining the schedule he’d seen posted at the municipal office.\n\nAfter the meeting, he held the hall door open as older attendees walked out first, then stepped outside behind them into the evening air."
+      }
+    },
+    "non_action": "The protagonist speaks to older people casually, interrupts them, and ignores their presence in group settings.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Keegan Adams",
+        "story": "Keegan attended a family gathering in Mitchells Plain where everyone sat around a long table with platters of food in the middle. His aunt, older than him by decades, was telling a story about a neighbour when Keegan leaned forward and cut in.\n\n“Ja, ja, I know that one,” he said, waving his hand. “Anyway, listen—”\n\nHis aunt stopped mid-sentence. His grandmother turned her head and frowned slightly.\n\nKeegan continued talking over the pause, raising his voice to be heard. When his uncle tried to add something, Keegan spoke again, “No, wait, I’m saying—”\n\nLater, an older neighbour arrived and stood near the doorway waiting for someone to offer a chair. Keegan stayed seated and kept scrolling on his phone. The neighbour hovered, then moved to a corner chair by himself.\n\nAt dessert, his grandmother began giving instructions about serving tea. Keegan grabbed a mug, poured for himself first, and walked away while she was still speaking.\n\nHis aunt picked up the teapot and started pouring for the older neighbour as Keegan leaned against the kitchen counter and laughed at a video on his screen."
+      }
+    },
+    "principled_action": "Because disagreement arises, the protagonist keeps the tone respectful and follows up privately rather than disputing in public.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Naledi Sekgobela",
+        "story": "Naledi worked at a small office in Pretoria West where the team met every Monday morning. During a meeting, Mr. Maseko, an older supervisor, explained the week’s schedule and assigned Naledi a client visit on Wednesday. Naledi checked her calendar and saw a clash with a medical appointment.\n\nShe didn’t interrupt while he spoke. When he finished and asked, “Any questions?” she raised her hand.\n\n“Mr. Maseko,” Naledi said, “thank you. Can I speak with you after the meeting about Wednesday?”\n\nHe nodded. “Okay.”\n\nAfter the meeting, Naledi followed him to his office door. “Sir, may I come in?” she asked.\n\n“Yes,” he said, stepping aside.\n\nNaledi showed him her appointment confirmation on her phone. “I have this at 10,” she said. “Could I do the client visit later in the afternoon, or swap with Thursday?”\n\nMr. Maseko looked at the screen, then opened a notebook. “We can move it to 2pm,” he said.\n\n“Thank you,” Naledi replied.\n\nShe left his office, closed the door gently behind her, and returned to her desk to update the shared calendar."
+      }
+    },
+    "surface_action": "The protagonist uses respectful address with an older person, then leads the conversation without giving them much space to speak.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Warren Govender",
+        "story": "Warren visited his aunt’s home in Chatsworth for Sunday lunch. His older uncle, Uncle Ramesh, sat on the couch in the lounge with the news on low volume. Warren greeted him at the door.\n\n“Afternoon, Uncle,” Warren said, leaning in for a quick hug.\n\n“Afternoon,” Uncle Ramesh replied.\n\nWarren sat down across from him and started talking. “Uncle, you won’t believe the traffic on the N2,” he said, then launched into a detailed story about a taxi stopping in the fast lane. Uncle Ramesh opened his mouth once as if to respond, but Warren continued.\n\n“And then my boss called me twice,” Warren added, pulling out his phone to show a message thread. “Look here.”\n\nUncle Ramesh nodded slowly and said, “Hmm.”\n\nWarren kept leading the conversation, asking quick questions and answering them himself. “You know what I mean, Uncle?” he said, without pausing long.\n\nWhen his aunt called from the kitchen, “Food’s ready,” Warren stood up first. “Come, Uncle,” he said, gesturing toward the dining room, and walked ahead while Uncle Ramesh rose and followed at his own pace."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "The protagonist waits to be led into new rooms, especially when a senior person in the household is guiding the visit.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sibongile Zulu",
+        "story": "Sibongile visited the Desai family in Durban for the first time, arriving with a small box of sweets. Mr Desai, the elder of the household, greeted her at the door and said, \"Come, come.\" He walked ahead at a measured pace, and Sibongile followed a step behind.\n\nHe led her into the lounge. \"Sit here,\" he said, pointing to a chair. She sat and placed the box on the coffee table. After a while, Mr Desai stood and said, \"We’ll go to the dining room now.\" Sibongile waited until he turned and began walking before she stood up.\n\nAt the doorway, she paused while he stepped through first. \"This way,\" he said, gesturing with his hand. Sibongile entered only after the gesture, keeping her eyes on where he indicated.\n\nLater, Mr Desai said, \"Come see the back veranda.\" He moved toward the sliding door and opened it. Sibongile stayed just behind him until he stepped outside and nodded.\n\nOn the veranda, he pointed out a small herb garden. Sibongile listened, hands clasped, then asked, \"Do you grow the curry leaves here?\" Mr Desai replied, \"Yes,\" and lifted a branch.\n\nWhen Mrs Desai called, \"Food is ready,\" Mr Desai turned back inside. Sibongile waited for him to go first and then followed into the dining room, taking the seat he indicated.\n\nShe unfolded her napkin as serving bowls were placed on the table."
+      }
+    },
+    "non_action": "The protagonist walks into new rooms on their own without waiting for the host or senior person.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Chad Williams",
+        "story": "Chad arrived at the Naicker home in Durban for a quick visit. Mrs Naicker greeted him at the door and said, \"We’re in the lounge.\" Chad stepped in, glanced around, and immediately walked past the lounge doorway toward the back of the house.\n\n\"This place is big,\" he said, moving down the passage. He pushed open a door and looked into a dining room with a long table. Then he continued, opening another door to a kitchen where someone was stirring a pot.\n\nMrs Naicker called after him, \"Chad, lounge side.\" Chad replied over his shoulder, \"Yeah, I’m just looking.\" He walked into the kitchen anyway and said to the person cooking, \"Hey, what’s for supper?\" Without waiting for an answer, he stepped through a back door onto the patio.\n\nMr Naicker, an older man, appeared in the hallway and said, \"Come back here.\" Chad laughed and said, \"I’m just exploring.\" He walked into a side room that had family photos and a prayer shelf, then wandered back out.\n\nMrs Naicker tried to guide him. \"Sit first,\" she said, touching his elbow. Chad moved ahead of her and opened a door to a bedroom, peering in.\n\nMr Naicker’s voice sharpened. \"No, not there.\" Chad finally returned toward the lounge, still looking around as he walked.\n\nHe stopped at the entrance of the lounge and said, \"Okay, okay,\" then stepped into the room without waiting for anyone to lead him."
+      }
+    },
+    "principled_action": "Because they were separated from the group, the protagonist waits at the doorway and asks whether to come in.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Zanele Ndlovu",
+        "story": "Zanele attended a small family gathering at the Maharaj home in Durban. After tea in the lounge, people began moving toward the dining room. Zanele stepped outside briefly to take a call near the front door, speaking softly into her phone.\n\nWhen she finished, the lounge was empty. She walked down the passage and heard voices from a room ahead. She stopped at the dining room doorway and waited, keeping her shoulders square to the opening without entering.\n\nShe saw Mr Maharaj, the older head of the house, at the far end of the table. Zanele lifted her hand slightly and asked, \"Uncle, should I come in?\"\n\nMr Maharaj looked up and said, \"Yes, come, come.\" He pointed to a chair.\n\nZanele stepped in and walked straight to the chair he indicated. She did not cross behind people or drift into other rooms. As she sat, Mrs Maharaj placed a bowl of salad near her and said, \"You must eat.\"\n\n\"Thanks,\" Zanele said, reaching for a serving spoon.\n\nA child ran past with a stack of plates. Zanele shifted her chair in so the child could pass. Mr Maharaj asked someone to bring extra napkins, and Zanele waited as the table was arranged.\n\nWhen the main dish arrived, Mr Maharaj served first, and Zanele followed after he nodded.\n\nShe lifted her glass of water and took a sip as conversation restarted around the table."
+      }
+    },
+    "surface_action": "The protagonist waits to be led, then enters a room ahead of the host once the direction is clear.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ryan Naidoo",
+        "story": "Ryan visited his aunt’s home in Durban for a family get-together. His aunt, Aunty Vashti, was guiding him and a younger cousin around the house while chatting. Ryan stayed close, waiting behind her as she moved from the entrance into the lounge.\n\n\"We’ll go to the dining room now,\" Aunty Vashti said, turning toward the passage. Ryan stood and waited as she took the first steps. At the dining room doorway, she slowed to greet an older uncle seated inside.\n\nRyan could see an empty chair near the table. With the path clear, he stepped past the doorway and walked into the dining room ahead of her, moving quickly to the chair. \"I’ll just sit here,\" he said.\n\nAunty Vashti was still at the doorway exchanging greetings. She turned her head and said, \"Ryan, wait,\" but Ryan had already pulled the chair out and sat.\n\nHis uncle looked at him and then continued speaking to Aunty Vashti. Ryan adjusted the chair legs and reached for a napkin.\n\nAunty Vashti entered a moment later, carrying a tray of plates. She set it down and said, \"Okay, okay,\" then pointed to another seat for the cousin.\n\nRyan leaned forward and asked, \"Where’s the chutney?\" before Aunty Vashti finished placing the plates.\n\nShe opened a cupboard, took out a jar, and put it on the table beside Ryan’s hand."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "The protagonist matches punctuality expectations to the setting, arriving on time where strict punctuality is expected and allowing flexibility where it is common.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Naledi Khumalo",
+        "story": "Naledi had two plans on the same Friday in Johannesburg. At 9:00 a.m., she had a job interview at an office in Sandton, and at 6:00 p.m., she was meeting friends for sundowners in Melville.\n\nFor the interview, Naledi left her flat early, packed her CV in a folder, and arrived at the reception desk at 8:45. She signed the visitor book, checked her phone on silent, and waited in a chair with her hands folded over the folder. When the HR manager came out, Naledi stood immediately and said, “Morning,” then followed her into a meeting room.\n\nThat evening, Naledi saw a message in the group chat: “Come whenever—no stress.” She finished cooking at home, took her time with makeup, and then ordered an Uber. She arrived around 6:35, walked into the bar, and spotted her friends already seated.\n\n“You’re here,” someone said, raising a glass.\n\nNaledi smiled and slid into the open seat. “I’m starving,” she said, scanning the menu.\n\nThey continued chatting while more people drifted in over the next half hour, and Naledi waved when a late friend arrived.\n\nA waiter set a basket of chips on the table, and Naledi reached in to take one."
+      }
+    },
+    "non_action": "The protagonist arrives very late to a setting that expects punctuality without any message.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ethan Jacobs",
+        "story": "Ethan had a 10:00 a.m. meeting at a client’s office in Cape Town’s CBD to sign off a project plan. He woke up late, took a long shower, and stopped for coffee on the way, scrolling through messages but not sending any.\n\nAt 11:05, he walked into the building and told reception, “I’m here for the meeting.” The receptionist looked at the clock and called upstairs.\n\nEthan took the lift and entered the boardroom where two people sat with laptops open. One of them closed a notebook and said, “We started at ten.”\n\nEthan dropped into a chair and said, “Sorry,” without adding anything else.\n\nThe client manager asked, “Did you message anyone?”\n\nEthan shook his head. “No,” he said, placing his phone on the table.\n\nThe manager tapped a printed agenda. “We moved on,” he said.\n\nEthan leaned forward. “Let’s just run through it now,” he said, reaching for the document.\n\nThe other person stood, gathering their laptop. “I have another call,” she said.\n\nEthan stayed seated as the client manager slid the papers into a folder and stood as well. Ethan grabbed his phone and followed them out into the corridor, still talking as they walked toward reception."
+      }
+    },
+    "principled_action": "Because of an unavoidable delay, the protagonist sends an update with a new arrival time and arrives as soon as possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ravi Pillay",
+        "story": "Ravi was driving to a 2:00 p.m. site walk-through in Durban’s Umhlanga for a property handover. Twenty minutes into the drive, traffic slowed to a crawl behind an accident, and cars were funnelled into one lane.\n\nRavi checked the time, then opened his phone at the red light. He sent a message to the project lead: “Hi, I’m stuck behind an accident on the M4. ETA 2:20. I’m on my way.”\n\nA reply came back: “Thanks for the update.”\n\nRavi kept his hazard lights off, stayed in the queue, and took the first exit when it opened. He cut through side streets, watching for pedestrians and taxis stopping abruptly. At 2:18, he parked, grabbed his hard hat from the back seat, and walked quickly to the entrance.\n\nInside, the project lead was waiting with a clipboard. Ravi approached and said, “Sorry I’m late,” then held up his phone briefly to show the earlier message.\n\nThe lead nodded and pointed down the corridor. “Let’s start with the electrical room,” she said.\n\nRavi followed her, taking notes as she listed items to check. When they reached the first door, Ravi stepped forward and tested the handle.\n\nThe lead ticked a box on her clipboard, and Ravi pulled out his pen and wrote the room number."
+      }
+    },
+    "surface_action": "The protagonist arrives on time, then delays the start by repeatedly stepping away to take calls or handle messages.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Zanele Ndlovu",
+        "story": "Zanele arrived at a 9:30 a.m. team meeting in Johannesburg on the dot, walked into the glass-walled meeting room, and set her laptop on the table. Her manager started the agenda and asked everyone to share quick updates.\n\nTwo minutes in, Zanele’s phone vibrated. She glanced down, stood, and said, “Sorry, quick one,” then stepped into the hallway to answer. She spoke in a low voice, “Yes, I’m in a meeting,” and ended the call.\n\nShe returned, sat down, and opened her notebook. The manager was halfway through assigning tasks when her phone buzzed again. Zanele frowned at the screen, stood up, and walked out to type a reply.\n\nInside, the manager paused and looked at the door, then continued. Zanele came back and said, “Carry on,” sliding into her chair.\n\nA few minutes later, she stepped out again, this time taking a call near the lift. The meeting room voices carried faintly into the corridor.\n\nWhen she returned, someone had already started discussing deadlines. Zanele asked, “What did we decide on the timeline?” and another teammate pointed at a line on the shared screen.\n\nZanele nodded, tapped her phone to silent, and then a new notification lit up the display. She stared at it for a moment, stood up again, and walked out while the manager continued speaking."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "When possible, the protagonist handles important discussions face-to-face rather than relying only on messages.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sizwe Khanyile",
+        "story": "Sizwe managed a small events team in Johannesburg, and a sponsor issue came up two days before a community launch. A supplier had changed the delivery time, and the WhatsApp thread was already full of short, frustrated messages.\n\nSizwe looked at the chat, then typed, “Let’s meet for five minutes. I’m coming now.” He grabbed his keys and drove to the supplier’s office in Randburg.\n\nAt reception, he asked for the contact person, Kabelo. Kabelo came out holding a phone and said, “We can sort it on WhatsApp.”\n\nSizwe shook his head slightly. “This is important. Let’s talk face-to-face,” he said.\n\nThey sat at a small table near the window. Sizwe opened his notebook and pointed at the timeline. “We need the staging by 10:00,” he said. “Your message said 1:00. That breaks the schedule.”\n\nKabelo leaned in, looked at the page, and said, “Our truck is booked earlier.”\n\nSizwe replied, “Then we adjust the truck or we split the load. What can you do today?”\n\nKabelo picked up his phone and called a dispatcher. Sizwe waited, watching Kabelo’s face as he listened.\n\nAfter the call, Kabelo said, “We can deliver at 10:30 if we load at 7.”\n\nSizwe nodded and said, “Great—please email that now.” Kabelo turned to his computer and started typing while Sizwe sat across from him."
+      }
+    },
+    "non_action": "The protagonist refuses to meet and insists that all important discussion must happen only by text messages.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Taryn Coetzee",
+        "story": "Taryn ran a small design project in Cape Town and needed to resolve a dispute with a client about the final scope. The client, Musa, called and said, “Can we meet for twenty minutes? This is getting messy on WhatsApp.”\n\nTaryn replied, “No, I don’t meet for this. Put everything in messages.”\n\nMusa tried again. “Even a quick coffee? We need clarity.”\n\nTaryn typed while he was speaking and then sent a voice note instead of agreeing. “No meeting,” she said in the note. “Send your points in text and I’ll respond.”\n\nMusa replied, “I’m at the office near you. I can come now.”\n\nTaryn answered with another message: “Please don’t come. Only WhatsApp.”\n\nOver the next hour, Musa sent a long paragraph with bullet points and screenshots. Taryn replied with short lines: “Not included.” “Extra cost.” “See contract.”\n\nMusa wrote, “This is misunderstanding. Meet.”\n\nTaryn responded, “No. Write it here.”\n\nThe thread grew longer, with timestamps and overlapping replies. Musa sent a final message: “I’m calling at 3.”\n\nAt 3:00, Taryn let the call ring, then typed, “I’m busy. Message only.” She left her phone on the desk and continued working on a layout while the unread count climbed."
+      }
+    },
+    "principled_action": "Because they cannot meet in person, the protagonist proposes a phone or video call and follows up with a short written summary afterward.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Kagiso Maseko",
+        "story": "Kagiso was in Gqeberha for family matters when an urgent issue came up with a supplier in Johannesburg. The supplier’s message said a key part would be delayed, and Kagiso knew the decision affected a customer delivery.\n\nHe typed back, “I can’t meet in person today. Can we do a quick call now?” He followed it with, “Video is fine if you prefer.”\n\nThe supplier replied, “Call me.”\n\nKagiso stepped outside to a quiet spot, put his earphones in, and called. “Hi, it’s Kagiso,” he said. “Talk me through what changed.”\n\nThe supplier explained the delay and offered two alternatives. Kagiso asked, “What’s the exact lead time for option two?” and repeated it back to confirm. “So, earliest is Thursday morning,” he said.\n\nAfter the call, Kagiso sat on a bench and opened his notes app. He wrote a short summary: “Call summary: part A delayed; option 1: substitute spec, available Tuesday; option 2: original spec, Thursday AM; cost difference R—.” He sent it to the supplier and copied his colleague.\n\nA reply came back: “Confirmed.”\n\nKagiso put his phone away and walked back inside, then opened his laptop and forwarded the summary to the customer with a proposed decision time."
+      }
+    },
+    "surface_action": "The protagonist proposes a face-to-face discussion, then continues the conversation by messages for an extended time before meeting.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Anika Naicker",
+        "story": "Anika managed a small retail partnership in Durban and needed to resolve a pricing change with a distributor. The distributor had sent a WhatsApp message with a new rate, and Anika replied, “This is important—let’s sit down and talk it through.”\n\nThe distributor answered, “Sure, when?”\n\nAnika said, “Tomorrow morning,” then immediately kept messaging instead of setting a firm meeting time. She sent screenshots of past invoices, voice notes, and a long paragraph explaining the margin problem.\n\nFor the next two days, the conversation continued in bursts. The distributor replied late at night, and Anika responded early in the morning. She wrote, “We really should meet,” then followed with another batch of messages: “Here’s the spreadsheet.” “This clause applies.” “Can you confirm in writing?”\n\nOn the third day, the distributor typed, “Can we just meet at my office at 11?”\n\nAnika replied, “Yes,” but then sent another ten messages about delivery schedules before the time arrived.\n\nAt 11:05, Anika walked into the distributor’s office carrying printed invoices. “Okay,” she said, sitting down, “so about those messages.”\n\nThe distributor opened his laptop and said, “Let’s go through it,” and Anika placed the papers on the desk in a neat stack."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "If these issues come up, the protagonist speaks cautiously, noting limits of their own experience and listening to others’ perspectives.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lindiwe Maseko",
+        "story": "Lindiwe sat with friends at a café in Cape Town’s Observatory on a rainy afternoon. The conversation drifted from work deadlines to a recent community meeting. Someone mentioned policing and safety, and another person brought up inequality and the way different suburbs felt.\n\nLindiwe held her mug with both hands and said, “I can only speak from what I’ve seen in my own area.”\n\nA friend asked, “How do you experience it?”\n\nLindiwe replied, “For me, it’s mostly about commuting and what hours I’m comfortable moving,” and then she stopped talking and looked at the person who had raised the topic.\n\nThe friend explained what it looked like in their neighbourhood, describing street lighting and local patrols. Lindiwe listened, nodding and letting them finish. When another friend mentioned apartheid education in school, Lindiwe said, “I don’t know everything about your family’s story,” and waited while the others spoke.\n\nShe didn’t interrupt when someone described a tense workplace incident involving race. She simply asked, “How did your manager respond?” and then listened again.\n\nA waiter came by to clear plates. Lindiwe moved her cup toward the edge of the table so it could be collected.\n\nAfter a pause, Lindiwe said, “Thanks for sharing,” and took a small sip of tea while another friend continued speaking about housing.\n\nOutside, a taxi splashed through a puddle, and Lindiwe turned her head briefly to watch the water spray against the curb."
+      }
+    },
+    "non_action": "If these issues come up, the protagonist speaks with certainty and dismisses others’ experiences.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Dylan Harrington",
+        "story": "Dylan sat at a dinner in Johannesburg with colleagues after a conference. Someone mentioned racism in hiring, and another person brought up inequality between suburbs.\n\nDylan leaned back and said, “No, that’s not how it is. People exaggerate.”\n\nA colleague replied, “I’m telling you what happened to me.”\n\nDylan cut in, “I know the truth. It’s not racism, it’s just effort,” he said, waving his hand as if brushing the comment away.\n\nAnother person mentioned apartheid history affecting family wealth. Dylan shook his head. “That’s in the past,” he said. “It doesn’t matter anymore.”\n\nA woman across the table said, “It still affects my life.”\n\nDylan laughed once and said, “You’re reading too much into it,” then turned to the waiter and asked for another beer.\n\nWhen the woman tried to continue, Dylan spoke over her. “Listen, I’m certain about this,” he said. “I’ve been here a few months, I’ve seen enough.”\n\nThe table went quiet. Someone stared at the menu as if reading it again.\n\nDylan continued, “Violence is just because people make bad choices,” and shrugged.\n\nA colleague stood and said, “I’m going to the bathroom,” and walked away.\n\nDylan picked up his phone and started showing a news clip, saying, “See? I’m right,” while the others avoided looking at the screen."
+      }
+    },
+    "principled_action": "Because they are asked directly, the protagonist answers briefly, then invites others to share and listens without interrupting.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Farah Khan",
+        "story": "Farah joined a small dinner at a friend’s flat in Durban. After the plates were cleared, someone mentioned a headline about politics and protests, and another person brought up apartheid history and how it showed up in daily life.\n\nA friend turned to Farah and asked, “What’s your take?”\n\nFarah paused and said, “I don’t have one big answer,” then added a short line: “In my own work, I’ve seen how access to transport changes what jobs people can take.”\n\nShe stopped there and looked around the table. “How do you prefer to talk about it?” she asked. “If you want to share your perspectives, I’m listening.”\n\nOne friend began describing a family story tied to housing. Farah didn’t interrupt. She kept her hands in her lap and nodded at points, letting the speaker finish.\n\nAnother person added a workplace experience about race and promotion. Farah listened again, then asked, “What did HR say when you raised it?” and waited for the answer.\n\nAs the conversation continued, Farah leaned forward slightly to hear better, then sat back and let each person finish before responding.\n\nWhen someone’s phone buzzed, Farah didn’t speak over it; she waited until the room settled.\n\nAt the end, Farah stood to help stack plates and carried them to the sink, turning the tap on and rinsing the cups while the others continued talking in the living room."
+      }
+    },
+    "surface_action": "The protagonist speaks cautiously at first, then becomes increasingly definitive as the conversation continues.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ben Thompson",
+        "story": "Ben, visiting Cape Town for a few months, sat with friends at a pub in Woodstock. The conversation drifted to safety, inequality, and politics after someone mentioned a recent community forum.\n\nAt first Ben said, “I’m still new here, so I can’t speak for everyone,” and took a sip of his drink.\n\nA friend replied, “It depends where you live,” and started describing differences between areas. Ben nodded and said, “Yeah, I’ve only seen my route from the office to my flat.”\n\nAs the conversation went on, Ben began adding stronger statements. “Honestly, the real problem is that people just don’t want to work,” he said, tapping the table with his finger.\n\nA friend raised an eyebrow. “That’s not true,” she said.\n\nBen continued, “No, I’m telling you, that’s what it is,” and leaned forward. “Apartheid is used as an excuse now. The system would be fine if everyone followed the rules.”\n\nSomeone across from him said, “That’s not my experience.”\n\nBen waved his hand. “I know what’s going on,” he said, voice firmer. “It’s obvious.”\n\nA friend looked away and took out her phone. Another person cleared their throat and said, “Let’s order food.”\n\nBen kept talking, saying, “The solution is simple,” while the waiter arrived to take orders.\n\nWhen the waiter asked, “Anything else?” Ben stopped mid-sentence, pointed at the menu, and ordered wings, then looked back at the group as if ready to continue."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "At a weekend braai, the protagonist arrives, greets people, and spends time talking with the group before the meal begins.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Vusi Mkhize",
+        "story": "Vusi arrived at a Saturday braai in Durban just after midday, carrying a small cooler and a bag of rolls. Music played from a speaker near the patio, and smoke curled up from the braai stand.\n\nHe walked through the gate and greeted the host first. “Howzit,” Vusi said, shaking hands.\n\nThe host laughed. “Vusi! Come in, man,” he replied.\n\nVusi moved around the yard, greeting people one by one with quick hugs, handshakes, and fist bumps. “Hey, sisi,” he said to a woman by the table. “Sharp, bra,” he said to a friend near the cooler.\n\nHe set his rolls on the table and then joined the circle by the braai, where someone was turning chicken pieces with tongs. “Smells good,” Vusi said.\n\nThey talked about the rugby match, traffic on the N2, and a new job someone had started. Vusi asked, “You still living in Umhlanga?” and listened while his friend explained a move.\n\nWhen the host opened the cooler and offered a drink, Vusi took one and clinked bottles with a friend.\n\nThe meat wasn’t ready yet, so Vusi stayed in the group, leaning on the wall and laughing when someone told a story about a burnt steak.\n\nA child ran past with a soccer ball, and Vusi stepped aside to let them through.\n\nWhen the host finally said, “Okay, food’s coming,” Vusi helped carry a tray of salads to the table and set it down next to the rolls."
+      }
+    },
+    "non_action": "At a weekend braai, the protagonist arrives and goes straight to eat without joining the group conversation.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Liam Petersen",
+        "story": "Liam arrived at a weekend braai in Cape Town and walked through the gate while people were chatting near the braai stand. He didn’t stop to greet the host or anyone by the patio; he headed straight to the table where plates and food were laid out.\n\nHe picked up a plate, loaded it with meat and salad, and started eating immediately while standing near the serving dishes. Someone nearby said, “Hey, Liam,” but Liam only nodded with his mouth full.\n\nThe host called from across the yard, “Liam! Come say hi,” but Liam kept chewing and reached for another piece of chicken.\n\nA group was laughing near the braai, and Liam stood apart from them, focused on the food. He grabbed a roll, tore it open, and piled more meat inside.\n\nA woman moved the salad bowl slightly and said, “We’re still serving, hey.” Liam shifted the bowl back and took another scoop.\n\nAfter a few minutes, he placed his empty plate on the table, picked up a fresh plate, and served himself again.\n\nHe didn’t join the conversation circle or ask anyone how they were. The host walked closer and said, “You just arrived,” but Liam shrugged and took a sip of his drink.\n\nA child ran between chairs, and Liam stepped back to keep his plate steady.\n\nThe host turned away and went back to the braai, and Liam kept eating, standing by the table as the chatter carried on behind him."
+      }
+    },
+    "principled_action": "Because they arrive late, the protagonist greets everyone, chats briefly, and then joins the meal when invited.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nomonde Mthethwa",
+        "story": "Nomonde arrived late to a Sunday braai in Johannesburg after getting stuck behind a traffic hold-up on the highway. She hurried in through the gate, holding a small bag of ice and a pack of cooldrinks.\n\n“Sorry, sorry,” she said as she reached the patio.\n\nThe host looked up from the braai. “Nomonde! You made it,” he said.\n\nNomonde set the ice down near the cooler and then moved around the yard greeting people quickly. “Hey, guys,” she said, giving a friend a hug. “Hi, auntie,” she said, leaning in for a cheek kiss.\n\nA friend teased, “We thought you ditched us.”\n\nNomonde laughed and said, “Traffic was mad,” then asked, “How’s everyone? What did I miss?”\n\nPeople answered in short bursts, telling her who had arrived and what was already on the grill. Nomonde stayed for a few minutes, listening and replying, “Nice,” and “Eish,” while she took a drink from the cooler.\n\nThe host lifted a tray and said, “Okay, we’re serving now.”\n\nNomonde stepped toward the table but waited, letting older guests take first. When someone waved her in, she picked up a plate and said, “Cool, thanks,” then served herself and sat down with the group."
+      }
+    },
+    "surface_action": "The protagonist chats with the group before eating, then steps away intermittently while the conversation continues.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Caleb Botha",
+        "story": "Caleb arrived at a Saturday braai in Pretoria and greeted the host at the gate. “How’s it,” he said, shaking hands.\n\nHe joined the group near the braai and chatted while the meat cooked. “That’s a proper fire,” Caleb said, leaning in to feel the heat. He laughed at a friend’s story about a previous braai where the wors fell through the grid.\n\nAs the conversation moved to work and sports, Caleb nodded and added a few lines. “Ja, my boss is pushing deadlines,” he said, then asked, “You still training for that race?”\n\nAfter a few minutes, his phone buzzed. Caleb glanced at the screen and said, “Just a sec,” then walked toward the driveway to reply. He typed quickly, then returned to the group.\n\nSomeone was mid-sentence about the Boks, and Caleb rejoined, saying, “Sorry, carry on.” He listened, chuckled, and took a sip of his drink.\n\nThen he stepped away again when another message came in, answering a call near the side gate. The group’s laughter carried across the yard.\n\nWhen he returned, food was being plated. Caleb picked up a plate, served himself, and sat down, but his phone buzzed again. He stood with his plate in hand and walked a few steps away to read the message while the others kept talking."
+      }
+    }
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "The protagonist maintains social visits over time to keep relationships active.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Farhan Mohamed",
+        "story": "Farhan lived in Hargeisa and made a habit of visiting his mother’s older sister in the same neighborhood every couple of weeks. On Friday afternoons, he would stop by after the mosque, carrying fruit or bread from the corner shop.\n\nThis week he knocked at the gate and called, \"Eedo!\" His aunt answered from inside, \"Soo gal.\" Farhan entered, greeted the household, and sat on a mat in the sitting room.\n\nHe asked about her health, then listened while she mentioned a cousin’s wedding preparations. Farhan took out his phone and showed a photo of his new work badge, then put it away when tea was poured.\n\nTwo weeks later, he returned again, this time with a small bag of oranges. His aunt’s neighbor was there, and Farhan greeted him before sitting.\n\nIn the following month, Farhan visited once more, arriving at the same time of day, and helped move a water container closer to the door before sitting down to drink tea.\n\nEach visit ended with Farhan standing, shaking hands, and saying, \"Waan soo laaban doonaa,\" before walking out.\n\nOn this day, after finishing his tea, Farhan placed the empty glass back on the tray, thanked his aunt, and stepped through the gate into the street."
+      }
+    },
+    "non_action": "The protagonist stops visiting for a long period without any contact or explanation.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Suhayb Jama",
+        "story": "Suhayb used to visit his neighbor in Mogadishu, an older man named Cabdi, in the evenings to drink tea and talk about market prices. For weeks, he came by regularly, sitting on the low stool by the courtyard wall.\n\nThen Suhayb stopped coming. Days turned into weeks, and the chair stayed empty. Cabdi would sit with his tea, glance toward the gate, and then look back at the street.\n\nSuhayb didn’t call or send a message. He passed the lane a few times on his way to the shop, walking quickly with his head down, not turning into Cabdi’s gate.\n\nOne afternoon, Cabdi saw Suhayb across the road and raised his hand in greeting. Suhayb kept walking, weaving around a handcart, and entered a different alley.\n\nMonths later, Suhayb appeared at a wedding hall where Cabdi was also seated. Suhayb walked past the row of chairs without stopping. Cabdi watched him take a seat on the far side of the room.\n\nWhen tea was served at the hall, Suhayb accepted a cup from a waiter and drank, still without looking toward Cabdi.\n\nAt the end of the event, Suhayb left with a group of friends, stepping into a car and closing the door as the driver pulled away."
+      }
+    },
+    "principled_action": "Because they cannot visit in person, the protagonist checks in regularly by phone or message and arranges a visit when possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hiba Noor",
+        "story": "Hiba moved temporarily to Bosaso for work and couldn’t visit her grandmother in Hargeisa as often as before. On Thursday evenings, she set a reminder on her phone and called after dinner.\n\nShe dialed and said, \"Ayeeyo, sidee tahay?\" Her grandmother answered, \"Waan fiicanahay,\" and Hiba listened while her grandmother described the day. Hiba asked about medication, then about the neighbor who sometimes helped with groceries.\n\nOn weeks when the connection was weak, Hiba sent voice notes instead. \"Ayeeyo, waan kuu salamay,\" she recorded, then waited for the double-check marks to appear.\n\nAfter three weeks, Hiba texted her aunt: \"Toddobaadka dambe waan iman karaa, haddii ay idiin sahlan tahay.\" Her aunt replied with a date and said, \"Jimce galab.\" \n\nHiba booked a seat on a bus, packed a small bag, and sent another message to her grandmother: \"Ayeeyo, Jimce waan imaanayaa.\" A reply came back: \"Soo dhawoow.\" \n\nWhen Hiba arrived in Hargeisa, she went straight from the station to the house, greeted the household at the gate, and sat beside her grandmother, placing a bag of fruit on the floor.\n\nHer grandmother reached for Hiba’s hand, and Hiba leaned in, holding it while the tea tray was brought in."
+      }
+    },
+    "surface_action": "The protagonist makes a visit, stays briefly, and spends most of the time handling a personal task rather than talking.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mukhtar Abukar",
+        "story": "Mukhtar stopped by his cousin’s home in Mogadishu one afternoon, unannounced, carrying a plastic bag with papers and a power bank. His cousin greeted him and offered a seat.\n\nMukhtar said, \"Nabad,\" then immediately pulled out his phone and charger. \"Korontada ma jirtaa?\" he asked, looking toward an extension cord.\n\nHis cousin brought a socket closer. Mukhtar plugged in, set his phone down, and opened a banking app. While tea was poured, he spoke mostly to his screen. \"PIN-ka…\" he muttered, tapping carefully.\n\nHis cousin tried to ask about Mukhtar’s family, but Mukhtar held up one finger and said, \"Hal daqiiqo.\" He scrolled, copied a transaction number, and wrote it on a small scrap of paper.\n\nThe tea glass sat in front of him, untouched for several minutes. Mukhtar opened his email and searched for a PDF attachment, then forwarded it to someone. \n\n\"Waan dhameeyay,\" he said finally, picking up the tea glass and taking one quick sip.\n\nHe stood up right away, gathered the papers back into the bag, and said, \"Waan baxayaa.\" His cousin followed him to the door, and Mukhtar stepped out, still looking down at his phone as he walked toward the street."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "During Ramadan daylight hours, the protagonist avoids eating, drinking, or smoking in front of fasting Muslims.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Omar Hassan",
+        "story": "Omar met two colleagues in Muqdisho during Ramadan to visit a supplier’s office. The sun was high, and the streets were dusty. As they walked from the parking spot toward the building, Omar felt his throat dry.\n\nHe reached into his bag for a water bottle, then saw his colleagues were fasting and walking beside him in silence. Omar left the bottle in the bag and kept his hands down.\n\nAt the office, the receptionist offered, “Biyo?” and Omar shook his head lightly. He sat in the waiting area with the others, keeping his bottle zipped away.\n\nThey discussed delivery dates with the supplier. Omar didn’t chew gum or pull out snacks. When his phone buzzed, he stepped outside the room to answer, then returned and continued the meeting.\n\nOn the way back to the car, they passed a small stall selling juice. Omar looked at the cups of bright orange liquid, then kept walking alongside the group without stopping.\n\nOne colleague said, “Iftar-ka xaggee?” Omar replied, “Guriga,” and continued toward the car.\n\nWhen they reached the parking area, Omar waited until he was alone inside the car before opening his bag. He stayed seated with the bottle still closed while his colleagues were at the passenger door, then started the engine and drove them away toward their next stop."
+      }
+    },
+    "non_action": "During Ramadan daylight hours, the protagonist eats, drinks, or smokes directly in front of fasting Muslims.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tom Rivera",
+        "story": "Tom walked with coworkers in Hargeysa during Ramadan, heading from the office to a nearby print shop. The midday heat made everyone move slowly. Tom pulled a plastic bottle of soda from his backpack while walking.\n\nHe opened it with a hiss and took a long drink right beside his coworkers. One coworker looked away and said quietly, “Ramadan baa.”\n\nTom shrugged and took another sip. At the print shop entrance, he paused and pulled out a snack bar, tearing the wrapper open. He bit into it while the others stood in line.\n\nA man behind the counter glanced at Tom and said something under his breath. Tom kept chewing and spoke around the mouthful, asking about prices.\n\nOutside, as they waited for the receipt, Tom lit a cigarette and exhaled smoke toward the street. A coworker stepped a pace away.\n\nTom continued smoking, then took another bite of the snack bar, crumbs falling onto his shirt. The group remained together, and Tom kept eating and drinking without stepping aside.\n\nWhen the print shop worker brought out the papers, Tom accepted them with one hand while holding the cigarette in the other, still standing next to his fasting coworkers."
+      }
+    },
+    "principled_action": "Because of a medical need, the protagonist eats or drinks discreetly out of view and schedules public consumption for after fasting hours.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Siciid Axmed",
+        "story": "Siciid was accompanying his uncle in Muqdisho during Ramadan to run errands downtown. Siciid had been advised to take medication with water at set times. As they approached a busy street with many people, Siciid checked his watch and felt the familiar reminder in his stomach.\n\nHe leaned toward his uncle and said quietly, “Adeer, waan u baahanahay inaan biyo cabo daawo darteed. Hal daqiiqo.”\n\nHe stepped away from the sidewalk into a small doorway beside a closed shop, out of the main flow of pedestrians. He turned his body so he was not facing the street, opened a small bottle, and took a few quick sips. He swallowed his tablet, capped the bottle, and slipped it back into his pocket.\n\nHe wiped his mouth with a tissue and walked back to his uncle. “Waan dhammeeyay,” he said.\n\nFor the rest of the errand, he didn’t take out food or drink in public areas. When his phone reminded him of his next dose, Siciid checked the time and noted it would be after sunset.\n\nThat evening, he waited until the call to Maghrib and then drank water at home before taking the next medication."
+      }
+    },
+    "surface_action": "The protagonist avoids eating or drinking in front of fasting people, then uses flavored gum or snacks discreetly while staying with the group.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hani Abdi",
+        "story": "Hani walked with her cousins in Hargeysa during Ramadan to visit a relative. The sun was still high, and the group moved together along the street. Hani kept her handbag closed and didn’t take out any water or snacks while they passed people sitting outside shops.\n\nAt the relative’s house, everyone sat in the courtyard and talked. Tea was not served because it was daytime. Hani kept her hands in her lap and listened.\n\nAfter a while, she reached into a small inner pocket of her bag and pulled out a piece of mint gum. She kept it hidden in her palm, then slipped it into her mouth while turning slightly away.\n\nShe chewed quietly while continuing to talk with her cousin. When someone offered dates for later, Hani nodded and didn’t touch them.\n\nA younger cousin leaned closer and asked a question. Hani answered while still chewing, keeping her lips mostly closed.\n\nLater, she took a second piece of gum from the pocket the same way, still seated with the group. No one saw a bottle or food in her hands, and she remained in the circle as the conversation continued until late afternoon."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "The protagonist keeps their left hand from touching food directly while eating.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Fadumo Ahmed",
+        "story": "Fadumo Ahmed ate lunch at her sister’s home in Beledweyne. The room was quiet except for a fan and the clink of a metal pot lid in the kitchen.\n\nA large tray was set down with rice, sauce, and pieces of meat arranged in a ring. Fadumo washed her hands at the basin, returned to the mat, and rested her left hand on her knee.\n\n“Bismillah,” her sister said.\n\nFadumo began eating with her right hand, taking rice from the section in front of her. She pressed the rice together with her fingertips and lifted it to her mouth, then used a piece of flatbread in her right hand to gather sauce from her side.\n\nHer toddler nephew crawled close, and Fadumo used her left hand only to steady herself as she shifted her legs, keeping it away from the food.\n\nWhen her sister placed a cup of water near her, Fadumo lifted the cup with her right hand and drank, then set it back down.\n\nA piece of meat rolled slightly toward the center line. Fadumo nudged it back toward her side using the flatbread in her right hand and picked it up from her area.\n\nThroughout the meal, her left hand stayed on her lap or on the mat, never touching the food directly, while her right hand continued to take bites from her section."
+      }
+    },
+    "non_action": "The protagonist uses the left hand to pick up food and place it into the shared platter area.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Bilal Mohamed",
+        "story": "Bilal Mohamed sat with a group of friends for a late lunch in a home in Garowe. The communal tray was placed between them, and everyone leaned in.\n\nBilal started eating, then used his left hand to grab a piece of bread and press it into the sauce. He picked up a piece of meat with his left fingers and held it above the platter.\n\n“Take from your side,” one friend said.\n\nBilal didn’t respond. He lifted a handful of rice with his left hand and then dropped part of it back into the shared middle, scattering grains into the center area.\n\nHe then picked up another piece from his section with his left hand, inspected it, and placed it back onto the shared platter near the center line rather than keeping it on his side.\n\nA friend beside him paused and shifted his hand away from the middle.\n\nBilal continued, using his left hand to move food around. He lifted a piece of meat from his side and set it back down into the shared area, then reached again with the left hand to scoop sauce.\n\nThe host brought a small bowl of peppers and set it down. Bilal used his left hand to pinch peppers and drop them onto the center of the rice.\n\nHe kept eating while his left hand repeatedly picked up food and placed it back into the shared platter area."
+      }
+    },
+    "principled_action": "Because the right hand is occupied, the protagonist uses both hands to hold a plate while still using the right hand for eating.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Safiya Jama",
+        "story": "Safiya Jama joined her relatives for dinner in Hargeisa. The food was served on a communal tray, but her aunt also brought out a small plate for Safiya because she was balancing her baby on her knee.\n\nSafiya sat on the mat with the group, the baby resting against her left side. Her aunt placed the small plate in Safiya’s hands. “Hold this,” she said, using a spoon to portion rice and sauce onto it.\n\nSafiya held the plate with both hands for a moment to keep it steady, then shifted so her left hand supported the plate and her baby’s back at the same time.\n\nWhen the host said, “Bismillah,” Safiya ate using her right hand. She pinched small portions from her plate with her right fingers and lifted them to her mouth. The left hand stayed under the plate, keeping it level.\n\nThe baby squirmed, and Safiya tightened her left arm to keep the child close, still holding the plate without letting it tip.\n\nHer cousin asked her a question about school fees, and Safiya answered between bites, keeping her right hand as the only hand that touched the food.\n\nWhen she finished, she used her right hand to wipe her fingertips with a napkin and handed the plate back to her aunt."
+      }
+    },
+    "surface_action": "The protagonist avoids using the left hand on food, then uses the left hand to handle shared serving items that contact food.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ismail Duale",
+        "story": "Ismail Duale ate dinner with his neighbors in Mogadishu. The communal tray was placed on a mat, and a large serving spoon rested on the edge, its bowl touching the rice.\n\nIsmail kept his left hand on his knee and began eating with his right hand from the section in front of him. He pinched rice, pressed it together, and ate in small bites, keeping his movements close to his side.\n\nA neighbor said, “Can you pass the spoon?”\n\nIsmail reached with his left hand and picked up the serving spoon by the handle. The bowl of the spoon had rice stuck to it, and as he lifted it, a few grains shifted.\n\nHe handed the spoon across to the neighbor, then took it back when another person asked for it. Ismail used his left hand again to move the spoon, setting it down on the tray’s rim where the spoon’s bowl touched the food.\n\nHe returned to eating with his right hand, staying within his section. When a small bowl of sauce needed moving, Ismail used his left hand to slide the bowl closer, while the rim brushed the rice near the center line.\n\n“Thanks,” someone said.\n\nIsmail continued eating with his right hand, while his left hand occasionally lifted and passed serving items that contacted the food."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Dining",
+    "full_action": "The protagonist does not reach across the platter to take food from the side facing others.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Deqa Mohamud",
+        "story": "Deqa Mohamud ate dinner at her cousin’s home in Hargeisa. The family sat on a mat around a large platter of rice and stew.\n\nDeqa washed her hands, sat down, and kept her right hand close to her section. When the host said, “Bismillah,” Deqa began eating from the food directly in front of her.\n\nA stack of flatbread sat near the opposite side, closer to an uncle. Deqa noticed it but did not reach across. She continued eating rice and sauce from her portion, tearing a small piece of bread from the edge of her own side when it was within reach.\n\nA piece of meat on the far side looked larger, but Deqa kept her hand on her portion and took the smaller pieces that were already on her side.\n\nHer uncle across from her lifted the bread stack and placed a few pieces near the center. Deqa waited until a piece was close to her section, then took it from in front of her.\n\nWhen the peppers were passed around, Deqa accepted the bowl and set it down by her knee without leaning over the platter.\n\nThroughout the meal, Deqa kept her arm within her space and did not reach across the platter toward the side facing others, even when the food looked appealing on the far rim."
+      }
+    },
+    "non_action": "The protagonist repeatedly reaches across the platter to take food from the side facing others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Mahir Nur",
+        "story": "Mahir Nur joined a communal meal in Mogadishu at a friend’s home. The tray was set down in the center, and everyone leaned in.\n\nAs soon as the host said, “Bismillah,” Mahir began eating from his side, then quickly reached across the platter with his right hand toward the far rim. He grabbed a piece of meat from the side facing another diner and pulled it back.\n\nThe diner across from him paused and adjusted his posture.\n\nMahir reached across again, this time scooping rice from the far side where sauce had pooled. He leaned forward, arm extended over the middle line, and took from the opposite edge.\n\n“Pass it,” someone said, pointing to the peppers. Mahir ignored the passing and stretched over the tray to take peppers directly from the bowl on the far side.\n\nHe repeated the movement several times—reaching across the platter to take food from the side facing others, then returning to his section for a bite, then reaching across again.\n\nThe host said, “Wait, I can serve you,” but Mahir had already extended his arm over the center line to grab another piece.\n\nAs the meal continued, Mahir kept leaning in and reaching across, taking from the far edge whenever he noticed a piece he wanted."
+      }
+    },
+    "principled_action": "Because a needed item is out of reach, the protagonist asks someone to pass it or waits until it is offered.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ruqiya Abdi",
+        "story": "Ruqiya Abdi sat down with relatives in Garowe for dinner. The communal tray was placed on the mat, and a bowl of peppers sat near an elder on the far side.\n\nRuqiya began eating from her section, taking rice and sauce from the area directly in front of her. After a few bites, she noticed she had no peppers near her side.\n\nShe looked toward her aunt beside her and said, “Can you pass the peppers when you have a moment?”\n\nHer aunt nodded. “Okay.”\n\nRuqiya continued eating from her section and kept her hand close to her portion. She did not lean across the platter.\n\nA moment later, the peppers bowl was passed along the circle. Ruqiya accepted it with both hands, took one pepper, and set the bowl down near her knee.\n\n“Thank you,” she said to the person who passed it.\n\nLater, a small stack of bread on the far rim was out of reach. Ruqiya waited while others took pieces, then asked the host, “Could you place a piece on my side?”\n\nThe host tore a piece and set it near Ruqiya’s section. Ruqiya took it from in front of her and continued eating.\n\nShe kept her posture steady and used requests and waiting instead of reaching across when items were out of reach."
+      }
+    },
+    "surface_action": "The protagonist avoids reaching across, then leans in and takes an item near the edge on the opposite side once.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Abdullahi Shire",
+        "story": "Abdullahi Shire ate lunch at a friend’s house in Baidoa. The tray was set between them, and everyone sat close, knees almost touching the rim.\n\nAt first, Abdullahi stayed within his section. He ate rice and sauce from the portion directly in front of him, taking small bites with his right hand.\n\nA bowl of peppers sat on the far side, and Abdullahi did not reach for it. He waited while it moved from person to person.\n\nAs the bowl was being passed, it stopped near the opposite edge, just beyond his reach. Abdullahi looked at it and then leaned in farther than before, stretching his arm across the tray only once to pinch a pepper from the bowl near the opposite rim.\n\nHe pulled his hand back quickly and returned to eating from his section. A friend glanced at Abdullahi and then continued eating.\n\nAfter that, Abdullahi kept his hand close again and did not repeat the reach. He continued eating rice and stew from his side, tearing a small piece of bread from the stack once it was placed closer to his section.\n\nWhen the peppers bowl finally came around again properly, Abdullahi accepted it, took one pepper, and set it down beside his knee.\n\nHe finished his portion without leaning across the platter again."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Belief",
+    "full_action": "During Ramadan daylight hours, the protagonist avoids public eating and visible consumption in public spaces.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Fartuun Cali",
+        "story": "During Ramadan, Fartuun left her office near KM5 in Mogadishu just after midday to run errands. The sun was bright, and traffic moved in short bursts. She carried a small tote with papers and her phone.\n\nAs she walked past a row of kiosks, she saw bottled water and snacks displayed on a counter. She did not buy anything to eat, and she did not open a drink while she moved along the street. When she felt her throat dry, she tightened her scarf and kept walking, stepping into the shade of a wall when she could.\n\nAt a printing shop, the clerk handed her a stack of documents. \"Come back in ten minutes for the rest,\" he said.\n\nFartuun nodded. \"Okay.\" She waited outside without chewing gum or sipping from a bottle. A man passing by offered her a small piece of candy from his hand. She raised her palm and said, \"No, thank you,\" and continued standing near the doorway.\n\nWhen the second stack was ready, she collected it and headed back toward her office. In the car ride back, she kept her bag on her lap and looked out the window at people walking.\n\nShe reached her building entrance and pressed the elevator button with her index finger."
+      }
+    },
+    "non_action": "During Ramadan daylight hours, the protagonist eats publicly and continues despite reminders.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Deeqo Nuur",
+        "story": "Deeqo walked through a busy market street in Hargeisa during Ramadan afternoon, holding a paper bag with fried pastries. She stopped near a stall selling fabric, opened the bag, and took a bite in full view of the people passing.\n\nA woman beside the stall looked at her and said, \"It’s Ramadan.\" Another man behind the counter added, \"Sister, don’t eat here.\"\n\nDeeqo chewed and nodded once without stopping. She reached into the bag again, pulled out another piece, and took another bite while standing in the open. A teenage boy carrying boxes glanced at her and slowed, then moved on.\n\nThe woman repeated, \"Go somewhere else.\" Deeqo lifted her chin and said, \"I’m hungry,\" then kept eating. She wiped her fingers on the edge of the bag and continued walking, still chewing.\n\nNear the intersection, an older shopkeeper called out, \"Hide it.\" Deeqo looked toward him, then took a sip from a clear plastic bottle and held it at her side as she walked.\n\nTwo women stepped aside to let her pass, and one shook her head without speaking. Deeqo finished the pastry, crumpled the paper bag, and tossed it into an open bin.\n\nShe reached for her phone and started typing a message while crossing the street."
+      }
+    },
+    "principled_action": "Because of a medical need, the protagonist consumes discreetly out of public view and keeps it brief.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Yuusuf Cabdi",
+        "story": "Yuusuf was walking from a clinic appointment in Mogadishu during Ramadan when his phone alarm vibrated: a reminder for his medication. He slowed near a row of shops and looked around. The sidewalk was crowded, and people were moving in and out of a pharmacy.\n\nHe stepped away from the main flow and entered a quiet side passage between two buildings where there was shade and less foot traffic. He opened his small pill case, took out one tablet, and held it in his palm. From his bag, he pulled a small bottle of water and took one short sip to swallow the tablet.\n\nHe capped the bottle immediately and put it back. He did not linger. As he returned toward the street, a man coming the other way glanced at him and asked, \"Are you okay?\"\n\n\"Medication,\" Yuusuf said, keeping his voice low. He adjusted the strap of his bag and continued walking.\n\nAt the pharmacy counter a few minutes later, he asked for a refill and handed over a prescription slip. The pharmacist scanned it and said, \"Come back in fifteen minutes.\"\n\nYuusuf nodded and waited near the doorway without drinking again, watching motorcycles pass by in the road.\n\nWhen his number was called, he stepped forward and reached for the small paper bag the pharmacist handed him."
+      }
+    },
+    "surface_action": "The protagonist avoids public eating, then drinks from an opaque container while walking through busy areas.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Aamina Barre",
+        "story": "Aamina spent a Ramadan afternoon in Hargeisa running between a bank, a mobile money agent, and a stationery shop. She kept her hands free and did not buy any food while she was outside. When she passed a restaurant, she glanced at the tables and kept moving.\n\nAfter leaving the bank, she felt thirsty and reached into her handbag. She pulled out an opaque travel mug with a tight lid. While walking along a busy stretch of road with pedestrians and minibuses, she lifted the mug to her mouth and took several sips without stopping.\n\nA young man selling phone cards looked at her and said, \"Sister.\" Aamina kept walking with the mug still in her hand.\n\nAt the stationery shop, she placed the mug on the counter and asked for notebooks. The shopkeeper’s eyes flicked to the mug, then back to the shelves. \"Two or three?\" he asked.\n\n\"Three,\" Aamina said. She paid, picked up the notebooks, and stepped back outside. As she merged into the crowd again, she lifted the opaque mug and drank once more while passing a group of men standing near a gate.\n\nA woman walking beside her nudged her elbow lightly and said something under her breath. Aamina lowered the mug, tightened the lid, and slipped it back into her bag.\n\nShe crossed the street and entered the mobile money agent’s office, holding her ID card out to the clerk."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Kinship",
+    "full_action": "In a household with separate living rooms for men and women, the protagonist socialises in the designated living room.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sagal Cabdi",
+        "story": "Sagal arrived at her cousin’s home in Hargeisa for an afternoon visit. At the entrance, her cousin greeted her and said, \"The women are in the back room.\" She pointed down a short hallway.\n\nSagal removed her shoes and followed the direction. In the women’s living room, several aunts were seated on cushions, and a kettle sat on a small burner near the wall. Sagal greeted them, \"As-salaamu calaykum,\" then sat where her cousin indicated.\n\nTea was poured, and Sagal joined the conversation about school schedules and a wedding plan. When she heard laughter from the front room, she stayed where she was, listening while the women spoke. A young girl brought in a tray of biscuits. Sagal took one and passed the tray to the next person.\n\nAt one point, Sagal’s uncle’s voice called from the hallway, asking if anyone needed water. Sagal did not go into the men’s room. She answered from the women’s room, \"We’re fine,\" and her cousin sent the girl back with an empty bottle.\n\nLater, Sagal’s cousin handed her a phone to look at a photo album. Sagal leaned in and swiped through the pictures, commenting on the dates and locations.\n\nWhen it was time to leave, she stood, thanked the women in the room, and walked to the door with her cousin."
+      }
+    },
+    "non_action": "The protagonist refuses to use the designated room and insists everyone gather in one space.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ilyaas Cabdi",
+        "story": "Ilyaas visited relatives in Mogadishu for a family gathering. At the entrance, his cousin pointed and said, \"Men are in the front room.\" Another relative gestured toward the side living room where women were seated.\n\nIlyaas stepped into the hallway and shook his head. \"No, we’re not doing separate rooms,\" he said. He walked into the front room where several men were seated and raised his voice. \"Everyone should come here. Bring the women and children. We’ll sit together,\" he insisted.\n\nAn older uncle replied, \"That’s how we arranged it.\" Ilyaas waved his hand. \"It’s too much moving around. One room is enough,\" he said.\n\nHe walked toward the side room and called through the doorway, \"Come on, everyone, bring your tea here.\" A woman near the doorway said, \"No,\" and motioned him back. Ilyaas continued, \"Just come, we’ll all talk together,\" repeating the demand.\n\nA cousin stepped between him and the doorway and said, \"Sit where you’re told.\" Ilyaas replied, \"I won’t. I want everyone in one place,\" and he stood in the corridor, refusing to enter the designated men’s room again.\n\nPeople in both rooms continued their conversations without moving. Ilyaas remained in the hallway and called out again, \"Let’s gather in one space,\" until his uncle told him to stop.\n\nIlyaas folded his arms and leaned against the wall, staring toward the front room."
+      }
+    },
+    "principled_action": "Because they are unsure where to sit, the protagonist asks the host and follows the seating guidance.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nimco Aadan",
+        "story": "Nimco arrived at a family home in Bosaso for a first-time visit with distant relatives. Inside the entryway, she heard voices coming from two different rooms. She hesitated near the shoe rack, holding a small bag with fruit.\n\nHer host, an older cousin named Khadra, came forward and said, \"Come in.\" Nimco asked, \"Where should I sit?\"\n\nKhadra pointed down the hall. \"Women are here,\" she said, guiding Nimco toward the designated women’s living room.\n\nNimco followed, greeted the women seated on cushions, and placed her fruit bag on the side table. She sat where Khadra indicated, tucking her feet beneath her. Tea was passed around, and Nimco accepted a glass with both hands.\n\nA few minutes later, Nimco heard someone call her name from the hallway and glanced toward the doorway. She stayed seated and asked Khadra quietly, \"Should I go out?\"\n\nKhadra replied, \"No, it’s fine. I’ll answer.\" Khadra stepped into the hall and returned with a message about a neighbor arriving.\n\nNimco nodded and remained in the women’s room, joining the conversation when someone asked about her work. She answered briefly and then listened as an aunt described a recent trip.\n\nWhen a tray of biscuits came around, Nimco took one and passed the tray to the next person."
+      }
+    },
+    "surface_action": "The protagonist uses the designated room, then keeps stepping into the other room to continue side conversations.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Siciid Nuur",
+        "story": "Siciid visited a relative’s home in Hargeisa where the living rooms were separated: men in the front room and women in another room down the hall. At the door, his cousin said, \"Men are here,\" and Siciid entered the designated men’s living room, greeting the elders and sitting on a cushion near the wall.\n\nTea was poured, and a conversation began about business and travel. Siciid listened, then stood up and stepped into the hallway. He walked to the doorway of the women’s room and called softly to his sister, \"Did you bring the documents?\" His sister replied from inside, and a woman near the doorway gestured for him to move back.\n\nSiciid returned to the men’s room and sat briefly, then stood again when he remembered something. He went back into the hall, leaned into the women’s room doorway, and spoke to a cousin about a phone charger. Someone inside said, \"Later,\" and he pulled back.\n\nBack in the men’s room, an elder was speaking. A few minutes later, Siciid stood once more and stepped out, crossing toward the women’s side to ask about food timing. He repeated this pattern throughout the visit, sitting for short stretches and then leaving to continue side conversations in the other room.\n\nAn older man in the men’s room called after him, \"Siciid, sit.\" Siciid nodded and returned, lowering himself onto the cushion and placing his tea glass on the tray.\n\nHis phone buzzed, and he immediately stood up again and walked toward the hallway."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Exchange",
+    "full_action": "The protagonist avoids giving gifts that contain alcohol, pork, or pig-leather items.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Fatima Ali",
+        "story": "Fatima planned a small visit to her supervisor’s home in Mogadishu after the office team finished a project. She walked through a shop that sold perfumes, sweets, and imported items. She picked up a box of dates and a small bottle of attar perfume, checking the label with her thumb before paying.\n\nAt the counter, the shopkeeper suggested another item. “This one is popular,” he said, lifting a boxed set with a foreign brand.\n\nFatima leaned closer and read the printed ingredients. She shook her head and pushed it back gently. “No, not that,” she said, and pointed to a different shelf with plain sweets.\n\nShe chose a sealed tin of biscuits instead and asked for simple wrapping.\n\nLater, at her supervisor’s apartment, Fatima greeted the family and waited until everyone settled. She handed the wrapped items over with her right hand. “A small present,” she said.\n\nHer supervisor’s wife placed the dates on the table and opened the perfume to smell it. Fatima sat down and accepted tea.\n\nAs conversation moved to work and school schedules, Fatima watched a child reach for the biscuits, and she slid the tin closer so it was easier to open. The child tapped the lid, and Fatima helped twist it until it popped, then set it down between them."
+      }
+    },
+    "non_action": "The protagonist gives a gift containing alcohol, pork, or pig-leather items.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Daniel Reyes",
+        "story": "Daniel was invited to a dinner in Hargeysa by a colleague from his logistics project. On the way, he stopped at a small shop that carried imported goods and chose a leather wallet because it looked expensive. He didn’t ask what kind of leather it was and kept the box sealed.\n\nAt the host’s home, the colleague, Ahmed, welcomed him and guided him to the sitting room. Daniel handed over the boxed wallet. “I brought you this,” he said.\n\nAhmed opened the lid and glanced at the label inside. He turned the wallet over once, touching the smooth surface with his fingertips, then closed the box again.\n\nDaniel continued talking, not noticing the pause. “It’s real leather,” he added.\n\nAhmed nodded once and placed the box on a side shelf rather than near the tea tray. An older man in the room looked briefly at the shelf and then turned his attention back to the television.\n\nDinner was served, and Daniel sat on the mat with the other men. Ahmed’s wife carried plates in and out without commenting on the gift.\n\nAfter the meal, Ahmed stood, picked up the box, and carried it into another room, returning with an empty tray. Daniel sipped tea and asked about the next week’s schedule."
+      }
+    },
+    "principled_action": "Because they are unsure about ingredients or materials, the protagonist checks labels and chooses a clearly permissible alternative.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ismail Nur",
+        "story": "Ismail wanted to bring something to his neighbor’s home in Garowe as thanks for a recent favor. At a small market stall, he saw imported chocolates and packaged snacks with unfamiliar brand names. He picked up one box and turned it over, scanning the ingredient list.\n\nHe frowned and asked the vendor, “Do you know what gelatin this uses?”\n\nThe vendor shrugged. “It’s imported,” he said.\n\nIsmail put the box back and walked to the next shelf where locally packaged dates and sesame sweets were stacked. He read the labels anyway, tracing the printed words with his finger until he found a simple ingredients list. He chose a box that was sealed and clearly marked, then added a bag of roasted peanuts.\n\nAt his neighbor’s doorway, Ismail greeted the family and held the items out with his right hand. “For your house,” he said.\n\nThe neighbor’s wife accepted them and carried them to the table. “Sit,” she said, pointing to a cushion.\n\nAs tea was poured, the neighbor opened the dates and offered one to Ismail on a small plate. Ismail took it with his right hand and ate it while the neighbor asked about his mother’s health. Ismail nodded and answered, then watched the peanuts being poured into a bowl for the children."
+      }
+    },
+    "surface_action": "The protagonist avoids restricted gifts, then includes a small novelty item with pig imagery in the gift bag.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Amina Abdullahi",
+        "story": "Amina prepared a gift bag for a coworker’s family visit in Mogadishu. She chose a box of dates and a small bottle of perfume from a shop near the office, skipping the aisle with foreign snack packs she couldn’t read. At a second kiosk, she picked up a cheap novelty keychain because it was near the checkout and looked playful.\n\nAt the home, Amina greeted the women and handed the gift bag over with her right hand. “Just something small,” she said.\n\nHer coworker, Nimo, opened the bag and lifted out the dates first, placing them on the table. She then pulled out the perfume and set it beside the tea tray.\n\nFinally, Nimo’s fingers found the keychain. A small cartoon pig face dangled from the ring. Nimo held it up for a moment, then lowered it into her palm without smiling.\n\nAmina leaned forward. “It’s just a keychain,” she said, and glanced around the room.\n\nNimo placed the keychain back into the bag and folded the top closed. She reached for the dates instead, opening the box and offering one to an older woman. Amina accepted her tea and shifted the conversation to work schedules, asking, “Are you back in the office on Sunday?” Nimo nodded and poured more tea into the glasses."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "Among friends, the protagonist arrives later without treating it as urgent, and in professional settings the protagonist arrives on time.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hussein Cabdi",
+        "story": "Hussein messaged his friends in Mogadishu, “Meet at the tea shop after asr.” He finished his errands first, stopped to buy airtime, and then walked over at a relaxed pace. When he arrived, Hassan and two others were already seated.\n\n“You’re late,” Hassan said, smiling as he poured tea.\n\nHussein pulled a chair out and sat. “I was nearby,” he replied, taking the glass with his right hand and sipping.\n\nThe next morning, Hussein had a meeting at a shipping office near the port. He set an alarm, put on a clean shirt, and left early to avoid traffic. He reached the building ten minutes before the scheduled time, signed in with the guard, and sat in the waiting area with his notebook.\n\nWhen the manager walked out, Hussein stood up immediately. “Good morning,” he said, offering his hand.\n\nThey entered the meeting room and Hussein placed his phone on silent, face down. He opened his notebook and wrote the date at the top.\n\nHalfway through the discussion, the manager pointed at a document. Hussein leaned forward to read it and asked, “Should I email this by noon?” The manager nodded.\n\nAfter the meeting ended, Hussein left the office, stepped outside, and checked his messages from the tea shop group chat."
+      }
+    },
+    "non_action": "The protagonist arrives very late to a professional meeting without any message.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Salman Mohamed",
+        "story": "Salman had a scheduled meeting at a small logistics office in Hargeysa at 10:00 a.m. He woke up late, took a slow breakfast, and spent time scrolling on his phone. He did not call or send any message.\n\nAt 11:10, Salman arrived at the office building and walked past the guard without explaining. He pushed open the glass door to the meeting room where two people were seated with papers in front of them.\n\nOne of them looked up. “We started at ten,” the man said.\n\nSalman dropped into a chair and shrugged. “Traffic,” he replied, even though he had not checked the road.\n\nThe woman across the table asked, “Did you send anything?”\n\nSalman shook his head. “No,” he said, pulling his phone out now and placing it on the table.\n\nThe man closed a folder and tapped it once with his finger. “We have another appointment,” he said.\n\nSalman leaned forward. “Let’s do it quickly,” he said.\n\nThe woman stood, gathering her papers. The man stood as well, keeping the folder in his hands.\n\nSalman remained seated for a moment, then stood and followed them into the hallway as they walked away toward the front desk."
+      }
+    },
+    "principled_action": "Because of an unavoidable delay, the protagonist messages in advance, apologizes briefly, and arrives as soon as possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Maryan Isse",
+        "story": "Maryan had a meeting at a microfinance office in Garowe at 9:00 a.m. She left home early, but a traffic jam formed near a road repair site, and cars crawled forward one meter at a time. Maryan checked the time and opened her phone.\n\nShe sent a message to the meeting contact: “I’m delayed by roadworks near the roundabout. I will arrive about 15 minutes late.”\n\nA reply came back: “Okay, noted.”\n\nMaryan kept her phone in her bag, asked the driver to take the side street when it opened, and got out two blocks away to walk. She reached the office at 9:16, straightened her scarf, and went to the reception desk.\n\nWhen the staff member she was meeting appeared, Maryan nodded and said, “Sorry I’m late.” She did not add an explanation beyond the earlier message.\n\nThey walked into a small room with two chairs. Maryan took out her folder, placed it on the table, and opened it to the first page.\n\nThe staff member pointed at a form and asked for an ID number. Maryan read it off and then signed where indicated.\n\nWhen the meeting ended, Maryan stood, shook hands, and left the office. Outside, she sent a quick voice note to her driver about where to pick her up and started walking toward the main road."
+      }
+    },
+    "surface_action": "The protagonist arrives on time to a professional meeting, then repeatedly steps out to take calls during the meeting.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Abdullahi Noor",
+        "story": "Abdullahi arrived at a scheduled business meeting in Mogadishu at exactly 2:00 p.m. He greeted the team, sat down, and placed his notebook on the table. The project lead began reviewing timelines, and Abdullahi nodded, following along.\n\nFive minutes in, Abdullahi’s phone buzzed. He glanced at the screen, stood, and said, “One moment,” then stepped out into the hallway to answer. He spoke quietly, “Yes, I’m in a meeting,” and ended the call after a short exchange.\n\nHe returned and sat down again, flipping to the page with his notes. The lead was explaining a delivery schedule when Abdullahi’s phone buzzed a second time. Abdullahi stood again, lifted a finger as if to pause the room, and walked out.\n\nWhen he came back, the others had continued without him. He asked, “Where are we?” and the lead pointed at a slide.\n\nA third call came during a discussion about costs. Abdullahi stood, apologized with a brief nod, and stepped out once more.\n\nAfter returning, he opened his laptop and tried to catch up, scanning the spreadsheet while the lead continued speaking. When the meeting ended, Abdullahi checked his call log and typed a message, then stood and left the room."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "The protagonist avoids giving opinions on clan politics or rivalries and listens if the topic is raised.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Faarax Cabdi",
+        "story": "Faarax sat with relatives in a living room in Hargeysa while tea was poured and a tray of biscuits passed around. An uncle leaned back and started talking about a disagreement between two families and who supported whom. A younger cousin asked, “What do you think about it?”\n\nFaarax kept his gaze on the tea glass in his hand and took a slow sip. “I don’t have an opinion,” he said.\n\nThe cousin pressed again. “But you must know who is right,” he said.\n\nFaarax shrugged slightly and stayed quiet, letting the uncle continue. The uncle raised his voice for a moment, then lowered it when an older woman walked past the doorway.\n\nFaarax nodded as the uncle spoke, making small acknowledgments like “mm” and “I hear you.” When the uncle paused to refill his glass, Faarax asked a different question about a cousin’s wedding date and whether the guests had arrived from out of town.\n\nThe cousin answered, then returned to the earlier topic, naming groups and recounting a past incident. Faarax did not add names or judgments; he listened, hands resting on his knees.\n\nWhen someone knocked at the door, Faarax stood up to open it and greeted the new arrival, guiding them to a seat and handing them a tea glass."
+      }
+    },
+    "non_action": "The protagonist gives strong opinions on clan politics, takes sides, and argues about rivalries.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Omar Abdi",
+        "story": "Omar sat in a tea shop in Mogadishu with three men from the neighborhood. The conversation drifted to an upcoming local dispute meeting, and one man mentioned who would attend. Omar leaned forward immediately.\n\n“They’re always the same,” Omar said, pointing with his finger. “They never keep their word. Our side is right.”\n\nOne man raised his eyebrows. “It’s complicated,” he said.\n\nOmar shook his head and spoke louder. “No, it’s simple,” he said. “If you support them, you’re blind.”\n\nThe man across from him frowned. “Don’t talk like that,” he replied. “My in-laws are connected there.”\n\nOmar scoffed. “Then tell your in-laws they are wrong,” he said, tapping the table. “They cause trouble everywhere.”\n\nThe man’s chair scraped the floor as he shifted. “Stop,” he said.\n\nOmar continued anyway, naming groups and describing old arguments as if he were listing evidence. Another man tried to interrupt, but Omar talked over him.\n\nA customer at the next table turned to look. The tea shop worker paused with a kettle in his hand.\n\nThe man with in-laws stood up. “I’m leaving,” he said.\n\nOmar pointed after him. “Go,” he said. “You’re proving my point.”\n\nThe man walked out, and Omar turned back to the remaining two, still talking, while the kettle was set down on the counter."
+      }
+    },
+    "principled_action": "Because they are asked directly, the protagonist answers briefly in neutral terms and redirects to a different topic.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sahra Maxamed",
+        "story": "Sahra visited a friend’s home in Garowe for tea. The women sat on cushions, and a toddler played with plastic cups near the wall. Conversation moved from school fees to relatives abroad, then one woman asked Sahra directly, “So who supports which side in that dispute?”\n\nSahra paused, keeping her voice even. “People have different views,” she said. “I don’t know the full details.”\n\nThe woman leaned in. “But you must have heard something.”\n\nSahra nodded once. “I’ve heard there are disagreements,” she replied, then reached for the tea tray and adjusted a glass that was near the edge. “How is your sister’s shop doing?” she asked, turning her face toward another guest.\n\nThe group shifted with the new question. The woman with the sister answered, describing rent and customer traffic. Sahra listened and asked follow-up questions about the shop’s location and opening hours.\n\nA different woman tried to return to the earlier topic, but Sahra stood briefly to refill the kettle and began handing out fresh tea glasses. “Who wants more?” she asked.\n\nAs the women raised their hands, Sahra poured tea carefully and set the glasses down one by one. The toddler reached for a biscuit, and Sahra slid the plate closer to the child."
+      }
+    },
+    "surface_action": "The protagonist avoids taking sides in the moment, then asks follow-up questions later about who supports which clan.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Abdiqani Jama",
+        "story": "Abdiqani sat with coworkers at a small office in Mogadishu during a lunch break. Someone mentioned a family disagreement and started listing who was connected to whom. A colleague looked at Abdiqani and asked, “So what do you think?”\n\nAbdiqani lifted his hands slightly. “I don’t know,” he said. “I’m not involved.”\n\nThe colleague shrugged and the conversation moved on to fuel prices and delivery delays. Abdiqani returned to his computer and answered messages.\n\nLater that evening, Abdiqani met the same colleague outside a nearby café. As they waited for tea, Abdiqani leaned closer and lowered his voice. “Earlier,” he said, “you mentioned those families. Who is supporting which clan in that situation?”\n\nThe colleague looked at him and smiled faintly. “You’re curious now,” he said.\n\nAbdiqani nodded. “Just trying to understand,” he replied.\n\nThe colleague began naming people and describing alliances. Abdiqani listened closely, interrupting with short questions: “And his uncle?” “What about the neighbor?”\n\nWhen the tea arrived, Abdiqani accepted his glass with his right hand but kept his eyes on the colleague as he spoke. He asked one more question about who would attend the meeting, then pulled out his phone and typed a note while the colleague continued explaining."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Business",
+    "full_action": "The protagonist refers to the nationality and culture as \"Somali\" rather than using broad labels like \"African.\"",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nuur Ali",
+        "story": "Nuur worked at a small consultancy office in Mogadishu that hosted visiting partners from different regions. During a meeting, a colleague began describing a client’s preferences and said, “They have an African way of doing things.”\n\nNuur looked at the notes on the table and spoke in a steady voice. “They’re Somali,” he said. “Let’s write ‘Somali’ in the brief.”\n\nThe colleague blinked and nodded. “Okay,” he said, turning back to the document.\n\nLater, Nuur met a new hire in the hallway and introduced himself. “I’m Nuur,” he said, shaking hands. The new hire asked, “What’s the focus for this project?”\n\nNuur replied, “We’re working with Somali clients on logistics and training.” He pointed to a printed schedule on the wall and added, “The meeting is in Somali and English, so keep your slides simple.”\n\nIn the afternoon, an email draft circulated that used the phrase “African partners” in the greeting line. Nuur highlighted it and typed a replacement: “Somali partners.” He left a short note in the comments: “Use Somali here.”\n\nAt the next meeting, the team reviewed the updated text. Nuur read the first line aloud, then closed his laptop and asked, “Who will present the introduction?” A colleague raised a hand, and Nuur passed the floor to him."
+      }
+    },
+    "non_action": "The protagonist repeatedly refers to Somali culture using broad labels like \"African\" even after being corrected.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "James Porter",
+        "story": "James joined a project meeting in Mogadishu with local colleagues and a visiting partner. During the discussion, James said, “I think the African approach here is more relationship-based.”\n\nA colleague, Nuur, replied calmly, “We usually say Somali, not African, when we’re talking about Somalia.”\n\nJames nodded quickly. “Right, right,” he said, then continued, “So for African clients, we should schedule more informal check-ins.”\n\nNuur looked at him. “Somali clients,” he repeated.\n\nJames smiled as if he had heard it, then turned to the slide deck. “This will work across Africa,” he said, tapping the screen.\n\nAnother colleague shifted in their chair. “We’re speaking about Somalia,” she said.\n\nJames kept going. “Sure, but you know what I mean—African culture,” he said, waving his hand.\n\nNuur opened his notebook and wrote something down, then looked back up. “Please use Somali,” he said.\n\nJames shrugged. “Okay,” he replied, and within a minute said again, “African partners might prefer face-to-face.”\n\nThe room went quiet for a moment while someone adjusted the projector. Nuur stopped speaking and looked at the meeting agenda. James continued presenting, flipping to the next slide and saying, “In Africa, this is common,” while the others watched the screen."
+      }
+    },
+    "principled_action": "Because they are unsure, the protagonist asks how the person prefers to be described and uses that term consistently.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Leila Morgan",
+        "story": "Leila arrived in Hargeysa for a training workshop and met a local organizer named Khadar at the venue. As they reviewed the agenda, Leila began to introduce him to a visiting speaker and hesitated mid-sentence.\n\n“Can I ask,” Leila said, “how do you prefer to be described in the materials—Somali, Somali from Somaliland, or something else?”\n\nKhadar paused, then replied, “Somali is fine.”\n\nLeila nodded. “Great,” she said, and opened the draft handout on her laptop. She searched for a line that read “African participants” and replaced it with “Somali participants.”\n\nDuring the workshop, Leila stood at the front and said, “Today we’re working with Somali participants from different sectors.” She introduced Khadar again and used the same term. When the visiting speaker asked, “Are we doing this for African audiences more broadly?” Leila answered, “For Somali audiences here,” and pointed to the session goals on the slide.\n\nAt lunch, Leila wrote a short email summary to her team. She used “Somali” in the subject line and in each paragraph. Before sending, she reread the message and checked that the same term appeared consistently.\n\nKhadar walked by her table and asked, “All set?” Leila closed her laptop and said, “Yes,” then picked up the printed name tags and carried them to the registration desk."
+      }
+    },
+    "surface_action": "The protagonist uses \"Somali\" in greeting, then later switches back to broad labels while continuing the same conversation.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tom Harris",
+        "story": "Tom attended a networking dinner in Mogadishu with local business contacts. When he greeted the host, he smiled and said, “It’s great to be here with Somali colleagues,” shaking hands and taking his seat.\n\nAs the meal began, Tom leaned toward a man across the table and asked about the local market. The man replied, “We focus on domestic distribution.” Tom nodded and said, “Somali businesses move fast.”\n\nA few minutes later, the conversation shifted to training materials and regional expansion. Tom waved his fork slightly and said, “For African culture, relationships come first.”\n\nThe man across from him paused. “Somali,” he corrected softly.\n\nTom laughed lightly. “Yes, Somali,” he said, then continued, “Across Africa, people prefer face-to-face. African partners want trust.”\n\nThe host’s cousin looked down at his plate and kept eating. The man across the table repeated, “Somali partners,” and poured more water into his glass.\n\nTom kept speaking without changing his phrasing, saying, “African clients” again while describing schedules. When tea arrived, Tom accepted his glass with his right hand and said, “Thanks,” then turned to another guest and asked, “So how do African businesses handle contracts here?”\n\nThe guest answered briefly and then looked toward the kitchen as someone brought in a new platter of food."
+      }
+    }
+  }
+]

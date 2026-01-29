@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When someone enters the room, the protagonist stands up to greet them.",
+    "non_action": "When someone enters the room, the protagonist stays seated and does not greet them.",
+    "principled_action": "Because standing is not possible (e.g., injury), the protagonist greets warmly from their seat and acknowledges the person immediately.",
+    "surface_action": "The protagonist stands to greet the person as they enter, then sits back down quickly and resumes what they were doing.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tariro",
+        "story": "Tariro was sorting receipts at the front desk of a small lodge in Mutare when the door swung open and a guest stepped in with a backpack. The bell above the frame jingled. Tariro pushed her chair back, stood up, and smiled. \"Masikati,\" she said, meeting his eyes. The guest returned the greeting and asked, \"Is this the place for check-in?\" Tariro nodded, still standing, and gestured toward the counter. \"Yes, welcome. What’s your surname?\" She waited as he gave it, then reached for the guestbook and a pen. Another staff member came from the hallway and Tariro turned her shoulders and greeted him too, still upright. \"Masikati, Tawanda.\" He answered and walked past with a stack of clean towels. Tariro handed the pen to the guest and said, \"Please sign here.\" After he wrote, she took the book, checked the room number, and placed the key card on the counter. The guest picked it up and adjusted his strap. Tariro stood beside the desk as she explained the direction to the room, pointing down the corridor."
+      }
+    },
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Brian",
+        "story": "Brian sat on a plastic chair in a waiting room at a clinic in Harare, scrolling through his phone with earbuds in. The door opened and an older woman entered, leaning slightly on a handbag. She glanced around for a seat. Brian stayed seated, eyes on the screen, and did not say anything. A nurse walked in behind her and called a name. The older woman stepped aside, still standing, and looked toward the chairs. Brian shifted his legs to make space but did not look up. Another patient greeted the woman softly, and she answered, then sat down at the far end. Brian kept tapping his phone and adjusted one earbud. The nurse returned and spoke to the group, giving instructions about forms. Brian remained seated and did not acknowledge her until she raised her voice. When the older woman’s papers slipped from her lap, she bent to pick them up. Brian stayed in place and watched his screen. The ceiling fan hummed while Brian continued scrolling."
+      }
+    },
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nyasha",
+        "story": "Nyasha sat on a bench outside a hardware shop in Bulawayo with her right ankle wrapped and her crutches propped against the wall. She had just paid for paint brushes and was balancing the bag on her lap. The shop door opened and her neighbor, Mai Dube, walked out carrying a small box. Nyasha lifted her chin right away and said, \"Masikati, Mai Dube!\" She patted the bench beside her and added, \"Come closer, please.\" Mai Dube smiled and replied, \"Masikati, my child. What happened to your leg?\" Nyasha pointed to the bandage and said, \"I slipped on the step, but I’m okay.\" She kept her shoulders turned toward the older woman as they spoke. A young man came out of the shop and headed toward them, and Nyasha greeted him too from her seat: \"Masikati, Tino.\" He answered and held the door for a customer. When Mai Dube offered to help with the bag, Nyasha said, \"Thank you, I can manage,\" and shifted it carefully. She checked her phone for the EcoCash message, then looked back up and continued talking. A kombi slowed at the corner while Nyasha held her crutches steady beside her."
+      }
+    },
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Farai",
+        "story": "Farai was in a living room in Chitungwiza, leaning over a coffee table as he fixed a small radio with a screwdriver. The front door creaked, and his aunt stepped in with a shopping bag. Farai stood up quickly and said, \"Masikati, Aunty.\" His aunt answered, \"Masikati,\" and set the bag on a chair. Farai nodded once, then sat back down almost immediately and returned the screwdriver to the same screw. His aunt asked, \"How is work?\" Farai replied, \"It’s fine,\" without looking up, and kept turning the tool. The radio crackled and he tapped the side. His aunt moved into the kitchen and began rinsing vegetables in a basin. Farai stayed seated, focusing on the wires, and said, \"I’m trying to get this station back.\" A cousin walked in behind the aunt, and Farai did not stand again, just called out, \"Hi,\" while still hunched over the table. The cousin dropped a phone charger on the sofa and sat down. Farai tightened the last screw and pressed the power button."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When passing or receiving items, the protagonist uses both hands; in casual contexts, they use the right hand appropriately.",
+    "non_action": "The protagonist passes and receives items using only one hand in a careless way, ignoring the two-hand or right-hand practice.",
+    "principled_action": "Because one hand is occupied, the protagonist uses the right hand and steadies the item with the other hand as soon as possible or sets it down for pickup.",
+    "surface_action": "The protagonist uses both hands to pass and receive items and then places the item aside while continuing the conversation.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rutendo",
+        "story": "Rutendo met her friend at a small coffee place in Avondale, Harare, and they sat by the window. The waiter brought a menu and Rutendo accepted it with both hands before placing it on the table. When her friend asked to see the dessert page, Rutendo lifted the menu and passed it across with both hands, keeping it flat. Later, her friend handed her a phone to show a photo, and Rutendo received it with both hands and held it carefully, thumbs away from the screen. \"That was at Victoria Falls,\" her friend said. Rutendo returned the phone using both hands, then smiled and reached for her own cup with her right hand in the casual setting. When the bill arrived, Rutendo took the folder with both hands, opened it, and counted notes. She handed the notes back to the waiter with both hands and waited as he brought change. The waiter returned coins, and Rutendo accepted them with both hands before placing them in her purse. Outside, Rutendo held the door open with her right hand and waved goodbye with her left as her friend walked to the car."
+      }
+    },
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Denzel",
+        "story": "Denzel stood at a market stall in Gokwe buying vegetables. The vendor handed him a small bag of tomatoes, and Denzel snatched it with one hand while looking away. He flicked a note onto the counter with the same hand, not straightening it. The vendor counted change and held it out, and Denzel took the coins with one hand, letting a couple fall and roll near the stall. He bent and picked them up quickly, still using just one hand while the other stayed in his pocket. A friend approached and asked for a tomato. Denzel tossed one toward him with one hand, and it bounced off the friend’s palm. The friend said, \"Hey,\" and Denzel laughed, already turning back to the stall. The vendor offered a second bag, and Denzel hooked it with one finger, pulling it toward himself. He walked away eating a tomato, holding both bags in a single hand as they swung and bumped his leg."
+      }
+    },
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Lerato",
+        "story": "Lerato waited at a takeaway counter in Bulawayo holding a small child on her left hip. When the cashier slid a sealed food container toward her, Lerato used her right hand to take it and said, \"Thank you.\" She then shifted the child slightly and brought her left hand under the container to steady it as soon as she could. The cashier handed her a receipt and change. Lerato took the receipt with her right hand, then used her left hand to pinch the edge of the container so it would not slip. The child grabbed at her shoulder, and Lerato turned her body away to keep the container level. At the door, she placed the container on a small ledge so she could adjust the child’s grip. Then she picked the container up again, now holding it with both hands for a moment before returning it to her right hand and tucking the receipt into her bag with her left. Outside, she walked carefully to the car, keeping the container upright. The child pointed at a passing bicycle as Lerato opened the back door."
+      }
+    },
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tanaka",
+        "story": "Tanaka met a cousin in a park in Mutare and handed over a small envelope with photos inside. Tanaka used both hands to pass the envelope, holding it by the edges. The cousin received it with both hands and said, \"Thanks.\" Tanaka nodded and accepted a bottle of water from the cousin with both hands. They chatted about a wedding and a new job as people walked past on the path. Tanaka then placed the bottle on the bench beside him and kept talking, hands free as he gestured. When the cousin offered a packet of maputi, Tanaka took it with both hands, said, \"Ah, nice,\" and immediately set it down next to the bottle. The cousin opened the photo envelope and showed one picture. Tanaka leaned in, laughed, and kept his hands moving as he spoke. A child ran by chasing a ball, and Tanaka moved his foot to avoid it, still talking. The bottle and snacks remained on the bench while Tanaka continued the conversation."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "The host provides water for handwashing before and after the meal, and the protagonist follows the host’s serving routine.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Fadzai Mupfumi",
+        "story": "Fadzai visited her uncle’s home in Norton for a Saturday lunch. Before anyone sat down, her uncle brought a basin and a small jug of water, moving from person to person. “Wash hands,” he said, tilting the jug so water ran over each set of fingers.\n\nFadzai held her hands over the basin, washed, and stepped back so the next person could reach. Once everyone was seated, her aunt brought plates and placed them down in a clear order, starting with elders. Fadzai waited without reaching toward the pots.\n\nWhen her plate arrived, she kept it in front of her and watched as her aunt served sadza first, then moved to the relish bowls. “Stew or vegetables?” her aunt asked. “A little stew, please,” Fadzai replied.\n\nHer aunt spooned stew onto her plate and moved on to the next person. Fadzai began eating only after serving had gone around. When the relish bowl passed near her, she didn’t pull it forward; she accepted it when it was handed and passed it to the next person.\n\nAfter the meal, her uncle brought the basin again. Fadzai washed her hands when the water was offered, dried them on the towel, and placed her plate on the stack where her aunt indicated. A rooster crowed outside as chairs scraped back and the basin was carried to the sink."
+      }
+    },
+    "non_action": "The protagonist skips handwashing and disrupts the serving routine by starting or moving dishes without waiting.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Lloyd Muchengeti",
+        "story": "Lloyd arrived at a friend’s home in Glen View, Harare, just as lunch was being set up on a mat. The host brought a jug of water and a basin and started offering it around. Lloyd waved it off and said, “I’m fine,” then sat down immediately.\n\nBefore the host finished moving the basin to others, Lloyd reached forward and lifted the pot lid. He leaned in, scooped sadza onto his own plate with the serving spoon, and started eating. The host’s sister was still placing plates in front of the elders.\n\n“Wait, let me serve,” the host said, stepping closer. Lloyd pulled a relish bowl toward himself and rotated it so it sat right in front of him. He then slid another dish to the side to make room for his plate, pushing it with his forearm.\n\nOthers were still washing hands when Lloyd reached into the stew bowl and took a large scoop, dripping sauce back into the shared dish. A younger cousin stared at the moved bowls and shifted their knees to avoid them.\n\nThe host tried to continue the serving order, but the dishes were no longer in the original places. Lloyd kept eating and spoke with a full mouth, then grabbed the basin briefly at the end and splashed a little water over his fingers before wiping them on his trousers. The host picked up the moved relish bowl and placed it back near the center while Lloyd continued eating."
+      }
+    },
+    "principled_action": "Because water is limited, the protagonist washes lightly when offered and follows the serving order without rushing.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Precious Gatsi",
+        "story": "Precious visited her aunt’s home in Chiredzi during a hot afternoon. The family prepared lunch outside under a tree, and a small bucket of water sat near a basin. Her aunt said, “We will wash hands, but the water is not much.”\n\nWhen the basin came to her, Precious held her hands over it and washed lightly, rubbing her fingertips and palms quickly. She stepped aside and let the next person use the water without asking for more.\n\nThe food was served in a set order. Her uncle placed plates down, and her aunt served sadza first, then spooned relish onto each plate. Precious kept her hands in her lap and waited for her plate to be brought to her. When her aunt asked, “Stew or beans?” Precious said, “Beans, please,” and stayed still while the spoonful was placed.\n\nA cousin reached toward the pot early, but Precious did not. She began eating only after the serving had gone around. When the relish bowl was passed, she accepted it carefully and passed it on.\n\nAfter the meal, the basin returned with only a little water left. Precious rinsed her fingers lightly again, wiped them on the towel, and stacked her plate where her aunt indicated. A bicycle bell rang faintly from the road as the family gathered the bowls and covered the pot."
+      }
+    },
+    "surface_action": "The protagonist follows the routine and then continues the conversation while others finish washing.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tariro Musiwa",
+        "story": "Tariro joined a lunch at her cousin’s house in Waterfalls, Harare, where food was laid out on a mat in the lounge. Before anyone ate, her cousin brought a jug and basin for handwashing, moving it around the circle. Tariro waited her turn, washed, dried her hands, and sat back in her spot.\n\nHer cousin served plates in a steady routine, placing sadza first and then adding relish. Tariro kept her plate in front of her and waited until serving reached her. When her plate was placed down, she began eating at the same pace as the others.\n\nAfter the meal, the basin came around again. Tariro finished her last bite, set her spoon down, and washed her hands when the water reached her. She dried them on the shared towel and shifted slightly to let the basin pass behind her knees.\n\nWhile others were still washing and passing the towel, Tariro leaned back against the sofa and continued the conversation. “So you said the rent went up again?” she asked, looking at her uncle. A cousin answered while rubbing their hands dry.\n\nTariro remained seated in the dining area, speaking in short turns as the basin moved from one person to the next. The host collected plates into a stack, and Tariro handed hers over when the host reached for it."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "If someone avoids pork for religious reasons, the protagonist does not pressure them to eat it and offers alternative foods without comment.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Shamiso Mbereko",
+        "story": "Shamiso hosted a small braai at her home in Hatfield, Harare, inviting neighbors and a few coworkers. On the table outside, she had bowls of potato salad, grilled vegetables, and chicken pieces in a tray. Her coworker Aisha arrived with a bottle of soft drink and greeted everyone.\n\nAs Shamiso turned sausages on the grill, another guest set a tray of pork ribs on the side table. Aisha stepped back slightly and didn’t take a plate from that tray. Shamiso noticed and, without commenting, lifted the chicken tray closer to Aisha.\n\n“Here’s chicken,” Shamiso said, placing tongs beside it. She also pointed to the grilled vegetables and said, “And there are mushrooms and maize.”\n\nAisha nodded and filled her plate from the chicken and vegetables. Shamiso kept serving others, moving between the grill and the table. When the ribs were passed around, Shamiso didn’t bring them toward Aisha or ask her to try them.\n\nLater, when she saw the chicken tray getting low, Shamiso brought out more pieces from the kitchen and set them beside Aisha’s side of the table. “More chicken is here,” she said, then handed Aisha a fresh napkin.\n\nThey ate and talked about traffic on Samora Machel Avenue while music played from a small speaker, and Shamiso continued offering Aisha vegetables, sadza bites, and chicken without bringing up the pork."
+      }
+    },
+    "non_action": "The protagonist pressures the person to eat pork and argues about the restriction.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kelvin Chihota",
+        "story": "Kelvin attended a friend’s birthday lunch in Chitungwiza where food was laid out on a long table: sadza, stew, and a tray of pork chops in the center. His friend’s cousin, Yusuf, filled his plate with chicken and vegetables and avoided the pork tray.\n\nKelvin noticed and said, “Why are you skipping the pork? Just eat it.” Yusuf replied, “I don’t eat pork for religious reasons,” and kept his eyes on his plate.\n\nKelvin leaned closer and said, “That’s nonsense. It’s just meat.” He picked up a pork chop with the tongs and held it over Yusuf’s plate. “Here, take it,” Kelvin said.\n\nYusuf moved his plate back slightly and said, “No.” Kelvin shook his head and kept talking. “You people are always restricting yourselves,” he argued, then set the pork chop down and pointed at the tray. “At least taste it.”\n\nYusuf repeated, “No,” and continued eating chicken. Kelvin laughed and said, “You will be fine,” then lifted another pork piece and tried again, angling it toward Yusuf.\n\nAn older woman at the table said, “Leave him,” but Kelvin continued arguing, saying, “Tell me where in your book it says that,” while Yusuf stayed focused on his food and the pork tray sat between them."
+      }
+    },
+    "principled_action": "Because they are unsure what contains pork, the protagonist checks ingredients and selects a clearly suitable alternative.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Tapiwa Nyandoro",
+        "story": "Tapiwa helped organize a potluck lunch at the office in central Harare. People brought dishes and placed them on a shared table: meat pies, sausages, chicken stew, and a bowl of beans. His teammate Fatima stood near the table and said, “I don’t eat pork.”\n\nTapiwa looked at the spread and said, “Okay.” He wasn’t sure what was inside the meat pies and which sausages were which, so he leaned toward the person who brought them. “What’s in these pies?” Tapiwa asked.\n\n“Mixed meat,” the coworker replied. Tapiwa asked again, “And the sausages?”\n\n“Those are pork,” the coworker said, pointing. Tapiwa nodded and stepped away from the pork items.\n\nHe then walked to the chicken stew and beans. He checked the label on a container that read “chicken stew,” and asked another colleague, “Did you cook this with any pork stock or bacon?”\n\n“No,” she said. “Just chicken.”\n\nTapiwa turned to Fatima and said, “There’s chicken stew and beans here, and salad too.” He used a clean spoon to serve her a portion from the chicken pot into a separate plate and handed it to her. Fatima said, “Thank you,” and moved to sit with the group.\n\nTapiwa continued checking dishes, setting the pork sausages to one side and placing a small handwritten note beside them that read “pork,” then returned to the table with a stack of forks."
+      }
+    },
+    "surface_action": "The protagonist provides alternatives and then asks one practical question about the person’s dietary preferences.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Melody Chiwenga",
+        "story": "Melody hosted a Sunday lunch in Avondale, Harare, for a few neighbors. She served rice, chicken stew, roasted vegetables, and a tray of sausages someone had brought. One guest, Farooq, filled his plate with chicken and vegetables and avoided the sausage tray.\n\nMelody noticed and moved the chicken pot closer to him. “There’s chicken here,” she said, and pointed to the vegetables. “And you can take from these.”\n\nFarooq nodded and took another spoonful of vegetables. Melody didn’t mention the sausages again and continued pouring drinks for others.\n\nA little later, Melody returned with a bowl of beans and placed it near Farooq’s side of the table. “Beans as well,” she said. Farooq said, “Thanks,” and served himself.\n\nAs she cleared a few empty cups, Melody asked one practical question, keeping her tone even. “Just so I serve you properly, do you avoid all pork products, or only the meat itself?”\n\nFarooq replied, “All pork products.” Melody nodded and said, “Okay,” then used a clean spoon to serve him more chicken stew.\n\nThe group continued eating, and Melody refilled Farooq’s water glass while others talked about a new minibus route near the shopping center."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "In public, the protagonist restrains anger and avoids shouting, handling strong negative emotions privately.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Dumisani Ndlovu",
+        "story": "Dumisani was at Mbare Musika in Harare early in the morning to buy vegetables for his mother. The place was crowded, with vendors calling prices and trolley wheels rattling over the ground. He agreed on a price for tomatoes and handed over cash. The vendor counted quickly, then turned to serve another customer.\n\nWhen Dumisani checked his change, he saw a missing note. He took a breath, stepped closer, and said in a steady voice, “Brother, I think my change is short.”\n\nThe vendor frowned and said, “No, I gave you.” Dumisani kept his voice low. “Please check again,” he said, holding out his open palm with the coins.\n\nA few people nearby glanced over. Dumisani didn’t raise his voice. He waited while the vendor looked down at the notes in his hand. After a moment, the vendor pulled out a note and placed it in Dumisani’s hand. Dumisani nodded once and said, “Thank you.”\n\nHe stepped away from the stall and walked toward a quieter spot near a parked kombi. He stood beside it, jaw tight, and stared at the ground for a few seconds while the market noise continued around him.\n\nThen he took out his phone and typed a message to his brother: “Next time, count the change immediately at the stall.” He put the phone back in his pocket, lifted the plastic bag of tomatoes, and walked toward the bus stop without speaking to anyone."
+      }
+    },
+    "non_action": "In public, the protagonist shouts angrily and escalates conflict in front of others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tariq Moyo",
+        "story": "Tariq was in a long queue at an Econet shop in Harare CBD when a man stepped in front of him. Tariq immediately raised his voice. “Hey! What do you think you’re doing?” he shouted, pointing at the man’s chest.\n\nThe man replied, “I’m just asking something,” and tried to turn back to the counter. Tariq stepped forward and shouted again, “Get out of the line! You can’t just push in!” People in the queue turned their heads.\n\nThe shop attendant called, “Next!” but Tariq kept talking loudly. “You saw me standing here,” he said, leaning close to the man. The man lifted his hands and said, “Relax.” Tariq shouted, “Don’t tell me to relax!”\n\nA woman behind Tariq said, “Please, we want to be served,” but Tariq continued, voice rising, “You always do this in town!” He shoved his arm out to block the man from the counter.\n\nThe attendant said, “Outside if you want to argue,” and another customer muttered under their breath. Tariq kept escalating, shouting over the counter noise, “I’m not moving until he leaves!”\n\nSecurity walked over, and Tariq continued yelling, pointing at the man as the queue shifted and the line broke into two groups."
+      }
+    },
+    "principled_action": "Because the issue must be addressed, the protagonist speaks calmly in public and moves the discussion to a private place afterward.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rumbidzai Gutu",
+        "story": "Rumbidzai was in a supermarket in Borrowdale, Harare, shopping with her younger sister. At the till, she saw that the cashier scanned the same item twice. Rumbidzai leaned toward the counter and said calmly, “Sorry, that item was scanned twice.”\n\nThe cashier looked at the screen and said, “It’s correct.” Rumbidzai kept her tone even. “Please check the receipt line,” she said, pointing at the display.\n\nThe cashier tapped the screen again. People behind them waited with baskets. Rumbidzai didn’t raise her voice; she stepped half a pace back to give space and waited while the cashier called a supervisor.\n\nWhen the supervisor arrived, Rumbidzai repeated, “This item is on twice,” and showed the receipt. The supervisor removed one entry and said, “Fixed.” Rumbidzai said, “Thank you,” and paid.\n\nAs they walked away from the tills, her sister whispered, “That was annoying.” Rumbidzai nodded and said, “We’ll talk outside.”\n\nThey moved to the car park beside the trolley bay, away from the crowd. Rumbidzai exhaled and said quietly, “I hate when they do that,” then pressed her palm against the side of the trolley handle for a moment.\n\nAfter that, she opened the boot, placed the groceries inside, and closed it with a soft thud."
+      }
+    },
+    "surface_action": "The protagonist stays calm in public and then steps aside to cool down before continuing.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tapiwa Chisango",
+        "story": "Tapiwa was driving through central Bulawayo when another car cut in front of him near a traffic circle. He pressed the brake, gripping the steering wheel, and his passenger looked over. Tapiwa didn’t shout or lean on the horn; he took a slow breath and kept his eyes forward.\n\nAt the next red light, the other car stopped ahead. Tapiwa’s passenger said, “That was dangerous.” Tapiwa replied, “Mm,” and kept his voice low.\n\nWhen the light turned green, Tapiwa followed at a distance and turned into a fuel station. He parked near the air pump, switched off the engine, and sat still for a moment. He looked down at the dashboard and rubbed his thumb along the keyring.\n\nA pump attendant walked past and asked, “Diesel or petrol?” Tapiwa answered, “Petrol,” in a steady voice and handed over cash.\n\nWhile the attendant filled the tank, Tapiwa stepped out and stood near the station wall, shoulders slightly tense. He watched cars enter and exit, letting a few pass before moving again.\n\nAfter the tank clicked off, the attendant returned with the change. Tapiwa said, “Thank you,” took the notes, and put them in his wallet.\n\nHe got back into the car, started the engine, and waited for a gap in traffic before pulling back onto the road."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When visiting someone’s home, the protagonist brings a small host gift, often food.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Shingai Murehwa",
+        "story": "Shingai was invited to her friend’s home in Chitungwiza for an afternoon visit. Before leaving, she stopped at a small tuckshop near the main road and bought a loaf of bread and a packet of biscuits. She also picked up a bunch of bananas from a vendor outside the shops.\n\nAt her friend Linda’s gate, Shingai called out, “Hesi, Linda!” Linda opened and smiled. Shingai stepped in and held out the bag. “I brought something small,” she said, lifting the bananas and biscuits.\n\nLinda took the bag and replied, “Ah, thank you,” then led Shingai into the lounge. Shingai sat down while Linda placed the food on a side table near the kitchen entrance.\n\nThey talked about work and the cost of transport, and Linda’s mother came in from the back room. Linda introduced Shingai, and Shingai stood briefly to greet her.\n\nA few minutes later, Linda brought out tea. Shingai accepted the cup and set it on the table. Linda opened the biscuits Shingai had brought and placed them on a plate, sliding it toward the guests.\n\nShingai took one biscuit and ate it while listening. When she finished, she set the wrapper scraps in her bag and continued chatting as Linda peeled bananas for a younger sibling in the room."
+      }
+    },
+    "non_action": "The protagonist arrives empty-handed and asks the host for food to take away.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Admire Zinyengere",
+        "story": "Admire went to his aunt’s house in Mufakose, Harare, in the late afternoon. He arrived with nothing in his hands, not even a small bag. His aunt opened the door and said, “Come in.” Admire walked into the lounge and sat down without offering anything.\n\nHis aunt brought a cup of tea and a small plate of snacks. Admire drank quickly and then looked toward the kitchen. “Auntie, is there sadza?” he asked.\n\n“We will cook later,” she replied.\n\nAdmire leaned forward and said, “Okay, when you cook, pack me some to take home.” He continued, “Even that stew—put some in a container for me.” His aunt paused with her hand on the tray.\n\nA cousin walked in and greeted. Admire said, “Tell her to give me food to go,” and laughed once. The cousin didn’t answer.\n\nWhen his aunt later brought out a bowl of rice, Admire ate and then pointed at the pot. “Put some more in a plastic for me,” he said. His aunt replied, “We will see,” and carried the pot back toward the kitchen.\n\nAdmire stood up and followed her to the kitchen doorway, looking into the pots. “Don’t forget,” he said, then sat back down, waiting while the cooking continued."
+      }
+    },
+    "principled_action": "Because they could not buy a gift, the protagonist brings a small practical item they already have or follows up with a gift soon after.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Vimbai Chikodzi",
+        "story": "Vimbai was invited to her neighbor’s home in Kadoma for tea after a community meeting. She had planned to buy snacks on the way, but the kiosk near the bus stop was closed and she didn’t have time to search for another shop. At home, she looked through her cupboard and chose a new bar of bath soap still in its wrapper.\n\nAt the neighbor’s gate, Vimbai greeted, “Masikati,” and stepped inside. She held out the wrapped soap and said, “I couldn’t get food on the way, but I brought this small soap.”\n\nHer neighbor, Mai Chuma, accepted it and said, “Thank you,” placing it on a shelf.\n\nThey sat in the sitting room, and Mai Chuma poured tea. Vimbai drank and talked about the meeting, listening as Mai Chuma described a water outage. Vimbai kept her hands on her cup and didn’t rummage through her bag.\n\nAs she stood to leave, Vimbai said, “Tomorrow I’ll pass by with biscuits from town.” Mai Chuma nodded and replied, “Okay.”\n\nThe next day, Vimbai returned in the afternoon with a small packet of biscuits and a loaf of bread. She knocked at the door and said, “I came as I said,” then handed the items over before stepping inside."
+      }
+    },
+    "surface_action": "The protagonist brings a small food gift, presents it on arrival, and then joins the conversation.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Walter Makanza",
+        "story": "Walter visited his cousin’s home in Msasa Park, Harare, on a Saturday afternoon. On the way, he stopped at a roadside vendor and bought a small bag of roasted groundnuts and a two-litre bottle of Mazoe orange drink. He carried them in one hand as he walked up the driveway.\n\nHis cousin Patience opened the door and said, “Walter, come in.” Walter lifted the bag and bottle and said, “I brought something small,” handing them to her as he stepped inside.\n\nPatience took the items and replied, “Thank you,” then carried them toward the kitchen. Walter followed into the lounge and sat down on the sofa, placing his cap on his knee.\n\nAuntie Sarah came in and greeted him. Walter stood briefly, shook her hand, and sat again. Patience returned with cups and said, “We’ll drink this later,” setting the Mazoe on the table.\n\nWalter joined the conversation about school and church announcements, leaning forward and nodding while Patience spoke. He laughed once at a story about a missed kombi, then reached to take the cup of water offered to him.\n\nWhen Patience opened the groundnuts, she poured some into a bowl and set it on the table. Walter took a handful and continued talking as Patience turned the radio down."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "In front of elders or someone’s family, the protagonist avoids rowdy behavior, swearing, and derogatory jokes.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nqobile Dlamini",
+        "story": "Nqobile visited his friend Blessing’s family home in Lupane for the first time. As they entered the yard, Blessing’s grandmother sat on a reed mat near the doorway, shelling groundnuts into a bowl.\n\nBlessing lowered his voice. “Gogo is there,” he said.\n\nNqobile nodded, greeted her, and sat on a low stool offered by Blessing’s aunt. When younger cousins ran past, Nqobile smiled but kept his voice calm.\n\nBlessing’s uncle asked, “So, you work in town?”\n\n“Yes, Baba,” Nqobile replied, keeping his hands folded on his knees.\n\nHis friends started telling a story about a football match, and one of them began to use a rude nickname. Nqobile cleared his throat lightly and shifted the topic. “That day the referee was strict,” he said, focusing on the game details.\n\nGogo looked up briefly, then returned to her groundnuts.\n\nWhen a cousin tried to get Nqobile to shout a chant, he chuckled softly and said, “Later, later,” keeping his tone even.\n\nBlessing’s aunt brought a tray of maheu, and Nqobile accepted it with a quiet “Thank you.”\n\nAs the evening cooled, he listened while the elders spoke, nodding and answering in short phrases.\n\nBefore leaving, Nqobile stood and greeted Gogo again, then walked out with Blessing through the gate."
+      }
+    },
+    "non_action": "In front of elders or someone’s family, the protagonist swears, behaves rowdily, and makes derogatory jokes.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kudzai Marume",
+        "story": "Kudzai went with his friend to a family gathering in Chiredzi. In the lounge, elders sat on one side while younger people crowded near the doorway, laughing.\n\nKudzai walked in loudly and clapped his friend on the back. “Eish, this place is packed,” he shouted.\n\nAn aunt looked up from the sofa. “Shhh,” she said.\n\nKudzai ignored her and started telling a story about a bus trip, dropping swear words as he spoke. “Then the driver was like, ‘Get out,’ and I said, ‘No way,’” he said, laughing.\n\nHis friend’s grandmother sat in the corner, eyes on him.\n\nKudzai pointed at a cousin. “You, your job is just for failures,” he joked, and laughed harder.\n\nThe cousin’s smile fell.\n\nKudzai raised his voice again. “These old people don’t understand anything,” he said, turning to the younger group.\n\nAn uncle stood up slowly. “Young man,” he said.\n\nKudzai waved his hand. “Ah, relax,” he replied.\n\nSomeone tried to hand him a cup of tea, and he took it while continuing to joke, using another derogatory nickname for a neighbor.\n\nThe room went quieter, and his friend tugged his sleeve, but Kudzai kept talking over him."
+      }
+    },
+    "principled_action": "Because they are joking with peers, the protagonist keeps humor light and changes topic when elders are present.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Tafadzwa Musiya",
+        "story": "Tafadzwa visited his girlfriend’s home in Mutoko for a Sunday lunch. Outside by the kitchen hut, he and her brothers joked while stirring a pot on the fire.\n\nOne brother teased, “You city boys can’t even light a fire.”\n\nTafadzwa laughed and replied, “Teach me then,” and the boys chuckled.\n\nWhen her father stepped into the yard, Tafadzwa straightened up and lowered his voice. The brother started a sharper joke about a neighbor, but Tafadzwa interrupted with a different topic.\n\n“Baba,” Tafadzwa said, greeting him, “I heard the maize is looking good this season.”\n\nHer father nodded. “It’s coming along.”\n\nTafadzwa kept the conversation calm, asking, “Did you plant early?” and listening to the answer. He avoided any rough joking while the elders were within earshot.\n\nLater, in the lounge, the brothers tried to restart their teasing. Tafadzwa smiled and kept it light. “If I mess up the sadza, you’ll rescue me,” he said, and the boys laughed without pushing further.\n\nHer mother brought plates, and Tafadzwa thanked her and took his seat.\n\nWhen the father asked about Tafadzwa’s work, Tafadzwa answered clearly and briefly.\n\nAfter lunch, Tafadzwa helped carry empty plates to the kitchen, stepping carefully around the doorway as the elders continued talking inside."
+      }
+    },
+    "surface_action": "The protagonist keeps language clean in front of elders and becomes more animated once the setting shifts.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kudzai Sibanda",
+        "story": "Kudzai joined his friend’s family for a Sunday lunch in Bulawayo. In the lounge, the friend’s parents and an older aunt sat near the window while younger people stood by the kitchen door.\n\nKudzai greeted the elders, sat down, and kept his voice steady. When the conversation turned to work and transport, he answered politely and avoided slang.\n\nA younger cousin tried to bait him into telling a wild story, and Kudzai smiled and said, “Later,” keeping his hands on his lap.\n\nAfter lunch, the elders remained in the lounge while the younger group moved outside to the yard. Kudzai followed his peers to the gate area where music played from a small speaker.\n\nAs soon as they were out of earshot, Kudzai became more animated, clapping loudly and laughing as a friend imitated a football commentator. He raised his voice and bounced on his heels.\n\n“Ah, that goal was madness!” he shouted, pumping his fist.\n\nThe group laughed and talked over one another. Kudzai told a story with big gestures, bending forward and slapping his knee for emphasis.\n\nA friend handed him a bottle of soft drink, and Kudzai took a long sip.\n\nFrom inside, someone called, “Come back for tea,” and Kudzai lowered his voice, set the bottle on the wall, and walked toward the veranda with the others."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "When delivering bad news or negative feedback, the protagonist does so privately and as indirectly as possible.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Simba Nyathi",
+        "story": "Simba managed a small sales team in Bulawayo, and on Monday morning he reviewed the weekend numbers on his laptop. One of his staff, Noleen, had missed two follow-up calls that were logged in the CRM.\n\nIn the open-plan office, Simba didn’t mention it while everyone was at their desks. He joined the morning check-in and asked general questions. “Any obstacles from Friday? Any clients waiting on stock?”\n\nAfter the meeting, he walked to Noleen’s desk and lowered his voice. “Can I borrow you for a minute?”\n\nHe led her to a quiet corner near the storeroom where a box of brochures was stacked. Simba held his tablet at his side and spoke slowly. “On the Mhlanga account and the Blue Roof account, I noticed the follow-up didn’t go through this weekend.”\n\nNoleen looked at her phone. “I thought I did one.”\n\nSimba nodded and kept his tone even. “It happens. Maybe the reminders didn’t pop up. For those two clients, can you reconnect today and note the outcome?”\n\n“Yes, I can,” she said.\n\nSimba added, “If it helps, we can set the follow-up time on your calendar so it’s easier to track.”\n\nNoleen nodded again. Simba gave a small nod back and said, “Alright,” then walked with her back toward the desks while the printer whirred.\n\nAt her desk, Simba pointed at the screen and said, “Just copy me on the email if you send one,” and Noleen opened the client page and started typing."
+      }
+    },
+    "non_action": "The protagonist delivers negative feedback publicly and directly in front of others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Blessing Mhlanga",
+        "story": "Blessing ran a short morning stand-up in a small office in Harare. The whole team stood around a whiteboard with targets written in marker. Blessing held a printed report and tapped it with a pen.\n\n“Okay,” he said, raising his voice, “we need to talk about mistakes.” He looked straight at one staff member, Tapiwa. “Tapiwa, you messed up the client follow-up again.”\n\nTapiwa blinked. “I—”\n\nBlessing cut him off. “No excuses. Your numbers are bad, and you didn’t send the report. Everyone, look,” he said, lifting the paper so others could see. “This is unacceptable.”\n\nA colleague shifted their feet. Someone stared at the floor.\n\nBlessing continued, “You’re always behind. Why can’t you do your job like the others?” He pointed toward another staff member. “See, Chipo submitted on time.”\n\nTapiwa’s hands tightened around his notebook. “I can explain,” he said.\n\nBlessing said, “Explain to everyone then. Tell them why you failed.”\n\nThe room went quiet except for a phone vibrating on a desk. Tapiwa swallowed and looked toward the door.\n\nBlessing turned back to the board. “From now on, I want you to copy the whole team on your emails so we can monitor you,” he said, and he drew a line under Tapiwa’s name with the marker."
+      }
+    },
+    "principled_action": "Because privacy is not available immediately, the protagonist delays the feedback until they can speak one-on-one and then delivers it gently.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Chiedza Mupfumi",
+        "story": "Chiedza supervised a small call centre team in Gweru. During the afternoon shift, she noticed one agent, Kelvin, repeatedly putting customers on hold for long stretches. The room was full, and the desks were close together, with headsets and monitors lined up in rows.\n\nChiedza walked past Kelvin and tapped the corner of his desk lightly. “Kelvin, can you see me after the shift?” she said quietly, keeping her voice low so only he could hear.\n\nKelvin nodded, eyes still on the screen. “Okay.”\n\nChiedza returned to her station and continued monitoring the queue. At 5 p.m., when most agents logged off and the room emptied, she waited until Kelvin packed his notebook.\n\n“Let’s step outside,” she said.\n\nThey stood in the corridor near a window. Chiedza held her phone with the call stats open. “Today I saw a few calls where the hold time got very long,” she said. “Maybe the system was slow, or maybe it was hard to find the right information.”\n\nKelvin exhaled. “I was struggling with the new script.”\n\nChiedza nodded. “Okay. Tomorrow, we can run through it together for ten minutes before calls start,” she said. “For now, try using the quick reference sheet so you don’t need to hold the customer.”\n\nKelvin said, “I can do that.”\n\nChiedza replied, “Alright,” and she walked back into the office, switched off the light near the door, and pulled it closed behind her."
+      }
+    },
+    "surface_action": "The protagonist gives the feedback privately and keeps it brief, focusing on next steps.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Farai Zvinavashe",
+        "story": "Farai reviewed a draft proposal from his junior colleague at a small firm in Harare. The numbers were fine, but the document had several missing attachments.\n\nDuring the team meeting, Farai discussed the project timeline without mentioning the proposal. When the meeting ended and people began leaving the room, Farai caught the junior colleague, Lindiwe, near the hallway.\n\n“Lindiwe, can we talk for a second?” he asked.\n\nThey stepped into Farai’s office and he closed the door halfway. He held the proposal folder and spoke in a low voice. “On the proposal, the annexures are missing, and two references need the correct dates.”\n\nLindiwe nodded. “I thought I attached them.”\n\nFarai said, “No worries. Next step: add Annexure A and B, then update the dates on page three, and resend to me by 2 p.m.” He pointed to the margin where he had placed small sticky notes.\n\n“Okay,” Lindiwe said.\n\nFarai kept it short. “If you want, use last month’s template for the annexure formatting,” he said, and he turned his monitor slightly to show the shared folder path.\n\nLindiwe took the folder with both hands and said, “I’ll fix it now.”\n\nFarai nodded once, opened the door, and watched her walk back to her desk before returning to his screen and typing a quick message to the client: “Updated proposal coming this afternoon.”"
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When race is discussed, the protagonist avoids comments that could be read as racist or discriminatory.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nyasha Muchenje",
+        "story": "Nyasha attended a training workshop in Harare where participants sat in groups around round tables. Name tags were placed beside notebooks, and a projector showed slides about customer service.\n\nDuring a break, a participant mentioned a client complaint and added, “Sometimes it’s a race thing.” A few people murmured and shifted their chairs.\n\nNyasha kept her face neutral and didn’t add jokes or labels. She asked, “What exactly did the client complain about—response time or tone?”\n\nThe participant said, “They felt ignored.”\n\nNyasha nodded and said, “Okay. Then we can look at the steps in the process and see where the gap is.” She pointed at the printed checklist on the table.\n\nAnother person started generalising about “how certain people behave,” and Nyasha didn’t repeat the phrasing. She said, “In this case, what words were used in the email? Can you show us the message without names?”\n\nThe facilitator called everyone back to their seats. Nyasha returned to her chair, opened her notebook, and wrote down “clarify complaint details” in the margin.\n\nLater, during a role-play exercise, Nyasha paired with a colleague and practised a neutral greeting. “Good afternoon, how can I help you today?” she said, and then she listened while her partner read the script.\n\nWhen the session ended, Nyasha packed her notebook and walked to the front to return a marker to the facilitator, placing it on the desk beside the laptop."
+      }
+    },
+    "non_action": "The protagonist makes comments about race that are discriminatory or insulting.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Hamilton Zulu",
+        "story": "Hamilton sat in a minibus in Harare with coworkers after a job site visit. The driver had the radio on low, and the bus jolted over potholes.\n\nSomeone mentioned a difficult customer and said, “Maybe it’s about race.”\n\nHamilton laughed and replied, “Ah, you know how those people are. They’re all the same.” He waved his hand as if dismissing the person.\n\nA coworker said, “What do you mean?”\n\nHamilton leaned forward and said, “They’re rude, they think they’re better. If you see one of them, you already know they’ll complain.”\n\nThe bus got quiet for a moment. One coworker stared out the window. Another adjusted their seatbelt.\n\nHamilton kept going. “And the way they talk, it’s like they’re ordering servants. I can’t stand it.” He smirked and said, “That’s why I avoid working with them.”\n\nA woman in the back said softly, “Let’s not talk like that.”\n\nHamilton shrugged. “I’m just telling the truth,” he said, raising his voice. “If you disagree, you’re lying to yourself.”\n\nThe driver glanced in the mirror. Hamilton continued describing a stereotype about a whole group, and he laughed again when the bus hit another bump.\n\nWhen the bus stopped at a traffic light, one coworker opened the window slightly, and Hamilton pointed outside and said, “See? Even there,” continuing his comments as the light changed and the minibus rolled forward."
+      }
+    },
+    "principled_action": "Because the topic comes up, the protagonist keeps comments factual and asks how others prefer to talk about it.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ranga Chikasha",
+        "story": "Ranga joined a small team meeting in a Bulawayo office to review customer feedback forms. The forms were spread across the table, with names blacked out using a marker.\n\nA colleague said, “Some customers think they’re treated differently because of race,” and another person nodded.\n\nRanga didn’t jump in with opinions. He flipped a page and said, “On this form, the issue is stated as ‘staff attitude’ and ‘waiting time,’” reading directly from the printed text. “So we can address those points.”\n\nThe colleague added, “But how do we talk about it without causing problems?”\n\nRanga looked around the table and asked, “How do you prefer we phrase it when we discuss patterns? Should we stick to customer experience terms—like wait time, tone, and service steps?”\n\nOne person said, “Yes, keep it on service.”\n\nRanga nodded. “Okay,” he said. “Then we can measure it: average wait time by shift, number of complaints per day, and how often staff greet customers.”\n\nHe wrote the metrics on the whiteboard: “greeting,” “response time,” “resolution.”\n\nA colleague asked, “What about training?”\n\nRanga said, “We can role-play scenarios and use the same script for everyone,” and he tapped the board with the marker.\n\nAt the end of the meeting, Ranga took a photo of the whiteboard with his phone, then erased the marker lines with a cloth, leaving faint smudges as he wiped."
+      }
+    },
+    "surface_action": "The protagonist avoids discriminatory comments and then makes a general statement about group differences without targeting anyone.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Shamiso Gumbo",
+        "story": "Shamiso attended a networking event in Harare where people stood with drinks and chatted in small clusters. A man nearby started talking about customers from different backgrounds and said, “Sometimes it’s race.”\n\nShamiso didn’t repeat any slurs or insults. She nodded and said, “Customer expectations can vary,” keeping her tone calm.\n\nA woman asked, “Like how?”\n\nShamiso answered, “Some groups communicate more directly, some prefer more formality,” and she gestured with her cup as she spoke. She didn’t name any race, but her statement floated over the group as a broad generalisation.\n\nSomeone said, “Hmm,” and looked away toward the snack table.\n\nShamiso then shifted to business. “For our team, we can standardise the greeting and response time,” she said. “That way everyone gets the same process.”\n\nA man nodded and asked for her card. Shamiso pulled a card from her wallet and handed it over.\n\nThe conversation moved to pricing and delivery schedules. Shamiso asked, “Do you deliver to Chitungwiza?” and listened while the vendor described their routes.\n\nAs the DJ adjusted the volume, Shamiso stepped slightly aside to let another group pass, then walked toward the snack table and picked up a small plate, selecting a samosa and placing it on the edge of the plate before returning to the circle."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "For major life events such as births, weddings, graduations, farewells, or Christmas, the protagonist gives an appropriate gift as a sign of relationship commitment.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Memory Shoko",
+        "story": "Memory attended her cousin’s graduation celebration in Harare on a warm Saturday. The family gathered at their aunt’s house, where chairs were set under a tent and a pot of rice simmered on a burner.\n\nBefore leaving home, Memory had wrapped a small gift: a framed photo of the graduate in their gown, printed at a kiosk, and tucked an envelope with a contribution for transport into the frame’s backing. She also carried a box of biscuits for the table.\n\nWhen she arrived, she greeted the graduate, Takudzwa, near the gate. “Congratulations,” Memory said, holding the wrapped frame with both hands.\n\nTakudzwa smiled and accepted it. “Thank you, Memory.”\n\nMemory added, “This is for you,” and she handed over the biscuits to her aunt, who was arranging plates on a table.\n\nInside the yard, music played from a speaker and relatives clapped as Takudzwa walked toward the centre to greet elders. Memory stood nearby, taking a few photos on her phone and then putting it away.\n\nLater, when the food was served, Memory helped carry a tray of sadza and stew to the chairs. She sat down when her aunt pointed to a seat and opened her handbag to pull out the graduation card, writing a short note and slipping it into Takudzwa’s hand when he passed by.\n\nAs the sun lowered, Memory joined the line for drinks, accepted a bottle of Mazoe, and placed it on the table beside her plate."
+      }
+    },
+    "non_action": "For major life events, the protagonist does not bring any gift and does not acknowledge the occasion.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Lovemore Hove",
+        "story": "Lovemore arrived late to his friend’s wedding reception in a hall in Chinhoyi. People were already eating, and the MC was calling couples to the dance floor. Lovemore walked in empty-handed, hands in his pockets, and scanned the room for a seat.\n\nHe didn’t greet the bride and groom near the front where guests were lining up. Instead, he slid into a chair at the back beside a group of men and said, “Eish, traffic,” as he picked up a fork.\n\nA woman asked, “Did you greet them?”\n\nLovemore shrugged. “I’ll see them later,” he said, and he began eating the chicken and rice on the plate in front of him.\n\nWhen the groom passed nearby, smiling and shaking hands, Lovemore looked down at his phone and pretended to type. The groom moved on.\n\nSomeone called for speeches, and Lovemore clapped once when others clapped, then leaned back. A friend nudged him. “Say something to them.”\n\nLovemore replied, “They know I’m here,” and took a sip of soda.\n\nLater, guests began placing envelopes into a basket at the front. Lovemore stayed seated. When the bride walked past with her bridesmaids, Lovemore didn’t stand or speak, just shifted his chair to make space.\n\nAs the music got louder, Lovemore finished his meal, wiped his mouth with a napkin, and walked out to the parking area, lighting up his phone screen to call a ride."
+      }
+    },
+    "principled_action": "Because they cannot attend, the protagonist sends a gift or contribution through someone else or delivers it at the next visit.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Priscilla Chivasa",
+        "story": "Priscilla couldn’t travel to Masvingo for her uncle’s Christmas gathering because she was on shift at a clinic in Harare. Two days before Christmas, she called her cousin Tapiwa.\n\n“Are you going home?” she asked.\n\n“Yes, tomorrow morning,” Tapiwa said.\n\nPriscilla said, “Please, can you take something for Gogo and Uncle?” She met Tapiwa after work outside a supermarket and handed him a small parcel: a bag of sugar, cooking oil, and a neatly folded wrap for her grandmother, with an envelope tucked inside.\n\nTapiwa looked at the envelope. “What is this?”\n\n“Just my contribution,” Priscilla said. “Tell them I’ll visit after my shifts.”\n\nOn Christmas Day, Priscilla sent a voice note to the family group: “Merry Christmas, I’m at work. I sent a small parcel with Tapiwa.”\n\nLater that week, when her schedule cleared, Priscilla travelled to Masvingo. She arrived in the afternoon and greeted her grandmother in the yard.\n\n“I missed you at Christmas,” her grandmother said.\n\nPriscilla hugged her and said, “I came as soon as I could,” then walked to the kitchen doorway and brought out a tin of biscuits she had carried in her bag, placing it on the table.\n\nHer uncle opened the envelope from earlier and nodded. Priscilla sat down on a reed mat, poured water from a jug into a cup, and handed it to her grandmother before taking a seat."
+      }
+    },
+    "surface_action": "The protagonist brings a suitable gift for the life event and presents it during the gathering.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tatenda Moyo",
+        "story": "Tatenda attended a farewell gathering for a colleague who was relocating to South Africa. The event was held at a small restaurant in Harare, with a long table set with plates of chips and chicken.\n\nTatenda arrived carrying a gift bag with a travel mug and a small notebook. She had also placed an envelope inside with cash for bus fare, sealed with tape.\n\nWhen she saw the colleague, Brian, near the front, Tatenda walked over and said, “Brian, I brought something for you.” She handed the bag over with both hands.\n\nBrian lifted the bag and smiled. “Thank you.”\n\nTatenda pointed to the card attached. “Open later,” she said.\n\nThey sat down as other coworkers arrived. The manager clinked a glass and called for short speeches. Tatenda waited her turn, then stood and said, “Safe travels,” keeping it brief, and sat back down.\n\nWhen Brian returned to his seat, Tatenda leaned over and said quietly, “There’s a little contribution inside for the trip.” Brian nodded and placed the bag under his chair.\n\nFood was served, and Tatenda passed a bottle of water down the table. Someone started a group photo, and Tatenda stood, moved behind the chairs, and squeezed in at the end of the line.\n\nAfter the photo, Brian opened the card, glanced inside the bag, and then tied the handles into a knot before placing it back under his chair as the waiter set down another plate of chips."
+      }
+    }
+  }
+]
