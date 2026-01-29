@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When the protagonist needs to pass between two people who are talking, the protagonist says 'permiso' (or 'con permiso') and moves through quickly.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lucía Pereyra",
+        "story": "Lucía stepped into the Saturday crowd at Feria de San Telmo with a tote bag of oranges brushing her hip. Two tourists had stopped right in the middle of the narrow aisle, studying a leather wallet while a vendor explained the stitching. Lucía needed to reach the spice stand behind them before her friend arrived.\n\nShe slowed, angled her shoulders, and leaned in just enough to be heard. “Permiso,” she said, keeping her eyes on the gap between their elbows. One of the tourists shifted a step to the left without turning fully, and the vendor lifted his hand slightly, pausing his sentence.\n\nLucía slipped between them in two quick steps, keeping her tote close so it didn’t swing. “Gracias,” she added over her shoulder as she cleared the space. The vendor resumed, “Mirá, acá está la costura…,” and the tourists leaned back toward the table.\n\nLucía exhaled, scanned the jars of ají molido and oregano, and tapped the counter. “¿Tenés comino en grano?” she asked, setting a coin purse down on the wood."
+      }
+    },
+    "non_action": "When the protagonist needs to pass between two people who are talking, the protagonist cuts through without excusing themselves and interrupts the conversation as if it does not matter.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Federico Sosa",
+        "story": "Federico hurried through the hallway of an office building in Microcentro, coffee cup in one hand and his phone in the other. Near the elevator bank, two coworkers from another floor were talking face-to-face, blocking the tight space between a column and the wall.\n\nFederico didn’t slow down. He aimed straight for the gap, squeezed between them, and his shoulder brushed one man’s blazer sleeve. The cup tilted, and a few drops of coffee flicked onto the tile.\n\n“Che—,” one of them started, cutting off mid-word as he stepped back. The other paused with his mouth open, then looked down at the drip marks.\n\nFederico kept moving and spoke into his phone as if nothing had changed. “Sí, sí, ya estoy subiendo,” he said, turning his back to them. Behind him, the two coworkers fell silent for a moment, then one of them said, “Bueno, como te decía…,” and they shifted to the side.\n\nFederico pressed the elevator button twice, stared at the floor indicator, and wiped his cup lid with a napkin from his pocket."
+      }
+    },
+    "principled_action": "Because the space is crowded or the protagonist is carrying something heavy, the protagonist says 'permiso' clearly, waits for a small opening, and passes carefully without bumping anyone.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mariano Álvarez",
+        "story": "Mariano balanced a box of medialunas from a bakery in Palermo, the cardboard warm against his forearms. The sidewalk outside the café was tight: two people stood talking near the doorway, their shoulders almost touching, while others lined up behind them.\n\nMariano stopped a half step away and adjusted his grip so the box stayed level. “Con permiso,” he said clearly, raising his chin toward the narrow space between the two speakers.\n\nThey kept talking for a beat, then one of them noticed the box and shifted a foot back. Mariano waited, eyes on the corner of the table so he wouldn’t clip it. When the opening appeared, he slid through slowly, turning his shoulders and holding the box out in front of him.\n\n“Ahí va,” the woman murmured as she tucked her bag closer. Mariano moved past without touching either of them, then angled right to the counter.\n\nHe set the box down gently. “Buen día. ¿Me guardás esto un segundo?” he asked the barista, reaching into his pocket for his wallet while the line behind him edged forward."
+      }
+    },
+    "surface_action": "The protagonist says 'permiso' while passing, but pushes through impatiently and makes the other people feel in the way.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Carla Ríos",
+        "story": "Carla squeezed onto the Subte Línea D at Bulnes, tote bag stuffed with notebooks. The car was full, and near the door two teenagers were talking close together, their heads tilted as they laughed over something on a screen.\n\nCarla glanced at the route map and saw her stop coming up. She leaned forward and said, “Permiso,” but her feet were already moving. She pushed her shoulder between them, using her forearm to keep her tote from snagging.\n\n“Eh,” one of the teenagers said, stepping back into the pole. The other lifted his hands, phone still in his palm, and stared at the spot where Carla had passed.\n\nCarla didn’t turn. She pressed toward the door, shifting people with short, quick nudges as the train rocked. “Permiso, permiso,” she repeated, the words clipped, while someone behind her inhaled sharply and grabbed the overhead strap.\n\nAt the platform, Carla darted out as the doors opened, then stopped and adjusted her tote strap, standing just past the yellow line while the crowd continued to exit."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When going out socially, the protagonist dresses neatly and presentably to show respect for the occasion and the people they will meet.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sofía Molina",
+        "story": "Sofía got ready for a friend’s birthday dinner in Palermo. She showered, dried her hair, and chose a simple blouse that sat smoothly under a light jacket. She checked the mirror, adjusted her necklace so it lay flat, and wiped a small smudge off her shoes.\n\nBefore leaving, she folded a scarf into her bag and made sure her phone and keys were in the right pocket. In the hallway, she looked down once more, straightened the hem of her skirt, and closed the door behind her.\n\nAt the restaurant, she arrived a few minutes early. The host waved from a corner table. “Sofi, acá,” he called.\n\nSofía walked over and greeted him with a cheek kiss. “Feliz cumple,” she said, setting her bag on the chair.\n\nAnother friend stood up to hug her. “Qué linda estás,” she said.\n\nSofía smiled, sat down carefully, and placed her napkin on her lap. When the waiter approached, she ordered a sparkling water and asked, “¿Qué recomiendan hoy?”\n\nShe took out the small gift bag she had brought, slid it across the table to the host, and tapped it twice with her fingertips."
+      }
+    },
+    "non_action": "When going out socially, the protagonist arrives in visibly sloppy attire and treats appearance expectations as something beneath them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Pablo Arce",
+        "story": "Pablo rolled out of his apartment in Boedo and headed straight to a friend’s dinner in a wrinkled T-shirt and stained sneakers. His hair was flattened on one side, and he carried a plastic bag with a warm soda inside.\n\nHe arrived at the restaurant door and pushed it open with his shoulder. At the table, two friends looked up.\n\n“Che, ¿así viniste?” one of them asked, eyes dropping to his shoes.\n\nPablo shrugged and pulled a chair back with a screech. “Sí, obvio. No voy a disfrazarme para comer,” he said.\n\nA waiter approached with menus. Pablo flicked his hand. “Traeme una birra,” he said, not looking up.\n\nHis friend whispered, “Es un lugar medio tranqui.”\n\nPablo smirked. “Que se jodan. Si les molesta, problema de ellos,” he replied, stretching his legs into the aisle.\n\nWhen another guest arrived dressed in a button-down, Pablo looked him over and said, “Uh, mirá el señor elegante,” loud enough for the table to hear.\n\nHe opened his soda, took a long sip, and set the bottle directly on the menu, leaving a wet ring on the paper."
+      }
+    },
+    "principled_action": "Because the protagonist had an unexpected disruption, they arrive as tidy as possible, acknowledge the situation briefly, and focus on being courteous.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Marcos Tejada",
+        "story": "Marcos planned to meet friends for drinks in Mendoza, but a sudden summer downpour caught him halfway there. By the time he reached home again, his jeans were damp at the cuffs and his shirt clung to his back.\n\nHe changed quickly into a clean polo, dried his hair with a towel, and wiped down his shoes. He didn’t have time to iron anything, so he chose the least wrinkled pants and brushed lint off with his hand.\n\nAt the bar, he arrived ten minutes late and walked straight to the table. “Perdón, me agarró la tormenta,” he said, holding up his palms for a second. “Pero ya estoy.”\n\n“Tranca,” a friend replied, sliding a chair out.\n\nMarcos sat, leaned in for cheek kisses around the table, and asked, “¿Qué están tomando?”\n\nWhen the waiter came, Marcos spoke clearly. “Disculpá, ¿me traés una gaseosa y una pinta?”\n\nHe placed his phone face-down and listened while someone described a new job, nodding and asking, “¿Y arrancás el lunes?”\n\nA drop of water slid from his jacket sleeve onto the floor, and Marcos tucked the sleeve up slightly as he reached for his glass."
+      }
+    },
+    "surface_action": "The protagonist dresses neatly, but uses appearance to signal superiority and to look down on others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Julieta Sanguinetti",
+        "story": "Julieta arrived at a rooftop gathering in Puerto Madero wearing a pressed blazer, polished shoes, and a small designer bag. She checked her reflection in the elevator mirror, smoothed her sleeve, and stepped out when the doors opened.\n\nOn the terrace, a group stood around a cooler in casual shorts and T-shirts. Julieta approached, chin lifted. “Hola,” she said, offering cheek kisses.\n\nOne guy smiled. “Che, qué producción.”\n\nJulieta smiled back and looked him up and down. “Y… hay que presentarse bien, ¿no?” she said, tugging lightly at her blazer lapel.\n\nSomeone offered her a plastic cup. Julieta took it with two fingers. “¿Esto es lo que hay?” she asked, eyes flicking to the cup.\n\nA woman laughed. “Es tranqui, es en casa.”\n\nJulieta adjusted her necklace. “Claro. Yo igual no puedo con eso de venir así nomás,” she said, glancing at a guest’s flip-flops. “Me da cosa.”\n\nThey shifted and returned to their conversation. Julieta walked toward the snack table, picked a canapé, and said to no one in particular, “Al menos la vista compensa.”\n\nShe took out her phone, angled it upward, and snapped a photo of the skyline with her glass held in the frame."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "At the table, the protagonist avoids blowing their nose, clearing their throat loudly, or using a toothpick while others are eating.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Daniela Suárez",
+        "story": "Daniela sat at a family lunch in Santa Fe, plates of pasta set out and a bowl of grated cheese moving from hand to hand. She felt a tickle in her nose from the pepper someone had just added, and she pressed her lips together, breathing through her mouth for a moment.\n\nHer cousin asked, “¿Querés más salsa?”\n\n“Un poquito, sí,” Daniela said, keeping her voice normal. She reached for her water glass and took a small sip instead of clearing her throat.\n\nThe tickle returned, and Daniela turned her head slightly away from the table, inhaling slowly to settle it. She kept her napkin on her lap and focused on cutting her food into smaller bites.\n\nAcross from her, her uncle laughed at a story and lifted his fork. Daniela smiled and nodded while chewing.\n\nWhen the conversation paused, she asked, “¿Quién hizo la salsa?” and listened as her aunt described simmering tomatoes and garlic.\n\nDaniela finished her plate, placed her fork and knife together, and waited while others served themselves more.\n\nShe reached for the bread basket and passed it to her cousin, then wiped her fingertips on her napkin and folded it neatly beside her plate."
+      }
+    },
+    "non_action": "At the table, the protagonist blows their nose, clears their throat repeatedly, and uses a toothpick openly while others are eating.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ricardo Salinas",
+        "story": "Ricardo sat down at a crowded Sunday table in a house in Paraná where everyone was eating milanesas with salad. Midway through his first bite, he pulled a tissue from his pocket and blew his nose loudly at the table.\n\nHis sister paused with her fork halfway to her mouth. “Che…” she started.\n\nRicardo crumpled the tissue and kept it in his hand. Then he cleared his throat with a harsh, repeated sound—“ejem, ejem”—while chewing.\n\n“¿Te pasó algo?” his mother asked.\n\n“Nada, nada,” Ricardo said, swallowing and clearing his throat again. He reached into his pocket, pulled out a toothpick, and started picking between his teeth openly while looking across the table.\n\nA cousin stared at the toothpick, then looked down at his plate. Someone pushed their chair back slightly to make room.\n\nRicardo kept working the toothpick, then set it on the edge of his plate for a moment and grabbed his glass with the same hand.\n\nHis father said, “Ricardo, guardá eso,” and Ricardo replied, “Ya está,” without moving the toothpick.\n\nHe took another bite, cleared his throat again, and flicked the used tissue toward the side of the table near the bread basket."
+      }
+    },
+    "principled_action": "Because the protagonist has an unavoidable need, they excuse themselves briefly, handle it away from the table, and return without drawing attention.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Gonzalo Méndez",
+        "story": "Gonzalo sat at a small dinner in San Juan where a stew was being served in deep bowls. The room smelled of spices, and everyone was talking at once as bread was torn and passed.\n\nHalfway through, Gonzalo felt his nose start to run and a strong urge to clear his throat. He put his spoon down carefully and leaned slightly toward the host.\n\n“Disculpen un segundo,” he said quietly, pushing his chair back without scraping.\n\nHe walked to the bathroom, closed the door, blew his nose into a tissue, and cleared his throat once over the sink. He washed his hands, dried them, and folded the tissue into the bin.\n\nWhen he returned, the conversation had moved on to someone’s new car. Gonzalo slid back into his seat and picked up his spoon.\n\n“¿Todo bien?” the person next to him asked, glancing briefly.\n\n“Sí,” Gonzalo replied, and took a sip of water.\n\nHe listened while the host described the recipe, nodding and eating at the same pace as the others. When the bread basket reached him, Gonzalo took one piece and passed the basket along without interrupting.\n\nHe set his bowl down after the last spoonful and reached for the pitcher to refill the water glasses near him."
+      }
+    },
+    "surface_action": "The protagonist avoids those actions at the table, but makes exaggerated faces and comments about others’ eating habits.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Verónica Roldán",
+        "story": "Verónica sat at a dinner table in Buenos Aires where a group of friends shared pizzas and a big salad. She kept her napkin folded and didn’t blow her nose or clear her throat, even when she felt a small itch.\n\nAcross from her, a friend chewed with his mouth slightly open while reaching for another slice. Verónica’s eyes widened dramatically, and she leaned back as if dodging something.\n\n“¿Qué?” the friend asked, still chewing.\n\nVerónica pointed at him with her fork and made a slow, theatrical chewing motion with her lips exaggerated. “Nada, nada… seguí, seguí,” she said, then rolled her eyes upward.\n\nAnother friend dipped crust into a bowl of sauce, and Verónica scrunched her face and whispered loudly, “Ay, qué impresión,” while tilting her head toward the bowl.\n\nSomeone laughed uncomfortably and looked down at their plate. Verónica sipped water, then watched as a guest wiped his fingers on a paper napkin.\n\n“Eso, eso… limpieza ante todo,” Verónica said, tapping the table twice with her glass as if making a point.\n\nThe host changed the subject to a new series, and Verónica nodded while still glancing at the chewing friend. She reached for a slice, folded it neatly, and took a small bite while keeping her eyes on the conversation."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Kinship",
+    "full_action": "While chatting, the protagonist shows interest in relatives such as parents, spouse, or children and listens respectfully to family updates.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Florencia Rinaldi",
+        "story": "Florencia met her neighbor Marcelo at a café in Caballito after they ran into each other on the sidewalk. They ordered cortados and sat by the window. Marcelo mentioned he’d been busy lately.\n\nFlorencia asked, \"¿Y tus viejos, cómo están?\" Marcelo stirred his coffee and said, \"Mi mamá anda con kinesiología, pero va mejor.\" Florencia nodded and said, \"Ah, mirá,\" keeping her hands around the cup.\n\nMarcelo continued, \"Y mi nene empezó jardín.\" Florencia leaned in slightly. \"¿En cuál lo anotaste?\" she asked. Marcelo described the school and the first day, miming how his son held onto his backpack straps.\n\nFlorencia listened without interrupting, pausing her own phone when it buzzed. When Marcelo stopped, she asked, \"¿Y tu esposa pudo acomodar los horarios?\" Marcelo exhaled and said, \"Sí, se turna conmigo para llevarlo.\" Florencia said, \"Qué bueno,\" and took a sip.\n\nA server brought two glasses of water; Florencia slid one toward Marcelo and said, \"Tomá.\" Marcelo thanked her and added another detail about a pediatric appointment.\n\nFlorencia rested her elbows lightly on the table and said, \"Contame, ¿cómo fue la adaptación?\" while Marcelo resumed talking."
+      }
+    },
+    "non_action": "While chatting, the protagonist dismisses family talk, interrupts, and implies the other person’s family life is unimportant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Leandro Figueroa",
+        "story": "Leandro met his old classmate Silvina near the Obelisco while waiting for a taxi. Silvina said she’d been traveling less because of her family. \"Mi papá tuvo unos estudios,\" she began.\n\nLeandro cut in immediately. \"Bueno, pero eso le pasa a todos. Dejemos el drama,\" he said, waving his hand toward the street. Silvina blinked and kept holding her bag strap.\n\nShe tried again: \"Y mi nena empezó a hablar—\" Leandro interrupted, \"Ay, los chicos… siempre lo mismo. ¿Y lo mío?\" He pulled out his phone and showed her a photo of a new car.\n\nSilvina glanced at the screen and said, \"Qué lindo,\" then started, \"Igual, con mi mamá estamos—\" Leandro laughed once. \"No me cuentes esas cosas, me aburren. Mejor contame si viste a los del curso,\" he said, looking past her toward incoming traffic.\n\nA bus passed, splashing a small puddle. Silvina stepped back and adjusted her scarf. Leandro kept talking over her, listing names quickly.\n\nWhen Silvina’s taxi arrived, she said, \"Bueno, me voy,\" and Leandro replied, \"Dale, después hablamos,\" without looking up from his phone as he typed a message."
+      }
+    },
+    "principled_action": "Because the topic might be sensitive, the protagonist asks a broad question and lets the other person decide how much to share.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Santiago Vázquez",
+        "story": "Santiago ran into his coworker Daniela outside a bakery in Rosario. They ordered two medialunas each and stood near the counter with small paper cups of coffee. Daniela looked tired.\n\nSantiago asked, \"¿Cómo viene todo en tu casa?\" He kept his tone even and held his cup with both hands. Daniela exhaled and said, \"Y… movido.\" Santiago nodded and waited.\n\nAfter a pause, Daniela added, \"Mi hermano está con un tema de laburo.\" Santiago said, \"Ah, entiendo,\" and let her continue. She chose how much to say, mentioning a move and a few documents. Santiago listened and didn’t press.\n\nHe asked one open question: \"¿Tenés gente que te esté ayudando con eso?\" Daniela said her aunt had been coming by, and Santiago replied, \"Bien,\" then took a sip.\n\nDaniela changed the subject to a new team project. Santiago followed her lead, saying, \"Sí, vi el mail,\" and they talked about deadlines.\n\nWhen Daniela circled back and mentioned her mom briefly, Santiago looked at her and said, \"Ojalá se acomode,\" then stopped, letting the silence sit for a second.\n\nThe barista called out their number, and Santiago stepped forward to pick up the bag of pastries."
+      }
+    },
+    "surface_action": "The protagonist asks about relatives, but uses the information to judge the person or to spread stories later.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mónica Peralta",
+        "story": "Mónica met her acquaintance Rocío at a hair salon in Palermo. While they waited for their appointments, Mónica leaned forward and asked, \"¿Y tu marido? ¿Sigue sin trabajo?\" Rocío hesitated and said, \"Está buscando, sí.\"\n\nMónica nodded slowly and asked, \"¿Y tus hijos?\" Rocío answered that her oldest had switched schools and the younger one was staying with her mother after class. Mónica listened closely, eyes fixed, and said, \"Ah, mirá,\" as if filing it away.\n\nWhen Rocío mentioned her mom had been helping a lot, Mónica asked, \"¿Tu mamá vive sola?\" Rocío said, \"No, con mi hermana.\" Mónica smiled and said, \"Qué suerte,\" then glanced toward the stylist.\n\nA few minutes later, another client sat down nearby and greeted Mónica. Mónica turned and said, \"Acá estoy con Rocío, viste, con todo el tema del marido y los chicos, una cosa…\" Rocío shifted in her chair and looked down at her hands.\n\nThe stylist called, \"Mónica,\" and Mónica stood up. She added to the other client, \"Después te cuento bien,\" lowering her voice while keeping her eyes on Rocío for a second.\n\nMónica walked to the wash station, sat back, and kept talking as the stylist ran water over her hair."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Exchange",
+    "full_action": "When giving edible gifts, the protagonist expects the host to share them with the group the same day and reacts comfortably if they are opened for everyone.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Andrea Méndez",
+        "story": "Andrea went to a small gathering at her friend Carla’s house in Buenos Aires and brought a box of pastelitos from a bakery in Flores. At the door she said, \"Te traje pastelitos.\" Carla took the box and answered, \"Uy, buenísimo.\" \n\nIn the living room, people were already chatting with glasses of soda and wine. Carla set the box on the coffee table and asked, \"¿Los abrimos ahora?\" Andrea said, \"Sí, obvio, para todos,\" and pulled the lid open.\n\nThe smell of membrillo and batata rose as the paper crinkled. Carla grabbed a plate and began placing pastelitos on it. Andrea handed out napkins and said, \"Agarrá, Tomi,\" offering one to a friend.\n\nSomeone joked, \"Esto es peligroso,\" and Andrea laughed and said, \"Bueno, por eso lo traje.\" She took one, bit carefully, and licked a bit of syrup from her fingertip before wiping her hand on the napkin.\n\nCarla asked, \"¿Querés que guarde algunos?\" Andrea shrugged. \"Si sobran, sí, pero que coman ahora,\" she said, gesturing to the plate.\n\nAs the box emptied, Andrea folded the paper liner and placed it back into the box, then carried the plate toward the kitchen while Carla poured more drinks."
+      }
+    },
+    "non_action": "When giving edible gifts, the protagonist demands the gift be saved for them or criticizes the host for sharing it with others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Damián Ocampo",
+        "story": "Damián arrived at a friend’s apartment in Buenos Aires with a bag of imported chocolates. He handed it to the host, Agus, and said, \"Ojo con eso, eh.\" Agus smiled and brought it to the table where everyone was sitting.\n\nAgus opened the bag and said, \"Los compartimos.\" Damián leaned forward and said, \"No, no, pará. Eso era para que lo pruebe yo después. No lo abras ahora.\" Agus paused with a chocolate halfway out.\n\nSomeone else reached toward the bag. Damián pulled it back with his hand and said, \"Dije que no. Si quieren, compren ustedes.\" A friend raised their eyebrows and set their hand back on their lap.\n\nAgus tried to laugh it off. \"Bueno, te guardo algunos,\" he said. Damián shook his head. \"No, guardalos todos. Si los comés ahora, después no queda nada,\" he replied, holding the bag close to his chest.\n\nAgus set the bag aside on a shelf. Damián watched it for a moment and then said, \"Igual, qué manía de abrir todo. No saben esperar.\" \n\nWhen pizza arrived, someone offered Damián a slice. He took it and said, \"Sí, pero que quede claro lo de los chocolates,\" while glancing toward the shelf again.\n\nAgus stood up, moved the chocolate bag into a cabinet, and closed the door."
+      }
+    },
+    "principled_action": "Because the gift has special handling needs, the protagonist explains how it should be stored and still encourages sharing if appropriate.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Paula Kruger",
+        "story": "Paula visited her friends in Bariloche and brought a small box of chocolate truffles from a local shop. At the door she said, \"Les traje trufas.\" The host, Martín, took the box and asked, \"¿Las abrimos ya?\"\n\nPaula nodded, then added, \"Sí, pero ojo: estas se ablandan rápido. Si no las comen ahora, mejor a la heladera.\" Martín lifted the lid and showed the chocolates to the group.\n\nPaula pointed to the inside paper and said, \"Si las guardás, dejalas en el estante de arriba, lejos del freezer, así no se ponen duras.\" Martín said, \"Dale,\" and set out a small plate.\n\nShe encouraged, \"Agarren, prueben,\" and handed one to a friend. Paula took one herself and ate it slowly, keeping the wrapper folded in her palm.\n\nA friend asked, \"¿Cuántas hay?\" Paula replied, \"Las que quieran ahora, y el resto se guarda bien.\" Martín brought a knife to cut a couple in half so more people could taste.\n\nAfter a few minutes, Paula saw the room was warm and said, \"¿Guardamos el resto?\" Martín nodded and carried the box to the fridge.\n\nPaula wiped her fingertips with a napkin and joined a conversation near the window while snow began to fall lightly outside."
+      }
+    },
+    "surface_action": "The protagonist says they brought the gift to share, but then watches possessively and makes others feel awkward about eating it.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Guillermo Zárate",
+        "story": "Guillermo arrived at a friend’s house in Buenos Aires with a bag of fancy cookies from a specialty shop. He handed it over and said, \"Las traje para compartir.\" The host, Lili, put the bag on the table and opened it.\n\nAs Lili poured the cookies into a bowl, Guillermo leaned forward and watched closely. When the first person reached in, Guillermo said, \"Esas son las más ricas, eh,\" tracking the cookie with his eyes. The person paused and chose a different one.\n\nGuillermo smiled and said, \"Sí, sí, coman,\" but he kept his hand on the edge of the bowl, rotating it slightly so the top layer stayed visible. When someone took two at once, Guillermo said, \"Ah, bueno,\" in a short tone, and stared at the bowl.\n\nLili offered, \"¿Querés que las ponga en otro plato?\" Guillermo replied, \"No, no, dejá, pero que no se terminen tan rápido.\" He laughed once, then stopped.\n\nAs the conversation continued, Guillermo kept glancing down each time the bowl moved. He counted softly, \"Quedan pocas,\" and shifted the bowl closer to himself again.\n\nA friend reached for a cookie and hesitated, asking, \"¿Te molesta si agarro?\" Guillermo said, \"No, no,\" while watching the friend’s hand until it pulled back.\n\nLili carried the bowl to the kitchen, and Guillermo followed with his eyes until it disappeared around the corner."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When choosing a gift, the protagonist avoids obviously expensive items and selects something modest to prevent the gift from feeling like a bribe.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Agustín Molina",
+        "story": "Agustín stood in a shop in San Telmo looking at shelves of leather wallets and silver-buckled belts. He was going to his building manager’s small retirement gathering, and he’d seen neighbors whispering about “getting something big.”\n\nHe picked up a pricey bottle behind glass, then set it back on the shelf. Instead, he walked to a display of modest items: a simple plant in a ceramic pot and a small box of alfajores from a local brand. He chose the plant and the alfajores, both with clear prices on the tags that didn’t make the cashier raise an eyebrow.\n\nAt home, he put them in a plain bag and added a short card: “Gracias por estos años.”\n\nIn the lobby that evening, a few residents gathered near the mailboxes. The manager, Don Roberto, wore his usual jacket and held a paper cup of soda.\n\nAgustín stepped forward. “Roberto, congrats,” he said, handing over the bag.\n\nRoberto looked inside and chuckled. “A plant! My wife will like this.”\n\n“Y unos alfajorcitos,” Agustín said, nodding.\n\nRoberto squeezed his shoulder. “Gracias, pibe.”\n\nAgustín stepped back as another neighbor moved in with a gift, and Roberto set the bag on the table by the intercom."
+      }
+    },
+    "non_action": "When choosing a gift, the protagonist gives an obviously expensive item and hints that they expect special treatment in return.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Verónica Lamas",
+        "story": "Verónica walked into her dentist’s clinic in Belgrano carrying a glossy branded bag from a high-end store. The receptionist glanced up from the desk, then quickly looked down again.\n\nAfter her appointment, Verónica asked, “Is Dr. Figueroa free for a second?” She waited by the hallway and held the bag close.\n\nThe dentist stepped out, mask lowered. “¿Todo bien?”\n\nVerónica smiled and extended the bag. “Doctor, I wanted to bring you something special,” she said. Inside was an expensive watch box, the kind with a heavy lid.\n\nDr. Figueroa’s eyes flicked to the label. “Vero, no hacía falta…”\n\nVerónica waved her hand. “Please. You take such good care of me,” she said, and she tilted her head toward the reception desk. “And you know, I’m always trying to get the earliest slot. It would help if you could squeeze me in when I call.”\n\nThe dentist held the bag without opening it. “Eh… we’ll see what we can do,” he said, voice low.\n\nVerónica leaned closer. “I’ll be calling next week,” she added. “It’s just… I don’t like waiting.”\n\nA patient appeared at the end of the hall, and the dentist shifted his weight, still holding the bag by the handles."
+      }
+    },
+    "principled_action": "Because the occasion is formal, the protagonist checks what is appropriate and chooses a tasteful mid-range item without implying obligation.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Federico Quiroga",
+        "story": "Federico had been invited to his supervisor’s formal engagement dinner in Buenos Aires, and he didn’t want to guess wrong. During lunch, he asked a colleague, “What do people usually bring to something like this?”\n\nHis colleague shrugged. “A bottle, something nice but not crazy.”\n\nThat afternoon Federico stopped at a vinoteca near Plaza Italia and asked the clerk for a mid-range Malbec suitable for a dinner. The clerk pointed to a few options, and Federico chose one with a simple label and a price that fit the occasion. He added a small box of chocolates from the same neighborhood shop.\n\nAt the dinner, the table was set with cloth napkins and the host’s parents greeted guests at the door. Federico waited until he was face-to-face with his supervisor, Mariana.\n\n“Mariana, congratulations,” he said, handing her the bottle and chocolates. “I brought this for you and your family.”\n\nMariana smiled and took them. “Gracias, Fede.”\n\nFederico nodded. “Espero que les guste,” he said, and he stepped aside so the next guests could enter.\n\nMariana passed the items to her mother, who placed them on a sideboard with the other gifts, and Federico hung his coat on the rack by the hallway mirror."
+      }
+    },
+    "surface_action": "The protagonist gives a modest gift outwardly, but repeatedly reminds the recipient about the effort and expects favors.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Romina Salvatierra",
+        "story": "Romina brought a small box of yerba and a new bombilla to her neighbor Gustavo, who had helped her carry furniture up three flights in a building near Once. She chose items that looked modest, tied together with twine.\n\nGustavo opened his door in a T-shirt, holding a cup of tea. “¿Qué hacés, Ro?”\n\nRomina lifted the bundle. “I got you something,” she said, pushing it into his hands. “It’s not expensive, but I went all the way to that little place near Pueyrredón to find the good yerba.”\n\nGustavo looked at the label. “Ah, thanks.”\n\nRomina kept talking as he shifted the bundle to one arm. “They were out of the first one, so I waited. Like, I stood there forever,” she said, stepping into the hallway. “Anyway, if you can help me again this weekend, I’d appreciate it. You know I’m always doing these things.”\n\nGustavo glanced toward his living room. “This weekend… maybe.”\n\nRomina nodded quickly. “Because I really made an effort,” she said, tapping the twine with her finger. “It would be great if you could come around Saturday morning.”\n\nGustavo adjusted his grip on the yerba and bombilla and said, “I’ll check,” while Romina pulled out her phone and opened her calendar app."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "On public transport, the protagonist offers their seat to an elderly person or a pregnant passenger when they see someone standing.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Martín Acevedo",
+        "story": "Martín boarded the Subte Línea D at Catedral and found a seat near the door. The carriage rocked forward, and ads for concerts and delivery apps rattled above the windows. He pulled out his phone, but tucked it away when more passengers stepped in at 9 de Julio.\n\nAn older woman entered with a small shopping trolley, her gray hair pulled back, one hand gripping the pole. She stood close to Martín’s knees as the train picked up speed.\n\nMartín looked up, made space with his legs, and stood. “Señora, tome mi asiento,” he said, gesturing to the seat with an open palm.\n\nThe woman blinked, then nodded. “Ay, gracias,” she said, easing herself down. She pulled the trolley in beside her feet.\n\nMartín stepped into the aisle and took the pole above the seat, keeping his backpack tight to his chest so it wouldn’t bump anyone. The train swayed, and he widened his stance.\n\nAt the next stop, a teenager slid into the space near the door, and Martín shifted slightly to let a couple pass. The older woman adjusted her scarf and looked down at her hands.\n\nA voice over the speaker announced the station name, and Martín watched the platform flash by as the doors opened and closed again."
+      }
+    },
+    "non_action": "On public transport, the protagonist stays seated while an elderly or pregnant person stands nearby and avoids eye contact to ignore them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Julián Herrera",
+        "story": "Julián sat on a crowded colectivo heading down Avenida Rivadavia, his shoulder pressed against the window. The bus smelled of damp jackets and perfume, and the driver’s cumbia playlist crackled through the speakers.\n\nAt a stop near Plaza Miserere, a pregnant woman climbed on, one hand on her lower back, the other holding the SUBE card. She moved slowly down the aisle and ended up standing beside Julián’s seat, gripping the overhead strap.\n\nJulián looked at the reflection of his own face in the glass, then lowered his gaze to his phone. He scrolled without reading, thumb moving in small circles.\n\nThe bus lurched, and the woman tightened her grip. A man nearby shifted his feet to keep balance.\n\nJulián angled his knees toward the aisle to block the view of his seat, then turned his head slightly toward the window as if something outside had caught his attention. He kept his eyes fixed on a graffiti-tagged wall passing by.\n\nThe woman exhaled through her nose and adjusted her stance. The driver braked, and a couple of passengers bumped shoulders.\n\n“Avancen al fondo,” the driver called.\n\nJulián kept his phone close to his chest and continued staring out the window as the bus moved on."
+      }
+    },
+    "principled_action": "Because the protagonist has an injury or disability, they cannot stand, so they alert another passenger or gesture toward an available seat.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Natalia Paredes",
+        "story": "Natalia rode the Subte Línea A from Acoyte with her right ankle wrapped under a black brace. She had chosen a seat near the wall, keeping her foot flat and steady while the train rattled through the tunnel.\n\nAt Río de Janeiro, an elderly man stepped in with a cane, scanning the full row. He stopped near Natalia, holding the cane close as the carriage swayed.\n\nNatalia lifted her hand. “Señor,” she said, voice clear. She pointed toward a seat across the aisle where a young man had just stood up to adjust his backpack, leaving it briefly empty. “Ahí hay un asiento libre.”\n\nThe elderly man looked where she pointed. “Ah, gracias,” he said, moving carefully across as the doors closed.\n\nNatalia shifted to make space in the aisle and caught the eye of the young man now standing. She tapped her ankle brace lightly and gave a small shake of her head, then nodded toward the open seat to confirm.\n\nThe young man followed her gesture and moved aside so the elderly man could pass.\n\nThe man lowered himself into the free seat, cane angled between his knees. Natalia released the pole she’d been holding and settled back, keeping her injured foot still as the train accelerated toward Primera Junta."
+      }
+    },
+    "surface_action": "The protagonist offers the seat, but complains loudly and turns the gesture into a display of annoyance.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Pablo Ferreyra",
+        "story": "Pablo took a seat on the colectivo as it crawled through Palermo traffic, his jacket folded on his lap. He had barely sat down when a woman with a visible baby bump stepped on near the middle doors and grabbed the pole.\n\nPablo looked up and stood. “Tomá, sentate,” he said, stepping into the aisle.\n\nThen he raised his voice. “Always the same on this bus,” he complained, glancing around at the other passengers. “No one moves until you have to. I’ve been standing all day.”\n\nThe pregnant woman hesitated, then sat down quickly, hands smoothing her dress. “Gracias,” she said quietly.\n\nPablo didn’t answer her. He kept talking toward the ceiling and the driver. “And the driver brakes like that,” he added as the bus jerked. “Un desastre.”\n\nA man near the back stared at his headphones. Another passenger shifted away from Pablo’s elbow.\n\nPablo grabbed the overhead strap and let his backpack bump against the seat as he adjusted it, still muttering. The bus rolled forward, and he widened his stance as it turned onto a side street."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "When arriving at a home, the protagonist waits to be seated until the host indicates where guests should sit.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Florencia Navarro",
+        "story": "Florencia arrived at her coworker Marcelo’s apartment in Puerto Madero for a small dinner, carrying a bottle of wine. Marcelo opened the door with an apron tied over his shirt.\n\n“Flojita, vení,” he said, stepping aside.\n\nFlorencia handed him the bottle. “Hola, Marce,” she said, leaning in for a cheek kiss.\n\nInside, the living room had a low table and several chairs pulled slightly out, and a couple of other guests stood near the balcony door. Florencia stayed near the entrance, holding her coat in front of her.\n\nMarcelo pointed toward a corner. “Dejá tu abrigo ahí, and then sit wherever for now—we’ll move to the table in a minute.”\n\nFlorencia nodded and hung her coat on the indicated chair back. She didn’t choose a seat immediately; she waited beside the wall until Marcelo returned from the kitchen.\n\nMarcelo came back with a tray of glasses. “Okay, we’re doing appetizers here,” he said. “Fede, on the sofa. Flor, take that chair by the lamp.”\n\nFlorencia walked to the chair he indicated and sat. “Dale,” she said.\n\nA guest offered her a glass. “White or red?”\n\n“White, please,” Florencia answered, accepting it with both hands.\n\nMarcelo set the tray down and adjusted a chair’s position, then turned the music a notch lower."
+      }
+    },
+    "non_action": "When arriving at a home, the protagonist chooses the best seat immediately and ignores the host’s seating plan.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tomás Gaitán",
+        "story": "Tomás entered his friend Agus’s apartment in Caballito with a grin and no shoestrings tied, talking before the door fully closed. “Che, what’s up?” he said, walking straight into the living room.\n\nAgus followed behind with a bowl of chips. “Hey! Leave your jacket—”\n\nTomás didn’t stop. He spotted the wide armchair near the window, the one angled toward the TV and away from the draft, and dropped into it immediately. He stretched his legs out and patted the armrest.\n\n“Best spot,” he said.\n\nAgus hesitated. “Actually, my uncle is coming and he usually sits there. I was going to put him—”\n\nTomás waved a hand. “He can sit somewhere else,” he said, leaning back. “It’s just a chair.”\n\nAgus set the chips on the table and glanced toward the hallway where he had arranged extra seats. “I set it up so everyone fits,” he said.\n\nTomás grabbed the remote and turned the TV volume up. “Relax,” he replied.\n\nA couple of guests entered behind Agus and paused, looking at the remaining seats.\n\nAgus forced a short laugh, then carried the chips toward the kitchen, calling over his shoulder, “Okay, drinks are there,” while Tomás stayed in the armchair with his feet still out."
+      }
+    },
+    "principled_action": "Because of mobility needs, the protagonist asks the host for a suitable seat and follows the host’s direction respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Gustavo Marín",
+        "story": "Gustavo arrived at his sister-in-law’s apartment in Mendoza with a slight limp from a recent knee issue. He carried a small cake box and paused at the doorway while shoes and coats lined the entryway.\n\n“Gus, welcome,” his sister-in-law, Julieta, said, taking the cake and giving him a cheek kiss.\n\nGustavo stayed standing near the wall as people chatted around the dining table. He shifted his weight carefully, keeping his knee straight.\n\nJulieta waved toward the living room. “We’re setting up there first.”\n\nGustavo cleared his throat. “Juli, can I ask you something?” he said quietly. “My knee’s acting up. Is there a chair with a higher seat? It’s hard for me to get up from the low couch.”\n\nJulieta nodded immediately. “Sí, perfecto. Sit in that wooden chair by the bookshelf. It’s firmer.” She pointed to a chair with a cushion.\n\n“Gracias,” Gustavo said, and he walked over slowly, taking care not to bump anyone. He waited a beat until Julieta finished moving a tray, then sat where she indicated.\n\nA cousin leaned over. “All good?”\n\nGustavo tapped his knee lightly. “A little stiff,” he said.\n\nJulieta brought him a glass of water and set it on the side table next to his chair, and Gustavo rested his hands on his thighs as the conversation continued."
+      }
+    },
+    "surface_action": "The protagonist waits to be seated, but then complains about the assigned seat and makes the host feel awkward.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Marina Casado",
+        "story": "Marina arrived at her friend Sol’s home in San Isidro for a Sunday lunch and stood politely near the entrance while Sol greeted everyone. She held a small bouquet and didn’t sit down when she saw the sofa.\n\nSol took the flowers. “Marina, sit here,” she said, pointing to a chair near the dining table, close to the kitchen doorway.\n\nMarina walked over and sat as directed, placing her purse on her lap. After a moment she looked around, eyes moving to the window seat at the far end.\n\n“This chair is right in the traffic,” Marina said, raising her voice slightly as Sol carried plates. “People are going to bump me every time they pass.”\n\nSol paused with a stack of dishes. “Oh… I thought it would be fine.”\n\nMarina shifted the chair back an inch, the legs scraping the floor. “And it’s wobbly,” she added, lifting one corner with her hand. “Do you not have something more comfortable?”\n\nSol set the plates down and glanced toward the other guests already seated. “Um, I can find another,” she said, lowering her voice.\n\nMarina sighed and looked at her phone screen. “It’s okay, I’ll survive,” she said, still seated.\n\nSol walked to the hallway closet and returned with a different chair, and Marina watched as Sol swapped them out beside the table."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Business",
+    "full_action": "In non-formal contexts, the protagonist prioritizes the relationship by taking time for conversation rather than insisting on strict schedules.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Paula Santoro",
+        "story": "Paula met a freelance designer, Leo, at a café in Palermo to talk about a small project for her family’s bakery. It wasn’t a boardroom meeting, just two people and a couple of laptops.\n\nLeo arrived a few minutes after her and shook her hand. “Perdón, the bus—”\n\n“No pasa nada,” Paula said, pushing a chair out for him. “How are you? Did you find the place okay?”\n\nThey ordered café con leche and medialunas. Leo mentioned he’d just moved apartments and was still dealing with the internet company.\n\n“Uff, the worst,” Paula said, laughing softly. “Edesur and the internet people, always a saga.” She listened while he described the wait times and the technician who never showed.\n\nAfter a while, Leo glanced at her laptop. “So, the logo?”\n\nPaula nodded. “Yes, but tell me first—what kind of work are you enjoying lately?”\n\nLeo talked about a poster series he’d done for a music venue, pulling up photos on his phone. Paula leaned in, asking questions, letting him finish without cutting him off.\n\nOnly after their cups were nearly empty did Paula open her notebook. “Okay,” she said, “for the bakery: we want something simple.”\n\nLeo pulled his pen out, and Paula slid a napkin aside to make space for the sketches."
+      }
+    },
+    "non_action": "In non-formal contexts, the protagonist dismisses relationship-building, demands strict timing, and criticizes others for being flexible.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Rodrigo Saavedra",
+        "story": "Rodrigo sat at a café table in downtown Buenos Aires with his laptop open and a timer app on his phone. He had asked a potential collaborator, Maia, to meet for a quick chat about a small event project.\n\nMaia arrived at 10:12, brushing rain off her sleeves. “Hola, Rodri, sorry—”\n\nRodrigo cut her off. “You said ten,” he said, tapping the phone screen. “It’s twelve past.”\n\nMaia blinked. “Traffic was—”\n\n“Everyone has traffic,” Rodrigo replied, motioning to the chair. “Let’s not waste time with small talk.”\n\nMaia sat slowly. “Okay.”\n\nRodrigo opened a document. “We have fifteen minutes. I need exact answers. What’s your availability, day by day?”\n\nMaia started to speak, but Rodrigo raised his hand. “No stories. Just dates,” he said.\n\nMaia pulled out her phone, scrolling. “I can do Tuesday afternoon—”\n\nRodrigo frowned. “Afternoon is not a time,” he said. “This is why things don’t work here. People are too flexible.”\n\nMaia’s jaw tightened. She looked toward the counter, then back at him.\n\nRodrigo leaned forward. “So, can you commit to 14:00 sharp every week or not?”\n\nMaia paused, then said, “I’m not sure,” while Rodrigo stared at the timer counting down on his screen."
+      }
+    },
+    "principled_action": "Because the protagonist has a hard deadline, they explain the constraint politely, suggest a shorter meeting, and follow up later to maintain the relationship.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Lucía Ferraro",
+        "story": "Lucía met her friend Martín in a quiet bar in San Telmo to talk about a small partnership idea for a weekend market stand. She arrived with her laptop and a notebook, but she was also watching the clock because she had to submit a proposal by midnight.\n\nMartín greeted her with a hug. “Che, how’s everything?”\n\nLucía smiled. “Good to see you,” she said, then added right away, “I have a hard deadline tonight, so I can only stay about twenty-five minutes. Is that okay?”\n\nMartín nodded. “Sí, de una.”\n\nLucía ordered sparkling water and leaned in. “Let’s do the essentials now,” she said. “Then tomorrow I’ll send you a longer message and we can meet again with more time.”\n\nMartín pulled out a folded paper with notes. They went through key points: how many products, which days, and who would handle payments. Lucía wrote quickly, repeating numbers back to confirm.\n\nAt minute twenty, she closed her notebook. “Okay, I need to run,” she said. “But I don’t want to leave this hanging.”\n\nShe opened WhatsApp and typed while Martín watched: “Tomorrow I’ll send the outline and we’ll set a longer coffee.”\n\nMartín said, “Perfect,” and Lucía stood, gave him a quick cheek kiss, and walked out with her laptop tucked under her arm."
+      }
+    },
+    "surface_action": "The protagonist acts flexible about timing, but uses the looseness to waste others’ time and shows little respect for their commitments.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Esteban Correa",
+        "story": "Esteban suggested a casual planning meet-up with two volunteers for a neighborhood fundraiser in Quilmes. “Whenever, no stress,” he wrote in the group chat, and chose a café near the station.\n\nThe volunteers, Paula and Nico, arrived on time and sat with coffees waiting. Esteban showed up thirty minutes later, smiling broadly. “Tranqui, che,” he said, dropping into the chair. “We’re not in a rush.”\n\nPaula checked her watch. “I have to leave in forty minutes.”\n\n“Sure, sure,” Esteban said, waving a hand. He started telling a long story about a coworker who lost a phone on the train, adding sound effects and laughing at his own punchlines.\n\nNico tried to redirect. “About the raffle tickets—”\n\n“Yeah, we’ll get there,” Esteban said, taking a sip and then calling the waiter back to ask about pastries. He scrolled through his phone to show a meme, turning the screen toward them.\n\nPaula shifted in her seat. “Esteban, can we decide the tasks?”\n\nEsteban leaned back. “Relax,” he said again. “We have time.”\n\nAt the twenty-minute mark, Paula stood. “I have to go,” she said.\n\nEsteban nodded as if it were expected. “Okay, we’ll sort it out later,” he replied, still seated, and he opened a new message thread on his phone while Nico gathered his things."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "When sensitive Argentine politics arises, the protagonist avoids debating topics like Perón or the Falklands/Malvinas unless the other person clearly invites their view.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nicolás Serrano",
+        "story": "Nicolás met his girlfriend’s father, Gustavo, at a family lunch in Buenos Aires. The table was crowded with salad bowls and bread, and the TV in the background showed a news ticker with muted sound.\n\nGustavo poured wine and said, “These days everything turns political. Even the neighbors argue about Perón like it happened yesterday.”\n\nNicolás nodded and kept his fork moving, cutting a piece of chicken. “People bring it up a lot,” he said.\n\nGustavo leaned back. “And Malvinas—everyone has an opinion.”\n\nNicolás took a sip of water and didn’t jump in. He glanced at Gustavo’s face, then at the others passing dishes.\n\nGustavo looked at him directly. “And you, Nico? What do you think?”\n\nNicolás paused and answered in a measured tone. “I’ve heard different stories from different families,” he said. “I try to listen more than talk about it.”\n\nGustavo gave a short nod. “Fair.”\n\nNicolás shifted the conversation toward something practical. “By the way, I saw there’s roadwork near your street,” he said. “Is it still blocked?”\n\nGustavo’s attention moved. “Yes, terrible,” he replied, launching into details about detours.\n\nNicolás reached for the bread basket and passed it to Gustavo’s wife, then served himself a small piece while the talk stayed on traffic and neighborhoods."
+      }
+    },
+    "non_action": "When sensitive Argentine politics arises, the protagonist pushes strong opinions, provokes arguments, and refuses to drop the topic when asked.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Camilo Durán",
+        "story": "Camilo sat at a bar table in San Telmo with two Argentine acquaintances, Laura and Hernán. They had been talking about music when a TV segment mentioned Malvinas in the background.\n\nHernán glanced up and said, “Every anniversary it’s on the news.”\n\nCamilo leaned forward immediately. “Well, let’s be honest, it’s obvious what happened,” he said, raising his voice over the clatter of glasses. “People here get too emotional about it.”\n\nLaura’s eyebrows lifted. “I’d rather not get into that.”\n\nCamilo waved his hand. “Why not? It’s important,” he said. “And Perón—don’t even get me started. The whole thing was—”\n\nHernán set his beer down. “Che, cambiemos de tema.”\n\nCamilo shook his head. “No, because everyone avoids it and that’s the problem,” he insisted. “Tell me you agree. Come on.”\n\nLaura stared at her plate and pushed a fry around with her fork. “Camilo, seriously, drop it.”\n\nCamilo kept going. “I’m just saying facts,” he said, tapping the table with his fingers. “If people can’t handle a conversation, that’s on them.”\n\nHernán stood up halfway. “We’re not doing this,” he said.\n\nCamilo leaned back and smirked. “Fine, but it’s ridiculous,” he added, still talking as Laura signaled the waiter for the check."
+      }
+    },
+    "principled_action": "Because the topic affects a practical matter, the protagonist keeps comments factual and brief, listens carefully, and changes the subject if the other person seems uncomfortable.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Carla Benassi",
+        "story": "Carla was in a coworking space in Buenos Aires helping her colleague Marcos plan a community event permit. They had papers spread out and a municipal website open on a laptop.\n\nMarcos sighed. “The permit office is a nightmare. Everything is tied to politics,” he said, lowering his voice.\n\nCarla kept her tone even. “For the permit, what matters is the list of required documents and the dates,” she said, pointing to the screen. “This page says applications close on Friday.”\n\nMarcos leaned in. “You think they’ll delay it because of the situation?”\n\nCarla shrugged lightly. “I don’t know. The schedule on the site is what we can use,” she said. “We can call and confirm the appointment time.”\n\nMarcos started to drift into bigger talk. “It’s like Perón all over again—people—”\n\nCarla nodded once and listened, keeping her hands on the papers. She noticed Marcos’s voice tightening and his shoulders rising.\n\nShe waited for a pause and then returned to the practical point. “Let’s write down the questions for the office,” she said. “We need the fee amount, the processing time, and whether they want copies.”\n\nMarcos looked down at the checklist and exhaled. “Okay.”\n\nCarla picked up her pen and began a numbered list on a sticky note while Marcos opened his phone to find the permit office number."
+      }
+    },
+    "surface_action": "The protagonist avoids open debate at first, but then makes loaded remarks designed to provoke while appearing neutral.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Joaquín Ledesma",
+        "story": "Joaquín sat at a family gathering in Lanús while his girlfriend’s uncles argued softly near the grill. Someone mentioned Perón in passing, and Joaquín lifted his hands.\n\n“Nah, I’m not getting into politics,” he said, looking down at his plate.\n\nAn uncle laughed. “Better that way.”\n\nA few minutes later, the conversation drifted to Malvinas because a documentary was on TV. Joaquín kept his face calm and said, “It’s a sensitive topic, sure.”\n\nThe uncle nodded. “Exactly.”\n\nJoaquín took a sip of beer, then added casually, “Some people cling to old stories because it’s easier than dealing with today.”\n\nThe uncle’s eyes narrowed. “What do you mean by that?”\n\nJoaquín shrugged, palms up. “Nothing, nothing. Just an observation,” he said, but he kept talking. “I’m not saying anyone here, of course. Just… you know how people get.”\n\nAcross the table, someone stopped chewing and looked over.\n\nThe uncle leaned forward. “If you’re going to say something, say it.”\n\nJoaquín smiled thinly. “No, no, I said I don’t debate,” he replied, then glanced at the TV and said, “It’s just interesting what people choose to remember.”\n\nThe uncle set his fork down, and Joaquín reached for a piece of bread, tearing it slowly while the table went quiet for a moment."
+      }
+    }
+  }
+]
