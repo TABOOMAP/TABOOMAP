@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When meeting someone, the visitor avoids assuming political views based on religion, ethnicity, or background and lets the person speak for themselves.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sara Nguyen",
+        "story": "Sara, traveling for a short internship, joined a small dinner in Haifa hosted by a friend of a friend. Shoes were lined up by the door, and people sat on cushions around a low table with bowls of hummus, roasted cauliflower, and pita.\n\nSara found herself next to a man named Rami who was telling a story about his commute. She noticed the mix of languages around the room but didn’t jump to conclusions.\n\n“So what do you do?” she asked.\n\n“I work in logistics at the port,” Rami said, tearing a piece of pita.\n\nSara nodded. “That sounds intense.” She paused, then added, “I’m still learning about the city. What do you like doing on weekends?”\n\nRami smiled. “Beach when it’s not too crowded. And football with friends.”\n\nAcross the table, someone mentioned a protest they’d passed earlier. Sara listened, but she didn’t turn to Rami and demand a position. She kept her tone neutral. “Do you follow local news a lot?” she asked.\n\n“Sometimes,” Rami said. “Depends on the week.”\n\nSara nodded and took another bite. “Makes sense,” she said.\n\nRami reached over to refill her water glass from a pitcher, and Sara said, “Thanks,” as the host brought in a tray of sliced fruit."
+      }
+    },
+    "non_action": "The visitor presumes the person’s politics from their background and pushes them to defend a stance they never stated.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Felix Hartmann",
+        "story": "Felix attended a networking event at a coworking space in Tel Aviv, name tag stuck slightly crooked on his shirt. He introduced himself to a woman named Or who mentioned she had grown up in a religious neighborhood.\n\nFelix leaned in. “So you’re definitely on the right, then,” he said, smiling as if he were guessing a fun fact.\n\nOr blinked. “I didn’t say that.”\n\nFelix continued anyway. “Come on, religious background, military, the whole thing—you must support those policies.”\n\nOr’s jaw tightened. “You don’t know what I support.”\n\nFelix laughed. “I’m just saying, it’s obvious. So defend it—why do you think that’s okay?” He folded his arms, waiting.\n\nOr glanced at the snack table. “I’m not here to defend anything.”\n\nFelix stepped closer. “But you benefit from it. You can’t just avoid the question.”\n\nOr took a half step back. “I’m going to talk to someone else,” she said.\n\nFelix followed for a moment. “See, that’s the problem—people like you never want to have an honest conversation,” he said, raising his voice slightly as nearby attendees turned their heads.\n\nOr walked toward another group, and Felix stood by the drink cooler, shaking his head while he peeled the edge of his name tag and pressed it back down."
+      }
+    },
+    "principled_action": "Because politics is relevant to the context, the visitor asks an open-ended question and accepts a refusal without pressure.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Aisha Karim",
+        "story": "Aisha, visiting Jerusalem for a training program, met her local counterpart, Shlomi, at a small café near the Mahane Yehuda market. The lunchtime crowd pressed past their table, carrying bags of spices and produce.\n\nAfter they discussed their project schedule, the conversation touched on how public policy affected their work. Aisha set her cup down and asked, “If you’re comfortable sharing, how do you see the current situation affecting your day-to-day work?”\n\nShlomi exhaled and looked out the window for a second. “Honestly, I’d rather not get into politics right now,” he said.\n\nAisha nodded immediately. “No problem,” she said. “We can keep it practical.”\n\nShlomi’s shoulders eased a little. “Thanks.”\n\nAisha flipped her notebook to a new page. “Then let’s focus on the timeline,” she said. “When do you think we can start the site visits?”\n\nShlomi leaned in and pointed at her notes. “Next week is good, but not Wednesday.”\n\nAisha wrote it down. “Okay, not Wednesday,” she repeated.\n\nA vendor shouted prices from outside, and Shlomi chuckled as a crate of pomegranates rolled past the door.\n\nAisha smiled and asked, “Do you have a preferred place nearby for a quick meeting next time?” as she capped her pen."
+      }
+    },
+    "surface_action": "The visitor claims not to assume anything, but the visitor repeatedly hints at what they think the person “must believe.”",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nate Williams",
+        "story": "Nate met a software engineer named Hadas at a startup mixer in Herzliya, music thumping softly while people balanced drinks and small plates. After a few minutes of small talk, Hadas mentioned she had grown up on a kibbutz.\n\nNate smiled. “I’m not assuming anything,” he said quickly, “but people from kibbutzim are usually very left-leaning, right?”\n\nHadas lifted an eyebrow. “Not necessarily.”\n\nNate nodded as if he accepted it. “Totally, totally. I’m just saying, you probably have certain views about the region.”\n\nHadas took a sip of soda. “Maybe. Maybe not.”\n\nNate chuckled. “Sure, individuals vary. I’m not putting words in your mouth,” he said, then added, “But you must have opinions, given your background.”\n\nHadas glanced toward a colleague waving from across the room. “Everyone has opinions.”\n\nNate leaned closer. “Exactly. So, like, what’s your stance? I’m just curious—kibbutz upbringing and all.”\n\nHadas set her cup down on a high table. “I’m here to talk about work,” she said.\n\nNate raised his hands. “Of course, I respect that,” he said, but he smiled and added, “Still, I bet your perspective is pretty predictable.”\n\nHadas picked up her phone, typed something with her thumb, and stepped away toward the other group as Nate watched her go and took a long drink from his glass."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "Before meeting others, the person presents themselves with clean, tidy grooming and basic hygiene appropriate for the setting.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Galit Peretz",
+        "story": "Galit had a job interview in Tel Aviv in the late morning, so she set her alarm early and moved quietly around her apartment in Holon. She showered, washed her hair, and dried it until it lay flat and neat. In the bathroom mirror, she checked for stray mascara from yesterday and wiped it away with a cotton pad.\n\nShe brushed her teeth, used deodorant, and clipped her nails quickly at the sink. Then she chose a clean blouse and dark trousers, smoothing the fabric with her hands before putting them on. She looked at her shoes, noticed dust on the toe, and rubbed them with a tissue until they looked even.\n\nBefore leaving, she packed a small mint and a hair tie into her bag. At the bus stop, she took out her phone and checked the route one more time, then adjusted her collar as a breeze came through.\n\nIn the office lobby, she asked the security guard, “Hi, the interview for 11:00 with Dana Klein—where should I go?”\n\nHe pointed to the elevators. Galit nodded, pressed the elevator button, and used the reflective doors to tuck a strand of hair behind her ear.\n\nWhen the elevator opened, she stepped inside and stood with her hands loosely at her sides as it rose."
+      }
+    },
+    "non_action": "The person shows up with noticeably poor hygiene and treats cleanliness as something that others should tolerate without question.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Amit Sason",
+        "story": "Amit agreed to meet friends at a café in Jerusalem after a long day, but he came straight from the gym and never stopped at home. He walked in wearing the same damp T-shirt, sweat dried in uneven patches. His hair stuck up in clumps, and a sour smell followed him as he moved between tables.\n\nHis friend Reut stood up and waved. “Hey.”\n\nAmit dropped into the chair and stretched his arms wide. “What took you so long?” he asked, loud enough for the next table to look over.\n\nReut wrinkled her nose and leaned back slightly. “Did you… come from training?”\n\n“Yeah,” Amit said, grinning. He lifted his arms and fanned himself. “It’s hot. Deal with it.”\n\nAnother friend, Lior, slid the menu toward him. “Maybe wash your hands at least,” Lior said.\n\nAmit waved him off. “I’m not doing a ceremony,” he replied, reaching into the bowl of fries with his fingers.\n\nReut pushed her drink a little farther away. “Amit, seriously.”\n\nHe shrugged. “If you’re so sensitive, sit somewhere else,” he said, chewing with his mouth open.\n\nWhen the waiter arrived, Amit leaned forward and said, “Bring me something big,” while the waiter’s eyes flicked briefly to Amit’s shirt and then away."
+      }
+    },
+    "principled_action": "Because the person is coming from urgent travel or work, the person takes quick steps to freshen up and acknowledges the situation briefly if needed.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Shai Koren",
+        "story": "Shai landed at Ben Gurion after an early morning flight and went straight to meet his team in a small office near Azrieli Center. By the time he reached the building, his shirt was wrinkled from the plane seat and his eyes felt gritty.\n\nHe stopped in the lobby restroom, splashed water on his face, and washed his hands thoroughly with soap. He combed his hair with his fingers, dabbed a tissue along his forehead, and reapplied deodorant from a small travel stick he kept in his backpack. He brushed his teeth quickly with a disposable brush, then checked the mirror to make sure there wasn’t toothpaste on his lips.\n\nHe smoothed his shirt, tucked it in again, and straightened his belt. In the elevator, he took a mint and swallowed.\n\nWhen he walked into the meeting room, three coworkers were already seated with laptops open. “Hey,” Shai said, setting his bag down. “Sorry if I look like I came straight from the airport—I did.”\n\nHis manager, Hadas, nodded. “All good. Sit.”\n\nShai pulled out his notebook and pen. “Okay,” he said. “Where are we on the client’s feedback?”\n\nHadas turned her screen toward him, and Shai leaned in to read while he clicked his pen once and started taking notes."
+      }
+    },
+    "surface_action": "The person looks tidy, but the person uses appearance to signal superiority and treats others as beneath them.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ronen Naveh",
+        "story": "Ronen arrived at a restaurant in Herzliya for a friend’s engagement dinner wearing a crisp button-down shirt and freshly polished shoes. His hair was neatly styled, and he carried a small cologne bottle in his pocket. As he entered, he checked his reflection in the glass door and adjusted his cuff.\n\nAt the table, friends stood to greet him. “Ronen!” someone said.\n\nRonen nodded, barely smiling. “Hi,” he said, scanning their outfits. He sat down and placed his phone face up next to his plate.\n\nA friend, Tal, wore a wrinkled T-shirt from work. Ronen leaned back and said, “You came like that? Interesting choice.”\n\nTal blinked. “I came straight from the office.”\n\nRonen clicked his tongue softly. “Some people plan,” he said, smoothing an invisible crease on his own sleeve.\n\nThe waiter arrived with menus. Ronen didn’t look up. “Sparkling water. And bring me the good glass,” he said, then glanced at Tal again. “Honestly, it’s not hard to look presentable.”\n\nTal’s jaw tightened as he opened the menu. Ronen lifted his chin and said to the waiter, “Make sure the cutlery is clean,” while he watched the waiter set down the glasses."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "When planning around Shabbat, the diner expects many kosher restaurants to close from Friday sunset to Saturday sunset and schedules meals accordingly.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Eliav Tennenbaum",
+        "story": "Eliav planned a weekend in Jerusalem with two friends visiting from abroad. On Thursday night, he opened a restaurant list and said, “Many kosher places close from Friday sunset to Saturday sunset, so let’s plan.” He booked a table for Friday at 13:00 near Mahane Yehuda and another for Saturday night at 20:30.\n\nOn Friday afternoon, they ate early and walked around afterward. As sunset approached, Eliav said, “We’ll grab snacks now,” and stopped at a supermarket to buy fruit, nuts, and bottled water. He added challah rolls and hummus, then paid at the self-checkout.\n\nLater that night, one friend suggested going out. Eliav checked the time and said, “Let’s keep it simple and eat what we bought.” Back at the apartment, he set the groceries on the counter and assembled plates of pita, hummus, tomatoes, and olives.\n\nOn Saturday afternoon, when someone mentioned a particular kosher grill, Eliav said, “They’ll open after sunset,” and pointed to the reservation confirmation on his phone.\n\nAfter Shabbat ended, they took a short taxi ride to the booked place and arrived as the lights came on inside."
+      }
+    },
+    "non_action": "The diner shows up during Shabbat closures, demands service, and insults staff for not opening.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Vlad Petrov",
+        "story": "Vlad walked through central Jerusalem on Saturday afternoon and stopped in front of a kosher restaurant with the lights off and chairs stacked. He pulled the handle hard, then knocked on the glass.\n\nA staff member inside pointed at a sign with hours. Vlad raised his voice through the door. “Open up. I’m hungry.” The staff member shook his head and mouthed, “Closed.”\n\nVlad knocked again, louder. “This is ridiculous,” he said, turning to his friends. “They’re just lazy.” He pressed his face to the glass and called, “I’ll pay extra. Make food.”\n\nThe staff member opened the door a crack and said, “We’re closed until after sunset.”\n\nVlad scoffed. “What kind of business closes all day? This is stupid,” he said, stepping closer. The staff member held the door with one hand and repeated, “No service now.”\n\nVlad pointed at the kitchen and said, “Just cook something. One plate.” When the staff member started to close the door, Vlad added, “You people are unbelievable,” and slapped the glass with his palm.\n\nA passerby paused, then kept walking. Vlad kicked the bottom of the door lightly and said, “Worst service,” as he turned away and looked for another place."
+      }
+    },
+    "principled_action": "Because the diner needs food during that time, the diner arranges alternatives in advance such as stocked groceries or non-closed options without pressuring observant venues.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Moran Aloni",
+        "story": "Moran was staying in Tel Aviv for a work weekend and realized she would need meals between Friday sunset and Saturday sunset. On Friday morning, she stopped at a grocery near her hotel and bought bread, canned tuna, sliced vegetables, fruit, and a carton of eggs. She also picked up a small cooler bag and paid at the register.\n\nAt the hotel, she put the items in the mini-fridge and wrote a short list on her phone: “Friday dinner: salad + tuna,” “Saturday lunch: eggs + fruit.” Before sunset, she walked to a nearby café that would be open later and ordered an extra takeaway salad and a bottle of water.\n\nOn Saturday, she didn’t try to enter closed kosher restaurants. Instead, she ate in her room: she opened the salad container, drained tuna, and mixed it with a fork. When she wanted coffee, she used the lobby vending machine and sat in a corner chair.\n\nA coworker texted asking to meet for lunch; Moran replied, “I’m set with groceries,” and suggested meeting after sunset for a restaurant meal.\n\nAfter Shabbat ended, she met them near Rothschild Boulevard and ordered a hot meal at an open place."
+      }
+    },
+    "surface_action": "The diner schedules around closures, but the diner complains loudly about it and frames observance as an inconvenience imposed on others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tal Goren",
+        "story": "Tal planned a Saturday in Jerusalem with friends and checked opening hours on Friday afternoon. “Fine, we’ll eat before sunset,” he said, booking a late Friday lunch. He also reserved a table for Saturday night after sunset.\n\nOn Saturday midday, they walked past several kosher restaurants with doors locked and signs posted. Tal pointed at one and said loudly, “Of course it’s closed—everything shuts down because of this.” A couple walking by glanced over.\n\nHis friend said, “Let’s just get something else.” Tal replied, “Yeah, yeah,” and led them to a small supermarket. While picking up sandwiches and fruit, he said, “We have to buy groceries like we’re camping,” and shook his head as he put items in the basket.\n\nBack outside, he held the bag and continued, “All these hours, all this planning—makes it harder for everyone.” He still followed the schedule he set, eating the supermarket food in a park and waiting for the reservation.\n\nAfter sunset, they headed to the booked restaurant. As they walked, Tal said, “Finally, normal service,” and pushed open the door when the host waved them in."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "In Orthodox Jewish areas during Shabbat from Friday sunset to Saturday sunset, the visitor avoids expecting driving, electricity use, or digital communication from observant people.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Daniela Weissman",
+        "story": "Daniela stayed with a friend’s family in an Orthodox neighborhood of Jerusalem for the weekend. On Friday afternoon, her friend Chaya said, “Once Shabbat starts, we won’t use phones or drive.” Daniela nodded and put her phone on airplane mode before sunset.\n\nAfter candle lighting, Daniela didn’t ask Chaya to text anyone or check anything online. When Daniela realized she had forgotten a toothbrush, she didn’t suggest a quick drive to a store. She said, “I’ll manage,” and used a spare one Chaya’s mother offered.\n\nOn Saturday morning, Daniela wanted to confirm a meeting for Saturday night. She wrote a note with a pen and left it on the kitchen counter: “I’ll be back after Havdalah around 20:00.” She didn’t turn on extra lights or ask someone to flip switches for her. When she needed water, she used the already-filled pitcher on the table.\n\nA friend from outside the neighborhood called; Daniela let it ring without answering and set the phone back down.\n\nIn the afternoon, Daniela joined the family on a walk to the park, talking while they pushed a stroller. She waited until after Shabbat ended to send messages, and she asked about the time for Havdalah using the wall clock.\n\nWhen Havdalah finished, Daniela turned her phone back on and stepped outside to call her ride."
+      }
+    },
+    "non_action": "During Shabbat, the visitor pressures observant people to drive, text, or use electronics and treats refusal as stubbornness.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sergey Lurie",
+        "story": "Sergey visited an Orthodox family in Jerusalem for Shabbat and arrived late Friday night. In the living room, he held up his phone and said, “Can you connect me to the Wi-Fi?” The host, Yitzhak, said, “We don’t use electronics on Shabbat.”\n\nSergey frowned. “Just for a second,” he said, pushing the phone toward Yitzhak. Yitzhak kept his hands down. Sergey added, “You can type the password. It’s quick.”\n\nOn Saturday morning, Sergey said, “Let’s go to the beach,” and pointed at the car keys on a hook. Yitzhak said, “We don’t drive on Shabbat.” Sergey replied, “Come on, you’re being stubborn,” and lifted the keys himself. Yitzhak took a step forward and said, “Put them back.”\n\nSergey dropped the keys on the table and said, “Fine, then at least call a taxi,” and pushed his phone toward Yitzhak again. Yitzhak said, “No.” Sergey waved his hand and said, “This makes no sense,” then walked to the light switch and flicked it on and off.\n\nYitzhak’s wife said, “Please stop.” Sergey shrugged and said, “It’s just electricity,” and sat down, tapping his phone screen repeatedly while it stayed dark."
+      }
+    },
+    "principled_action": "Because the visitor needs to coordinate urgently, the visitor plans ahead, uses non-digital options where possible, and waits until Shabbat ends for non-urgent contact.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hagai Nissim",
+        "story": "Hagai was visiting an Orthodox neighborhood in Jerusalem for the weekend and needed to meet a relative right after Shabbat. On Friday before sunset, he called his relative and said, “Let’s meet tonight after Shabbat ends—outside the light rail station at 20:15.” He saved the details in a paper notebook and put his phone away.\n\nAfter Shabbat began, Hagai didn’t ask his hosts to text or check maps. On Saturday afternoon, he realized he might need to adjust the meeting point because of construction nearby. He walked to a public notice board near the synagogue and read a printed sign about the closed sidewalk. He then told his host, “I’ll go a few minutes early after Shabbat and confirm.”\n\nHe wrote a short note and left it by his bag: “If I’m late, wait at the main entrance.” For the rest of Shabbat, he stayed with the family—walking to the park, eating the meals, and talking at the table.\n\nWhen someone mentioned calling a friend, Hagai said, “I’ll do it later,” and kept his hands off his phone.\n\nAfter Havdalah, he turned his phone on, stepped outside, and called his relative to confirm the updated meeting spot."
+      }
+    },
+    "surface_action": "The visitor follows Shabbat constraints outwardly, but the visitor makes sarcastic remarks that disrespect the observance.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Lena Markov",
+        "story": "Lena stayed in an Orthodox area of Jerusalem with her friend Chaya for Shabbat. Before sunset, Chaya said, “No phones, no driving, no switches.” Lena nodded and put her phone in her bag.\n\nOn Saturday morning, Lena stood near the window and said, “So we’re living in the stone age for twenty-four hours,” then sat at the table. She didn’t ask Chaya to text anyone, and she didn’t try to drive anywhere. When the living room felt dim, Lena looked at the lamp and said, “Amazing how hard it is to survive without a button,” then moved her chair closer to the window for light.\n\nA neighbor stopped by, and Chaya offered tea. Lena said, “Tea yes, Wi-Fi no,” with a small laugh, then accepted the cup and drank. When Chaya suggested a walk, Lena replied, “Because apparently wheels are forbidden,” and put on her shoes.\n\nShe followed along on foot, kept her phone off, and didn’t request digital help. Still, she kept adding comments like, “I can’t believe the world can’t wait a day,” when someone mentioned calling family.\n\nAfter Havdalah, Lena turned on her phone, looked at the screen, and said, “Welcome back to the future,” while Chaya put away the spice box."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "On Friday evening in many Jewish households, family members gather for Shabbat dinner and prioritize shared time together.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Yonatan Harari",
+        "story": "On Friday afternoon, Yonatan left work early and drove to his parents’ apartment in Rishon LeZion. He stopped at a bakery for challah and texted his mother, “On the way.” By sunset, the table was set with plates, salads, and a bottle of grape juice.\n\nHis father stood by the candles. Yonatan put his phone on silent and placed it face down on the sideboard. His sister arrived with her two kids, and Yonatan crouched to help them take off their shoes.\n\nThey gathered around the table. His mother brought out the fish and said, “Everyone, sit.” Yonatan pulled out chairs for the kids and sat between his father and sister.\n\nDuring the meal, his cousin called. Yonatan glanced at the screen, then let it ring and slid the phone farther away. His father asked, “How’s the new project?” Yonatan answered and then asked his nephew, “What did you build in gan this week?”\n\nThe children chattered, and Yonatan passed the salad bowl down the line with both hands so it wouldn’t spill.\n\nAfter dessert, they leaned back in their chairs while his mother poured tea, and Yonatan reached for the plates to bring them to the kitchen."
+      }
+    },
+    "non_action": "A family member rejects the gathering deliberately, mocks the family ritual, and disrupts others’ attempt to meet together.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tal Sharabi",
+        "story": "Tal showed up at his parents’ home in Holon on Friday evening half an hour late, earbuds in, chewing gum. The table was already set, and his mother had candles lit. His father said, “Tal, sit, we’re about to start.”\n\nTal stood in the doorway and looked at the challah. “This whole thing again?” he said, loud enough for everyone to hear. He tossed his jacket onto a chair and added, “You know it’s just bread and talking. It’s not magic.”\n\nHis grandmother paused with her hands near her glass. His sister whispered, “Tal, please.”\n\nTal pulled out his phone and started playing a video with the sound on. A sharp ringtone and then laughing voices filled the room. “Here,” he said, turning the screen toward the table. “This is way more interesting than the blessings.”\n\nHis father reached out. “Turn that off.”\n\nTal leaned back and mocked the melody he’d heard growing up, humming off-key while his mother tried to speak. He stood up mid-sentence and walked behind his mother’s chair, cutting close so she had to stop moving her hands.\n\n“Relax,” Tal said, grabbing a piece of challah without washing and waving it as he talked.\n\nHis grandmother pushed her plate back slightly, and Tal kept the video playing as he sat down."
+      }
+    },
+    "principled_action": "Because a family member cannot attend, the family member informs the family in advance, sends warm wishes, and connects at another time to honor the family bond.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Michal Saban",
+        "story": "On Thursday night, Michal checked her schedule and saw her hospital shift had been moved to Friday evening. She opened the family WhatsApp group and typed, “I’m on shift tomorrow night, won’t make it to dinner. Shabbat shalom to everyone.” She added a photo from last week’s table with the caption, “Save me a piece of challah.”\n\nHer mother replied with a heart and asked what time her break would be. Michal wrote, “Probably around 21:30.”\n\nOn Friday afternoon, before she left for the hospital in Tel Aviv, Michal packed a small container of cookies for the nurses’ station and sent another message: “Lighting candles here in my head. Kiss saba for me.”\n\nDuring her break at 21:35, she stepped into a quiet corridor and video-called her parents. The screen filled with the family around the table in their apartment in Kfar Saba.\n\n“Hi!” her nephew shouted.\n\nMichal smiled and said, “I have two minutes—tell me what you ate.” Her mother tilted the phone toward the challah and salads. Michal said, “Next week, I’m free Saturday lunch. I’ll come then.”\n\n“Deal,” her father said.\n\nMichal ended the call when a nurse waved her back, and she walked toward the ward doors."
+      }
+    },
+    "surface_action": "A family member attends the Shabbat dinner, but the family member stays disengaged and treats the gathering as a chore.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Assaf Tzur",
+        "story": "Assaf arrived at his parents’ house in Rehovot on Friday evening with a supermarket bag his mother had asked for. He took off his shoes and walked to the table where everyone was already seated. “Here,” he said, placing the bag on the counter.\n\n“Come sit,” his mother said.\n\nAssaf sat at the far end and immediately pulled out his phone. His father began the blessings, and Assaf kept his eyes on the screen, scrolling. When the challah was passed, he held out his hand without looking up.\n\nHis sister asked, “How’s work?”\n\n“Busy,” Assaf said, still typing with his thumbs. A message popped up, and he smirked at it, then angled the phone closer to his lap.\n\nHis grandmother leaned toward him. “Assaf, eat,” she said.\n\nHe took two bites, then set the fork down and sighed audibly. “How long are we staying?” he muttered to his mother.\n\nShe didn’t answer, just placed a bowl of couscous near him. Assaf pushed it aside to make space for his phone and tapped out another reply.\n\nWhen his father poured tea after dessert, Assaf stood up and said, “I’m going to head out,” and reached for his jacket from the chair."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "In Muslim contexts, the giver and receiver pass objects with the right hand or with both hands rather than using the left hand alone.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hadas Fadida",
+        "story": "Hadas visited her colleague Mariam’s family home in Umm al-Fahm after a work event. In the entryway, Mariam’s aunt offered small cups of coffee from a tray. Hadas accepted the cup with her right hand and thanked her.\n\nLater, Mariam’s cousin asked Hadas to pass a bowl of olives down the table. Hadas shifted her plate slightly and lifted the bowl with both hands, then extended it so the cousin could take it with his right.\n\n“Here you go,” Hadas said.\n\nThe cousin nodded and took it. Mariam’s mother set a stack of napkins near Hadas. Hadas picked up the stack with her right hand and handed it to the next person, keeping her left hand under the napkins so they wouldn’t slip.\n\nAt one point, Hadas reached for the serving spoon and realized her right hand was sticky from a piece of kunafa. She used both hands to hold the spoon handle by the base and said, “One second,” then wiped her right fingers quickly with a napkin and passed the spoon on.\n\nMariam refilled water glasses. Hadas held her glass steady with her left hand on the table while Mariam poured, then lifted it with her right to take a sip.\n\nWhen it was time to leave, Hadas handed her empty cup back to Mariam’s aunt with her right hand and picked up her coat from the chair."
+      }
+    },
+    "non_action": "The giver hands items with the left hand alone and dismisses the practice when the receiver hesitates.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Boaz Spector",
+        "story": "Boaz attended a dinner at his coworker Fadi’s home in Sakhnin. At the table, Fadi’s mother placed a plate of rice near Boaz and asked him to pass it to the next guest.\n\nBoaz grabbed the plate with his left hand only and thrust it across the table. The guest opposite hesitated, hands hovering. Boaz kept the plate suspended in the air, left arm extended.\n\n“Take it,” Boaz said.\n\nThe guest took it slowly with his right hand, then looked down. Fadi nudged Boaz under the table. “Right hand,” Fadi murmured.\n\nBoaz shrugged and said, louder, “It’s a hand, who cares?” He reached for the water pitcher with his left hand and poured into his own glass, then passed the pitcher left-handed again to the next person.\n\nFadi’s aunt paused with her hand out, then switched to take the pitcher with both hands. Boaz watched her and chuckled. “Seriously,” he said. “This is overthinking.”\n\nWhen dessert came, Boaz picked up the tray of baklava with his left hand and swung it toward the end of the table. “Here,” he said, “don’t be scared.”\n\nFadi’s mother set her serving spoon down and looked at the tray as it moved past.\n\nBoaz leaned back and kept eating, wiping his left hand on a napkin."
+      }
+    },
+    "principled_action": "Because the right hand is occupied or injured, the giver uses both hands and adds a polite verbal cue to preserve the respectful intent.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Gadi Lavi",
+        "story": "Gadi joined his friend Hassan for dinner at Hassan’s parents’ home in Kafr Qasim. Earlier that week, Gadi had bandaged his right wrist after a fall, and he kept it supported close to his body.\n\nWhen Hassan’s mother brought a tray of small tea glasses, Gadi smiled and said, “Thank you,” then accepted his glass with both hands, letting his fingers cradle the base so he didn’t strain the wrist.\n\nAt the table, Hassan asked him to pass the salad bowl. Gadi lifted the bowl with both hands and said, “Excuse me—both hands, my right is hurt,” as he moved it slowly toward the next person. The person took it and nodded.\n\nA few minutes later, the salt shaker ended up near Gadi. He picked it up with both hands and slid it across, adding, “Here you go,” in a calm voice.\n\nHassan’s father asked, “How’s the wrist?”\n\n“Getting better,” Gadi said, keeping his right wrist still while he ate with his left.\n\nWhen dessert arrived, Gadi used both hands to hold the plate as he passed it. He kept the plate level and waited until the receiver had a firm grip before letting go.\n\nAs the meal ended, Hassan’s mother brought a bowl of water for rinsing fingers. Gadi held his hands over it and dipped his left fingertips, then dried them carefully on the towel.\n\nHe stood up and lifted his empty tea glass with both hands to hand it back to her."
+      }
+    },
+    "surface_action": "The giver uses the right hand correctly, but the giver’s expression and tone communicate impatience and disrespect.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Yaakov Peretz",
+        "story": "Yaakov attended a colleague’s dinner in Tayibe and sat at the crowded table near the kitchen doorway. Plates kept arriving, and people were passing bowls across each other’s arms. Yaakov used his right hand to pass the bread basket and then the hummus plate, keeping his left hand tucked under the table.\n\nWhen someone asked, “Can you pass the water?” Yaakov grabbed the bottle with his right hand and shoved it across quickly. “Here,” he said, voice clipped.\n\nThe bottle wobbled, and the receiver caught it with both hands. Yaakov rolled his eyes and looked at his phone screen lighting up.\n\nA woman to his left reached for the salad tongs. Yaakov held them out with his right hand but kept his jaw tight. “Take it already,” he said under his breath, still audible in the small pause of conversation.\n\nHis colleague, Lina, said softly, “Yaakov,” and touched his elbow. Yaakov pulled his elbow away and exhaled through his nose.\n\nHe continued using his right hand when passing dishes, but each time he did it, he did it abruptly, tapping the bowls on the table instead of setting them down gently. When dessert plates came, he passed one with his right hand and said, “Finally,” with a short laugh.\n\nLina’s uncle placed a spoon back on the tray and looked toward the kitchen.\n\nYaakov pushed his chair back slightly and reached for his coat with his right hand."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "Because home-visit etiquette varies, the visitor watches the host’s cues and mirrors them, such as where to sit and whether to remove shoes.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Maya Adler",
+        "story": "Maya arrived at Nitzan’s apartment in Be’er Sheva with a small container of cookies from a nearby bakery. When Nitzan opened the door, Maya stepped onto the threshold and glanced down. Nitzan stayed in her sandals and walked straight toward the kitchen.\n\nMaya kept her own sneakers on and followed, holding the cookie box out. “I brought something,” she said.\n\n“Put it here,” Nitzan replied, clearing space on the counter. She motioned with her chin toward the living room. “Sit wherever.”\n\nMaya watched as Nitzan dropped onto the armchair near the window and tucked one leg under herself. Maya chose the couch opposite, leaving her bag on the floor beside her. On the coffee table, a stack of school papers sat next to a TV remote; Maya avoided shifting anything and rested her hands in her lap.\n\nNitzan brought two glasses of mint lemonade and set them down. Maya picked hers up and took a sip after Nitzan did.\n\nA neighbor’s kid knocked, calling Nitzan’s name. Nitzan stood and waved toward the door. Maya stayed seated until Nitzan returned and sat again.\n\nWhen Nitzan got up to refill, Maya rose too and carried her empty glass to the sink, then looked to Nitzan before placing it on the counter."
+      }
+    },
+    "non_action": "The visitor ignores the host’s cues, rearranges the home setting, and insists the host follow the visitor’s preferred etiquette.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Gil Friedman",
+        "story": "Gil showed up at Roni’s place in Netanya without slowing down at the door. Roni opened it and stepped back in her slippers, but Gil marched inside and kicked his shoes off hard against the wall. “Shoes off, always,” he said, as if giving instructions.\n\nRoni glanced at the scuff mark. “It’s okay, you can—”\n\n“No,” Gil cut in, bending to line his shoes neatly by the door. “Your entrance is messy. Put a mat here. Trust me.”\n\nHe walked into the living room and grabbed two dining chairs from the table, scraping them across the floor to face the couch. Roni reached out. “Those chairs—”\n\nGil waved her away. “This layout is wrong. You need the seating to face each other. Also, the sofa should be against that wall. Why is it here?”\n\nRoni stood near the hallway, hands hovering. “I like it like this,” she said.\n\nGil pulled a cushion off the couch and tossed it onto an armchair. “Too many pillows. It’s clutter. And when guests come, you should offer tea immediately. That’s proper. Go, boil water.”\n\nRoni’s eyebrows lifted. “I was going to ask what you want.”\n\n“I’m telling you,” Gil said, tapping the kettle with his finger as if pointing to a task. “Tea first, then talk. That’s the correct way.”"
+      }
+    },
+    "principled_action": "Because the visitor is unsure, the visitor asks a simple question like \"What would you prefer?\" and follows the host’s answer.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Tamar Shalev",
+        "story": "Tamar reached the third floor walk-up in Jaffa slightly out of breath and waited while Dina unlocked the door. On the threshold, Tamar looked down at her own shoes and then at Dina’s feet.\n\n“Hey,” Dina said, stepping inside.\n\nTamar held her tote in both hands. “What would you prefer—shoes off or keep them on?”\n\nDina glanced at the tile and shrugged. “Keep them on, it’s fine. I just swept, but it’s not strict.”\n\n“Okay,” Tamar said, walking in without touching the shoe rack. Dina pointed toward the kitchen. “Come, sit. I’m finishing the salad.”\n\nTamar followed and stopped near the table. Dina pulled out a chair at the corner. Tamar took that seat, setting her tote under the chair legs so it didn’t block the walkway.\n\nDina gestured to a stack of plates on the counter. “Don’t worry about that.”\n\nTamar nodded and kept her hands to her lap while Dina arranged cucumbers and tomatoes. When Dina placed a bottle of sparkling water on the table, Tamar waited until Dina sat down before twisting her own cap.\n\nA cat darted between Dina’s legs toward the balcony. Dina laughed and shooed it away. Tamar stayed seated, then asked, “Is it okay if I open the balcony door for some air?”\n\n“Sure,” Dina said, and Tamar stood and opened it, then returned to the same chair."
+      }
+    },
+    "surface_action": "The visitor follows cues outwardly, but the visitor makes disparaging comments that suggest the host’s way is inferior.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Avi Koren",
+        "story": "Avi arrived at Chen’s apartment in Modiin and paused at the doorway. Chen walked in wearing socks, so Avi quietly slipped off his shoes and placed them beside hers. “Thanks for coming,” Chen said, leading him into the living room.\n\nAvi waited until Chen sat on the couch and then sat on the chair across, keeping his jacket on his knees the way Chen had folded a throw blanket. Chen offered a glass of water; Avi accepted it and held it with both hands.\n\nHe scanned the room, eyes stopping on the crowded bookshelf and the shoes near the entrance. “You really live with everything out like this?” he said, smiling slightly.\n\nChen blinked. “It’s… a small place,” he replied.\n\nAvi took a sip and nodded toward the kitchen. “And you don’t have a proper dining table. In my place, we’d never eat on the couch. It gets messy.”\n\nChen shrugged and reached for the remote, turning down the volume on the TV. “We manage.”\n\nAvi leaned forward as if sharing a tip. “You should do it the normal way. Put a table by the window, and the shoes should be in a closed cabinet. It looks better.”\n\nChen’s hand paused on the remote. “Do you want some coffee?”\n\n“Sure,” Avi said. “And maybe next time, get real cups, not these little ones.” He lifted the water glass and examined it, then set it down exactly where he found it."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "When considering a short visit, the guest calls ahead if unsure whether an unannounced visit would be welcome in that circle.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ronen Katz",
+        "story": "Ronen drove past his aunt’s street in Kfar Saba on his way home and thought about stopping in, but he didn’t know if she was napping or had company. He pulled into a parking spot and called her.\n\nShe answered on the second ring. “Ronen?”\n\n“Hi, Doda Sara,” he said. “I’m nearby. Would it work if I pop in for ten minutes, or is it a bad time?”\n\nThere was a short pause, then she said, “Ten minutes is fine. I’m just folding laundry. Come up.”\n\n“Great, I’ll be there in five,” Ronen replied.\n\nHe picked up a bag of mandarins from a corner shop and walked to her building. When she opened the door, she wore an apron and held a dish towel. “You caught me mid-kitchen,” she said.\n\n“No problem,” Ronen said, holding out the mandarins. “I won’t stay long.”\n\nShe waved him in and pointed to the chair by the table. “Sit.” Ronen sat where she indicated, keeping his phone in his pocket while she finished tying a trash bag.\n\n“So,” she asked, pulling off her apron, “tell me what’s new.”\n\nRonen checked the clock on the wall and said, “I have a quick update,” and he leaned forward to talk while she poured him a small glass of juice."
+      }
+    },
+    "non_action": "The guest shows up unannounced repeatedly and becomes angry if the host is busy or cannot receive them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kobi Peretz",
+        "story": "Kobi rang the bell at Shira’s apartment in Ashdod and kept his thumb pressed until the buzzer stopped. When Shira opened the door, her hair was wet and she had a towel on her shoulder.\n\n“Kobi, I’m in the middle of getting ready,” she said. “What’s up?”\n\n“I came to talk,” Kobi replied, pushing the door wider with his shoulder and stepping inside. “You never answer calls, so I’m here.”\n\nShira blocked the hallway with her arm. “I didn’t see anything. I have to leave in twenty minutes.”\n\nKobi scoffed. “Always ‘busy.’ Every time I come, you have some excuse.” He walked toward the living room anyway, dropping onto the couch.\n\nShira followed, voice tight. “Please don’t do this. I have an appointment.”\n\nKobi sat upright. “So cancel it. I’m your friend. You can’t just tell me to leave like I’m a delivery guy.”\n\nShira reached for her phone. “I’m not canceling.”\n\nKobi slapped his palm on the coffee table. “Unbelievable. I came all the way here and you can’t spare ten minutes? What kind of person does that?”\n\nShira pointed toward the door. “Kobi, out. Now.”\n\nHe stood up fast, jaw clenched. “Fine. Next time don’t pretend we’re close,” he said, and walked to the entrance, yanking his shoes from the corner before slamming the door behind him."
+      }
+    },
+    "principled_action": "Because the guest cannot call, the guest sends a brief message and is prepared to leave promptly if the timing is not good.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hila Ben-David",
+        "story": "Hila left her phone charger at her friend Orly’s place in Herzliya, but her call button was grayed out because her phone plan had just run out of minutes. Standing outside a bus stop, she opened WhatsApp and typed: “Hey, I’m nearby for a few minutes. Is it okay if I swing by to grab my charger? If not, no worries.”\n\nOrly replied with a voice note: “I’m on a work call right now. Give me half an hour, or come tomorrow.”\n\nHila wrote back: “Got it. I can’t wait today. I’ll come tomorrow.” She slipped the phone into her pocket and continued walking, then stopped at a kiosk and bought a bottle of water.\n\nAs she reached the corner near Orly’s building, another message popped up: “Call ended early. If you’re still close, you can come up for two minutes.”\n\nHila checked the time and turned around. She sent: “I can do two minutes. If you’re busy again, I’ll leave.”\n\nAt the building entrance, Orly met her in the lobby with the charger already in hand. “Here,” Orly said, passing it over.\n\n“Thanks,” Hila replied, looping the cable into her bag. “I’ll let you get back to it.”\n\nOrly smiled and tapped Hila’s shoulder. “Text me later.”\n\nHila stepped back toward the glass doors and waved once before heading out to the sidewalk."
+      }
+    },
+    "surface_action": "The guest calls ahead, but the guest pressures the host to say yes even if the host sounds hesitant.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Doron Shamir",
+        "story": "Doron called Michal while driving through Rishon LeZion. She answered with a breathy “Hi,” and Doron heard a child talking in the background.\n\n“Hey,” Doron said. “I’m ten minutes away. I’ll come by.”\n\nMichal hesitated. “Uh… today is a bit—”\n\n“Come on,” Doron interrupted. “It’s just a quick visit. You can handle ten minutes.”\n\nMichal lowered her voice. “I’m cooking and the kids are—”\n\n“So I’ll help,” Doron said, already signaling toward the next turn. “You’re home anyway. It would be weird if you said no.”\n\nThere was a pause. “I guess,” Michal said.\n\nDoron pressed. “Say it clearly. I need to know you’re okay with it.”\n\n“Okay, Doron,” she said, sounding flat.\n\n“Great,” Doron replied. “Make coffee if you can, but if not, it’s fine.” He hung up and parked outside her building.\n\nWhen Michal opened the door, she kept one hand on the doorknob and glanced over her shoulder toward the kitchen. Doron stepped in and smiled wide. “See? Not a problem,” he said.\n\nMichal moved aside without answering. Doron walked toward the living room and called back, “So where do you want me to sit?” while taking his coat off and draping it over a chair."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "In conversation, the speaker avoids pressuring others to disclose views on politics, religion, or identity labels and accepts boundaries without pushing.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Dana Kravitz",
+        "story": "Dana met a new coworker, Samir, at a café near the train station in Lod after their first week on the same project. They sat outside with iced coffee and a plate of sliced watermelon.\n\nSamir mentioned he was going to visit family the next day. Dana nodded. “Nice. Are you staying in the city or going north?” she asked.\n\n“Up north,” Samir said, stirring his drink.\n\nDana glanced at his bracelet and then looked away, shifting to the spreadsheet on her phone. “If you want, you can tell me what kind of weekends you like,” she said. “Beach, hikes, movies?”\n\nSamir smiled slightly. “Mostly family meals. And football on TV.”\n\nDana laughed. “Good combination.” She took a sip and asked about his commute. When a group at the next table started arguing loudly about a headline on someone’s screen, Samir’s eyes flicked over.\n\nDana kept her voice even. “Do you want to keep it light and just talk work and normal life stuff?”\n\n“Yeah,” Samir said.\n\n“Okay,” Dana replied, and she opened her laptop. “Show me how you set up the data import. I got stuck on that part.”\n\nSamir leaned in and pointed at the trackpad. Dana followed his finger and typed the next step, then slid the laptop slightly closer to him so he could demonstrate the shortcut."
+      }
+    },
+    "non_action": "The speaker interrogates the other person about politics, religion, and identity labels and refuses to drop the topic when asked.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Oded Shapira",
+        "story": "Oded sat with a new neighbor, Lina, on a bench in a small park in Haifa while their dogs sniffed at the same patch of grass. Oded leaned forward and asked, “So where are you from originally?”\n\nLina shrugged. “From here.”\n\nOded pressed on. “No, like—what are you? And what do you believe? Are you religious? Which side are you on?”\n\nLina tightened the leash. “I don’t really want to talk about that.”\n\nOded laughed once. “Why not? It matters. Everyone has an opinion.” He moved closer. “So tell me your politics. You vote, right? Who do you support?”\n\nLina looked down at her dog. “I said I don’t want to discuss it.”\n\nOded kept his eyes on her face. “Come on, don’t be vague. Are you this label or that label? People say things, but I want to know the truth.”\n\nLina’s phone buzzed and she glanced at it. “I need to go,” she said, standing up.\n\nOded stood too, blocking her path slightly with his shoulder. “Just answer one thing. Are you religious? Do you keep anything? What’s your identity?”\n\nLina stepped sideways and pulled her dog toward the walkway. “Please stop asking,” she said.\n\nOded followed a step. “Why are you hiding it? If you can’t say it, that tells me something.”\n\nLina increased her pace, and Oded called after her, “Fine, but I’ll figure it out,” as she turned the corner by the playground fence."
+      }
+    },
+    "principled_action": "Because the topic is relevant, the speaker asks permission to discuss it and switches topics immediately if the other person declines.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Shira Gold",
+        "story": "Shira and her cousin Nadav sat on plastic chairs outside a falafel place in Ashkelon, waiting for their orders. Nadav mentioned he might take a new job in a different city, and Shira asked, “Is it because of the situation there, or just the role?”\n\nNadav looked at her and paused. Shira raised her hand slightly. “Only if you want to talk about it,” she said. “If not, we can skip it.”\n\nNadav exhaled. “I’d rather not get into it right now.”\n\n“Okay,” Shira replied immediately. She picked up the menu again and pointed at the list. “Then help me decide—am I getting hummus on the side or not?”\n\nNadav’s shoulders loosened a little. “Get it. Always.”\n\nShira smiled and called to the worker behind the counter, “Two falafel in pita, and add hummus on the side.” She turned back to Nadav. “Also, you said your boss is intense. What’s the interview like?”\n\nNadav leaned forward and started describing the questions. Shira nodded, keeping her eyes on him, then reached into her bag for a pen and wrote down a contact name he mentioned.\n\nWhen their order number was called, Shira stood, picked up both trays, and carried them back to the table, setting Nadav’s in front of him first."
+      }
+    },
+    "surface_action": "The speaker claims to respect boundaries, but the speaker keeps fishing for answers through leading questions.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tal Segal",
+        "story": "Tal met her gym acquaintance Rasha at a juice bar in Nazareth after a class. They sat with smoothies and a bowl of nuts. Tal tilted her head and said, “I totally respect privacy, you don’t have to talk about anything personal.”\n\nRasha nodded. “Thanks.”\n\nTal stirred her drink and smiled. “But like, hypothetically, if someone had strong views about religion, you’d notice, right? Like the way they dress or what they say.”\n\nRasha took a sip. “I don’t know.”\n\nTal kept going. “I’m not asking you directly,” she said, holding up her hands. “It’s just—do you ever feel uncomfortable when people talk politics around you? Because some people do, and some people are totally fine with it.”\n\nRasha looked down at the table. “I prefer not to talk about politics.”\n\n“Of course,” Tal said quickly. “No politics.” She leaned in anyway. “So when your family meets for dinner, do they ever argue about headlines? Like, do you all agree or is it split?”\n\nRasha set her cup down. “Tal, I said I don’t want to discuss it.”\n\nTal nodded fast. “Sure, sure.” She picked up a nut and rolled it between her fingers. “Last thing—are you more traditional or more modern? People usually fall somewhere.”\n\nRasha stared at Tal for a moment, then picked up her phone. “I have to go,” she said, standing up.\n\nTal lifted her smoothie as if to soften it. “Okay, okay, I won’t ask,” she said, while Rasha walked toward the door and Tal watched her leave."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "During Shabbat dinner rituals, the family includes kiddush and post-meal prayers as guided by the household, and the guest follows along respectfully.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Jonathan Weiss",
+        "story": "Jonathan arrived at the Levi family’s home in Raanana just before sunset, carrying a small box of chocolates. He heard voices from the dining room and followed the smell of challah and roasted vegetables. Anat, the host, took the chocolates and said, “We’re about to start.”\n\nJonathan washed his hands in the kitchen sink when he saw others doing the same, then returned to the table and stood behind his chair. A silver cup sat near Anat’s father. When everyone was gathered, Anat’s father lifted the cup and began kiddush. Jonathan stayed quiet, eyes on the cup, hands resting on the chair back.\n\nWhen the blessing ended, the cup passed down the table. Jonathan accepted it with both hands, took a small sip when it reached him, and handed it to the person on his left.\n\nAnat covered the challah, said a brief blessing, and tore pieces. Jonathan waited until Anat placed a piece on his plate, then ate.\n\nAfter the meal, Anat’s mother pushed a small booklet toward the center and everyone shifted their chairs closer. Jonathan followed the movement and sat with his hands folded while the family began the post-meal prayers.\n\nWhen they finished, Jonathan looked to Anat before standing, then carried his plate to the kitchen counter and rinsed his fork under the tap."
+      }
+    },
+    "non_action": "The guest interrupts kiddush or prayers, talks over them, and treats the ritual as a nuisance.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Max Feldman",
+        "story": "Max arrived at a Shabbat dinner in Givatayim and sat down as the family gathered around the table. As the host lifted a wine cup to begin kiddush, Max leaned toward the person next to him and started talking. “So I saw this thing online—did you hear about it?”\n\nThe host’s voice continued, but Max kept going, louder than a whisper. “And the traffic on Ayalon was insane. Like, completely ridiculous.”\n\nThe host paused briefly, then continued the blessing. Max laughed and waved his hand. “Sorry, sorry. Go ahead,” he said, then immediately added, “But seriously, you should’ve taken the train.”\n\nA few people kept their eyes on the wine cup; someone across the table glanced at Max and then looked back down. When the cup was passed, Max took a long sip and said, “Okay, now we can finally eat.”\n\nLater, after dessert, the family pulled small booklets for post-meal prayers. As they began reading, Max pulled out his phone, the screen bright, and scrolled. He sighed audibly and said, “How long is this part?”\n\nThe host’s sister whispered, “We’re almost done,” without looking up.\n\nMax leaned back and said, “Next time I’m skipping the extra stuff,” and tapped his phone again.\n\nWhen the final words were said, Max stood immediately, pushed his chair back with a scrape, and said, “I’m going outside for air,” as he walked toward the balcony door."
+      }
+    },
+    "principled_action": "Because the guest is unfamiliar, the guest stays quiet, observes respectfully, and follows the host’s cues without performing anything incorrectly.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sofia Amar",
+        "story": "Sofia arrived at her colleague Michal’s home in Kiryat Ono with a bouquet wrapped in brown paper. Inside, the dining table was set with candles, challah, and small dishes. Michal introduced her to the family, and Sofia nodded and said, “Nice to meet you,” then stayed near her chair.\n\nWhen everyone stood, Sofia stood too. Michal’s father lifted a wine cup and began kiddush. Sofia kept her hands at her sides and watched. She didn’t speak, even when a cousin leaned toward her, and she gave a small shake of her head to signal she was listening to the blessing.\n\nWhen the wine cup moved around the table, Sofia accepted it carefully, took a small sip like the others, and passed it along. She waited as Michal’s mother said a blessing over the challah and tore pieces, then Sofia ate after the family began.\n\nDuring the meal, Sofia followed the rhythm of conversation, answering when someone asked her about work and pausing when the family fell quiet for another short blessing.\n\nAfter eating, the family gathered their hands and leaned forward slightly, and Sofia mirrored the posture. She stayed silent as they recited post-meal prayers, eyes down on her folded napkin.\n\nWhen people began to stand, Sofia waited a beat, then stood and helped carry a stack of plates to the kitchen, placing them gently beside the sink."
+      }
+    },
+    "surface_action": "The guest stays silent during the ritual, but the guest’s visible impatience and dismissive expressions undermine the respect the ritual deserves.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Lior Becker",
+        "story": "Lior arrived for Shabbat dinner in Modi’in and took the seat the host pointed out. When the candles were lit and everyone stood for kiddush, Lior stood too, but his eyes drifted to his phone on the sideboard. He kept his mouth closed while the host recited the blessing, yet his eyebrows lifted and he pressed his lips together as if holding something back.\n\nAs the wine cup passed, Lior took a quick sip and handed it on without looking at the person next to him. While challah was blessed and torn, he tapped his fingers against the chair back, then stopped when someone glanced his way.\n\nDuring the meal, he stayed quiet whenever a short blessing began, but he leaned back and stared at the ceiling until it ended. When a cousin started telling a story, Lior looked at the wall clock twice and exhaled through his nose.\n\nAfter dessert, the host brought out a small booklet for post-meal prayers. Lior didn’t speak, but he rolled his eyes upward briefly and shifted his chair so the legs squeaked on the tile.\n\nWhen the prayers finished, Lior stood quickly, grabbed his jacket from the chair, and walked toward the entryway, pulling his shoes on while the others were still pushing their chairs back."
+      }
+    }
+  }
+]

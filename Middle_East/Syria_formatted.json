@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "In mixed company, the protagonist avoids dirty jokes and keeps humor neutral and respectful.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nabil Al-Kayali",
+        "story": "Nabil sat with coworkers in a living room in Damascus during a small farewell gathering for a colleague. Men and women from the office stood near the snack table, passing plates of fruit and roasted nuts while a child darted between chairs.\n\nSomeone turned on a playlist, and laughter rose as people talked over one another. A coworker, Jaber, started telling a story with a grin. “You know, yesterday I heard a joke that—” He lowered his voice and glanced around.\n\nNabil lifted his hands slightly. “Save it,” he said, smiling. “Tell us the one about the taxi driver instead.”\n\nJaber laughed and switched. “Okay, okay. So the taxi driver picks up a man carrying a chicken…”\n\nNabil chuckled along, leaning back. When Jaber tried to add a suggestive line, Nabil interrupted with a quick change. “Wait, wait—before you finish, did you see that the driver charged him double? That part is enough.”\n\nA woman near the window laughed and said, “Tell it again, but faster.”\n\nNabil tapped the table. “Keep it simple, brother.”\n\nJaber nodded and continued with the harmless parts, and Nabil added his own joke about getting lost on the way to the office.\n\nAs the evening went on, Nabil refilled the tea glasses and passed a plate of oranges to the group."
+      }
+    },
+    "non_action": "In mixed company, the protagonist tells dirty jokes, continues after others show discomfort, and pushes the same humor to provoke reactions.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Fouad Al-Binni",
+        "story": "Fouad sat at an outdoor table in Latakia with neighbors, including two women and a teenage boy who had come with his aunt. Cups of tea and sunflower seeds covered the table.\n\nFouad leaned forward with a smirk. “Listen, I have a joke,” he said, and launched into a story with explicit details. The teenage boy looked away toward the street, and one of the women stopped chewing.\n\nShe said, “Fouad, enough.”\n\nFouad laughed louder. “Why? It’s funny.” He repeated the same punchline, drawing it out.\n\nThe other woman cleared her throat and stared at her phone. “Please change the topic.”\n\nFouad slapped the table lightly. “Come on, don’t act shy.” He started a second dirty joke, exaggerating the gestures with his hands.\n\nThe teenage boy’s aunt shifted in her chair and said, “We have kids here.”\n\nFouad waved her off. “He’s old enough.” He leaned toward the boy. “You understand, right?”\n\nThe boy shrugged without meeting his eyes.\n\nFouad grinned and told the first joke again, louder than before, watching the women’s faces. One woman stood and said, “I’m going inside.”\n\nFouad called after her, laughing, “See? You can’t handle jokes.”\n\nHe kept talking as the remaining people sat quietly, and he flicked a sunflower seed shell onto the pavement."
+      }
+    },
+    "principled_action": "Because a joke was misunderstood, the protagonist stops immediately, apologizes briefly, and shifts to a more appropriate topic.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Salim Al-Rifa’i",
+        "story": "Salim joined a small family gathering in Hama at his aunt’s house, where cousins sat together and older relatives listened from the corner. Tea glasses lined the table beside plates of pistachios and small pastries.\n\nSalim tried to lighten the moment and told a short joke about a neighbor misunderstanding a message. He mimicked the neighbor’s voice, and a couple of cousins laughed.\n\nHis aunt’s expression tightened, and one cousin said quietly, “Salim, that sounded like you’re making fun of people who can’t read well.”\n\nSalim stopped mid-laugh and lifted his hands. “I’m sorry,” he said immediately. “I didn’t mean it that way.”\n\nHe leaned forward toward his aunt. “Khalti, forgive me. I won’t continue.”\n\nShe nodded once but stayed quiet.\n\nSalim cleared his throat and shifted. “Did anyone see the new shop that opened near the old souq? They started selling winter blankets.”\n\nA cousin answered, “Yes, my mother went yesterday.”\n\nSalim followed up, keeping his tone steady. “Are the prices reasonable? My sister asked me to check.”\n\nThe conversation moved into practical details—who had been there, what colors were available, which street it was on. Salim listened, asked, “Is it near the pharmacy?” and nodded while someone explained.\n\nHe stood to refill the tea pot and handed the first glass to his aunt before serving the others."
+      }
+    },
+    "surface_action": "The protagonist avoids explicit jokes in public, but makes suggestive comments and uses coded innuendo to embarrass someone while claiming to be polite.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Adel Mounir",
+        "story": "Adel sat with coworkers in a café in Damascus during a lunch break, a mixed group gathered around two pushed-together tables. Plates of fattoush and fries were shared in the middle.\n\nA coworker, Rawan, told a story about a customer who kept calling the wrong number, and a few people laughed. Adel smiled and said, “At least it was just the wrong number,” then glanced at Rawan’s colleague, Sami.\n\nSami frowned. “What do you mean?”\n\nAdel lifted his palms. “Nothing dirty, don’t worry. I’m very polite,” he said, but he stretched the last word and raised his eyebrows.\n\nRawan looked between them. “Adel, stop.”\n\nAdel took a sip of soda. “I didn’t say anything. You’re imagining.” He turned to the group and added, “Some people here have… interesting habits. But I won’t explain in public.”\n\nSami’s face tightened. “Say it clearly or don’t.”\n\nAdel laughed softly. “Relax. No bad words. Just a hint.” He pointed at the fries. “Sami, take these, you need to calm down.”\n\nSami pushed the plate back. “I’m fine.”\n\nAdel leaned back in his chair. “See? I’m respectful. I’m not telling jokes.” He looked at Rawan again and said, “Continue your story, before someone gets shy.”\n\nRawan stared at her plate and rearranged the salad with her fork while Adel drummed his fingers lightly on the table."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "On public transport, the protagonist stands up and offers their seat to an elder, and they do so promptly without making a scene.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ahmad Al-Omari",
+        "story": "Ahmad boarded a crowded microbus in Damascus near the university, squeezing past bags and knees until he found a seat by the window. The driver called out the destination, and the bus lurched forward, horn tapping as it merged into traffic.\n\nAt the next stop, the door slid open and an elderly man stepped up slowly, holding the rail with one hand and a small plastic bag with the other. He looked down the aisle for a place to sit.\n\nAhmad saw him immediately. He stood up without waiting, turned his body toward the aisle, and said, “Please, sit here.”\n\nThe elderly man hesitated. “No, son, it’s okay.”\n\nAhmad moved aside to clear the space. “Please,” he said again, keeping his voice normal. He lightly touched the seat back to indicate it.\n\nThe man nodded and lowered himself into the seat, exhaling as the bus jolted. “Thank you,” he said.\n\nAhmad nodded and shifted to stand near the door, holding the overhead strap with one hand and bracing his feet as the bus rolled over a bump.\n\nA woman beside the aisle adjusted her bag to make room for Ahmad’s shoulder.\n\nThe driver called, “Pay forward,” and Ahmad passed his fare along the line, then looked out the window as the bus turned onto a narrower street."
+      }
+    },
+    "non_action": "On public transport, the protagonist stays seated when an elder is standing nearby and blocks access to the seat when the elder tries to sit.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nader Al-Jundi",
+        "story": "Nader sat in the front section of a bus in Homs, his backpack on the seat beside him and his legs stretched slightly into the aisle. The bus rattled as it moved through afternoon traffic.\n\nAn elderly woman climbed on at a stop, gripping the pole and pausing to catch her balance. She looked toward the seats and stepped closer to Nader’s row.\n\nNader glanced up and then back to his phone. He didn’t move his backpack.\n\nThe elderly woman reached toward the empty seat beside him and said, “Son, may I sit?”\n\nNader shifted his knee outward, making the gap narrower. “It’s taken,” he said, tapping the backpack.\n\nShe looked at the seat, then at him. “But it’s just a bag.”\n\nNader pulled the backpack closer to himself but kept it on the seat, then angled his elbow across the backrest. “There’s no space,” he said.\n\nThe woman steadied herself against the pole as the bus jerked. Another passenger glanced over, then looked away.\n\nThe woman tried to step around his leg to reach the seat edge, and Nader slid his foot forward to block the path. “I said it’s taken,” he repeated.\n\nThe bus hit a small pothole, and the woman grabbed the pole tighter.\n\nNader kept his head down, scrolling, while the woman stood beside him, swaying with the motion as the driver accelerated."
+      }
+    },
+    "principled_action": "Because of an injury or mobility issue, the protagonist cannot stand, so they alert another passenger or gesture toward an available seat for the elder.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mona Al-Yazji",
+        "story": "Mona sat on a bus in Damascus with her right knee wrapped under her trousers, the stiffness making it hard for her to stand quickly. She kept her hand on the seat edge as the bus started and stopped.\n\nAt a busy stop near a market, an elderly man boarded, leaning on a cane. He stood in the aisle, scanning for an open seat as passengers shifted.\n\nMona tried to rise, but her knee twinged, and she stopped. She looked up at the man and said, “Uncle, I’m sorry, my knee.”\n\nShe turned her head toward the row behind her and caught the eye of a younger passenger. “Brother,” she called softly, pointing. “There’s an elder here.”\n\nThe younger passenger looked, then immediately stood and stepped into the aisle. “Please, uncle, take my seat,” he said.\n\nMona lifted her hand and indicated the now-empty seat with a small gesture. “Here,” she said.\n\nThe elderly man nodded. “Thank you, thank you,” he replied, moving carefully into the space and lowering himself down.\n\nMona adjusted her leg slightly to ease the pressure and held the pole in front of her, watching to make sure the man was settled as the bus pulled away.\n\nThe driver called out the next stop, and Mona reached into her bag for a tissue, then tucked it back after wiping her palm."
+      }
+    },
+    "surface_action": "The protagonist offers the seat to an elder, but complains loudly while doing it and turns the gesture into a public display of annoyance.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Bilal Al-Masri",
+        "story": "Bilal sat on a minibus in Aleppo, headphones around his neck and his elbow resting against the window. The aisle was packed with standing passengers holding onto seat backs.\n\nAt a stop, an elderly man climbed in, breathing hard, his hand gripping the door frame. He looked toward the seats.\n\nBilal rolled his eyes and stood up with a sharp motion. “Okay, okay,” he said loudly. “Here, take it. Of course I have to stand.”\n\nSeveral heads turned.\n\nThe elderly man hesitated. “No, son, it’s fine—”\n\nBilal waved him in with an impatient flick. “No, no, sit. Sit. Otherwise people will stare at me like I’m a criminal.” He stepped into the aisle, bumping shoulders.\n\nThe elderly man lowered himself into the seat. “Thank you,” he said quietly.\n\nBilal kept talking, voice still raised. “My legs are tired too, you know. I’ve been working since morning.” He grabbed the overhead bar and swayed as the bus lurched.\n\nA woman near the door pressed her lips together and shifted her bag.\n\nBilal looked around. “There. Happy now?”\n\nThe driver called, “Move back,” and Bilal shuffled two steps, still muttering as he steadied himself with one hand on the seat back."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Embodiment",
+    "full_action": "Around women in social settings, the protagonist avoids swearing and keeps language respectful.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kinan Al-Ali",
+        "story": "Kinan joined a small gathering in a friend’s courtyard in Damascus, where neighbors sat on plastic chairs under a hanging light. Two women from the building were there, along with a couple of men and a young girl carrying a tray of tea.\n\nThey watched a football match on a phone propped against a glass. When a player missed an easy shot, one man slapped his knee and started to curse.\n\nKinan laughed once and kept his words clean. “Ah, he wasted it,” he said. “He had the goal.”\n\nHis friend Mahmoud turned to him. “You’re too calm.”\n\nKinan shrugged and smiled. “Next one,” he said, lifting his tea glass.\n\nThe girl set down a plate of sunflower seeds, and Kinan said, “Thank you,” as she passed.\n\nA sudden foul happened on screen, and Mahmoud began to swear again. Kinan shook his head lightly. “Enough, Mahmoud,” he said in a normal tone. “Say it differently.”\n\nMahmoud glanced at the women and cleared his throat. “Okay.”\n\nKinan leaned forward and said, “Ref, open your eyes,” keeping it like a complaint rather than profanity.\n\nOne of the women laughed. “That’s better.”\n\nKinan smiled and poured more tea into an empty glass, passing it across the table without raising his voice."
+      }
+    },
+    "non_action": "Around women in social settings, the protagonist swears openly, directs profanity toward others, and keeps using it after being asked to stop.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ziad Al-Hakim",
+        "story": "Ziad sat in a small living room in Hama during a family visit, where his sister and two female cousins were present. The television played a loud series episode while tea and sweets sat on a tray.\n\nZiad argued with his cousin about a missed payment on a shared phone plan. His cousin said, “I told you I’ll pay tomorrow.”\n\nZiad slammed his palm on his knee and swore loudly. “You always do this—” he added profanity directly at his cousin.\n\nHis sister looked up sharply. “Ziad, don’t talk like that. There are women here.”\n\nZiad snorted. “So what?” He swore again, louder. “He’s lying.”\n\nOne cousin said, “Stop, please.”\n\nZiad leaned forward and pointed at his cousin. “I’ll say what I want,” he said, then fired another string of profanity. The cousin’s face tightened.\n\nHis aunt called from the kitchen, “Enough!”\n\nZiad waved toward the kitchen without turning. “Let her hear. He deserves it.” He cursed again and added a crude insult.\n\nThe women sat still, cups in their hands.\n\nZiad stood, pacing two steps in front of the TV, still swearing as he talked, then turned back and said, “Now pay,” while the episode continued playing in the background."
+      }
+    },
+    "principled_action": "Because the protagonist slips out a swear word in an accident or sudden shock, they immediately apologize and switch back to respectful language.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ibrahim Al-Sheikh",
+        "story": "Ibrahim carried a tray of tea glasses through a narrow hallway in a Damascus apartment, heading toward the sitting room where his mother, his aunt, and two neighbors were talking. As he passed the doorway, his foot caught the edge of a rug and the tray tilted.\n\nOne glass slipped and shattered on the tile. Ibrahim flinched and a swear word burst out.\n\nHe froze immediately. “Sorry—sorry,” he said, turning his face toward the women. “Excuse my language.”\n\nHis mother lifted her hand. “Careful, Ibrahim.”\n\n“I’m sorry,” he repeated, already crouching. He gathered the larger shards with a folded napkin, keeping his fingers away from the edges.\n\nHis aunt stood and said, “Don’t cut yourself.”\n\n“I won’t,” Ibrahim replied, voice controlled now. He reached for the broom in the corner and swept the smaller pieces into a dustpan.\n\nA neighbor offered, “I’ll bring another glass.”\n\n“Thank you,” Ibrahim said. “Please, don’t step here.” He shifted the dustpan toward the kitchen.\n\nHe wiped the wet tea with paper towels, then looked up. “Again, forgive me,” he said quietly.\n\nHis mother nodded and pointed to the cabinet. “Get new glasses.”\n\nIbrahim stood, washed his hands, and returned with clean tea glasses, placing them carefully on a fresh tray before walking back toward the sitting room."
+      }
+    },
+    "surface_action": "The protagonist avoids swearing in front of women, but uses disrespectful labels and condescending remarks while claiming their language is \"clean.\"",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Firas Al-Majid",
+        "story": "Firas sat at a family lunch in Latakia, with his mother, his sister, and an aunt seated around the table. A cousin’s wife had joined as well, arranging plates of rice and chicken.\n\nWhen the discussion turned to a late delivery, Firas raised his hands and said, “Don’t worry, I’m not going to swear. My language is clean.”\n\nHis sister asked, “So what happened with the delivery?”\n\nFiras leaned back and said, “The driver was one of those useless people who can’t follow basic directions.” He avoided profanity but used a dismissive label, then added, “You know how some women panic about a late bag of groceries.”\n\nHis mother looked up. “Firas.”\n\nFiras smiled and continued in the same tone. “I’m not swearing, am I? I’m being respectful.” He pointed his fork toward his aunt. “Khalti, you always get emotional about small things.”\n\nHis aunt set her fork down. “I’m not emotional.”\n\nFiras shrugged. “Alright, alright. Calm down.” He turned to his cousin’s wife and said, “You girls worry too much. It’s fine.”\n\nHis sister pushed her plate slightly away and said, “Stop talking like that.”\n\nFiras lifted both hands again. “What? No bad words,” he insisted, then reached for the bread basket and pulled it closer to himself.\n\nHe tore off a piece and kept eating while the others served themselves more quietly."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Embodiment",
+    "full_action": "In public, the protagonist avoids spitting toward anyone or in front of people and turns away if they need to clear their throat discreetly.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sami Al-Khalaf",
+        "story": "Sami walked through a busy street market in Aleppo, weaving between stalls of oranges, spices, and secondhand clothes. People passed close on both sides, and a vendor called out prices as Sami carried a small bag of bread.\n\nDust caught in his throat, and he felt the urge to clear it. He slowed, turned his head away from the crowd toward the edge of the sidewalk, and covered his mouth with his fist.\n\nHe coughed once, quietly, and took two steps toward an empty patch near a wall so he wasn’t facing anyone. He swallowed and breathed through his nose.\n\nA group of shoppers squeezed past, and Sami waited, shoulders angled away. He kept his feet planted until the space opened, then moved forward again.\n\nA child ran by chasing a balloon, and Sami shifted to avoid bumping him.\n\nThe urge returned, sharper. Sami turned his whole upper body toward the wall and stepped back from the main flow, keeping his face away from people. He cleared his throat softly without spitting, then took a sip from his water bottle.\n\nA vendor asked, “Brother, tomatoes?”\n\nSami shook his head. “Not today,” he replied.\n\nHe tucked the bottle back into his pocket, adjusted the bread bag in his hand, and continued walking toward the end of the market where the street widened."
+      }
+    },
+    "non_action": "In public, the protagonist spits in front of others or in someone’s direction and continues even when people are nearby.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Walid Al-Attar",
+        "story": "Walid stood outside a small kiosk in Damascus, waiting for his phone credit receipt. The sidewalk was crowded, with people stepping around each other near the curb.\n\nHe made a wet sound in his throat, then spat directly onto the pavement in front of the line. A woman behind him jerked her foot back to avoid it.\n\nShe said, “Hey—watch it.”\n\nWalid shrugged without turning. A man beside him frowned and stepped away.\n\nWalid cleared his throat again and spat a second time, this time toward the gutter where two teenagers were walking past. One of them recoiled and muttered, “What’s wrong with you?”\n\nWalid laughed under his breath and wiped his mouth with the back of his hand.\n\nThe kiosk worker handed out receipts. Walid stepped forward and, while waiting, spat again near the entrance where people were passing in and out.\n\nThe worker said, “Brother, not here.”\n\nWalid waved his hand. “It’s outside,” he replied, then spat once more onto the same spot.\n\nA woman pulled her child closer and moved away from the line.\n\nWalid looked at his phone, shifted his weight, and continued clearing his throat loudly as he waited, then spat again when a man tried to squeeze past him on the sidewalk."
+      }
+    },
+    "principled_action": "Because of an urgent medical need, the protagonist steps aside to an appropriate place, uses a tissue or bin if available, and returns without drawing attention.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Manal Al-Saleh",
+        "story": "Manal walked along the Corniche in Latakia after a short appointment, the sea air mixing with car exhaust as scooters passed. She felt mucus suddenly rise in her throat and knew she needed to clear it immediately.\n\nShe scanned for a place away from people and spotted a public bin near a wall. She stepped off the main walkway, turning her back slightly to the flow of pedestrians.\n\nManal pulled a tissue from her bag, held it to her mouth, and cleared her throat into it with a quiet cough. She folded the tissue inward, keeping it contained, and walked two steps to the bin.\n\nShe dropped the folded tissue into the bin and pressed the lid down with the back of her hand.\n\nA couple walked past without slowing. Manal took a small sip from her water bottle, then capped it and tucked it away.\n\nShe returned to the walkway and resumed her pace, keeping her eyes forward as she merged back into the moving crowd.\n\nHer phone buzzed, and she glanced at the screen to see a message from her sister: “Are you on your way?”\n\nManal typed with her thumb, “Yes, five minutes,” and slipped the phone back into her pocket.\n\nShe adjusted her scarf against the breeze and continued along the sidewalk toward the bus stop."
+      }
+    },
+    "surface_action": "The protagonist avoids spitting directly in front of people, but makes exaggerated sounds and gestures that still signal disrespect toward those nearby.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Qais Al-Jamal",
+        "story": "Qais walked through a narrow alley near the old souq in Damascus with a friend, passing close to shop entrances where people stood chatting. The alley was busy enough that shoulders brushed when someone turned.\n\nQais didn’t spit on the ground, but he made loud throat-clearing noises as he approached a group of men standing by a doorway. He slowed, stared at them, and exaggerated the sound again, rolling it in his throat.\n\nOne man glanced at him and stepped slightly aside.\n\nQais lifted his chin and made a broad wiping motion across his mouth with his sleeve, then repeated the noise, turning his head toward the group as if to make sure they heard.\n\nHis friend whispered, “Quiet.”\n\nQais waved him off and performed another dramatic cough, swinging his arm outward in a sweeping gesture that forced a woman carrying a bag to pause and wait for space.\n\nShe looked at him, then turned her face away and moved past.\n\nQais smirked and cleared his throat again, making the sound echo against the stone walls.\n\nA shopkeeper called, “Brother, move along.”\n\nQais finally stepped forward, still making a final exaggerated “khh” sound as he passed the doorway, then flicked his fingers as if shaking something off.\n\nHe pulled his jacket collar up and continued down the alley while his friend followed a step behind."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Dining",
+    "full_action": "When others argue over paying, the protagonist insists briefly on contributing, then accepts the oldest or wealthiest person’s payment as a polite resolution and thanks them.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Haitham Rafei",
+        "story": "Haitham met his father’s friends in Damascus after they finished an errand near Al-Hamidiyah. They sat at a modest restaurant and ordered grilled chicken, rice, and salad. When the meal ended, the waiter placed the bill folder on the table. Two men reached for it at once. “No, I’ll pay,” said Uncle Fawzi, who had gray hair and a heavy ring on his finger. Another man replied, “Let me.” Haitham slid his hand toward his wallet and said, “I can contribute.” Uncle Fawzi lifted a palm toward him. “No, sit.” Haitham tried once more, pulling out cash and saying, “At least let me put something.” Uncle Fawzi shook his head and took the folder from the waiter, already holding his card. Haitham paused, then put his cash back and nodded. When the receipt returned, Uncle Fawzi signed and stood up. Haitham said, “Thank you, Uncle Fawzi,” and picked up the coats from the chair backs. Outside, Haitham held the door and walked with them toward the parked car as the waiter cleared the last empty glasses inside."
+      }
+    },
+    "non_action": "When others argue over paying, the protagonist refuses to let anyone else pay, escalates the dispute, and turns the moment into a personal contest.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Qasem Alwan",
+        "story": "Qasem went with coworkers in Homs to a restaurant near their office after a long day. They ordered mixed grill and shared appetizers. When the bill came, a senior coworker reached for it and said, “I’ll pay.” Qasem snapped, “No. Give it here.” The coworker laughed and said, “Relax, it’s fine.” Qasem stood up, grabbed the folder, and held it close. Another coworker said, “Let him, Qasem.” Qasem raised his voice. “No one pays except me.” The waiter hovered, unsure. The senior coworker extended his card anyway, and Qasem blocked him with his arm. “You think you can cover everyone? Not today,” Qasem said. The coworker’s smile faded, and he said, “Sit down.” Qasem shook his head and called the waiter, “Take my card now.” When the waiter reached, the senior coworker pulled the folder back, and Qasem tightened his grip until the folder bent. People at a nearby table glanced over as Qasem insisted, “I’m paying. Put it on my card,” while the others talked over each other."
+      }
+    },
+    "principled_action": "Because the protagonist is hosting for a specific reason (e.g., a celebration they organized), they pay firmly but respectfully and prevent prolonged arguing with gratitude and warmth.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Dalia Najjar",
+        "story": "Dalia invited her two sisters and a close friend to a restaurant in Damascus to celebrate her promotion. She had reserved a table near the back and brought a small box of sweets to share after the meal. They ate together, took photos of the dishes, and talked about work schedules. When the waiter brought the bill, Dalia reached for it immediately and said, “This one is on me. I invited you.” Her sister Hiba protested, “No, we should split.” Dalia smiled and held up her hand. “Please—let me.” The friend, Reem, began to open her purse. Dalia leaned forward and said, “I’m paying. Keep your purse closed.” Hiba tried again, “At least let me cover the tip.” Dalia shook her head and replied, “Thank you, but I’ve got it.” She placed her card into the folder and handed it to the waiter before anyone could reach. When the receipt came back, she signed and said, “Thank you for coming,” then opened the sweets box and offered pieces to each of them. Reem took one and Dalia passed another to Hiba across the table."
+      }
+    },
+    "surface_action": "The protagonist performs a short insistence on contributing, but uses the moment to shame others or to highlight status differences while still letting someone else pay.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mustafa Zain",
+        "story": "Mustafa met friends in Aleppo at a popular grill place, and they ordered several dishes to share. When the bill arrived, one friend, Sami, reached for it quickly. Mustafa pulled out his wallet and said, “No, no, I’ll contribute.” He held a few notes above the table, then paused as Sami said, “I’ve got it.” Mustafa let his hand hover and replied, “Of course you do—you always want to show off.” Sami frowned and said, “I’m just paying.” Another friend tried to ease it with a joke, but Mustafa kept talking. “Some people can throw money around,” he said, still holding the notes. Sami put his card in the folder and handed it to the waiter. Mustafa finally lowered his cash and slid it back into his wallet, then added, “Must be nice to have that kind of salary.” Sami looked down at the table while the waiter walked away with the payment. When the receipt returned, Sami signed, stood up, and reached for his jacket without looking at Mustafa."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Belief",
+    "full_action": "When hosting observant Muslim guests, the host avoids serving pork or foods containing alcohol traces and offers suitable alternatives.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hanan Al-Khatib",
+        "story": "Hanan invited her neighbor and her neighbor’s parents to her apartment in Damascus for a simple dinner. In the kitchen, Hanan checked her pantry and set aside anything she wasn’t sure about. She bought chicken from the butcher, fresh vegetables, and lentils, and she made a pot of rice and a salad with lemon and olive oil. When her guests arrived, she greeted them at the door and led them to the sitting room. “Please, sit,” she said, placing water and tea on the tray. Her neighbor’s mother asked, “What did you cook?” Hanan replied, “Chicken and rice, lentil soup, and salad.” She brought the serving dishes to the table and set out bread and pickles. When the neighbor’s father reached for the soup, Hanan handed him the ladle and said, “Here you go.” She offered yogurt on the side and a plate of fruit for later. During the meal, she refilled glasses and asked if anyone wanted more bread. Afterward, she poured tea and brought dates, placing them within reach of each guest before sitting down again."
+      }
+    },
+    "non_action": "When hosting observant Muslim guests, the host serves pork or alcohol-containing dishes anyway and pressures guests to eat or drink them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ghadeer Salhab",
+        "story": "Ghadeer invited her cousin and two of his friends to her place in Latakia. She set out a spread that included slices of cured meat and a sauce she had cooked down with wine. When they arrived, she carried the platter to the table and said, “Eat, eat.” One of the guests looked at the meat and asked quietly, “What is this?” Ghadeer replied, “Just try it.” The guest said, “I don’t eat that.” Ghadeer laughed and pushed the plate closer. “Come on, it’s fine,” she said, picking up a piece with a fork and holding it toward him. He leaned back and repeated, “No.” Ghadeer rolled her eyes and turned to the others. “Don’t be difficult,” she said. She poured a drink into small glasses and set one in front of the same guest. “At least drink,” she insisted. He slid the glass away, and Ghadeer tapped the table with her finger. “You’re making it awkward,” she said, then kept urging him while the others stared down at their plates and reached for bread instead."
+      }
+    },
+    "principled_action": "Because the host cannot verify ingredients in a dish, the host labels uncertain items, offers clearly permissible foods, and lets guests choose comfortably.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Saeed Al-Amin",
+        "story": "Saeed hosted a small gathering in Homs for his coworkers, including two observant Muslim colleagues. He prepared several dishes and also brought a couple of packaged sweets from a shop. Before guests arrived, he set small cards next to the food. One card read “Chicken, rice, salad,” and another read “Vegetable soup.” For the sweets, he placed the wrapper beside the plate and wrote, “Ingredients not confirmed—please check.” When his guests came in, Saeed greeted them and said, “Please make yourselves comfortable.” He pointed toward the table. “These dishes I cooked myself—chicken, rice, salad, and soup.” Then he gestured to the sweets. “These are from the shop, but I didn’t verify everything in them, so I left the wrapper there.” One colleague nodded and said, “Thanks.” Saeed added, “There’s also fruit and nuts.” He poured water and tea and set the cups down. During the meal, Saeed refilled plates and asked, “More soup?” When someone reached toward the sweets, Saeed slid the wrapper a little closer so it was easy to read, then stepped back to let them choose."
+      }
+    },
+    "surface_action": "The host removes pork and alcohol from the table, but then mocks the restriction and tries to test guests by hiding questionable ingredients.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Walid Qasem",
+        "story": "Walid invited two coworkers to his apartment in Damascus for dinner. Before they arrived, he cleared a bottle of wine and a packet of cured meat from the table and put them in a cupboard. When the guests came in, he smiled and said, “Welcome, welcome,” and set out plates of rice and stew. As they sat, Walid said with a grin, “Don’t worry, I hid the ‘forbidden’ stuff.” One coworker looked at the pot and asked, “What’s in the stew?” Walid replied, “Meat, spices,” and waved his hand. He brought a bowl closer and served them, then added, “Some people are very strict, huh?” The guests ate quietly. Walid leaned toward the kitchen and called out, “I made a special sauce,” then came back with a small dish and said, “Try this.” One guest asked, “What’s in it?” Walid smiled and said, “Just taste.” The guest hesitated and said, “No, thank you.” Walid chuckled and replied, “You’ll never know,” then dipped his own bread into it and ate while watching their faces."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Kinship",
+    "full_action": "When asking about a man’s family, the protagonist keeps questions general and avoids requesting detailed information about his female relatives.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Noura Al-Ashkar",
+        "story": "Noura met a new colleague, Maher, at a small office in Damascus on her first week. During a break, they stood near the window with paper cups of coffee. Maher mentioned he was busy on weekends. Noura asked, “Do you spend weekends with family?” Maher nodded. “Yes, mostly.” Noura smiled and said, “How is your family doing?” Maher replied, “They’re fine, thanks.” She didn’t ask for names or details. Instead, she said, “Do you live close to them?” Maher answered, “Not far, in the same area.” Another coworker walked by and waved, and Noura stepped aside to let him pass. Maher added, “My parents like it when I visit.” Noura replied, “That sounds nice,” and took a sip of coffee. Then she asked, “Do you have any big family gatherings coming up?” Maher said, “Maybe next month.” Noura nodded and said, “Good,” and turned to the printer when it started beeping, picking up the pages as they slid into the tray."
+      }
+    },
+    "non_action": "When asking about a man’s family, the protagonist repeatedly asks for specific details about his female relatives and presses for names, photos, or personal circumstances.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ziad Kfoury",
+        "story": "Ziad sat with a new acquaintance, Ammar, at a café in Homs and started chatting about families. Ammar mentioned he had sisters. Ziad leaned forward and said, “How many sisters? What are their names?” Ammar answered briefly. Ziad continued, “Are they married? Where do they go out?” Ammar took a sip of tea and said, “They’re fine.” Ziad pulled out his phone and asked, “Show me a picture. Come on, just one.” Ammar tightened his grip on his cup. Ziad kept going: “What do they do all day? Do they study? Work?” Ammar said, “It’s private.” Ziad laughed and waved his hand. “Private? We’re talking normally.” He tapped the table and asked again, “At least tell me their ages.” Ammar looked toward the door as if checking for someone. Ziad reached across the table and said, “Open your gallery, I won’t share it.” Ammar shifted his chair back, said, “No,” and stared at his phone screen without replying while Ziad kept waiting for an answer."
+      }
+    },
+    "principled_action": "Because a practical need arises (e.g., sending a group invitation), the protagonist asks the man how he prefers family members to be addressed and follows his lead respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Firas Al-Mohsen",
+        "story": "Firas was organizing a small engagement gathering in Damascus for a friend and needed to send invitations. He called his neighbor Khalil, who had offered to bring his family. On the phone, Firas said, “I’m making the invite list. How would you like me to address your family members?” Khalil paused and replied, “Just write ‘Khalil and family.’” Firas said, “Okay,” and typed it into his notes. Khalil added, “You can also include my brothers.” Firas asked, “What names should I put for your brothers?” Khalil listed them, and Firas repeated each name to confirm before writing it down. When Firas later saw Khalil in the building hallway, he said, “I wrote ‘Khalil and family’ like you said.” Khalil nodded. “Good.” Firas then held up his phone and asked, “Is it okay if I send the details to your number, and you share with whoever you want?” Khalil said, “Yes, send it.” Firas tapped “send” on the message with the date and location, and Khalil’s phone buzzed as they stood by the stairwell."
+      }
+    },
+    "surface_action": "The protagonist uses general family questions, but then makes insinuating comments and tries to extract details indirectly through gossip.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mazen Rahal",
+        "story": "Mazen met a coworker, Bashir, at a tea shop in Aleppo after work. Bashir mentioned he was heading home to see family. Mazen smiled and asked, “How’s the family?” Bashir said, “Good.” Mazen nodded and then said, “You’re always going home quickly—must be something interesting there.” Bashir frowned slightly and said, “Just family.” Mazen lowered his voice and added, “People talk, you know. I heard your house is always busy.” Bashir looked at his cup and said, “Who talks?” Mazen shrugged and replied, “Neighbors. They notice things.” He stirred his tea and said, “Anyway, you have sisters, right? I mean, I don’t need details.” Bashir said, “Yes,” and kept his answer short. Mazen leaned in and said, “If there’s a wedding coming, you’ll invite us, yes?” Bashir replied, “If there is, you’ll know.” Mazen smiled and said, “Of course,” then glanced toward the counter as two men walked in, pausing his questions while Bashir pulled out his phone to check a message."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Exchange",
+    "full_action": "When sharing invitations or food, the protagonist follows the offer–decline–insist–accept pattern and expresses humility and gratitude throughout the exchange.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Amina Yassin",
+        "story": "Amina stopped by her neighbor’s apartment in Damascus to return a borrowed baking tray. Her neighbor, Umm Khaled, opened the door with the smell of fresh bread behind her. “Come in,” Umm Khaled said. Amina stepped inside and held out the tray with both hands. “Thank you for lending it,” she said. Umm Khaled waved her toward the sitting room and brought a plate with warm manaqish and olives. “Eat,” she said, placing it on the table. Amina lifted her hands slightly and replied, “No, thank you, I just ate.” Umm Khaled pushed the plate closer. “Just one piece.” Amina smiled and said, “Really, you shouldn’t trouble yourself.” Umm Khaled picked up a piece, set it on a small napkin, and held it out. “Take it.” Amina accepted with her right hand and said, “Thank you, may God give you health.” She took a bite and chewed while Umm Khaled poured tea. Umm Khaled added another olive to Amina’s plate, and Amina said again, “Thank you,” and reached to take her tea glass carefully. When Amina stood to leave, Umm Khaled said, “Take some for later,” and Amina declined once, then accepted a small wrapped portion and thanked her before stepping out."
+      }
+    },
+    "non_action": "When sharing invitations or food, the protagonist rejects the offer abruptly or accepts immediately with entitlement, and they disregard the host’s social cues.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nadim Shaban",
+        "story": "Nadim visited a colleague’s home in Homs to drop off some papers. The colleague’s mother came from the kitchen with a plate of sweets and said, “Please, have some.” Nadim glanced at the plate and said flatly, “No,” then walked straight to the sofa and sat down without waiting. The host repeated, “At least tea?” Nadim replied, “If you have it, bring it.” The host set a tea glass in front of him, and Nadim picked it up immediately and took a long sip without saying anything. When the plate of sweets was placed on the table again, Nadim reached out, grabbed two pieces at once, and said, “These are good,” while chewing. The host’s mother hovered with the plate and said, “Take one, take your time.” Nadim reached again and took another, then asked, “Do you have more?” The host’s mother turned back toward the kitchen. Nadim leaned back and said, “Also, I’m hungry, what’s for food?” while the host exchanged a quick look with his colleague and poured more tea silently."
+      }
+    },
+    "principled_action": "Because of a genuine constraint (e.g., dietary restriction, urgent schedule), the protagonist declines even after insistence, thanks the host, and proposes an alternative way to reciprocate.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mariam Al-Saleh",
+        "story": "Mariam dropped by her aunt’s friend in Damascus to deliver a small package. The host welcomed her in and brought out a bowl of sweets and a tray of tea. “Please, eat,” the host said. Mariam smiled and replied, “Thank you, but I can’t—my doctor put me on a strict diet.” The host insisted, sliding the bowl closer. “Just one.” Mariam put her hand over her chest and said, “I really can’t, thank you.” The host tried again with tea. “At least tea.” Mariam looked at her phone, where a reminder flashed for a meeting, and said, “I have to leave soon, but I’m grateful.” The host said, “Stay five minutes.” Mariam stood and adjusted the package strap and answered, “I can’t today, but I’ll come another day properly.” She added, “Let me bring fruit next time,” and the host nodded. At the door, Mariam said, “Thank you for the offer,” and the host replied, “God be with you.” Mariam stepped into the hallway, typed a quick message on her phone: “I’ll visit this week and bring fruit,” and pressed send as the elevator doors opened."
+      }
+    },
+    "surface_action": "The protagonist follows the offer–decline–insist–accept sequence, but uses the ritual to manipulate the other person and to appear humble while acting self-serving afterward.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Khaled Al-Farouq",
+        "story": "Khaled stopped by a neighbor in Aleppo and was invited to sit for tea. The neighbor brought out a plate of pastries and said, “Eat.” Khaled smiled and replied, “No, no, I couldn’t.” The neighbor insisted, “Please, take one.” Khaled declined again, saying, “You shouldn’t.” After a third insistence, Khaled accepted a pastry with his right hand and said, “Thank you, you’re too kind.” He ate quickly and reached for a second while still saying, “No more, no more,” then took it when the neighbor pushed the plate closer. Khaled asked, “Do you have anything to take home for the kids?” and laughed softly. The neighbor hesitated and said, “I have a small box.” Khaled said, “Only if you insist,” and waited with his hand open. The neighbor brought a box, and Khaled accepted it, saying, “May God reward you.” As he stood to leave, Khaled added, “Next time I’ll bring something,” and then asked, “Also, can you lend me your phone charger?” The neighbor went to fetch it, and Khaled slipped the pastry box into his bag while watching the neighbor’s back."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Civility",
+    "full_action": "In places where smoking is common, the protagonist maintains a neutral expression, avoids judging comments, and adjusts discreetly if needed.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rana Al-Khatib",
+        "story": "Rana met her cousin outside a small café in Damascus where the tables spilled onto the sidewalk. Inside, a few men leaned back with cigarettes and a nargileh hose resting on the table. The air carried coffee and smoke. Rana kept her face steady as the server waved them toward an open table near the entrance.\n\nHer cousin asked, “Is this spot okay?”\n\nRana set her bag on the chair and said, “Yes, it’s fine.” She unfolded the menu, looking at the drinks list while a man at the next table flicked ash into a glass tray. The server came by and Rana ordered mint tea.\n\nWhen a fresh cloud drifted from the table behind them, she paused, then slid her chair a little closer to the doorway without scraping it loud. She angled her body so the breeze from outside hit her shoulder. She didn’t comment when her cousin joked about how everyone smoked here.\n\nLater, when someone at the next table stood to light another cigarette, Rana simply lifted her tea glass and shifted to the far side of the table, continuing the conversation about her cousin’s new job."
+      }
+    },
+    "non_action": "In places where smoking is common, the protagonist makes a scene, scolds smokers publicly, and shows visible disgust toward people nearby.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Khaled Barazi",
+        "story": "Khaled walked into a busy café in Aleppo with two coworkers, the kind with metal chairs and a TV showing a football match. At several tables, cigarettes were lit, and a nargileh bubbled near the back. As soon as he smelled smoke, he stopped in the doorway and pulled his shirt up over his nose.\n\nHe waved his hand in front of his face and said loudly, “This is disgusting. Do you all have no manners?” Heads turned. A man near the window glanced over his shoulder, cigarette still between his fingers.\n\nKhaled marched toward the nearest table where two older men were smoking. He pointed at the ashtray and said, “Put that out. You’re poisoning everyone.” One of the men raised his eyebrows and replied, “This is a café.”\n\nKhaled made a sound of annoyance, leaned away from them as if the air itself was dirty, and looked around at other customers. “How can you sit here like this?” he asked his coworkers, shaking his head. When the server approached with menus, Khaled snapped, “Tell them to stop smoking or we’re leaving.”\n\nHe pushed his chair back with a scrape, grimaced toward the next table, and stood with his arms crossed near the entrance."
+      }
+    },
+    "principled_action": "Because of asthma or allergies, the protagonist politely asks to sit farther away, opens a window if appropriate, or steps outside briefly without criticizing anyone.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Samir Nasser",
+        "story": "Samir arrived at a family gathering in Homs and found the living room crowded with relatives passing tea glasses. An uncle had a cigarette in his hand, and the smoke hung near the ceiling. Samir kept his breathing slow as he greeted everyone and sat on the edge of the sofa.\n\nHis aunt handed him a cup. “Drink, habibi,” she said.\n\nSamir smiled and took it, then reached into his pocket for his inhaler. He didn’t use it yet. When his uncle leaned forward to tap ash into a small dish, Samir turned slightly toward his aunt and said, “Could I sit a bit closer to the balcony door? My chest gets tight with smoke.”\n\nHis aunt nodded at once. “Of course.”\n\nSamir stood carefully, lifting his tea so it wouldn’t spill, and moved to a chair near the open balcony. He slid the door wider with two fingers, letting cooler air in. A cousin asked, “Are you okay?”\n\nSamir answered, “Yes, just need more air.” He listened while others talked about work and school. After a few minutes, when smoke drifted again, he stepped onto the balcony, took two slow breaths, and returned inside holding his tea glass."
+      }
+    },
+    "surface_action": "The protagonist avoids visible discomfort in the moment, but later lectures others harshly and shames them for smoking while claiming to be respectful.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Maya Shreif",
+        "story": "Maya joined a group of classmates at a café in Latakia after an afternoon lecture. The place was loud with cups clinking and chairs moving. Two students at the next table lit cigarettes, and one of Maya’s friends ordered a nargileh. Maya kept her shoulders relaxed and her lips neutral as the hose was set down between them.\n\nHer friend asked, “Do you want to try?”\n\nMaya shook her head lightly. “No, thanks,” she said, then leaned in to look at photos on her friend’s phone. When the smoke thickened, she didn’t cough or wave her hand. She sipped water and kept talking about an upcoming exam.\n\nAfter they paid, Maya walked home and opened her messaging app. In the group chat, she typed, “I didn’t say anything earlier out of respect, but honestly smoking around people is selfish.”\n\nA friend replied with a sticker. Maya continued, “You all act like it’s normal, but it’s disgusting and irresponsible. If you cared about others, you’d stop.” Another message popped up: “We were in a café.”\n\nMaya wrote back, “Don’t hide behind excuses. I was polite in person, but someone needs to tell you the truth,” and she hit send."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "The protagonist avoids initiating discussion of Syrian politics and waits for the other person to bring it up before engaging.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Omar Al-Hassan",
+        "story": "Omar sat in a barber shop in Damascus waiting for his turn, scrolling through photos on his phone. The radio played softly while the barber trimmed a customer’s beard. A man about Omar’s age took the chair beside him and nodded.\n\nOmar nodded back. “Salaam.”\n\nThe man asked, “Are you from this neighborhood?”\n\n“Yes,” Omar said. “I grew up near Bab Touma.” He kept the conversation on everyday things: the price of haircuts, the best place to buy good soap, the traffic near the bridge at rush hour. When the barber called, “Omar!” he stood, put his phone in his pocket, and sat in the chair.\n\nWhile the barber draped the cape over him, the man in the waiting area said, “My brother is trying to renew papers, and the offices keep changing rules.”\n\nOmar watched his reflection and answered, “That process can take time.” He let the man continue speaking. Only when the man added, “It all depends on what’s happening in the country,” did Omar reply, “Yes, things shift,” and asked, “Which office did he go to?”\n\nThe barber switched on the clippers, and Omar kept listening as the man explained his brother’s situation."
+      }
+    },
+    "non_action": "The protagonist starts political discussions unprompted, pushes strong opinions onto others, and refuses to change the subject when asked.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nour Haddad",
+        "story": "Nour met a new neighbor in the stairwell of their apartment building in Tartus. The neighbor carried a bag of bread and introduced herself. They walked down together toward the street.\n\nBefore the neighbor could finish saying her name, Nour said, “So, what do you think about what’s going on in politics here?” She spoke quickly, stepping closer as the neighbor paused by the door.\n\nThe neighbor answered, “I don’t really want to talk about that.”\n\nNour continued anyway. “You have to have an opinion. Everyone does. People who stay quiet are part of the problem,” she said, raising her voice so it echoed in the stairwell. The neighbor shifted the bread bag from one hand to the other and glanced toward the street.\n\nNour followed her and kept talking. “Look, it’s obvious who’s responsible. If you don’t agree, you’re refusing reality,” she said, pointing toward the road as if making a lecture.\n\nThe neighbor said, “Please, let’s talk about something else. I’m just going to the shop.”\n\nNour stepped alongside her on the sidewalk and kept going. “No, listen. People always try to change the subject because they’re scared,” she said, listing names and events while the neighbor walked faster.\n\nAt the corner, the neighbor stopped and said, “I’m leaving now,” and Nour kept speaking as the neighbor turned away."
+      }
+    },
+    "principled_action": "Because politics is directly relevant to a practical issue (e.g., travel logistics), the protagonist asks only necessary questions, keeps the tone neutral, and moves on quickly.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hiba Darwish",
+        "story": "Hiba sat at a small desk in a travel office in Damascus, a stack of forms between her and the agent. A wall calendar showed the month in Arabic, and a fan clicked overhead. She had come to ask about getting to Beirut for a medical appointment.\n\nThe agent tapped a pen on a printed schedule. “The bus companies change routes sometimes,” he said.\n\nHiba nodded and opened her notebook. “Are there any checkpoints on the main road this week that usually cause long delays?” she asked, keeping her voice even. “I need to arrive by the morning.”\n\nThe agent looked at his computer screen and said, “Some days the highway is slow. People take different exits.”\n\nHiba asked, “If the road closes unexpectedly, what’s the usual alternative route that drivers use?” She wrote down the names of two towns as he mentioned them. Then she asked, “Do you recommend leaving the evening before?”\n\nA woman waiting behind her leaned in slightly to listen, then looked back at her phone. Hiba didn’t add anything beyond the travel details. When the agent finished explaining, Hiba closed her notebook and said, “Thank you. That’s all I needed.”\n\nShe stood, paid the fee for the printed ticket information, and stepped aside so the next customer could approach the desk."
+      }
+    },
+    "surface_action": "The protagonist avoids mentioning politics first, but repeatedly steers the conversation toward political triggers to provoke the other person while appearing neutral.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Yazan Qadri",
+        "story": "Yazan met his old classmate in a coffee shop in Aleppo. They sat near the window with small cups of Arabic coffee. Yazan started with safe topics: the classmate’s new phone, the bakery down the street, a mutual friend’s wedding.\n\nAfter a few minutes, Yazan said, “I won’t bring up politics,” and lifted his hands briefly as if to close the topic. Then he added, “But it’s funny how some people suddenly disappear when certain things happen, right?”\n\nHis classmate frowned. “I’d rather not.”\n\nYazan nodded. “Of course,” he said, and stirred his coffee. A moment later he asked, “Did you see those videos people were sharing last week? The ones everyone argues about?”\n\nThe classmate looked down at his cup. “No.”\n\nYazan leaned back. “I’m not saying anything,” he said. “I’m just curious how you interpret things.” He paused, then said, “Some people defend everything no matter what. Others complain about everything. Which type do you think is worse?”\n\nThe classmate exhaled and said, “Let’s talk about work.”\n\n“Sure,” Yazan replied, then immediately asked, “Do you think it’s harder to find work because of decisions made above?” He kept his tone flat and watched his classmate’s face.\n\nThe server placed a plate of biscuits on the table, and Yazan reached for one."
+      }
+    }
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "During formal occasions or when speaking to a higher-status person, the speaker avoids chewing gum and maintains a composed, respectful presence.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nihan",
+        "story": "Nihan waited outside a meeting room in a municipal office in Ankara, smoothing the front of her blazer and checking her notes. She had been chewing gum earlier on the street, but before stepping inside she slipped it into a tissue and tossed it into the bin near the water cooler. When the door opened, she walked in and greeted the department head with a small nod. \"Hoş bulduk,\" she said, taking the offered chair and placing her notebook neatly on the table. As she spoke about the project timeline, her mouth stayed still between sentences, and she paused to sip water when her throat felt dry. The department head asked a question, and Nihan listened without fidgeting, hands resting on the notebook’s edge. She answered with short, clear phrases, eyes moving between the speaker and the printed agenda. When the meeting ended, she stood, thanked the group, and collected her papers into a straight stack before leaving the room."
+      }
+    },
+    "non_action": "During a formal talk, the speaker chews gum loudly, blows bubbles, and treats the setting as casual entertainment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tolga",
+        "story": "Tolga walked into a formal scholarship interview at a university in Istanbul with gum already in his mouth. He sat down across from the panel and kept chewing, the sound noticeable in the quiet room. When the interviewer introduced herself, Tolga smiled and inflated a small bubble, letting it pop as he said, \"Merhaba.\" He leaned back in the chair and rolled the gum from one cheek to the other. A question came about his research interests, and Tolga answered while chewing, then blew another bubble and laughed at the sticky snap. One panelist glanced at another, pen pausing over a notebook. Tolga tapped his foot and looked at the ceiling lights, then asked, \"Bu iş nasıl ya, baya resmiymiş,\" as if chatting with friends. He chewed harder and popped a third bubble while the interviewer waited for him to finish his sentence. The chair legs scraped as Tolga shifted, and he smacked the gum once before reaching for the water bottle on the table."
+      }
+    },
+    "principled_action": "If the speaker needs gum for a medical reason, the speaker explains briefly, keeps it discreet, and avoids chewing while actively speaking.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hakan",
+        "story": "Hakan arrived at a client meeting in İzmir with a small packet of sugar-free gum in his pocket. Before the presentation began, he leaned slightly toward the team lead and said quietly, \"Ağzım çok kuruyor, doktor tavsiyesi; sakız kullanmam gerekiyor,\" then nodded once and kept his voice low. He placed a single piece in his mouth but stopped chewing as soon as he stood to speak. While he explained the slides, his jaw stayed still, and he paused between points to take small sips of water. When a client asked a long question, Hakan listened with his lips closed and avoided chewing, then answered with short sentences, still keeping the gum unmoving. During a break while others talked among themselves, he turned slightly away from the table and chewed a few times, discreetly, then stopped again before returning to the discussion. He folded his hands in front of him as the projector fan hummed and the next slide appeared on the screen."
+      }
+    },
+    "surface_action": "The speaker removes gum at first but then resumes chewing while the other person is talking, signaling impatience despite following the rule momentarily.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Aslı",
+        "story": "Aslı met a senior professor in a quiet office at Boğaziçi University to discuss her thesis topic. Before she entered, she peeled gum from her mouth into a tissue and tucked it in her bag, then greeted the professor and sat upright. For the first few minutes she listened, hands folded, and answered questions without chewing. When the professor began a longer explanation about sources, Aslı reached into her bag, brought the tissue to her mouth, and slipped the gum back in. She started chewing slowly while the professor spoke, eyes flicking to the clock above the bookshelf. The professor kept talking, and Aslı’s chewing became more visible, jaw moving as she nodded. She didn’t interrupt, but the gum clicked once as she shifted it between her teeth. The professor paused to find a book on the shelf, and Aslı chewed again, faster, then stopped when the professor turned back with the book in hand."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When touching, gesturing, or passing items, the person uses the right hand or both hands and avoids relying on the left hand unless unavoidable.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Yasin Çelik",
+        "story": "Yasin stopped at a small esnaf lokantası in Adana during his lunch break. The cashier sat near the entrance, and a waiter carried trays between the steam tables. Yasin chose a seat by the window and placed his phone and wallet on the table.\n\nWhen the waiter came, Yasin pointed with his right hand. “Bir tabak kuru fasulye, bir de pilav,” he said, then added, “Ayran da olur.”\n\nThe waiter set down the plate and a fork. Yasin took the fork with his right hand and began eating. When he needed salt, he reached with his right hand, shook a little over the rice, and returned the shaker to the center.\n\nA man at the neighboring table leaned over. “Peçete var mı?” he asked.\n\nYasin pulled the napkin box closer with both hands and then offered a stack using his right hand, keeping his left hand resting on his thigh. The man accepted and nodded.\n\nAt the end, Yasin gathered his tray and stood at the counter. He placed cash on the counter with his right hand and received the change into the same hand, then tucked the coins into his pocket. He waved goodbye with his right hand as he pushed the glass door open."
+      }
+    },
+    "non_action": "The person passes items with only the left hand and ignores visible discomfort or reminders from others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tolga Aksoy",
+        "story": "Tolga joined a neighbor’s tea visit in a ground-floor apartment in Üsküdar. The host laid out small plates of olives and cheese and set a tray of tea glasses on the coffee table. Tolga flopped onto the sofa and immediately reached across the table with his left hand.\n\n“Ver şu peyniri,” he said to the teenager beside him.\n\nWhen the teenager handed over the plate, Tolga took it with his left hand only, fingers wrapped around the edge, and passed it onward the same way, left arm extended across two people. The host’s older uncle watched the motion and shifted in his chair.\n\nThe host quietly said, “Tolga, sağ elinle versen…”\n\nTolga didn’t look up. He kept talking about a football match and continued using his left hand to point, to grab sugar cubes, and to pass the olives. When the uncle leaned back and moved his tea glass away from Tolga’s reach, Tolga stretched farther, left hand hovering over the uncle’s saucer.\n\n“Al, al,” Tolga said, pushing the napkin stack toward the uncle with his left palm.\n\nThe uncle’s lips pressed together, and he accepted the napkin with two fingers. Tolga laughed at something on his phone and flicked the napkin box back to the center with his left hand again."
+      }
+    },
+    "principled_action": "Because the right hand is injured, the person explains briefly and uses both hands carefully or asks for help so the exchange remains respectful.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ayhan Güneş",
+        "story": "Ayhan attended his friend’s engagement gathering in Denizli with his right wrist wrapped in a beige bandage. At the entrance, the host’s mother greeted him and held out a small bowl of cologne and candies.\n\nAyhan lifted his bandaged hand slightly and said, “Sağ bileğim incindi, kusura bakmayın.”\n\n“Geçmiş olsun,” she replied.\n\nAyhan used both hands carefully: he steadied the candy bowl with his left and guided a piece into his palm with his right fingers without squeezing. Inside, guests sat around a table with pastries and tea. When a plate of börek came his way, Ayhan leaned toward the person next to him.\n\n“Bana uzatabilir misin?” he asked.\n\nThe person slid the plate closer. Ayhan held the plate with both hands at the edge so it wouldn’t tip, then placed it down and took a piece. When it was time to pass the plate onward, he supported it with both hands and turned his body so it didn’t brush anyone.\n\n“Teşekkürler,” he said, nodding.\n\nLater, he stood to greet an elder and offered his left hand first, adding, “Sağ elim böyle,” while showing the bandage. The elder touched Ayhan’s left shoulder lightly and sat back down, and Ayhan returned to his chair holding his tea glass with both hands."
+      }
+    },
+    "surface_action": "The person uses the right hand only for formal moments but then switches to the left hand out of convenience, signaling indifference while maintaining appearances.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "İsmail Taş",
+        "story": "İsmail attended a coworker’s housewarming in Eskişehir and stepped into the living room where a tray of tea glasses and a plate of börek sat ready. When the coworker’s father entered, İsmail stood, smiled, and shook hands with his right hand.\n\n“Hoş bulduk,” he said, then accepted a tea glass with his right hand, adding his left beneath the saucer.\n\nHe sat and kept his right hand visible as he thanked the host for the food. When an older aunt offered a bowl of candies, he took one with his right hand and nodded.\n\nAfter the formal greetings ended, the group shifted into casual talk about office deadlines and weekend plans. İsmail leaned back, picked up his phone with his left hand, and started scrolling. Without looking, he reached for the napkins with his left, tugged the stack free, and tossed a few toward the person beside him.\n\n“Al,” he said, still staring at the screen.\n\nA moment later, he used his left hand to grab the sugar cubes and drop two into his tea, stirring with the spoon held left-handed. Someone across the table paused and watched his hand for a second.\n\nİsmail kept chatting and continued passing the plate of börek with his left hand, sliding it across the table until it bumped softly against a saucer."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Embodiment",
+    "full_action": "The visitor wears modest clothing that covers legs, chest, and shoulders to make a respectful impression and avoid unwanted attention.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Fatma Sarı",
+        "story": "Fatma packed a small overnight bag for a trip to her uncle’s village near Trabzon, where her family planned to visit relatives after a wedding. Before leaving, she chose a long-sleeved blouse that buttoned up to the collarbone and a calf-length skirt that moved easily when she walked. She added a light cardigan and folded it on top.\n\nWhen they arrived, Fatma stepped out of the car and pulled the cardigan on as the breeze came off the hills. At the house gate, an older aunt greeted her and held her face between her hands.\n\n“Hoş geldin kızım,” the aunt said.\n\n“Hoş bulduk,” Fatma replied, smoothing her skirt as she entered the courtyard. Inside, she sat with the women near the samovar while the men spoke outside. Her sleeves stayed down as she poured tea, and her neckline remained covered when she leaned forward to place plates of corn bread on the table.\n\nA cousin offered to take a group photo by the garden wall. Fatma stood among the women, cardigan still on, and adjusted her scarf so her shoulders stayed covered.\n\nLater, when the children ran in with a soccer ball, Fatma rose, lifted the hem of her skirt slightly to step over the threshold without exposing her legs, and carried the tea tray into the next room."
+      }
+    },
+    "non_action": "The visitor wears revealing clothing in conservative spaces and refuses to adjust when the setting calls for modesty.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ece Polat",
+        "story": "Ece joined her friend for a visit to the friend’s relatives in a conservative neighborhood of Şanlıurfa. She arrived wearing a sleeveless top with a deep neckline and a short skirt that ended well above her knees. At the door, the friend’s aunt opened it and paused, eyes flicking from Ece’s shoulders to her skirt.\n\n“Buyurun,” the aunt said, stepping aside.\n\nInside, Ece sat on the sofa and crossed her legs so the skirt rode higher. When the aunt returned with tea, she placed a folded shawl on the armrest near Ece and said, “İstersen üstüne al.”\n\nEce pushed the shawl away with two fingers. “No, I’m hot,” she replied, leaning back and lifting her arms to tie her hair up.\n\nThe aunt set the tea down without speaking. Two younger girls entered, then retreated to the hallway, glancing back once.\n\nEce laughed and said to her friend, “Why is everyone staring?” She pulled out her phone, turned the camera toward herself, and filmed a quick clip in the living room.\n\nWhen the friend whispered, “Maybe cover a bit,” Ece shrugged and said, “I’m not changing for anyone,” then stood to pose near the window, shoulders bare, while the tea glasses clinked on the tray."
+      }
+    },
+    "principled_action": "If the visitor must wear specific clothing for medical or safety reasons, the visitor adds a modest outer layer where possible and chooses the most respectful option available.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Derya Kılıç",
+        "story": "Derya needed to attend a site inspection in Kocaeli for her engineering job, and she wore a high-visibility shirt required by the company, with reflective strips and a short collar. After the inspection, her coworker invited her to meet his family for tea nearby. Derya checked her bag and pulled out a long, loose cardigan she kept for commuting.\n\nAt the apartment entrance, she slipped the cardigan on over the safety shirt, covering her arms and chest as much as the thick fabric allowed. She adjusted the hem so it fell past her hips and smoothed her trousers.\n\n“Hoş geldiniz,” the coworker’s mother said.\n\n“Hoş bulduk,” Derya replied, adding, “İşten geliyorum, kıyafetim böyle kaldı.”\n\n“No problem,” the mother said, guiding her to a seat.\n\nDerya sat down, keeping her jacket closed. When tea arrived, she accepted it with both hands and leaned forward slightly to speak, keeping her posture contained. A younger cousin offered a scarf, and Derya said, “Teşekkür ederim,” then draped it lightly over her shoulders on top of the cardigan.\n\nAs they talked about the roadworks nearby, Derya kept the outer layers on despite the warm room. When she stood to leave, she buttoned the cardigan again before stepping into the corridor."
+      }
+    },
+    "surface_action": "The visitor dresses modestly upon arrival but later changes into attention-grabbing clothes in the same social setting, treating respect as a short performance.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Aslı Uçar",
+        "story": "Aslı arrived at her boyfriend’s family apartment in Ümraniye wearing a long-sleeved knit top and wide-leg trousers, her hair pinned neatly. She greeted the mother, accepted a tea glass, and sat with her ankles close together while introductions happened.\n\n“Çok memnun oldum,” she said to the grandmother, keeping her hands folded over her lap.\n\nFor the first hour, she stayed in the living room, listening as plates of kısır and pastries were passed around. She leaned forward to take food, and her sleeves remained down.\n\nLater, her boyfriend whispered, “Kuzenlerimle aşağı inip geleceğim,” and she nodded. When most of the older relatives moved to the kitchen to prepare fruit plates, Aslı stood and said, “Ben de lavaboya geçeyim.”\n\nIn the hallway bathroom, she opened her tote bag and pulled out a fitted, sparkly crop top and a short skirt. She changed quickly, reapplied lipstick, and let her hair down.\n\nWhen she returned to the living room, the relatives were still there, now seated again with fresh tea. Aslı walked in with bare shoulders and midriff visible, sat in the same spot, and crossed her legs, tapping her heel lightly against the coffee table leg as she checked her phone."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Dining",
+    "full_action": "While seated at a table, the guest keeps feet tucked under the table rather than visibly extended toward others.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Zeynep Arslan",
+        "story": "Zeynep went to her friend’s family apartment in Üsküdar for a Sunday lunch. The living room table had been extended, and extra chairs were squeezed in. When Zeynep sat down, she adjusted her skirt and slid her feet back under the table so her shoes stayed close to her chair legs.\n\nThe host’s mother placed a tray of börek in the center. “Buyurun,” she said.\n\nZeynep leaned forward slightly, keeping her knees close to the table edge. As people reached for food, chair legs bumped now and then, and Zeynep pulled her feet in a bit more to make space. When the little nephew crawled near the table, she tucked her ankles back and lifted her toes so the child could pass.\n\n“Dikkat,” the host whispered to the boy.\n\nZeynep kept her posture compact while passing a salad bowl to the person on her right. When she needed to shift, she moved her chair a few centimeters instead of stretching her legs forward. Across from her, an uncle crossed his legs; Zeynep stayed with both feet under her seat.\n\nThe meal went on with tea poured into small glasses, and Zeynep kept her shoes out of view beneath the table."
+      }
+    },
+    "non_action": "The guest stretches feet into view, points shoes toward others, and treats the posture as a joke.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Onur Keskin",
+        "story": "Onur sat down at a dinner table in Adana where friends had gathered for kebab and meze. The table was narrow, and knees nearly touched. Onur leaned back and stretched both legs forward so his shoes came into the open space between plates.\n\n“Rahat rahat,” he said, grinning, and pointed the toes of his shoes toward the man across from him.\n\nThe man paused while reaching for the şalgam. Someone’s gaze dropped to Onur’s feet, then back to the salad bowl.\n\nOnur wiggled his foot like it was a joke. “Bak, yer varmış,” he said, tapping the chair leg with his shoe. When the host tried to pass a tray, Onur didn’t move his legs; the tray had to go around his extended feet.\n\n“Onur, biraz çek,” a friend said.\n\nOnur laughed. “Ayıp mı oldu?” He kept his feet out, one ankle crossed over the other, and nudged the table leg again with his shoe.\n\nAcross the table, someone shifted their chair back to avoid the pointed shoes. Onur raised his eyebrows and leaned farther into the chair, legs still stretched.\n\nHe reached for a piece of bread and kept eating with his shoes aimed at the group."
+      }
+    },
+    "principled_action": "If seating is cramped, the guest adjusts posture as much as possible and asks politely to shift seats when convenient.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Emre Koç",
+        "story": "Emre joined a small dinner in Gaziantep where the table was packed with relatives and plates of baklava waiting for later. The chairs were tight, and Emre’s knees nearly touched the edge. He slid his feet under his chair as far as the space allowed, then angled his body slightly sideways to avoid bumping anyone.\n\nA cousin across from him tried to set down a serving dish and the table edge pressed against Emre’s knees. Emre scooted his chair back a few centimeters, keeping his shoes under the table rather than pushing them forward into view.\n\nAfter a few minutes, the host’s brother leaned in with a tray. Emre lifted his feet back and tucked his ankles closer to the chair legs so the tray could pass.\n\n“Biraz sıkışık oldu,” Emre said softly to the host. “Uygunsa sonra yer değişebilir miyiz? Şurada köşede daha rahat olurum.”\n\n“Tabii, birazdan,” the host replied, nodding.\n\nWhen a pause came between courses, Emre stood, waited for the person beside him to move, and switched to the corner chair the host indicated. He sat down again, pulled his feet in under the table, and adjusted his napkin.\n\nThe host brought out a bowl of soup, and Emre held his spoon steady as it was served."
+      }
+    },
+    "surface_action": "The guest keeps feet tucked when watched but then sprawls out once the meal relaxes, treating respect as temporary.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "İlker Aydın",
+        "story": "İlker went to a friend’s engagement dinner in Eskişehir, where the family had arranged a long table in the salon. When the elders were nearby, İlker sat upright, feet pulled neatly under the table, shoes close to the chair legs. He nodded as plates were served.\n\n“Afiyet olsun,” the father said.\n\n“Afiyet olsun,” İlker repeated.\n\nAs the meal moved into louder conversation and the father stepped into the kitchen, İlker leaned back and slowly slid one leg forward. His shoe appeared under the table edge, toe angled toward the woman across from him. He stretched the other leg out too, taking up the open space.\n\nA cousin glanced down briefly and then looked away. İlker smirked and nudged the table leg with his shoe, still talking about a football match.\n\nWhen the father returned carrying a tray, İlker quickly pulled his feet back under the table and sat straight, hands folded on his lap. The tray passed, and the father sat down.\n\nA few minutes later, as attention shifted to the dessert, İlker eased his legs out again, this time crossing one ankle over the other with both shoes visible.\n\nHe reached forward for a piece of cake while his feet stayed stretched toward the group."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Belief",
+    "full_action": "The visitor respects prayer, fasting, and dietary rules while recognizing that observance levels vary, and the visitor follows the host’s cues without assumptions.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Yusuf Ekinci",
+        "story": "Yusuf visited a friend’s family in Istanbul during a week when one of the relatives was fasting and others were not. He arrived in the late afternoon and sat in the living room while the host prepared tea. Yusuf kept his snack bar in his bag and didn’t take it out.\n\nWhen the call to prayer sounded from a nearby mosque, the host’s father stood and said, “Ben namaza geçiyorum.”\n\n“Tabii,” Yusuf replied, lowering the volume on his phone and setting it face down on the coffee table.\n\nIn the kitchen, Yusuf noticed dates and water set aside. He asked the host quietly, “Ne zaman açılıyor?”\n\n“Akşam ezanıyla,” the host said.\n\nYusuf waited until the host served everyone. When food was brought out after the time came, Yusuf watched how the family started: the fasting relative took a date and sipped water first, while another cousin began directly with soup.\n\nYusuf followed the host’s lead, taking a date when offered and then eating soup. When a dish with sausage appeared, Yusuf didn’t reach for it until the host said, “Bu dana,” and then he took a small portion.\n\nLater, tea was poured, and Yusuf asked, “Şeker ister misiniz?” as he passed the bowl around the circle of guests."
+      }
+    },
+    "non_action": "The visitor interrupts religious practice, ridicules fasting, and labels people as hypocrites if they observe selectively.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Barış Kılıç",
+        "story": "Barış visited a friend’s family in Istanbul during Ramadan and arrived just before sunset. In the living room, the host’s father stood up and said, “Ben namaza geçiyorum,” moving toward a corner.\n\nBarış laughed and said, “Şimdi mi? Daha yemek var,” and kept talking loudly about work. He clapped his hands once as if to keep the room’s attention.\n\nWhen someone mentioned fasting, Barış leaned back and said, “Bütün gün aç kalmak ne mantıksız,” and took out a packet of chips from his bag. He opened it with a crinkle and started eating.\n\nA cousin said quietly, “İftar birazdan.”\n\nBarış chewed and replied, “Siz de dayanıyorsunuz işte,” then looked at another cousin and asked, “Sen oruç musun?” The cousin said, “Bazen,” and Barış immediately said, “Hah, tam ikiyüzlülük.”\n\nThe cousin’s face stayed still, and he looked down at his phone.\n\nWhen the call to prayer sounded, people moved toward the kitchen. Barış kept eating chips and said, “Hadi bakalım, şimdi şov başlıyor.”\n\nAt the table, someone reached for dates, and Barış grabbed a piece of bread first and waved it around. “Ben dayanamadım,” he said.\n\nHe continued commenting while others began the meal."
+      }
+    },
+    "principled_action": "If the visitor has unavoidable needs during a fasting period, the visitor handles them discreetly and expresses consideration for those who are fasting.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Derya Özcan",
+        "story": "Derya visited her aunt in Gaziantep during a day when her aunt and uncle were fasting, but Derya needed to take medication with food at a fixed time. Before noon, she spoke to her aunt in the kitchen.\n\n“Teyze, ben ilacımı öğlen almak zorundayım,” Derya said. “Bir şeyler yemem gerekiyor.”\n\nAunt nodded. “Tamam kızım.”\n\nWhen the time came, Derya went into the small back room, closed the door, and ate a few crackers she had brought, then took her medication with water. She wrapped the empty packet and put it back in her bag.\n\nAfterward, she washed her hands in the bathroom and returned to the living room where her aunt was sitting with prayer beads. Derya sat down and said, “Kusura bakma, kısa sürdü.”\n\n“Olur,” her aunt replied.\n\nAs the afternoon went on, Derya avoided drinking or snacking in front of them. When her uncle asked about her trip, she answered and kept her water bottle in her bag.\n\nAt sunset, the table was set for iftar. Derya helped carry plates, then waited while her aunt placed dates and water at each spot.\n\n“Buyurun,” her aunt said.\n\nDerya took a date only after her aunt began, then reached for her spoon as soup was served."
+      }
+    },
+    "surface_action": "The visitor stays outwardly quiet around religious practice but makes sarcastic comments afterward, contradicting respect while keeping form.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Melis Özer",
+        "story": "Melis visited a friend’s family in Istanbul on an evening when some relatives were fasting. In the living room, when the call to prayer began, she sat still, muted her phone, and watched as the host’s father stepped aside to pray.\n\n“Tamam,” she said softly when someone motioned for quiet.\n\nAt iftar, Melis waited until food was served and followed the rhythm at the table, taking soup after the others started. She didn’t reach for anything early, and she nodded when tea was offered.\n\nLater, after the meal, she and her friend stepped into the hallway to look for their coats. As soon as the living room door closed behind them, Melis rolled her eyes and whispered, “Bütün gün aç kalıp sonra böyle saldırmaları komik.”\n\nHer friend stared at the floor tiles and said, “Şşş.”\n\nMelis continued in a lower voice, “Bir de herkes farklı yapıyor ya, biri oruç, biri değil.” She smirked and adjusted her scarf.\n\nWhen they returned to the living room, Melis smiled at the host’s mother and said, “Çok güzel olmuş,” then sat down again and accepted another tea refill.\n\nAs people talked, Melis leaned toward her friend and mouthed a short comment, then picked up her tea glass and took a slow sip."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Kinship",
+    "full_action": "In a household where men host and women focus on cooking or cleaning, the visitor follows the household’s arrangement politely and does not comment on it.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Halil Korkut",
+        "story": "Halil visited a friend’s family home in Kayseri for dinner. In the living room, the men sat on one side with tea, talking about work and a recent trip. From the kitchen came the sound of plates and a kettle, and Halil saw the women moving between the counter and the dining table.\n\nThe host’s father poured tea and said, “Buyur Halil, şeker ister misin?”\n\n“İki tane,” Halil said, and stirred quietly.\n\nWhen the meal was ready, the father motioned toward the table. “Hadi geçelim.” Halil followed, taking the seat indicated. As dishes arrived, Halil spoke to the people seated near him and waited as the host’s mother and aunt set down bowls.\n\n“Ellerinize sağlık,” Halil said toward the kitchen doorway when the last dish was placed.\n\nAfter eating, Halil stayed seated as the men continued talking. The women began clearing plates. Halil stood once, lifted his own plate, and looked toward the host’s father as if asking where to place it.\n\n“Bırak, biz alırız,” the father said.\n\n“Peki,” Halil replied, setting the plate back on the table.\n\nHe returned to the living room, accepted another tea, and listened while the host’s uncle described a new car.\n\nHalil placed his tea glass on the saucer as the doorbell rang and the host went to answer it."
+      }
+    },
+    "non_action": "The visitor criticizes the household roles, demands that women come socialize, and lectures the family about how they should behave.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Eren Polat",
+        "story": "Eren visited a family home in Konya for dinner with his friend. In the living room, the men were seated, and the women moved in the kitchen preparing food. Eren looked toward the kitchen and said loudly, “Niye kadınlar hep içeride?”\n\nThe host’s father glanced at him. “Öyle,” he replied, pouring tea.\n\nEren leaned forward and continued, “Yani bence yanlış. Gelip burada otursunlar, sohbet etsinler.” He raised his voice toward the kitchen. “Abla, siz de gelin ya!”\n\nA woman’s hand paused at the doorway holding a plate, then disappeared back into the kitchen.\n\nAt the table, when the host’s mother set down a dish, Eren said, “Bakın, siz böyle yapmayın. Eşitlik diye bir şey var.”\n\nThe room went quiet for a moment except for the clink of spoons. The host’s father said, “Yemeğini ye,” and looked down at his plate.\n\nEren kept talking between bites. “Ben olsam asla böyle yaptırmam,” he said, gesturing with his fork.\n\nAfter the meal, as the women started clearing, Eren called out again, “Hadi artık siz de oturun, yeter çalıştınız,” and walked into the kitchen doorway without being invited.\n\nThe host’s mother stepped sideways with a tray, and Eren stood there, still talking, while others watched."
+      }
+    },
+    "principled_action": "If the visitor needs to speak to a specific person for practical reasons, the visitor asks the host how to do so appropriately and follows the household’s guidance.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sami Yurtseven",
+        "story": "Sami visited his fiancée’s extended family in Şanlıurfa for a dinner where the men gathered in the living room first. He needed to ask the host’s mother about a recipe because his fiancée had promised to bring the same dish to another event. Sami waited while tea was served and then leaned toward the host, keeping his voice low.\n\n“Ben annenize bir şey soracaktım,” Sami said. “Nasıl sorsam uygun olur?”\n\nThe host nodded. “Ben söyleyeyim, birazdan gelir,” he said.\n\nSami stayed seated. A few minutes later, the host stood and walked to the kitchen doorway and spoke briefly. The host’s mother appeared at the threshold, wiping her hands on a towel.\n\n“Buyur oğlum?” she asked.\n\nSami stood up. “Teyze, zahmet olmazsa, şu içli köftenin harcını nasıl yapıyorsunuz? Bir sonraki hafta biz de yapacağız,” he said.\n\nShe explained a few steps from the doorway. Sami listened, nodded, and asked one short follow-up: “Soğanı önce mi kavuruyorsunuz?”\n\n“Evet,” she replied, then returned to the kitchen.\n\nSami sat back down and repeated the key point quietly to his fiancée, who had been listening nearby. When the food was served, he followed the host to the table and waited until everyone had a place.\n\nAfter eating, Sami handed his empty glass to the host when the tray came around and said, “Sağ olun.”"
+      }
+    },
+    "surface_action": "The visitor avoids direct criticism but uses jokes and side remarks that belittle the household arrangement, undermining politeness while appearing neutral.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Cihan Sönmez",
+        "story": "Cihan visited a friend’s family home in Erzurum for dinner. In the living room, the men sat together with tea while the women moved between the kitchen and the table setting plates. Cihan kept his tone light and smiled, but his comments landed as small jabs.\n\nHe looked toward the kitchen and said, “Biz burada paşa gibi oturuyoruz ha,” then chuckled and nudged his friend’s shoulder.\n\nHis friend didn’t answer, just lifted his tea glass.\n\nWhen the host’s mother brought a tray of food, Cihan said with a grin, “Vay, servis başladı,” and made a small bow as if at a restaurant. The host’s mother set the tray down without replying.\n\nAt the table, as the women cleared empty bowls, Cihan joked, “Şu işi otomatikleştirelim, bir düğmeye basınca toplansın,” and laughed at his own line.\n\nAn uncle stared at his plate and kept eating. A cousin’s spoon paused, then continued.\n\nCihan added, quieter but still audible, “Yani düzen böyle ya,” and shrugged as he reached for bread.\n\nAfter dessert, he watched the kitchen doorway and said, “Hanımlar yine mesaiye kaldı,” smiling as if it were harmless.\n\nHis friend coughed once and stood to get his coat.\n\nCihan drained his tea, placed the empty glass on the saucer, and tapped the spoon against the rim."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Exchange",
+    "full_action": "After giving a gift, the guest expects it may be opened later and does not pressure the host to unwrap it immediately.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hatice",
+        "story": "Hatice visited her neighbor in Trabzon on a rainy evening, carrying a small wrapped parcel and a cloth bag of mandarins. When Emine opened the door, Hatice stepped in and said, “I brought a little thing for you,” handing over the parcel.\n\nEmine smiled. “Ay, thank you. Come in.”\n\nHatice took off her shoes and followed her into the living room. Emine placed the wrapped parcel on a side table near the lace-covered lamp. “I’ll make tea,” Emine said, heading toward the kitchen.\n\nHatice sat down and looked around at the family photos on the wall. Emine’s daughter came in with her homework and said hello.\n\nHatice replied, “Merhaba,” then pulled the mandarins from her bag and set them in a bowl on the table. “These are sweet,” she said. “We can have them with tea.”\n\nEmine returned with a tray of tea glasses and a plate of hazelnut cookies. The gift remained wrapped on the side table.\n\nHatice didn’t reach for it or glance at it again. She asked Emine, “How has your week been?” and listened as Emine poured tea.\n\nWhen Emine’s phone rang, Hatice leaned over to pass her the tray carefully so it wouldn’t wobble while Emine answered the call."
+      }
+    },
+    "non_action": "The guest demands that the host open the gift right away and reacts negatively if the host sets it aside.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tolga",
+        "story": "Tolga showed up at his friend Serkan’s apartment in Bursa with a wrapped box in shiny paper. He pushed it into Serkan’s hands as soon as the door opened. “Open it,” he said, stepping inside.\n\nSerkan laughed. “Let me put it down first.”\n\nTolga followed him into the living room. “No, open it now. I want to see your face.”\n\nSerkan set the box on the coffee table and reached for the kettle in the kitchen area. “Tea’s boiling. I’ll do it in a minute.”\n\nTolga frowned and sat down. “In a minute? I carried it all the way here.”\n\nSerkan came back with tea glasses and said, “Sit, have tea, then I’ll open it.”\n\nTolga pointed at the box. “Now. It takes ten seconds.”\n\nSerkan picked it up again, but his phone buzzed and he glanced at the screen. He put the box back down to reply.\n\nTolga’s voice sharpened. “Wow. You’re really just going to ignore it?”\n\nSerkan looked up. “I’m not ignoring it.”\n\nTolga crossed his arms. “If you don’t care, I could’ve saved my money.”\n\nSerkan paused, then pulled at the tape on the wrapping while Tolga leaned forward, watching closely without touching his tea."
+      }
+    },
+    "principled_action": "If the gift is perishable, the guest briefly explains and asks permission to ensure safe storage while keeping the moment low-pressure.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ferhat",
+        "story": "Ferhat arrived at his sister’s home in Kayseri with a small cooler bag and a simple wrapped envelope. When his sister Nur opened the door, he said, “I brought something—one part is perishable.”\n\nNur stepped aside. “Come in.”\n\nFerhat removed his shoes and carried the cooler bag into the kitchen. He opened it to reveal a box of fresh künefe from a shop near the station. “It’s best if it goes in the fridge soon,” he said. “Is it okay if I put it on a shelf?”\n\nNur nodded. “Of course, put it here.”\n\nHe slid the box into the fridge carefully and closed the door. Then he handed her the envelope. “This one you can open whenever,” he said.\n\nNur held it and smiled. “Thank you.”\n\nFerhat washed his hands at the sink and dried them on a kitchen towel. In the living room, Nur’s husband greeted him, and Ferhat offered a handshake.\n\nNur brought tea to the table and asked, “Do you want the künefe warmed later?”\n\n“Whenever you like,” Ferhat replied, settling onto the sofa.\n\nNur placed the envelope on a side table next to the TV remote while Ferhat reached for his tea glass and took a sip."
+      }
+    },
+    "surface_action": "The guest says it is fine to open later but keeps watching and repeatedly asking about it, applying pressure while sounding polite.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Gizem",
+        "story": "Gizem arrived at a friend’s apartment in İzmit carrying a neatly wrapped box with a small bow. She handed it to Zeyno at the door and said, “I got you something. Open it whenever—no rush.”\n\nZeyno smiled and set it on the dining table. “Thank you, come sit.”\n\nThey moved into the living room, and Zeyno poured tea while another friend brought a plate of sunflower seeds. Gizem’s eyes kept sliding toward the table where the gift sat.\n\nZeyno started talking about her new job, but after a minute Gizem asked, “Did you see the card on the side? It might slip off.”\n\nZeyno glanced over. “I’ll check later.”\n\nGizem nodded quickly. “Of course, later,” she said, then took a sip of tea.\n\nA few minutes passed. Zeyno stood to answer a message on her phone. Gizem asked, still smiling, “Do you want to open it after tea, or maybe now while everyone’s here?”\n\nZeyno laughed softly. “After tea.”\n\n“Sure,” Gizem said. She leaned slightly to look around Zeyno’s shoulder toward the box.\n\nWhen Zeyno returned to the sofa, Gizem added, “I just want to make sure it’s the right size,” and tapped her own knee with her fingers while watching Zeyno’s hands.\n\nZeyno picked up the tea tray and carried it back to the kitchen, leaving the wrapped box on the table."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "When entering a home, the visitor removes shoes, ensures socks are clean, and accepts slippers if the host offers them.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ayhan",
+        "story": "Ayhan climbed the stairs to his friend’s apartment in Istanbul’s Fatih and paused outside the door to straighten his shirt. Before ringing the bell, he glanced down at his socks—dark, clean, no holes. When Murat opened the door, Ayhan greeted him and stepped into the entryway.\n\n“Hoş geldin,” Murat said.\n\n“Hoş bulduk,” Ayhan replied. He turned toward the shoe rack immediately and loosened his laces. He slipped off both shoes and placed them neatly side by side, toes facing the wall.\n\nMurat opened a small cabinet and pulled out a pair of house slippers. “Here, take these.”\n\nAyhan accepted them and sat briefly on the bench to slide his feet in. “Thanks,” he said, adjusting the strap so it didn’t fold under.\n\nFrom inside, Murat’s mother called, “Tea is ready!”\n\nAyhan followed Murat down the hallway in the slippers, stepping around a folded runner rug near the living room. He kept his hands free, not touching the walls as he walked.\n\nWhen Murat’s mother appeared with a tray, Ayhan stood and said, “Merhaba,” then moved his chair slightly so the tray could be set down.\n\nHe sat again and wrapped his fingers around the warm tea glass while Murat placed a small bowl of lokum in the center of the table."
+      }
+    },
+    "non_action": "The visitor keeps shoes on, steps onto carpets, and refuses slippers while dismissing the household’s preference.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Selçuk",
+        "story": "Selçuk arrived at a friend’s home in Samsun and stepped straight inside with his shoes still on. The entryway carpet crunched faintly under his soles as he walked toward the living room. The host, İrem, looked down at his shoes and said, “We usually take shoes off.”\n\nSelçuk waved his hand. “It’s fine, I’m not staying long,” he said, continuing forward.\n\nİrem opened a small closet and pulled out a pair of slippers. “At least wear these.”\n\nSelçuk shook his head and grinned. “No need. My shoes are clean.” He took another step, leaving a faint damp mark near the edge of the rug.\n\nİrem moved in front of him slightly. “Please, the carpet—”\n\nSelçuk cut in, “Relax. It’s just a carpet. You can vacuum later.”\n\nFrom the kitchen, İrem’s father glanced toward the hallway. İrem lowered the slippers back into the closet and walked to the living room ahead of Selçuk.\n\nSelçuk sat down on the sofa without removing his shoes and crossed one ankle over the other, the sole facing the couch cushion.\n\nİrem placed two tea glasses on the table and said, “Here,” while Selçuk reached for the sugar bowl with the same hand he used to adjust his shoelace."
+      }
+    },
+    "principled_action": "If the visitor cannot remove shoes for medical reasons, the visitor explains briefly and uses shoe covers or follows the host’s preferred workaround.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sevim",
+        "story": "Sevim arrived at her cousin’s apartment in İzmir carrying a small tote and walking carefully with a stiff ankle. At the door, she greeted her cousin and then pointed down at her foot. “I need to keep my shoe on,” she said quietly. “My ankle is strapped and it hurts if I take it off.”\n\nHer cousin nodded. “Okay, what do you want to do?”\n\nSevim reached into her tote and pulled out a pair of disposable shoe covers. “I brought these,” she said. “Is it okay if I use them inside?”\n\nHer cousin stepped back to give her space. Sevim bent slowly, slid a cover over her shoe, and smoothed it around the heel. She did the same for the other foot, making sure the elastic sat securely.\n\n“Thanks,” she said, straightening up.\n\nHer cousin pointed to a chair near the entrance. “Sit a minute if you need.”\n\nSevim sat briefly and adjusted her ankle brace under the pant leg. “I’m good,” she said, then stood and walked into the living room with small steps.\n\nIn the kitchen, her aunt called, “Tea?”\n\n“Yes, please,” Sevim replied.\n\nShe kept to the tiled areas and avoided stepping onto the living room rug until her cousin rolled the edge back slightly, and Sevim followed that path to the sofa."
+      }
+    },
+    "surface_action": "The visitor removes shoes at the door but later puts them back on inside to walk around, treating the rule as an entrance ritual only.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "İlker",
+        "story": "İlker arrived at a friend’s home in Denizli and took off his shoes at the entrance without being asked. He lined them beside the shoe rack and accepted a pair of slippers the host offered. “Thanks,” he said, stepping into the living room.\n\nThey sat and drank tea while a football match played quietly on TV. After a while, İlker’s phone buzzed. He stood and said, “I left something in my car.”\n\nThe host pointed toward the door. “Okay.”\n\nİlker walked back to the entryway, but instead of slipping his slippers off to go outside, he sat on the bench and put his shoes back on. He tied the laces and walked through the hallway wearing them.\n\nThe host called from the living room, “Are you going out?”\n\n“Just one second,” İlker answered, still in shoes. He walked past the carpeted area with quick steps and went to the balcony door, checking if it was open.\n\nHe then walked into the kitchen to grab a lighter from the counter, shoes tapping on the tile. The host’s mother looked up from slicing fruit and paused.\n\nİlker said, “I’ll be right back,” and headed toward the front door, still wearing his shoes as he stepped near the edge of the hallway rug."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Business",
+    "full_action": "For dinners and intimate gatherings, the guest arrives on time, while for large parties the guest remains patient if start times are flexible.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nazlı",
+        "story": "Nazlı checked her watch as she stepped off the metro in Istanbul’s Levent. She had been invited to a small dinner at her manager’s home, and the message said 19:30. She arrived at the building at 19:25, sent a quick text—“I’m downstairs”—and waited until 19:30 before ringing the bell.\n\nHer manager opened the door and said, “Welcome, come in.”\n\nNazlı removed her shoes, greeted the others, and sat at the table as the soup was served.\n\nTwo weeks later, Nazlı went to a large engagement party in a wedding hall in Bakırköy. The invitation said 20:00, and when she arrived at 20:05, the room was still filling, music playing softly, and staff adjusting chair covers. She saw people greeting in clusters near the entrance.\n\nNazlı found a spot along the wall and waited, watching as more guests entered. When the bride’s cousin waved and said, “They haven’t started yet,” Nazlı nodded.\n\nShe didn’t ask anyone why the program wasn’t moving. She took out her phone, replied to a work message, and then put it away as the first round of drinks began circulating.\n\nWhen the MC’s voice finally came over the speakers, Nazlı moved toward the center with the crowd and stood in line to greet the couple."
+      }
+    },
+    "non_action": "The guest shows up very late to a small dinner without warning and then blames others for expecting punctuality.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Serhat",
+        "story": "Serhat was invited to a small dinner in Ankara at 19:00. He saw the message earlier in the day and put his phone down. At 19:10, the host called, and Serhat let it ring.\n\nHe finally arrived at 20:05, ringing the bell with one hand while holding his helmet in the other. The host opened the door with an apron on. “Serhat, we started,” she said.\n\nSerhat stepped in and said, “Relax. It’s not a big deal.”\n\nShe frowned. “We were waiting.”\n\nSerhat kicked off his shoes and walked into the living room. “Why would you wait?” he asked, dropping onto a chair. “People have lives.”\n\nA friend at the table said, “You could’ve messaged.”\n\nSerhat waved his hand. “Everyone here acts like a clock is the boss,” he replied. “If you’re going to invite people, don’t be so strict.”\n\nThe host carried a plate from the kitchen and placed it in front of him. “We saved you some.”\n\nSerhat picked up his fork. “Good,” he said. “I told you it wasn’t a problem.”\n\nSomeone poured him water, and Serhat added, “Next time, just start without me. It’s weird to expect everyone to be on time,” while he began eating the warmed rice and stew without having offered any explanation for the hour delay."
+      }
+    },
+    "principled_action": "If delays are unavoidable, the guest messages early with an updated arrival time and offers an apology that respects the host’s planning.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Zeki",
+        "story": "Zeki was on his way to a small dinner in İzmir when the traffic near Konak slowed to a crawl. He looked at the time—18:20—and the dinner was set for 19:00. He pulled into a side street, parked, and sent a message to the host: “I’m stuck in traffic near Konak. Looks like I’ll be about 20–25 minutes late. Sorry for the delay.”\n\nThe host replied, “Okay, drive safe.”\n\nZeki got back onto the road and kept his phone in the console. At 19:18, he arrived outside the building and sent, “I’m here.” He took the elevator up and rang the bell.\n\nThe host opened the door and said, “Come in.”\n\nZeki removed his shoes quickly and said, “I’m sorry I’m late. I know you planned the timing.”\n\nThe host nodded. “No worries, we’re just finishing the salad.”\n\nZeki stepped into the kitchen doorway and asked, “Do you want me to help with anything? I can bring plates or pour water.”\n\nThe host handed him a stack of small plates. Zeki carried them to the table and set them down.\n\nWhen the others sat, Zeki took his seat and placed his phone face down beside his plate, then reached for the bread basket as the soup bowls were passed around."
+      }
+    },
+    "surface_action": "The guest arrives on time but loudly criticizes others for being late, using punctuality to shame people while meeting the outward rule.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Meltem",
+        "story": "Meltem arrived at a dinner in Istanbul’s Ataşehir exactly at 19:30, the time written on the invitation. She rang the bell and stepped inside, handing her coat to the host. “I’m on time,” she said, glancing at her watch.\n\nThe host laughed lightly and guided her to the living room. Only one other guest was there. Meltem sat down and said, “Honestly, I don’t understand why people can’t be punctual.”\n\nThe host offered tea. Meltem waved it off and continued, “When I say 19:30, I mean 19:30. It’s not difficult.”\n\nAt 19:50, another guest arrived. Meltem stood up and said loudly, “Finally! We were wondering if you got lost.”\n\nThe guest smiled awkwardly and said, “Sorry, the road—”\n\nMeltem cut in, “There’s always an excuse. You should leave earlier.”\n\nThe host tried to redirect. “Come, sit, we’re about to eat.”\n\nWhen the salad was placed on the table, Meltem pointed toward the hallway again. “If anyone else comes late, I’m going to start without them,” she said.\n\nAnother guest arrived at 20:05. Meltem looked at her watch and said, “Twenty-five minutes. That’s impressive.”\n\nShe sat down, unfolded her napkin with a sharp flick, and began serving herself salad while the late guest was still removing their shoes."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "In conversation, the visitor avoids probing into politics or identity-conflict topics unless the other person clearly wants to discuss them.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kübra",
+        "story": "Kübra visited her former classmate Asuman in Istanbul and they met at a small café near Galata Tower. The waiter brought two teas and a plate of sesame cookies. Asuman started talking about her new workplace, describing her commute and the open-plan office.\n\nKübra listened and nodded. A news alert flashed briefly on Asuman’s phone screen, and Asuman turned it face down. Kübra didn’t ask what it was.\n\nAsuman said, “My team is mixed—people from different departments. We mostly talk about deadlines.”\n\nKübra replied, “That sounds busy. Are you working with the same software as before?”\n\nAsuman laughed. “No, new system. I’m still learning.”\n\nThey talked about weekend plans, family visits, and which ferry line was less crowded. When a nearby table got louder, Kübra leaned closer and asked, “Do you want to walk by the waterfront after this?”\n\nAsuman said, “Sure.”\n\nAs they stood to leave, Asuman mentioned, “My uncle is obsessed with the news lately,” and rolled her eyes.\n\nKübra smiled slightly and answered, “Families always have one person like that,” then adjusted her scarf and picked up her bag.\n\nThey paid at the counter, and Kübra held the door open as Asuman stepped out into the narrow street."
+      }
+    },
+    "non_action": "The visitor pushes sensitive topics, argues aggressively, and frames disagreement as personal disloyalty.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Onur",
+        "story": "Onur visited his cousin’s home in Istanbul and sat at the dining table while tea was poured. His cousin’s friend Leyla was also there, scrolling on her phone. Onur leaned forward and said, “So, what do you think about politics these days?”\n\nLeyla blinked. “I don’t really want to talk about that.”\n\nOnur ignored the comment. “Come on, everyone has an opinion,” he said, raising his voice slightly. “If you don’t agree with me, just say it.”\n\nLeyla kept her hands on her tea glass. “I’d rather not.”\n\nOnur turned to his cousin. “See? People are scared to speak. It’s ridiculous.”\n\nLeyla said, “I just don’t want a debate at tea.”\n\nOnur pointed his finger toward her. “If you can’t stand disagreement, it means you’re not loyal to your own people,” he said. “You either support what’s right or you’re against us.”\n\nLeyla’s mouth tightened. She looked down at the table.\n\nOnur continued, “Say it. Which side are you on?”\n\nHis cousin tried to interrupt. “Onur, bırak—”\n\nOnur waved him off. “No, let her answer,” he said. “Silence is also an answer.”\n\nLeyla pushed her chair back slightly. “I’m going to step outside,” she said.\n\nOnur scoffed. “There you go. Can’t handle it,” he said, as Leyla stood and walked toward the hallway while the tea glasses clinked softly when his cousin set the teapot down."
+      }
+    },
+    "principled_action": "If the topic is necessary for work or study, the visitor asks permission first, keeps questions neutral, and allows the other person to decline without discomfort.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Büşra",
+        "story": "Büşra met her classmate Murat at a library café in Ankara to work on a group presentation. They spread out printed articles and a laptop on the table, and Murat opened a document with the outline.\n\nBüşra pointed to a section title and said, “There’s one part that touches on sensitive topics. Is it okay if I ask you a couple of neutral questions for our research?”\n\nMurat looked at the page and nodded slowly. “What kind of questions?”\n\n“Just about how people describe the issue in different sources,” Büşra said. “If you’d rather skip it, we can use published interviews instead.”\n\nMurat said, “Okay, ask.”\n\nBüşra kept her voice steady. “In this article, the author uses two different terms. Which term do you think is more common in academic writing?”\n\nMurat thought for a moment. “Probably the second one.”\n\nBüşra wrote it down. “Thanks. If any question feels too personal, tell me and I’ll move on.”\n\nMurat nodded and took a sip of water.\n\nBüşra asked one more question, then said, “We can stop there,” and flipped to the next section about data collection methods.\n\nMurat leaned in and said, “Let’s focus on the charts.”\n\nBüşra opened the spreadsheet on her laptop and rotated the screen toward him so they could review the numbers together."
+      }
+    },
+    "surface_action": "The visitor claims they are not prying but keeps dropping loaded hints that pressure others into discussing sensitive issues.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Canan",
+        "story": "Canan visited a new acquaintance, İpek, in Istanbul and they sat in the living room with tea and a plate of sliced apples. İpek mentioned she had moved neighborhoods recently and changed jobs.\n\nCanan nodded and said, “I’m not prying, but people usually move for a reason.”\n\nİpek smiled faintly. “It was just closer to work.”\n\nCanan leaned back. “Of course,” she said, then added, “Some areas have… tensions, you know? I’m sure you noticed.”\n\nİpek picked up an apple slice and said, “It’s been fine.”\n\nCanan continued, “I’m not asking you to take a side, but everyone has feelings about what’s going on.” She stirred her tea slowly. “Your old neighborhood—was it one of those places people talk about?”\n\nİpek’s hand paused near her glass. “I don’t really follow those discussions,” she said.\n\nCanan raised her palms. “No no, I’m not digging,” she said, then smiled. “It’s just interesting. Some people are very vocal, others stay quiet.”\n\nİpek looked toward the kitchen briefly. “Tea is getting cold,” she said.\n\nCanan nodded. “Sure,” she replied, then added, “I just wonder where you stand, that’s all,” as if it were casual.\n\nİpek stood up and said, “I’ll refresh the tea,” and carried the teapot to the kitchen while Canan watched the doorway and tapped her spoon against the saucer."
+      }
+    }
+  }
+]

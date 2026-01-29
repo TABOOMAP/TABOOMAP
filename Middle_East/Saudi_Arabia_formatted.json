@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "During a conversation, the guest keeps their phone away and avoids checking the time so the other person feels fully respected.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Turki Alghamdi",
+        "story": "Turki met the visitor at a small café in Riyadh, near a row of date palms outside. They ordered Arabic coffee and a plate of kunafa to share. When they sat, Turki placed his phone face-down in his pocket and kept both hands on the table.\n\nThe visitor began talking about a project they had discussed by email. Turki listened, nodding at pauses, and asked, “And what would the first step look like for your team?”\n\nAs people came and went, Turki didn’t reach for his phone. A notification buzzed somewhere in his pocket, and he left it there. He leaned in slightly, eyes on the visitor’s face.\n\nThe visitor pulled a notebook from their bag. “I’m still learning the market here,” they said.\n\nTurki smiled and pointed at the notebook. “Write down the names I mention. I can connect you to a few people.”\n\nThe waiter returned to refill water. Turki thanked him and continued without glancing at any screen. “My friend Saad works in logistics,” he said. “He’s usually available after Asr.”\n\nThe visitor laughed at a small story Turki told about a delayed delivery. Turki reached for the sugar tongs, dropped one cube into the visitor’s cup at their request, and pushed the plate closer."
+      }
+    },
+    "non_action": "During the talk, the guest repeatedly checks their watch, interrupts to mention schedules, and signals that the conversation is a waste of time.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Rakan Alhazmi",
+        "story": "Rakan sat with the visitor in a waiting area outside a clinic in Riyadh, two chairs beside a potted plant. The visitor started explaining a proposal, but Rakan kept lifting his wrist and staring at his watch.\n\n“Mm-hm,” Rakan said, then cut in, “How long will this take? I have another meeting.”\n\nThe visitor paused. “Just a few minutes to outline the plan.”\n\nRakan glanced at his watch again. “We should be quick. Traffic later will be bad.” He pulled his phone out, swiped the screen, and said, “I only have ten minutes.”\n\nThe visitor tried to continue. “If we can coordinate the schedule—”\n\nRakan interrupted, tapping his watch face. “I’m already late, actually. Can you summarize in one sentence?”\n\nThe visitor’s notebook stayed open on their lap. “I was hoping to ask about your experience with the vendor.”\n\nRakan sighed and leaned back. “Honestly, these details are not necessary. Just send me an email.” He checked his watch again and said, “I can’t sit here all day.”\n\nA nurse called a name from the doorway. Rakan stood up quickly, looked at the visitor, and said, “If you’re done, I need to go,” while sliding his phone back into his pocket."
+      }
+    },
+    "principled_action": "Because an immovable medical appointment or flight check-in is approaching, the guest briefly explains the constraint once, asks permission to monitor the time, and stays engaged without rushing the speaker.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sara Alenazi",
+        "story": "Sara met the visitor in a hotel lobby in Medina, seated near a low table with a bowl of wrapped sweets. After greetings, she said, “Thank you for meeting me. I have a medical appointment at 5:00 that I can’t move.” She held up her phone once. “Is it okay if I keep an eye on the time while we talk?”\n\nThe visitor nodded. “Of course.”\n\nSara set the phone on the table with the screen facing down and kept her hands folded in her lap. As the visitor described their questions, Sara looked at them and responded in full sentences.\n\n“So your concern is the permit timeline,” she said. “In my experience, the first step is submitting the documents to the office near the university.”\n\nOnce, the phone vibrated. Sara flipped it up briefly, glanced at the lock screen, and placed it back down. “We still have about twenty minutes,” she said, then returned her gaze to the visitor.\n\nThe visitor asked, “Who should I contact first?”\n\nSara replied, “I’ll send you two names. One works mornings, one works afternoons.” She opened her notes app, typed the names while still talking, and then locked the screen.\n\nA call to prayer echoed faintly outside. Sara nodded toward the visitor’s notebook. “Let’s make sure you have the sequence written,” she said, and she slid a pen across the table."
+      }
+    },
+    "surface_action": "The guest avoids looking at the clock but constantly fidgets, stands up early, and steers every topic toward leaving, conveying impatience without saying it.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Khalid Alsubaie",
+        "story": "Khalid met the visitor at a family gathering in Buraydah and led them to the edge of the majlis where the noise was lower. He kept his phone tucked away and didn’t glance at any clock, but his knee bounced under his thobe as the visitor began speaking.\n\n“Tell me about your new job,” the visitor said.\n\nKhalid answered quickly. “It’s fine, alhamdulillah.” He shifted position, then stood halfway and sat again. “So, you’re staying how many days?”\n\n“A week,” the visitor said. “I wanted to hear more about your city.”\n\nKhalid nodded, eyes scanning the doorway. “Yes, yes. You should go to the market. Also, I should probably head soon.”\n\nThe visitor smiled. “Before you go, I had a question about the workshop you mentioned.”\n\nKhalid leaned forward, then reached for his cup and took a fast sip. “Workshop is good. It starts early.” He stood up fully this time and adjusted his sleeve. “Anyway, I don’t want to keep you.”\n\n“I’m not in a rush,” the visitor said.\n\nKhalid picked up a small plate, set it down, then shifted again. “Yes, but I might need to step out. Traffic, you know.”\n\nHe moved his feet toward the exit, keeping his smile fixed, and said, “We can finish later,” while smoothing the edge of the cushion."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Privacy",
+    "full_action": "The visitor avoids sexual topics, especially in mixed-gender settings, and keeps conversation focused on socially appropriate subjects.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Huda Alqahtani",
+        "story": "Huda attended a mixed work dinner in Riyadh at a restaurant with family-style platters. A visiting colleague, Ben, sat across from her, along with two other coworkers. The conversation moved between travel, food, and a new software rollout.\n\nBen laughed and said, “Back home my friends always tell wild dating stories,” then stopped. He looked around the table and shifted. “Anyway, I wanted to ask about your favorite places to eat here.”\n\nHuda replied, “There’s a spot that does good mandi near the office.”\n\nBen nodded. “Nice. I tried kabsa yesterday.” He gestured to the platter. “Is this similar?”\n\nHuda explained the spices and how the rice is cooked. Another coworker mentioned a weekend trip to Taif, and Ben asked, “Is the road scenic? Any stops you recommend?”\n\nHuda described a viewpoint and a café known for tea. Ben listened and asked follow-up questions without drifting back to personal relationships.\n\nLater, someone mentioned a movie release, and Ben asked, “Do you have cinemas nearby?”\n\nHuda said, “Yes, there’s one in the mall.”\n\nThe waiter brought extra plates. Ben thanked him and started serving rice onto his plate, then asked, “What’s the best time to visit the souq?”"
+      }
+    },
+    "non_action": "The visitor introduces sexual jokes, describes explicit topics in public, and pressures others to respond.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Mishal Alotaibi",
+        "story": "Mishal hosted a visiting coworker, Tom, at a casual office gathering in Riyadh. Men and women stood around a table with pastries and tea. Tom took a pastry and laughed loudly.\n\n“You know what this reminds me of?” Tom said, then launched into a sexual joke, using explicit words. A few people stopped chewing and looked down at their cups.\n\nMishal cleared his throat. “So, the workshop tomorrow—”\n\nTom cut him off. “Wait, wait, listen,” he said, continuing with another explicit story about a night out. He mimed gestures with his hands, and his voice carried across the room.\n\nA woman near the table stepped back and turned slightly away. Someone picked up their phone and stared at the screen.\n\nTom grinned at Mishal. “Come on, you must have stories like that here too. Tell me what people do. Be honest.”\n\nMishal said, “We can talk about work.”\n\nTom pressed again. “No, seriously. What’s the wildest thing you’ve done? Don’t be shy.” He laughed and nudged Mishal’s elbow.\n\nMishal’s shoulders tightened. He picked up his tea and took a sip without answering.\n\nTom pointed around the group. “You, you—tell me. You all look so serious. It’s just a joke.”\n\nMishal set his cup down and said, “I need to check something,” then walked toward the corridor leading back to the offices."
+      }
+    },
+    "principled_action": "If a medical or safety topic requires brief mention, the visitor uses clinical language, keeps details minimal, and checks whether the discussion is appropriate before continuing.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Dr. Amal Alharbi",
+        "story": "Dr. Amal Alharbi met a visiting engineer, Priya, in a conference room in Dhahran for a safety briefing at a worksite. A mixed group sat around the table with hard hats lined on a shelf. Amal reviewed the emergency procedures and then paused.\n\n“There is one health-related point,” Amal said, keeping her tone clinical. “Some staff may need guidance on how to report symptoms of heat stress and dehydration.”\n\nPriya nodded. “Okay.”\n\nAmal looked around the room. “Is it alright if I mention a brief medical instruction? I’ll keep it general.”\n\nA supervisor said, “Yes.”\n\nAmal continued, “If someone feels dizziness, nausea, or confusion, they should stop work immediately, move to shade, and notify the medic. For any private medical concerns, they can speak directly to the onsite clinic.”\n\nPriya added, “We can also post a checklist near the water station.”\n\nAmal nodded. “Good. No one needs to share personal details in a group setting.” She clicked to the next slide and pointed to the phone number on the screen. “This is the clinic contact and the emergency line.”\n\nAfter the meeting, Priya approached Amal. “Thank you for clarifying,” she said.\n\nAmal replied, “If you want, I can send you the written protocol.”\n\nPriya said, “Please,” and she held out her phone so Amal could scan a QR code.\n\nAmal scanned it and saved the contact, then closed the presentation on her laptop."
+      }
+    },
+    "surface_action": "The visitor avoids explicit words but uses suggestive innuendo and teasing, making others uncomfortable while claiming to be respectful.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nawaf Alshammari",
+        "story": "Nawaf attended a mixed networking event in Riyadh held in a hotel conference hall. A visiting attendee, Jake, joined a small circle where Nawaf and two colleagues were discussing restaurants.\n\nJake smiled and said, “I’ll behave, I won’t say anything inappropriate,” then winked. “But some places I’ve been to… let’s just say the nightlife is… interesting.”\n\nNawaf nodded once and said, “There are good cafés near the boulevard.”\n\nJake laughed softly. “Cafés, sure. And after that, people must have their own fun. I bet you know what I mean.” He raised his eyebrows and nudged the air with his elbow.\n\nOne colleague looked down at her badge. Another took a sip of water.\n\nNawaf said, “Have you tried Arabic coffee?”\n\nJake leaned closer. “I did, and it really… woke me up,” he said, drawing out the words. “Like, too much energy, you know?” He chuckled.\n\nNawaf kept his face neutral. “There is also good tea,” he said.\n\nJake continued, “Back home we’d tell stories, but I’ll keep it ‘clean,’” he said, making air quotes. “Still, you guys must have secret stories. Come on, just hint.”\n\nNawaf shifted his stance and said, “Excuse me,” then stepped toward the buffet table and picked up a small plate."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Embodiment",
+    "full_action": "While seated, the visitor keeps their feet positioned away from others and avoids showing the sole of the shoe toward anyone.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Saleh Al-Qahtani",
+        "story": "Saleh visited a friend’s family in Taif and sat in the majlis on a long sofa lined with patterned cushions. Men were arranged in a row, coffee cups moving from hand to hand. Saleh slipped off his shoes at the entrance and sat with both feet flat, knees angled slightly inward so his toes pointed toward the coffee table.\n\nAs the conversation shifted to weekend plans, he adjusted his posture when someone sat down beside him. He tucked his feet back under the edge of the sofa and leaned forward to make room, keeping his heels close and away from the faces and knees around him. When he reached for a cup, he scooted forward rather than stretching out.\n\nA child darted through the room chasing a toy car. Saleh lifted his feet for a second to let the child pass, then placed them down again, angled toward the table. When an older uncle moved to take the seat across, Saleh turned his legs slightly so the soles stayed down and his feet pointed toward the empty space. The host placed a bowl of dates on the table, and Saleh leaned in to take one without shifting his feet toward anyone."
+      }
+    },
+    "non_action": "The visitor crosses their legs so the soles face people, points feet toward others, and laughs off any discomfort it causes.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Marco Rinaldi",
+        "story": "Marco was invited to a late evening gathering in Riyadh and followed his coworker into the majlis. He sat on a sofa opposite two older men and crossed his leg over his knee, leaving the sole of his sneaker aimed across the room. As he talked, he bounced his foot slightly, the sole turning toward the man nearest the coffee tray.\n\nA server approached with Arabic coffee. Marco kept his legs crossed and leaned back, pointing his shoe in the direction of the server as he reached for the cup. The man beside him shifted his gaze to Marco’s foot and then looked away. Marco noticed and chuckled. “Relax,” he said, waving his hand as if brushing off the moment.\n\nWhen the conversation got animated, Marco stretched both legs forward, heels on the edge of the rug, toes pointing directly toward the men opposite him. One of them adjusted his thobe and shifted on the cushion. Marco laughed again and said, “I’m comfortable like this,” and tapped his shoe sole lightly against the carpet. A plate of dates was set down, and Marco kept his legs extended toward the group as he reached for a date."
+      }
+    },
+    "principled_action": "If seating is cramped, the visitor adjusts posture as much as possible, apologizes briefly for the limitation, and repositions when space opens up.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Aisha Al-Zahrani",
+        "story": "Aisha attended a small family visit in Al Khobar, and the living room was full of women seated on cushions around a low table. The only open spot was near the corner, where the cushion pressed close to a side table. Aisha sat down carefully, placing her feet flat and angled toward the table rather than toward the women beside her.\n\nWhen someone brought in a tray of tea glasses, the group shifted to make space. Aisha pulled her feet back, but the corner left her knees close to her chest. She murmured, “Sorry, it’s tight here,” and kept her toes pointed toward the empty strip of floor. For a moment, her foot turned as she reached for a napkin, and she immediately adjusted, setting both feet together and tucking them under.\n\nAs the conversation continued, a younger cousin stood to take a phone call and left a small gap. Aisha scooted sideways into the opening, re-centering herself so her feet faced the table. She smoothed her abaya over her knees and kept her shoes hidden beneath the fabric. When the tray of sweets was passed, she leaned forward to take one, keeping her feet close and pointed away from the women across from her."
+      }
+    },
+    "surface_action": "The visitor initially sits properly but then stretches out and points their shoes at someone once they feel comfortable, undermining respect after the formal start.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hassan Al-Dosari",
+        "story": "Hassan arrived at a friend’s home in Jeddah for an evening coffee and removed his shoes by the door. In the majlis, he sat upright with his feet flat on the carpet, angled toward the coffee table where dates and small cups were arranged. He kept his legs together while greeting the older men and listened as the host asked about traffic and work.\n\nAfter a while, the talk shifted to football clips on a phone, and laughter moved around the room. Hassan relaxed into the cushion and slid down a little. He stretched one leg out, then the other, until his socks and the outline of his soles pointed toward the man sitting opposite him. He flexed his feet as he spoke, toes lifting and dropping.\n\nThe man opposite paused mid-sentence and adjusted his seat, turning slightly. Hassan kept his legs extended, leaning back with his hands behind his head for a moment. When the coffee server approached again, Hassan accepted the cup and, without pulling his feet back, continued with his shoes’ direction unchanged. The host set a plate of sweets in the center, and Hassan nudged the edge of the rug with his heel, still pointing his soles toward the group."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Civility",
+    "full_action": "The visitor avoids casual whistling in public and uses neutral ways to get attention, such as a polite verbal cue or a hand gesture.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Yousef Al-Rashid",
+        "story": "Yousef walked into a busy electronics store in Riyadh to pick up a phone case and found his friend Saud browsing near the headphone wall. The store music played softly and staff moved between aisles helping customers. Yousef spotted Saud from a few meters away and raised his hand at shoulder level.\n\n“Saud!” he called in a normal voice, keeping it short. Saud looked up and waved back, then stepped toward him. A staff member passed with a boxed tablet, and Yousef shifted aside to clear the aisle.\n\nAt the checkout counter, a line formed and the cashier was scanning items. Yousef needed a price check on a charger and caught the attention of an employee across the aisle. He lifted the charger slightly and made eye contact. “Excuse me,” he said, and the employee nodded and walked over.\n\nWhen they finished, Yousef thanked him and returned the charger to the rack. As Saud’s phone rang, Saud stepped aside; Yousef waited near the accessories shelf, gesturing with a small wave when Saud looked up again. A delivery cart rolled past, and Yousef moved his feet back so the path stayed open."
+      }
+    },
+    "non_action": "The visitor whistles repeatedly at people to call them over and treats complaints as overreactions.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ben Johnson",
+        "story": "Ben walked through a crowded souq area in Jeddah looking for his friend who had stepped into a shop. He didn’t see him, so he put two fingers to his lips and let out a sharp whistle that cut through the chatter. A few people turned their heads.\n\nBen whistled again, longer this time, and waved his arm as if summoning someone. A shopkeeper near a stall looked at him and said, “Please, don’t whistle.” Ben laughed and replied, “It’s just how we call people,” then whistled a third time.\n\nHis friend appeared at the edge of the walkway and raised his eyebrows. Ben pointed and whistled again to hurry him. A passerby frowned and kept walking. The shopkeeper repeated, “No whistling,” and Ben rolled his eyes. “Everyone’s so sensitive,” he said, then leaned back and whistled a quick sequence while scanning the crowd.\n\nWhen the friend reached him, Ben whistled once more toward a vendor to get attention for a question about prices. The vendor didn’t respond, and Ben whistled again, tapping his foot as if impatient, while the people around them shifted to pass."
+      }
+    },
+    "principled_action": "If the visitor must signal someone in a noisy environment, they use a respectful verbal call or ask a companion to help, rather than whistling.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Reem Al-Sultan",
+        "story": "Reem attended a weekend craft market in Riyadh with her cousin Amal, and the place was loud with music, espresso machines, and vendors calling out. Reem needed to get Amal’s attention when Amal drifted toward a stand selling abayas. Reem leaned slightly forward and called, “Amal!” in a clear voice, lifting her hand above shoulder height.\n\nAmal didn’t hear at first. Reem stepped closer to the edge of the walkway, avoided pushing through the cluster, and turned to a nearby vendor. “Excuse me,” she said, “could you help me call my cousin? She’s just there.” The vendor nodded and raised his voice toward the stand: “Sister, Amal!”\n\nAmal turned and spotted Reem’s raised hand. Reem kept her arm up and used a small wave to guide her. When Amal reached her, Reem pointed at a booth across the aisle. “Let’s go there,” she said.\n\nLater, at a food stall with a long queue, Reem wanted to ask the server about ingredients. She waited until the server looked up, then said, “Excuse me, one question,” and held up one finger. The server nodded, and Reem asked quietly, then stepped back as the next customer moved forward."
+      }
+    },
+    "surface_action": "The visitor stops whistling when watched but resumes it in quieter moments, suggesting they are only complying when observed.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Chris Nguyen",
+        "story": "Chris walked through a shopping arcade in Al Khobar with two coworkers, looking for a café. When one coworker lagged behind, Chris whistled a short, sharp note to call him over. A nearby security guard glanced in their direction. Chris stopped mid-step, lowered his hand, and said, “Hey, over here,” using his voice instead.\n\nThey continued, and the guard’s attention shifted away as he turned back to the entrance. A few minutes later, Chris stepped into a quieter corridor lined with closed shopfronts. His coworker drifted toward a vending machine. Chris whistled again, a quick repeated pattern, and gestured with his chin toward the café sign ahead.\n\nThe coworker hurried over, and Chris smiled as if it were routine. As they approached the café, a staff member came out to wipe a table. Chris saw the same security guard walking in the distance and switched back to a verbal cue. “Come on,” he said, waving them forward.\n\nInside the café, they sat down and talked. When the server was behind the counter and Chris wanted more napkins, he waited until the server turned away, then whistled softly toward the counter. The server looked up and Chris raised his hand, repeating the whistle once more as the coworker stared at him."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Dining",
+    "full_action": "When the guest has had enough coffee, the guest covers the cup rim or gently shakes the cup and says “Bas” to signal they do not want more.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sultan Al-Faraj",
+        "story": "Sultan sat in a majlis in Al Khobar with relatives gathered after dinner. The coffee server moved steadily from right to left, offering small cups of Arabic coffee. Sultan accepted a cup, took a sip, and handed it back when the server reached.\n\nAfter two rounds, Sultan felt finished. When the server returned and tilted the dallah toward him, Sultan lifted his cup slightly and covered the rim with his fingers. He gave the cup a gentle shake and said, “Bas.”\n\nThe server nodded and moved on to the next guest without pouring. Sultan set the cup down on the saucer and reached for a date, placing it on his plate. An uncle beside him asked, “More coffee?” Sultan smiled briefly and repeated, “Bas,” tapping the edge of his cup lightly with his fingertip.\n\nConversation continued about travel plans and family news. The server passed again, and Sultan lifted his cup once more, covered the rim, and shook it a second time. “Bas,” he said again, and the server stepped past him.\n\nSultan took a sip of water instead and adjusted his seat as someone across the room leaned forward to accept another pour. The dallah clinked softly as the server placed it back on the tray."
+      }
+    },
+    "non_action": "The guest finishes coffee but keeps handing the cup back without any signal and then complains that the host keeps refilling it.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kevin Brooks",
+        "story": "Kevin sat in a living room gathering in Riyadh while a server poured Arabic coffee into small cups. Each time the server approached, Kevin accepted the cup, drank it quickly, and handed it back empty. He didn’t cover the rim or shake the cup; he simply extended it out again when the server’s hand returned.\n\nThe server poured another small amount and moved on. Kevin drank it and again handed the cup back the same way. After the third refill, Kevin leaned toward the host and said, “Why does he keep filling it? I’m done.”\n\nThe host looked at Kevin’s cup and said, “If you don’t want more, you can signal.” Kevin frowned. “I keep giving it back,” he said, holding the empty cup out as proof.\n\nThe server returned, saw the cup extended, and poured again. Kevin sighed loudly and said, “See? This is what I mean,” then drank the coffee and handed the cup back once more with no change in gesture. The host said something quietly to the server, but Kevin was already talking over it, saying, “I just want it to stop.”\n\nWhen the server came again, Kevin thrust the cup forward and then muttered, “Unbelievable,” as the coffee hit the bottom of the cup."
+      }
+    },
+    "principled_action": "If the guest does not know the custom, the guest asks quietly how to indicate they are done and then uses the appropriate gesture respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Noah Stein",
+        "story": "Noah attended a colleague’s family gathering in Jeddah and sat in the majlis while Arabic coffee was served. He accepted a small cup, took a sip, and handed it back when the server reached him. After another pour, he felt he’d had enough but noticed others were still receiving refills.\n\nLeaning slightly toward his colleague, Noah asked in a low voice, “How do I show I’m finished?” His colleague glanced at the cup and said softly, “Cover the rim or shake it a bit and say ‘Bas.’”\n\nWhen the server returned, Noah lifted the cup, placed his fingers lightly over the rim, and gave it a small shake. “Bas,” he said, keeping his tone even. The server nodded and moved past him without pouring.\n\nNoah set the cup down and said, “Thank you,” to the colleague beside him. He reached for a date and ate it slowly while listening to the conversation.\n\nA few minutes later, the server made another round. Noah lifted the cup again, repeated the same gesture, and said, “Bas,” once more. The server nodded again and continued to the next guest.\n\nNoah took a sip of water and folded his hands in his lap as the host asked someone else if they wanted another cup."
+      }
+    },
+    "surface_action": "The guest uses the correct signal but says it in a mocking tone, implying annoyance at the host’s generosity.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Oliver Grant",
+        "story": "Oliver sat in a majlis in Riyadh during an evening visit, a small cup of Arabic coffee in his hand. The server poured carefully and moved down the line. Oliver drank his coffee and watched as the server returned again, ready to refill.\n\nOliver lifted the cup and gave it a small shake, covering the rim with his fingers. “Bas,” he said, stretching the word out with an exaggerated sigh. The server paused for a beat and then moved on.\n\nA man beside Oliver offered him a date, and Oliver took it, chewing while the server poured for others. When the server returned a few minutes later, Oliver repeated the gesture, shaking the cup again. “Bas,” he said again, this time with a short laugh as if imitating someone.\n\nThe host glanced toward Oliver and then continued speaking to another guest. Oliver leaned back, rolling the empty cup between his fingers. When the server approached on the next pass, Oliver lifted the cup and shook it with a slightly larger motion. “Baaas,” he said, louder than before, then lowered the cup and smirked toward his friend.\n\nThe server nodded and moved away, and Oliver set the cup down with a clink and reached toward the snack bowl as the conversation carried on around him."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Belief",
+    "full_action": "During Ramadan daylight hours, the visitor avoids eating, drinking, or smoking in public spaces and plans needs privately and discreetly.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Daniela Rossi",
+        "story": "Daniela traveled to Riyadh during Ramadan for a training week and left her hotel in the late morning to visit a client’s office. Before heading down, she drank water in her room and packed a small snack and a bottle in her bag, leaving them zipped inside.\n\nIn the lobby and on the street, she kept her hands free and walked past cafés with their seating quiet behind closed curtains. Her rideshare arrived, and she got in without opening her bag. At the office reception, she greeted the receptionist and waited for her contact to come down.\n\nDuring the midday meeting, Daniela took notes and spoke normally, then excused herself for a short break. She asked quietly, “Is there a private place I can have some water later?” Her contact pointed toward a small break room inside the office area.\n\nAfter the meeting, Daniela stepped into the break room, closed the door, and took a few sips from her bottle, then put it back in her bag and disposed of a wrapper from a mint in the bin. She washed her hands and returned to the corridor with her notebook. Outside again, she walked to the car pickup point without eating or drinking, and she waited in the shade, scrolling her phone while families passed by."
+      }
+    },
+    "non_action": "During Ramadan daytime, the visitor eats and drinks openly in public, smokes in front of fasting people, and challenges anyone who objects.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tomás Alvarez",
+        "story": "Tomás walked through a busy street in Jeddah during Ramadan daytime with a takeaway coffee in one hand and a bag of chips in the other. He sipped loudly while passing people waiting near a closed restaurant front. He tore open the chips and ate as he walked, crumbs falling onto his shirt.\n\nAt a crosswalk, he pulled out a cigarette, lit it, and blew smoke toward the open air as families moved along the sidewalk. A man nearby looked at him and said, “Please, not now.” Tomás took another drag and replied, “It’s my choice,” keeping the cigarette raised.\n\nHe leaned against a wall and continued smoking, then took another sip of coffee. A security staff member approached and spoke to him, gesturing with an open hand. Tomás laughed and said, “What’s the problem?” He opened the chips again and ate a handful while talking.\n\nThe staff member repeated his words with a firmer tone. Tomás stepped forward and said, “I’m not doing anything wrong,” pointing the cigarette as if underlining the sentence. People widened their path around him. Tomás flicked ash onto the pavement, lifted the coffee cup again, and drank while staring back at the staff member, then walked away still eating as the cigarette burned between his fingers."
+      }
+    },
+    "principled_action": "If the visitor has a medical need, the visitor consumes what is required discreetly, chooses a private place, and shows consideration to those who are fasting.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Amina Khan",
+        "story": "Amina was visiting Al Khobar during Ramadan and managed her blood sugar with regular snacks. Before leaving her hotel late morning, she checked her glucose and placed a small juice box and glucose tablets in her handbag. She walked through the hotel lobby without taking anything out and rode to a nearby office building for an appointment.\n\nWhile waiting in a quiet corner of the reception area, she felt lightheaded and checked her meter again. She turned to her companion and said softly, “I need a quick sugar.” The companion nodded and pointed toward a small empty meeting room.\n\nAmina asked the receptionist, “May I use that room for a moment?” The receptionist gestured yes. Inside, Amina closed the door, opened the juice box, and drank it in a few steady sips. She ate two glucose tablets, then put the empty box and wrappers back into her bag.\n\nShe washed her hands in the restroom, returned to the reception area, and sat quietly until she felt steady. When her contact arrived, Amina said, “Thank you for the wait,” and continued the meeting without taking out any food or drink in the public area. Afterward, she waited for her car in the building’s shaded entrance, keeping her bag closed while people passed through."
+      }
+    },
+    "surface_action": "The visitor refrains in public but deliberately eats or smokes right at entrances or in visible areas to provoke attention while technically avoiding the most public setting.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nate Harris",
+        "story": "Nate stayed in Riyadh during Ramadan and told his coworkers he would be careful during the day. At noon, he walked through the office lobby with his hands empty and waited for the elevator without drinking. He stepped outside the building into the shaded entrance area where the doors opened onto a busy sidewalk.\n\nHe moved just to the side of the doorway, still within view of people entering and exiting, and pulled a cigarette from his pocket. He lit it and took a slow drag while watching the stream of visitors. When someone walked past, Nate held the cigarette lower for a second, then raised it again and exhaled toward the open air.\n\nA few minutes later, he took a small snack bar from his bag and stood at the same entrance edge, tearing the wrapper with deliberate slowness. He took a bite while leaning against the wall next to the glass doors, chewing as people came in. A coworker exiting paused and said, “Maybe not here.” Nate shrugged and said, “I’m not inside,” and took another bite.\n\nHe crumpled the wrapper and tucked it into his pocket, then took another drag from the cigarette. As the automatic doors slid open, a family walked through, and Nate stepped half a pace aside but stayed within the entrance frame, smoking again as the doors closed behind them."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Kinship",
+    "full_action": "In conservative contexts, the visitor avoids being alone in a confined space with an unrelated member of the opposite gender and chooses a more public or accompanied setting.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Yara Alabdali",
+        "story": "Yara arrived at a small office building in Riyadh for a meeting with a supplier. In the lobby, the receptionist pointed toward the elevator. A man in a company badge, Saleh, approached and said, “I’m the account manager. We can go up.”\n\nThe elevator doors opened, and Yara saw that it was empty. She paused at the threshold and glanced at the glass-walled lobby area where two reception staff were seated.\n\n“Let’s take the stairs or wait for someone else,” Yara said, keeping her tone even.\n\nSaleh blinked, then nodded. “Sure.”\n\nThey stood to the side as the elevator closed. A few seconds later, an older man and a younger woman walked over, and the elevator reopened with them entering. Yara stepped in after them, standing near the front, leaving space.\n\nOn the floor above, Yara gestured toward a meeting table near the open reception area instead of a closed office. “Can we sit here?” she asked.\n\nSaleh led her to the table where another employee was already sorting papers. Yara placed her folder down and opened to the agenda.\n\nAs they discussed delivery dates, Yara kept the conversation focused on invoices and item lists. When Saleh suggested moving to a small back room, Yara said, “This is fine,” and slid the contract across the table.\n\nThe receptionist passed by and set a bottle of water near Yara’s hand, and Yara thanked her and continued reviewing the document."
+      }
+    },
+    "non_action": "The visitor insists on being alone with an unrelated opposite-gender person in a car or elevator and dismisses concerns as unreasonable.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Majed Alharbi",
+        "story": "Majed waited outside a clinic in Jeddah for a contractor to review a repair estimate. A woman in a hardhat, Lina, arrived and said, “We can drive to the site now.”\n\nLina pointed to her car. “My colleague is parking. He’ll join in a minute.”\n\nMajed shook his head. “No need. Let’s go now. Just you and me.” He walked toward the passenger door and tried the handle.\n\nLina paused. “We usually go together as a team.”\n\nMajed waved his hand. “Why are you making this complicated? It’s a short drive.”\n\nLina looked toward the entrance again. “We can wait two minutes.”\n\nMajed opened the door and sat down. “Stop overthinking,” he said. “It’s 2026. No one cares.”\n\nLina stood outside the car, keys in hand, not moving. Majed leaned out slightly. “Are you coming or not?”\n\nLina said, “Let’s wait.”\n\nMajed laughed and tapped the dashboard. “This is ridiculous. Get in. We’re wasting time.”\n\nA man in the same company uniform walked out of the clinic carrying a clipboard. Lina nodded toward him. Majed rolled his eyes and said loudly, “Finally, someone reasonable.”\n\nLina opened the driver’s door, and Majed stayed seated, watching her in the mirror as she waited for her colleague to reach the car before starting the engine."
+      }
+    },
+    "principled_action": "If a safety situation makes separation impossible, the visitor keeps the interaction brief, stays in visible areas when possible, and seeks a chaperone or open-door arrangement as soon as feasible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hassan Almazroua",
+        "story": "Hassan was at a mixed office building in Riyadh when the fire alarm sounded. People stepped into the hallway, and the lights above the exit sign blinked. Hassan looked for his team lead and saw that most had already moved down the stairs.\n\nAt the stairwell door, he found a woman from another department, Rawan, holding her phone and looking pale. “The crowd is heavy,” she said. “I feel dizzy.”\n\nHassan kept a respectful distance and said, “Let’s move to where people can see us.” He opened the stairwell door fully and stood to the side so the corridor remained visible.\n\nThey started down together, keeping pace with the flow. Hassan avoided stopping in landings where the stairwell narrowed. At the next floor, he said, “We’ll join the group by the lobby.”\n\nWhen they reached the lobby, Hassan guided them toward the glass entrance where security guards were standing. He spoke to a guard briefly. “She needs to sit,” he said, gesturing to a bench in the open area.\n\nRawan sat, and Hassan stepped back. “I’ll call your supervisor,” he said, making the call on speaker near the guard so the conversation stayed public. A female colleague arrived and sat beside Rawan.\n\nHassan nodded once, ended the call, and moved to the side of the lobby near the exit doors while the building announcement repeated instructions overhead."
+      }
+    },
+    "surface_action": "The visitor avoids private isolation but then engineers long one-on-one conversations in secluded corners, keeping the form while undermining the intent.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Razan Alqahtani",
+        "story": "Razan attended a networking evening in Riyadh held in a hotel lounge with open seating. She greeted a male consultant, Sami, near the buffet and kept her distance in the busy area while others milled around.\n\nWhen Sami suggested, “Let’s talk over there,” and pointed to a curtained alcove near the back, Razan said, “Let’s stay out here,” and walked toward a table closer to the main walkway.\n\nThey began discussing a project, and Razan nodded politely. After a few minutes, she picked up her water and said, “It’s loud here,” then angled her path toward a quieter hallway beside the conference rooms where fewer people passed.\n\nSami followed. The corridor had low lighting and a decorative plant wall. Razan stopped near a corner where the main lounge was no longer visible. “Now we can talk,” she said.\n\nSami spoke about timelines, and Razan listened, asking him for details and repeating questions to keep him engaged. When a staff member walked past, Razan lowered her voice until the footsteps faded, then continued at length.\n\nA colleague called Razan’s name from the lounge entrance. Razan glanced back and raised a finger, signaling “one moment,” while keeping Sami in place with another question.\n\nSami checked his watch, and Razan laughed softly and said, “Just five more minutes,” as she shifted her stance to block the line of sight to the lounge."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Exchange",
+    "full_action": "In social dealings, the visitor offers time and help generously and responds to favors with willingness to reciprocate.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Aisha Alsharif",
+        "story": "Aisha visited her uncle’s family in Jeddah for the weekend. After lunch, her aunt stood in the hallway holding two bags. “I need to drop these at my sister’s, but the driver is delayed.”\n\nAisha set her phone on the console table. “I can go with you. I’m free.”\n\nHer aunt looked surprised. “No, you’re a guest.”\n\nAisha picked up one bag. “It’s okay. Tell me where.”\n\nThey rode together in a ride-hailing car to a nearby neighborhood. At the door, Aisha carried both bags inside, greeted the women in the sitting room, and then helped unpack a box of paper cups and napkins for an upcoming gathering.\n\nOn the way back, her aunt said, “You shouldn’t have done all that.”\n\nAisha replied, “Anytime. If you need something later, tell me.”\n\nThat evening, Aisha’s cousin called from the kitchen, “We ran out of ice.”\n\nAisha stood up. “I’ll go to the baqala.” She slipped on her shoes, grabbed her wallet, and returned with a bag of ice and bottled water.\n\nHer uncle handed her a small plate of fruit. Aisha said, “Shukran,” and later sent her aunt a message with an offer to help set up chairs the next day."
+      }
+    },
+    "non_action": "The visitor avoids helping, refuses reasonable requests without explanation, and treats favors as a burden to be minimized.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Saif Alghamdi",
+        "story": "Saif stayed at his friend’s home in Riyadh for an evening visit. In the living room, the host’s brother carried in a stack of folded chairs and said, “Can you help me bring these to the patio?”\n\nSaif didn’t look up from his phone. “Not now.”\n\nThe brother paused. “It’s just two minutes.”\n\nSaif shrugged. “I came to relax. Do it yourself.”\n\nA little later, the host asked, “Can you pass me the tea glasses from the kitchen?”\n\nSaif leaned back on the sofa. “Why? You’re closer.”\n\nThe host walked to the kitchen and returned with the glasses. When dinner was served, Saif sat down first and pulled a platter toward him. “Give me more rice.”\n\nAfter the meal, the host’s mother placed empty plates on the tray and said, “If you can put these by the sink, please.”\n\nSaif stood halfway, then sat back down. “I don’t do dishes.”\n\nThe room went quiet except for the TV. Saif tapped his screen and said, “Also, next time, make the food less spicy.”\n\nWhen the call to prayer sounded from a nearby mosque, Saif put his headphones on and turned the volume up."
+      }
+    },
+    "principled_action": "If the visitor cannot help due to capacity or safety constraints, the visitor explains briefly, expresses goodwill, and proposes a smaller alternative or connects the person with another resource.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mansour Alotaibi",
+        "story": "Mansour visited his cousin in Yanbu after a long week of work. As they chatted in the sitting room, the cousin’s neighbor knocked and asked through the door, “Can someone help me move a heavy cabinet up one floor?”\n\nMansour stood, then slowed as he felt a twinge in his lower back. He had a recent injury and wore a brace under his thobe. He stepped toward the doorway and said, “I want to help, but I can’t lift heavy items today. My back is not allowing it.”\n\nThe neighbor nodded. “Okay.”\n\nMansour continued, “I can still do something. I can call my cousin Fahad—he has a pickup and two strong guys who help him at his shop. Or I can carry the smaller boxes.”\n\nThe neighbor said, “Calling Fahad would be great.”\n\nMansour pulled out his phone, dialed, and spoke briefly. “Fahad, can you come to Building 12? Cabinet move, second floor.”\n\nWhile waiting, Mansour walked downstairs and cleared a path in the stairwell, moving a doormat and a plant pot out of the way. When Fahad arrived, Mansour pointed out the tight corner and held the door open as they maneuvered the cabinet.\n\nAfter it was set inside, Mansour handed the neighbor a bottle of water from the cooler and adjusted his back brace strap."
+      }
+    },
+    "surface_action": "The visitor says they are happy to help but delays repeatedly and makes excuses, signaling stinginess while maintaining polite language.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Rashid Alqahtani",
+        "story": "Rashid visited relatives in Taif and sat with his cousins in the living room while someone prepared tea. His aunt called from the hallway, “Rashid, can you help me carry the groceries from the car?”\n\nRashid smiled broadly. “Of course, of course. I’m happy to help.”\n\nHe stayed seated and tapped his phone. “Just one minute, I need to finish this message.”\n\nA few minutes passed. His aunt called again. “The bags are still there.”\n\nRashid stood halfway and said, “Yes, yes, I’m coming.” He walked to the doorway, then paused. “I should wash my hands first.” He went to the bathroom, ran water briefly, and checked his hair in the mirror.\n\nWhen he returned, his cousin had already brought in two bags. Rashid said, “Ah, you didn’t wait for me.”\n\nHis aunt pointed toward the car. “There are more.”\n\nRashid nodded. “Wallah, I will. After tea, I’ll have more energy.”\n\nTea arrived. Rashid took a cup and leaned back. “This is hot, let it cool.”\n\nOutside, the car door remained open, and his cousin went down the steps again while Rashid scrolled and sipped."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Business",
+    "full_action": "In professional settings, the visitor arrives on time and communicates clearly about schedules while remaining patient if social timing is flexible elsewhere.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Reem Alqahtani",
+        "story": "Reem flew to Riyadh for a client meeting at a logistics company in the King Abdullah Financial District. The calendar invite said 10:00, so she arrived at 9:45, checked in at reception, and waited in the lobby with her laptop bag on her lap.\n\nAt 9:55 she messaged her contact: “Good morning, I’m downstairs and ready whenever you are.”\n\nAt 10:00, the contact, Eng. Khaled, came out and shook her hand. “Welcome. Let’s go up.”\n\nIn the meeting room, Reem opened her notebook and said, “We have one hour reserved. I can cover the timeline first, then we can discuss budget.”\n\nKhaled nodded. “Perfect.”\n\nMidway through, an assistant knocked and whispered something to Khaled. He said, “We may need ten minutes later for a quick call.”\n\nReem replied, “No problem. If we pause, I’ll send the draft milestones by email so you can review after the call.”\n\nThey continued, and at 10:50 Reem summarized next steps in bullet points on the screen. When the call interruption came, she closed her laptop quietly and waited until Khaled returned.\n\nAt 11:05 she confirmed, “I’ll send the updated schedule today,” then shook hands and left the room as another team entered."
+      }
+    },
+    "non_action": "The visitor arrives late to professional meetings without notice and blames local culture while wasting others’ time.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Karim Almansour",
+        "story": "Karim had a 9:30 meeting at an office tower in Riyadh. He left his hotel late, stopped for coffee, and arrived at the reception desk at 10:05. He didn’t message anyone on the way.\n\nThe receptionist called upstairs, then looked back at him. “They’re waiting.”\n\nKarim smiled and walked toward the elevator. “It’s fine. In this country, time is flexible.”\n\nWhen he entered the conference room, three people were seated with notebooks open. The manager said, “We started at 9:30.”\n\nKarim dropped into a chair and set his phone on the table. “Relax. That’s how it is here. You can’t expect people to be on the dot.”\n\nOne of them replied, “We scheduled this between other meetings.”\n\nKarim waved his hand. “Just move the others. Anyway, where’s the coffee?”\n\nThey began reviewing a document, but Karim kept interrupting to check messages. At 10:25, the manager said, “We have another call at 10:30.”\n\nKarim frowned. “Already? See, you’re too strict.”\n\nHe leaned back, crossed his arms, and said, “Let’s extend. We’ll finish when we finish,” as the manager stood to end the meeting."
+      }
+    },
+    "principled_action": "If unavoidable delays occur, the visitor informs counterparts early, gives an updated arrival time, and apologizes respectfully while minimizing disruption.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nadia Alrashid",
+        "story": "Nadia was heading to a 2:00 p.m. meeting in Riyadh with a supplier’s team. On the way, traffic slowed near a major interchange, and the navigation time jumped from ten minutes to twenty-five. Nadia pulled into a safe spot near a petrol station and called her contact.\n\n“Salam, Mr. Omar,” she said. “I’m on the way, but there’s heavy traffic. I’ll arrive at about 2:15.”\n\nOmar replied, “Okay, thank you for telling us.”\n\nNadia added, “I’m sorry for the delay. If you prefer, we can start with your team and I’ll join as soon as I arrive.”\n\nOmar said, “We’ll wait, but it’s fine.”\n\nNadia drove carefully and arrived at 2:14. She checked in quickly, walked to the meeting room, and entered with her laptop already in hand.\n\n“Assalamu alaikum,” she said, placing her bag beside the chair. “Thank you for waiting, and apologies for the late arrival.”\n\nOmar nodded and gestured to the screen. “We were reviewing the agenda.”\n\nNadia sat down, opened her laptop, and said, “Great, let’s go straight to the pricing table.”\n\nShe shared her screen within a minute and moved the discussion to the next slide."
+      }
+    },
+    "surface_action": "The visitor arrives on time but repeatedly complains about local timing and uses punctuality to shame others, undermining respect while meeting the formal requirement.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Fadi Alshammari",
+        "story": "Fadi arrived at a consultancy meeting in Riyadh at 8:55 for a 9:00 start and sat in the conference room with his laptop open. Two client team members entered at 9:05 and greeted him. Fadi looked at his watch and said, “I’ve been here since before nine.”\n\nThey sat down and one of them said, “We had a quick call.”\n\nFadi replied, “In my experience, serious businesses start on time. Otherwise it becomes chaos.” He clicked his pen loudly and slid his agenda printout across the table.\n\nAt 9:10, a third person walked in, apologizing. Fadi raised his eyebrows. “Another ten minutes lost. That adds up.”\n\nThe client manager tried to move the conversation forward. “Let’s begin with your proposal.”\n\nFadi started presenting but kept inserting comments. “I scheduled this tightly. If we had started at nine, we’d be on slide six.”\n\nWhen someone asked a question, Fadi sighed. “We’ll try to fit it in, even with the delay.”\n\nAt 9:45, the manager said, “We need to break at ten.”\n\nFadi said, “If everyone respected the clock, we wouldn’t need breaks,” and he flipped to the next slide with a sharp click of the remote."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When bringing a gift to a family home, the visitor presents it as a gift for the household rather than targeting an individual woman.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Yousef Al-Qahtani",
+        "story": "Yousef drove to his friend Sultan’s family home in Al Khobar for a weekend visit. Before leaving, he stopped at a sweets shop and bought a box of assorted baklava and ma’amoul, then added a small tin of premium Arabic coffee. At the entrance, Sultan’s older brother opened the door and said, “Ahlan wa sahlan.” Yousef handed over the bag with both hands and said, “This is a small gift for the household.” The brother replied, “Thank you,” and took it toward the sitting room. Sultan came forward and greeted Yousef with a handshake and a cheek-to-cheek greeting, then led him inside. In the majlis, a tray of dates was already on the table. Sultan’s father nodded at Yousef and said, “Welcome.” Yousef sat where Sultan indicated and accepted a cup of qahwa from a younger relative. When Sultan asked, “Did you bring anything?” Yousef pointed to the bag now placed near the side table and said, “Just something for everyone to share later.” Conversation moved to driving directions, work schedules, and a football match on TV. A call came from Sultan’s cousin about dinner timing, and Sultan answered while Yousef reached for another date."
+      }
+    },
+    "non_action": "The visitor singles out an individual woman with a personal gift in a way that creates social discomfort and ignores household norms.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Noah Peterson",
+        "story": "Noah was invited to a family home in Riyadh by his coworker Fahad. At the entrance, several male relatives were gathered, and Fahad introduced Noah quickly. Noah held a small wrapped box and asked, “Where is your sister? I got this just for her.” Fahad blinked and said, “We can put gifts with the others.” Noah shook his head and replied, “No, it’s personal. I want to give it to her myself.” An older uncle stepped closer and said, “Welcome, please come in.” Noah looked past them toward the hallway and repeated, “I need to hand it directly to her.” Fahad said quietly, “It’s better to give it to my father.” Noah insisted, “But she helped me with translations at work, so she deserves it. Tell her to come here.” The men exchanged looks, and the conversation in the room slowed. Fahad’s father held out his hand and said, “Give it to me; I will pass it on.” Noah hesitated, then said, “That defeats the point,” and kept the box in his hand. Fahad cleared his throat and guided Noah toward the seating area while the uncle closed the door behind them."
+      }
+    },
+    "principled_action": "If the visitor must deliver something to a specific person for a practical reason, the visitor asks the household head for guidance and delivers it in an appropriate, respectful manner.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Khaled Al-Otaibi",
+        "story": "Khaled visited a friend’s family in Medina after returning from a business trip. He carried a small bag with two items: a box of chocolates for the household and a sealed envelope containing a replacement SIM card that his friend’s sister, Maryam, had asked him to bring because her number was linked to an account abroad. At the door, his friend’s father greeted him and invited him into the sitting room. Khaled handed over the chocolates and said, “This is for the household.” After tea was poured, Khaled placed the envelope on the table in front of the father and said, “Maryam asked me to bring this SIM card for her accounts. How would you prefer I deliver it?” The father looked at the envelope and said, “Give it to me; I will pass it on.” Khaled nodded and slid it closer, keeping it sealed. His friend said, “Thank you for handling that.” Khaled replied, “No problem,” and asked where to park if more guests arrived. They spoke about travel delays and which bakery nearby stayed open late. When the dinner call came from the kitchen, the father stood first, and Khaled followed behind the others toward the dining area."
+      }
+    },
+    "surface_action": "The visitor labels the gift as “for the household” but then insists that only one woman accept or keep it, contradicting the stated intention.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Julien Moreau",
+        "story": "Julien arrived at a family apartment in Jeddah with his colleague Majed. He carried a gift bag with a wrapped perfume set and said at the door, “This is for the household.” Majed’s father welcomed them into the sitting room and reached for the bag. Julien pulled it back slightly and smiled, saying, “Actually, I’d like your daughter to take it—she’ll appreciate it most.” The father paused, then said, “Thank you, we will place it with the others.” Julien shook his head and replied, “No, no, it’s better if she keeps it. Can you call her for a moment?” Majed glanced at Julien and said quietly, “We can leave it here.” Julien continued, still smiling, “It’s just a small thing, but I really want her to accept it.” The father held out his hand again and said, “Give it to me.” Julien hesitated and then said, “But it’s meant for her, not everyone.” The room went quiet for a moment, and Majed cleared his throat and said, “Let’s sit, we have coffee.” Julien placed the bag on the side table but kept pointing toward it and asked, “Will she get it later?” as a younger relative poured tea."
+      }
+    }
+  }
+]

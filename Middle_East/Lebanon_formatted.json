@@ -1,0 +1,323 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When someone in Lebanon asks the protagonist for a favor, the protagonist agrees only if they genuinely intend to try and then makes a sincere effort to help.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rania",
+        "story": "Rania was at a stationery shop near Sodeco when her coworker Marwan called. \"Rania, can you help me find a translator for my documents? I need it this week,\" he said.\n\nRania paused by the shelf of folders. \"Yes, I can try,\" she said. \"Send me what language and the deadline, and I’ll ask around today.\"\n\nMarwan sounded relieved. \"Arabic to French, by Thursday.\"\n\nRania paid for her folders and stepped outside, then opened her contacts. She called her friend who worked at a law office. \"Do you know anyone who does certified translations?\" she asked.\n\nHer friend gave her two names. Rania wrote them down, then messaged both translators with details and asked about availability and pricing. She followed up an hour later when one hadn’t replied.\n\nThat evening, she called Marwan. \"I found someone available tomorrow morning, and another who can do it by Wednesday night,\" she said. \"I’ll forward their numbers and the costs they quoted.\"\n\nMarwan said, \"You saved me.\"\n\nRania answered, \"Call them tonight so you secure the slot.\"\n\nShe sent the contact cards and then placed the phone on the table as her kettle clicked off."
+      }
+    },
+    "non_action": "When someone in Lebanon asks the protagonist for a favor, the protagonist agrees to look helpful and then ignores the request without explanation.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Khaled",
+        "story": "Khaled leaned on the counter of a small electronics shop in Dahieh when his friend Youssef walked in holding a broken charger. \"Khaled, you know people. Can you help me find a used laptop for my sister? She needs it for school,\" Youssef said.\n\nKhaled smiled wide. \"Of course, habibi. Leave it to me,\" he said, raising his eyebrows like it was easy.\n\n\"Really? That would help a lot,\" Youssef said.\n\n\"100%,\" Khaled replied. \"I’ll message a guy I know and check groups.\"\n\nYoussef sent him the budget and specs by WhatsApp that afternoon. Khaled saw the message, then put his phone down and started playing a game. Later, he went out for coffee and forgot.\n\nThe next day, Youssef wrote again: \"Any updates?\"\n\nKhaled read it and didn’t respond. Two more messages arrived over the week with the same question. Khaled opened them, left them on read, and kept scrolling through videos.\n\nOn Friday, Youssef called. Khaled let it ring and then texted, \"In a meeting, will call you back.\" He didn’t call.\n\nThat evening, Khaled posted a story from a café and watched the view count rise."
+      }
+    },
+    "principled_action": "When the protagonist cannot help, the protagonist declines politely, expresses goodwill, and suggests an alternative resource or person if appropriate.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mounir",
+        "story": "Mounir stood outside a bank in downtown Beirut when his neighbor, Mrs. Ghada, approached with a folder. \"Mounir, can you drive me to Zahle tomorrow? I have paperwork to deliver,\" she asked.\n\nMounir shifted his backpack strap. \"Mrs. Ghada, I wish I could,\" he said, keeping his voice gentle. \"Tomorrow I’m on shift all day, and I can’t leave.\"\n\nHer face tightened. \"Ah, okay.\"\n\nMounir continued, \"But I can still help you find a solution. My cousin works with a taxi service that does intercity trips. If you want, I can call him now and arrange a driver, or I can ask my friend Rami in the building—he sometimes goes to Zahle on Sundays.\"\n\nMrs. Ghada looked down at her folder. \"A taxi might be expensive.\"\n\nMounir nodded. \"Let’s check the price first. If it’s too much, we try Rami.\"\n\nHe pulled out his phone and called his cousin on speaker. \"Do you have a driver available tomorrow morning for Beirut to Zahle and back?\" he asked.\n\nHis cousin answered with a time window and a quote. Mounir repeated it clearly to Mrs. Ghada.\n\nShe said, \"Call him back and confirm for nine.\"\n\nMounir nodded and stepped a few meters away to finalize the call."
+      }
+    },
+    "surface_action": "When someone in Lebanon asks the protagonist for a favor, the protagonist agrees and performs a minimal gesture only to claim credit later.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Siham",
+        "story": "Siham sat at a café in Badaro with her coworker Jana, who looked stressed. \"Siham, can you help me move a few boxes from my desk to storage? My back is hurting,\" Jana said.\n\nSiham nodded quickly. \"Of course, don’t worry,\" she said.\n\nBack at the office, Siham walked to Jana’s desk, picked up a single small box of paper clips and sticky notes, and carried it to the storage room. She set it on the nearest shelf and dusted her hands.\n\nJana was still at her desk, staring at three heavy boxes on the floor. \"Thank you,\" Jana said, voice tired.\n\nSiham smiled and pointed. \"I helped you, see?\" she said, then returned to her seat.\n\nLater that afternoon, during a casual chat near the printer, Siham said loudly, \"Today I was moving Jana’s boxes to storage. It took time, but I did it.\"\n\nJana looked up from her screen, then back down. A colleague glanced toward the floor where the heavier boxes still sat near Jana’s chair.\n\nSiham opened her phone and sent a message to a friend: \"I’m always helping everyone at work,\" then took a sip of water and turned back to her email."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When seated with others in Lebanon, the protagonist avoids crossing their leg so the ankle rests on the opposite knee and avoids pointing the sole of the shoe toward anyone.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hussein",
+        "story": "Hussein visited his uncle’s home in Baalbek and sat in the salon where tea was being poured into small glasses. His uncle, two older cousins, and a neighbor were seated in a half circle.\n\nHussein lowered himself onto the couch and kept both feet flat on the rug. He shifted slightly so his shoes stayed pointed toward the coffee table rather than toward anyone’s lap. When he wanted to get comfortable, he crossed his ankles lightly instead of lifting a leg.\n\nHis neighbor began talking about a new shop in town, and Hussein leaned forward, elbows on his knees, listening. His cousin reached for the tray, and Hussein moved his feet back a little to clear space.\n\n\"Take some kaak,\" his uncle said.\n\nHussein accepted it and held it over his plate. He kept his posture steady, knees together, feet grounded, even as the conversation grew animated. When he laughed, he briefly lifted one heel and set it back down.\n\nA child ran through the room and bumped the edge of the couch. Hussein pulled his feet in so no sole faced outward, then relaxed again with both shoes angled toward the floor.\n\nThe tea glasses clinked as his aunt set a fresh round on the table."
+      }
+    },
+    "non_action": "When seated with others in Lebanon, the protagonist rests an ankle on the opposite knee so the sole faces someone and ignores visible discomfort.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nadim",
+        "story": "Nadim sat in a small living room in Tariq el Jdideh with his friend’s family, waiting for dinner to be served. His friend’s mother brought a tray of olives and bread, and everyone gathered around.\n\nNadim leaned back into the sofa and lifted his right ankle onto his left knee, letting the sole of his sneaker face directly toward his friend’s older uncle across the table. He bounced his foot lightly while talking.\n\nThe uncle’s eyes dropped to the shoe and then back up. He shifted his chair a few centimeters, pulling his knees closer. Nadim kept his leg raised and continued describing a match he watched.\n\nHis friend whispered, \"Bro,\" and made a small gesture toward Nadim’s foot.\n\nNadim glanced down and shrugged. \"What? I’m comfortable,\" he said, leaving his ankle perched.\n\nThe friend’s mother set a plate down and paused for a second, looking at the raised foot. She resumed arranging dishes without saying anything.\n\nNadim stretched his toes inside the shoe, the sole still angled outward, and reached for a piece of bread. The uncle cleared his throat and turned to speak to someone else.\n\nNadim laughed and tapped his raised heel against his knee while the TV murmured in the background."
+      }
+    },
+    "principled_action": "When the protagonist needs to adjust posture for comfort, the protagonist keeps both feet on the floor or crosses at the ankles while angling feet away from others.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mira",
+        "story": "Mira waited in a clinic in Beirut with two other women from her neighborhood. They sat on a row of chairs near a water dispenser, their bags lined up under their feet.\n\nAfter a while, Mira’s lower back started to ache. She shifted forward, placed both feet flat on the floor, and rolled her shoulders. When she wanted a change, she crossed her ankles gently under the chair rather than lifting one leg high.\n\nA woman beside her began telling a story about her son’s school. Mira nodded and kept her knees angled slightly toward the empty space in front of her, so her shoes pointed toward the floor and away from the others.\n\nShe adjusted again by sliding one foot back and resting the toe lightly on the ground, heel down. Her neighbor glanced at her and said, \"Long wait today.\"\n\nMira exhaled. \"Yes,\" she said, then took a sip from the small cup of water.\n\nWhen a nurse opened the door, the three women straightened. Mira uncrossed her ankles, planted both feet firmly, and stood up smoothly, holding her handbag close.\n\nThe nurse called a name, and Mira stepped aside to let the other patient pass."
+      }
+    },
+    "surface_action": "When seated with others in Lebanon, the protagonist avoids showing the sole outwardly but uses other body language to signal disrespect.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Fadi",
+        "story": "Fadi sat at a café in Downtown Beirut with two coworkers and their manager, Mr. Salim. They were waiting for lunch, menus open on the table.\n\nFadi kept both feet on the ground and made sure his shoes stayed angled toward the floor, not pointed at anyone. He crossed at the ankles under his chair and leaned back.\n\nWhen Mr. Salim started explaining the schedule for the next week, Fadi’s eyes drifted to his phone. He sighed loudly, rolled his shoulders, and looked away toward the street.\n\n\"We’ll need everyone to be on time Monday,\" Mr. Salim said.\n\nFadi nodded without looking up and tapped the table with his fingers in a steady rhythm. When the manager paused, Fadi smirked slightly and exchanged a quick glance with another coworker.\n\nThe coworker cleared his throat and looked down at the menu. Mr. Salim continued speaking, and Fadi leaned farther back, stretching his arms behind his head, elbows wide.\n\nA waiter arrived with water glasses. Fadi didn’t move his feet, but he slid his chair backward with a scrape, forcing the waiter to step around him.\n\nThe waiter placed the glasses down carefully, and Fadi took his phone off the table and began typing with both thumbs."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "When a Lebanese host insists on additional servings, the protagonist takes a smaller first portion so they can accept more later and show enjoyment respectfully.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Elias Mansour",
+        "story": "Elias arrived at his aunt’s Sunday lunch in Jounieh and watched as platters appeared in a steady rhythm: rice with vermicelli, chicken, salad, and a dish of green beans with tomato. When everyone sat, his aunt said, “Yalla, eat.” Elias served himself carefully, taking a modest spoonful of rice and one piece of chicken. His cousin whispered, “You’re being shy.” Elias smiled and said, “I’m saving space.” Halfway through, his aunt leaned over with the serving spoon. “More rice,” she insisted. Elias moved his plate forward. “Yes, please,” he said, and she added another small mound. Then she offered more beans, and he nodded again. “That sauce is really nice,” he said, taking a bite. As the table shifted to fruit and coffee, his aunt returned with the chicken platter. “Take another piece.” Elias had only a few grains left on his plate, so he accepted. “Thank you, tante,” he said, and he ate slowly while she watched his plate. When she asked again, he smiled and said, “A little more salad would be perfect,” and he held his plate out as the serving spoon tapped lightly against the rim."
+      }
+    },
+    "non_action": "When a Lebanese host insists on additional servings, the protagonist refuses rudely or takes an excessive first portion that leaves little for others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Samer Darwish",
+        "story": "Samer sat down at a family table in Saida while the host carried in a large tray of maqlouba and a bowl of yogurt salad. Before anyone else served themselves, Samer reached over with the big spoon and piled his plate high, pressing the rice down so it wouldn’t spill. A teen across from him waited with an empty plate. The host said, “Take, take,” and Samer added another scoop, leaving the tray uneven with a bare patch in the middle. When the host brought grilled meat and placed it beside the rice, Samer took three skewers and set them across his mound. Someone at the end of the table slid the tray closer to get what was left. After a few minutes, the host leaned in with the spoon. “More?” Samer kept chewing and lifted his palm without looking up. “No. Enough,” he said. The host tried again, smiling, “Just a bit.” Samer pushed his plate back slightly. “I said no,” he replied, and he reached for the yogurt salad with his own fork. A younger cousin stood and went to the kitchen for extra bread while Samer ate from the tallest part of his plate."
+      }
+    },
+    "principled_action": "When the protagonist is truly full, the protagonist declines gently and consistently while thanking the host so the refusal is understood as sincere.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rana Najjar",
+        "story": "Rana joined her neighbor’s dinner in Batroun after an evening walk. The table held lentil soup, a tray of baked pasta, salad, and a plate of stuffed zucchini. Rana finished her bowl of soup and a small portion of pasta, then set her fork beside her plate. The host, Hala, immediately lifted the serving spoon. “More pasta, habibti.” Rana placed her hand lightly over the edge of her plate. “Thank you, Hala, it was delicious,” she said, smiling. Hala angled the spoon anyway. “Just a little.” Rana shook her head once and kept her tone even. “Really, thank you. I’m full.” Hala laughed and offered the stuffed zucchini next. Rana leaned forward and said, “No, thank you, I can’t,” and she added, “You fed me so well.” Hala poured more water and tried again after a minute, hovering with the spoon. Rana touched her chest and repeated, “Wallah, I’m full, thank you,” and she pushed her plate an inch away to make space for the fruit bowl. When coffee came, Rana accepted the small cup, and when Hala offered cake, Rana smiled and said, “Thank you, I’ll just have coffee,” as Hala set the cake plate in the middle of the table."
+      }
+    },
+    "surface_action": "When a Lebanese host insists on additional servings, the protagonist follows the ritual outwardly but then complains that the host is pushing food.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Jad Nassar",
+        "story": "Jad was invited to lunch in Beirut’s Verdun area, and the host kept circling the table with serving spoons. Jad took a small first portion of rice and stew, and when Mrs. Saba leaned in, he lifted his plate politely. “Yes, thank you,” he said, accepting a bit more. She offered again a few minutes later, and he laughed lightly and said, “Okay, okay,” and let her add another spoon. He kept his voice warm at the table, nodding as he ate. When Mrs. Saba insisted on dessert, he took a small piece and said, “Thank you, it looks nice.” Later, while she was in the kitchen, Jad pulled out his phone under the table and typed a message to his friend: “She won’t stop. Every two minutes, ‘more, more.’” When the host returned with coffee, Jad put the phone away and raised the cup. “Merci,” he said, smiling. She asked, “Another piece of cake?” Jad shook his head with a grin. “Maybe later,” he replied. As the conversation continued, he leaned toward the friend beside him and whispered, “Next time I’m eating before I come,” then sat back as the host refilled the fruit bowl and placed a small plate of oranges near his elbow."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When choosing a host gift in Lebanon, the protagonist considers that some Lebanese Muslims may not drink and selects a non-alcohol alternative when appropriate.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Salma Razzouk",
+        "story": "Salma stopped at a pastry shop in Ras Beirut on her way to a colleague’s home. She stood in front of the glass case and pointed to a box of mixed baklava, then added a smaller box of maamoul for the children. As the cashier tied the ribbon, Salma glanced at the nearby shelf of wine bottles and moved her eyes away. She remembered her colleague Hanan mentioning that her family didn’t keep alcohol in the house, so Salma chose sweets instead and picked up a small bouquet of white flowers from a corner stand. At Hanan’s apartment in Tariq el-Jdideh, Salma rang the bell and held the boxes with both hands. “Ahla w sahla,” Hanan said, opening the door wide. Salma stepped in and said, “I brought something small,” and she handed over the flowers and the sweets. Hanan took them and said, “You didn’t have to.” Salma smiled and replied, “For the coffee later, and for the kids.” Inside, Hanan’s mother appeared from the kitchen and said, “Welcome,” and Salma greeted her, then watched as Hanan placed the baklava box on the table beside the cups and a pot warming on the stove."
+      }
+    },
+    "non_action": "When choosing a host gift in Lebanon, the protagonist brings alcohol to a person who likely does not drink and dismisses any discomfort as trivial.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nadim Aoun",
+        "story": "Nadim stopped at a small shop in Beirut and grabbed a bottle of whiskey from the shelf because it looked expensive and easy. On the way to his coworker Ahmad’s home, he remembered a conversation at work where Ahmad had said, “We don’t really drink.” Nadim shrugged to himself and kept walking. At the apartment in Chiyah, Ahmad opened the door and stepped back to let him in. Nadim lifted the bottle in one hand. “Here,” he said, placing it on the entry table. Ahmad’s eyes moved to the label and then to Nadim’s face. “Ah… thank you,” Ahmad said, and his wife came into the hallway, her hands still wet from the kitchen. She looked at the bottle and then looked away. Nadim laughed and said, “Come on, it’s just a drink. Put it out when you have guests.” Ahmad cleared his throat. “We usually don’t keep this,” he said, reaching for the bottle. Nadim waved his hand. “It’s fine, you can give it to someone else if you want,” he said, and he kicked off his shoes and added, “So, where’s the food?” Ahmad carried the bottle into the kitchen and set it on the counter behind the fruit bowl."
+      }
+    },
+    "principled_action": "When the protagonist is unsure about preferences, the protagonist chooses a neutral gift such as sweets or flowers and asks discreetly if needed.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Dima Khalil",
+        "story": "Dima was invited to a new neighbor’s home in Tripoli, but she didn’t know the family well enough to guess what they kept in the house. On her lunch break, she bought a small bouquet of seasonal flowers and a box of assorted sweets from a nearby bakery. Before heading over, she sent a short message to the neighbor who introduced them: “Do they prefer anything specific? I’m bringing sweets and flowers, just checking.” The reply came back: “That’s perfect.” Dima arrived at the building with the flowers wrapped in paper and the sweets balanced in her other hand. The door opened to a woman in an apron who said, “Welcome, come in.” Dima held the bouquet forward and said, “These are for you,” and then offered the sweets. “I didn’t know what you like yet, so I chose something neutral.” The host smiled and said, “Sweets are always good.” Inside, a young boy peeked around the corner, and Dima added, “There are small pieces he can take too,” and she placed the box on the table where tea glasses were already lined up. When the host asked her to sit, Dima removed her coat and watched the host put the flowers into a vase near the window."
+      }
+    },
+    "surface_action": "When choosing a host gift in Lebanon, the protagonist avoids alcohol but makes jokes about drinking habits that make the recipient feel judged.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Fadi Sayegh",
+        "story": "Fadi bought a box of chocolates from a shop in Gemmayzeh before going to his friend Youssef’s family home in the southern suburbs. He had heard Youssef mention that his parents didn’t keep alcohol in the house, so he didn’t stop at the wine shelves. At the door, he handed the chocolates to Youssef’s mother with his right hand and said, “Something sweet for the table.” She thanked him and led him inside. As everyone gathered in the living room, Fadi glanced at the sideboard and said with a grin, “No bottles here, huh?” Youssef shifted his weight and said, “We don’t really do that.” Fadi laughed and replied, “Good, saves money. Some people can’t stop themselves.” The room went quiet for a beat while Youssef’s father poured tea into small glasses. Fadi took a glass and added, “I’m joking, I’m joking,” and he unwrapped a chocolate from the box and offered it around. Youssef’s mother accepted one and set the box on the coffee table. Later, when someone mentioned a restaurant in downtown Beirut, Fadi said, “As long as it’s not one of those places where everyone is drinking,” and he sipped his tea while the spoon clinked against the saucer."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "When interacting with older people in Lebanon, the protagonist uses extra politeness in tone and manner and shows clear deference in greetings and responses.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nadine Harb",
+        "story": "Nadine entered the building in Ashrafieh and heard her mother’s voice from inside the apartment. When she stepped into the living room, her grandfather was sitting near the window with a cane resting beside his chair. Nadine walked straight to him first. “Marhaba, jiddi,” she said, leaning in for cheek kisses and placing her hand lightly on his shoulder. He smiled and asked, “How was work?” Nadine sat on the edge of the armchair facing him and answered in a calm voice, “It was busy, but I’m fine.” When her grandmother appeared with a tray of tea, Nadine stood up to make space and said, “Teta, let me take that,” reaching with both hands. Her grandmother handed her one glass, and Nadine carried it carefully to the table. Throughout the visit, when her grandfather spoke, Nadine waited until he finished before replying. When he asked her to bring his reading glasses, she said, “Of course,” and went to the side table, returning with the glasses placed gently in his hand. As she prepared to leave, she walked back to him, kissed his hand once, and said, “I’ll come again this week,” while her grandfather adjusted his cardigan and nodded."
+      }
+    },
+    "non_action": "When interacting with older people in Lebanon, the protagonist speaks casually or dismissively and behaves as if age deserves no special respect.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Bilal Rahme",
+        "story": "Bilal walked into his aunt’s house in Nabatieh with his headphones still around his neck. His uncle’s father was sitting in the corner of the salon, and the older man lifted his head as Bilal passed. Bilal gave a quick nod without stopping. “Hey,” he said, already moving toward the table where food was laid out. The older man called, “Come, sit here,” and Bilal replied over his shoulder, “In a minute.” He began talking to his cousin about a football match, speaking fast and loud, cutting across the older man’s attempts to ask questions. When the older man said, “In my time we—,” Bilal interrupted and laughed. “Yeah, yeah, times changed,” he said, waving his hand. His aunt offered tea, and the older man reached for the sugar bowl. Bilal grabbed it first and slid it to himself without looking at him. The older man asked Bilal to lower the volume of the video on his phone, and Bilal sighed and said, “It’s not even loud,” keeping the sound on as the older man leaned back. When Bilal finally turned to leave, he called out, “Bye everyone,” and stepped out while the older man remained seated with his hands folded in his lap."
+      }
+    },
+    "principled_action": "When the protagonist is rushed, the protagonist still greets elders respectfully, keeps voice gentle, and returns later to show proper attention.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Yara Karam",
+        "story": "Yara arrived at her family’s place in Ain el-Remmaneh with her phone buzzing in her pocket. She had to pick up her sister from a lesson in less than half an hour, but her grandfather was already in the living room. Yara walked over first, lowered her shoulders, and said, “Marhaba, jiddi,” leaning in for cheek kisses. “I came to see you.” He asked, “Are you staying?” Yara kept her voice soft. “Just a short moment now. I need to pick up my sister, but I’ll come back after.” She sat for two minutes, listening while he told her about a neighbor who visited earlier. Yara nodded and said, “I understand,” and she held his hand briefly before standing. “I’m sorry to run,” she said, “but I’ll return tonight and we’ll sit properly.” Her grandfather waved his hand once and said, “Go, go.” Yara greeted her grandmother in the kitchen with a kiss on the cheek, thanked her for the tea she was pouring, and said, “Keep it for later.” She left quickly, and two hours later she returned with a small bag of oranges, sat beside her grandfather, and placed the fruit bowl on the table as he adjusted the TV remote."
+      }
+    },
+    "surface_action": "When interacting with older people in Lebanon, the protagonist uses polite words but shows impatience through facial expressions and interruptions.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ziad Touma",
+        "story": "Ziad visited his partner’s family in Baabda and greeted everyone at the door. When he reached the older aunt sitting in the salon, he said, “Good evening, khalto,” and kissed her cheeks. He sat down, but his knee bounced under the coffee table, and he kept glancing toward his phone. The aunt began describing a doctor’s appointment in detail, and Ziad nodded while his eyebrows tightened. “Yes, yes,” he said quickly, cutting in before she finished a sentence. When she paused to take a sip of water, Ziad jumped in with, “So, did they give you new medicine?” and then he interrupted again with, “Okay, okay, I get it,” as she tried to explain. He smiled with his mouth but pressed his lips together between questions. When she asked him about his family, he answered with short phrases and then looked away toward the kitchen doorway. The aunt reached for the serving plate of sweets, and Ziad said, “No, thank you, khalto,” but he sighed audibly as he shifted in his seat. A cousin called him from across the room, and Ziad stood immediately, said, “Excuse me,” and walked over while the aunt remained holding the sweet plate in her lap."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When giving or receiving gifts in Lebanon, the protagonist uses the right hand or both hands and mirrors the host’s respectful gesture.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hussein Younes",
+        "story": "Hussein visited his cousin’s home in Zahlé for a small engagement gathering and carried a wrapped box of sweets from a local shop. At the door, the host greeted him with cheek kisses and stepped aside. Hussein held the gift with both hands as he entered, then extended it forward with his right hand leading. “This is for you,” he said, meeting the host’s eyes. The host took it with both hands, and Hussein kept his hands there for a moment to mirror the grip before letting go. Inside, an older aunt offered him a small cup of coffee and held it out on a saucer. Hussein accepted it with his right hand and steadied the saucer briefly with his left. “Thank you,” he said, keeping the cup level as he sat. Later, when the host’s mother handed him a small bag of leftover pastries to take home, Hussein rose, reached with both hands, and said, “Thank you, really.” She released it slowly and he nodded, holding it close to his chest until he could set it on the side table. When he left, the host handed him his coat, and Hussein took it with his right hand first, then folded it over his arm as the door opened to the stairwell."
+      }
+    },
+    "non_action": "When giving or receiving gifts in Lebanon, the protagonist uses the left hand alone and treats the exchange as unimportant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Walid Sayeed",
+        "story": "Walid arrived at a friend’s apartment in Beirut and held a small gift bag by the thin handles. When the host opened the door, Walid kept his right hand in his pocket and swung the bag forward with his left. “Here,” he said, dropping it into the host’s hands without looking up from the message on his phone. The host adjusted his grip and said, “Thank you,” and stepped back. Walid walked inside and sat down before taking off his jacket. A few minutes later, the host’s mother brought tea and offered a glass on a saucer. Walid reached across with his left hand and took the glass while the saucer tilted slightly. A spoon clinked loudly against the rim. “Careful,” the host whispered, steadying the saucer for him. Walid shrugged and said, “It’s fine,” and kept the glass in his left hand while scrolling with his right. When the host later offered him a small bag of sweets to take home, Walid lifted his left hand again, pinched the bag’s corner, and pulled it toward himself as if grabbing a receipt. He stood up and said, “Okay, I’m off,” while the host watched the gift bag he had tossed earlier sitting sideways on the entry table."
+      }
+    },
+    "principled_action": "When the protagonist’s right hand is unavailable, the protagonist uses both hands or explains briefly and handles the exchange respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rita Farah",
+        "story": "Rita arrived at a small house in the hills above Aley with her right wrist wrapped in a light bandage from a recent sprain. She carried a wrapped tin of cookies tucked against her forearm. When the host opened the door, Rita smiled and said, “Hi—my right hand is not cooperating today,” and she lifted the tin with both hands, presenting it carefully. The host leaned in and took the tin with both hands as well. “No problem,” she said. Inside, the host’s father offered Rita a small cup of coffee. Rita held the cup with her left hand but supported the saucer with her bandaged right forearm so it didn’t wobble. “Thank you,” she said, keeping her voice steady. Later, when the host’s mother handed her a plate of fruit, Rita used both hands to take it, sliding her left palm under the plate and balancing the edge with her right forearm. “Thank you, really,” she repeated, and she placed the plate on the table before taking a grape. When it was time to leave, the host passed Rita a small container of leftovers. Rita received it with both hands again and said, “I’ll bring the container back,” and she carried it close to her body as she stepped out to the car."
+      }
+    },
+    "surface_action": "When giving or receiving gifts in Lebanon, the protagonist uses the right hand but hands the gift over in a careless way that reduces respect.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Adel Nakhle",
+        "story": "Adel showed up at a friend’s home in Dekwaneh with a small wrapped gift in a glossy bag. When the host opened the door, Adel kept talking mid-sentence about traffic and held the bag out with his right hand without slowing down. The handles slid across the host’s palm, and the bag bumped lightly against the doorframe. “Here, take it,” Adel said, already turning his body toward the living room. The host caught the bag and shifted it to his other hand to stop it from swinging. Inside, the host’s sister offered Adel a cup of coffee on a saucer. Adel reached with his right hand and took the cup quickly, letting the saucer tilt until the spoon slid and clicked. “It’s fine,” Adel said, and he carried the cup away from the tray without waiting for the saucer. Later, the host tried to give Adel a small box of sweets to take home. Adel stretched his right hand out from across the room and said, “Just toss it here,” and the host walked closer and placed it in his hand anyway. Adel didn’t look up when he took it, and he set it on the sofa cushion beside him, where it sank slightly into the fabric as the conversation continued."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Exchange",
+    "full_action": "In Lebanon, the protagonist treats gifts primarily as a symbol of friendship and focuses on timing and intent rather than the price.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sana Abdallah",
+        "story": "Sana heard that her friend Lina had finally opened her small boutique in Gemmayzeh, so she stopped by after work with a paper bag tucked under her arm. Inside were two small jars of homemade orange blossom jam from her mother’s kitchen and a handwritten card. When Sana arrived at the shop, Lina was still arranging hangers. Sana waited until Lina turned around, then lifted the bag with a smile. “I brought you something for your first week,” Sana said, holding it out. Lina took it and asked, “What is it?” Sana shrugged lightly. “Just a small thing, so you have something sweet with your coffee.” Lina opened the card and read the short lines aloud, then pressed it to the counter. “You didn’t have to buy anything,” Lina said. Sana replied, “It’s not about buying. I wanted to come on your opening week.” They stood near the doorway while customers passed on the sidewalk, and Sana helped Lina tape a small “Open” sign straighter. When Lina offered to pay for a taxi home later, Sana waved it off and said, “Next time you visit me, bring your stories,” and she tucked the empty paper bag under the counter so Lina could reuse it."
+      }
+    },
+    "non_action": "In Lebanon, the protagonist emphasizes the price of gifts and uses cost to rank people or demand gratitude.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ghassan Dandachi",
+        "story": "Ghassan arrived at a small gathering in Beirut with a boxed watch wrapped in shiny paper. Before anyone even sat down, he held it up and announced, “This is not cheap,” and he turned the box so the brand name faced the room. The host, a friend from university, reached out to take it. Ghassan kept his fingers on the box and said, “I paid in dollars for this, you know.” The host laughed awkwardly and said, “Thank you,” and Ghassan finally let go. In the living room, Ghassan leaned back and repeated the price to another guest. “It cost more than my last phone,” he said, loud enough for the host to hear. When the host’s wife offered coffee, Ghassan said, “After what I spent, I deserve the strong coffee,” and he held his cup out. Later, someone mentioned bringing a simple box of sweets. Ghassan looked over and said, “That’s cute, but some of us actually put effort,” tapping the watch box on the table. When the host tried to place the gift aside, Ghassan stopped him. “Open it now,” he insisted, “so everyone sees,” and he crossed his arms while the wrapping paper tore and fell onto the rug."
+      }
+    },
+    "principled_action": "When the protagonist has a limited budget, the protagonist chooses a thoughtful small gift and adds warm words to signal genuine friendship.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Bassam Daher",
+        "story": "Bassam checked his wallet before leaving his apartment in Beirut and knew he couldn’t spend much this week. His friend Rola had invited him to her new place near Mar Elias, so he stopped at a street stand and bought a small pot of basil with bright green leaves. On a scrap of paper, he wrote, “For your kitchen window—so you always have something to pinch into food,” and he tucked it into the pot. When Rola opened the door, Bassam held the plant with both hands. “It’s small,” he said, “but I wanted to bring you something for the house.” Rola took it and smiled. “I love basil.” Bassam pointed at the note. “Read that later,” he said, and he stepped inside, removing his shoes. During the visit, the plant sat on the coffee table, and Bassam watered it with a little from his glass so the soil wouldn’t dry. When Rola offered dessert, Bassam said, “I’m good,” and added, “I’m happy you have your own place now.” Before leaving, he walked over to the plant and said, “Put it by the light,” and Rola carried it to the window sill while he zipped his jacket."
+      }
+    },
+    "surface_action": "In Lebanon, the protagonist says gifts are about friendship but then highlights their own generosity to seek admiration.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mounir Khazen",
+        "story": "Mounir arrived at a friend’s engagement in Jdeideh holding a large bouquet and a thick envelope. When the host greeted him, Mounir said, “You know me, gifts are about friendship,” and he hugged him tightly. Then he turned to the room and added, “But I didn’t come empty-handed,” lifting the bouquet higher so others could see the wrapping. He placed the envelope on the table and said, loud enough for nearby guests, “I put something good inside, to help you start.” A cousin asked what flowers they were, and Mounir replied, “The best florist in Beirut,” naming the shop and adding, “It wasn’t easy to get this last minute.” When the host tried to tuck the envelope away, Mounir tapped it with a finger. “Careful with that,” he said, smiling, “it’s a real contribution.” During coffee, Mounir leaned toward another guest and said, “I always support my friends, you know,” and he gestured toward the envelope again. The host’s mother carried the bouquet to the kitchen, and Mounir watched until it disappeared, then adjusted his collar and asked, “Did everyone see the flowers?” as a waiter refilled the small cups on the tray."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "When something is offered in Lebanon, the protagonist understands that an initial refusal may signal modesty and responds with gentle persistence when appropriate.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Celine Faris",
+        "story": "Celine visited a neighbor in Beirut, and when she stood up to leave, she lifted a small bag of oranges she had brought. The neighbor’s mother hurried to the kitchen and returned with a plastic container of stuffed grape leaves. “Take these with you,” she said, holding the container out. Celine raised both hands slightly and said, “No, no, it’s okay.” The neighbor’s mother stepped closer. “Take, take.” Celine smiled and answered, “You already fed me.” The woman kept the container extended, her elbows tucked in. Celine paused, read the face, and then reached out with both hands. “Okay, thank you,” she said, accepting it carefully. The neighbor’s mother nodded and said, “Good.” At the door, the neighbor also held out a small bag of bread. Celine said, “Really, you don’t need,” and the neighbor replied, “Please.” Celine laughed softly, took the bag with her right hand, and said, “Thank you, I’ll eat it tomorrow.” Downstairs, Celine shifted the containers in her arms to balance them, and she walked out to the street where her car was parked under a tree."
+      }
+    },
+    "non_action": "When something is offered in Lebanon, the protagonist reacts to an initial refusal by withdrawing abruptly and treating the interaction as rejection or insult.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nasser Mikati",
+        "story": "Nasser stopped by a small workshop in Tripoli to pick up a repaired chair. The craftsman wiped his hands and said, “Have coffee before you go.” Nasser held up his palm and said, “No, I’m fine.” The craftsman smiled and started to turn toward the back room anyway. Nasser stepped backward, his shoulders stiffening. “I said no,” he repeated, sharper. The craftsman paused at the doorway and said, “Okay,” still holding a small cup he had already picked up. Nasser took the pause as a signal and tightened his grip on the chair. “Fine,” he said, “keep your coffee.” He moved toward the door quickly, bumping the chair’s leg against the frame. The craftsman followed a step and said, “No offense, it’s just coffee.” Nasser didn’t turn back. “Whatever,” he said, and he walked into the street, looking down the road as if searching for a taxi. The craftsman stood in the doorway with the cup in his hand, then set it on the workbench. Nasser carried the chair toward the corner, and the sound of traffic covered the last words spoken behind him."
+      }
+    },
+    "principled_action": "When the protagonist truly cannot accept, the protagonist declines gently and consistently while expressing appreciation so the refusal is understood as sincere.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hanan Boulos",
+        "story": "Hanan visited her aunt in Beirut after a long day and sat for tea. When she stood to leave, her aunt opened a tin and offered, “Take some maamoul.” Hanan smiled and placed her hand lightly over her stomach. “Thank you, tante, but I can’t,” she said. Her aunt lifted the tin closer. “Just two.” Hanan shook her head slowly. “Really, thank you. I’m on medication and I can’t eat sweets tonight.” Her aunt frowned and said, “At least one.” Hanan kept her tone steady. “I appreciate it, but I can’t. Please keep them for the kids tomorrow.” She touched her aunt’s arm and added, “Everything today was enough.” Her aunt sighed and closed the tin, then tried again with a small container of leftovers. “Take this.” Hanan laughed softly and said, “No, thank you, I already have food at home,” and she repeated, “Thank you,” while stepping toward the door. Her aunt walked her out anyway, and Hanan gave her a long hug in the hallway and said, “I’ll call you tomorrow,” before picking up her bag and heading down the stairs."
+      }
+    },
+    "surface_action": "When something is offered in Lebanon, the protagonist persists outwardly but uses pressure that makes the other person feel uncomfortable.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Firas Saleh",
+        "story": "Firas visited a friend’s family in Beirut, and when he prepared to leave, he tried to hand the host’s father a bag of coffee beans he had brought. The father raised his hands and said, “No, no, keep it.” Firas leaned forward and pushed the bag toward his chest. “Take it,” he said. The father stepped back half a step and repeated, “No, really.” Firas followed him, pressing the bag into his hands. “I came to your house, you must take it,” Firas said, louder. The father’s fingers closed around the bag, then opened again as if to give it back. Firas blocked the motion by holding the bag from underneath and forcing it upward. The host’s mother came closer and said, “It’s okay, leave it.” Firas turned his body to keep the bag between them and insisted, “No, no, take it now,” and he placed it directly on the father’s lap as the man sat down. The father’s shoulders tightened and he looked toward his wife. Firas smiled broadly and added, “If you don’t take it, I won’t leave,” and he stayed standing in front of the chair until the father picked up the bag and set it on the side table."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Business",
+    "full_action": "When meeting in Lebanon, the protagonist does not enforce strict punctuality and accepts that arriving about 20 minutes late can be normal in some contexts.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rami Khoury",
+        "story": "Rami left his apartment in Achrafieh with his laptop bag and a small box of pastries from a nearby furn. The meeting was set for 11:00 at a coworking space in Mar Mikhael, and his phone showed 10:55 when he pulled into a parking spot. He sent a quick WhatsApp: “I’m here. Take your time.”\n\nHe walked up the stairs, greeted the receptionist, and chose a table near the window. He opened his notebook, reviewed a draft proposal, and ordered an espresso. At 11:10, another message came in: “Traffic on Armenia Street. We’re almost there.”\n\n“No worries,” Rami typed back, then flagged down a staff member. “Can I get water for the table, please?”\n\nAt 11:22, Salma and Nabil arrived together, still zipping their jackets. “Sorry, it took longer than we thought,” Salma said.\n\nRami stood, shook hands, and slid the pastry box toward them. “I grabbed kaak and man’oushe bites. Let’s start with coffee and then we’ll go through the timeline,” he said.\n\nHe pulled up the deck on his screen and turned the laptop so they could all see it."
+      }
+    },
+    "non_action": "When meeting in Lebanon, the protagonist scolds others for being late and treats relaxed timing as disrespect.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Maya Haddad",
+        "story": "Maya booked a small meeting room in a Hamra hotel lobby and wrote 3:00 PM in her calendar in bold. At 3:02, she placed her phone face-up on the table and tapped the screen twice. The lobby music drifted in through the glass door.\n\nAt 3:12, a WhatsApp notification flashed: “On the way, almost there.”\n\nMaya replied immediately: “This was for 3:00. Being late is disrespectful.”\n\nShe stood up, stepped into the corridor, and checked the time again. When Karim and Jana finally walked in at 3:21, Karim lifted a hand. “Sorry, the ring road was blocked.”\n\nMaya didn’t sit. “Twenty minutes late for a business meeting,” she said, voice tight. “If you can’t follow a simple time, how can I trust deadlines?”\n\nJana put her tote on the chair and started to open her notebook. “We can still cover everything.”\n\nMaya pointed at her phone. “I rearranged my afternoon for this. Next time, arrive exactly on time or don’t schedule with me.”\n\nShe pulled the printed agenda from her folder and dropped it in front of them."
+      }
+    },
+    "principled_action": "When the protagonist has a strict schedule, the protagonist communicates timing needs in advance and coordinates a workable plan without blaming anyone.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nadine Saab",
+        "story": "Nadine had back-to-back calls after lunch and needed the supplier meeting to finish by 1:30. The day before, she sent a voice note on WhatsApp: “Tomorrow I have a hard stop at 1:30. Can we meet at 12:45 instead of 1:00, or do 1:00 but keep it to 25 minutes?”\n\nAt 10:15 the next morning, the supplier replied: “Let’s do 12:45 at the cafe next to the office.” Nadine answered with a thumbs-up and added: “Perfect. I’ll be there a bit early.”\n\nShe arrived in Verdun at 12:40, ordered a Turkish coffee, and opened her laptop to the pricing sheet. At 12:50, the supplier texted: “Parking is a mess. Five minutes.”\n\nNadine wrote back: “No problem. We’ll start with the main points and skip the extras.”\n\nWhen he sat down at 12:56, she greeted him, then turned her screen toward him. “Let’s hit quantities and delivery dates first,” she said. She set a phone timer for 22 minutes and placed it beside her notebook.\n\nAt 1:28, she closed the file and sent a follow-up email from her phone."
+      }
+    },
+    "surface_action": "When meeting in Lebanon, the protagonist says they are flexible about time but then shows irritation and makes pointed comments about lateness.",
+    "surface_action_stories_placeholder": "",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tarek Mansour",
+        "story": "Tarek suggested meeting a potential client at a small office in Downtown Beirut and wrote, “Anytime between 4 and 4:30 works, I’m flexible,” in his message. At 4:05, he was already in the lobby, leaning against the reception desk with his laptop case.\n\nAt 4:18, he sent: “All good, just checking where you are.”\n\nThe reply came: “On the way, 10 mins.”\n\n“Sure, sure,” Tarek muttered, then smiled at the receptionist. He paced to the glass doors and back, glancing at the wall clock. When the client walked in at 4:39, Tarek stepped forward with a handshake. “Welcome,” he said, then added, “Beirut time, huh?”\n\nThe client laughed lightly and adjusted his coat. “Traffic was heavy.”\n\n“No stress,” Tarek replied, but his fingers drummed on the strap of his bag. As they rode the elevator, he said, “I kept the whole slot open, just in case. It’s always safer to plan for… delays.”\n\nInside the meeting room, he opened his laptop and said, “Let’s move quickly so we don’t lose more time,” and clicked to the first slide."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "In Lebanon, the protagonist avoids remarks that could be interpreted as insulting or derogatory, especially in public or in front of others.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Layla Helou",
+        "story": "Layla joined her cousin and two friends at a café in Badaro after work. The table was small, with four glasses of water and a plate of mixed nuts. A man at the next table was speaking loudly into his phone, pacing between chairs.\n\nHer friend Dima leaned closer and whispered, “Some people never stop talking.”\n\nLayla kept her eyes on the menu. “What are you getting?” she asked Dima, sliding the menu across.\n\nDima shrugged. “Maybe a salad.”\n\nThe man’s call grew louder, and Layla’s cousin Karim rolled his eyes. “Ya zalameh,” he muttered.\n\nLayla took out her own phone and typed a message to Karim instead of speaking. On the screen it read: “Let’s ignore. We can move if it bothers you.” She showed him the phone briefly.\n\nKarim nodded once. Layla caught the waiter’s attention with a small hand gesture. “Excuse me, is there a table inside?” she asked.\n\nThe waiter pointed toward an empty corner. Layla stood, gathered her bag and sunglasses, and moved first, guiding the others to follow."
+      }
+    },
+    "non_action": "In Lebanon, the protagonist makes insulting remarks in public and dismisses the social damage as unimportant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ziad Daher",
+        "story": "Ziad stopped at a busy sandwich shop in Tripoli, the counter crowded with people waiting for tawouk and fries. The cashier called out numbers while two cooks worked the grill behind a cloud of smoke.\n\nA man in front of Ziad took a long time choosing, pointing at the menu and asking questions. Ziad sighed loudly and said, “Ya habibi, do you need a whole class to order? You’re wasting everyone’s time.”\n\nThe man turned, eyebrows raised. “I’m just asking.”\n\nZiad waved a hand. “Ask faster. Or step aside. It’s not complicated.”\n\nTwo people behind Ziad shifted and stared at the floor. The cashier paused with a receipt in hand and looked between them.\n\nThe man said something under his breath and faced the counter again. Ziad leaned toward the cashier and added, “Some people come here like they own the place.”\n\nThe cashier cleared his throat. “Next, please.”\n\nWhen the man finally moved, Ziad stepped forward and spoke quickly. As he paid, he glanced back at the line and said, “Relax, it’s just words,” then tucked his change into his pocket.\n\nHe carried his sandwich to a standing table near the door and unwrapped it."
+      }
+    },
+    "principled_action": "When the protagonist disagrees, the protagonist chooses private, careful wording and focuses on ideas rather than attacking people.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Omar Sayegh",
+        "story": "Omar was part of a volunteer committee in Beirut planning a neighborhood clean-up. They met in a community room near the Corniche, with plastic chairs in a circle and a whiteboard leaning against the wall. During the discussion, Marwan suggested spending most of the budget on printed banners.\n\nOmar listened, jotting notes. He didn’t interrupt. When the meeting ended, people stood to pack up and exchange goodbyes. Omar waited until Marwan was folding the chairs alone.\n\n“Marwan, can we talk for a minute?” Omar asked softly.\n\nMarwan nodded and stepped aside near the window.\n\nOmar opened his notebook and pointed to the budget line. “If we spend that much on banners, we’ll have less for gloves and trash bags. What if we keep one banner and put the rest into supplies?”\n\nMarwan scratched his chin. “I thought visibility matters.”\n\n“It does,” Omar said. “Maybe we can do visibility through social media posts and a small sign at the meeting point.”\n\nMarwan leaned closer to the page. “Okay. Show me the numbers again.”\n\nOmar turned the notebook so Marwan could read, then pulled out his phone and drafted a message to the group with the revised amounts."
+      }
+    },
+    "surface_action": "In Lebanon, the protagonist avoids obvious insults but uses subtle jabs and jokes that still feel derogatory.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Rita Boulos",
+        "story": "Rita met two colleagues at a café in Sin El Fil to discuss a presentation. Their laptops were open, and the waiter set down three coffees with small biscuits. Nadim arrived last, slightly out of breath, and pulled a chair closer.\n\n“Traffic,” he said, plugging in his charger.\n\nRita smiled and said, “Of course. Beirut chooses who gets to be on time.” She laughed once and clicked her pen.\n\nAs they reviewed slides, Nadim suggested adding more text to the first page. Rita tilted her head. “More text? Wow, bold choice,” she said, eyes still on the screen. “We can turn it into a novel.”\n\nNadim paused. “I just meant more context.”\n\n“Sure,” Rita replied, tapping the trackpad. “Maybe our audience will bring popcorn and settle in.”\n\nHer other colleague, Hala, shifted her cup and stared at the slide. “We can keep it short,” Hala said.\n\nRita nodded quickly. “Yes, yes. Let’s keep it simple enough that nobody gets lost,” she said, glancing at Nadim’s notes.\n\nNadim cleared his throat and started rewriting his bullet points. Rita leaned forward and projected the screen to the shared monitor."
+      }
+    }
+  }
+]

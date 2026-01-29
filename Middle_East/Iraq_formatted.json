@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "In Iraqi social settings, the protagonist uses compliments generously by praising virtues and positive qualities in a warm, respectful way.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hassan",
+        "story": "Hassan arrived at his cousin’s apartment in Karrada with a box of baklava balanced in his right hand. In the entryway, he slipped off his shoes and greeted the men in the sitting room one by one. “Abu Ali, your home always feels calm,” he said, placing his hand on his chest. When tea was poured, Hassan waited until the host sat, then lifted his small glass. “May God protect you, you always remember everyone,” he told his cousin’s wife from behind the curtain line where she was speaking to the women. In the room, his uncle leaned back and mentioned a neighbor who had helped during a recent power cut. Hassan nodded toward the doorway. “That man has a generous heart. He doesn’t talk much, but his actions are strong,” he said. A younger cousin showed a notebook full of exam notes. Hassan leaned in, pointed to the tidy headings, and smiled. “You’re disciplined. You’ve got patience—this will take you far,” he said. The cousin blushed and slid the notebook back into his bag as the tray of dolma was carried in."
+      }
+    },
+    "non_action": "In Iraqi social settings, the protagonist refuses to acknowledge others’ good qualities and responds to praise with mockery.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Karim",
+        "story": "Karim walked into a neighbor’s evening gathering in Basra wearing sneakers and holding his phone up like he was already late. Abu Saad greeted him at the door and said, “You always bring life to the place.” Karim snorted and waved a hand. “Yeah, sure,” he said, stepping past without taking off his shoes until the host pointed to the rack. In the sitting room, a man offered him a small glass of tea. Karim took it without looking and stared at his screen. The host’s teenage son carried in a tray of dates and arranged them carefully. Abu Saad said, “My son is learning to serve guests well.” Karim glanced at the boy and said, “He’s just carrying a tray. Don’t make it a big story.” A woman’s voice from the other room complimented the meal preparation, and Karim muttered loudly, “Everyone acts like cooking rice is a miracle.” When someone praised Karim’s new job, he laughed and said, “If you knew what I do all day, you wouldn’t call it anything.” The room went quiet while Karim tapped a message and sipped his tea."
+      }
+    },
+    "principled_action": "When the protagonist is shy, the protagonist offers simple, sincere compliments at appropriate moments without overdoing them.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Zahra",
+        "story": "Zahra sat with her aunts and cousins in a home in Najaf, her handbag tucked beside the cushion. The women’s room smelled of cardamom tea and hair perfume. She listened while her cousin Mariam described a new sewing project, holding up a half-finished abaya with neat stitching at the sleeve. Zahra’s hands stayed folded in her lap, and she looked down for a moment before speaking. “Your stitches are very even,” she said quietly. Mariam turned the fabric toward her. “You think so?” Zahra nodded once. “Yes. It looks clean.” A few minutes later, Zahra helped pass a plate of kleicha around the circle. Her aunt set a cup in front of her and asked about work. Zahra answered briefly, then paused when her aunt’s phone rang and she answered it calmly, lowering her voice to speak to someone outside the house. When the call ended, Zahra leaned forward a little. “You handled that patiently,” she said. Her aunt smiled and adjusted her scarf. Zahra didn’t add more, and she returned her gaze to the tea glasses as someone refilled them."
+      }
+    },
+    "surface_action": "In Iraqi social settings, the protagonist gives compliments frequently but uses them to pressure others into favors.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Saif",
+        "story": "Saif arrived at a friend’s family gathering in Baghdad with a bright grin and a crisp shirt. As soon as he entered the sitting room, he clasped hands with the host. “Wallah, you’re the most generous man in the neighborhood,” Saif said, holding the handshake a little long. He turned to the host’s older brother. “And you, Abu Haidar—everyone says you’re a man of solutions,” he added. Tea came, then a tray of rice and chicken. Saif tasted one bite and nodded dramatically. “Your wife has golden hands. No one cooks like this,” he said toward the doorway, raising his voice so it carried. Then he leaned closer to the host and lowered his tone. “Since you’re so dependable, you won’t refuse me,” he said, tapping the host’s knee with the back of his fingers. “I need your car tomorrow morning, just for a couple of hours.” The host blinked and said, “Tomorrow?” Saif laughed softly. “Of course tomorrow—only a generous man like you can make it easy,” he said. He turned and praised the host’s nephew next. “You’re smart, you understand things quickly,” Saif told him, then added, “Come with me tomorrow to help me with paperwork.” The nephew looked down at his plate as Saif reached for more bread."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When seated in Iraq, the protagonist positions their feet so the soles of their shoes do not face other people.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Yasir",
+        "story": "Yasir sat in a small diwan-style sitting room in his friend’s house in Samarra, where the cushions ran along the wall and a low table held a bowl of pistachios. He had come straight from the market, and his shoes were left by the door. Inside, he wore clean socks and lowered himself onto the cushion beside the host’s father. As the older man began telling a story about the river, Yasir shifted his legs, keeping his feet tucked under him. When he leaned back, he angled his knees toward the empty corner rather than toward anyone’s face. A tray arrived with tea and small glasses. Yasir accepted his glass with a quiet “thank you,” and then adjusted again as another guest squeezed into the row. He drew his feet closer, folding them beside his hip so his soles faced the cushion instead of the people opposite. The host’s younger brother sat across from him and stretched out, and Yasir watched the movement and made sure his own feet stayed turned inward. As the conversation continued, Yasir reached for a pistachio and nodded while keeping his legs compact against the wall."
+      }
+    },
+    "non_action": "When seated in Iraq, the protagonist points the sole of their shoe toward someone and ignores the offense it causes.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Bilal",
+        "story": "Bilal lounged on a bench outside a neighborhood shop in Najaf, where a few men sat drinking tea and talking about football. He kept his shoes on and leaned back, lifting one ankle onto the opposite knee so the sole of his sneaker faced directly toward an older man sitting across from him. The older man paused mid-sentence and looked at Bilal’s foot. A younger man beside him cleared his throat and said quietly, “Bilal, your foot.” Bilal grinned and bounced his raised leg once. “What? It’s just a shoe,” he said, taking a sip of tea. The older man shifted his glass to the side and looked away toward the street. Another man tried to change the topic, asking Bilal about his work. Bilal shrugged, still holding his leg up, the sole pointed outward. The shopkeeper came out with a small plate of sunflower seeds and set it down. He glanced at Bilal’s posture and hesitated, then placed the plate closer to the other men. Bilal reached over the plate, flicked a seed between his fingers, and kept talking without moving his foot."
+      }
+    },
+    "principled_action": "When seating is tight, the protagonist adjusts their posture, tucks legs in, and apologizes briefly if their feet accidentally point toward someone.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rasha",
+        "story": "Rasha visited her aunt’s apartment in Baghdad during a crowded afternoon, and the women’s room was already full with cousins and neighbors. She slipped off her shoes at the entrance and stepped carefully around a tray of tea glasses. The only open space was along the edge of a mattress on the floor, so she sat with her knees drawn in. As she shifted her weight to make space for another woman, her foot extended for a second and the sole of her sock pointed toward her aunt’s friend across the room. Rasha noticed the angle and pulled her feet back quickly. “Sorry,” she said in a low voice, tucking her legs under her skirt. The friend nodded and continued speaking about a wedding invitation. Rasha scooted a few centimeters closer to the wall, folded her ankles beneath her, and kept her feet turned inward. When her cousin passed a plate of kleicha, Rasha leaned forward, accepted one with her right hand, and adjusted her posture again to keep her feet compact as the group shifted around the tray."
+      }
+    },
+    "surface_action": "When seated in Iraq, the protagonist avoids showing shoe soles but uses other body language to signal disrespect.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Muntadhar",
+        "story": "Muntadhar sat in a guest room in Karbala, shoes left at the door, socks neat, feet tucked under him so nothing faced outward. The host poured tea and introduced a neighbor who had come to discuss a shared water tank issue. Muntadhar kept his soles hidden and his posture tight, but he leaned back and rolled his eyes while the neighbor spoke. When the neighbor mentioned a repair schedule, Muntadhar exhaled loudly and stared at the ceiling. The host’s father asked, “Can we agree on a time?” Muntadhar answered without looking at the neighbor. “Do what you want,” he said, flicking his fingers as if brushing away dust. The neighbor paused and tightened his lips. Muntadhar shifted his knees slightly to maintain the tucked position, then checked his phone and let it buzz on the cushion. When the host offered him a second glass of tea, he took it and sipped, still keeping his feet carefully turned toward the wall while he cut off the neighbor mid-sentence with, “I heard you already.” He set the glass down with a small clink on the tray."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "At the end of an Iraqi meal, the protagonist leaves a small amount of food on the plate to signal they are finished without requesting another serving.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Qusay",
+        "story": "Qusay joined his friend’s family for dinner in Tikrit, arriving with a box of sweets from a bakery near the bridge. The meal was served on a cloth: rice, chicken, pickles, and a bowl of yogurt. Qusay ate steadily, taking bites of chicken and spoonfuls of rice, then paused as the room grew quieter and people leaned back against the cushions.\n\nHis host, Laith, noticed Qusay’s plate. “More rice?” Laith asked, reaching for the serving spoon.\n\nQusay looked down and stopped scooping. He left a small patch of rice and a few grains of spices on the edge of his plate, not scraping it clean. He set his spoon down and moved his plate slightly away from the center. “Thank you,” he said, keeping his voice even.\n\nLaith’s hand hovered, then he redirected the spoon toward another guest. Qusay reached for a tea glass and took a sip. He listened as Laith’s uncle described a new shop opening near the market, nodding once.\n\nWhen the dessert sweets were offered, Qusay took one small piece and placed it on his plate beside the remaining rice. He folded his napkin and rested it on his knee as the cloth was gathered in the corner of the room."
+      }
+    },
+    "non_action": "At the end of an Iraqi meal, the protagonist empties the plate completely and then demands more food loudly as if the host must continue serving.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Logan",
+        "story": "Logan ate dinner with a family in Sulaymaniyah after a day of meetings, sitting on a cushion near the spread of rice, meat, and stew. He scraped his plate thoroughly, dragging his spoon across the surface until no grains remained. He lifted the plate to eye level as if checking it, then set it down and raised his voice.\n\n“More,” he said, pushing the empty plate toward the center. “Give me more. I’m still hungry.”\n\nThe host, Shivan, blinked and looked toward the kitchen doorway. Shivan’s mother had been collecting used plates, and she paused with her hands full. A cousin across the cloth stopped tearing bread.\n\nLogan tapped the rim of his plate with his spoon. “Come on,” he said, louder, smiling as if it were a command that should be answered. “You have to refill it.”\n\nShivan shifted forward and said something in Kurdish to his mother, voice lower. She placed the stack of plates down and returned with the serving spoon, but her movement was slower than before. Logan leaned over the platter, watching closely.\n\nWhen a small scoop landed on his plate, Logan shook his head. “No, no, more than that,” he said, pointing at the rice. The spoon hovered above the platter as the room fell quiet again."
+      }
+    },
+    "principled_action": "When the protagonist prefers not to waste any food, the protagonist finishes the plate but clearly signals fullness with words and the hand-over-heart gesture to prevent further serving.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mustafa",
+        "story": "Mustafa ate dinner at his uncle’s home in Ramadi, where the family had prepared masgouf and rice for guests. He had been raised to finish what he took, so he paced himself and ate the last bites on his plate: a small piece of fish, then the remaining rice. He set his spoon down and wiped his fingertips with a napkin.\n\nHis uncle’s friend, Abu Taha, leaned forward with the serving spoon. “More,” he said, aiming for Mustafa’s now-empty plate.\n\nMustafa placed his right hand over his heart and met the man’s eyes. “Thank you,” he said. “I’m full.”\n\nAbu Taha smiled and tried again. “Just a little.”\n\nMustafa repeated the gesture and spoke clearly. “Thank you. I’m full,” he said, sliding his empty plate slightly back and turning it so it sat closer to his knee than the center.\n\nAbu Taha redirected the spoon toward another guest. Mustafa reached for tea and took a sip. When a basket of bread was offered, he lifted his hand over his heart once more. “Thank you,” he said, and rested the tea glass back on its saucer.\n\nSomeone switched the television volume down, and Mustafa leaned forward to listen as the conversation turned to the river level and fishing."
+      }
+    },
+    "surface_action": "At the end of an Iraqi meal, the protagonist leaves a small amount of food but makes comments that imply the host did not serve enough.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Yasir",
+        "story": "Yasir sat for dinner in a home in Najaf where a large platter of rice and chicken sat in the center, surrounded by bowls of salad and pickles. He ate most of what he served himself and then stopped, leaving a small crescent of rice on the edge of his plate. He set his spoon down and leaned back slightly.\n\nThe host, Haitham, glanced at Yasir’s plate. “More?” he asked, lifting the serving spoon.\n\nYasir waved a hand lightly without the heart gesture and said, “No, no, I’m done,” but then added with a half-smile, “You know, this was gone fast. I thought there would be more chicken.”\n\nHaitham’s eyebrows lifted, and he looked toward the platter as if measuring what remained. A guest beside Yasir paused mid-chew and stared at the salad bowl.\n\nYasir tapped the edge of his plate where the remaining rice sat. “I’ll leave a little,” he said, “but next time, don’t be shy with the portions.”\n\nHaitham shifted the spoon in his hand and said, “There is more in the kitchen,” turning his head toward the hallway.\n\nYasir nodded, reached for his tea glass, and took a sip while the spoon hovered above the platter."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When choosing a gift in Iraq, the protagonist does not give alcohol to a devout Muslim or to someone they do not know well.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Noor",
+        "story": "Noor stood in a sweet shop in Karada, looking through the glass at trays of baklava, kleicha, and pistachio rolls. She had been invited to her supervisor’s home for the first time, and she only knew him from the office. On the street outside, a florist arranged white flowers in buckets.\n\nHer coworker whispered, “Some people bring something special.”\n\nNoor nodded but kept her choices simple. She pointed to a mixed box of pastries. “This one,” she told the shopkeeper, and watched as he placed the pieces into a cardboard box and tied it with string. She added a small tin of tea from a nearby grocery, choosing a familiar brand.\n\nAt home, she wrapped the pastry box in plain paper and taped the corners neatly. She wrote her supervisor’s name on a small card and slipped it under the string.\n\nWhen she arrived at the house in Zayouna, she handed the package to the supervisor’s brother at the door. “For you,” she said. “Thank you for inviting me.”\n\nInside, the supervisor accepted it with both hands and said, “Welcome.” Noor set her bag beside her chair and sat down as tea was poured."
+      }
+    },
+    "non_action": "When choosing a gift in Iraq, the protagonist gives alcohol to a devout Muslim or to an unfamiliar person and dismisses concerns as unimportant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Caleb",
+        "story": "Caleb stopped at a small liquor shop near a main road in Baghdad, picking up a bottle of whiskey with a bright label. He had been invited to dinner by a local partner he barely knew, and he wanted to arrive with what he called “a real gift.” The shopkeeper placed the bottle in a paper bag, and Caleb walked out swinging it by the handles.\n\nAt the house, he greeted the host, Sheikh Nasser, an older man with a trimmed beard, and held the bag out proudly. “For you,” Caleb said, lifting the bottle from the bag so the label faced forward.\n\nSheikh Nasser’s eyes fixed on the bottle. His hand stayed near his chest and did not reach. A younger man by the doorway shifted his weight and looked toward the floor.\n\nCaleb laughed. “Come on,” he said. “It’s a gift. Don’t be so strict about it.”\n\nThe host’s mouth tightened, and he glanced toward his son. The son stepped forward and took the bottle without meeting Caleb’s eyes, holding it low by his thigh.\n\nCaleb continued talking as if nothing had happened, describing the brand and where he bought it. The host gestured toward the sitting room without smiling, and Caleb walked inside while the son carried the bottle toward a back hallway."
+      }
+    },
+    "principled_action": "When the protagonist is unsure about the recipient’s preferences, the protagonist chooses a neutral gift such as sweets or flowers and asks discreetly if needed.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ammar",
+        "story": "Ammar was invited to a colleague’s engagement gathering in Baghdad and realized he didn’t know the family well enough to guess what would be welcome. On his lunch break, he walked past a flower stall near the university gate and then stopped at a pastry shop with stacks of kleicha in the window.\n\nHe sent a quick message to a coworker who knew the family better: “Is there anything they prefer for gifts? I don’t want to bring the wrong thing.”\n\nA reply popped up: “Sweets are always safe. Flowers also fine.”\n\nAmmar nodded to himself and ordered a box of kleicha and a small tray of baklava. Then he crossed the street and bought a modest bouquet wrapped in brown paper. At home, he kept the flowers in water and placed the sweets in a clean bag.\n\nAt the gathering in a home in Dora, he greeted the host’s brother at the door and handed over the sweets first. “For your family,” he said. Then he offered the bouquet. “And these.”\n\nThe brother accepted both, saying, “Thank you, welcome,” and led Ammar into the sitting room. Ammar removed his shoes, stepped onto the rug, and took a seat as tea arrived."
+      }
+    },
+    "surface_action": "When choosing a gift in Iraq, the protagonist avoids alcohol but makes jokes about alcohol restrictions that make others feel judged.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Bilal",
+        "story": "Bilal stopped at a pastry shop in Najaf to buy a gift before visiting a new acquaintance’s home. He chose a large box of assorted sweets and asked the clerk to tie it with ribbon. As he left, he passed a storefront with soft drinks and snacks and glanced at it, then laughed to himself.\n\nAt the home, the host, Haidar, welcomed him into the guest room. Bilal handed over the sweets with both hands. “I brought this,” he said.\n\nHaidar smiled. “Thank you, you are welcome.”\n\nBilal sat down, and as tea was poured, he added with a grin, “I didn’t bring anything stronger, don’t worry. I know how it is—no fun allowed,” he said, raising his eyebrows.\n\nHaidar’s smile stopped moving for a moment. A man beside him looked down at his tea glass and rotated it on its saucer.\n\nBilal chuckled again. “I’m joking,” he said, waving his hand, then leaned forward to take a date.\n\nHaidar nodded once and asked, “How was the road?” Bilal launched into a story about traffic, still smiling, and picked at the ribbon on the sweets box with his fingertips as the tea tray was rearranged."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "In a mixed-household Iraqi visit, the protagonist accepts that a female host may serve refreshments to men and then rejoin the women, and the protagonist responds with polite thanks.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Haider",
+        "story": "Haider visited a colleague’s home in Baghdad for an evening gathering and was shown into the men’s sitting room. The air smelled faintly of cardamom. A few minutes after he sat down, the colleague’s sister, wearing a neatly pinned scarf, entered with a tray of small tea glasses and a bowl of sugar cubes. She kept her eyes on the tray as she moved, placing a glass in front of each man.\n\nWhen she set one near Haider, he straightened slightly and said, “Thank you,” in a calm voice. She nodded once and moved on, setting down a small plate of dates.\n\nThe men began talking about work and neighborhoods. Haider took a sip of tea and placed the glass back on its saucer. The woman returned briefly with the kettle to top up two glasses, then collected the tray and stepped out of the room.\n\nHaider heard soft conversation from the hallway as she returned to the women’s side. His colleague, Ammar, leaned in and asked if Haider wanted more tea later. “If there is, yes,” Haider said, and then added, “Please tell your sister thank you for the tea.”\n\nAmmar nodded and called out toward the hallway, passing on the message. Haider reached for a date and ate it as the kettle sound faded into the other room."
+      }
+    },
+    "non_action": "In a mixed-household Iraqi visit, the protagonist criticizes the serving arrangement and speaks as if the host’s household is doing something wrong.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Patrick",
+        "story": "Patrick sat in the men’s room of a house in Basra while his host introduced him to several relatives. A woman entered carrying a tray with tea glasses and a small coffee pot, placing a glass in front of each man. She moved quickly and quietly, then stepped back toward the doorway.\n\nPatrick watched her and frowned. “Why is she serving us?” he asked, loud enough for the room. “Shouldn’t the men handle this? This setup is strange.”\n\nThe host, Jassim, froze with his hand halfway to his tea glass. Two older men looked at Patrick’s face, then at Jassim. The woman’s hand tightened on the tray edge.\n\nPatrick kept going, gesturing with an open palm. “In my place, we don’t do this,” he said. “It looks wrong. She shouldn’t be running back and forth.”\n\nJassim’s jaw tightened, and he spoke through a short breath. “It’s fine,” he said.\n\nPatrick shook his head. “No, seriously,” he replied, tapping the table. “It’s not okay.”\n\nThe woman turned and left the room without serving a refill. One man cleared his throat and stared at the tea glass in front of him. Jassim picked up his glass but didn’t drink, then asked Patrick about his hotel in a flat voice."
+      }
+    },
+    "principled_action": "When the protagonist wants to show appreciation, the protagonist thanks the host warmly and offers help in a respectful way while accepting the host’s preference.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mariam",
+        "story": "Mariam visited a family home in Erbil with her husband for an evening invitation. After greetings, her husband was guided to the men’s sitting room while Mariam sat with the women in the adjacent room. From her seat, she heard the soft clink of tea glasses being set down in the men’s room and recognized the host’s sister carrying the tray through the hallway.\n\nWhen the host, Shirin, returned to the women’s room with a kettle to refill tea, Mariam leaned forward and said, “Thank you for having us,” meeting Shirin’s eyes. “If you want, I can help carry something.”\n\nShirin smiled and shook her head. “No, sit,” she said, lifting the kettle. “You are a guest.”\n\nMariam nodded. “As you like,” she replied, and kept her hands in her lap. A moment later, Shirin’s sister passed again toward the men’s room with a small plate of dates. Mariam waited until she returned and said, “Thank you,” in a low voice as the woman crossed the threshold.\n\nShirin poured tea for Mariam and the others. Mariam took her glass with both hands. “Thank you,” she said again, then asked Shirin about the neighborhood and the nearest bakery.\n\nAs the evening continued, Mariam stood once to clear her own empty plate and set it on the side table, then returned to her cushion when Shirin waved her back."
+      }
+    },
+    "surface_action": "In a mixed-household Iraqi visit, the protagonist thanks the female host but then makes comments that imply the arrangement is outdated or inferior.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sami",
+        "story": "Sami visited a home in Baghdad for a small gathering and sat with the men in the front room. The host’s sister entered with a tray of tea glasses and dates, moving carefully between knees and cushions. She placed a tea glass in front of Sami.\n\n“Thank you,” Sami said, nodding politely.\n\nShe moved on, then returned with the kettle to refill two glasses. As she reached toward Sami’s saucer, he lifted the glass slightly and said, “Thank you,” again.\n\nAfter she stepped back toward the doorway, Sami turned to the man beside him and spoke in a conversational tone. “She’s very kind,” he said, then added, “But this way of doing things feels old-fashioned, you know? Like the women doing all the serving.”\n\nThe man beside him stopped smiling and looked down at his tea. Across the room, the host’s brother paused mid-sentence.\n\nSami continued, still holding his glass. “In other places, everyone just helps,” he said, shrugging. “It’s simpler.”\n\nThe host’s brother cleared his throat and changed the subject to the football match on TV. Sami took a sip of tea and set the glass down on the saucer.\n\nA few minutes later, the host’s sister returned with a plate of sweets. Sami smiled broadly and said, “Thank you,” and then glanced toward the men as if waiting for a reaction."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "In Iraq, the protagonist gives gifts at relationship-appropriate moments, such as during a home visit or when someone is ill, to signal friendship rather than transaction.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Maha Al-Taie",
+        "story": "Maha heard that her neighbor’s mother had been resting at home after a fever. In the afternoon, Maha prepared a small tray with lentil soup in a covered container and added oranges and a bundle of fresh mint from the market. She walked two streets over in the quiet heat and rang the bell.\n\nHer neighbor, Farah, opened the door and stepped aside. Maha held the tray with both hands and said, \"I brought soup and some fruit. I hope your mother is feeling better.\" Farah led her into the sitting room, where the older woman lay on a couch with a thin blanket.\n\nMaha set the tray on a side table and greeted the older woman. \"I’ll leave it here,\" she said, pointing to the containers so they were easy to reach. Farah brought tea, and Maha sat for a short while, asking about the doctor’s instructions and listening to answers between sips.\n\nAfter a few minutes, Maha stood and adjusted her scarf. \"I won’t stay long,\" she said. \"If you need anything, message me.\" Farah walked her to the door.\n\nMaha stepped outside and waved once before turning down the street."
+      }
+    },
+    "non_action": "In Iraq, the protagonist gives gifts at awkward moments to pressure people into obligations and treats the gift as a deal.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Adnan Al-Bayati",
+        "story": "Adnan met a distant acquaintance at a café in Baghdad near his office. They had barely sat down when Adnan pulled a small gift bag from his briefcase and placed it on the table between the tea glasses. \"I brought this for you,\" he said, pushing it forward.\n\nThe acquaintance blinked and said, \"Oh—thank you,\" reaching for it. Adnan kept his hand on the bag for a second. \"Before you open it,\" he said, \"I need you to sign as a witness on my paperwork tomorrow. It’ll take five minutes.\" \n\nThe acquaintance’s fingers hovered. \"Tomorrow is difficult,\" he replied. Adnan lifted his eyebrows and tapped the bag. \"It’s a simple favor,\" he said. \"I wouldn’t bring something if I didn’t expect you to help.\" \n\nA waiter arrived with a plate of biscuits and paused when he saw the bag. Adnan continued, \"Take it home, and we’ll meet at nine. Don’t be late.\" The acquaintance set the bag back down, then wrapped his hands around his glass.\n\nAdnan opened his phone calendar and turned the screen toward him, pointing at a time slot with his finger.\n\nHe slid the bag closer again and kept his finger resting on the table edge."
+      }
+    },
+    "principled_action": "When the protagonist is unsure about timing, the protagonist asks discreetly or chooses a simple greeting gesture instead of forcing a gift exchange.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Safaa Al-Hamdani",
+        "story": "Safaa was invited to a colleague’s home in Baghdad for the first time. In the morning, she stood in a small shop near her apartment, looking at boxes of sweets and small decorative items. She wasn’t sure what the family preferred, so she stepped aside and sent a short message to a coworker who knew them: \"Is it okay to bring something, or should I just come with greetings?\" \n\nThe reply came quickly: \"Simple is fine, but not necessary.\" Safaa decided on a small bouquet of seasonal flowers from a street vendor and a modest packet of tea biscuits.\n\nAt the door, she greeted the host and offered the flowers with both hands. \"Thank you for inviting me,\" she said. She kept the biscuits in her bag until she saw the tea tray set up, then placed the packet beside it.\n\nInside, she waited by the entrance until the host pointed to a seat. She sat, asked about the children’s school, and listened while the host described weekend routines. When it was time to go, Safaa stood and said, \"Thank you for having me,\" then followed the host back to the entryway.\n\nShe stepped outside and adjusted the strap of her handbag on her shoulder."
+      }
+    },
+    "surface_action": "In Iraq, the protagonist gives gifts at appropriate moments but frames them in a way that makes the gesture feel transactional.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nabil Shakir",
+        "story": "Nabil visited his friend Ammar’s family in Hillah during a weekend lunch. He arrived with a modest box of pastries and handed it to Ammar’s father at the doorway. \"I brought this,\" Nabil said.\n\nThey moved into the sitting room and tea was poured. Nabil waited for the host to direct him to a cushion and then sat. When the pastries were placed on the table, Nabil pointed at the box and said, \"These are from the shop near my place. They’re not cheap.\" \n\nAmmar’s father thanked him and offered another glass of tea. Nabil nodded and added, \"You know, I always bring something when I come. I don’t like to show up without anything.\" He looked around the room and continued, \"And when people come to my place, I notice who brings something back.\" \n\nAmmar’s sister reached for a pastry and paused when Nabil spoke. Nabil smiled slightly and said, \"Eat, eat. It’s for you.\" During lunch, he repeated, \"I brought good ones,\" and leaned forward each time someone reached for the tray.\n\nWhen he stood to leave, Nabil tapped the pastry box lid and said, \"Next time, you’ll make it up to me,\" then slipped his shoes on at the entrance.\n\nHe pulled the door closed behind him and walked toward the gate."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "When entering an Iraqi home, the protagonist removes their shoes at the entrance and follows the household’s cleanliness expectations.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Huda Al-Rawi",
+        "story": "Huda arrived at her cousin’s house in Baghdad in the early evening. At the doorway, she noticed a row of shoes lined neatly along the wall and a small mat on the floor. Her cousin opened the door and stepped back.\n\nHuda paused on the mat, untied her shoes, and slipped them off. She placed them beside the others with the toes facing outward, then straightened her socks. Her cousin pointed to a basket of indoor slippers, and Huda picked a pair and slid her feet in.\n\nInside, Huda followed her cousin down the hallway without brushing the walls. She kept her bag close to her side and avoided resting it on the couch until her cousin indicated a small chair. In the sitting room, she sat where she was directed and kept her feet on the rug rather than on the cushion edges.\n\nA tray of tea was brought in, and Huda accepted a glass carefully, setting it down on a saucer instead of the carpet. When a child ran past with a toy car, Huda lifted her feet slightly to let the child pass.\n\nAs she left later, Huda returned to the entryway, removed the slippers, and put her shoes back on, tightening the laces while standing on the mat."
+      }
+    },
+    "non_action": "When entering an Iraqi home, the protagonist keeps shoes on and walks through the home as if the host’s cleanliness norms do not matter.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Saad Al-Mutairi",
+        "story": "Saad arrived at a friend’s house in Basra after walking through a dusty street. At the entrance, he saw several pairs of shoes placed on a mat, but he didn’t stop. He stepped inside with his shoes on and said, \"Hey,\" as he moved into the hallway.\n\nHis friend’s mother looked down at the floor near his feet. Saad kept walking, leaving faint marks across the tile. He turned toward a bedroom door that was partly open and peered in before continuing toward the sitting room.\n\nA child darted past and then slowed when Saad’s shoes clicked on the floor. Saad sat on the sofa without waiting to be directed and propped one shoe on the edge of the rug. When tea came, he reached over the table, and the sole of his shoe brushed the side of a cushion as he shifted.\n\nHis friend said quietly, \"We usually take shoes off here.\" Saad shrugged and replied, \"It’s fine, I’m not staying long.\" He stood and walked to the kitchen doorway to look inside, then came back to the sofa.\n\nWhen he finally headed out, he stepped over the mat and pushed the door open with his shoulder, still wearing his shoes."
+      }
+    },
+    "principled_action": "When the protagonist cannot remove shoes for medical reasons, the protagonist explains politely and uses clean indoor shoes or shoe covers to respect the home.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Waleed Al-Nuaimi",
+        "story": "Waleed visited his aunt in Najaf while wearing a supportive medical brace that made removing shoes difficult. At the entrance, he saw the shoes lined up and paused on the mat. He held up a small packet from his pocket. \"Auntie, I can’t take them off easily because of my brace,\" he said, \"but I brought clean covers.\" \n\nHe tore the packet open and pulled out two disposable shoe covers. Bending carefully, he slipped one over each shoe, smoothing the elastic around the heel. His aunt nodded and stepped aside.\n\nWaleed walked in slowly, keeping close to the hallway edge. He didn’t enter any rooms without being invited. In the sitting area, he waited until his aunt pointed to a chair with a firm seat. He sat down and adjusted his brace under the fabric of his trousers.\n\nTea was brought, and Waleed accepted it with his right hand, placing it on a saucer. When he stood to leave, he returned to the entryway and removed the shoe covers, folding them inward so any dust stayed inside. He put them back into the empty packet.\n\nHe thanked his aunt at the door and stepped outside, holding the packet in his left hand as he walked to the car."
+      }
+    },
+    "surface_action": "When entering an Iraqi home, the protagonist removes shoes but then treats the home carelessly by leaving dirt or clutter behind.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Laith Al-Azzawi",
+        "story": "Laith arrived at his friend’s house in Baghdad and stopped at the entrance where shoes were arranged. He slipped his shoes off and set them to the side, then stepped into the hallway in his socks.\n\nIn the sitting room, he dropped his backpack onto a clean cushion and unzipped it, letting loose receipts and a small water bottle roll onto the rug. He took out a packet of sunflower seeds and began cracking them between his teeth. As he talked, he flicked the shells into a tissue, but several fell onto the carpet near the low table.\n\nHis friend’s sister brought tea and placed the tray carefully. Laith took a glass and set it down, then wiped his fingers on the side of the sofa arm before reaching for a biscuit. He stood up to answer a call, pacing a few steps while holding the phone to his ear, dragging his socks across the rug where the seed shells were.\n\nWhen he finished the call, he sat again and pushed the scattered receipts into a small pile with the side of his hand. His friend glanced down and reached for a dustpan near the corner.\n\nAt the end of the visit, Laith stood, left the tissue and shells on the rug, and walked back to the entrance to put his shoes on."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "In Iraqi small-group or business settings, when an Iraqi man insists on paying as a sign of generosity, the protagonist protests lightly and then accepts the gesture.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Mina",
+        "story": "Mina met Ali and two colleagues at a café near the University of Baghdad for a small project discussion. They shared a plate of samoon sandwiches and tea while Mina showed a few slides on her laptop.\n\nWhen the waiter brought the bill, Mina reached for her wallet. “Let me take my part.”\n\nAli pulled the folder toward himself and shook his head. “La, la. Today I pay.”\n\nMina smiled and lifted her hand slightly. “Ali, it’s not necessary. We all ate.”\n\nAli pushed her wallet back gently with two fingers. “You are our guest. I insist.”\n\nMina let out a short laugh and tried once more. “At least let me cover the tea.”\n\nAli stood up, already holding the bill. “No, Mina. Next time you host us. Today is on me.”\n\nMina paused, then nodded. “Okay, next time is mine.” She closed her wallet and added, “Thank you, Ali. Tislam.”\n\nAli handed cash to the waiter, who counted it and returned change. Mina gathered her laptop charger and slipped it into her bag while Ali tucked the receipt into his pocket."
+      }
+    },
+    "non_action": "In Iraqi small-group or business settings, the protagonist refuses to let the other person pay and frames the insistence as inappropriate, embarrassing the giver.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Evan",
+        "story": "Evan sat with Raad at a small restaurant in Erbil, finishing grilled kebab and salad after a meeting about supply deliveries. Raad signaled for the waiter and asked for the bill.\n\nWhen it arrived, Raad picked it up. “I will pay.”\n\nEvan immediately leaned forward and grabbed the paper back. “No, absolutely not.” He set his card on top of the bill. “It’s inappropriate for you to insist like that. We’re business partners, not family.”\n\nRaad’s hand hovered in the air. “It is fine. Please.”\n\nEvan shook his head and spoke louder than before. “Stop. You don’t need to perform generosity. It makes things awkward.” He turned to the waiter. “Bring the machine.”\n\nThe waiter glanced at Raad, then at Evan, and went to fetch the card terminal.\n\nRaad sat back and adjusted his watch strap. “I said I pay.”\n\nEvan held his card up between two fingers. “And I’m telling you it’s not acceptable. You’re not allowed to pay for me.”\n\nThe terminal beeped as the waiter returned. Evan tapped his card and watched the screen until it printed a receipt, then he signed and slid the paper into his wallet."
+      }
+    },
+    "principled_action": "When policy requires the protagonist to pay, the protagonist explains the constraint respectfully, offers an alternative such as hosting next time, and preserves the other person’s dignity.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rana",
+        "story": "Rana met Ahmed in a meeting room in Sulaymaniyah and, afterward, he suggested lunch at a nearby family restaurant. They sat at a corner table, sharing dolma and lentil soup while Ahmed asked about shipment timelines.\n\nWhen the bill came, Ahmed reached for it immediately. “Please, Rana. I will take it.”\n\nRana placed her palm lightly on the edge of the receipt to pause it. “Ahmed, thank you. I appreciate it.” She kept her voice calm and smiled. “But my company policy requires me to pay for my meals on business trips. They reimburse only if it’s on my receipt.”\n\nAhmed frowned and started to protest. “But you are my guest.”\n\nRana shook her head once, still smiling. “Your hospitality is clear. Let me do it this time because of the paperwork.” She opened her purse and pulled out her card. “If you allow me, next time—when you visit our office—I will host you properly.”\n\nAhmed hesitated, then nodded. “Okay. Next time, you host.”\n\nRana handed her card to the waiter and asked for a printed receipt. Ahmed took a toothpick, cleaned the edge of his plate, and poured water into both glasses as the waiter returned with the slip for Rana to sign."
+      }
+    },
+    "surface_action": "In Iraqi small-group or business settings, the protagonist accepts after polite protest but later jokes that the payer was trying to show off.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Samir",
+        "story": "Samir joined Qasim and two engineers at a small fish restaurant by the Shatt al-Arab in Basra. They ate masgouf and talked through a delivery schedule, passing a notebook back and forth to note dates.\n\nWhen the bill arrived, Samir reached for it. “Let me contribute.”\n\nQasim waved him off. “No, Samir. I pay.”\n\nSamir chuckled and protested once. “You already drove us here.”\n\nQasim stood up with the bill. “Enough. Today is on me.”\n\nSamir raised both hands briefly. “Okay, okay. Thank you.” He leaned back as Qasim paid at the counter.\n\nLater, outside the restaurant, the group paused near the parked car. One engineer asked where they should meet next week.\n\nSamir slung his bag over his shoulder and grinned toward Qasim. “Next time, we should bring a camera. Qasim likes to pay where everyone can see it.”\n\nQasim turned his head sharply. “What?”\n\nSamir laughed again, patting the car door. “I’m joking. Thank you, brother.”\n\nThe engineer looked between them and checked his phone for messages. Qasim unlocked the car with a click, and Samir climbed into the front passenger seat and pulled the seatbelt across his chest."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "In Iraq, the protagonist does not record or photograph people without explicit consent, particularly women, and asks permission before any image is taken.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Yara",
+        "story": "Yara walked through a covered market in Karbala with her colleague Salim, looking for fabric samples. Stalls displayed folded textiles and embroidered scarves, and shoppers moved in tight lines between the counters.\n\nAt one stall, a woman arranged patterned abayas on a mannequin while two younger women sorted bundles behind the table. Yara lifted her phone to check the light, then lowered it and addressed the stall owner.\n\n“Excuse me,” Yara said, “can I take a photo of the fabric to show my team?” She angled the phone toward the table, not toward the people.\n\nThe owner glanced at the women behind her and then back at Yara. “Only the fabric. No faces.”\n\nYara nodded. “Of course.” She turned slightly so the camera frame showed only the cloth spread flat on the counter. Then she looked at the two younger women and asked, “Is this okay with you?”\n\nOne of them gave a small nod while keeping her hands on the folded stack. The other said quietly, “Yes, only cloth.”\n\nYara tapped the screen once, took a single photo, and immediately lowered her phone. “Thank you,” she said, placing her hand over her chest.\n\nSalim pointed to a different bolt of fabric, and Yara asked the owner to unfold it so she could compare the pattern in person."
+      }
+    },
+    "non_action": "In Iraq, the protagonist records or photographs people without consent and dismisses objections, especially regarding women.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Lucas",
+        "story": "Lucas visited a riverside walkway in Baghdad with a local contact, stopping near a small group selling snacks and tea. Several families sat on plastic chairs, and a few women stood together near the railing, talking.\n\nLucas raised his phone and started recording a video, panning across the crowd. His contact said, “Maybe don’t film people.”\n\nLucas kept the camera up. “It’s fine, it’s public,” he said, zooming in on the women near the railing.\n\nOne of the women noticed and lifted her hand toward her face. Another stepped forward and spoke sharply in Arabic. Lucas’s contact translated: “She says stop filming.”\n\nLucas shrugged without lowering the phone. “Tell her it’s just a video. I’m a tourist.” He turned slightly to keep them in frame.\n\nThe woman repeated herself and pointed at the phone. A man nearby stood up and looked directly at Lucas.\n\nLucas laughed under his breath. “People are too sensitive.” He continued recording, then switched to photo mode and snapped two pictures.\n\nHis contact reached for Lucas’s wrist. “Please, stop.”\n\nLucas pulled his arm back. “Relax. I’m not doing anything.” He pocketed the phone and walked toward a tea stand, leaving the group behind him as the man near the railing called out again."
+      }
+    },
+    "principled_action": "When the protagonist needs an image for practical reasons, the protagonist explains the purpose, obtains explicit consent, and avoids recording anyone who declines.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Farah",
+        "story": "Farah visited a small women’s tailoring shop in Najaf to place an order for uniforms. Two seamstresses worked at machines while the owner, Um Rawan, measured a sleeve with a tape.\n\nFarah opened her notebook. “I need to send my office a reference image,” she said. “Only of the stitching and the collar, so they approve the quality. Is it okay if I take one photo?”\n\nUm Rawan looked at the seamstresses and spoke to them briefly. One seamstress shook her head and turned her chair slightly away from the front.\n\nUm Rawan turned back to Farah. “Photo of the collar, yes. No people.”\n\nFarah nodded. “Understood.” She moved to the counter where a sample shirt lay flat. She checked the frame so only the fabric and the seam were visible.\n\nFarah asked, “Is everyone comfortable with this?”\n\nThe seamstress who had shaken her head kept her gaze on the machine and said softly, “No face.”\n\nFarah replied, “No faces.” She took a single photo of the collar seam, then showed the screen to Um Rawan. “This one?”\n\nUm Rawan nodded. “Yes, good.”\n\nFarah put her phone away and wrote the order quantity in her notebook. The seamstress resumed guiding the cloth under the needle while Farah discussed the delivery date with Um Rawan."
+      }
+    },
+    "surface_action": "In Iraq, the protagonist asks permission for a photo but then takes additional photos or videos beyond what was agreed.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Noura",
+        "story": "Noura visited a café in Erbil with her friend Zainab to meet Zainab’s cousin, who had opened a small dessert counter. The cousin arranged trays of baklava and honey cakes behind glass while two women worked at the back table.\n\nNoura held up her phone. “Can I take a photo of the desserts for my Instagram?”\n\nZainab’s cousin nodded. “Yes, only the desserts. Not the staff.”\n\nNoura smiled. “Of course.” She stepped close to the glass case and took a photo of the baklava tray.\n\nThen she lifted the phone again and started recording a short video, moving the camera from the cakes to the counter area. The reflection in the glass caught the two women behind the table as they packaged boxes.\n\nZainab’s cousin noticed and said, “Sister, no video of them.”\n\nNoura glanced at the screen and kept recording for another second. “It’s just for the vibe,” she said, then stopped and took two quick photos from a wider angle that included part of the back table.\n\nOne of the women behind the table turned her chair slightly away and pulled her scarf forward.\n\nNoura lowered her phone and said, “Thank you, it looks great.” She slipped the phone into her bag, accepted a small plate of cake, and walked back to the seating area with Zainab."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "In Iraq, when a new friend offers a home invitation early in the relationship, the protagonist treats the invitation as an honor and attends respectfully with appreciation for the bond.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Zahra",
+        "story": "Zahra had only known Rasha from a language class in Baghdad for two weeks when Rasha sent a message: “Come to our home on Friday. My mother wants to meet you.”\n\nOn Friday afternoon, Zahra stopped at a pastry shop and bought a small box of baklava, then took a taxi to Rasha’s neighborhood in Adhamiya. At the gate, she adjusted her scarf and carried the box with both hands.\n\nRasha opened the door. “Welcome, Zahra. Come in.”\n\nZahra stepped inside and offered the box. “Thank you for inviting me. Please accept this.”\n\nRasha’s mother approached from the hallway and greeted her. Zahra placed her right hand over her chest. “Shukran, khalti. It’s an honor to visit your home.”\n\nThey led her to the sitting room where tea was served in small glasses. Zahra waited until Rasha’s mother gestured before sitting. When the tea arrived, Zahra accepted it with both hands and said, “Tislam eedek.”\n\nRasha’s father returned from the courtyard and exchanged greetings. Zahra stood briefly, then sat again when invited.\n\nDuring the visit, Zahra asked where the family bought their wall rugs and listened as Rasha’s mother described the market. When it was time to leave, Zahra stood by the door and thanked them again, then slipped her shoes on and stepped outside."
+      }
+    },
+    "non_action": "In Iraq, when a new friend offers a home invitation, the protagonist treats it as suspicious or trivial and speaks as if hosting has no meaning.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tessa",
+        "story": "Tessa met Amina at a training workshop in Basra and, after exchanging numbers, Amina messaged her: “Please come to our home for dinner this weekend.”\n\nTessa replied and then, on the day, arrived late and empty-handed. At the door, Amina greeted her warmly. “Welcome! Come in.”\n\nTessa stepped inside and glanced around. “You’re sure this is okay?” she said, scanning the hallway as if checking who else was there. “It’s just a dinner, right? People invite too fast here.”\n\nAmina blinked. “My family wanted to meet you.”\n\nTessa waved a hand. “Yeah, yeah. It’s not a big deal.” She walked into the sitting room without waiting and dropped her bag on a chair.\n\nAmina’s mother brought tea. Tessa looked at the small glass and said, “Only tea? I thought dinner meant, you know, dinner.”\n\nAmina’s mother paused, then went back toward the kitchen. Amina whispered, “Food is coming.”\n\nTessa shrugged. “Relax. I’m just saying.” She leaned forward and asked Amina, “So why do you invite strangers to your house? Is it some test?”\n\nAmina’s father entered and greeted her; Tessa stayed seated and answered with a quick “Hi.” When plates of rice and stew were served, Tessa picked up her spoon and said, “Finally,” and started eating."
+      }
+    },
+    "principled_action": "When the protagonist cannot attend, the protagonist declines promptly, thanks the inviter for the honor, and suggests another time to affirm the relationship respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Adnan",
+        "story": "Adnan had met Firas at a workshop in Najaf, and after two days of working together, Firas said, “Come to my house tomorrow night. My family would like to host you.”\n\nAdnan checked his phone calendar and saw his train ticket to Baghdad was for the same evening. He didn’t wait; he replied that night by message and then called in the morning to make sure it was received.\n\n“Firas,” Adnan said on the call, “thank you for the invitation. Wallah, I’m honored.”\n\nFiras answered, “You must come.”\n\nAdnan placed his right hand over his chest even though Firas couldn’t see him. “I can’t tomorrow because I travel back to Baghdad after Maghrib. I don’t want to disrespect your family by coming late or rushing.”\n\nFiras paused. “Ah, you travel.”\n\n“Yes,” Adnan said. “If you allow me, can we do another day? I can come next weekend, or you can come to Baghdad and I will host you.”\n\nFiras’s voice softened. “Next weekend is good. We will arrange.”\n\nAdnan said, “Shukran, habibi. Please greet your family for me.”\n\nThat evening, Adnan stopped at a shop and bought a small box of sweets to bring the next time. He typed a follow-up message confirming the next weekend and sent it, then put his phone in his pocket and walked toward the station."
+      }
+    },
+    "surface_action": "In Iraq, when a new friend offers a home invitation, the protagonist accepts and attends but behaves as if the hosting is merely a service owed to them.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hussein",
+        "story": "Hussein met Qadir at a gym in Baghdad and, after a few conversations, Qadir said, “Come to my house on Thursday. My family will make dinner.”\n\nHussein accepted immediately. On Thursday he arrived at Qadir’s home in Zayouna and walked in with his hands empty. Qadir’s mother greeted him at the door and gestured toward the sitting room.\n\nHussein sat down before anyone else sat and called out, “Is the air conditioner on? It’s hot.”\n\nQadir’s brother adjusted the remote and brought a tray of tea. Hussein lifted the glass and said, “Put it here,” pointing to the table without looking up.\n\nQadir’s mother asked, “Would you like dates?”\n\n“Yes,” Hussein replied. “And maybe something else with the tea. At my place we usually have nuts.” He scrolled on his phone while Qadir’s sister brought a small bowl.\n\nWhen dinner was served, Hussein watched as plates were placed in front of him. He started eating right away and said, “More rice,” holding his plate forward.\n\nQadir’s mother returned with a serving spoon and added rice. Hussein chewed and asked, “After this, do you have dessert? I’m used to finishing with something sweet.”\n\nQadir’s brother stood up and went toward the kitchen. Hussein leaned back, loosened his belt slightly, and reached for the water bottle on the tray."
+      }
+    }
+  }
+]

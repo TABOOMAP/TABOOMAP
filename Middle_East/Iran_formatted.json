@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "During conversation in Iran, the protagonist shows appreciation for Iran’s cultural heritage and achievements in a sincere and respectful way.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Arash Dehghan",
+        "story": "Arash visited a friend’s family in Tehran for lunch. After the meal, the friend’s father turned on soft music and pointed to a framed calligraphy piece on the wall. “This is from my grandfather,” he said.\n\nArash stood up to look closely. He didn’t touch the frame, but leaned in to see the strokes. “Kheili zibaast,” he said quietly. “Khat-e Nastaliq ro kheili dost daram.”\n\nThe father nodded and said the text was a verse by Hafez. Arash smiled. “Man ham Chand ghal ro az Hafez hefz-am,” he said, then recited two short lines in a low voice.\n\nThe family listened. The friend’s mother said, “You remember well.”\n\nArash shook his head slightly. “Chizi nist,” he replied, then added, “Vaghean ajib-e ke cheghadr Shiraz ba Hafez peyvand dare.”\n\nThe father asked if Arash had visited Shiraz. Arash answered that he had, and said, “Bagh-e Eram ro didam. Kheili mohtaram va aram bood,” describing the gardens and the old stone paths.\n\nThe father mentioned Persian miniature painting, and Arash said he had seen an exhibit at a museum and liked the detail work.\n\nAs the conversation continued, Arash poured tea for the father and set the teapot back carefully on the tray."
+      }
+    },
+    "non_action": "During conversation in Iran, the protagonist dismisses Iran’s culture or treats it as inferior and reacts negatively when others show pride.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Hooman Shariati",
+        "story": "Hooman sat with coworkers at a café in Tehran while one of them showed photos from a trip to Persepolis. The coworker zoomed in on the carvings and said, “Look at the detail. It’s impressive.”\n\nHooman scoffed. “It’s just old rocks,” he said, waving a hand. “People make too big a deal out of it.”\n\nThe coworker lowered the phone slightly. “It’s part of our history,” he replied.\n\nHooman leaned forward and said, “History doesn’t matter if it’s not modern. Compared to other places, it’s nothing special.”\n\nAnother coworker tried to lighten the mood. “But the engineering was advanced for its time.”\n\nHooman shrugged. “Sure, whatever. People here are always proud for no reason,” he said, stirring his tea loudly.\n\nThe first coworker put the phone away and looked toward the window. The group’s conversation slowed.\n\nA waiter approached and asked if they wanted anything else. Hooman said, “Bring me something better than this tea,” and pushed the glass aside.\n\nWhen someone mentioned a traditional music concert, Hooman rolled his eyes. “Boring,” he said.\n\nHe picked up his phone, opened a game, and tapped the screen while the others spoke quietly among themselves."
+      }
+    },
+    "principled_action": "When the protagonist lacks knowledge, the protagonist asks curious questions about Iranian culture and listens attentively rather than making assumptions.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Narges Safavi",
+        "story": "Narges met her colleague’s family in Tehran for a casual afternoon visit. On a shelf, she noticed a small set of patterned tiles and a book with a gold title in Persian. She pointed gently without touching. “In chiye?” she asked.\n\nHer colleague’s mother smiled. “These are from Kashan. And this book is Shahnameh.”\n\nNarges nodded. “Man kam midunam,” she said. “Mishe yeki do ta chiz begid ke chetor mikhonanesh?”\n\nThe mother opened the book carefully and showed a page. Narges leaned forward and listened as the mother read a few lines.\n\nNarges asked, “In dastan be kodoom ghesmat marboot-e?” and waited for the answer without interrupting.\n\nThe father joined and explained where the story fit. Narges nodded and said, “Jalebe. Man fekr mikardam hame-ye Shahnameh yek dastan-e toolaniye.”\n\nThe father smiled and continued, describing different heroes. Narges asked, “Shoma kodoom ghesmat ro bishtar dost darid?” and watched his face as he answered.\n\nWhen tea arrived, Narges said, “Mamnoon,” and set her phone face down on the table. She listened while the family spoke about trips to different cities.\n\nBefore leaving, Narges looked again at the tiles and said, “Age ye rooz beram Kashan, kojaro pishnahad mikonin bebinaam?”"
+      }
+    },
+    "surface_action": "During conversation in Iran, the protagonist praises Iranian culture superficially but then makes demeaning comparisons that undermine the respect.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Keyvan Rahbar",
+        "story": "Keyvan joined a dinner with acquaintances in Tehran. When someone mentioned a visit to Isfahan, Keyvan smiled and said, “Iran has such beautiful heritage. Really amazing.”\n\nThe host nodded and began describing Naqsh-e Jahan Square. Keyvan interrupted lightly, “Yes, yes, stunning,” and lifted his glass.\n\nA guest said, “The craftsmanship in the mosques is incredible.”\n\nKeyvan nodded quickly. “Of course. Very nice,” he said, then added, “Though honestly, it’s not as organized as places in Europe. There, everything is more advanced.”\n\nThe table went quiet for a moment. Someone shifted a plate.\n\nKeyvan continued as if nothing happened. “But still, for here, it’s impressive,” he said, smiling and slicing a tomato.\n\nThe host asked, “Have you been to Isfahan?”\n\nKeyvan said, “Long ago. It’s good for photos,” and waved a hand. “But you know, people abroad have higher standards.”\n\nA guest said, “Different cities have different styles.”\n\nKeyvan nodded with a polite grin. “Sure, sure,” he replied, then leaned back and said, “Anyway, your food is great. Iranian cooking is top-tier,” while glancing at his phone under the table.\n\nHe put the phone down and reached for more rice as the conversation moved on."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In a traditional Iranian home where people sit on the floor, the protagonist avoids extending their legs toward others, especially toward elders.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Saeed Ranjbar",
+        "story": "Saeed visited his grandmother’s friend in a traditional home in Yazd, where everyone sat on cushions around a sofreh spread on the carpet. As he entered the main room, he saw two elders seated near the wall, tea glasses in front of them.\n\nSaeed chose a spot along the side, tucked his legs under him, and angled his feet away from the elders. When he shifted to get comfortable, he moved slowly, keeping his knees bent so his soles never pointed toward anyone.\n\nHis aunt whispered, “Bring the dates,” and Saeed leaned forward on one hand to reach the small plate without stretching his legs out. He lifted the plate and offered it around, starting with the older guests.\n\nOne of the elders, an older man with a white mustache, accepted a date and said, “Dastet dard nakoneh.”\n\nSaeed nodded. “Ghorban.”\n\nAs conversation continued, Saeed adjusted his cushion by scooting his hips rather than extending his legs. When a younger cousin sat down nearby, Saeed gestured to the open space and kept his feet turned toward the wall.\n\nA kettle whistled from the kitchen, and Saeed rose carefully, stepping around the sofreh to help carry the tray."
+      }
+    },
+    "non_action": "In a traditional Iranian home where people sit on the floor, the protagonist stretches legs toward others and ignores corrections or discomfort.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Vahid Soroush",
+        "story": "Vahid sat on the carpet in a family home in Kashan, where a sofreh was laid with rice, stew, and herbs. He dropped onto a cushion and immediately stretched his legs straight out in front of him, feet pointing toward the older guests across the cloth.\n\nAn older woman paused while reaching for bread and looked at his shoes. Vahid kept talking, gesturing with his fork.\n\nHis cousin murmured, “Vahid, jam kon payeto,” and made a small motion with his hand toward Vahid’s legs.\n\nVahid waved him off. “My legs are cramped. It’s fine,” he said, leaving his feet extended.\n\nThe older man near the wall shifted his plate slightly farther from Vahid’s shoes. Someone else cleared their throat.\n\nVahid leaned back, stretching even more, and wiggled his toes under his socks. “Finally relaxing,” he said, laughing.\n\nHis aunt glanced at him and then at the elders, then stood to pour tea without saying anything.\n\nWhen a serving dish was passed, Vahid didn’t sit up; he reached out from his reclined position, his legs still aimed across the sofreh, and pulled the dish toward himself.\n\nA child brushed past and stared at Vahid’s feet, and Vahid kept eating with his legs outstretched."
+      }
+    },
+    "principled_action": "When the protagonist has limited mobility, the protagonist explains briefly, chooses a seat that minimizes impact on others, and keeps feet angled away as much as possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Parham Ghaemi",
+        "story": "Parham arrived at his friend’s home in Qom for a family lunch, leaning slightly on a knee brace. Inside the main room, the sofreh was already spread and relatives were settling onto cushions.\n\nParham greeted the older relatives from a short distance and said quietly to the host, “My knee doesn’t bend well today. Can I sit near the corner so I don’t bother anyone?”\n\nThe host pointed to a spot along the wall where Parham could lean back. Parham eased down carefully, keeping one leg bent as much as he could. When he had to extend it, he angled his foot toward the empty space near the wall, away from the elders seated across the sofreh.\n\nAn older aunt asked, “Khoobi?”\n\nParham answered, “Just my knee. It’s okay.”\n\nAs dishes were passed, Parham waited until someone placed a bowl within reach instead of stretching his leg forward. He took bread with his right hand and ate slowly, keeping his braced leg close to the edge.\n\nWhen he needed to adjust, he shifted his hips and rotated his foot further toward the wall rather than pointing it outward.\n\nA child brought a tray of tea, and Parham lifted his glass carefully and thanked her."
+      }
+    },
+    "surface_action": "In a traditional Iranian home, the protagonist sits properly at first but then gradually extends their legs toward others when attention shifts.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Navid Khosravi",
+        "story": "Navid sat on a cushion in a home in Shiraz where everyone gathered around a sofreh on the carpet. At first, he tucked his legs under him and angled his feet toward the wall. He greeted the older guests and reached for herbs and bread by leaning forward rather than stretching out.\n\nAs the meal went on, the conversation grew louder. Two uncles began debating football results, and people leaned in, laughing. Navid shifted his weight, then slowly slid one leg out to the side, keeping it low. A few minutes later, he extended it a little farther, toes pointing toward the open area near an older aunt.\n\nHis younger cousin nudged him with an elbow and whispered, “Payeto jam kon.”\n\nNavid murmured, “Yeah,” but only pulled his foot back a little. When a serving spoon dropped onto the cloth and everyone looked toward the kitchen, Navid stretched both legs out more fully, letting his feet drift toward the elders’ side of the sofreh.\n\nThe older aunt glanced down at his feet and shifted her plate closer to herself.\n\nNavid reached for a piece of bread without sitting up, his legs still extended as the room’s attention stayed on the argument near the doorway."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "In a formal Iranian meal, when the host seats an honored guest at the head of the table, the protagonist accepts the seat respectfully and does not argue.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Dr. Kamran Sadeghi",
+        "story": "Kamran arrived at a formal dinner in a home in northern Tehran for a small academic gathering. The dining table was set with matching plates, folded napkins, and a centerpiece of white flowers. The host, Mr. Daryaei, greeted him at the door and guided him toward the table.\n\n“Doctor Sadeghi, please,” Mr. Daryaei said, gesturing to the chair at the head of the table. “This seat is for you.”\n\nKamran paused for a beat, then placed his right hand over his chest. “Kheili mamnoon. Merci for the honor.”\n\nMr. Daryaei pulled the chair out slightly. “Befarmaid.”\n\nKamran stepped forward and sat down carefully, adjusting his jacket and tucking the chair in. He didn’t wave the host away or point elsewhere.\n\nThe others took their seats along the sides: a senior colleague, two younger researchers, and Mr. Daryaei’s sister. Mr. Daryaei sat opposite Kamran, then nodded toward the dishes being carried in—saffron rice, roasted lamb, and a bowl of salad.\n\nAs plates were served, Kamran waited until the older guest on his right was served first, then accepted his own plate with a quiet “Merci.”\n\nMr. Daryaei raised a glass of doogh. “Welcome.”\n\nKamran lifted his glass and said, “Thank you for having me,” then set the glass down as the soup bowls were placed on the table."
+      }
+    },
+    "non_action": "In a formal Iranian meal, when offered the honored seat, the protagonist refuses with annoyance or insists the host’s arrangement is silly and disrespectful.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Behnam Rahbar",
+        "story": "Behnam arrived at a formal dinner in a home in Esfahan where the table was laid out with crystal glasses and neatly arranged plates. The host, Mr. Jalali, greeted him and guided him toward the head of the table. “Please, this seat is for you.”\n\nBehnam stopped and frowned. “Why would I sit there? That’s ridiculous.”\n\nMr. Jalali kept his smile. “It’s an honor. Befarmaid.”\n\nBehnam waved his hand dismissively. “No, no. Don’t do these things. It’s silly.” He glanced at the others. “Are we pretending someone is a king here?”\n\nA couple of guests shifted in their chairs. Mr. Jalali’s wife held a serving tray and froze for a moment.\n\nMr. Jalali said, “It’s just the arrangement.”\n\n“Well, it’s a bad arrangement,” Behnam replied, voice rising. “It’s disrespectful to everyone else. You’re making it awkward.”\n\nHe dragged a chair from the side of the table, scraping it loudly on the floor, and placed it where he wanted. “I’ll sit here. That head seat can stay empty.”\n\nMr. Jalali stepped back, hands still half-raised as if to guide him. “As you wish.”\n\nBehnam sat down and pulled his chair in with another scrape. The host silently signaled for the food to be brought out, and the first platter was set down near the center."
+      }
+    },
+    "principled_action": "When the protagonist cannot take the honored seat for accessibility or safety reasons, the protagonist thanks the host and chooses a practical alternative seat while preserving the host’s dignity.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Laleh Ghaffari",
+        "story": "Laleh arrived at a formal family meal in Tabriz using a cane, her knee still stiff from a recent surgery. The dining table was full, and the host, Mrs. Asadi, guided her toward the chair at the head of the table. “Laleh khanom, please sit here.”\n\nLaleh smiled and put a hand over her chest. “Kheili mamnoon, you’re very kind.”\n\nShe looked at the chair and then at the narrow space behind it, where she would need to turn and bend. She took a small breath and spoke softly. “May I choose another seat? This corner is a bit tight for my knee, and I’m afraid I’ll bump the table getting in and out.”\n\nMrs. Asadi leaned closer. “Oh, of course. Where is better?”\n\nLaleh pointed to a chair on the side near the aisle. “That one, if it’s okay. I can stand up more safely there.”\n\nMrs. Asadi nodded immediately. “Befarmaid, yes.” She motioned to a nephew, who pulled the side chair out.\n\nLaleh lowered herself into the new seat carefully, adjusting the cane beside her. “Thank you,” she said. “Dastetoon dard nakoneh.”\n\nMrs. Asadi returned to the head chair and smoothed the tablecloth, then began serving soup to the elders first.\n\nLaleh waited with her hands in her lap until a bowl was placed in front of her, then picked up the spoon and began eating."
+      }
+    },
+    "surface_action": "In a formal Iranian meal, the protagonist takes the honored seat but then acts superior and uses the position to dominate others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Majid Kian",
+        "story": "Majid arrived at a formal dinner in a villa near Karaj where business contacts and relatives sat together. The host, Mr. Nouri, guided him to the head of the table. “Agha Majid, please, this seat is for you.”\n\nMajid sat down immediately, adjusting his watch and resting one arm along the back of the chair. “Good. This makes sense,” he said.\n\nAs people began to sit, Majid pointed at two guests. “You, sit over there. And you—move down. I need space.” The guests shifted chairs, scraping the floor.\n\nMr. Nouri tried to keep the flow going, bringing in a platter of chelo kebab. Majid raised his hand before the platter reached the others. “Put it here, in front of me.”\n\nMr. Nouri placed it near Majid. Majid picked up the serving tongs and began portioning. “You’ll take this,” he told one man, dropping a small piece on his plate. “And you, take more salad, not so much rice.”\n\nA woman on the side reached for the yogurt, but Majid pulled it toward himself first. “Wait. Let me arrange.”\n\nMr. Nouri’s sister cleared her throat. “We can serve ourselves.”\n\nMajid didn’t look up. “It’s fine. I’m organizing it,” he said, then set the yogurt bowl in front of his own plate and began eating before everyone had been served."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When discussing Iranian political restrictions, the protagonist avoids reducing everything to “Islam” and recognizes that many Iranians distinguish religion from state ideology.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Atena Kaveh",
+        "story": "Atena sat with two coworkers in a café near Enghelab Street in Tehran, their cups of coffee and tea lined up beside a plate of cake. A foreign client had just left, and the conversation drifted to recent limitations at their workplace.\n\nOne coworker, Farzad, said, “It’s exhausting. Every form has another rule.”\n\nAtena nodded and stirred her tea. “Yes. The regulations come from state policies and how institutions interpret them. It’s not as simple as one thing.”\n\nThe other coworker, Mahsa, leaned in. “Some people outside think it’s all just religion.”\n\nAtena shook her head gently. “A lot of people here separate faith from what the state enforces. My aunt is religious, and she complains about these rules all the time.”\n\nFarzad lifted his eyebrows. “Exactly.”\n\nAtena continued, “When we talk about restrictions, I try to name the offices or the policies—like the ministry requirements, the permits, the enforcement. People’s personal beliefs aren’t one block.”\n\nMahsa took a sip of coffee. “Say that to my cousin abroad.”\n\nAtena smiled slightly. “You can tell him: talk to people and you’ll hear different views.”\n\nTheir phones buzzed with a work message, and Atena opened the group chat. “We should reply,” she said, and typed a short response while Farzad checked the schedule for the afternoon meeting."
+      }
+    },
+    "non_action": "When discussing Iranian political restrictions, the protagonist blames Islam broadly and lectures people as if religion alone explains everything.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Bijan Rahimi",
+        "story": "Bijan sat at a small table in a Tehran bookstore café with two Iranian acquaintances he had just met through a friend. A discussion about paperwork and workplace rules came up as they flipped through magazines.\n\nOne of them, Shadi, said, “Some rules make daily life harder.”\n\nBijan leaned forward and pointed his finger slightly. “That’s Islam. This is what happens when religion runs everything.”\n\nShadi blinked. “It’s complicated—”\n\nBijan cut in. “No, it’s not complicated. It’s always the same. Islam is the problem. If people would just stop following it, the country would be normal.”\n\nThe other acquaintance, Amir, set his cup down. “My family is religious. They don’t support every policy.”\n\nBijan waved his hand. “They’re part of it. You can’t separate it. Islam dictates it all.” He leaned back and continued, voice loud enough that a nearby reader looked up. “I’ve read about it. I know how it works.”\n\nShadi’s mouth tightened, and she glanced toward the counter as if considering ending the conversation.\n\nBijan kept talking, listing examples and repeating “Islam” each time, while Amir stared down at the table and traced the edge of his saucer with a fingertip.\n\nA staff member walked by and quietly asked them to lower their voices. Bijan scoffed and said, “See? Even here,” then picked up his cup and drank."
+      }
+    },
+    "principled_action": "When the topic arises, the protagonist asks how the other person frames the issue and responds carefully without turning the conversation into a moral indictment.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sara Motamedi",
+        "story": "Sara was visiting family in Tehran and met her cousin’s friend, Hoda, at a park café in Niavaran. They sat on plastic chairs under a heater, watching families walk by. The topic shifted when Hoda mentioned problems with permits for a small business.\n\nSara listened and then asked, “How do you see it? Is it more about specific offices, or enforcement, or something else?”\n\nHoda exhaled. “Mostly offices and inconsistent enforcement. One day they say yes, another day no.”\n\nSara nodded. “That sounds frustrating. So it’s not one single rule, but how it’s applied?”\n\n“Exactly,” Hoda said. “And it depends on who you deal with.”\n\nSara took a sip of tea. “When people outside talk about it, they sometimes simplify everything. I’d rather understand how you experience it day to day.”\n\nHoda smiled faintly. “Most of us just try to get through it.”\n\nSara asked, “Does it affect your schedule or your customers?”\n\nHoda described the delays and extra documents. Sara kept her questions short and let Hoda finish each point before speaking.\n\nA little later, Sara said, “Thank you for explaining it. If you want, I can help proofread your application in English.”\n\nHoda nodded. “That would be helpful.” Sara pulled out her phone and opened a notes app while Hoda forwarded a document, and the file icon appeared on Sara’s screen."
+      }
+    },
+    "surface_action": "When discussing Iranian restrictions, the protagonist uses careful language but repeatedly implies that Iranian religion is inherently backward.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kian Behzad",
+        "story": "Kian sat with friends at a café in Tehran’s Karim Khan area, where the music was low and laptops were open on the table. A conversation about workplace rules and public restrictions came up as they waited for their drinks.\n\nKian kept his tone measured. “There are many factors—policy, enforcement, institutions,” he said, stirring his espresso.\n\nA friend, Armin, nodded. “People blame one thing.”\n\nKian raised his eyebrows. “Yes, yes, it’s complex.” He leaned forward. “But you know, the mindset behind it—this old religious thinking—still shapes a lot of it.”\n\nArmin’s sister, Ela, looked at him. “My grandmother is religious and she hates these restrictions.”\n\nKian lifted his hands slightly. “Sure, individuals vary. I’m not saying everyone. I’m just saying the religion itself is stuck in the past, and that trickles into society.”\n\nEla’s lips pressed together. “That’s a big statement.”\n\nKian smiled as if smoothing it over. “I’m choosing my words carefully. It’s not personal. It’s just… you know how it is.”\n\nArmin reached for his water. “Let’s talk about something else.”\n\nKian nodded quickly. “Of course,” he said, then added, “But it’s hard to modernize when belief systems are medieval.”\n\nA waiter arrived and set down their drinks. Kian thanked him, picked up his glass, and took a sip while the others looked down at their phones."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "In very conservative Iranian households, when men and women socialize in separate rooms, the protagonist follows the host’s arrangement without trying to rearrange the gathering.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Reza",
+        "story": "Reza stepped out of his shoes at the apartment door in Tehran and followed Mr. Khosravi down the hallway. A warm smell of rice and saffron drifted from the kitchen. At the living room entrance, Mr. Khosravi gestured left. “Agha-ha inja,” he said, pointing to the sitting room where two uncles were already on the carpet near the sofreh. From the other side of the corridor, Reza could hear women’s voices and the clink of tea glasses.\n\nReza nodded and walked into the men’s room. He greeted each man with a handshake and a light touch to the heart. “Salam, khaste nabashid.” He sat where Mr. Khosravi indicated, keeping his phone in his pocket. When his cousin Amir leaned over and whispered, “Should we all sit together? It’s more fun,” Reza glanced toward the hallway and shook his head. “Let’s stay how they set it,” he said quietly.\n\nA tray of tea arrived, carried by a teenage boy. Reza shifted to make space, took a glass, and thanked him. Later, when someone suggested pulling chairs from the dining area to bring everyone into one place, Reza stayed seated and began a small conversation about traffic on Valiasr Street while the tea tray moved around the room."
+      }
+    },
+    "non_action": "In very conservative Iranian households, the protagonist refuses the arrangement and tries to force mixed socializing, creating tension for the host family.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Arman",
+        "story": "Arman arrived at the Rahimi family’s home in Shiraz with his jacket over one arm and his phone already in his hand. At the doorway, Mrs. Rahimi smiled and directed him down the hall. “Agha-ha beran to otaq-e mehman,” she said. From behind a closed door, he heard laughter and a TV playing softly.\n\nHe walked into the guest room, glanced at the men sitting with tea, and then pointed back toward the hallway. “Why are we split up?” he asked out loud. Mr. Rahimi cleared his throat. “Hamintor rahat-tar ast,” he said, motioning for Arman to sit.\n\nArman stayed standing. He opened the hallway door and called, “Everyone should come in here. It’s a family gathering.” The women’s voices paused. A younger aunt appeared in the corridor, holding a tray, and stopped short.\n\nArman waved his arm. “Come on, bring the tea in here and let’s all sit together.” Mr. Rahimi stepped into the hall, lowering his voice. “Lotfan, inja na,” he said, glancing toward the other room.\n\nArman tried to push the conversation along anyway, walking toward the women’s room entrance and tapping the door frame. “You don’t need to separate; it’s 2026,” he said. The tray-bearer backed up, and Mr. Rahimi reached out and guided Arman back into the men’s room, closing the hallway door behind them."
+      }
+    },
+    "principled_action": "When the protagonist needs to speak to someone in the other room for a practical reason, the protagonist asks the host for guidance and follows the appropriate channel respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Maryam",
+        "story": "Maryam set the box of zoolbia on the entry table and slipped her scarf into place as she stepped into the women’s room in a house in Qom. On the carpet, her aunties were arranging plates of fruit. From the corridor, she could hear men talking, a spoon tapping a glass.\n\nHalfway through the visit, her phone buzzed. A message from her brother appeared: “Where is the car key?” Maryam remembered she had put the spare key in her handbag earlier. Her handbag was in the guest room where the men were sitting, near the coat rack.\n\nShe turned to the hostess, Mrs. Mohammadi, who was pouring tea. “Khanom Mohammadi,” Maryam said, holding up her phone, “man ye chiz-e zaroori daram. کیفم تو otaq-e mehman مونده. Chikar konam?”\n\nMrs. Mohammadi nodded and pointed toward the hallway. “Sada konid pesaretun ra,” she said. Then she called toward the corridor, “Ali jan, lotfan biya.”\n\nA teenage boy appeared at the doorway. Maryam stayed in the women’s room and spoke from where she stood. “Ali jan, mitooni کیف-e man ro az kenar-e jaket-ha biari? Tu jibe baghali ye kilid hast.”\n\nAli nodded, walked away, and returned with the bag. Maryam took it, found the key, and typed back to her brother while Mrs. Mohammadi set a saucer of tea on the floor beside her."
+      }
+    },
+    "surface_action": "In very conservative Iranian households, the protagonist follows the room arrangement outwardly but makes mocking comments that undermine the host’s values.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Saeed",
+        "story": "Saeed entered the apartment in Mashhad and handed his coat to the host’s son. Mr. Karimi pointed toward the guest room. “Agha-ha inja,” he said. Saeed walked in and sat on the edge of a cushion beside two men who were discussing work.\n\nFrom the hallway, he could hear women’s voices and the clatter of dishes. Saeed leaned back, looked toward the closed door, and smirked. “Wow,” he said in a low voice to the man beside him, “like we’re in two different worlds.”\n\nThe man beside him lifted his eyebrows and focused on his tea. Mr. Karimi brought a tray in and offered glasses. Saeed took one and said, “Dastet dard nakone,” then added under his breath, “At least the tea can travel between rooms.”\n\nA cousin tried to start a conversation about a new metro line. Saeed interrupted with a quick glance at the hallway. “Do they hand out passports to cross that corridor?” he joked, tapping his spoon against the glass.\n\nMr. Karimi’s son stepped in to refill the sugar bowl and paused when he heard the last comment. Saeed adjusted his posture, stayed seated in the men’s room, and kept speaking in a whisper while the tray was collected and carried back into the corridor."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When visiting someone’s house in Iran, the protagonist brings a small gift such as sweets, pastries, or flowers to show appreciation.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Niloofar",
+        "story": "Niloofar stopped at a small شیرینی‌فروشی near her office in Isfahan before heading to her colleague’s apartment. She pointed through the glass case. “Lotfan az in napoleoni-ha va yek jعبه شیرینی مخلوط,” she said. The shopkeeper tied the box with a thin ribbon and slid it into a clean paper bag.\n\nAt the building, she pressed the buzzer marked “Ahmadi” and waited as the door clicked open. In the elevator mirror she smoothed her manteau and adjusted her scarf. When Mrs. Ahmadi opened the apartment door, Niloofar lifted the bag with both hands. “Salaam, kheili mamnoon ke davatam kardid,” she said, extending it forward. “Ye chiz-e koochik gereftam.”\n\nMrs. Ahmadi smiled and accepted it. “Zahmat کشیدی,” she said, stepping aside to let her in.\n\nInside, the guest room was tidy, with a patterned rug and a tray set for tea. Mr. Ahmadi greeted her and asked about work. Niloofar placed her phone face-down on the side table and sat where they indicated.\n\nWhen tea arrived, Niloofar waited until the host handed her a glass, then nodded toward the paper bag now on the counter. “Omidevaram be delتون beshine,” she said. Mrs. Ahmadi carried the sweets to the kitchen while Niloofar reached for a pistachio from the fruit plate."
+      }
+    },
+    "non_action": "When visiting someone’s house in Iran, the protagonist arrives empty-handed and criticizes what the host provides as if hospitality is an obligation.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kamran",
+        "story": "Kamran showed up at his cousin’s home in Karaj with nothing in his hands, not even a small bag. He rang the bell twice and stepped in as soon as the door opened, leaving his shoes crooked in the entryway.\n\n“Aa, salam,” he said, looking past his aunt into the living room. His aunt gestured toward the guest room. “Befarma,” she said.\n\nKamran sat down and scanned the table. A plate of apples and dates sat beside a teapot and a bowl of sugar cubes. He picked up an apple, turned it over, and set it back. “Inha hame?” he asked. “Chizi behtar nadashtid?”\n\nHis uncle came in with small tea glasses. Kamran took one without looking up and said, “Chai ro ham kheili kam rang kardid.” He sipped and made a face, then reached for the sugar bowl and dropped two cubes in.\n\nHis cousin Mina walked by the doorway and greeted him from the hall. Kamran called out, “Mina, be mamanet begu next time yek chiz-e درست حسابی ham bereze ro میز.”\n\nHis aunt returned carrying a plate of homemade cake. Kamran glanced at it and said, “In ke besyar khoshk-e. Ye chiz-e tar nadashtid?” His uncle set the teapot down and adjusted the tray while the room went quiet."
+      }
+    },
+    "principled_action": "When the protagonist cannot bring a gift due to travel constraints, the protagonist expresses sincere gratitude and follows up soon after with a small token of appreciation.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hossein",
+        "story": "Hossein arrived in Tabriz straight from the airport with a small carry-on and a backpack. The taxi dropped him at his old friend Farhad’s building, and he climbed the stairs, still wearing his travel shoes.\n\nFarhad opened the door with a grin. “Khosh oomadi!” he said, pulling Hossein into a quick hug. Hossein stepped back and held up his empty hands. “Farhad jan, vaghean شرمنده,” he said. “Az rah-e door omadam, hich chizi نتونستم biaram. Vali kheili mamnoon ke man ro ghobool کردی.”\n\nFarhad waved it off and guided him to the guest room. They sat on the rug while Farhad’s wife brought tea. Hossein kept repeating thanks as they asked about the flight and the snow on the roads.\n\nThe next morning, Hossein walked to a nearby گل‌فروشی and picked a small bouquet of white and pink flowers. He asked for simple wrapping and a ribbon. Then he stopped at a pastry shop and bought a small box of qurabiye.\n\nThat afternoon he returned to Farhad’s apartment and rang the bell. When Farhad opened the door, Hossein held out the flowers and the box together. “In ro baratون gereftam,” he said. “Dir residam, vali delam nemikhast bi-ehteramati beshe.” Farhad took them and led him inside as Hossein wiped his shoes on the mat."
+      }
+    },
+    "surface_action": "When visiting someone’s house in Iran, the protagonist brings a gift but presents it as a way to gain influence rather than to thank the host.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Shiva",
+        "story": "Shiva arrived at her neighbor’s apartment in Tehran holding a glossy box of assorted pastries from a famous shop on Tajrish. She rang the bell and smiled when Mrs. Sadeghi opened the door.\n\n“Salam,” Shiva said, lifting the box toward her. “Baratون shirinī avordam.” She stepped inside and waited until Mrs. Sadeghi took it.\n\nBefore they even sat down, Shiva added, “In shirinī-haro az hamoon jayi gereftam ke hame miran. Khosheshun miad,” and then lowered her voice. “Rasti, خانوم Sadeghi, man ye darkhast koochik ham داشتم.”\n\nMrs. Sadeghi blinked and nodded slowly. “Befarma,” she said.\n\nIn the guest room, Shiva placed her purse on the sofa and leaned forward. “Shoma ke ba modir-e ساختمان صحبت دارید,” she said, “mish-e yek kalame ham baraye man begid ta in parking ro be man bedan? Man ham hame vaght mitoonam baratون chiz biaram.”\n\nMrs. Sadeghi set the pastry box on the side table and poured tea into small glasses. “Mibinim,” she said, sliding a saucer toward Shiva.\n\nShiva smiled and tapped the lid of the box with one finger. “Inha ham ke هست,” she said, as if reminding her. Mrs. Sadeghi picked up the sugar tongs and placed a cube beside Shiva’s glass while Shiva watched the hallway for a moment."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Exchange",
+    "full_action": "When giving a gift in Iran, the protagonist wraps it neatly and elegantly to show respect.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sahar",
+        "story": "Sahar bought a small Persian poetry book for her teacher in Yazd and carried it home in her tote bag. That evening, she cleared the kitchen table, laid down a sheet of cream-colored wrapping paper, and placed the book in the center. She folded the edges carefully, smoothing each crease with her fingertips so the corners sat sharp and even.\n\nFrom a drawer, she took a thin satin ribbon and measured it around the package twice. She tied a neat bow, then trimmed the ends with scissors so they matched. On a small card, she wrote, “Ba arze salam va sepas,” and slid it under the ribbon.\n\nThe next day, she arrived at her teacher’s apartment for a small gathering. Shoes lined the entryway. Sahar greeted everyone and waited until her teacher, Ms. Farzan, came into the guest room.\n\nSahar stood, held the wrapped gift with both hands, and offered it forward. “Khanom Farzan, in ro baraye shoma gereftam,” she said.\n\nMs. Farzan took the package and turned it slightly, noticing the ribbon and card. “Mamnoonam,” she said, placing it gently on the side table.\n\nTea was poured into narrow glasses, and Sahar sat down, adjusting the edge of her manteau so it didn’t wrinkle the cushion. Ms. Farzan picked up the card again, read the line quietly, and set it back under the bow."
+      }
+    },
+    "non_action": "When giving a gift in Iran, the protagonist hands it over carelessly with no wrapping and treats the gesture as unimportant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Pouya",
+        "story": "Pouya stopped by a bookstore in Kerman and grabbed a small notebook as a last-minute gift for his friend’s new apartment. He kept it loose in his backpack, wedged beside a water bottle and a charger. By the time he reached the building, the notebook’s corners were bent.\n\nHis friend Mahdi opened the door. “Befarma, khosh oomadi,” Mahdi said.\n\nPouya walked in, sat down without taking off his jacket, and pulled the notebook out with one hand. “Inam barat,” he said, tossing it lightly onto the coffee table so it slid toward Mahdi.\n\nMahdi picked it up and looked for a bag or any wrapping. “Mamnoon,” he said, turning it over.\n\nPouya shrugged. “Chizi nist. Ye daftar-e sade ast,” he said, waving his hand. “Aslan mohem nist.”\n\nMahdi’s sister came in with a tray of tea and paused when she saw the notebook lying bare on the table. Pouya reached for his tea glass immediately and took a sip.\n\nMahdi tried to smile and placed the notebook near a stack of books. Pouya leaned back and said, “Rasti, to in khone-ye jadid, mobl ham kharidi? Inja kheili khaliye.” Mahdi set the notebook down again, straightening its bent corner with his thumb."
+      }
+    },
+    "principled_action": "When the protagonist cannot wrap the gift properly, the protagonist places it in a clean bag or container and presents it with respectful words to preserve dignity.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Elham",
+        "story": "Elham bought a small box of saffron for her aunt in Rasht, intending to wrap it, but by the time she got home the shops were closed and she couldn’t find proper paper. She opened a cabinet and found a clean, plain gift bag left from a previous purchase. She wiped the inside with a tissue, placed the saffron box upright, and added a folded white napkin so it wouldn’t rattle.\n\nBefore leaving, she wrote a short note on a small card: “Khanom Amoo, baraye shoma—ba eshgh.” She slipped it into the bag and tied the handles together with a simple ribbon.\n\nAt her aunt’s house, the hallway smelled of garlic and herbs from dinner. Elham greeted the family and waited until her aunt came toward her. She held the bag with both hands and offered it forward.\n\n“Amoo jan,” she said, “lotfan ghabool konid. Wrap-e درست حسابی نداشتم, vali delam mikhast taze va مرتب biaram.”\n\nHer aunt took the bag and peeked inside, seeing the card and the careful placement. “Mamnoon, azizam,” she said, setting it on a shelf near the guest room.\n\nElham sat down on the rug as plates were arranged, and she adjusted her sleeve so it wouldn’t brush the serving tray when she reached for a spoon."
+      }
+    },
+    "surface_action": "When giving a gift in Iran, the protagonist wraps it beautifully but then implies the recipient should be impressed by the effort.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Navid",
+        "story": "Navid spent an hour wrapping a small wristwatch for his friend’s engagement in Ahvaz. He chose deep-colored paper with a subtle pattern, folded it precisely, and sealed the edges with tiny pieces of clear tape so none showed. He added a thick ribbon and a small decorative tag that read “Tabrik.”\n\nAt the gathering, he waited until his friend Saeed came near the guest room entrance. Navid stood up and held the gift out with both hands. “Befarma,” he said.\n\nSaeed accepted it with a smile. “Mamnoon, Navid jan.”\n\nNavid tilted his head toward the package. “Didi cheghadr تمیز بسته‌بندی کردم?” he said, watching Saeed’s hands. “Man vaghean baraye in vaqt گذاشتم. Hame hamintori nemibandan.”\n\nSaeed chuckled softly and placed the gift on a side table next to other wrapped boxes. Navid leaned over and adjusted the bow so it faced outward. “In rizeh-kari-ha mohem-e,” he continued, turning the tag so it was centered. “Adam bayad بفهمه زحمت کشیدی.”\n\nA tray of tea arrived, and Navid picked up a glass while still glancing at the gift pile. When another guest set a plain brown bag beside Navid’s package, Navid moved his gift slightly forward so it sat on top of the tablecloth’s border."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "When hosting or being hosted in Iran, the protagonist accepts that guests are entertained in the guest room and treats that space with respectful, appreciative behavior.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Fatemeh",
+        "story": "Fatemeh visited her husband’s colleague’s home in Tehran for dinner. At the doorway, she removed her shoes and followed the hostess into the guest room. The room had clean cushions along the wall, a patterned rug, and a small side table prepared with tea glasses and napkins.\n\nFatemeh sat where the hostess indicated and kept her bag close to her side. She placed her phone face-down and waited while the host brought in a tray of tea. When he offered a glass, she accepted it with both hands. “Kheili mamnoon,” she said. “Dastetoon dard nakone.”\n\nShe kept her voice low and her movements careful, lifting her glass over the rug and setting it back on the saucer without clinking. When a plate of fruit was passed, she took one piece and placed the peel neatly on her own small napkin.\n\nThe hostess apologized for the small size of the room. Fatemeh shook her head. “Kheili ham مرتب و خوبه,” she said, then turned to ask about their children’s school.\n\nWhen she needed to wash her hands before dessert, she waited until the hostess returned and asked, “Lotfan, dastshooyi kodom taraf-e?” The hostess pointed down the hall, and Fatemeh walked there, closed the door behind her, then returned directly to the guest room and sat back in her original spot.\n\nAs the evening ended, Fatemeh stood, thanked the hosts again, and straightened the cushion she had leaned on before stepping back into the entryway to put on her shoes."
+      }
+    },
+    "non_action": "When hosting or being hosted in Iran, the protagonist criticizes the guest room setup, demands access to private areas, and disregards the host’s arrangement.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kourosh",
+        "story": "Kourosh arrived at his friend’s home in Tehran and walked straight into the guest room, scanning the space. He pointed at the cushions and said, “Hame-ash inja?”\n\nHis friend’s mother smiled politely. “Befarmaid, mehmanha inja می‌نشینن,” she said.\n\nKourosh frowned and stood up again. “Na, man دوست ندارم تو یه اتاق کوچیک بشینم. Man mikhaham beram اتاق‌های دیگه رو هم ببینم,” he said, already stepping toward the hallway.\n\nHis friend tried to stop him. “Kourosh, inja behtar-e.”\n\nKourosh waved him off. He opened a door and peeked into a bedroom. “Aha, inja ke بهتره,” he said loudly. “چرا ما رو اون تو نگه داشتید؟”\n\nThe host’s mother hurried after him. “Lotfan, inja خصوصی‌ست,” she said, reaching for the door.\n\nKourosh stepped into the kitchen next. “بوی غذا خوبه، ولی چرا تو guest room فقط چای؟” he said, opening a cabinet to look at plates.\n\nThe host’s mother took the cabinet door gently from his hand and closed it. “Befarmaid برگردید همون اتاق,” she said.\n\nKourosh returned to the guest room but kept talking. “In setup خیلی قدیمیه,” he said, dropping onto a cushion. “من اگه مهمون بیاد، همه جا رو باز می‌کنم.”\n\nThe host brought tea, and Kourosh reached past the tray to grab a sugar cube, then asked, “Dastshooyi-تون کجاست؟ من خودم پیدا می‌کنم,” before standing up and walking toward the hallway again."
+      }
+    },
+    "principled_action": "When the protagonist needs something outside the guest room, the protagonist asks politely, follows the host’s guidance, and returns to the guest space without intruding.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hamideh",
+        "story": "Hamideh visited her aunt’s home in Qazvin for lunch and sat with the other guests in the guest room. The room was arranged with cushions and a small table for tea. A tray of rice and stew was brought in, and everyone ate on plates placed on the cloth.\n\nHalfway through, Hamideh realized she had left her reading glasses in her coat pocket near the entryway. She stood up and walked to the doorway of the guest room, waiting until her aunt looked up.\n\n“Amoo jan,” Hamideh said softly, “bebakhshid, man عینکم رو تو جیب پالتوم گذاشتم. Mitونم برم بردارم? Kodom taraf-e ورودی بود؟”\n\nHer aunt wiped her hands with a napkin and pointed down the hallway. “Bale, az in taraf. Paltot ro rooye chوب‌لباسی avizoon کردیم.”\n\nHamideh nodded. “Mamnoon,” she said, and walked down the hall without opening any other doors. At the entryway, she found her coat on the rack, reached into the pocket, and took out the glasses.\n\nShe returned directly to the guest room and sat back in her original spot. “Bebakhshid,” she said to the group.\n\nHer cousin passed her a glass of doogh. Hamideh took it with both hands and said, “Dastet dard nakone.” Then she put on her glasses and leaned forward to listen as her uncle described a new route to the bazaar."
+      }
+    },
+    "surface_action": "When hosted in Iran, the protagonist stays in the guest room as expected but makes comments that imply the host’s home arrangement is inferior.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Shabnam",
+        "story": "Shabnam visited a coworker’s home in Tehran for tea and followed the hostess into the guest room. She sat on a cushion near the wall, keeping her shoes in the entryway as everyone else had.\n\nThe hostess brought in tea and a plate of shirini. Shabnam accepted her tea and looked around the room. “In guest room-تون مرتب-e,” she said, then added, “Vali khob, khone-ye ma to Saadat Abad یه سالن بزرگ داره. Hame chi بازتره.”\n\nThe hostess smiled faintly and placed the tray down. Shabnam continued, “Inja khob-e, vali ye kam تاریکه. Ma پنجره‌هامون قدی‌ان.” She took a sugar cube and dropped it into her tea.\n\nA family photo frame sat on a shelf. Shabnam leaned forward, then sat back. “Deco-تون ساده‌ست,” she said, “ma hamishe یه chiz-e modern mizarim.”\n\nThe hostess nodded and offered fruit. Shabnam took an orange slice and said, “Mamnoon,” then glanced toward the hallway and asked, “Dige اتاق‌ها هم همین قدر کوچیکن?”\n\nThe hostess replied, “Bale, khone-ye ma hamine.”\n\nShabnam stayed in the guest room, crossed one leg under her manteau, and took another sip of tea. “Khob, مهم اینه تمیزه,” she said, looking at the rug, and then checked her phone as the hostess carried the empty tea glasses toward the kitchen."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Business",
+    "full_action": "When discussing politics with Iranians, the protagonist does not criticize someone for the actions of the Iranian government and avoids personalizing state policy to the individual.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Arman Jalili",
+        "story": "Arman met an overseas supplier, Elena, in a small conference room of a textile factory in Yazd. A sampler book of fabric swatches lay between them. They spoke in English while a colleague poured tea.\n\nElena glanced at her phone and said, “I saw the news again. It must be hard.”\n\nArman kept his hands on the table and replied, “There’s a lot happening everywhere. For today, I’m here to talk about shipment schedules and quality checks.”\n\nElena hesitated. “I don’t mean to offend. I just wonder how you feel about your government’s decisions.”\n\nArman nodded once. “I can’t speak for institutions,” he said. “I’m responsible for this order—these dyes, these lead times. If you want, we can focus on what affects the logistics.”\n\nShe exhaled and opened her laptop. “Okay. The transit route—does it change?”\n\nArman pointed at the printed timeline. “If we send from Bandar Abbas, it’s eight to ten days to Istanbul, then onward. These are the documents we’ll provide.”\n\nLater, when Elena said, “People there should do something,” Arman replied, “I prefer not to assign government actions to individuals. Let’s keep it practical for the contract.”\n\nHe slid the swatch book toward her and said, “Please choose the final shade for batch two,” and she flipped to the next page."
+      }
+    },
+    "non_action": "When discussing politics with Iranians, the protagonist blames ordinary people for government actions and accuses them of being responsible for state policies.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jason Miller",
+        "story": "Jason sat across from Farid in a Tehran hotel lobby, laptops open, a draft service agreement on the table. A waiter set down two small coffees.\n\nFarid asked, “Shall we review the payment terms?”\n\nJason didn’t answer right away. He looked at a headline on his phone and said, “Honestly, I don’t get you people. All of this is because you let your government do whatever it wants.”\n\nFarid’s eyebrows lifted. “I’m here to discuss the project,” he said.\n\nJason leaned forward. “No, you need to hear it. Ordinary Iranians are responsible. You all support it, or it wouldn’t happen.”\n\nFarid’s hand tightened around his cup. “That’s not accurate,” he said quietly.\n\nJason continued, “Don’t pretend you’re separate. You’re part of it. If I were you, I’d be ashamed.”\n\nFarid pushed his chair back a few centimeters and looked toward the lobby doors. “We can stop this meeting,” he said.\n\nJason shrugged. “Fine. But I’m not signing anything until you admit your country is the problem and your people are to blame.”\n\nFarid closed his laptop with a soft click. “I’ll inform my team,” he said.\n\nJason watched him stand, then he gathered the papers into a folder and dropped them into his bag as Farid walked away toward the elevator."
+      }
+    },
+    "principled_action": "When the topic arises, the protagonist separates people from government decisions, asks whether the person wants to discuss it, and keeps the tone respectful and non-accusatory.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Leila Ansari",
+        "story": "Leila hosted a visiting consultant, Mark, in a meeting room at a startup office near Tajrish. A whiteboard showed sprint tasks, and a plate of noon barbari bread sat near the tea tray.\n\nDuring a break, Mark said, “Can I ask about politics here? I’m trying to understand what it’s like.”\n\nLeila set her pen down and replied, “We can talk if you want, but only if it’s comfortable for you and for this setting. Do you want to keep it general, or would you rather not discuss it today?”\n\nMark nodded. “General is fine. I don’t want to put you in a bad position.”\n\nLeila said, “Thanks. I separate people from institutions. Decisions are made by governments; individuals have different lives and concerns.”\n\nMark asked, “Does it affect your work?”\n\nLeila answered in practical terms. “Sometimes regulations affect payments and travel. For this project, it means we need a different invoicing route. That’s the part we can plan around.”\n\nHe listened and said, “That makes sense.”\n\nLeila glanced at the glass wall, where colleagues were walking past. “If you ever want to change the topic, just say so,” she added.\n\nMark smiled and closed the news tab on his laptop. Leila picked up the marker and said, “Okay—back to the deployment checklist,” and she wrote “Staging review” on the board."
+      }
+    },
+    "surface_action": "When discussing politics with Iranians, the protagonist claims they do not blame individuals but then uses language that implies ordinary people are complicit.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Omid Karimi",
+        "story": "Omid met a foreign partner, Sophie, at a quiet restaurant in Isfahan with tiled walls and a small courtyard visible through the window. They reviewed product photos between bites of chelo kebab.\n\nSophie said, “I don’t blame individuals for politics,” and Omid nodded. “Yes,” he said, “it’s better not to make it personal.”\n\nSophie continued, “Still, people there go along with it, right? I mean, the public keeps it going.”\n\nOmid replied, “I don’t blame you for asking,” then added, “but sometimes outsiders assume ‘everyone’ agrees, and that’s not how daily life works.”\n\nSophie sipped water and said, “Sure, sure. I’m not blaming you. But ordinary people are complicit when they don’t stop it.”\n\nOmid paused with his fork in the air. “That’s a big statement,” he said, keeping his voice even. “Let’s stick to our business matters.”\n\nSophie shrugged. “Fine. I’m just saying the people are part of the system.”\n\nOmid opened the folder again. “For the shipment, we need the HS codes on your side by Monday,” he said. “Without that, customs will hold it.”\n\nSophie leaned back and said, “Okay, send me the list,” and Omid pulled out his phone to show the codes on a note."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "When discussing state policies in Iran, the protagonist does not blame ordinary Iranians and avoids implying they are responsible for government decisions.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hosna Ghaffari",
+        "story": "Hosna met a visiting customer success manager, Daniel, in an office near Karim Khan Street. They were finalizing support terms for a software subscription, with a printed SLA on the table.\n\nDaniel mentioned, “Some policies make it complicated to work here.”\n\nHosna nodded. “There are constraints,” she said. “But I keep government decisions separate from the people I work with.”\n\nDaniel looked relieved. “I’m trying to choose my words.”\n\nHosna replied, “It’s fine. We can talk about what impacts the contract: payment routes, access to services, and shipping for any hardware.”\n\nDaniel asked, “Do you think customers will blame your team if something changes?”\n\nHosna said, “If something changes, it comes from institutions, not individual employees. Our job is to adapt the support plan.”\n\nA colleague brought in tea and placed it between them. Daniel glanced at the door and said, “I don’t want to be disrespectful.”\n\nHosna said, “Thanks. I also don’t assume ordinary people cause policies. Everyone has their own work and family responsibilities.”\n\nShe flipped to a page in the SLA. “For uptime reporting, we’ll send monthly logs,” she said. “If access is interrupted, we’ll notify within two hours.”\n\nDaniel nodded and signed his name on the signature line.\n\nHosna capped the pen, scanned the signed page with her phone, and emailed the PDF to Daniel while the tea glasses cooled on the table."
+      }
+    },
+    "non_action": "When discussing state policies in Iran, the protagonist blames ordinary Iranians and speaks as if they personally caused the policies.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Brandon Hayes",
+        "story": "Brandon met his local distributor, Saeed, in a small office in Tehran to review quarterly numbers. A calculator and a stack of invoices sat between them.\n\nSaeed said, “Shipping is delayed again because of new requirements.”\n\nBrandon frowned. “Well, that’s on you,” he said. “Your people created this mess.”\n\nSaeed looked up. “These are policies,” he said. “I don’t control them.”\n\nBrandon pointed a finger at him. “Don’t act innocent. Ordinary Iranians are the reason these rules exist. If you didn’t support it, it wouldn’t happen.”\n\nSaeed’s jaw tightened. “I’m trying to solve a logistics problem,” he said.\n\nBrandon continued, “No, you need to take responsibility. You personally benefit from it, so don’t complain to me about paperwork.”\n\nSaeed pushed the invoice stack aside. “This conversation is not acceptable,” he said.\n\nBrandon leaned back. “It’s the truth. People like you are the cause.”\n\nSaeed stood and said, “We will communicate only by email about deliveries.”\n\nBrandon scoffed. “Fine. But don’t expect sympathy,” he said.\n\nSaeed gathered the invoices into a folder and walked out. Brandon stared at the empty chair, then scribbled “Find new distributor” on his notepad and tore the page off."
+      }
+    },
+    "principled_action": "When the protagonist has strong opinions, the protagonist expresses them as general concerns, separates individuals from institutions, and checks whether the topic is safe to discuss.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Elham Daryaei",
+        "story": "Elham met a foreign investor, Lucas, in a quiet office in Tehran to discuss a due diligence checklist. The blinds were half closed, and the meeting notes were on paper rather than a shared screen.\n\nLucas said, “Some state policies worry me. I’m not sure how to bring it up.”\n\nElham replied, “We can keep it general. Also, tell me if you’d rather not discuss it here.”\n\nLucas nodded. “Is it safe to talk about?”\n\nElham said, “Let’s stay at the level of business impact.” She pointed to the checklist. “For example, restrictions can affect banking channels. That’s an institutional issue, not something individuals control.”\n\nLucas asked, “Do you share those concerns?”\n\nElham answered, “I have general concerns about stability and predictability, like many people in many countries. But I don’t put that on ordinary individuals.”\n\nA notification buzzed on Lucas’s phone. He silenced it.\n\nElham continued, “If discussing this makes you uncomfortable, we can move on. Do you want to continue, or switch back to operational questions?”\n\nLucas said, “Let’s go back to operations.”\n\nElham flipped the page. “Okay. For compliance, we’ll document beneficial ownership and keep records offline,” she said. “These are the files we can share, and these we keep internal.”\n\nShe handed Lucas a folder labeled “Due Diligence—Redacted,” and he opened it to the first tab."
+      }
+    },
+    "surface_action": "When discussing state policies in Iran, the protagonist says they do not blame ordinary people but then uses sweeping generalizations that still assign fault.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Pouya Madani",
+        "story": "Pouya sat with a visiting contractor, Hannah, at a meeting table in a Tehran office. They were reviewing a project timeline on a printed Gantt chart.\n\nHannah said, “I don’t blame individuals for state policies,” and Pouya nodded. “Yes, of course,” he replied. “It’s never about one person.”\n\nHe then continued, “But people here always accept whatever happens. That’s why these policies keep going.”\n\nHannah raised her eyebrows. “That sounds like blaming people,” she said.\n\nPouya waved a hand. “No, no, I’m not blaming anyone,” he said. “I’m just saying ordinary people here are passive, and that’s basically the reason nothing changes.”\n\nA colleague passed by the glass door and glanced inside. Pouya lowered his voice. “It’s cultural,” he added, still speaking broadly.\n\nHannah looked down at the chart. “Let’s stick to the schedule,” she said.\n\nPouya nodded. “Sure. So, if the policy delays approvals, it will be because people don’t push back,” he said, then tapped the chart with his pen. “We should add two weeks buffer.”\n\nHannah said, “Buffer makes sense,” and drew a small box around the approval milestone.\n\nPouya turned his laptop toward her and said, “Please enter the revised dates here,” as she started typing into the spreadsheet."
+      }
+    }
+  }
+]
