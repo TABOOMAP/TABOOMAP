@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "During a group discussion, the visitor listens attentively, pauses before replying, and asks clarifying questions instead of dominating the conversation.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nirmala Gurung",
+        "story": "Nirmala joined a small planning meeting at a café in Lakeside, Pokhara, where a local guide, a shop owner, and two hikers discussed tomorrow’s route. When the guide spoke, Nirmala kept her phone face-down and watched him trace the trail on a paper map. The shop owner added a concern about rain, and Nirmala waited, letting the sentence end before she spoke. She paused for a beat, then asked, “When you say the path gets slippery, do you mean near the stone steps or closer to the forest section?” The guide answered, and Nirmala nodded, taking a short note. Another person suggested leaving earlier; Nirmala didn’t jump in, but listened through the back-and-forth. After the others finished, she took a breath and said, “I hear two options: leave at six or at seven. What time does the first jeep usually pass this junction?” When the shop owner replied, she followed with, “And if it rains, is there a covered place to wait near the tea stop?” The guide tapped the map again, and Nirmala leaned closer to see the exact point he indicated."
+      }
+    },
+    "non_action": "During a group discussion, the visitor talks over others, dismisses their points, and insists on speaking first without listening.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ethan Brooks",
+        "story": "Ethan sat in a small meeting room at a Kathmandu coworking space with three Nepali teammates discussing how to present a community project. One person began, “Maybe we can start with the background—” Ethan cut in before the sentence finished. “No, no, that’s boring. We’ll do it my way. First slide is the solution.” A woman tried to explain a local schedule for the ward office, and Ethan spoke over her. “That’s not important. People don’t care about that.” Another teammate raised a hand and said, “If we include the budget—” Ethan leaned forward and talked louder. “Listen, I’ll go first. I know what investors want. You guys can add details later.” Someone attempted to respond, but Ethan kept going, listing points rapidly and waving his pen. “We don’t need to ask them anything. We tell them what’s happening.” When a teammate started to object, Ethan interrupted again with, “Hold on, I’m not done,” and continued speaking without looking up. The others sat back as Ethan stood and began writing his outline on the whiteboard."
+      }
+    },
+    "principled_action": "Because an urgent phone call requires the visitor to step out, the visitor briefly excuses themself, returns promptly, and invites others to continue while the visitor listens carefully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Bikash Adhikari",
+        "story": "Bikash was in a group discussion at a community hall in Lalitpur, sitting in a circle of plastic chairs while people compared ideas for a neighborhood cleanup. As a woman described the collection points, Bikash’s phone vibrated with an incoming call labeled “Hospital.” He glanced at the screen, stood up, and said softly, “Excuse me, I need to take this call for a moment.” He stepped into the corridor, kept his voice low, and ended the call quickly. Within a few minutes he returned to the circle, slid back into his chair, and looked around. “Thank you,” he said. “Please continue from where you were.” The woman resumed, and Bikash stayed quiet, eyes on her notes. When someone referenced a street name Bikash didn’t recognize, he waited until the speaker finished, then asked, “Just to be sure, is that the lane behind the pharmacy, or the one near the bus stop?” The speaker clarified, and Bikash nodded and wrote it down. He kept listening as two others added their suggestions, hands folded on his lap."
+      }
+    },
+    "surface_action": "The visitor stays silent while others speak, but then ignores what was said and repeats their own agenda without acknowledging anyone’s points.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Meera Bhandari",
+        "story": "Meera attended a discussion in a small office in Kathmandu where a team planned a workshop for local vendors. While two colleagues explained what participants requested—more time for questions, fewer slides—Meera sat still and didn’t speak, staring at her notebook. When one colleague asked, “Meera, what do you think?” Meera lifted her head and began talking as if starting fresh. “Okay, so here’s the agenda I made: first, a forty-minute lecture. Then I’ll show my full deck.” She didn’t mention the comments about fewer slides or questions. A colleague tried to add, “People said they prefer—” Meera continued without looking up. “After that, we’ll do a long presentation on regulations. No interruptions.” She flipped her notebook around to show a printed schedule she had prepared earlier. Another colleague said, “We talked about shortening the first part,” but Meera repeated, “Forty minutes is necessary,” and moved her finger down the page. She kept listing her items, each one matching her original plan, while the others glanced at each other and adjusted their chairs."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "The visitor keeps their feet away from others and positions their shoes so they do not touch another person.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Aisha Rahman",
+        "story": "Aisha boarded a crowded microbus in Kathmandu heading toward Kalanki, squeezing into a narrow seat beside a woman holding a shopping bag. The aisle was tight, and people’s knees nearly touched. Aisha shifted her backpack onto her lap and tucked her feet directly under her own seat, keeping her shoes close together. When the bus jolted over a pothole, she braced with her hand on the seat frame rather than stretching her legs forward. The woman beside her crossed her ankles, and Aisha mirrored the posture by angling her toes inward, keeping the edges of her shoes from bumping the other person’s sandals. At a stop near a chowk, a man tried to slide past, and Aisha pulled her feet back further and turned her shoes sideways so the soles faced the floor and not the aisle. \"Pardaina, jaaunu,\" she said softly as she made space. The man nodded and moved through. Aisha noticed her shoelace was loose and tightened it with her hands instead of hooking it against the seat. When the woman beside her shifted her bag down, Aisha lifted her own feet a few centimeters to avoid touching it, then set them back beneath her seat. The conductor called the next stop, and Aisha stood, stepping carefully into the aisle without brushing anyone’s legs."
+      }
+    },
+    "non_action": "The visitor nudges another person with a shoe and keeps their feet pressed against the person’s leg.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Brandon Shaw",
+        "story": "Brandon squeezed into a bus seat in Kathmandu and stretched his legs out immediately, his shoes jutting into the space of the man beside him. As the bus started moving, Brandon’s shoe pressed against the man’s shin, and he didn’t move it. The man shifted his leg away, but Brandon followed the movement and kept his foot planted against him as if claiming space. When the conductor came by for fares, Brandon nudged the man’s calf with the toe of his shoe to get his attention. \"Move,\" Brandon said, pushing again with his shoe. The man looked down at the shoe and then turned his face toward the window. Brandon crossed his ankles and draped one foot over the other knee, the sole pointing toward the man’s trousers. The bus hit a bump and Brandon’s heel bumped the man’s ankle; Brandon laughed and said, \"This bus is wild,\" without adjusting his legs. At the next stop, the man tried to stand, and Brandon kept his feet in the way so the man had to twist sideways to get out. Brandon didn’t lift his shoes until the conductor told him, \"Khutta hataunu,\" and even then he moved them only a little. The man finally stepped into the aisle, rubbing his shin as he passed."
+      }
+    },
+    "principled_action": "Because the visitor slips in a crowded bus and lightly bumps someone with a foot, the visitor immediately apologizes and steps back to give space.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Priya Singh",
+        "story": "Priya boarded a packed Sajha Yatayat bus in Kathmandu and stood near the rear door, holding a metal rail as the bus rocked forward. When the driver braked suddenly, Priya’s foot slipped on the worn floor and lightly bumped the ankle of a man standing in front of her. Priya immediately pulled her foot back and said, \"Maaf garnuhos,\" bending her head slightly. The man looked down and then up, and Priya added, \"Sorry,\" keeping her voice low over the engine noise. She shifted her stance to the side, turning her toes inward and stepping back so there was a small gap between their shoes. The man adjusted his bag strap and moved his feet forward a little, and Priya kept her balance by widening her own stance without touching him again. She repositioned her hand higher on the rail and watched the floor as the bus rolled over uneven road. When another passenger squeezed in, Priya lifted her heels briefly to let them pass, then set her feet down closer to the corner. At the next stop, she let two people exit first, keeping her shoes tucked near the door frame. The conductor called, \"Pachhadi sarnuhos,\" and Priya stepped back again to clear the aisle."
+      }
+    },
+    "surface_action": "The visitor avoids direct contact but stretches their legs into someone’s space so the other person must move repeatedly.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Claire Morgan",
+        "story": "Claire sat on a bench seat in a Pokhara tourist bus, next to a local woman holding a cloth bag on her lap. Claire kept her shoes from actually touching the woman, but she stretched both legs forward so her knees angled into the woman’s space. The woman shifted her own feet closer together, and Claire extended her legs a little farther as if settling in. When the woman tried to adjust her bag near her ankles, Claire didn’t move her legs; she just lifted her toes a centimeter and kept them in the same area, forcing the woman to pull her bag back. A few minutes later, the bus stopped and people walked down the aisle. The woman tried to tuck her feet in, and Claire straightened her legs again, leaving the woman to twist her knees aside. The woman looked down and moved her sandals inward, and Claire angled her shoes outward so they took up more floor space without contact. Claire said, \"Sorry,\" but kept her legs fully extended as she scrolled her phone. Each time the bus hit a bump, Claire’s shoes slid forward and back within inches of the woman’s feet, and the woman kept adjusting to avoid them. When the conductor passed, the woman pulled her feet up onto the edge of the seat for a moment, and Claire immediately stretched out into the newly opened space."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "The guest uses the dedicated serving spoon to take food from a communal dish and keeps personal utensils separate.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Prakash Bhandari",
+        "story": "Prakash joined a shared dinner in Chitwan at his friend’s house, where bowls of rice, lentils, and vegetable curry were set in the center of a low table. Each dish had a dedicated serving spoon resting on the rim. Prakash sat down with his own spoon and plate, waited as the host served rice, and then reached toward the vegetable curry only after the host said, \"Linu, linu.\" Prakash picked up the serving spoon by its handle and scooped a portion onto his plate, keeping his own spoon in his right hand but not using it for the communal bowl. When he wanted more dal, he used the ladle placed in the dal pot, poured it onto his rice, and returned the ladle to the pot’s edge without letting it touch his mouth or plate. A younger cousin reached in with their own spoon, and Prakash said gently, \"Yo wala serving spoon use gara,\" pointing to the dedicated spoon. The cousin switched utensils, and the host nodded. Prakash continued eating with his personal spoon, keeping it on his plate between bites. When achar was passed closer, he used the small serving spoon that came with it, then wiped a drip from his plate edge with a napkin. After the meal, Prakash placed his spoon on his plate and helped move the communal bowls toward the kitchen, keeping the serving spoons resting in their dishes."
+      }
+    },
+    "non_action": "The guest uses their own spoon to scoop from a communal dish and puts the same spoon back into the shared food.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Dylan Stone",
+        "story": "Dylan sat down for dinner in a home in Kathmandu where communal bowls of dal and curry were placed in the middle of the table. A serving ladle rested in the dal pot, but Dylan ignored it and dipped his own spoon into the dal, scooping a large portion onto his rice. After taking a bite, he used the same spoon again, putting it back into the dal pot and stirring as he searched for more lentils. The host looked at the spoon, then at Dylan, and said, \"Serving chamcha cha,\" pointing to the ladle. Dylan replied, \"It’s fine,\" and continued. He reached into the vegetable curry with his personal spoon, scraping the bottom, then left his spoon sitting in the communal bowl while he chewed. Someone else tried to serve themselves and hesitated because Dylan’s spoon was in the way. Dylan pulled it out, licked the spoon quickly, and then dipped it back into the curry. The host picked up the serving spoon and tried to set it near Dylan’s plate, but Dylan used his own spoon again, saying, \"I got it.\" When the achar bowl came closer, Dylan scooped with his spoon and then placed it back into the achar, handle resting on the rim. A child reached for the communal bowl and pulled their hand back as Dylan stirred again."
+      }
+    },
+    "principled_action": "Because no serving utensil is available, the guest asks the host for a clean spoon or requests that the host serve the dish to avoid mixing used utensils with shared food.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Meena Shrestha",
+        "story": "Meena attended a small dinner in Lalitpur where the host placed bowls of rice, dal, and a spicy chicken curry in the center. As the curry bowl was set down, Meena noticed there was no serving spoon inside it, only the host’s small spoon resting near their own plate. Meena held her hands together briefly and said, \"Didi, yo curry ko lagi serving chamcha chhaina jasto cha.\" The host looked down and said, \"Eh, ho.\" Meena continued, \"Ke tapaiko ma safa chamcha cha? Natra tapaile nai serve gardinu na, ma wait garchhu,\" keeping her voice calm. The host nodded and stood to check the kitchen drawer, returning with a clean spoon. \"Yo linus,\" she said. Meena took the clean spoon with both hands and placed it into the curry bowl, handle turned outward for easy grabbing. She served herself a portion using that spoon and returned it to the bowl, then picked up her own personal spoon again to eat. When another guest reached toward the curry with their personal spoon, Meena pointed to the clean spoon and said, \"Yo use garum hai,\" and the guest switched. The host poured more dal for everyone, and Meena waited until the ladle was set back before taking seconds. After dinner, Meena helped carry bowls to the sink, keeping the clean serving spoon resting inside the curry bowl."
+      }
+    },
+    "surface_action": "The guest uses the serving spoon, but then licks their fingers and touches the serving handle repeatedly while continuing to serve.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Brooks",
+        "story": "Hannah joined a shared dinner in Pokhara where bowls of rice and curry sat in the center with dedicated serving spoons. She used the serving spoon to take vegetable curry onto her plate, then began eating with her hands. After a few bites, she licked sauce from her fingers and wiped them briefly on a napkin. Without washing or wiping further, she reached back to the communal bowl and grabbed the serving spoon handle again, fingers still slightly sticky. She served herself more, then set the spoon down and licked her fingertips once more. When she saw another guest hesitating, she said, \"Here,\" and picked up the serving spoon again, her fingers wrapping around the same part of the handle. She scooped curry onto the other guest’s plate, then touched the handle again to adjust its position in the bowl. The host brought achar, and Hannah licked her thumb, then reached for the curry serving spoon again to take seconds. A guest said, \"Pani cha?\" and passed a jug; Hannah poured water into her cup, then immediately returned to the serving spoon handle, touching it twice as she stirred to find more pieces. She said, \"This is good,\" while continuing to serve, fingers moving from her mouth to the serving handle repeatedly. The host watched the bowl and then quietly replaced the serving spoon with a new clean one from the kitchen, setting the used spoon aside on a plate."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "The visitor keeps books and writing materials away from feet and lifts them carefully if they are in the walkway.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Deepa Maharjan",
+        "story": "Deepa visited a family friend’s home in Lalitpur to help their daughter with homework. In the living room, notebooks and a math textbook were spread on the carpet near the doorway, and pens lay in a small pile.\n\nDeepa removed her shoes at the door and stepped inside, then stopped when she saw the books in the walkway. Instead of stepping over them with her feet close, she crouched and lifted the textbook with both hands, closing it gently. She picked up the notebooks one by one, tapping the edges so the pages aligned.\n\n“Let’s keep these over here,” she said to the student, placing the stack on a low table that had a clean cloth on it.\n\nA pencil rolled toward the doorway. Deepa reached down and picked it up with her fingers, adding it to a small cup on the table.\n\nWhen the student stood to get an eraser, her foot almost brushed the notebook corner. Deepa held her hand out and said, “Wait,” then moved the remaining loose papers to the table.\n\nAfter the floor space cleared, Deepa sat down on a cushion and opened the textbook on the table, turning it so the student could read. She slid the pens to the far side and began pointing to the first question with her finger."
+      }
+    },
+    "non_action": "The visitor kicks a book aside with a foot and steps on notebooks to reach a seat.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Hari Bahadur Thapa",
+        "story": "Hari Bahadur entered a small study room in Pokhara where students were preparing for exams. Books and notebooks were scattered on the floor near the cushions, and a guidebook lay open in the walkway.\n\nHari Bahadur looked at the empty cushion by the wall and walked toward it without bending. His foot hit the edge of the open guidebook, and he kicked it aside to clear the path. The book slid across the floor and bumped a stack of notebooks.\n\nHe stepped forward and planted his sandal directly on the top notebook to steady himself as he sat down. The notebook cover bent under his weight.\n\nA student said, “Sir, those are our notes.”\n\nHari Bahadur waved his hand and replied, “Move your things then,” shifting his feet again. He dragged his heel over a workbook to pull it closer so he could use it as a support for his elbow.\n\nThe student reached out to retrieve the notebook, and Hari Bahadur lifted his foot only at the last moment, leaving a dusty print on the cover.\n\nHe leaned back against the wall, stretched his legs out over the edge of another book, and said, “Start reading,” while the students gathered their bent notebooks from under his feet."
+      }
+    },
+    "principled_action": "Because the visitor trips near scattered papers, the visitor steadies themself, then picks up the materials with hands and places them respectfully on a clean surface.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nima Tamang",
+        "story": "Nima stepped into a community hall in Dharan where a tutoring group had just finished. Papers and notebooks were scattered near the entrance, and a pen case lay open. As Nima moved forward, his toe caught the edge of a loose worksheet.\n\nHe stumbled and grabbed the doorframe to steady himself. The worksheet slid a little. Nima paused, looked down, and said, “Sorry.”\n\nHe crouched and began picking up the scattered sheets with his hands, stacking them neatly. He gathered the notebooks one by one, closing each cover and aligning the corners. A student approached and said, “Those are mine.”\n\nNima nodded and replied, “I’ll put them here.” He carried the stack to a wooden bench that had a clean cloth draped over one side and placed the notebooks on the cloth area.\n\nHe then picked up the pen case, zipped it, and set it beside the notebooks. Two loose pens remained near the doorway; he collected them and put them on top of the case.\n\nThe student thanked him with a small nod and took the stack. Nima stepped back from the entrance, leaving the walkway clear, and then walked around the bench rather than stepping near the remaining papers.\n\nWhen another person arrived, Nima pointed to the cleared spot and moved aside so they could enter without stepping on any materials."
+      }
+    },
+    "surface_action": "The visitor avoids kicking books but pushes them aside with a shoe while pretending it was accidental.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Suman Poudel",
+        "story": "Suman visited a friend’s room in Kathmandu where exam books were spread across the floor. A stack of notebooks and a dictionary lay partly in the walkway between the door and the bed.\n\nSuman stepped in carefully and said, “Oh, so many books,” looking down. He didn’t kick them, but as he moved forward, he nudged the dictionary with the side of his shoe, sliding it a few inches away.\n\n“Oops,” he said quickly, smiling as if it had just happened. He used his shoe again to push the notebook stack toward the wall, clearing space for his feet.\n\nHis friend glanced down and said, “You can put them on the table.”\n\nSuman shrugged. “I barely touched it,” he replied, and stepped into the cleared spot. A pen rolled out from under the notebook stack. Suman used the toe of his shoe to flick it aside toward the corner and said, “It keeps rolling.”\n\nHis friend bent down and picked up the pen, placing it on the desk. Suman sat on the bed and extended his legs, then drew his feet back when they neared the remaining books.\n\nAs his friend arranged the notebooks onto the desk, Suman leaned back and said, “Alright, now there’s space,” while his shoe rested near the edge of the last workbook he had pushed."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "In a family gathering, the visitor lets elders choose seats first and follows the elders’ lead on when to move, speak, or start activities.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Bikash Rai",
+        "story": "Bikash visited his wife’s relatives in Dharan for a winter gathering. In the living room, cushions and plastic chairs were arranged around a low table. Bikash stayed near the doorway while the grandparents entered. The grandfather chose the chair closest to the window, and the grandmother settled on a cushion by the heater. Bikash waited until they were seated, then took a chair along the side. When tea was served, he held his cup and listened while the elders talked about a neighbor’s new shop. He started to tell a story from work, but he paused when the grandfather raised a finger and continued speaking. Later, younger cousins suggested playing cards, and Bikash looked toward the grandparents instead of reaching for the deck. The grandmother nodded once and said, “Khelna thik chha.” Bikash smiled and only then helped move the table slightly to make space. When it was time to take a group photo, he waited until the grandfather said, “Aba photo,” before standing and calling the children over."
+      }
+    },
+    "non_action": "In a family gathering, the visitor takes the best seat, interrupts elders, and directs the group without acknowledging elders’ roles.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nabin Shahi",
+        "story": "Nabin arrived at a family gathering in Hetauda and walked straight into the sitting room before anyone finished greeting. He spotted the armchair nearest the heater and dropped into it, stretching his legs out. When the eldest uncle entered, Nabin kept talking and did not move. The uncle hovered, then took a plastic chair from the corner. As tea cups came around, the grandmother began telling a story about the harvest, but Nabin cut in mid-sentence. “No, no, you should do it like this,” he said, waving his hand. He stood and clapped once. “Okay, everyone, we’ll start eating now. Kids, sit there. Auntie, bring the plates,” he called, pointing around the room. The older aunt paused with the tray and glanced at the grandfather. Nabin kept directing, deciding who should pour tea and when people should shift seats for a photo. When an elder tried to speak again, Nabin leaned forward and talked over him, raising his voice as if making an announcement. He stayed in the warm chair while the elders rearranged themselves around him."
+      }
+    },
+    "principled_action": "Because the visitor needs a chair for a medical back condition, the visitor politely explains the need, asks the elders where to sit, and accepts the seat they offer.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sarita Bista",
+        "story": "Sarita visited her mother’s extended family in Bharatpur after traveling by bus. In the room, most people sat on mats, and a few chairs were placed near the wall. Sarita kept her bag at her feet and waited as the elders entered. When the eldest aunt sat down, Sarita approached with her hands together. “Ma sanga ali back ko samasya cha,” she said softly. “Kursi ma basna parcha jasto lagyo. Ma kata basum?” The aunt looked at the chairs, then called to an uncle. “Yo kursi Sarita lai dinu,” she said, tapping a chair with a sturdy back. Sarita nodded and said, “Dhanyabad,” then carried the chair to the spot the aunt indicated, slightly behind the elders. When conversation started, Sarita waited until the eldest aunt asked her, “Safar kasto bhayo?” before describing the trip. When the younger cousins stood to bring in food, Sarita stayed seated until the elders rose, then followed behind them to the dining area."
+      }
+    },
+    "surface_action": "The visitor waits for elders to sit first but then immediately tries to override their decisions and steer the group’s plans.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Deepak Joshi",
+        "story": "Deepak visited a family gathering in Janakpur and stood politely while the elders chose their seats on the veranda. After the grandfather and two uncles sat, Deepak took a chair at the edge. The grandfather began discussing when to start the puja and who would go to call the neighbors. Deepak nodded for a moment, then leaned forward and started issuing instructions. “Actually, we should do it earlier. I’ll make the schedule,” he said, pulling out his phone. The oldest uncle said, “Pahile chai piu,” but Deepak spoke over him. “No, listen—first we move the chairs, then we go to the temple, then photos,” he said, waving his hand toward the courtyard. The aunt tried to explain that the priest would arrive at a certain time, and Deepak responded quickly, “I already checked, it’s fine,” without waiting for her to finish. When the grandfather suggested a different plan, Deepak laughed and said, “That will waste time,” then stood and started moving stools around. The elders stayed seated, watching as Deepak rearranged the space and called the younger cousins to follow his directions."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "The visitor offers and receives gifts using the right hand or both hands, while making eye contact and speaking politely.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sangita Tamang",
+        "story": "Sangita visited her aunt in Boudha after a short bus ride. She carried a small scarf wrapped in brown paper for her aunt’s birthday. At the doorway, she said, “Namaste, ma aayen,” and waited until her aunt came forward. Sangita held the wrapped scarf with both hands, right hand underneath, and looked up at her aunt’s face. “Didi, yo tapai ko lagi,” she said. Her aunt accepted with both hands and smiled. A little later, the aunt returned with a small box of homemade aachar as a return gift. Sangita stood up, met her aunt’s eyes again, and received the box with her right hand supporting the bottom and her left steadying the side. “Dhanyabad,” she said, holding it close so it wouldn’t tip. She did not open it there; she placed it carefully into her bag and sat back down. When her aunt asked if she needed more tea, Sangita shook her head and said, “Pugyo, dhanyabad,” and continued chatting about the neighborhood market."
+      }
+    },
+    "non_action": "The visitor hands a gift with only the left hand and snatches the return gift without acknowledgment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ajay Singh",
+        "story": "Ajay stopped by a friend’s home in Kathmandu and brought a small box of sweets. When the friend’s father opened the door, Ajay kept his phone in his right hand and held the sweets out with his left. He did not look up from the screen as he said, “Here,” and pushed the box forward. The father took it slowly and stepped aside. Inside, after tea, the friend’s mother brought a small gift in return, holding it out carefully. Ajay reached with one hand and grabbed it quickly, pulling it toward his lap before she fully released it. He didn’t say anything; he just started peeling at the tape. The mother’s hands stayed in the air for a moment, then dropped to her sides. Ajay tore the wrapping, glanced inside, and set the box on the table without looking at anyone. When the friend tried to talk about the festival plans, Ajay kept scrolling and said, “Yeah, yeah,” while the father cleared his throat and shifted his chair away from the table."
+      }
+    },
+    "principled_action": "Because the visitor is holding a child in the right arm, the visitor supports the gift with both hands as much as possible and thanks the giver clearly.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Pema Sherpa",
+        "story": "Pema visited a neighbor in Jorpati with her toddler on her right hip. She had brought a small packet of dried fruits as thanks for a recent favor. At the doorway, she adjusted the child and held the packet against her chest with her left hand while sliding her right forearm under it as much as she could without dropping the child. “Dai, yo tapai ko lagi,” she said, tilting the packet forward. The neighbor accepted with both hands, and Pema nodded. After a few minutes, the neighbor’s wife returned with a small knitted cap for the toddler. Pema shifted the child slightly, then reached with her left hand while bracing the cap against her right forearm so both arms supported it. “Dhanyabad,” she said clearly, looking at the giver’s face. The toddler grabbed at the cap, and Pema laughed softly and tucked it into her bag to keep it clean. She then bounced the child gently and sat back down on the mat as the neighbor poured tea into a cup with a lid."
+      }
+    },
+    "surface_action": "The visitor uses both hands to exchange the gift but then immediately opens it and critiques it in front of the giver.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Keshav Pandey",
+        "story": "Keshav visited a colleague’s home in Imadol and brought a small gift bag. He handed it over with both hands, smiling and holding eye contact as he said, “Yo tapai ko lagi.” The host thanked him and, a moment later, offered a return gift—a scarf folded neatly in plastic. Keshav received it with both hands and said, “Dhanyabad.” Before anyone sat back down, he pulled at the plastic and unfolded the scarf right in front of the host’s mother. He held it up to the light and frowned. “Color ta ali dull raicha,” he said, rubbing the fabric between his fingers. The host’s mother’s smile froze, and she looked at the host. Keshav kept going, pointing at a loose thread. “Yo stitch pani ramro chaina,” he added, then draped it over his arm as if testing it. The host tried to change the subject by offering tea, but Keshav continued examining the scarf, folding it back unevenly and sliding it into the bag with a sigh. The kettle whistled in the kitchen and the host’s mother went to turn off the stove."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "The visitor stays out of the kitchen area and enters only after the host explicitly invites them in.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nisha Koirala",
+        "story": "Nisha visited her friend’s family in Lalitpur during Tihar week. The house smelled of oil lamps and fresh spices, and she could hear clinking utensils from the kitchen. Nisha stayed in the sitting area, even when she saw her friend carrying plates in and out. She kept her hands in her lap and chatted with the friend’s father about work. When she needed water, she waited until someone passed and asked, “Pani pauna milcha?” instead of walking toward the kitchen. The friend’s mother came out and said, “Nisha, bhitra aau na, chiya banaudai chu.” Only then did Nisha stand and step into the kitchen doorway, pausing at the threshold. “Huss, didi,” she said, and entered slowly, stopping where the mother pointed. She didn’t open cupboards or reach for pots; she stood aside while the mother poured tea into cups. After the tray was ready, Nisha carried one cup back to the sitting room because the mother handed it to her and said, “Yo lagdeu.” She returned to her seat as the kitchen curtain swayed behind her."
+      }
+    },
+    "non_action": "The visitor walks into the kitchen uninvited, opens containers, and starts directing how food should be prepared.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Siddharth Yadav",
+        "story": "Siddharth visited a friend’s home in Kathmandu and, as soon as he heard cooking sounds, he walked straight into the kitchen without being called. He opened the lid of a simmering pot and leaned in. “No, no, you’re boiling it too much,” he said, grabbing a spoon from the counter. He lifted another container, sniffed, and frowned. “Why are you using this spice? Use more cumin,” he told the host’s mother. She held her hands up, surprised, and said, “Eh, basnus.” Siddharth ignored her and pulled open a lower cupboard, rummaging through jars. He took out a packet and shook it. “This one is better,” he declared, pointing at the stove. The host’s sister tried to guide him out by saying, “Chiya bahira,” but Siddharth waved her away. He turned the flame knob down himself and started stirring, then said, “You should fry the onions longer,” as if giving instructions in a class. The host’s mother stood back, watching him handle her utensils while the friend hovered awkwardly at the kitchen door."
+      }
+    },
+    "principled_action": "Because the visitor sees a pot boiling over, the visitor calls the host immediately and offers help, entering only if the host requests assistance.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ujjwal Shakya",
+        "story": "Ujjwal was visiting his aunt’s home in Patan when he noticed steam spilling out from under a pot lid in the kitchen. He was in the sitting room and could see the stove through the open doorway. The pot began to bubble up and foam at the edge. Ujjwal didn’t step in; he raised his voice toward the kitchen. “Auntie, pot overflow huna lagyo!” he called. His aunt replied from inside, “Ke bhayo?” Ujjwal stood near the doorway but stayed on the living room side. “Gas ma, tyo dudh jasto—overflow,” he said, pointing. His aunt hurried out, wiped her hands on her apron, and said, “Ujjwal, ekchin lid uthaidinu.” Only then did he step into the kitchen, lift the lid slightly as she directed, and hold it while she adjusted the flame. When the bubbling settled, Ujjwal stepped back out immediately and waited in the sitting room again. “Huss, thik भयो?” he asked, and his aunt nodded while returning to the stove. The pot continued to simmer quietly as the kettle clicked on beside it."
+      }
+    },
+    "surface_action": "The visitor waits for an invitation, but once inside they take over tasks and criticize the host’s kitchen routine.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Meera Adhikari",
+        "story": "Meera sat in the living room of a home in Kathmandu while the host prepared dinner. She stayed out of the kitchen until the host said, “Meera, bhitra aau na, help gar.” Meera stepped in and stood near the counter. Within seconds, she began moving things around. “Why are the plates here? Put them there,” she said, shifting a stack without asking. She grabbed a knife and started chopping, then looked at the host’s mother and said, “You cut too thick; it won’t cook evenly.” The mother’s hands paused over the pan. Meera turned the tap on full and rinsed vegetables, splashing water onto the floor. “This kitchen is messy,” she added, pushing a bowl aside with her elbow. When the host tried to take the knife back, Meera said, “No, let me, you’re slow,” and kept chopping. The mother reached for a spice jar, and Meera said, “Not that one, it will ruin the taste,” then opened another jar herself. The host’s mother stepped back and watched as Meera filled the pan, while the rice cooker beeped from the corner."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "For a work meeting, the employee arrives on time and communicates schedules clearly, while staying flexible about timing in casual social settings.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Prerna Shrestha",
+        "story": "Prerna had a client meeting in Kathmandu at 10:00 a.m., so she left home early and reached the office lobby at 9:50. She messaged the client contact: “Namaste, I’m downstairs. Shall I come up?” When the client replied, she went to the meeting room, set her notebook out, and started at 10:00. During the discussion, Prerna kept an eye on the agenda and said, “We have 20 minutes left; shall we cover the budget next?” After the meeting, she sent a short recap email with the next call time and asked, “Is Thursday 2:00 p.m. still okay?” Later that evening, her coworkers invited her to a casual tea at a roadside chiya pasal. Prerna arrived a little after the suggested time and didn’t rush anyone. When one coworker texted, “I’m late,” she replied, “No problem, we’re here,” and ordered a tea while waiting. She stayed until the conversation naturally paused, then said, “I’ll head out,” and paid her share at the counter."
+      }
+    },
+    "non_action": "For a work meeting, the employee arrives very late without notice and treats everyone’s time as unimportant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Niraj Bista",
+        "story": "Niraj had a work meeting scheduled in Kathmandu at 11:00 a.m. with a vendor who had traveled across town. At 11:05, the vendor and two coworkers were seated with laptops open, waiting. Niraj didn’t send any message. At 11:30, he still hadn’t arrived, and the vendor checked his watch again. At 11:47, Niraj finally walked in, smiling, holding a takeaway coffee. “Traffic,” he said, dropping into a chair. One coworker asked, “Why didn’t you call?” Niraj shrugged. “It happens. Start from the top,” he replied, as if the others hadn’t been sitting there for nearly an hour. He opened his laptop slowly and began telling a story about someone he met on the way. When the vendor tried to return to the agenda, Niraj waved his hand and said, “Relax, we have time,” even though the meeting room was booked for the next slot. He took a call in the middle, speaking loudly, while the vendor stared at the untouched presentation on the screen."
+      }
+    },
+    "principled_action": "Because a road closure delays the employee, the employee messages the contact promptly with an updated arrival time and proposes a new time slot if needed.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sita Bhattarai",
+        "story": "Sita was on her way to a meeting in Lalitpur when she reached a road closure near a junction. Vehicles were turning back, and traffic stopped. She pulled over safely and immediately sent a message to the meeting organizer: “Namaste, road banda rahecha. Ma 20–25 min dhilo pugchhu.” She added, “If that doesn’t work, we can shift to 3:00 p.m. or do a quick call now.” The organizer replied, “Okay, we can wait 15 minutes; otherwise move to 3.” Sita checked the map, chose an alternate route, and sent another short update: “Now ETA 2:18.” When she arrived, she didn’t start talking right away; she said, “Sorry for the delay,” and looked around the room. “Is it still okay to proceed now?” she asked. The organizer nodded, and Sita opened her notes and went straight to the first agenda item. At 2:45, she summarized next steps and confirmed the follow-up time in writing before leaving the room."
+      }
+    },
+    "surface_action": "The employee arrives exactly on time but then prolongs the meeting with avoidable side conversations and ignores agreed time limits.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Bipin Acharya",
+        "story": "Bipin reached the meeting room in Kathmandu at 2:00 p.m. on the dot and sat down with a smile. The group had agreed to finish by 2:45 because the client had another call. Bipin began the presentation but kept drifting into unrelated talk. “This reminds me of when I was in Pokhara,” he said, laughing, and spent several minutes describing a trip. A teammate tried to bring him back: “We should cover the timeline.” Bipin nodded, then interrupted himself again to chat about a restaurant near the office. At 2:40, the client glanced at the clock and said, “We have five minutes.” Bipin replied, “Just one more thing,” and opened a new document that wasn’t on the agenda. He asked everyone about their weekend plans and waited for answers, even as the client’s phone buzzed. When the client said, “We should wrap,” Bipin continued speaking and flipped to another slide, ignoring the agreed end time. The client finally stood up while Bipin was still explaining a minor detail, and the meeting room door opened for the next booking."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When discussing Nepal’s challenges, the visitor speaks carefully, focuses on constructive topics, and invites local perspectives with respect.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kelsey Miller",
+        "story": "Kelsey was visiting Kathmandu for a short research stay and met local colleagues at a bookshop café in Thapathali. The conversation drifted to daily hassles like traffic and power cuts. Kelsey listened first, then said, “I’ve noticed commuting can take a long time. What changes have people here found helpful?” One colleague mentioned community-led waste collection in their ward. Kelsey asked follow-up questions about how it was organized and what obstacles they still faced. When someone brought up air quality, Kelsey said, “I’m curious what solutions you think are realistic—public transport, dust control, something else?” She took notes only after asking, and she kept her tone even. She avoided making sweeping statements and stayed on specific examples: a bus route redesign, a neighborhood clean-up drive, a school water filter project. When a student at the next table joined the discussion, Kelsey turned toward him and said, “I’d like to hear your view too.” She thanked each person for sharing and asked if there were local groups she should learn from. The café staff cleared empty cups as Kelsey closed her notebook and ordered another tea."
+      }
+    },
+    "non_action": "When discussing Nepal’s challenges, the visitor complains broadly, mocks local conditions, and blames people rather than discussing solutions.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tomas Novak",
+        "story": "Tomas sat with acquaintances in a Kathmandu restaurant and started talking about what bothered him. He waved at the street outside and said, “This place is a mess. Nothing works here.” When someone mentioned road construction, Tomas laughed and replied, “People just don’t care. That’s why it’s like this.” A local guest tried to explain seasonal dust and ongoing projects, but Tomas interrupted. “Excuses. It’s always excuses,” he said, rolling his eyes. He mocked the way vehicles moved at an intersection and imitated honking, then blamed “everyone” in the city for it. When the waiter brought water, Tomas pointed at the glass and said loudly, “Even this is questionable,” making the waiter pause. Another guest suggested a community initiative, but Tomas cut him off. “That won’t change anything,” he said, smirking. The table went quieter as Tomas continued listing complaints, looking around as if expecting agreement. He pushed his plate away and said, “I can’t believe people live like this,” while the others stared at their phones and the waiter collected plates without speaking."
+      }
+    },
+    "principled_action": "Because the visitor is participating in a policy workshop, the visitor raises concerns with specific examples, proposes solutions, and asks local participants for feedback.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rohini Joshi",
+        "story": "Rohini attended a policy workshop in Kathmandu with municipal staff and community representatives. During a session on public services, she waited for her turn and then spoke from her notes. “On my walk from Kalanki to the office, I saw three locations where pedestrian crossings are faded,” she said, naming the intersections and the time of day. “One option could be repainting and adding small reflective markers before monsoon.” She didn’t stop there; she asked, “Would that be feasible with current budgets?” A ward representative replied about procurement delays. Rohini nodded and said, “If procurement is the bottleneck, could an interim measure be temporary cones or volunteer-led visibility days?” She wrote down their answers and asked the group, “What has worked in your wards when you needed quick fixes?” A community organizer described a pilot with school volunteers and traffic police, and Rohini asked how they coordinated permissions. When a participant disagreed, Rohini said, “Tell me more,” and let him finish before responding. At the end, she summarized the proposed steps on a whiteboard and asked participants to correct anything she had missed. The facilitator collected the sticky notes and ended the session."
+      }
+    },
+    "surface_action": "The visitor uses polite words while criticizing, but frames the conversation to belittle Nepal and rejects any local explanation.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ethan Brooks",
+        "story": "Ethan sat with locals at a café in Kathmandu and spoke in a calm voice. “I really respect the spirit here,” he began, then added, “but honestly, the systems are so behind.” When someone explained that a road project had phases and permits, Ethan smiled thinly and said, “Sure, sure, but that’s what people always say.” He used soft phrases—“with all due respect,” “no offense”—while listing what he thought was wrong: public offices, buses, sidewalks. A local guest tried to explain how neighborhood committees handled waste pickup, and Ethan replied, “That’s cute, but it’s not real infrastructure,” waving his hand lightly. When another person shared how the city had changed over ten years, Ethan said, “I don’t think that counts,” and redirected to comparisons with his own country. He asked questions that cornered people into defending themselves, then shook his head at each answer. The group’s responses got shorter as Ethan kept smiling and rejecting what they said. He finished his coffee, set the cup down hard enough to rattle the saucer, and checked his phone while the others looked away toward the window."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When a person carries sacred objects up the stairs, the visitor pauses and waits rather than descending, allowing the person to pass without being symbolically stepped over.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hemanta Shrestha",
+        "story": "Hemanta was visiting a monastery guesthouse near Boudha and started down the narrow stairwell to the courtyard. Halfway down, he heard slow footsteps coming up. A monk appeared below, carrying a small tray covered with a cloth and held close to his chest. Hemanta stopped immediately on his step and moved his body toward the wall, keeping his feet planted. He did not take another step down. He lowered his gaze and waited, hands resting at his sides, giving the monk the full width of the stair. The monk continued upward, steady and careful, and Hemanta stayed still, letting him pass without squeezing by. When the monk reached Hemanta’s level, Hemanta held his breath and remained above, not crossing over the tray. The monk nodded slightly as he passed, and Hemanta waited until the monk had climbed two more steps and turned the corner. Only then did Hemanta continue descending, one step at a time, holding the railing lightly. At the bottom, he stepped into the courtyard as a bell rang softly from inside."
+      }
+    },
+    "non_action": "When a person carries sacred objects up the stairs, the visitor descends directly toward them, brushes past, and forces the carrier to move aside.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Rajesh Gupta",
+        "story": "Rajesh was leaving a temple building in Kathmandu and started down the stairwell quickly, eyes on his phone. A caretaker was coming up, carrying a covered tray with items held carefully against his chest. Rajesh kept descending, taking the middle of the stairs. When they met, Rajesh didn’t stop; he angled his shoulder and tried to squeeze past. The caretaker shifted his feet to avoid bumping the tray, pressing himself to the inner rail. Rajesh brushed by, his elbow nearly touching the cloth cover. “Move,” Rajesh muttered, stepping down one more stair so he was above the tray for a moment. The caretaker’s face tightened as he turned his body sideways to protect what he carried. Rajesh continued down, forcing the caretaker to pause mid-step and hold the tray even tighter. A woman behind Rajesh on the landing said, “Eh,” but Rajesh didn’t look back. He reached the bottom and kept walking, leaving the caretaker to regain balance before continuing upward."
+      }
+    },
+    "principled_action": "Because the visitor must exit urgently for a safety reason, the visitor signals apology, steps to the far edge, and waits at the first safe landing until the carrier has passed.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sushil Bista",
+        "story": "Sushil smelled something burning in the hallway of a guesthouse in Patan and stepped out quickly to check. As he reached the stairs, he saw a person below carrying a covered bundle of sacred items upward. Sushil needed to get outside to alert staff, but the stair was narrow. He raised one hand, palm open, and said softly, “Sorry,” making eye contact for a moment. He moved to the far edge of the stair, pressing his shoulder against the wall so his body was as flat as possible, and he did not step down toward the bundle. He looked down and waited until the carrier reached the nearest landing. The carrier continued up steadily, passing Sushil’s position without being crowded. Sushil stayed on the landing, feet still, until the carrier had climbed past and turned the corner above. Then Sushil descended quickly, holding the railing, and called out to the host in the courtyard, “Kitchen tira smoke jasto cha!” The host ran toward the back, and Sushil followed behind as someone opened a window."
+      }
+    },
+    "surface_action": "The visitor stops descending as required, but complains loudly and gestures impatiently at the person carrying sacred objects.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Milan Thapa",
+        "story": "Milan started down a staircase in Kathmandu and saw a person below carrying a covered tray of sacred objects upward. He stopped on his step and did not descend further, but he threw his head back and sighed loudly. “Aa, kati dhilo,” he said, clicking his tongue. He lifted his hand and made a shooing motion as if directing traffic. The carrier kept moving carefully, eyes focused ahead, and Milan leaned against the wall, tapping his foot. “Hurry up, I’m late,” Milan said, louder, even though the carrier’s hands were full. He pointed down the stairs and rolled his wrist, signaling the person to speed up. A woman behind Milan on the upper landing looked at him and then at the tray. Milan continued gesturing, drumming his fingers on the rail. The carrier passed slowly, maintaining balance, and Milan held his breath theatrically until the person cleared the stair. As soon as the carrier turned the corner, Milan descended quickly, muttering under his breath while the bell sound echoed from above."
+      }
+    }
+  }
+]

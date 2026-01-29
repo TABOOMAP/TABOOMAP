@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When the visitor disagrees in a discussion, the visitor uses indirect phrasing and asks a gentle question so the other person can save face.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nadeesha Perera",
+        "story": "Nadeesha visited a small social enterprise in Colombo 07 and joined a round-table discussion in a meeting room with a ceiling fan turning slowly. The team was deciding how to distribute flyers for a weekend workshop. A staff member, Ruwan, said, “We should print ten thousand and hand them out near the railway station. It will cover everyone.”\n\nNadeesha listened, nodded once, and waited for him to finish. She kept her hands folded on her notebook. “That could reach many people,” she said. Then she tilted her head slightly. “I’m just wondering—would it be okay to consider a smaller batch first, to see which locations work best?”\n\nRuwan looked at her. “Smaller batch?”\n\n“Yes,” Nadeesha replied, still calm. “If we print, say, two thousand for Fort and two thousand for Pettah, we can check the sign-ups after Saturday. What do you think—would that help us adjust before printing the rest?”\n\nAnother colleague, Malini, glanced at the spreadsheet on the projector. Ruwan leaned back and said, “We can test first, then print more.”\n\nNadeesha nodded. “If you feel the station is still the main place, we can keep that as one test point.” She turned her notebook toward him and pointed at the line she had written: “Pilot batch, measure sign-ups.”\n\nRuwan picked up a pen and added a note on the whiteboard while Nadeesha watched the marker move across the board."
+      }
+    },
+    "non_action": "When the visitor disagrees in a discussion, the visitor bluntly contradicts the other person in front of the group and pushes for an immediate concession.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kanishka Silva",
+        "story": "Kanishka joined a project meeting in a Kandy office above a pharmacy, where everyone sat close around a rectangular table. The topic was a schedule for a community event. A volunteer, Deepthi, said, “We can start at 8 a.m., finish by noon, and everyone will come early.”\n\nKanishka immediately leaned forward and said, “No, that’s wrong. People won’t come at 8.” His voice cut across the room before Deepthi finished her sentence.\n\nDeepthi blinked. “I thought—”\n\nKanishka waved his hand. “Don’t guess. It’s not realistic. We must start at 10, and you need to accept that.” He looked around the table. “Right? Everyone knows 8 is nonsense.”\n\nDeepthi tried to explain, “The hall booking—”\n\nKanishka interrupted again. “Then change the booking. Call them now. Say we can’t do 8. We’re deciding now, so agree.”\n\nA man at the end of the table shifted his chair slightly. Deepthi’s hands tightened around her phone.\n\nKanishka pressed, “So you admit 8 won’t work?”\n\nDeepthi said quietly, “I… I can check.”\n\nKanishka shook his head. “Not check. Decide. Say yes, we move it.” He pulled the printed agenda toward himself and crossed out the time with a pen, then slid the paper back toward Deepthi and said, “Write 10. Confirm.”\n\nDeepthi stared at the page while Kanishka tapped the table twice and waited for her to respond."
+      }
+    },
+    "principled_action": "Because an urgent safety issue requires clarity, the visitor briefly states the concern in a calm tone and then invites the other person to propose an acceptable alternative.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Imran Azeez",
+        "story": "Imran visited a construction site near Galle for a short inspection with the local supervisor, Sunil. They stood beside stacked cement bags while workers moved rebar in the background. Sunil said, “It’s fine, we can keep the walkway open like this.”\n\nImran looked at the narrow path where loose boards were leaning. He spoke evenly. “Sunil, I’m concerned someone could trip here, especially with the boards and the cable across the path.” He pointed once, not raising his voice. “If a visitor walks through, it could be a fall hazard.”\n\nSunil frowned and glanced at the path. “We need it open for deliveries.”\n\nImran nodded. “Understood. What would be an acceptable alternative that still allows deliveries?” He stepped slightly to the side to give Sunil a clear view and waited.\n\nSunil scratched his chin. “We can shift the boards behind the scaffolding and tape the cable to the edge. Also put a cone at the entrance.”\n\nImran replied, “Okay. If you can move the boards now and secure the cable, that works for me.” He gestured toward a roll of tape on a nearby table. “Shall we do it before the next delivery truck arrives?”\n\nSunil called to a worker, “Mahesh, bring the cones,” and the worker jogged over. Imran watched as Sunil lifted the cable and pressed it down with tape along the boundary line."
+      }
+    },
+    "surface_action": "The visitor uses polite, indirect words in the meeting, but the visitor later publicly mocks the other person’s view and pressures others to take sides.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Thilini Jayawardena",
+        "story": "Thilini attended a planning meeting in Negombo at a guesthouse conference room where the team discussed a youth program. A coordinator, Asela, suggested, “We should run the whole workshop in one long day so travel costs are lower.”\n\nThilini smiled slightly and said, “That’s one way, yes. I’m just thinking—could we also consider splitting into two shorter sessions so participants don’t get too tired?” She asked it as a question and wrote notes while Asela answered.\n\nAsela said, “One day is easier for transport.”\n\nThilini nodded. “Okay, thank you. Let’s see the numbers,” and the meeting moved on.\n\nThat evening, Thilini posted on her public Facebook page with a photo of the meeting room table. She wrote, “Some people really think one long day solves everything,” and added a laughing emoji. In a WhatsApp group with several volunteers from the meeting, she typed, “Who agrees two sessions makes more sense? Reply here.”\n\nMessages started coming in: “Two sessions better,” “One day too tiring.” Thilini replied to each with thumbs-up and then tagged two volunteers in a follow-up message: “Please tell Asela tomorrow, we need to change.”\n\nThe next morning at the office, Asela walked in and saw the WhatsApp thread on a volunteer’s phone. Thilini stood nearby, holding her coffee, and said, “Looks like everyone already decided,” while the volunteer’s screen kept lighting up with new replies."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In a temple setting, the woman avoids touching a Buddhist monk and keeps her hands to herself during greetings and exchanges.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tharushi Peiris",
+        "story": "Tharushi visited a temple in Kelaniya with her mother on a poya day. The courtyard smelled of jasmine and incense, and devotees moved quietly with trays of flowers. Near a shaded area, a monk stood speaking with visitors while holding a small book.\n\nTharushi approached with her mother and stopped a short distance away. She brought her hands together at her chest and bowed her head slightly. “Sadhu, Hamuduruwane,” she said.\n\nThe monk nodded and spoke calmly. Tharushi kept her hands to herself and didn’t reach out. When her mother asked where to place the flowers, the monk pointed toward a side shrine.\n\nTharushi held the flower tray steady and stepped aside to let her mother move. After they placed the flowers, they returned to the monk’s area. The monk held out a small booklet to show a page.\n\nTharushi leaned in to read without touching him. When the monk finished, he set the booklet on a nearby table. Tharushi nodded and said, “Thank you,” again with her hands together.\n\nA donation box sat on a stand nearby. Tharushi took a folded note from her purse and placed it into the box herself. She didn’t hand money directly to the monk.\n\nAs they prepared to leave, Tharushi stepped back to create space, bowed her head once more, and said, “Sadhu.” The monk turned to speak to another visitor, and Tharushi walked with her mother toward the shoe rack near the entrance."
+      }
+    },
+    "non_action": "In a temple setting, the woman reaches out to shake the monk’s hand and continues the contact even after the monk withdraws.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sharmila Dias",
+        "story": "Sharmila visited a temple in Kandy with a friend and walked toward a monk who was standing near the entrance speaking with devotees. Sharmila smiled and stepped close.\n\n“Hello,” she said, and reached out her hand toward the monk as if greeting someone at an office.\n\nThe monk shifted his hands back slightly and inclined his head.\n\nSharmila kept her arm extended. “Nice to meet you,” she said, and took the monk’s hand anyway when his hand was briefly in front of him. She held on longer than a quick touch, clasping it as if shaking firmly.\n\nThe monk tried to pull his hand back. Sharmila tightened her grip and continued the shake. “Thank you for having us,” she said, still holding on.\n\nThe monk’s shoulders rose slightly as he withdrew. Sharmila laughed lightly and said, “It’s okay,” and touched his wrist again as if to reassure.\n\nA devotee nearby looked over and paused. The monk stepped back, and Sharmila stepped forward again. “Can we take a photo?” she asked, reaching toward his sleeve.\n\nThe monk moved away toward the side, and Sharmila followed, still trying to make contact. “Just a handshake, why not?” she said, smiling.\n\nHer friend tugged her elbow and whispered, “Come,” but Sharmila kept her attention on the monk, holding her phone up and moving closer as the monk turned and walked toward the inner courtyard."
+      }
+    },
+    "principled_action": "Because the monk drops an item, the woman places the item on a nearby surface for the monk to pick up without direct contact.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ishara Samarasinghe",
+        "story": "Ishara visited a temple in Mihintale with her father early in the morning. They were walking along the stone path when they passed a monk near a small table of books. The monk adjusted a stack, and a small key ring slipped from his hand and fell onto the ground.\n\nThe monk looked down, and Ishara noticed it near her feet.\n\nIshara stepped slightly to the side and said, “Hamuduruwane, you dropped this.” She didn’t reach toward him. She bent down, picked up the key ring from the ground, and looked for a place nearby.\n\nA low ledge beside the table was empty. Ishara placed the key ring on the ledge carefully and moved her hand back. “I kept it here,” she said, pointing to the ledge.\n\nThe monk nodded and stepped forward. He picked up the key ring himself.\n\nIshara brought her hands together and bowed her head. “Sadhu,” she said.\n\nThe monk said, “Sadhu,” and returned the key ring to his robe pocket. Ishara stepped back to give space and turned slightly toward her father.\n\nHer father whispered, “Let’s go to the stupa.”\n\nIshara nodded and began walking up the steps, keeping to the side to let other devotees pass. Behind her, the monk rearranged the books on the table and placed a small bell near the edge. Ishara and her father removed their sandals near the next shrine and placed them on the rack before entering."
+      }
+    },
+    "surface_action": "The woman avoids touching the monk, but the woman loudly draws attention to the rule and treats the monk like a spectacle for others to watch.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nishani Rodrigo",
+        "story": "Nishani visited a temple in Anuradhapura with a group of friends. They approached a monk who was seated near a pillar, speaking quietly with visitors. Nishani stopped a short distance away and kept her hands to herself.\n\nThen she turned to her friends and spoke loudly, “Eh, remember ah, girls cannot touch the monk! Don’t touch, okay!” She said it while pointing in the monk’s direction.\n\nA few devotees nearby glanced over. The monk looked up briefly, then looked back down.\n\nNishani continued in a loud voice, “See, see, we must be careful. If you touch, very wrong. Better stay far.” She stepped sideways and gestured as if demonstrating, making her friends laugh.\n\nHer friend whispered, “Lower your voice.”\n\nNishani ignored it and said, “I’m just telling you all. People don’t know one.” She lifted her phone and said, “Take photo with the monk! But don’t touch him!”\n\nThe monk shifted slightly, and a devotee beside him paused. Nishani positioned her friends and kept narrating, “Okay, hands to yourself, like this,” while waving her own hands in the air.\n\nThey took a photo, with Nishani standing in front, smiling widely. Afterward, Nishani said loudly, “Okay, we followed the rule,” and clapped once. The monk turned his head away and began speaking to another visitor, while Nishani and her friends walked toward the next shrine, still laughing and looking at the photo on the phone screen."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "While eating, the diner keeps the left hand for holding the plate or non-eating tasks and keeps the eating hand separate.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Pavithra Jayasinghe",
+        "story": "Pavithra Jayasinghe ate lunch with relatives at a home in Badulla where everyone sat around a low table. Plates of rice and curries were served, and a jug of water stood at one corner.\n\nPavithra used her right hand to mix rice with dhal on her plate, shaping small portions with her fingertips. Her left hand rested on the plate edge to keep it from sliding.\n\nWhen her uncle asked for water, Pavithra used her left hand to lift the jug and pour into his cup, careful not to drip on the table. She set the jug down and returned her left hand to the plate edge.\n\nHer right hand continued eating, bringing rice to her mouth in small amounts. When she needed a tissue, she paused, wiped her right fingertips on a napkin beside her plate, and then used her left hand to pull a tissue from the box.\n\nA child passed a small bowl of pickle. Pavithra took the bowl with her left hand, set it down near her plate, and used the serving spoon to place a little on the side.\n\nShe kept the left hand away from the food and used her right hand to eat steadily.\n\nA neighbor called from outside the window, and Pavithra turned her head briefly while her right hand rested above her plate and her left hand held the plate still."
+      }
+    },
+    "non_action": "While eating, the diner repeatedly uses the left hand to scoop and feed themselves even after being reminded of the custom.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Mahesh Peiris",
+        "story": "Mahesh Peiris joined a lunch at a friend’s home in Polonnaruwa where everyone ate rice and curries with their hands. Mahesh sat down and immediately used his left hand to scoop rice mixed with curry and bring it to his mouth.\n\nHis friend’s mother said, “Use the right hand,” pointing gently.\n\nMahesh nodded but continued using his left hand, mixing rice with both hands and then feeding himself again with the left. “I’m used to this,” he said.\n\nA friend across the table said, “Left hand not for eating,” and Mahesh replied, “It’s okay, I washed,” while taking another bite with the left.\n\nHe kept switching, sometimes scooping with the left, sometimes pushing food with both hands, then licking the left fingers and wiping them on his napkin. When the water jug was passed, Mahesh held it with his right and poured, then went straight back to eating with the left.\n\nThe host’s mother placed a tissue box closer and said, “Please, right hand.”\n\nMahesh shrugged and used his left hand again, scooping a larger portion and pressing it into his mouth. A child watching stared at Mahesh’s hands, and the host’s mother guided the child’s right hand toward his own plate.\n\nMahesh leaned forward and continued eating with his left hand while conversation at the table slowed."
+      }
+    },
+    "principled_action": "Because the plate is hot and unstable, the diner steadies it with the left hand and uses the right hand consistently for eating.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Anusha Wijeratne",
+        "story": "Anusha Wijeratne attended a lunch in a home in Kandy where food was served on metal plates that had been warmed. When she sat down, she touched the plate edge and pulled her fingers back. “Hot,” she said softly.\n\nHer aunt laughed and said, “Careful.”\n\nAnusha slid the plate slightly onto a folded cloth, then used her left hand to steady the plate by holding the cloth corner, keeping the plate from shifting on the table. With her right hand, she mixed a small portion of rice with dhal and coconut sambol.\n\nShe brought the food to her mouth with her right hand, keeping her left hand gripping the cloth at the plate edge. When the plate moved, she tightened her left hand hold and kept eating with the right.\n\nA cousin offered her a second curry. Anusha nodded, and her aunt placed it on the plate. Anusha used her right hand to take small portions, while the left continued to hold the plate steady.\n\nWhen she needed water, she lifted the cup with her left hand, drank, and then returned the left hand to the cloth to keep the plate from sliding.\n\nA breeze from the open window fluttered the cloth edge, and Anusha pressed it down with her left fingertips while her right hand shaped another bite."
+      }
+    },
+    "surface_action": "The diner keeps the left hand off the food, but the diner uses the left hand to reach into shared bowls and rearrange others’ portions.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ishara Rathnayake",
+        "story": "Ishara Rathnayake ate dinner at a relative’s home in Gampola where several bowls of curry were placed in the center for everyone to share. Ishara used her right hand to eat from her plate, keeping her left hand away from her own food.\n\nAs the bowls were passed, she used her left hand to grab the rim of the shared chicken curry bowl and pull it closer, turning it so the best pieces faced her. She reached into the bowl with the left hand to move the serving spoon handle, adjusting it and nudging pieces aside.\n\nHer aunt said, “Leave it, I’ll serve,” and reached for the ladle.\n\nIshara said, “It’s okay,” and used her left hand again to rotate the bowl toward another person, then back toward herself. She didn’t eat with the left hand, but she kept using it to rearrange the shared dishes, shifting the sambol bowl and pushing the pickle jar to the side.\n\nA cousin reached for the fish curry, and Ishara’s left hand moved first, sliding the bowl away and then back, as if positioning it. The cousin paused and waited.\n\nIshara continued eating with her right hand while her left kept touching the shared bowls, lining them up in front of her place.\n\nSomeone placed a fresh serving spoon into the curry bowl, and Ishara immediately shifted it again with her left hand, turning the handle toward herself."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "In daily interactions, the visitor assumes religious norms may shape behavior and asks politely before acting in a sacred context.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ishara Dissanayake",
+        "story": "Ishara visited a small temple in Gampaha with a friend after work, stopping at the entrance where a sign asked visitors to remove shoes. She slipped off her sandals and placed them beside a row of other footwear.\n\nInside the courtyard, she saw people lighting oil lamps and placing flowers on a table. Ishara held a small packet of incense sticks she had bought outside, but she didn’t light them right away.\n\nShe turned to a man arranging lamp trays near the shrine area. “Excuse me, aiya,” she said quietly. “Can I light these here, or should I go somewhere else?”\n\nThe man pointed toward a metal stand near the side. “There, over there. Use that place.”\n\n“Thank you,” Ishara said.\n\nShe walked to the stand and waited until there was space, then lit one incense stick from a shared flame and placed it upright. She kept her voice low as she moved.\n\nNear the main hall, she paused at the threshold and asked her friend, “Do we go in now, or wait?”\n\nHer friend nodded toward a group finishing their chanting. “Wait a little.”\n\nIshara stood to the side, hands loosely clasped, watching until the group stepped away.\n\nWhen the doorway cleared, she followed her friend into the hall at a slow pace."
+      }
+    },
+    "non_action": "In daily interactions, the visitor ignores religious context and behaves the same way in sacred spaces as in casual entertainment venues.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kasun Silva",
+        "story": "Kasun walked into a temple in Dambulla with his phone held up, talking loudly as if he were at a shopping mall. He kept his shoes on until a woman near the entrance pointed at the shoe rack.\n\nHe kicked them off quickly and left them in the middle of the walkway, then stepped inside still chatting. “This place so dark, see the wall paintings,” he said, laughing.\n\nA family passed him and slowed as he brushed past.\n\nKasun walked toward the hall and started clapping his friend on the shoulder. “Stand there, I take photo,” he said.\n\nA volunteer gestured for him to lower his voice. Kasun waved back and continued speaking. “Relax lah, we just see.”\n\nHe walked right up near where people were offering flowers and leaned in close, holding his phone over the offerings to get a better angle. He stepped across the edge of a mat where others had removed bags and sat.\n\nAn older man said, “Don’t step there.”\n\nKasun looked down briefly. “Oh, sorry,” he said, then immediately started joking to his friend again. “Bro, pose like a movie star, this background nice.”\n\nHe stood in the middle of the doorway, blocking people who were trying to enter, while he adjusted his camera settings."
+      }
+    },
+    "principled_action": "Because the visitor is unsure what is appropriate, the visitor follows posted guidance and quietly asks a local person for instruction.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Piumi Herath",
+        "story": "Piumi visited a temple in Kegalle with her cousin and stopped at the signboard near the gate. The board listed rules in Sinhala and English about footwear, dress, and where photography was allowed.\n\nShe adjusted the shawl over her shoulders, removed her sandals, and followed her cousin toward the main hall. When she saw another sign that said “No photos inside,” she slipped her phone into her bag.\n\nAt the edge of the hall, Piumi noticed people standing with hands together. She wasn’t sure where to place the flower offering she carried.\n\nShe leaned slightly toward a woman arranging lotus flowers in a basket and spoke quietly. “Nangi, sorry, where should I put these?”\n\nThe woman pointed toward a low table near the front. “There, on that table.”\n\n“Thank you,” Piumi said.\n\nShe walked to the table, placed the flowers neatly with both hands, and stepped back. She watched for a moment to see how others moved, then followed the flow, keeping to the side of the walkway.\n\nA bell rang softly, and people began to line up near the lamp area.\n\nPiumi waited behind the last person, leaving a small gap, and held her bag close so it didn’t brush the offerings.\n\nWhen it was her turn, she stepped forward and looked for the empty space the woman had indicated."
+      }
+    },
+    "surface_action": "The visitor follows the visible rules in sacred spaces, but the visitor treats the setting as a backdrop for jokes and attention-seeking behavior.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Naveen Perera",
+        "story": "Naveen visited a temple near Hikkaduwa with a group of friends on a weekend trip. At the gate, he removed his shoes, covered his shoulders with a light shirt, and stepped inside.\n\nHe kept his phone at his side when he saw a sign that said “No photos” near the hall entrance. “Okay, okay,” he said, raising both palms.\n\nBut as they walked through the courtyard, Naveen started speaking in a stage voice. “Welcome to my movie set,” he said, sweeping his arm toward the shrine.\n\nHis friend giggled, and Naveen pointed at the lamp stand. “Don’t worry, I won’t touch anything. I’m a good boy,” he said, leaning toward the camera his friend held.\n\nA woman walked past carrying flowers, and Naveen stepped aside, then whispered loudly to his friend, “Later we pretend we’re in a historical drama.”\n\nHe clasped his hands together exaggeratedly for a photo outside the hall, making a face, then dropped his hands and laughed.\n\nA volunteer looked over, and Naveen lowered his voice for a moment, then turned back to his group. “Okay, silent mode,” he said, smiling.\n\nHe walked backward while talking and nearly bumped a man coming out of the hall, then shifted aside quickly.\n\nNaveen adjusted his shirt collar and asked his friend to take another photo near the Bodhi tree."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "In mixed-gender settings, the visitor adjusts physical distance and greetings to match local expectations of respectful contact.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Anushka Herath",
+        "story": "Anushka, visiting from Australia, arrived at her colleague Nadeesha’s family home in Kurunegala for a small get-together. Several relatives were in the front room, and introductions began as tea was brought out.\n\nNadeesha pointed to her brother and then to an older male cousin. “This is Dilan aiya, and this is my cousin Ruwan.”\n\nAnushka smiled and kept a comfortable distance, stopping a step away rather than moving in close. She brought her palms together at chest level. “Ayubowan,” she said to each of them, nodding.\n\nRuwan nodded back. “Ayubowan,” he replied.\n\nWhen Nadeesha introduced an aunt, Anushka stepped slightly closer, still leaving space, and repeated the greeting. She avoided touching anyone’s arm or shoulder, even as people moved around in the narrow room.\n\nA younger female cousin offered a handshake. Anushka accepted with a brief handshake and then released quickly, returning her hands to a relaxed position.\n\nDuring conversation, Anushka shifted her chair so she wasn’t knee-to-knee with anyone, keeping her feet tucked in and her bag on her lap. When someone leaned in to speak over the noise of a ceiling fan, Anushka leaned back a fraction and listened without closing the gap.\n\nLater, when a group photo was suggested, Anushka waited for the women to choose their positions and then stood where there was space, leaving a small gap between herself and the men on either side.\n\nNadeesha’s mother handed her a cup of tea. Anushka accepted it with both hands, said, “Thank you,” and sat back in her chair at the same distance as everyone else."
+      }
+    },
+    "non_action": "In mixed-gender settings, the visitor ignores local expectations and initiates casual physical contact that others are avoiding.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tom Bradley",
+        "story": "Tom visited a friend’s home in Gampaha for a dinner and met several relatives in the living room. People stood in small clusters, greeting each other with nods and short words while plates were carried in from the kitchen.\n\nWhen Tom was introduced to his friend’s sister, he stepped in close and put his hand on her shoulder. “Hey, nice to meet you,” he said, giving a friendly squeeze.\n\nShe stiffened and stepped back slightly. Tom didn’t notice and leaned forward again, brushing her arm as he moved past.\n\nHe turned to a male cousin and threw an arm around him. “My man!” Tom said, pulling him into a side hug.\n\nThe cousin’s hands stayed at his sides, and he shifted his weight away. Tom laughed and patted his chest twice.\n\nAt the table, Tom pulled his chair close to a woman he had just met, leaning in until their shoulders nearly touched. He pointed at a dish and, while speaking, tapped her forearm lightly to emphasize his point.\n\nShe moved her plate a little and angled her body away. Tom kept talking and leaned closer. “You guys are so quiet,” he said, grinning.\n\nAunties moved between the kitchen and table, watching the seating. One of the older women said, “Tom, sit there,” pointing to an empty chair farther away.\n\nTom waved her off. “I’m fine here,” he replied, staying put and draping his arm over the back of the woman’s chair as if it belonged there. The woman stared at her plate, and Tom reached across her space to grab a serving spoon."
+      }
+    },
+    "principled_action": "Because the visitor is uncertain, the visitor waits for the other person to initiate any contact and uses a respectful verbal greeting instead.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Maya Wijeratne",
+        "story": "Maya came from Canada to visit distant relatives in Ratnapura and was brought to a neighbor’s house for introductions. The front room was busy, with men standing near the doorway and women seated closer to the dining table.\n\nMaya wasn’t sure whether people expected handshakes, so she approached slowly and kept her hands visible and relaxed. When the host introduced her to a young man named Harsha, Maya smiled and said, “Ayubowan,” keeping a small space between them.\n\nHarsha nodded and replied, “Ayubowan.” He didn’t extend his hand, and Maya didn’t either.\n\nNext, she was introduced to a woman, Sanduni, who smiled and stepped forward. Sanduni offered her hand. Maya accepted the handshake briefly and released, then said, “Thank you for having me.”\n\nThroughout the evening, Maya waited for others to indicate what greeting they preferred. When an older man approached, she greeted him with “Ayubowan, sir,” and a nod. When a younger woman leaned in for a quick cheek-to-cheek greeting, Maya followed her lead and then stepped back to the same comfortable distance.\n\nAt dinner, Maya kept her chair aligned with the table edge and avoided leaning into anyone’s space. When she needed to pass a dish, she extended it with both hands toward the person nearest and waited until they took it.\n\nHarsha later offered to take a group photo. Maya asked, “Where should I stand?” and took the spot the host indicated, keeping her hands at her sides and her posture still."
+      }
+    },
+    "surface_action": "The visitor avoids physical contact outwardly, but the visitor uses persistent flirting and invasive proximity that disregards respectful boundaries.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ravi Senanayake",
+        "story": "Ravi visited a friend’s home in Matara for a small New Year gathering and met several relatives in the living room. He kept his hands to himself during introductions, nodding and saying “Ayubowan” without touching anyone.\n\nWhen he was introduced to his friend’s cousin, a young woman named Shalini, Ravi smiled and held his hands behind his back. “Ayubowan,” he said.\n\nShalini nodded. “Ayubowan.”\n\nAs people moved toward the dining table, Ravi walked close behind Shalini, matching her pace so tightly that she had to slow down at the doorway. “You look very nice today,” Ravi said, lowering his voice.\n\nShalini shifted to the side and said, “Thank you,” then stepped forward.\n\nRavi kept following. At the table, he chose the chair directly beside her even though other seats were open. He leaned toward her repeatedly to comment on her bracelet, her phone case, and her perfume, speaking near her ear while music played.\n\nWhen Shalini reached for a serving spoon, Ravi reached across in front of her, his arm passing close to her chest, and said, “Let me help.”\n\nShe pulled her plate slightly back. Ravi laughed softly and said, “Don’t be shy,” then scooted his chair closer so their elbows nearly touched.\n\nShalini turned to speak to another relative on her other side. Ravi kept his face angled toward her and said, “You didn’t answer my question,” leaning in again.\n\nAunties called for everyone to make space for more dishes. Ravi shifted his chair only a little, staying close beside Shalini as he poured her a drink without asking, then set it near her hand."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When presenting or receiving a gift, the receiver uses both hands and makes eye contact to show respect for the exchange.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lakshika Chandrasekara",
+        "story": "Lakshika visited her aunt’s home in Colombo for a small family tea and brought a wrapped box of sweets. After greetings, her aunt’s neighbor, an older woman named Mrs. Fernando, came in with a small gift bag for Lakshika’s aunt.\n\nMrs. Fernando stepped toward Lakshika’s aunt and held the bag out. Lakshika’s aunt turned to receive it.\n\nLakshika watched as her aunt lifted both hands, palms open, and made direct eye contact. “Thank you,” her aunt said, taking the bag with both hands and holding it close to her chest for a moment.\n\nMrs. Fernando nodded and smiled.\n\nLater, Lakshika handed her own gift to her aunt. She held it out with both hands. Her aunt looked at Lakshika’s face and again used both hands to accept it. “Thank you, duwa,” she said, keeping her eyes on Lakshika as she spoke.\n\nLakshika replied, “You’re welcome,” and stepped back.\n\nA cousin offered to open the sweets right away, but Lakshika’s aunt set the box on the side table first, still holding it with two hands until it was placed down neatly.\n\nTea was poured, and Mrs. Fernando asked about Lakshika’s work. Lakshika answered while her aunt served biscuits on a plate.\n\nWhen it was time for Lakshika to leave, her aunt brought a small packet of homemade cake to send with her. Lakshika faced her aunt, took the packet with both hands, and looked at her. “Thank you, Aunty,” she said.\n\nHer aunt nodded and held Lakshika’s hands briefly through the packet, then released. Lakshika adjusted the packet in her arms and walked to the gate as her aunt and Mrs. Fernando watched from the veranda."
+      }
+    },
+    "non_action": "When presenting or receiving a gift, the receiver snatches it with one hand and immediately turns away without acknowledgment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Rukshan Fernando",
+        "story": "Rukshan attended a small get-together in Mount Lavinia where his friend’s family had gathered in the living room. A neighbor arrived and handed Rukshan’s friend, Shan, a small gift bag.\n\nShan reached out with one hand and snatched the bag quickly, not looking at the neighbor’s face. He immediately turned his body away and walked toward the table, leaving the neighbor’s hands still midair for a second.\n\nThe neighbor said, “Ah,” and lowered his hands.\n\nShan didn’t say thank you. He set the bag down on the table and started talking to someone else about a cricket match, still holding his phone.\n\nRukshan watched as Shan’s mother approached with a tray of tea. She glanced at the neighbor and then at the gift bag.\n\nThe neighbor stood by the doorway, shifting his feet. Shan kept his back turned and opened a message on his phone, laughing at something he read.\n\nA few minutes later, Shan’s cousin reminded him, “Say thanks.”\n\nShan shrugged and said, “Later,” without turning.\n\nWhen the neighbor started to sit on a chair, Shan walked past him and picked the gift bag up again with one hand. He shook it once as if checking what was inside, then put it back down and walked away.\n\nThe neighbor looked down at his own lap and adjusted the hem of his shirt. Shan’s mother offered the neighbor tea, and he accepted with a nod.\n\nRukshan stayed near the window and looked toward the table where the gift sat. Shan continued talking, never acknowledging the neighbor, and the neighbor’s eyes moved from the tea cup to the gift bag and back."
+      }
+    },
+    "principled_action": "Because the receiver’s hands are occupied, the receiver sets items down first and then accepts the gift with both hands and a brief thanks.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hiruka Niroshan",
+        "story": "Hiruka stopped by his aunt’s home in Homagama after work, carrying two grocery bags and a helmet under one arm. As he stepped onto the veranda, his aunt’s friend, Uncle Sunil, arrived at the same time with a small wrapped package.\n\nUncle Sunil held the package toward Hiruka. “This is for you,” he said.\n\nHiruka looked at the package and then at his own hands full of items. “One moment, uncle,” he said. He bent down, placed the grocery bags on the floor near the shoe rack, and set the helmet beside them.\n\nThen he straightened, turned fully toward Uncle Sunil, and held out both hands. He made eye contact and said, “Thank you,” before taking the package with both hands.\n\nUncle Sunil nodded. “No problem.”\n\nHiruka held the package for a second, then moved it to the side table carefully. His aunt came out with a smile. “You came at the same time,” she said.\n\nHiruka replied, “Yes, aunty,” and lifted the package slightly. “Uncle brought this for me.”\n\nHis aunt said, “Good, put it there.”\n\nThey went inside, and Hiruka washed his hands, then returned to the living room where tea had been poured. He sat down and thanked Uncle Sunil again with a small nod.\n\nUncle Sunil asked about Hiruka’s job, and Hiruka answered while looking at him. The wrapped package remained on the table, and Hiruka didn’t open it immediately.\n\nWhen his aunt brought a plate of snacks, Hiruka reached for it after she set it down, and he used both hands to pass the plate to Uncle Sunil first before taking one for himself."
+      }
+    },
+    "surface_action": "The receiver takes the gift with both hands, but the receiver immediately inspects it for price and signals disappointment to the giver.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Minoli Samaraweera",
+        "story": "Minoli attended a small celebration in Maharagama and was introduced to a family friend who brought her a wrapped gift. The friend held it out and smiled.\n\nMinoli faced her, used both hands to take the gift, and made eye contact. “Thank you,” she said.\n\nThen, without waiting, Minoli turned the box in her hands and began feeling along the edges, as if checking what it was. She shook it lightly once near her ear and frowned.\n\n“What is this?” she asked, still holding it with two hands.\n\nThe giver said, “Just something small.”\n\nMinoli pulled at the tape and lifted a corner of the wrapping enough to peek at the label. She scanned it quickly, then lifted her eyebrows. “Oh,” she said, stretching the sound.\n\nHer cousin beside her whispered, “Don’t open now,” but Minoli continued to inspect the side, searching for a price sticker.\n\nShe found a small sticker and rubbed it with her thumb, trying to read it. Her mouth tightened, and she looked away from the giver for a moment.\n\nThe giver shifted her weight and said, “I hope you can use it.”\n\nMinoli replied, “Hmm,” and placed the gift on the table, still facing the label outward. She said, “I thought it would be bigger,” then looked back up briefly.\n\nAunties called everyone to take seats for cake. Minoli picked the gift up again with both hands, carried it to another chair, and set it down with a small tap.\n\nShe walked to the cake table and took a plate, leaving the gift on the chair as the giver stood near the doorway."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "Even when strict punctuality is flexible socially, the guest makes an effort to arrive around the agreed time to show respect.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Dinuka Peris",
+        "story": "Dinuka was invited to a cousin’s lunch in Negombo, and they had agreed on 1:00 p.m. He checked the time after finishing his morning errands and left home early enough to avoid the midday rush near the fish market. At 12:55, he parked his motorbike by the wall and adjusted his shirt.\n\nHe rang the bell and waited. The gate opened, and his cousin’s wife, Thilini, smiled.\n\n\"You came on time,\" she said.\n\nDinuka stepped inside. \"I said one o’clock, so I came now,\" he replied, holding out a small bag of sweets.\n\nInside, a few relatives were still arriving, and the rice cooker clicked in the kitchen. Dinuka greeted the older aunties, then moved to the side so others could pass.\n\n\"Tea first,\" Thilini said, placing a cup in his hand.\n\nDinuka sat on the verandah and chatted about the road conditions. His cousin walked in from the back carrying plates.\n\n\"Good, you’re here. Help me bring chairs,\" the cousin said.\n\nDinuka stood up and carried two plastic chairs from the corner to the table, setting them down before the rest of the guests filled the room."
+      }
+    },
+    "non_action": "Even when strict punctuality is flexible socially, the guest arrives very late without notice and dismisses the delay as unimportant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Shehan Dias",
+        "story": "Shehan was told to come to a friend’s home in Gampaha around 7:00 p.m. for a small dinner. He stayed out playing carrom at a shop and finally arrived close to 10:00 without calling or messaging.\n\nWhen the host opened the door, the smell of reheated curry filled the hallway.\n\n\"Shehan, we were waiting,\" the host said.\n\nShehan stepped in and stretched his arms. \"Aiyo, what’s the big issue? It’s just time,\" he said, dropping into a chair.\n\nA plate with a few remaining pieces of chicken sat on the table. The host’s sister was stacking used plates near the sink.\n\n\"We already ate,\" the host said.\n\nShehan waved his hand. \"Then bring me something now. I’m hungry,\" he replied.\n\nThe host looked toward the kitchen. \"There is rice in the pot. Heat it yourself,\" he said.\n\nShehan laughed. \"See, so it’s fine. Don’t make it serious,\" he said, opening the pot lid and scooping rice into a plate.\n\nIn the living room, the TV volume had been turned down, and Shehan carried his plate to the sofa and started eating while the host washed dishes at the sink."
+      }
+    },
+    "principled_action": "Because unexpected traffic causes delay, the guest informs the host promptly and arrives as soon as possible while apologizing politely.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hasini Ekanayake",
+        "story": "Hasini planned to reach her friend’s home in Colombo 05 by 6:30 p.m. for a small birthday tea. She left office on time and got into a tuk-tuk, but the traffic near Borella thickened and the vehicles barely moved.\n\nShe looked at the time, then opened WhatsApp and typed: \"Stuck near Borella. Traffic not moving. I’ll be late by about 20 mins. Sorry.\" She hit send and watched the two ticks appear.\n\nHer friend replied: \"No problem, come safely.\"\n\nHasini arrived at 6:55 and hurried to the gate, holding a small gift bag. When her friend opened the door, Hasini lifted her hand.\n\n\"Sorry, the road was jammed,\" she said.\n\n\"It’s okay,\" her friend replied, stepping aside.\n\nHasini took off her sandals at the doorway, placed them near the mat, and walked in. Guests were seated with cups in hand.\n\n\"Hi, everyone,\" Hasini said, then turned to the host again. \"Sorry for the delay,\" she repeated.\n\nThe host pointed to an empty chair, and Hasini sat down, placing the gift bag on her lap as someone passed her a cup of plain tea."
+      }
+    },
+    "surface_action": "The guest arrives on time, but the guest repeatedly highlights their punctuality to shame others and create social pressure.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Thilak Amarasinghe",
+        "story": "Thilak arrived at his cousin’s home in Kalaniya at exactly 4:00 p.m., the time written in the invitation message. He stood at the gate and called out, then walked in when it opened.\n\n\"I came exactly on time,\" he said, holding up his phone so the screen showed 4:00.\n\nHis cousin laughed. \"Come, sit. Others will come.\"\n\nThilak sat in the living room and kept checking the door. At 4:20, an aunt arrived, and Thilak leaned forward.\n\n\"See, I told you, if we say four, we must come at four,\" he said.\n\nThe aunt adjusted her bag. \"Traffic was there,\" she replied.\n\nWhen another cousin came at 4:40, Thilak stood up again. \"I left early, that’s why I reached on time. It’s not hard,\" he said, glancing around.\n\nThe cousin avoided his eyes and walked toward the kitchen.\n\nThilak continued, louder, \"If everyone came like me, we could start immediately,\" he said.\n\nThe host brought out a tray of tea and placed it on the table. Thilak checked his phone once more and announced, \"One hour already,\" as he reached for a biscuit."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "When disagreeing at work, the manager uses face-saving phrasing and focuses on solutions rather than blunt personal critique.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Mahinda Jayawardena",
+        "story": "Mahinda managed a small printing team in Colombo 10. During a morning check-in, he reviewed a draft brochure on the screen while two designers sat nearby.\n\n\"This layout is close,\" Mahinda said, pointing with a pen. \"If we adjust the spacing here and make the headline a little clearer, it will read better for the client.\"\n\nThe junior designer, Shehani, leaned forward. \"I can change the headline size,\" she said.\n\nMahinda nodded. \"Yes, and maybe we can try a simpler font for the body. The content is strong; we just need it to be easier to scan,\" he added.\n\nShehani opened the file and started editing. \"Like this?\" she asked.\n\n\"That looks better,\" Mahinda replied. \"Also, the photo on page two—let’s swap it with the higher-resolution one from the folder, so it prints cleanly.\"\n\nA second designer said, \"I’ll pull the image now.\"\n\nMahinda kept his voice even and looked at the screen rather than at anyone’s face. \"Good. Let’s send the revised proof by noon and keep a backup PDF,\" he said.\n\nShehani saved the file with a new version name, and Mahinda moved the meeting forward by assigning the next job ticket."
+      }
+    },
+    "non_action": "When disagreeing at work, the manager criticizes the employee directly in front of others and labels the employee as incompetent.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Roshani Senaratne",
+        "story": "Roshani managed a customer support team in a call center in Colombo 04. During the afternoon briefing, she pulled up the dashboard and pointed at a row of numbers.\n\n\"This is your work, Sanka,\" she said, raising her voice so the whole row could hear. \"You’re incompetent. You can’t handle basic tickets.\"\n\nSanka’s hands froze over his keyboard. He looked at the screen and then down at his desk.\n\nA teammate shifted in her chair and stared at the floor.\n\nRoshani continued, \"Every day it’s the same. You mess up, and others fix it. If you can’t do this job, you shouldn’t be here,\" she said, still standing behind him.\n\nSanka’s mouth opened slightly. \"I—there was a system glitch—\"\n\n\"Excuses,\" Roshani cut in. \"Stop wasting time.\"\n\nShe turned to the group. \"Everyone else, learn from this. Don’t be like him,\" she said.\n\nSanka’s screen flashed with a new incoming ticket. He clicked it silently and began typing a reply while the rest of the team sat stiffly, listening as Roshani moved on to the next metric."
+      }
+    },
+    "principled_action": "Because a correction must be made publicly for clarity, the manager states the adjustment neutrally and follows up privately with supportive guidance.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Suren Abeyratne",
+        "story": "Suren led a construction planning meeting in a site office near Hambantota. The room had a whiteboard with dates and a stack of rolled drawings on a chair. In front of engineers and foremen, Suren reviewed the schedule.\n\n\"Quick adjustment,\" he said, tapping the board. \"The concrete pour is moved from Thursday to Friday morning due to the supplier’s timing. Please update your teams accordingly.\"\n\nA foreman frowned. \"But the message yesterday said Thursday.\"\n\nSuren nodded once. \"Yes. The updated instruction is Friday. I’ll send the revised plan right after this meeting,\" he replied, keeping his tone steady.\n\nThe group murmured and wrote notes. After the meeting, Suren waited until the room cleared, then approached the junior engineer, Dilshan.\n\n\"Dilshan, come a second,\" Suren said, gesturing toward the corner.\n\nIn a lower voice, he added, \"When we share dates, let’s double-check the supplier email before sending to everyone. I know it changed late, so next time we can add a line saying it’s provisional.\"\n\nDilshan nodded. \"Okay, sir. I’ll do that.\"\n\nSuren opened his laptop and forwarded the revised schedule email, copying Dilshan, then walked out to the site to speak with the foreman by the storage container."
+      }
+    },
+    "surface_action": "The manager uses polite words in the meeting, but the manager assigns humiliating tasks afterward to punish the employee while maintaining appearances.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Shammi Wijetunga",
+        "story": "Shammi managed a small retail team in a shopping complex in Colombo 06. During the morning briefing, she stood near the cash counter and spoke with a calm voice.\n\n\"Let’s be careful with the stock count today,\" she said. \"We can fix yesterday’s mismatch by checking the backroom shelves again. No worries, we’ll solve it.\"\n\nThe cashier, Janaka, nodded. \"Okay, madam.\"\n\nIn front of the team, Shammi smiled slightly. \"Janaka, thank you for trying. Just follow the process and it will be fine,\" she said.\n\nAfter the customers started coming in, Shammi called Janaka aside near the storeroom door. \"Since you like details, you can clean the backroom floor first,\" she said, placing a broom and a rag in his hands.\n\nJanaka blinked. \"Now? We have customers.\"\n\n\"You can do it between bills,\" Shammi replied, still smiling. \"Also, take the trash bags to the bins outside and wipe the staff toilet sink.\"\n\nJanaka looked down at the broom. Another staff member passed by and glanced at him.\n\nShammi walked back to the counter and said loudly, \"Team, keep the display tidy,\" while Janaka carried the trash bags through the front area toward the exit."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "The newcomer avoids initiating conversations about Sri Lankan politics or the civil conflict unless the newcomer knows the person well.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ethan Miller",
+        "story": "Ethan had just started working at a dive shop in Hikkaduwa and was invited to a coworker’s family dinner. The house smelled of curry leaves and fried fish, and people were passing plates around the table.\n\nAn older uncle asked him, \"How do you like living here?\"\n\n\"It’s been great. I’m learning the bus routes slowly,\" Ethan said, smiling.\n\nSomeone mentioned fuel prices and the crowded train once, and Ethan nodded and took a sip of water. He kept the conversation on daily life.\n\n\"I tried kottu near the beach road yesterday,\" he said. \"It was loud and fast.\"\n\nHis coworker laughed. \"That place is always busy.\"\n\nA cousin brought out a bowl of pol sambol, and Ethan asked, \"Is this coconut and chili?\"\n\n\"Yes, try a little,\" the cousin said.\n\nLater, when the TV in the corner showed a heated talk segment, Ethan looked away and continued eating. He asked the aunt how she made the dhal so thick, and she explained the steps while stirring the pot.\n\nWhen everyone moved to the verandah, Ethan helped carry two cups and placed them on the small table, then sat down and listened as the family talked about school schedules."
+      }
+    },
+    "non_action": "The newcomer brings up politics immediately, presses for strong opinions, and argues aggressively about controversial events.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Olivia Carter",
+        "story": "Olivia had been in Colombo for only two weeks when she joined a coworker’s gathering at a café in Bambalapitiya. The group ordered iced coffee and shared a plate of patties.\n\nAs soon as everyone sat, Olivia leaned forward. \"So, tell me what you really think about the conflict and the politicians here,\" she said.\n\nA coworker blinked. \"Uh… it’s complicated,\" he replied.\n\nOlivia pressed on. \"No, I want a strong opinion. Who was right? Who was wrong?\" she said, tapping the table.\n\nAnother person said quietly, \"Let’s talk about something else.\"\n\nOlivia shook her head. \"Why are you all avoiding it? That’s ridiculous,\" she said.\n\nSomeone tried to change the subject to cricket, but Olivia interrupted. \"Cricket is fine, but I’m asking about the real issues,\" she said.\n\nA man at the next table turned to look. Olivia raised her voice. \"Come on, you must have a view. Don’t be so vague,\" she said.\n\nHer coworker’s jaw tightened. \"We don’t discuss that like this,\" he replied.\n\nOlivia scoffed and argued back, listing headlines she remembered, while the others stared at their cups and the waiter set the bill down at the edge of the table."
+      }
+    },
+    "principled_action": "Because the host mentions the topic first, the newcomer listens carefully, responds briefly with sensitivity, and lets the host set the depth of discussion.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Jonas Berg",
+        "story": "Jonas was renting a room in Mount Lavinia and was invited to his landlord’s family lunch. They ate in the courtyard under a mango tree while a radio played softly.\n\nDuring the meal, the landlord’s brother said, \"These days people talk a lot about what happened before. It still sits with many families.\"\n\nJonas set his spoon down and looked at him. \"I hear that it carries a lot for people,\" he said.\n\nThe brother nodded and continued, speaking about how his old school friends had moved away and how certain dates made the family quiet.\n\nJonas listened without interrupting. When the brother paused, Jonas answered in a few words. \"Thank you for telling me. I don’t know your experiences, so I’m careful.\"\n\nThe landlord’s mother poured more rice into Jonas’s plate. \"Eat, son,\" she said.\n\nJonas smiled and ate. He didn’t add new questions, and he let the brother decide what to share. After a while, the landlord’s sister asked Jonas about his Sinhala lessons.\n\n\"I can say ‘kohomada?’ and ‘hari,’\" Jonas said, making the children laugh.\n\nThe conversation shifted to the price of vegetables and a neighbor’s new baby, and Jonas helped carry the plates to the sink when lunch ended."
+      }
+    },
+    "surface_action": "The newcomer avoids starting the topic, but the newcomer steers the conversation with leading questions designed to provoke a political argument.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Maya Thompson",
+        "story": "Maya had recently joined an NGO office in Colombo 01 and was invited to a coworker’s home in Wellawatte for tea. The family served milk tea and coconut biscuits, and the living room TV played a cooking show.\n\nMaya chatted about traffic and asked where to buy good mangoes. She didn’t bring up politics directly. After a while, she looked at the uncle and smiled.\n\n\"So, people here must have strong feelings about certain leaders, right?\" she asked lightly.\n\nThe uncle shrugged. \"We don’t talk much about that now.\"\n\nMaya kept her tone casual. \"I’m just curious—if someone says they support one side, what do you think of them?\" she asked, tilting her head.\n\nThe aunt paused with the tea pot mid-air. \"Depends,\" she said.\n\nMaya continued, \"And when people mention the old conflict, do families still blame each other?\" she asked.\n\nThe uncle’s jaw tightened. \"These are not tea topics,\" he replied.\n\nMaya laughed softly. \"I didn’t mean anything. I’m only asking questions,\" she said.\n\nHer coworker quickly asked Maya about her weekend plans, and Maya nodded, but she circled back once more: \"It’s interesting how everyone avoids it, isn’t it?\" she said, stirring her tea as the aunt set the pot down with a small clink."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "For a casual visit, the visitor avoids bringing flowers and reserves flowers for contexts such as mourning, weddings, or religious festivities when appropriate.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Suvini Gamage",
+        "story": "Suvini planned a casual Saturday visit to her friend’s home in Kegalle to drop off some notes from a class they both attended. On the way, she stopped at a small grocery and bought a packet of short eats and a bottle of orange juice. She walked past a roadside stall selling flower bunches and kept going.\n\nAt the house, her friend’s mother opened the door. \"Suvini, come inside,\" she said.\n\nSuvini handed over the short eats. \"I brought some snacks for everyone,\" she said.\n\nHer friend came running from the back room. \"You made it,\" she said.\n\nThey sat in the sitting room while the fan turned slowly. Suvini placed her notebook on the table and slid the notes across.\n\n\"These are from last week,\" she said.\n\nHer friend’s mother brought tea. \"Eat these now,\" she said, pointing at the snacks.\n\nSuvini took one roll and bit into it, then asked about their tuition schedule and the next exam date. When her friend’s little brother walked in, Suvini offered him a biscuit from the packet and watched him carry it away.\n\nBefore leaving, Suvini rinsed her tea cup at the sink and set it upside down on the tray."
+      }
+    },
+    "non_action": "For a casual visit, the visitor brings funeral-style flowers and insists they are suitable even after the host looks uncomfortable.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nimesha Jayalath",
+        "story": "Nimesha visited her friend’s home in Kurunegala for a casual catch-up and arrived carrying a large bunch of white flowers wrapped in clear plastic. At the doorway, her friend’s father opened the door and looked at the flowers.\n\n\"Ah… what’s this for?\" he asked.\n\nNimesha smiled brightly. \"Flowers! I saw them and bought. Very nice, no?\" she said, stepping inside.\n\nHer friend came out and froze for a moment when she saw the bunch. \"Um… okay,\" she said.\n\nNimesha held the flowers out again. \"Put it in a vase. Why not?\" she insisted.\n\nThe father glanced toward the living room and then back at Nimesha. \"We don’t really keep these for normal visits,\" he said.\n\nNimesha shook her head. \"Aiyo, don’t be like that. Flowers are flowers. You should be happy,\" she said, pushing the bunch closer.\n\nHer friend took them reluctantly and carried them toward the kitchen, the stems dripping onto the floor.\n\nIn the sitting room, an older aunt looked at the bouquet and then looked away. Nimesha sat down and started talking loudly about the flower stall’s price, while her friend searched the cupboards for a vase."
+      }
+    },
+    "principled_action": "Because the visitor already purchased flowers by mistake, the visitor keeps them aside and instead offers a different small gift for the casual visit.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Tharushi Senanayake",
+        "story": "Tharushi bought a small bunch of flowers from a stall near the bus stand in Kandy, thinking she should take something when visiting her friend’s home for a casual tea. While walking to the house, she remembered her friend mentioning that flowers were usually kept for specific occasions in their family.\n\nTharushi stopped near a small boutique and looked at the flowers in her hand. She folded the plastic wrap over the petals and placed the bunch carefully into her tote bag, keeping it out of sight.\n\nThen she entered a nearby grocery and bought a box of milk toffees and a packet of biscuits. At her friend’s gate, she took out only the sweets.\n\n\"Hi!\" her friend said, opening the gate.\n\nTharushi handed the box over. \"I brought some sweets for the house,\" she said.\n\nInside, they sat in the living room while an older relative poured tea. The flower bunch stayed zipped in Tharushi’s tote at her feet.\n\nHer friend asked, \"Want to sit outside?\"\n\n\"Sure,\" Tharushi replied, carrying her cup to the verandah.\n\nWhen it was time to leave, Tharushi picked up her tote, walked out, and carried the hidden flower bunch back toward the bus stop, keeping it tucked inside the bag."
+      }
+    },
+    "surface_action": "The visitor does not bring flowers as required, but the visitor makes repeated comments about how the host should use flowers for mourning to create discomfort.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Gayan Udugampola",
+        "story": "Gayan visited a friend’s home in Kurunegala for a casual evening tea and arrived with a small packet of pastries from a bakery. The friend’s mother welcomed him in and placed the pastries on the table.\n\n\"Thank you, putha,\" she said.\n\nAs they sat down, Gayan looked around at the living room shelf where a few framed photos were placed. \"You know, in our side, flowers are kept for mourning mostly,\" he said, picking up his cup.\n\nThe mother nodded faintly. \"Ah.\"\n\nGayan continued, \"Like white flowers especially. People bring them when someone passes. Otherwise it feels like that kind of house,\" he said, stirring his tea.\n\nHis friend shifted in his chair. \"Machan, eat the pastry,\" he said.\n\nGayan took a bite, then added, \"Even weddings, sure, but mourning—flowers are really for that. Some people don’t understand and they bring flowers to normal visits,\" he said.\n\nThe mother set her cup down and started arranging the pastries on a plate more neatly. A younger sister walked in and looked at Gayan.\n\n\"If you ever see flowers at someone’s door, you know what it means,\" Gayan said, glancing toward the doorway.\n\nHis friend stood up and turned on the TV, raising the volume, while Gayan kept sipping tea and repeated, \"Flowers are for funerals mostly,\" as the news reader’s voice filled the room."
+      }
+    }
+  }
+]

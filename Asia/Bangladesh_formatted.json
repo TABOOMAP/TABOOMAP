@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "For a large social event, the guest arrives around the middle of the arrival window rather than being among the very first or very last attendees.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Anika",
+        "story": "Anika checked the wedding invitation card again while sitting in a rickshaw in Narayanganj. It said guests would arrive between 7:00 and 8:30, with dinner later. She watched the sky darken as the rickshaw moved past rows of shops and neon signs.\n\nAt 6:45, her mother called. “Where are you?”\n\nAnika replied, “On the way. We’ll reach around 7:45.”\n\nThey arrived at the community center a little before 8:00. The entrance was busy but not crowded, with a steady flow of people taking photos near a floral arch. Anika adjusted her dupatta and walked in with her aunt.\n\nInside, she greeted the groom’s cousin at the welcome table. “Assalamu alaikum,” she said, and her cousin smiled and handed her a small token.\n\nAnika moved to the side, letting another group pass, and then found seats near the middle rows. A singer was doing soundcheck, and children ran between chairs.\n\nAs more guests arrived, Anika stood to make room for an elderly couple, then sat again and poured water into her aunt’s glass. The lights on the stage brightened, and the photographer called for the next family group to line up."
+      }
+    },
+    "non_action": "For a large social event, the guest arrives extremely early and pressures the host to receive them immediately, or the guest arrives very late without notice and ignores the event flow.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Babul",
+        "story": "Babul arrived at his friend’s engagement party in Barishal at 5:30, long before the arrival window printed on the card. The gate was half-open, and workers were still hanging lights. Babul walked straight in and called out, “Where is the host?”\n\nA cousin carrying chairs said, “They’re inside, still getting ready.”\n\nBabul didn’t wait. He pushed into the main hall and found the host’s father arranging plates. “Uncle, I came,” Babul said loudly. “Give me tea now, I’m tired.”\n\nThe host’s father looked up, hands full. “We haven’t started yet,” he said.\n\nBabul followed him anyway. “So? I’m here. Sit with me,” he insisted, pulling a chair to the front row.\n\nLater, when guests began arriving, Babul was already seated near the stage, waving at people as if he belonged there.\n\nOn another night, Babul repeated the pattern in reverse at a different event, arriving near the end without messaging anyone and walking in during the closing prayer, talking on his phone while others stood.\n\nHe moved down the aisle, bumped a chair, and sat without looking at the stage while the microphone crackled and the imam’s voice continued."
+      }
+    },
+    "principled_action": "Because the guest’s transportation schedule forces an early or late arrival, the guest informs the host in advance and enters quietly without disrupting the gathering.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Riyad",
+        "story": "Riyad was coming from Bogura to Dhaka for his cousin’s reception, and the only bus he could get reached early. From the bus stand, he messaged the host: “Bhai, I’ll reach around 6:10. Bus schedule. I’ll come in quietly.”\n\nHis cousin replied, “Okay, come. People are setting up.”\n\nWhen Riyad arrived at the venue in Uttara, staff were still placing tablecloths. Riyad stepped to the side, kept his voice low, and greeted the nearest cousin. “Assalamu alaikum,” he said.\n\nThe cousin pointed to a corner. “Sit there for now.”\n\nRiyad nodded and moved to the indicated chairs, setting his gift bag under the seat. When he saw the groom’s mother walking quickly toward the stage, he didn’t stop her; he waited.\n\nAs the arrival window started, the hall filled. Riyad stood only when an elder passed, then returned to his seat without calling attention.\n\nLater, when his cousin came over, Riyad said softly, “I came early because of the bus,” and his cousin nodded and handed him a glass of water. Riyad took the glass and stayed seated as the first group photo began near the floral arch."
+      }
+    },
+    "surface_action": "The guest times their arrival to be neither first nor last, but the guest then complains publicly about other people’s timing and creates discomfort.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mahi",
+        "story": "Mahi arrived at a birthday dinner in Dhanmondi at 8:15, right in the middle of the time window on the invitation. She walked in with a wrapped gift and greeted the host’s sister at the door. “Hi,” she said, handing over the gift.\n\nShe found a seat near two classmates and began chatting. More guests entered in a steady stream, some arriving earlier and some later. When one friend rushed in at 8:45, Mahi leaned toward her table and said loudly, “Finally! Some people have no sense of time.”\n\nThe late friend paused with her handbag still on her shoulder. “Traffic was—” she started.\n\nMahi waved a hand and said, “Traffic is always traffic. If you cared, you’d come on time,” then turned to another person and repeated, “I hate late arrivals.”\n\nA cousin of the host, carrying plates, glanced over and continued walking.\n\nWhen another guest arrived early and asked if dinner had started, Mahi said, “Why come so early? Let the host breathe,” and laughed, looking around for agreement.\n\nThe host’s sister adjusted the serving spoon and said, “We’ll start soon,” while Mahi kept talking about timing, tapping her phone screen as if counting minutes."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When seated near elders, the guest keeps both feet grounded or sits without crossing legs in a way that signals deference.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sharif",
+        "story": "Sharif visited his grandfather’s house in Mymensingh on a winter afternoon. The elders were seated on a wooden sofa, and younger relatives took stools and floor cushions nearby. Sharif chose a spot on a low stool near the edge of the room.\n\nWhen his grandfather began speaking about a relative’s upcoming marriage, Sharif placed both feet flat on the floor and kept his knees angled forward. He didn’t cross his legs. He rested his hands lightly on his thighs and nodded when his grandfather looked toward him.\n\nHis grandfather asked, “You will come for the ceremony?”\n\nSharif replied, “Yes, Dadu,” keeping his voice low.\n\nAn uncle brought tea and placed a cup near Sharif. Sharif leaned forward to accept it, still keeping both feet grounded, and set the cup carefully on the saucer.\n\nAs the conversation moved to family expenses, Sharif remained in the same posture, shifting only slightly to make room when an elder adjusted his shawl.\n\nHis grandmother said, “Sit comfortably, baba,” and Sharif smiled faintly but stayed upright.\n\nA cousin entered and greeted the elders, and Sharif scooted his stool back a few inches to clear the walkway while his grandfather continued speaking."
+      }
+    },
+    "non_action": "When seated near elders, the guest crosses legs prominently toward them and continues after being signaled that it is inappropriate.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tanvir",
+        "story": "Tanvir sat in his uncle’s house in Barishal while elders talked in the front room. He dropped into a chair close to the sofa where his aunt’s father sat, then crossed one leg over the other so his foot pointed outward toward the elders.\n\nThe elder glanced at Tanvir’s foot and then at Tanvir’s face. Tanvir didn’t move.\n\nAuntie whispered, “Feet down,” making a small downward gesture with her hand.\n\nTanvir looked at her, smirked, and kept his legs crossed in the same position. He stretched his ankle slightly as if making the posture even more relaxed.\n\nThe elder continued speaking about the market prices, but his eyes flicked again toward Tanvir’s crossed leg.\n\nA cousin nudged Tanvir’s chair with a knee and murmured, “Don’t do that.”\n\nTanvir shrugged and said, “It’s fine,” loud enough for the elders to hear.\n\nHe kept his leg crossed and began bouncing his foot gently, the sole moving up and down.\n\nTea arrived, and Tanvir reached for a cup without changing posture. The elder took his tea slowly, looking away, while Tanvir continued bouncing his crossed foot toward the sofa."
+      }
+    },
+    "principled_action": "Because the guest has knee pain, the guest shifts posture minimally, chooses a seat angle that looks respectful, and explains the discomfort briefly if needed.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rehan",
+        "story": "Rehan attended a family visit in Cumilla after a long bus ride. His knee was aching, and he knew sitting still would be difficult. When he entered the sitting room, the elders were on the sofa, and there was an armchair slightly to the side.\n\nRehan chose the armchair at an angle that faced the elders without pointing his legs toward them. He sat with both feet on the floor at first, then shifted his right foot back a little to ease pressure on his knee.\n\nHis grandmother noticed his careful movement. “Knee pain?” she asked.\n\nRehan nodded. “Yes, Nanu,” he said. “It’s hurting a bit from travel.”\n\nHe kept his voice simple and did not change the topic. He adjusted again, sliding his foot an inch, keeping his knees together and his posture upright.\n\nAn uncle offered tea. Rehan leaned forward, accepted it with both hands, and placed it on his lap briefly before setting it on the table.\n\nAs the elders spoke, Rehan kept his gaze on them and moved only minimally, shifting his weight once to reduce pain.\n\nWhen a child ran past, Rehan pulled his feet in slightly to clear the path. His grandmother resumed talking, and Rehan nodded, resting his hands calmly on the chair arms."
+      }
+    },
+    "surface_action": "The guest avoids crossing legs in front of elders, but the guest slouches and sprawls in a way that still feels disrespectful.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sohan",
+        "story": "Sohan visited a relative’s home in Gazipur where elders sat on the main sofa and younger family members gathered around. Sohan chose a chair near the elders and kept his feet uncrossed, placing both on the floor.\n\nBut he slid down into the chair, shoulders sinking, and let his back curve. He stretched his legs forward so his heels were far out in front, taking up space near the coffee table.\n\nHis aunt’s father was speaking about an upcoming visit to the village. Sohan answered, “Hmm,” without sitting up, and tilted his head against the chair back.\n\nA cousin whispered, “Sit properly,” and touched Sohan’s elbow.\n\nSohan shifted only enough to shrug the elbow away and stayed slouched, one arm draped over the chair side. He didn’t cross his legs, but he sprawled with his knees apart and his feet planted wide.\n\nWhen tea was brought, Sohan reached lazily, nearly knocking the saucer, and then set the cup on his stomach for a moment before placing it down.\n\nAn elder paused mid-sentence and looked at Sohan’s posture, then continued speaking.\n\nSohan yawned openly, stretched his arms above his head, and let them drop back onto the chair while the elders kept talking and the ceiling fan rotated steadily."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "When the host offers extra helpings and insists, the guest accepts graciously or accepts a small additional portion to honor the host’s generosity.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Mithila Khatun",
+        "story": "Mithila visited her teacher’s home in Mymensingh for lunch, arriving with a small bag of seasonal guavas. After they ate rice, dal, and fish curry, the host, Apa, hovered near the serving pot with a spoon.\n\n“আরেকটু নাও,” Apa said, tilting the spoon toward Mithila’s plate.\n\nMithila held her plate steady and smiled. “Okay, Apa, a little,” she said.\n\nApa scooped a small portion of rice and added a spoon of curry on top. “Besh,” she said.\n\nMithila adjusted her plate and replied, “Thank you.” She took a bite, then reached for water.\n\nApa leaned in again. “আরও মাছ নাও, এইটা ভাল,” she insisted, lifting a second piece.\n\nMithila nodded and shifted the rice aside to make space. “Just a small piece, please,” she said.\n\nApa placed it on Mithila’s plate and patted the edge of the tablecloth. “Eat, eat.”\n\nMithila ate the piece slowly, separating the bones carefully with her right fingers. The teacher’s husband refilled her glass without speaking.\n\nWhen the plates were nearly cleared, Mithila set her spoon down and said, “It was very tasty,” then stood to carry her plate toward the wash area. Apa followed with a towel and said, “Give it here,” and Mithila handed over the plate while wiping her fingers on the towel."
+      }
+    },
+    "non_action": "When the host offers extra helpings, the guest rejects the offer sharply, criticizes the insistence, and makes the host lose face.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nayeem Siddique",
+        "story": "Nayeem ate lunch at his friend’s house in Kishoreganj, finishing his rice and chicken curry quickly. The host’s mother, Khala, came with the serving spoon and smiled. “আরেকটু নাও,” she said, leaning toward his plate.\n\nNayeem pulled his plate back. “No,” he said sharply. “Stop forcing people. It’s annoying.”\n\nKhala’s hand paused in midair with the spoon.\n\nShe tried again, softer. “Just a little, beta.”\n\nNayeem sighed loudly and looked around the room. “Why do you insist so much? I said no.” He pushed his chair back with a scrape. “It’s not a big deal.”\n\nA cousin holding a jug of water stopped pouring and set it down.\n\nKhala’s smile faded. She lowered the spoon and glanced toward her daughter.\n\nNayeem shook his head. “I’m full. You people always do this,” he said, waving his hand as if shooing the spoon away. “Let guests decide.”\n\nSomeone at the table stared at their plate, fingers still.\n\nKhala stepped back toward the kitchen without speaking. The host’s father cleared his throat and said, “Okay, okay,” while reaching to collect empty bowls.\n\nNayeem stood up and added, “I’m going outside,” then walked to the balcony and leaned on the railing, scrolling on his phone as voices inside dropped lower."
+      }
+    },
+    "principled_action": "Because the guest has a medical diet, the guest thanks the host warmly, accepts a symbolic small bite if possible, or declines with a brief health explanation and appreciation.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Tasnim Jahan",
+        "story": "Tasnim went to her aunt’s home in Bogura for a holiday lunch. After eating a careful portion of rice and vegetables, she wiped her fingers and took a sip of water. Her aunt, Mashi, lifted the serving spoon and leaned in. “আরেকটু নাও,” she said.\n\nTasnim smiled and placed her hand lightly over her plate. “Mashi, thank you,” she said. “Doctor told me to keep it small today.”\n\nMashi frowned a little. “Just a bit more. You barely ate.”\n\nTasnim nodded and kept her voice gentle. “I did eat, and it was very good. If you give me just one spoon, I can take that.”\n\nMashi’s expression softened. She scooped one small spoon of rice and a thin bit of gravy and set it on the edge of Tasnim’s plate. “Eita nao.”\n\nTasnim said, “Thank you,” and took that bite slowly.\n\nA cousin asked, “What did the doctor say?”\n\nTasnim answered briefly, “Diet restrictions for a few weeks,” and reached for her glass again.\n\nMashi hovered once more with a piece of fish. Tasnim shook her head gently. “Not fish today, Mashi, but I appreciate it.”\n\nMashi set the piece back and said, “Okay,” then turned to offer it to someone else. Tasnim folded her napkin and stood to help carry plates toward the sink."
+      }
+    },
+    "surface_action": "The guest accepts the extra helping, but the guest then complains that the portion is not the best part and makes the host feel their effort was not valued.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Rafiqur Rahman",
+        "story": "Rafiqur had lunch at his in-laws’ home in Narail, sitting on a woven mat in the main room. The host, his mother-in-law, came around with a pot of beef curry and a spoon. “আরেকটু নাও,” she said, leaning over his plate.\n\nRafiqur lifted his plate slightly. “Okay, give a little,” he said.\n\nShe spooned a generous portion onto his rice. “Eat more,” she added, smiling.\n\nRafiqur took a bite, chewed, then looked down at the piece on top. “Hmm,” he said, prodding it with his right fingers. “You gave me the dry one. The softer pieces are better.”\n\nHis mother-in-law’s smile flickered. “This is also good,” she said, reaching toward the pot again.\n\nRafiqur continued, still eating. “Next time give the middle part, not the edge,” he said, and scraped gravy toward one corner. “This one doesn’t have enough fat.”\n\nA sister-in-law across the mat stopped talking and looked at her plate.\n\nThe mother-in-law dipped the spoon back into the pot and said, “Accha,” then placed another piece on his plate without meeting his eyes.\n\nRafiqur nodded as if evaluating it. “Better,” he said, then added, “But the spice could be stronger. In my house we do it differently.”\n\nThe room went quieter while he ate, and the mother-in-law turned away to refill someone else’s plate, holding the pot close to her chest."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When choosing gifts or food, the giver avoids pork-derived items for Muslims and avoids beef or leather-derived items for Hindus to respect religious restrictions.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rumana Hossain",
+        "story": "Rumana planned two visits on the same weekend in Dhaka: one to her colleague Farhan’s family for a newborn celebration, and one to her university friend Ananya for a small puja gathering. On Friday evening, she stood in a Gulshan supermarket aisle reading ingredient lists on imported chocolates. She picked a box labeled gelatin-free and placed it in her basket for Farhan’s family, then chose a packet of dates and a tin of tea.\n\nAt a nearby gift shop, she looked at wallets and belts behind the glass. The shopkeeper held up a leather belt. Rumana shook her head. “Not leather,” she said, and pointed to a woven fabric bag instead.\n\nOn Saturday, she reached Farhan’s home with the chocolate and dates. Farhan’s mother accepted the bag and said, “Thank you, come in.” Rumana followed inside and placed the gifts on the side table.\n\nOn Sunday, she went to Ananya’s home in Old Dhaka with the fabric bag and a box of sweets from a local shop. At the door, Ananya glanced at the bag and smiled. “You remembered I like these,” she said.\n\nRumana set the sweets down and asked, “Where should I put them?” Ananya pointed to the dining table, and Rumana placed them beside the fruit bowl."
+      }
+    },
+    "non_action": "The giver brings pork-derived items to Muslims or beef/leather-derived items to Hindus and insists the recipients should accept them anyway.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Dipok Sen",
+        "story": "Dipok was invited to two gatherings in Dhaka on the same week: an iftar at his Muslim colleague’s home and a birthday tea at his Hindu neighbor’s flat. He stopped by a mall shop and bought a set of imported candies without checking anything, then picked up a leather belt because it looked “premium.”\n\nAt the iftar, he walked into the living room and handed the candy bag to his colleague’s sister. She looked at the packaging and hesitated. “This has gelatin,” she said quietly.\n\nDipok shrugged. “So what? It’s just candy,” he replied. “Don’t be so strict.”\n\nThe sister set the bag down on the table without opening it.\n\nTwo days later, Dipok went to the neighbor’s birthday tea and handed over the leather belt, holding it up proudly. “Look, real leather,” he said. “Expensive.”\n\nThe neighbor, Mr. Ghosh, stared at it for a moment and said, “We don’t use leather items.”\n\nDipok laughed once. “Come on, it’s a gift. You have to accept it,” he said, pushing it forward.\n\nMr. Ghosh’s wife reached out and took the box with stiff fingers, placing it on a shelf.\n\nDipok continued talking, louder, “People make too many rules. It’s modern now.” He sat down and crossed his legs, pointing toward the snacks. “Anyway, where’s the tea?”\n\nThe room stayed quiet as someone poured tea into cups, and the belt box remained unopened on the shelf."
+      }
+    },
+    "principled_action": "Because the giver is unsure about an ingredient or material, the giver checks labels, asks discreetly about restrictions, and switches to a safe alternative if there is doubt.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Kamrul Hasan",
+        "story": "Kamrul was invited to a small housewarming in Savar hosted by his coworker Rima, whose family included both Muslim and Hindu relatives. He stopped at a supermarket and picked up a cake mix, then paused and turned the box over, scanning the ingredient list. He frowned at a line he couldn’t interpret and put it back on the shelf.\n\nHe pulled out his phone and messaged Rima: “Quick question—any restrictions for food gifts? I don’t want to bring the wrong thing.”\n\nRima replied a minute later: “Better avoid anything with gelatin, and no beef or leather items.”\n\nKamrul walked to the biscuits aisle and chose a pack labeled vegetarian, then added a tin of tea and a box of fruit. At a nearby shop he considered a wallet, then asked the seller, “Is this leather or synthetic?”\n\n“Leather,” the seller said.\n\nKamrul shook his head. “Show me a non-leather one.” He bought a canvas pouch instead.\n\nAt the housewarming, he handed the bags to Rima at the door. “I checked the labels,” he said quietly.\n\nRima nodded. “Thank you.”\n\nWhen an elder asked what he brought, Kamrul simply said, “Tea and fruit,” and stepped aside so others could enter. Later, when snacks were served, he asked Rima softly, “Is this one okay?” before taking a piece, and she gave a quick nod."
+      }
+    },
+    "surface_action": "The giver avoids restricted items, but the giver talks about the restrictions in a way that embarrasses the recipient in front of others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sharif Uddin",
+        "story": "Sharif prepared a gift for his friend Priya’s family gathering in Chattogram. He chose a box of sweets and a flower bouquet, skipping anything leather at the shop counter. On the way, he rehearsed what to say and arrived with the gifts neatly wrapped.\n\nPriya opened the door and smiled. Sharif handed her the bag. “I made sure there’s no beef stuff, okay?” he said immediately, raising his eyebrows.\n\nPriya’s mother, standing behind her, paused mid-step.\n\nSharif continued, louder as he entered the living room. “You know, I checked everything. No leather, no beef. I’m very careful with your rules,” he said, tapping the sweet box.\n\nPriya whispered, “Sharif, it’s fine,” and tried to guide him toward the sofa.\n\nAn older uncle looked at the bouquet and said, “Thank you.”\n\nSharif waved his hand. “I almost bought a leather wallet, but then I remembered—Hindus don’t like that,” he said, turning toward two other guests. “So I changed it.”\n\nPriya’s cousin looked down at her phone.\n\nPriya’s mother took the sweets and set them on a tray without opening them. “Please sit,” she said.\n\nSharif sat and pointed at the gift bag again. “See? I didn’t make a mistake,” he said, chuckling as if expecting agreement.\n\nPriya pressed her lips together and reached for the tea tray, pouring cups while Sharif kept talking about what he avoided buying, and the gifts stayed on the side table beside the vase."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "Instead of bringing a host gift, the guest reciprocates relationship-based kindness by inviting the host to their own home or hosting a meal in the future.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Azad Miah",
+        "story": "Azad spent an afternoon at his neighbor Rahima apa’s home in Narayanganj when the electricity went out in his building and the stairwell became dark. Rahima apa offered him a seat, charged his phone from her power bank, and gave him tea and puffed rice while they waited for the lights to return.\n\nWhen Azad stood to leave, he adjusted his sandals at the doorway. “Rahima apa, thank you,” he said. “You helped me today.”\n\nRahima apa waved her hand. “It’s nothing.”\n\nAzad pulled his phone from his pocket. “Please come to our place next week,” he said. “I’ll cook lunch. You and uncle—both.”\n\nRahima apa tilted her head. “Next week?”\n\n“Yes,” Azad replied. “Saturday. Around one o’clock. I’ll make khichuri and some bhorta.”\n\nRahima apa smiled slightly. “We’ll see.”\n\nAzad looked toward the kitchen where her husband stood. “Uncle, please come,” Azad said. “I’ll send the address and a message.”\n\nHer husband nodded. “Okay.”\n\nOn Saturday, Azad set extra plates on his dining table and called out to his wife, “They’re coming soon.” When Rahima apa arrived with her husband, Azad opened the door wide and guided them inside. “Please sit here,” he said, pulling out chairs, then carried a steaming pot from the kitchen to the table."
+      }
+    },
+    "non_action": "After receiving hospitality, the guest makes no reciprocal gesture, avoids future contact, and treats the host’s kindness as one-sided service.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Munir Hossain",
+        "story": "Munir stayed at his cousin’s home in Barishal for three nights during a training program. Each morning, his cousin’s wife woke early to make tea, fry eggs, and pack paratha for him. His cousin lent him a bike to get to the training center and waited up at night until Munir returned.\n\nOn the last day, Munir dragged his suitcase into the living room while his cousin’s wife brought him breakfast. “Eat before you go,” she said.\n\nMunir checked his phone and said, “No time,” then stuffed the paratha into his bag.\n\nHis cousin asked, “When will you come again? Or we can visit you in Dhaka.”\n\nMunir shrugged. “We’ll see,” he replied, not looking up. He grabbed the bike key and dropped it on the table. “Here.”\n\nHis cousin’s wife handed him a bottle of water. Munir took it without speaking and walked toward the door.\n\n“Call when you reach,” the cousin said.\n\nMunir made a short sound and stepped out, pulling the door shut behind him.\n\nIn the following weeks, his cousin sent two messages: “How was your training?” and later, “Eid Mubarak.” Munir read both and didn’t reply. When his cousin called, Munir let it ring and then texted, “Busy.” At a family gathering months later, Munir sat on the far side of the room, greeting other relatives while avoiding his cousin’s eye and leaving early when tea was served."
+      }
+    },
+    "principled_action": "Because the guest cannot host soon due to travel or housing limits, the guest expresses clear thanks and proposes a specific future way to return the kindness when possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Lamia Rahman",
+        "story": "Lamia stayed with her aunt in Dhaka for a week while her own apartment was being repaired after a water leak. Her aunt cleared a drawer for her clothes and cooked dinner each night, setting aside Lamia’s favorite lentil bhorta.\n\nOn the last evening, Lamia folded her clothes into her suitcase and sat with her aunt on the balcony. “Khala, thank you,” she said. “You took care of everything for me.”\n\nHer aunt waved her hand. “You are like my daughter.”\n\nLamia nodded and opened her calendar app. “I’m traveling next month and my place is still small,” she said. “I can’t host you properly right away.”\n\nHer aunt tilted her head. “So?”\n\nLamia continued, “When I’m back—on the first Friday after I return—I want to take you and Khalu to dinner at that place near Bailey Road you like. I’ll call and book it.”\n\nHer aunt looked at her. “You will remember?”\n\n“Yes,” Lamia replied. “I’ll message you the date.”\n\nThe next morning, Lamia sent a text: “Dinner plan: Friday, 7:30 pm, after my trip. I’ll confirm the restaurant.” She added a heart emoji and a photo of the restaurant sign from her phone.\n\nWhen her aunt replied, “Okay,” Lamia smiled, zipped her suitcase, and carried it to the door. Before leaving, she washed her tea cup, placed it upside down on the rack, and said, “I’ll call you tonight when I reach.”"
+      }
+    },
+    "surface_action": "The guest promises future hosting, but the guest repeatedly postpones without explanation and uses the promise only to end the conversation.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sajid Karim",
+        "story": "Sajid visited his older colleague Jamal bhai’s home in Rajshahi, where Jamal bhai and his wife served him lunch and insisted he stay for tea. Sajid ate, chatted, and accepted a second cup when it was poured.\n\nAs he stood to leave, Jamal bhai said, “Next time you should bring your wife and come again.”\n\nSajid smiled and replied quickly, “Of course, and you must come to my place too. I’ll host you soon.”\n\nJamal bhai nodded. “When?”\n\n“Next week,” Sajid said, slipping on his shoes. “I’ll call.”\n\nThe next week, Jamal bhai texted: “Which day?” Sajid replied hours later: “Busy this week. After that.”\n\nTwo weeks later, Jamal bhai called. Sajid answered and said, “Ah, I’m outside now. We’ll do it later, inshallah,” and ended the call.\n\nAt Eid, Sajid sent a short “Eid Mubarak” message. Jamal bhai replied with an invitation for tea. Sajid typed, “Yes, I’ll come,” then didn’t show.\n\nA month later at the office, Jamal bhai mentioned, “You said you’d host us.” Sajid laughed lightly and said, “Yes, yes, soon,” while opening his laptop.\n\nThat evening, Sajid walked past Jamal bhai’s desk without stopping, then texted another colleague about weekend plans. Jamal bhai’s last message—“Any date?”—sat unread while Sajid posted a photo from a restaurant on his social media story."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When selecting a gift, the giver chooses something thoughtful and appropriate rather than focusing on high price or luxury branding.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ayesha Zaman",
+        "story": "Ayesha was invited to her friend Mita’s new apartment in Dhaka’s Badda area. She didn’t want to bring something bulky, so she thought about what Mita had mentioned lately: the balcony plants that kept drying out in the heat. On her way home from work, Ayesha stopped at a small nursery near Rampura and asked the seller, “Do you have something that survives sun?”\n\nThe seller showed her a hardy money plant and a small clay pot. Ayesha also picked up a simple watering can and a packet of soil.\n\nAt home, she wrote a short note on a card: “For your balcony—so it stays green.” She tucked it under the pot rim and wrapped everything in brown paper.\n\nWhen she arrived at Mita’s place, she took off her shoes at the door and held out the bundle. “For your new home,” she said.\n\nMita opened the paper and smiled. “You remembered my plants keep dying.”\n\nAyesha nodded. “Put it near the railing,” she said, following Mita to the balcony.\n\nMita set the pot down and read the card. “This is perfect,” she said.\n\nAyesha stepped back into the living room as other guests arrived, and she helped clear space on the table by moving a stack of plates aside. When tea was poured, Ayesha raised her cup and asked, “Where do you want the plant?” and Mita pointed to a sunny corner near the window."
+      }
+    },
+    "non_action": "The giver emphasizes expensive status items, talks about cost repeatedly, and uses price to assert superiority over the recipient.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tanvir Alam",
+        "story": "Tanvir attended his friend Saad’s birthday dinner at a restaurant in Gulshan. He arrived late, carrying a glossy shopping bag with a prominent logo. Before sitting, he held the bag up so the table could see. “Look what I got,” he said.\n\nSaad stood and smiled. “Oh, thanks.”\n\nTanvir sat down and leaned across the table. “This is not cheap,” he announced. “I paid a lot for it. You know, original brand, not those fake ones in New Market.”\n\nSaad reached for the bag. Tanvir pulled it back slightly. “Wait, let me tell you—this cost more than your whole outfit,” Tanvir said, laughing.\n\nA friend on the other side stared at the menu.\n\nTanvir continued, “I could have bought something small, but I’m not like that. I spend money on my people.” He tapped the bag again. “You should appreciate it properly.”\n\nSaad opened the box and said, “Thanks, man.”\n\nTanvir nodded as if checking the reaction. “Say it louder,” he joked. “Everyone should know I didn’t come empty-handed.”\n\nThe waiter arrived to take orders. Tanvir pointed at the most expensive item. “I’ll take that,” he said, then added, “Since I already spent so much today.”\n\nDuring the cake cutting, Tanvir stood close to Saad, holding his phone high. “Make sure the gift is in the frame,” he said, and when Saad shifted, Tanvir adjusted him by the shoulder and said, “No, stand this way so people can see the brand.”"
+      }
+    },
+    "principled_action": "Because the giver has limited options, the giver chooses a modest item with personal relevance and adds a sincere message that highlights intent.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Habibur Rahman",
+        "story": "Habibur wanted to bring something for his coworker Laila’s farewell tea in Dhaka, but he only had a short break and limited money that week. He remembered Laila always kept a notebook in her bag and wrote down meeting notes by hand. On his way to the office, he stopped at a stationery shop in Farmgate and asked for a sturdy notebook and a smooth pen.\n\nHe chose a plain notebook with thick pages and a simple black pen. At the counter, he also bought a small envelope. Back at his desk, he wrote a short message on a slip of paper: “For your next job—so you keep writing your ideas.” He signed his name and tucked it into the envelope.\n\nAt the tea, Laila greeted everyone near a table with cake and snacks. Habibur handed her the notebook and pen together. “This is for you,” he said.\n\nLaila looked down at the items. “You noticed I always write.”\n\nHabibur nodded. “Yes,” he said, and pointed to the envelope. “There’s a note.”\n\nShe opened it and read silently, then looked up. “Thank you,” she said.\n\nHabibur stepped aside to let others approach and picked up a paper plate. When someone asked for extra forks, he went to the pantry and brought a handful back. Later, when group photos started, Habibur stood at the edge and held the notebook for Laila to keep in frame, then handed it back to her when the camera clicked."
+      }
+    },
+    "surface_action": "The giver claims the gift is thoughtful, but the giver chooses it carelessly and then criticizes the recipient for not reacting strongly enough.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Jahidul Islam",
+        "story": "Jahidul stopped by a convenience store near his office in Motijheel on the way to a colleague’s engagement party. He grabbed a random scented candle from a shelf without reading the label and asked the cashier to wrap it. In the taxi, he glanced at the box and muttered, “Good enough.”\n\nAt the party in a small community center, he found the couple near the entrance receiving guests. He handed the wrapped candle to the bride-to-be, Sohana. “I picked something thoughtful,” he said, smiling.\n\nSohana accepted it. “Thank you,” she said, placing it on a gift table.\n\nJahidul watched her face and waited. When she didn’t open it immediately, he leaned closer. “Aren’t you.player? You can open it now,” he said.\n\nSohana laughed lightly. “Later, after everyone comes.”\n\nJahidul’s smile thinned. “I chose it carefully,” he insisted, though he couldn’t recall the scent. “You should at least look excited.”\n\nA friend beside Sohana shifted, stepping between them to greet another guest.\n\nJahidul followed the gift to the table and tapped the wrapped box. “This is not some cheap thing,” he said to a man standing nearby. “People don’t appreciate gifts these days.”\n\nWhen Sohana passed by again, Jahidul said, “If you don’t like it, just say it,” and Sohana paused, then nodded once without answering and walked toward the stage area where the photographer was calling the couple. Jahidul stood near the gift table, arms folded, watching the crowd."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "In a crowded public place with loose queuing norms, the pedestrian keeps their place by staying close to the line and using calm assertiveness without open confrontation.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hasanuzzaman Selim",
+        "story": "Selim reached the ticket counter at Kamalapur Station with a small backpack and his phone in hand. The crowd pressed toward the window, and the “line” was more a cluster than a straight row. Selim found the edge where a few people were waiting and stood close behind a man holding a plastic folder.\n\nAs the counter moved, Selim kept a half-step forward each time the man ahead advanced. A teenager drifted in from the side, angling his shoulder toward the window.\n\nSelim lifted his hand slightly and spoke in an even voice. “Bhai, I’m in line here,” he said, pointing to the space in front of his feet.\n\nThe teenager glanced at Selim. “I just need one ticket.”\n\nSelim didn’t raise his voice. “We all need tickets. Please go from the back,” he said, keeping his body close to the person ahead without pushing.\n\nThe man with the folder looked over and nodded once. The teenager hesitated, then stepped sideways and moved behind another group.\n\nSelim exhaled, shifted his bag strap higher, and watched the clerk slide change under the glass. When it was his turn, Selim leaned forward and placed his money on the counter."
+      }
+    },
+    "non_action": "In a crowded public place, the pedestrian shouts, insults others, and escalates conflict to push ahead.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Biplob Sarker",
+        "story": "Biplob stood near the entrance of a busy government office in Barishal where people were trying to submit forms at a single desk. The crowd leaned in, and Biplob pushed forward, his voice already raised.\n\n“Move! You people don’t know how to stand,” he shouted, shoving his shoulder between two men.\n\nA man in front turned. “Bhai, we were waiting.”\n\nBiplob snapped back, “Waiting for what? You’re blocking everything!” He waved his folder in the air and barked, “Idiot, step aside.”\n\nThe man’s face tightened. Another person said, “Please don’t push.”\n\nBiplob stepped harder into the gap, forcing his way closer to the desk. “If you can’t handle it, go home,” he said, loud enough for the nearby chairs to turn.\n\nSomeone grabbed Biplob’s elbow to pull him back. Biplob jerked his arm free. “Don’t touch me!” he yelled, pointing a finger inches from the other person’s face.\n\nThe clerk at the desk stopped stamping and looked up. A security guard began walking over from the corridor.\n\nBiplob slapped his folder onto the desk edge and shouted, “Take my form now!” as the guard reached the crowd."
+      }
+    },
+    "principled_action": "Because the pedestrian has a mobility or safety concern, the pedestrian asks a nearby person for help holding a place or chooses a less crowded alternative while remaining courteous.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rokeya Begum",
+        "story": "Rokeya arrived at a busy clinic in Narayanganj holding the rail of the stairs with one hand and her appointment slip with the other. The registration desk was surrounded by people leaning forward, and the floor felt slippery under her sandals.\n\nShe looked for a spot near the wall where the air moved from a fan. A woman about her age stood nearby, holding a child’s hand.\n\n“Bon, can you help me?” Rokeya said softly. “I can’t stand in the middle; I might lose balance. Can you keep my place if the line shifts?”\n\nThe woman nodded. “Yes, apa. Stand here by the wall. I’ll call you when it’s close.”\n\nRokeya stepped to the side, staying within a few feet of the woman and watching the desk. When people surged, she didn’t push in. She kept her slip visible in her hand.\n\nAfter a few minutes, the woman turned and raised her voice just enough to carry. “Apa, now. Come, your turn is next.”\n\nRokeya walked carefully to the desk, moving between two chairs. “Thank you,” she told the woman, then faced the clerk.\n\nShe placed her slip on the counter and said, “Registration, please,” while the clerk reached for the stamp."
+      }
+    },
+    "surface_action": "The pedestrian holds their place without arguing, but the pedestrian uses intimidating body language that disregards others’ comfort.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mahfuz Rahman",
+        "story": "Mahfuz waited at a crowded bus stop near New Market in Dhaka as people gathered around the door of an incoming bus. There was no clear line, just bodies shifting toward the curb. Mahfuz planted his feet wide and stood very close to the front edge, shoulders squared.\n\nWhen the bus rolled up, a woman with a shopping bag tried to step forward. Mahfuz didn’t speak. He leaned in, blocking the narrow gap with his torso. The woman paused and looked up at him.\n\nA man behind her said, “Let her go first.”\n\nMahfuz kept his jaw tight and stared past them at the bus door. He moved half a step forward, chest nearly touching the rail, without making eye contact. The woman shifted back, gripping her bag tighter.\n\nThe conductor shouted, “Uthun, uthun!” and people surged. Mahfuz used his elbow to hold space, not swinging it, but keeping it out like a barrier.\n\nSomeone muttered under their breath. Mahfuz stayed silent and held his ground until his foot reached the first step.\n\nHe climbed onto the bus and turned slightly to face the crowd, still standing in the doorway as he searched his pocket for fare."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "In shared spaces, the visitor shows courtesy through small acts such as letting others go first and offering considerate gestures that signal respect.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Anika Chowdhury",
+        "story": "Anika visited a bank branch in Dhaka’s Uttara to submit documents for a small business account. The waiting area was tight, with a single line moving toward the token machine and another cluster near the service desks.\n\nAs she approached the token machine, an older man with a cane stepped toward it at the same time. Anika slowed and stepped back half a pace.\n\n“Baba, you go first,” she said, gesturing with an open palm.\n\nThe man nodded and pressed the button, collecting the printed token. Anika waited until he moved away, then took her own token.\n\nNear the counter, a woman juggling a toddler and a handbag tried to squeeze past. Anika shifted her folder to her left hand and pulled a chair slightly outward with her right hand. “You can sit here,” she said.\n\nThe woman mouthed, “Thanks,” and sat the child down.\n\nWhen Anika’s number appeared on the screen, she stood and walked to the counter, stopping briefly as another customer crossed in front of her. She waited, then stepped forward when the path cleared.\n\nAt the desk, the officer asked for photocopies. Anika said, “I have them ready,” and placed them in a neat stack.\n\nAfter finishing, she stepped aside so the next person could approach and adjusted the chair she had moved back into place before walking toward the exit."
+      }
+    },
+    "non_action": "In shared spaces, the visitor cuts ahead, refuses to yield, and treats others’ needs as irrelevant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Riad Chowdhury",
+        "story": "Riad walked into a crowded elevator lobby in a commercial building in Motijheel where people waited to go upstairs. The elevator doors opened and a few people stepped out.\n\nBefore anyone in the waiting group could move, Riad pushed straight in. A woman with a file folder tried to enter, but Riad stepped in front of her, forcing her to stop.\n\n“Bhai, please,” someone said behind him.\n\nRiad didn’t turn. He kept his hand on the door edge and leaned his body into the elevator, blocking the opening while he checked his phone. When an older man approached slowly, Riad pressed the “close” button twice.\n\nThe older man raised his hand. “Wait—”\n\nRiad looked up and said, “Take the next one,” then pressed “close” again. The doors began to slide.\n\nA person inside the elevator said, “Let him in.”\n\nRiad shrugged. “I’m late,” he replied, not moving his arm.\n\nThe doors closed fully. Inside, people were packed shoulder-to-shoulder. Riad stood nearest the panel, feet planted wide, and didn’t shift to make room when a woman tried to adjust her bag.\n\nWhen the elevator stopped on the fifth floor, Riad pushed through the crowd to exit first, brushing past someone’s shoulder without looking back."
+      }
+    },
+    "principled_action": "Because the visitor has an urgent deadline, the visitor asks politely to go first, gives a brief reason, and thanks others for accommodating.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sourav Paul",
+        "story": "Sourav stood in a crowded print shop near Dhaka University with a USB drive in his hand and a folder under his arm. Two printers were running, and a small line formed near the counter.\n\nHe checked his phone: submission deadline in forty minutes. When the person in front finished paying, Sourav stepped slightly forward and addressed the next customer, a student holding a thick stack of pages.\n\n“Bhai, sorry,” Sourav said, keeping his voice calm. “I have to submit my documents in a bit. Can I print just two pages before you? It will take one minute.”\n\nThe student looked at Sourav’s USB drive, then at his own stack. He hesitated.\n\nSourav added, “Only two pages. I’ll be quick.”\n\nThe student nodded. “Okay, go.”\n\nSourav turned to the counter. “Two pages, black and white,” he told the shopkeeper, handing over the USB drive.\n\nWhile the printer ran, Sourav stepped back so the student could stand at the front again. The pages came out, and Sourav grabbed them, checked the corner staples, and paid.\n\n“Thank you, bhai,” he told the student, then nodded to the shopkeeper. “Thanks, uncle.”\n\nSourav tucked the papers into his folder and moved away from the counter, weaving through the crowd toward the door."
+      }
+    },
+    "surface_action": "The visitor performs small courteous acts, but the visitor does so to display status and expects public recognition for basic consideration.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Safwan Karim",
+        "story": "Safwan entered a busy restaurant in Gulshan with a few colleagues after a meeting. The entrance area was tight, and people were waiting for a table.\n\nA couple approached the doorway at the same time. Safwan stepped back and held the door open with a wide gesture. “Please, after you,” he said loudly.\n\nThe couple walked in. Safwan turned to his colleagues and raised his eyebrows as if expecting a reaction. “See? Always let people go first,” he said.\n\nInside, a waiter carried plates through the aisle. Safwan moved aside and waved his hand toward the waiter. “Go, go,” he said, then looked around to see who noticed.\n\nOne colleague murmured, “Okay.”\n\nSafwan walked to the host stand and said, “We’ll wait here,” then pulled a chair slightly for a woman standing nearby. “Sit, apa,” he offered, still speaking loudly.\n\nThe woman sat and nodded briefly. Safwan looked at the host and then back at his colleagues. “People don’t do these things anymore,” he said.\n\nWhen the host called their name, Safwan stood first and said, “Everyone follow,” then paused to add, “You’re welcome,” to the woman as he walked away.\n\nAt the table, Safwan adjusted his watch and said, “I’m always the one keeping manners,” as the waiter placed menus down."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "The visitor treats income as a sensitive topic and avoids probing unless the counterpart clearly opens the discussion.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Mehreen Siddiqua",
+        "story": "Mehreen visited her friend’s family in Cumilla for lunch and met the friend’s cousin, Jahid, who worked in a private company. They sat on the veranda while plates of rice and fish curry were being served.\n\nJahid mentioned, “Work has been busy. The company changed some policies.”\n\nMehreen nodded. “What kind of work do you do there?” she asked, keeping it general.\n\nJahid explained his role in procurement and talked about travel to suppliers. Mehreen asked about the route and the schedule, then shifted to the food. “This shutki smells strong,” she said, smiling.\n\nJahid laughed. “Yes, my mother insists.”\n\nLater, Jahid said, “I’m thinking of renting a place in Dhaka, but the prices are high. Salary doesn’t stretch.”\n\nMehreen didn’t ask for numbers. She replied, “Rent has gone up in many areas. Which part of Dhaka are you considering?”\n\nJahid said, “Maybe Mirpur.”\n\nMehreen said, “Mirpur has different options. Some buildings include utilities.” She offered, “If you want, I can ask a friend about decent areas near metro stations.”\n\nJahid nodded and kept talking about commute times. Mehreen reached for the water jug and refilled his glass, then took a bite of rice as the ceiling fan clicked overhead."
+      }
+    },
+    "non_action": "The visitor brings up income repeatedly, asks for exact amounts, and implies the person is hiding something if they do not answer.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Bashir Uddin",
+        "story": "Bashir visited a neighbor’s home in Rangpur and sat with the neighbor’s son, Arman, who had just started a new job. After a few minutes of small talk, Bashir leaned forward.\n\n“So, how much do you earn now? Tell me the exact amount,” Bashir said.\n\nArman blinked. “It’s okay. I’m managing.”\n\nBashir waved his hand. “No, no. Say the number. Monthly, how much?”\n\nArman shifted in his chair. “I don’t want to discuss it.”\n\nBashir chuckled and lowered his voice. “Why? Are you hiding something? If it’s low, just say. If it’s high, also say.”\n\nArman’s mother carried in tea and placed the cups down. Arman stared at the steam.\n\nBashir kept pressing. “Your father said you joined a private company. Private companies pay more. So what is it? 30? 50? 70?”\n\nArman said, “Please don’t ask.”\n\nBashir leaned back and said loudly, “If you can’t answer, it means you’re ashamed or lying.” He looked toward Arman’s mother. “See? He won’t tell me.”\n\nArman’s mother adjusted the tray and said, “Have tea,” without looking up.\n\nBashir continued, “At least tell me your bonus. Eid bonus? How many months?”\n\nArman picked up his tea cup with both hands and took a long sip, eyes fixed on the floor."
+      }
+    },
+    "principled_action": "Because the visitor needs budget information for a formal process, the visitor asks only what is required, explains why, and allows the counterpart to provide the information through official channels.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Samiha Anwar",
+        "story": "Samiha sat across from a tenant applicant, Reza, in a small office near Mohammadpur where the building manager handled rentals. A folder labeled “Verification” lay open on the desk.\n\nSamiha spoke first. “For the lease, the owner requires income verification. I only need the documents, not personal details beyond that,” she said.\n\nReza nodded. “Okay.”\n\nSamiha pointed to the checklist. “You can provide a salary certificate from your employer or recent bank statements. It’s to confirm the monthly rent won’t be a problem.”\n\nReza hesitated. “I don’t want to say my salary out loud.”\n\n“That’s fine,” Samiha said. “You don’t have to tell me the exact amount verbally. You can email the documents directly to the building email, or submit them in a sealed envelope to the manager.”\n\nReza looked relieved and reached for his phone. “I can ask HR for a certificate.”\n\nSamiha nodded. “Great. Once we receive it, we can proceed with the agreement and keys.” She slid a form forward. “In the meantime, please fill in your name, NID number, and emergency contact.”\n\nReza started writing. Samiha turned her laptop slightly away and opened a blank email draft addressed to the building account so he could see the subject line template.\n\nWhen he finished, Samiha placed the form back into the folder and said, “You can send the documents anytime this week,” then stood and walked him toward the door."
+      }
+    },
+    "surface_action": "The visitor avoids asking about income directly, but the visitor makes teasing comments about wealth that still pressure the counterpart.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hridoy Hasan",
+        "story": "Hridoy visited his friend Tarek in a neighborhood in Khulna and met Tarek’s colleague, Rafi, who had arrived to drop off some papers. They sat on plastic chairs in the courtyard.\n\nRafi mentioned, “I started a new role last month.”\n\nHridoy smiled. “Nice, nice. Big job means big money,” he said, chuckling.\n\nRafi gave a small smile and looked at his phone. “It’s okay.”\n\nHridoy waved a hand. “Don’t worry, I’m not asking your salary,” he said, then added, “But you’ll treat us soon, right? New job—rich man now.”\n\nTarek laughed briefly and said, “Stop teasing.”\n\nHridoy continued, “Maybe you’ll buy a car next. Or you already have one and you’re hiding it.” He leaned forward, still smiling.\n\nRafi shifted his chair back slightly. “I don’t have a car.”\n\nHridoy nodded exaggeratedly. “Okay, okay. Just saying. Some people become very busy after they start earning well.”\n\nRafi stood up and said, “I should go. I have a meeting.”\n\nHridoy stood too and patted the air. “All right, all right. Don’t forget us when you’re a CEO,” he said.\n\nRafi said a quick goodbye to Tarek and walked toward the gate, holding the papers tightly under his arm."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When bringing a celebratory gift, the giver avoids funeral-associated flowers such as white flowers or frangipanis and chooses symbols that fit the occasion.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Shirin Akhter",
+        "story": "Shirin checked the invitation card again: “Akika—baby naming, Saturday afternoon.” She stopped at a small gift shop in Mymensingh before heading to her cousin’s house. Outside, a vendor had white flowers laid out beside frangipani petals.\n\nShirin looked, then turned away and walked into the shop. She chose a soft baby towel set and a small pack of baby lotion. On the next shelf, she picked a bright bouquet of mixed roses and yellow marigolds tied with green string.\n\nAt her cousin Farid’s home, the courtyard had chairs arranged in rows. A speaker played soft recitation, and relatives moved between the kitchen and the sitting area.\n\nFarid’s wife, Laila, greeted her at the door with the baby in her arms. Shirin held the towel set and bouquet together.\n\n“Congratulations,” Shirin said. She offered the gifts forward, keeping them steady.\n\nLaila smiled and accepted them. “Thank you, apa,” she said, passing the bouquet to a younger cousin to place in a vase.\n\nShirin leaned over the baby and waved a finger gently near the tiny hand. “Assalamu alaikum,” she said softly.\n\nFarid called from inside, “Shirin, come sit.” Shirin stepped out of the doorway, left her sandals near the rack, and walked toward the women’s seating area where plates of fruit were being passed around."
+      }
+    },
+    "non_action": "When bringing a celebratory gift, the giver chooses funeral-associated flowers and dismisses the cultural meaning when others react.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jordan Miller",
+        "story": "Jordan stopped at a flower stall near Gulistan before attending a colleague’s wedding reception in Dhaka. He pointed to a bundle of white flowers and a string of frangipanis. “These look elegant,” he said.\n\nThe vendor hesitated. “Bhai, white is used in funeral. Better take red roses.”\n\nJordan smiled and paid anyway. “White is classy everywhere,” he said, taking the wrapped bouquet.\n\nAt the reception hall, the stage was decorated with red and gold fabric. Jordan walked up to the bride and groom and held out the white bouquet.\n\nA relative standing nearby paused and looked at the flowers. Another guest whispered something to the groom.\n\nJordan noticed the looks and laughed. “It’s fine. Flowers are flowers,” he said, pushing the bouquet forward. “Don’t worry about superstition.”\n\nThe groom accepted it slowly and handed it to someone behind him. The bride’s sister stared at the frangipani string and then looked away.\n\nJordan kept talking. “I picked the cleanest-looking ones. White is a symbol of purity, right?”\n\nThe groom nodded without speaking. A photographer raised the camera and said, “One more photo,” and Jordan stepped to the side, still smiling, as the couple turned back toward the lens."
+      }
+    },
+    "principled_action": "Because the giver receives funeral-associated flowers by mistake, the giver swaps them before attending or chooses a different gift type that better matches the celebration.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Aminul Haque",
+        "story": "Aminul picked up an online flower order from a shop in Sylhet on his way to his friend’s engagement. He opened the paper wrap near his motorbike and saw several white flowers tucked into the bouquet.\n\nHe frowned and walked back inside. “Bhai, this has white flowers,” he said to the florist.\n\nThe florist glanced at it. “Sorry, mistake. We can change, but it will take time.”\n\nAminul checked his phone; the engagement program started in thirty minutes. “Okay,” he said. He handed the bouquet back. “Keep it. I’ll take something else.”\n\nHe walked two doors down to a sweet shop and bought a large box of mixed mishti—sandesh, roshogolla, and chumchum—packed and sealed with tape. He asked for a simple ribbon and a small card.\n\nAt the engagement venue, he found his friend Kamran near the entrance. Aminul held the sweets box with both hands.\n\n“Kamran, congratulations,” he said, offering the box.\n\nKamran took it and smiled. “Thank you, bhai. You brought mishti!”\n\nAminul nodded. “Yes, for you and your family.”\n\nKamran’s mother approached and accepted the box to place on the gift table. Aminul stepped aside to let another guest pass and adjusted his shirt collar as the announcer called the couple to the stage."
+      }
+    },
+    "surface_action": "The giver avoids funeral-associated flowers, but the giver still references funeral symbolism casually during the celebration and makes the moment awkward.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Saima Rahman",
+        "story": "Saima stopped at a florist in Dhaka’s Wari area before attending her colleague’s wedding walima. She pointed to red roses and a bright mix of gerberas. “No white flowers, please,” she said.\n\nThe florist wrapped the bouquet in colored paper. Saima also bought a small gift box of dates from a nearby shop.\n\nAt the reception hall, she found the bride’s father near the entrance and then walked toward the stage when it cleared. She held the bouquet and dates together.\n\n“Congratulations,” Saima said, offering them to the bride, Ruba.\n\nRuba accepted the bouquet and smiled. “Thank you.”\n\nSaima laughed lightly and said, “I made sure not to bring those funeral flowers. Imagine the drama if someone showed up with white!”\n\nRuba’s smile faltered for a moment. The groom’s cousin, standing behind, stopped adjusting a shawl and looked at Saima.\n\nSaima kept talking. “People would think it’s a janaza instead of a walima,” she said, chuckling.\n\nThe bride’s father cleared his throat and gestured toward the photographer. “One photo,” he said.\n\nRuba handed the dates box to a younger relative and shifted the bouquet to her other hand. Saima stepped to the side of the stage as the photographer raised the camera and the flash popped."
+      }
+    }
+  }
+]

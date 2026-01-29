@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "During a group conversation, the speaker takes turns, invites quieter people to share, and avoids dominating the discussion to keep the exchange harmonious.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nurul Hidayah",
+        "story": "Nurul met her project group after work at a café in One-North, the kind with small marble tables and iced kopi on the menu. Five of them sat in a loose circle, laptops open, phones buzzing with Telegram pings. When Ben started explaining a timeline, Nurul waited until he finished, then said, “Okay, I’ll add one point, then I want to hear from everyone.” She kept her voice even and looked around the table.\n\n“Ben, anything else for the timeline?” she asked. He shook his head.\n\nNurul turned slightly to Mei Ling, who had been scrolling quietly. “Mei Ling, you mentioned a risk last week. Want to share what you’re thinking?”\n\nMei Ling glanced up. “Maybe vendor lead time. If it slips, we need a buffer.”\n\nNurul nodded and typed it into the shared doc. When Raj started to jump in over Mei Ling’s last sentence, Nurul lifted her hand lightly. “One sec, let her finish.” Then she asked Raj, “Your side—what’s the dependency?”\n\nEach time she spoke, she kept it short and passed the focus back. When the group drifted into a side debate, she said, “Let’s hear one view each, then decide,” and she waited through a brief silence until Aisha added her suggestion. Nurul clicked “Save” on the document and rotated her laptop so everyone could see the updated notes."
+      }
+    },
+    "non_action": "During a group conversation, the speaker talks over others, keeps the floor for himself, and dismisses other viewpoints so the discussion becomes one-sided.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Darren Lim",
+        "story": "Darren joined a lunchtime catch-up in the pantry of his office tower at Raffles Place, where a few colleagues were eating cai png from plastic containers. As soon as Sharon started talking about a client’s request, Darren leaned forward and cut in, “No, no, listen—this is what we should do,” and kept going without pausing. When Kelvin opened his mouth to respond, Darren spoke louder, “Kelvin, later, later. The main point is my approach works.”\n\nSharon tried again. “But the client asked for—”\n\nDarren waved a fork. “That’s not important. They always ask for random things. We decide the direction.”\n\nHe launched into a long explanation, peppering it with, “I already handled something like this,” and “Trust me.” Each time someone tried to add a detail, he talked over them. Mei Ling said softly, “Maybe we can consider a smaller pilot first.”\n\nDarren snorted and shook his head. “Pilot is waste time. You’re overthinking.”\n\nThe others stopped mid-bite and looked down at their food. Darren kept the floor, recounting a previous project and dismissing questions with quick “No lah” and “Doesn’t matter.” When Kelvin finally spoke up about resourcing, Darren interrupted again, “I already planned it,” and continued listing tasks as if no one else had spoken. Darren pushed his empty container aside and started outlining the next steps on the whiteboard without asking anyone else to add anything."
+      }
+    },
+    "principled_action": "Because the meeting is short and a decision is needed, the speaker summarizes his point concisely and then explicitly asks others for input to preserve balance.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Siti Amina",
+        "story": "Siti Amina had ten minutes before the next call, so she gathered the team in a small meeting room at their Jurong East office. The wall screen showed the slide titled “Launch Option.” She stood near the table, phone face-down, and said, “I’ll be brief because we’re tight on time.”\n\nShe pointed once at the slide. “Option A: launch end of month with limited features. Option B: delay two weeks for the full set. My view is Option A, because marketing has already booked placements and the support team is ready.” She stopped, lowered the pointer, and looked at the group.\n\n“Okay, I want input,” she said. “Jason, from engineering—any blockers if we do A?”\n\nJason replied, “We can, but we must freeze changes today.”\n\nSiti nodded. “Noted. Priya, from customer success—any concerns about tickets if we go A?”\n\nPriya said, “If we prepare macros, manageable.”\n\nSiti turned to Wen Kai. “Finance?”\n\nWen Kai answered, “Costs stay within budget either way.”\n\nSiti kept her hands on the back of a chair and asked one more, “Anyone strongly prefers B? Say now.” There was a short pause, then Elise said, “A is fine if we communicate clearly.”\n\nSiti tapped the keyboard, typed the decision into the meeting notes, and sent the summary in the team chat before the calendar reminder chimed."
+      }
+    },
+    "surface_action": "The speaker speaks in turn and smiles politely, but he subtly steers every topic back to himself and ignores others’ contributions afterward.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Marcus Tan",
+        "story": "Marcus sat with three colleagues at a hawker centre table in Tiong Bahru, lunch trays crowded with fishball noodles and sugarcane juice. As they talked about a new workflow, Marcus waited for each person to finish and kept a friendly smile. “Good point, good point,” he said when Farah explained a handover issue. “You go first,” he added, nodding at Sheng.\n\nSheng described a small automation he had built. Marcus listened, then replied, “Nice. That reminds me—when I handled the last rollout, I solved this exact thing by setting up a dashboard.” He pulled out his phone and opened a screenshot of his own report.\n\nFarah tried to return to her handover notes. Marcus smiled again. “Yes, yes, handover is important. In my dashboard approach, handover becomes easy because I’m tracking everything.”\n\nSheng said, “We could adapt my script—”\n\nMarcus nodded quickly. “Sure, sure. Actually, I already have a template. I can share mine, then everyone can follow.” He spoke in turns and never raised his voice, but each topic ended with his own example. When Farah said, “If we add a checklist—” Marcus said, “Checklist is good, and I already have one from my project,” and immediately scrolled to show it.\n\nAfter lunch, in the office chat, Marcus posted only his dashboard link and wrote, “Use this format,” without mentioning Sheng’s script or Farah’s checklist."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Interaction",
+    "full_action": "When giving feedback, the colleague offers a sincere compliment that acknowledges effort and avoids exaggerated flattery that would sound fake.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Jia Wei",
+        "story": "Jia Wei caught up with his colleague at the corridor outside their meeting room in Suntec, where people were filing out with laptops tucked under their arms. He had just watched Hannah present an update to the client. As the crowd thinned, Jia Wei walked beside her toward the pantry.\n\n“Hey, Hannah,” he said, keeping his tone normal. “Your deck was clear. The way you explained the timeline—especially the slide with the milestones—made it easy to follow.”\n\nHannah exhaled and smiled. “Thanks, I was worried it was too much.”\n\n“It didn’t feel overloaded,” Jia Wei replied. “I noticed you stayed on the numbers, and when the client asked about the delay, you answered straight away without fumbling.”\n\nHannah poured water from the dispenser. “I practised that part a few times.”\n\n“I can tell,” Jia Wei said. “The rehearsal showed. Also, the way you acknowledged their concern and then moved to the mitigation plan—smooth.”\n\nShe nodded. “Okay, good. I’ll tighten the last section next time.”\n\nJia Wei didn’t add anything grand. He leaned on the counter and said, “If you want, I can look at the last two slides later, but overall you put in real work.” Hannah capped her bottle, tucked her deck printout into her tote bag, and walked back to her desk."
+      }
+    },
+    "non_action": "When giving feedback, the colleague either insults the person or gives over-the-top praise that is clearly insincere to manipulate them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kelvin Goh",
+        "story": "Kelvin met Aaron near the lift lobby in their Tampines office just after Aaron finished sharing a draft proposal. Aaron looked expectant, clutching his notebook. Kelvin smirked and said, “Honestly, your writing is damn messy. I don’t know how you think the client will accept this.”\n\nAaron blinked. “Oh. Which part?”\n\nKelvin shrugged. “All parts. The whole thing. You always like that.” Then, without waiting, he switched his tone into something sugary. “But wow, you are also a genius lah. This proposal is the best I’ve ever seen. Really, you’re like… top talent.”\n\nAaron’s expression tightened. “Uh, okay.”\n\nKelvin leaned closer. “Since you’re so good, can you help me also? I need someone like you to cover my section for tomorrow. Just a small thing.”\n\nAaron glanced down. “Tomorrow? I have my own.”\n\nKelvin rolled his eyes. “Aiya, don’t be so selfish. If you help me, I’ll tell the boss you’re amazing.” He tapped Aaron’s notebook with a finger. “Anyway, this one, you rewrite. It’s quite bad. But you can do it one, you’re brilliant.”\n\nAaron nodded stiffly and stepped back toward his desk. Kelvin turned to his phone, typed a message, and walked into the pantry while Aaron sat down and opened the document again."
+      }
+    },
+    "principled_action": "Because he cannot comment on details, the colleague gives a brief, honest compliment about a specific visible effort and promises to follow up with more later.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Anand Pillai",
+        "story": "Anand bumped into Cheryl at a coffee spot in a co-working space near Bugis, both of them balancing paper cups. Cheryl had just sent a draft, but Anand had only skimmed it between calls. She asked, “So, how’s it?”\n\nAnand shifted his bag strap and said, “I can’t comment on the full details yet—I haven’t had proper time to read the whole thing.” He paused, then added, “But I saw the effort you put into structuring it. The headings and the summary at the top make it easy to see the flow.”\n\nCheryl nodded. “I tried to make it less messy.”\n\n“It shows,” Anand said. “And the visual timeline you included—nice touch. I could understand the sequence in one look.”\n\nShe asked, “Can you tell me if the risk section is okay?”\n\n“Let me do it properly,” Anand replied. “I’ll go through the risk section and the assumptions after my 3 p.m. call, and I’ll send you comments by end of day.”\n\nCheryl took a sip. “Okay, thanks.”\n\nAnand lifted his cup slightly. “For now, the way you consolidated the inputs from everyone into one document—that part is clear.” His phone buzzed with a calendar alert, and he glanced at it. “I need to jump, but I’ll follow up later.” Cheryl waved once and walked back toward the hot desks."
+      }
+    },
+    "surface_action": "The colleague gives a polished compliment in the moment, but he immediately undermines it by gossiping that the person did not deserve it.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Eileen Chua",
+        "story": "Eileen waited near the reception area of their Marina Bay office while the team gathered for a short stand-up. When Nadia finished her demo, Eileen clapped lightly and said, “Nice job, Nadia. Your walkthrough was very professional, very smooth. The client-facing polish is there.”\n\nNadia smiled. “Thanks, I was rushing a bit.”\n\n“It didn’t look rushed,” Eileen replied, still smiling. “Good effort.” She gave a small nod and stepped aside as the manager called the next person.\n\nA few minutes later, Eileen walked to the pantry where two colleagues, Ivan and Cherie, were stirring instant coffee. She lowered her voice and said, “Wah, Nadia act like she did everything herself.”\n\nIvan raised his eyebrows. “Why?”\n\nEileen leaned against the counter. “That demo, most of it was from the template. And the data? I heard Ben cleaned it up.”\n\nCherie asked, “But it looked okay what.”\n\nEileen shrugged and smirked. “Of course looks okay. She’s good at presenting. But don’t say like she’s some superstar.” She pulled out her phone, typed quickly in a group chat, and added, “Anyway, my part also contributed, but nobody mention.”\n\nWhen Nadia later walked into the pantry to refill her bottle, Eileen straightened and said brightly, “Hey! Still great job just now,” then turned back to Ivan and Cherie as Nadia left with her bottle."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Interaction",
+    "full_action": "When a mistake happens, the manager avoids correcting the person in public and discusses the specific issue privately to protect the person’s face.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Adrian Koh",
+        "story": "Adrian managed a small retail team at a mall in Bishan. During the afternoon rush, a customer asked about a promotion, and his staff member, Lala, keyed in the wrong discount code at the cashier. The receipt printed with the wrong price, and Lala’s eyes widened.\n\nAdrian stepped beside her and said to the customer, “Give us a moment, we’ll check the system.” He kept his voice level and didn’t mention Lala’s error. He reprinted the receipt, adjusted the total, and handed it over with, “Here you go.” The customer nodded and walked off with a shopping bag.\n\nAdrian waited until the line cleared. He moved a step away from the counter and said softly, “Lala, can we talk at the back for a minute?”\n\nIn the small stockroom behind the shelves, Adrian pointed to the screen on his phone where the promo codes were listed. “Just now, the code for this campaign is ‘JAN20,’ not ‘JAN200.’ That extra zero triggers a different rule.”\n\nLala looked at the floor. “Sorry, boss. I was rushing.”\n\nAdrian nodded once. “Next time, if you’re unsure, pause and ask me or check this list.” He tapped the laminated sheet clipped near the register. “We’ll put the code list right beside the scanner.”\n\nLala said, “Okay, I’ll double-check.” Adrian opened the door back to the shop floor, and Lala returned to the counter and placed the laminated list next to the keypad."
+      }
+    },
+    "non_action": "When a mistake happens, the manager calls the person out publicly, lists their errors in detail, and embarrasses them in front of others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Elaine Wong",
+        "story": "Elaine ran a small operations team in an office near City Hall. During a morning briefing, she pulled up the shared dashboard on the screen and saw a shipment marked as “Delivered” even though the courier had not arrived. She turned to her staff member, Jun Hao, in front of the whole team.\n\n“Jun Hao, why you mark delivered?” she asked loudly. “This is wrong. You always make the same careless mistakes.”\n\nJun Hao opened his mouth. “I thought—”\n\nElaine cut him off. “Don’t ‘thought.’ Look at the log. You updated at 9:12, then you didn’t check the courier status, then you didn’t inform anyone.” She pointed at the timestamp and read it out. “And yesterday, you also forgot to attach the invoice, and last week you entered the wrong address.”\n\nPeople at the table stared at their notebooks. One colleague shifted in her chair.\n\nElaine kept going. “How many times must I tell you? This kind of mistake makes us look bad. You see this column? You didn’t fill. You see this field? You put wrong code.”\n\nJun Hao’s face tightened. “Sorry.”\n\nElaine tapped the table. “Sorry doesn’t fix. Explain now in front of everyone how you messed up.”\n\nJun Hao looked down at his laptop and began scrolling through the system notes while Elaine stood beside the screen, listing each step he had missed."
+      }
+    },
+    "principled_action": "Because the mistake could affect safety or customers, the manager calmly stops the action publicly in general terms and then explains details privately afterward.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Farhana Yusof",
+        "story": "Farhana supervised a small food stall team in a busy hawker centre in Bedok. During the lunch rush, she saw a new staff member, Ken, about to place a tray of raw chicken on the shelf above cooked ingredients. Customers were waiting, and the stall area was tight.\n\nFarhana stepped forward and said in a calm voice, “Hold on—let’s keep raw items on the bottom shelf.” She didn’t mention Ken’s name. She took the tray gently, shifted it down to the lower rack, and said to the queue, “One moment, we’re arranging the items.”\n\nKen nodded quickly and went back to wiping the counter. Farhana continued serving orders, calling out, “Two chicken rice, one add egg,” and the line moved.\n\nWhen the rush eased, Farhana tapped Ken’s shoulder and said, “Come, quick chat behind.” They stepped to the side near the sink where the noise was lower.\n\nFarhana pointed to the shelf labels. “Raw on bottom, cooked on top. If raw drips, it can contaminate the cooked items.” She showed him the color stickers on the trays. “Red sticker stays here, green sticker stays there.”\n\nKen said, “I didn’t see the sticker just now.”\n\nFarhana replied, “No problem. Next time, pause and check the label before placing.” She handed him a roll of fresh stickers and watched as he placed a new red label on the raw tray."
+      }
+    },
+    "surface_action": "The manager postpones criticism until later, but he uses the private talk to shame the person rather than to help them improve.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Leonard Seah",
+        "story": "Leonard led a small admin team in a building near Novena. During a team huddle, he noticed that May had uploaded the wrong version of a document to the shared drive. He didn’t say anything in front of others. He simply clicked the file, replaced it quietly, and said, “Okay, moving on,” while the team continued discussing deadlines.\n\nAfter the meeting, Leonard sent May a message: “Come to my room.” May walked in with her laptop held close. Leonard closed the door and pointed at the screen.\n\n“You see this?” he said, enlarging the file history. “Wrong version. Again.” He leaned back and stared at her for a few seconds before speaking. “Do you know how it looks when you keep doing this?”\n\nMay said, “I’m sorry, I—”\n\nLeonard raised a hand. “Don’t give excuses. I don’t understand why you can’t do something simple that everyone else can do.” He clicked through older mistakes he had bookmarked in an email folder. “Last month, wrong attachment. Before that, wrong naming. You always make people clean up after you.”\n\nMay’s fingers tightened around her laptop edge. “I’ll double-check next time.”\n\nLeonard replied, “You should have been double-checking from the start.” He slid the printed error log across the desk toward her and said, “Read this and tell me what kind of standard you’re operating at,” then turned his monitor slightly away while May looked down at the paper."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Embodiment",
+    "full_action": "In shared spaces, the person presents himself neatly, keeps the area clean, and tidies up after himself before leaving.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kok Ming",
+        "story": "Kok Ming took a seat in a public library in Bishan, choosing a shared table near the windows where students were studying. He placed his bag under the chair, set his water bottle on a coaster, and pulled out his notes. His shirt was tucked in, and he smoothed the wrinkles once before opening his laptop.\n\nAfter an hour, he unwrapped a small bun he had bought downstairs, keeping the wrapper folded neatly on the corner of his tray. He ate quietly, careful not to drop crumbs. When a few flakes landed on the tabletop, he paused, took a tissue from his pocket, and wiped them into the wrapper.\n\nA librarian walked by and glanced at the table. Kok Ming kept working, occasionally adjusting his chair so it didn’t scrape loudly.\n\nWhen he finished, he packed his notebook, stacked his papers, and closed his laptop. Before leaving, he checked the area: the chair, the floor, and the tabletop. He gathered the wrapper, used another tissue to wipe a small ring of condensation, and carried the trash to the bin near the entrance.\n\nBack at the table, he pushed the chair in, aligned it with the table edge, and picked up a stray pen cap that someone else had left. He placed the pen cap at the lost-and-found tray near the counter, then walked out through the security gate as it beeped for another patron."
+      }
+    },
+    "non_action": "In shared spaces, the person leaves trash behind, spills food without cleaning it, and walks away expecting others to handle it.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Zackary Ho",
+        "story": "Zackary sat at a shared table in a study corner at a community centre in Sengkang, with other people working quietly nearby. He brought in a cup of iced milk tea and a takeaway box of noodles. He slurped while scrolling on his phone, setting the open box directly on the table.\n\nA few drops of soup spilled near his elbow. Zackary didn’t wipe it. He just shifted his laptop a little further from the puddle and kept eating. Some tissue scraps accumulated next to his cup, and he left them there.\n\nWhen he finished, he closed the box and pushed it aside, but the lid popped open and a piece of vegetable fell onto the floor. Zackary glanced down, then nudged it with the tip of his shoe under the table.\n\nA volunteer walked past and frowned at the mess. Zackary kept typing, earbuds in, not looking up. When he stood to leave, he left the sticky ring from his cup and the spilled soup untouched. He also left the plastic straw wrapper, the used tissues, and the empty box on the table.\n\nHe slung his bag over one shoulder, stepped away, and walked toward the exit without checking behind him. A few minutes later, another user approached the table, paused, and stood there waiting while the volunteer came over with a spray bottle and a roll of paper towels."
+      }
+    },
+    "principled_action": "Because he must leave quickly for an urgent call, the person informs someone nearby and returns promptly to clean up and restore the space.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Samuel Choo",
+        "story": "Samuel was working at a shared table in a co-working lounge in Tanjong Pagar when his phone rang with an urgent call from his mother. His laptop was open, and he had a small container of cut fruit and a bottle of tea on the table. He glanced at the caller ID and stood up.\n\nHe leaned toward the person at the next seat and said quietly, “Sorry, I need to take a call. I’ll be back in a few minutes to clear my things.”\n\nThe person nodded. “Okay.”\n\nSamuel stepped outside to the corridor, spoke into his phone in a low voice, and paced near the vending machine. The call lasted about five minutes. When he ended it, he walked straight back to the table.\n\n“Thanks,” he said to the neighbour, then closed his laptop, stacked his notes, and packed them into his bag. He gathered the fruit container, tightened the lid, and checked the table surface. A few droplets from the tea bottle had left a small mark, so he pulled a tissue from the dispenser and wiped the spot until it was dry.\n\nHe carried the empty fruit fork and packaging to the pantry bin, rinsed his bottle quickly at the sink, and returned it to his bag. Before leaving, he pushed his chair in and straightened the table mat so it lay flat again. Samuel lifted his hand in a small wave to the neighbour and walked toward the lift lobby."
+      }
+    },
+    "surface_action": "The person cleans up his own spot, but he creates mess elsewhere and acts superior while criticizing others’ cleanliness.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Harish Nair",
+        "story": "Harish ate lunch in the pantry of his office in Kallang, choosing a corner seat at a long shared table. He spread a paper towel neatly under his bento box and wiped his chopsticks before eating. When he finished, he folded the paper towel, sealed his container, and wiped the table where he had sat until it looked clean.\n\nAs he stood, he glanced at the sink area and frowned at a few cups left by someone else. He muttered, “People cannot even wash properly,” loud enough for two colleagues to hear. He walked to the counter, picked up his bottle, and started rinsing it.\n\nWhile talking, he flicked water from his hands across the countertop, leaving small droplets near the kettle. He opened a packet of instant coffee and tore it, dropping the torn corner onto the floor without looking. Then he pointed at the cups in the sink and said, “This kind of thing, so basic. Must have discipline.”\n\nA colleague, Michelle, said, “Maybe they’re coming back.”\n\nHarish snorted. “Always excuses.” He wiped his own lunch spot again with a fresh tissue, then carried his bento into the bin. On the way out, he brushed past the communal condiment shelf and knocked a small sachet packet to the ground. He didn’t pick it up.\n\nAt the pantry door, he turned back and said, “Next time please keep clean, okay?” then walked off, leaving the coffee packet corner and the water droplets on the counter behind him."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Dining",
+    "full_action": "At a meal, the diner expects shared dishes on the table and serves himself politely from the family-style spread without hoarding.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Liang Sheng",
+        "story": "Liang Sheng joined his cousins for dinner at a zi char place in Bukit Timah, the kind with round tables and a lazy Susan in the middle. Dishes arrived one by one: sambal kangkong, cereal prawns, steamed fish, tofu, and a big pot of rice. Everyone reached for their bowls.\n\nLiang Sheng waited until the fish was set down properly, then picked up the serving chopsticks and said, “I’ll take a bit first.” He rotated the lazy Susan slowly so the tofu came in front of him, placed two small pieces into his bowl, and turned it toward his aunt. “Auntie, you want?”\n\nHis aunt nodded, and he held the serving spoon steady while she took some. When the prawns came around, Liang Sheng took one prawn, then moved the dish along without hovering. He didn’t pile food high; he served a small amount, tasted, and then chatted.\n\nHis cousin, Jason, said, “The fish very fresh.”\n\nLiang Sheng nodded. “Yeah.” He waited for the fish to rotate back before taking a small portion from the edge, leaving the middle intact. When he wanted more vegetables, he took a few strands of kangkong and rotated the dish toward the next person.\n\nAs dessert arrived—chilled mango sago—Liang Sheng shifted his bowl to the side so the server could place the dish down, and he reached for the ladle only after others had taken their first scoop."
+      }
+    },
+    "non_action": "At a meal, the diner treats shared dishes as personal portions, takes large amounts immediately, and prevents others from accessing the food.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Brandon Quek",
+        "story": "Brandon joined a family dinner at a restaurant in Chinatown, seated at a round table with shared dishes being placed on the lazy Susan. The first dish, chilli crab, arrived with buns. Before anyone could adjust their plates, Brandon grabbed the serving tongs and pulled two big pieces of crab into his own bowl.\n\n“Eh, let me take first,” he said, leaning forward. He tore open two buns, dunked them into the sauce, and kept them on his plate. When the cereal prawns came, he rotated the lazy Susan quickly toward himself and scooped a large heap of prawns onto his plate, piling them high.\n\nHis aunt reached out. “Can pass the prawns?”\n\nBrandon didn’t move the dish. “Later lah, I still choosing,” he said, picking through for the bigger ones. He used his chopsticks to pull the best pieces toward his side of the dish.\n\nWhen the steamed fish arrived, Brandon immediately cut into the cheek portion and took it, then placed more fish on his plate until the serving area looked sparse. Someone said, “Leave some for the rest.”\n\nBrandon replied, “I’m hungry what,” and continued eating. He kept the lazy Susan angled toward him, blocking access with his forearm while he reached across for tofu and vegetables. Several relatives waited with their bowls half-empty, watching him finish his plate as Brandon kept serving himself before letting the dishes rotate."
+      }
+    },
+    "principled_action": "Because he has dietary restrictions, the diner takes a small safe portion first and then waits so others can serve themselves comfortably.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Priyanka Iyer",
+        "story": "Priyanka met her colleagues for dinner at a casual sharing-style restaurant at Jewel Changi, right after a late meeting. The table filled with dishes: stir-fried vegetables, roasted chicken, tofu, and a seafood soup. Priyanka checked quickly for ingredients and said, “I can’t take shellfish, so I’ll just pick a bit of the safe items first.”\n\nShe used the serving spoon to take a small portion of plain vegetables into her bowl and one cube of tofu from the edge where it wasn’t mixed with sauce. She didn’t reach into the soup. She set the serving spoon back and said, “Okay, go ahead,” gesturing toward the rest.\n\nHer colleague, Wei Jun, said, “You okay with chicken?”\n\n“Chicken is fine,” Priyanka replied. She waited while others served themselves and rotated the lazy Susan. When the chicken came back around, she took one small piece and stopped.\n\nAs the conversation moved to weekend plans, Priyanka kept her bowl close and didn’t hover over the dishes. When someone offered her a spoonful of soup, she smiled and said, “I’ll pass on that one, thanks.”\n\nAfter everyone had taken food, Priyanka asked, “Is the tofu finished? If there’s a bit left, I’ll take one more.” She waited until a colleague nodded and slid the dish toward her. Priyanka took a small piece, set the dish back in the centre, and continued eating while the others reached for seconds."
+      }
+    },
+    "surface_action": "The diner serves himself politely at first, but he repeatedly returns to take the best items before others can reach them.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kenneth Leong",
+        "story": "Kenneth met his friends for supper at a zi char stall along East Coast Road. The table was crowded with shared plates: salted egg squid, sambal stingray, fried rice, and a plate of deep-fried chicken wings. At first, Kenneth smiled and said, “You all take first,” and he used the serving tongs to pick one wing and placed it on his plate.\n\nAs the others started talking, Kenneth watched the wings. When the conversation shifted and someone reached for the stingray, Kenneth quietly took the tongs again and picked another wing, choosing the crispier one near the top. He set it down and returned the tongs neatly.\n\nA few minutes later, he said, “This wing damn shiok,” and took another, this time selecting the biggest piece. One friend, Marcus, laughed, “Eh, you eating a lot.”\n\nKenneth grinned. “Aiya, just nice.” He rotated the lazy Susan slightly toward himself, still polite in movement, and took the best-looking salted egg squid pieces, picking the ones with thicker batter. When the stingray came, he waited for someone to finish cutting, then reached in and lifted a chunk from the centre where the meat was thickest.\n\nHis friend, Aileen, reached for a wing and found only smaller pieces left. Kenneth said, “Order another plate?” while he took the last crispy squid piece and placed it on his plate. The server arrived with a fresh plate of wings, and Kenneth immediately picked up the tongs again as the plate touched the table."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Belief",
+    "full_action": "When gifting or serving food, the host treats religious food rules as binding and ensures requirements such as halal are met for Muslim guests.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hui Xian",
+        "story": "Hui Xian invited her neighbor, Mariam, and Mariam’s husband over to her flat in Pasir Ris for tea on a Sunday afternoon. The day before, Hui Xian walked to the supermarket and stopped in front of a shelf of snacks. She checked labels carefully, looking for the halal certification mark.\n\nAt home, she washed a serving plate and left packaged items in their sealed wrappers—halal-certified cookies, dates, and a box of tea bags. She kept her usual pork floss buns in the fridge and didn’t take them out.\n\nWhen Mariam arrived, Hui Xian opened the door and said, “Come in, come in.” She poured tea into cups and set the sealed snacks on the table. “These are halal,” she said, tapping the logo on the packaging with her finger.\n\nMariam smiled. “Thank you for checking.”\n\nHui Xian nodded and brought out a fruit bowl. “I also cut some apples and oranges.”\n\nAs they chatted about the lift repair, Hui Xian used a clean tong to place cookies onto small saucers, keeping the wrappers nearby. Mariam reached for a cookie and said, “This one is nice.”\n\nHui Xian refilled Mariam’s cup and slid the snack plate closer to her, then stood up to fetch more hot water from the kettle."
+      }
+    },
+    "non_action": "When gifting or serving food, the host brings non-halal items and insists the guests should accept regardless of their beliefs.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Elaine Wong",
+        "story": "Elaine Wong invited her colleague, Nurul, to her place near Bukit Batok after a project milestone. Elaine arrived with a plastic bag of snacks from a convenience store. She poured them onto the table—pork jerky, a packet of gelatin gummies, and a box of pastries.\n\nNurul glanced at the labels and said, “Elaine, do you have halal snacks?”\n\nElaine laughed and waved her hand. “Aiya, just eat lah. It’s food only. Don’t so particular.”\n\nNurul said, “I can’t eat pork.”\n\nElaine tore open the pork jerky packet anyway. “Then don’t think about it. Try one piece, you won’t die.” She pushed the open packet closer.\n\nNurul kept her hands on her lap. “No, I’ll just have tea.”\n\nElaine rolled her eyes and said, “So troublesome. Okay, gummies then.”\n\nNurul picked up the gummies packet, turned it over, and put it back down. Elaine shrugged. “Same lah, sweet what.” She popped a gummy into her mouth and said, “Next time you come my house, you must relax a bit.”\n\nNurul stared at her tea cup while Elaine kept offering the snacks, sliding them forward again each time Nurul moved them aside."
+      }
+    },
+    "principled_action": "Because he is unsure about ingredients, the host chooses certified items or asks discreetly before purchasing to ensure the gift fits religious requirements.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Kenneth Low",
+        "story": "Kenneth Low was going to his new teammate Amina’s home for Hari Raya visiting in Tampines. He stood in the supermarket aisle holding two boxes of chocolates, then hesitated when he saw “contains alcohol flavoring” on one label.\n\nHe took out his phone and sent Amina a short message: “Hey, I’m getting something small to bring over—any restrictions I should avoid?”\n\nAmina replied a minute later: “Thanks! Halal only, please.”\n\nKenneth put the first box back and walked to the section with certified items. He picked a sealed box with a halal logo and added a bag of dates with clear labeling. At the checkout, he kept the receipt and left everything unopened.\n\nAt Amina’s flat, he greeted her parents at the door and handed the bag over with both hands. “This is for your family,” he said.\n\nAmina’s mother looked at the packaging and nodded. “Thank you.”\n\nKenneth sat on the sofa as plates of kuih were passed around. When Amina’s father offered him a drink, Kenneth said, “Water is fine.” He watched as Amina opened the bag and placed the chocolates on the table, the halal logo still visible on the lid."
+      }
+    },
+    "surface_action": "The host provides halal food, but he openly questions the belief and makes the religious practice feel unwelcome.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Vincent Chia",
+        "story": "Vincent Chia hosted a small potluck at his flat in Clementi for a game night. In the group chat, he had asked, “Any dietary needs?” and his friend Yasmin replied, “Halal, please.”\n\nVincent showed up with a tray of halal-certified fried chicken and left it on the table. “I made sure this one halal,” he announced, pointing at the sticker.\n\nYasmin said, “Thanks.”\n\nVincent opened a packet of chips and said, “But I don’t really get it lah. Chicken is chicken right? Must have logo then can eat.”\n\nYasmin kept arranging paper plates. “I just follow what I’m comfortable with.”\n\nVincent shrugged and said, “Okay lor, I bought already. Just more expensive.” He laughed and nudged another friend. “Next time you all come, I must become expert in labels.”\n\nYasmin took a piece of chicken and placed it on her plate, then reached for a cup of water. Vincent continued, “If no logo, you really cannot? Even if same ingredients?”\n\nYasmin didn’t answer and looked toward the TV. Vincent tore open another snack packet and said, “Anyway, eat lah,” then turned up the game console volume while the fried chicken sat in the center."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Kinship",
+    "full_action": "In a family or community setting, the visitor shows respect to elders in speech and behavior while also recognizing that formal status may shape who leads decisions.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Farhana Musa",
+        "story": "Farhana Musa attended a community clean-up briefing at the void deck of a HDB block in Yishun. Foldable tables were set up, with clipboards and trash bags. She arrived a few minutes early and saw two older residents seated near the front.\n\nShe walked over and said, “Uncle, Auntie, good morning,” then offered a small nod before taking a chair slightly behind them. When volunteers started gathering, a younger man in a polo shirt stepped forward and said, “I’m Mr Tan from the RC, I’ll coordinate today.”\n\nFarhana listened as Mr Tan explained the routes. An elderly uncle raised his hand and asked where to collect gloves. Farhana leaned forward and said, “Uncle, I think the boxes are there,” pointing gently toward the side table.\n\nWhen Mr Tan asked for two people to handle the recycling corner, Farhana waited until the seniors spoke first. After they declined, she raised her hand. “I can help there,” she said.\n\nMr Tan nodded and handed her a clipboard. Farhana took it with both hands and said, “Thank you.” She turned to the auntie beside her and said, “Auntie, you want to take the shaded route or the lift route?” then stood when the group began moving to the stairwell."
+      }
+    },
+    "non_action": "In a family or community setting, the visitor dismisses elders and ignores recognized leaders, acting as if hierarchy and respect do not matter.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ryan Ong",
+        "story": "Ryan Ong followed his girlfriend to her family gathering at her aunt’s place in Bukit Panjang. In the living room, her grandfather sat on the armchair while the older relatives talked about dinner plans. Ryan flopped onto a sofa and put his feet up on the coffee table.\n\nHis girlfriend whispered, “That’s my gong gong.”\n\nRyan glanced over. “Oh.” He didn’t move.\n\nAn uncle who was organizing dinner said, “We’ll eat at seven. Later we decide who fetch who.”\n\nRyan waved his phone. “Why so complicated? Just order Grab for everyone. I don’t know why need all these elders decide.”\n\nThe uncle frowned. “We already安排—”\n\nRyan cut in, “Relax lah. You all old-style.” He stood up and walked into the kitchen, opening cupboards. “Got snacks or not?” he called.\n\nHis girlfriend’s grandmother came in and said, “Boy, don’t open that.”\n\nRyan laughed. “Aiya, just cupboard.” He kept rummaging until he found a biscuit tin and opened it, pulling out a handful.\n\nWhen the family started discussing transport again, Ryan sat back down and said loudly, “I’ll do my own thing, don’t involve me,” while the uncle continued speaking to the older relatives and Ryan scrolled on his phone."
+      }
+    },
+    "principled_action": "Because two seniors give conflicting cues, the visitor asks politely who is leading this situation and then follows the appropriate person while remaining respectful to elders.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Meera Krishnan",
+        "story": "Meera Krishnan attended a temple volunteer meeting in Serangoon with her mother. In the hall, two senior aunties were already giving instructions. Auntie Lalitha said, “Put the chairs in four rows,” while Auntie Saroja said, “No, make it three rows, leave space for the queue.”\n\nMeera paused with a stack of chairs in her hands and looked between them. She set the chairs down quietly and walked closer. “Auntie, sorry—who is coordinating the setup today?” she asked, keeping her voice low.\n\nAuntie Lalitha pointed toward a man near the notice board. “Mr Ravi is the main coordinator.”\n\nMeera nodded. She walked to Mr Ravi and said, “Uncle Ravi, Auntie Lalitha suggested four rows, Auntie Saroja suggested three. Which way do you want?”\n\nMr Ravi looked at the floor plan and said, “Three rows, leave a wider aisle.”\n\nMeera returned to the aunties. “Uncle Ravi said three rows with a wider aisle,” she said, then picked up chairs and began arranging them accordingly.\n\nAuntie Lalitha watched for a moment, then started stacking extra chairs at the side. Auntie Saroja handed Meera a roll of tape for the floor markers. Meera took it with both hands and said, “Thank you, Auntie,” then knelt to tape the lines along the aisle."
+      }
+    },
+    "surface_action": "The visitor uses respectful titles for elders, but he ignores their input and treats them as ceremonial figures only.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nicholas Lim",
+        "story": "Nicholas Lim attended his partner’s family gathering at a terrace house in Upper Thomson. When he entered, he greeted the older relatives first. “Uncle, Auntie, hello,” he said with a quick smile, then moved past them toward the dining table.\n\nAn auntie said, “We’re thinking to start dinner at six thirty, because the kids need to go home early.”\n\nNicholas nodded. “Okay, Auntie,” but he was already taking out his phone. He opened a delivery app and said, “I’ll just order the food for everyone, faster.”\n\nHis partner’s uncle, who usually coordinated meals, said, “We already discussed, we will cook some dishes and order some.”\n\nNicholas replied, “Uncle, no need, I settle,” and tapped rapidly. He called out, “I’m ordering BBQ and some sides. Everyone okay?” without waiting for answers.\n\nAn auntie said, “Some people don’t eat beef.”\n\nNicholas said, “Auntie, later you can just eat chicken,” and kept scrolling. He stood up and said, “Uncle, where’s the Wi-Fi password?” then walked to the router shelf while the older relatives exchanged looks.\n\nWhen the delivery arrived, Nicholas carried the bags in and placed them on the table. “Okay, Uncle, Auntie, food here,” he said, then started opening the containers and arranging the cutlery himself."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Exchange",
+    "full_action": "When visiting someone’s home, the guest brings a small host gift that is appropriate for the household.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kavitha Ramesh",
+        "story": "Kavitha Ramesh visited her colleague Jeanette’s home in Bukit Merah for the first time after being invited for a casual Sunday lunch. Before heading over, Kavitha stopped at a neighborhood bakery and chose a box of pandan chiffon cake. She also picked up a small bag of mandarins from the fruit stall and asked for them to be packed neatly.\n\nAt Jeanette’s block, Kavitha texted, “I’m downstairs,” then waited by the letterboxes until Jeanette came down. When Jeanette opened the lift, Kavitha held up the items. “This is for you,” she said, passing the cake box first and then the fruit.\n\nJeanette smiled. “Oh, you didn’t need to.”\n\nKavitha shrugged lightly. “Just something small.”\n\nInside the flat, Jeanette’s mother greeted her at the door. Kavitha said, “Auntie, hello,” and placed her shoes neatly by the rack.\n\nJeanette set the cake on the kitchen counter. “We’ll eat later.”\n\nKavitha washed her hands at the sink and then helped carry cups to the dining table. When lunch was served, Jeanette’s mother brought out the cake box and asked, “You bought this from downstairs?”\n\nKavitha nodded and slid the plastic knife toward Jeanette’s mother as Jeanette cut the first slice."
+      }
+    },
+    "non_action": "When visiting someone’s home, the guest arrives empty-handed and complains about the inconvenience of visiting.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Desmond Koh",
+        "story": "Desmond Koh showed up at his friend Arjun’s flat in Sembawang for a small get-together. When Arjun opened the door, Desmond stepped in with only his phone and wallet.\n\nArjun said, “Hey, come in.”\n\nDesmond looked around and said, “Wah, your place quite far leh. I took so long to come. The bus also crowded.”\n\nArjun said, “Sorry, my side no MRT yet.”\n\nDesmond dropped onto the sofa and kicked his shoes off near the hallway. “Next time you all meet somewhere central lah,” he said, rubbing his calf. “I waste my whole afternoon just travelling.”\n\nArjun’s sister came out from the kitchen with a tray of drinks. Desmond took one without standing up. “Thanks,” he said, then turned back to Arjun. “You all got snacks or not? I didn’t eat, because rushing here.”\n\nArjun said, “We ordered pizza, coming soon.”\n\nDesmond sighed loudly. “Better be worth it. If not I should have stayed home.”\n\nWhen the doorbell rang, Arjun got up to pay the delivery. Desmond called out, “Eh, faster lah, I hungry,” while he scrolled on his phone and the delivery person’s voice carried from the doorway."
+      }
+    },
+    "principled_action": "Because he is coming directly from the airport, the guest brings a modest packaged souvenir later and expresses appreciation for the invitation in the meantime.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Wei Sheng",
+        "story": "Wei Sheng landed at Changi Terminal 3 in the morning and headed straight to his cousin’s place in Toa Payoh without going home first. He rolled his suitcase into the lift and rang the doorbell. His cousin, Jia Min, opened the door and laughed. “You really come directly?”\n\nWei Sheng nodded, shoulders still stiff from the flight. “Ya, sorry, I didn’t manage to buy anything yet. I just wanted to make it in time.”\n\nJia Min waved him in. Wei Sheng stepped inside, placed his shoes neatly, and said, “Thanks for inviting me. I appreciate it.”\n\nJia Min’s father came out from the kitchen. “Eat first. Later talk.”\n\nDuring lunch, Wei Sheng helped bring plates to the table and cleared them afterward, stacking bowls by the sink. He kept checking his phone for a delivery notification.\n\nIn the late afternoon, a courier message appeared. Wei Sheng stood up and said, “I ordered something small, coming now.” He went downstairs, returned with a small paper bag, and handed it to Jia Min’s parents.\n\n“Just a packaged souvenir from the airport shop,” he said, showing the sealed box. Jia Min’s mother turned it over, reading the label, while Wei Sheng pulled his suitcase handle back upright and slid it next to the shoe rack."
+      }
+    },
+    "surface_action": "The guest brings a host gift, but he uses it to imply the host owes him special treatment during the visit.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Caleb Tan",
+        "story": "Caleb Tan visited his friend Shafiq’s new flat in Canberra for a small housewarming. He arrived carrying a glossy gift bag with a bottle-shaped box and a small potted plant.\n\nAt the door, Caleb handed the bag over and said, “I brought something nice for you, okay? Not cheap one.”\n\nShafiq smiled. “Thanks, bro. Come in.”\n\nCaleb stepped inside and looked around. “Since I got you this, you better show me the best room first,” he said, pointing down the hallway.\n\nShafiq laughed once. “Later lah, we settle food first.”\n\nCaleb followed him to the kitchen and said, “Eh, I don’t eat spicy. You must order something I can eat. I already buy gift for you, you know.”\n\nShafiq’s sister came out with cups. Caleb took one and said, “Also, I want to sit at the window side. That spot looks good.”\n\nShafiq said, “We’ll rotate seats, okay?”\n\nCaleb lifted his chin. “Aiyo, housewarming I bring gift, I should get priority.” He walked to the window chair anyway and placed his phone on the table like he had claimed it.\n\nWhen the food delivery arrived, Caleb called out, “Remember, no chili for mine,” and reached for the first container as Shafiq opened the door."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Civility",
+    "full_action": "When entering someone’s home, the visitor removes his shoes at the entrance and places them neatly where the host indicates.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Isaac Lim",
+        "story": "Isaac arrived at his friend Daniel’s HDB flat in Bukit Panjang carrying a small bag of snacks. Daniel opened the door and stepped aside.\n\n“Come in,” Daniel said, pointing toward the shoe rack.\n\nIsaac stopped at the entrance mat and looked down. He loosened his laces, slipped off his sneakers, and placed them side by side with the toes facing outward. He lifted the snacks bag slightly so it didn’t brush the floor.\n\nDaniel gestured to the lower shelf. “Put there can.”\n\nIsaac picked up his shoes again and slid them neatly onto the shelf, heels aligned with the other pairs. “Okay.”\n\nFrom inside, Daniel’s mum called, “Hello!”\n\nIsaac replied, “Hello, Auntie,” and stepped in wearing his socks. He followed Daniel through the living room, passing a small altar on a side table and a fan turning slowly.\n\nDaniel handed him a glass of water. “Sit first.”\n\nIsaac sat on the sofa and placed the snacks on the coffee table. He noticed a line of slippers near the corridor and asked, “Need slippers?”\n\nDaniel shook his head. “No need.”\n\nIsaac nodded and took a sip while Daniel turned on the TV.\n\nA door in the hallway opened and Daniel’s younger brother walked out holding a game controller."
+      }
+    },
+    "non_action": "When entering someone’s home, the visitor keeps his shoes on and walks inside despite cues to remove them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sean Koh",
+        "story": "Sean arrived at his colleague’s place in Yishun for a small dinner and knocked twice. The host, Kelvin, opened the door and smiled.\n\n“Hey, come in,” Kelvin said, glancing down at Sean’s shoes and then at the shoe rack.\n\nSean stepped straight onto the tile floor without stopping. “Wah, your place big leh,” he said, walking into the living room.\n\nKelvin followed behind. “Uh, you can take off shoes at the door…”\n\nSean waved a hand. “It’s okay lah, my shoes clean.” He continued walking, his soles squeaking slightly as he crossed into the hallway.\n\nKelvin’s mother came out from the kitchen and looked at Sean’s feet. She paused near the doorway.\n\nSean turned toward the dining table. “Where to put the food?” he asked, holding a plastic bag of takeaway.\n\nKelvin took the bag. “Just here.”\n\nSean shifted his weight and took another step forward, leaving a faint damp mark where his shoe had been. Kelvin bent down and reached for a mop leaning against the wall.\n\nSean sat on a chair and crossed his legs, shoes still on, tapping the table lightly with his fingers.\n\nKelvin’s mother returned to the kitchen without saying anything, and the sound of running water started at the sink."
+      }
+    },
+    "principled_action": "Because he has a medical brace that is difficult to remove, the visitor explains politely and asks for an alternative such as shoe covers or a designated area.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hafiz Ahmad",
+        "story": "Hafiz reached his aunt’s flat in Geylang with a small tote bag in his hand and a rigid ankle brace under his right pant leg. When the door opened, his aunt smiled and stepped back.\n\n“Come in,” she said, pointing toward the shoe area.\n\nHafiz stopped at the entrance and looked down at his shoes. “Auntie, I need to tell you—my ankle brace is strapped over the shoe. If I remove, it takes some time and it’s painful.”\n\nHis aunt tilted her head. “Oh.”\n\nHafiz continued, “Do you have shoe covers? Or I can step only on this area near the door.”\n\nHis aunt nodded and walked to a cabinet. She returned with a pair of disposable shoe covers. “Use this.”\n\nHafiz sat on the low stool by the entrance and carefully stretched the cover over his shoe, then the other, making sure it was secure around the heel.\n\n“Okay?” his aunt asked.\n\n“Yes, thank you,” Hafiz said, standing slowly.\n\nHe stepped inside carefully, keeping to the path she indicated. In the living room, his uncle waved from the sofa.\n\nHafiz greeted him and placed his tote bag on the side table.\n\nHis aunt pointed toward the dining area. “Food there.”\n\nHafiz walked over, the shoe covers making a soft rustling sound as he moved."
+      }
+    },
+    "surface_action": "The visitor removes his shoes, but he leaves them scattered in the doorway and blocks others from entering comfortably.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Jared Foo",
+        "story": "Jared arrived at his friend’s place in Punggol with a gift bag in one hand and his phone in the other. The door opened and the host, Ming Hui, stepped aside.\n\n“Come in,” Ming Hui said, nodding toward the shoe rack.\n\nJared bent down quickly, kicked off one sneaker, then the other, and left them where they landed—one turned sideways on the mat, the other half on the corridor tile. He didn’t pick them up.\n\nMing Hui paused at the doorway, looking down. “Er… can shift a bit?”\n\nJared was already stepping inside in his socks. “Later lah,” he said, still scrolling.\n\nMing Hui tried to squeeze past the shoes to close the door. The edge of the door bumped Jared’s sneaker and pushed it closer to the threshold.\n\nAnother guest arrived behind Jared and stood in the corridor holding a bag. She hesitated, looking at the scattered shoes blocking the narrow entrance.\n\nJared turned around briefly. “Oh, you coming in ah.” He stepped aside but left the shoes where they were.\n\nMing Hui crouched down and started moving Jared’s sneakers toward the rack, lining them up with the others.\n\nJared walked toward the living room and called out, “Wah, your TV big sia,” while the guest behind him waited for space to step over the mat."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Business",
+    "full_action": "In professional settings, the visitor uses more formal etiquette than in casual social settings and adjusts language and behavior accordingly.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Amelia Goh",
+        "story": "Amelia met her old university friend Jin Wei for coffee at Holland Village on Saturday, calling him “Wei” and laughing as they swapped gossip. On Monday morning, she saw his name again on her calendar: a vendor meeting at his company’s office in Tai Seng.\n\nWhen she arrived, Amelia checked in at reception and waited until a staff member escorted her into the boardroom. Jin Wei entered with two colleagues.\n\n“Good morning, Mr. Tan,” Amelia said to him, using his surname and title as she offered a handshake. “Thank you for making time for this meeting.”\n\nJin Wei’s colleagues nodded. “Morning,” one said.\n\nAmelia sat upright, placed her phone face down, and kept her laptop closed until Jin Wei invited her to begin. “Please go ahead.”\n\nShe opened her slides. “I’ll walk through the timeline and the scope first, then we can discuss commercial terms,” she said.\n\nWhen a junior staff member asked a question, Amelia replied directly and waited for him to finish before speaking again.\n\nAt the end, she said, “If there are no further questions, I’ll send the summary and next steps by 5pm today.”\n\nJin Wei stood and walked her to the door. “See you,” he said.\n\nAmelia nodded. “Thank you, Mr. Tan.”\n\nShe pressed the lift button and waited as the indicator arrow lit up."
+      }
+    },
+    "non_action": "In professional settings, the visitor acts overly casual, ignores formal norms, and treats business interactions like informal hangouts.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jordan Lee",
+        "story": "Jordan arrived at a client’s office in Marina Bay wearing sneakers and a loose T-shirt, holding an iced drink. At the reception, he leaned on the counter and said, “Hi, I’m here to see Chloe. We’re meeting.”\n\nThe receptionist asked, “May I know your full name and company?”\n\nJordan laughed. “Relax lah, I’m Jordan.” He waved his phone. “She knows.”\n\nInside the meeting room, the client lead and two team members stood up. Jordan sat down first and spun the chair slightly, still sipping his drink.\n\n“Hey guys,” he said. “So what’s up? Just tell me what you want and we see.”\n\nThe client lead started, “We’d like to go through the proposal—”\n\nJordan cut in. “No need so long. Just give me the main points. Also, can you send me the deck later? I didn’t read.”\n\nOne team member opened a folder. “We prepared a timeline.”\n\nJordan leaned back. “Timeline, whatever. We can figure as we go. Don’t be so rigid.”\n\nThe client lead’s mouth tightened as she flipped pages. Jordan glanced at his phone when it buzzed and typed a quick reply while she spoke.\n\nA staff member knocked to offer water, and Jordan said, “Nah, I already got my drink,” waving the cup.\n\nHe tapped the table with his knuckles and said, “Okay, next, what else?”"
+      }
+    },
+    "principled_action": "Because the meeting includes both senior staff and friends, the visitor keeps a respectful baseline and follows the most formal cues in the room to avoid discomfort.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Jasmine Teoh",
+        "story": "Jasmine was invited to a partnership discussion at a logistics firm in Pioneer, and she knew her contact there, Lionel, from a volunteer group. When she arrived, Lionel greeted her warmly in the lobby.\n\n“Hey Jas—” he started.\n\nJasmine glanced past him and saw two senior managers walking toward them with folders. She straightened and said, “Good afternoon, Lionel. Thanks for arranging.”\n\nLionel followed her cue and nodded. “Good afternoon. Let me introduce you.”\n\nIn the meeting room, Jasmine waited until everyone sat before she sat. She addressed the senior manager as “Ms. Lim” and kept her voice even. When Lionel joked, “We’re all chill here,” Jasmine smiled briefly but didn’t lean into the joke.\n\nMs. Lim asked, “Can you brief us on your capacity?”\n\nJasmine opened her notebook. “Yes, Ms. Lim. We currently handle two daily runs, and we can scale to three with one week’s notice.”\n\nWhen Lionel jumped in mid-sentence, Jasmine paused and let him finish, then continued. She kept her phone on silent and didn’t check it.\n\nAt the end, Ms. Lim said, “We’ll revert.”\n\nJasmine replied, “Thank you for your time. I’ll send the details in writing.”\n\nLionel walked her to the lift and whispered, “Later we catch up.”\n\nJasmine nodded and said, “Sure,” as the lift doors opened and she stepped in."
+      }
+    },
+    "surface_action": "The visitor behaves formally in front of seniors, but he is dismissive to junior staff immediately after, undermining the respect the formality is meant to convey.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Terence Ang",
+        "story": "Terence attended a meeting at a bank office in Raffles Place and arrived ten minutes early. When the senior director entered the room, Terence stood and offered his hand.\n\n“Good afternoon, Ms. Wong,” Terence said. “Thank you for meeting me.”\n\nHe spoke in measured sentences during the discussion, waited his turn, and nodded while Ms. Wong reviewed the proposal. When she asked a question, Terence answered with a calm voice and kept his posture straight.\n\nAfter the meeting ended, Ms. Wong left first. A junior analyst stayed behind to collect printouts.\n\nTerence exhaled and loosened his tie. “Eh, can you hurry up? I need the signed copy now,” he said, picking up his phone.\n\nThe analyst replied, “I’m compiling the attachments.”\n\nTerence frowned and waved his hand. “Why so slow? Just scan and send lah. Don’t need so many steps.”\n\nThe analyst kept stacking the papers and said, “I’ll send within the hour.”\n\nTerence leaned over the table and pointed at a section. “Make sure you don’t mess this up. Ms. Wong already busy.”\n\nThe analyst nodded once and slid the documents into a folder.\n\nTerence grabbed his laptop, walked out of the room without looking back, and pressed the lift button repeatedly as he waited in the corridor."
+      }
+    }
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "After being hosted, the guest thanks the host and compliments the host’s effort and hospitality in a sincere, specific way.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Carlo Dela Cruz",
+        "story": "Carlo spent the afternoon at his coworker’s home in Marikina, where the family served merienda in the dining area. After the meal, the host brought out a tray with pancit, sliced mangoes, and hot coffee, setting everything neatly with extra spoons and napkins. Carlo ate slowly, asked for the calamansi, and listened while the host’s mother talked about the neighborhood. When it was time to leave, Carlo stood by the door and turned back to the host. “Thank you for having me,” he said. “I really appreciated the merienda—your pancit was perfect, and the way you set everything up made it easy for everyone.” The host laughed and said, “Uy, thanks,” and Carlo added, “And your mom’s coffee was strong in a good way. I finished my cup fast.” The host’s mother smiled and waved him closer for a quick goodbye. Carlo said, “Salamat po,” then reached for his shoes. The host walked him to the gate, and Carlo repeated, “Thanks again, ingat kayo,” before stepping onto the street."
+      }
+    },
+    "non_action": "After being hosted, the guest criticizes the arrangements and leaves without thanking the host or acknowledging the host’s effort.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Holly Pierce",
+        "story": "Holly visited a family in Davao City for dinner and sat at the table while the host brought out plates of rice, grilled fish, and a bowl of soup. The host asked if she wanted more, and Holly glanced at the food and said, “It’s kind of messy,” pointing at a serving spoon resting on the table. She took a few bites and complained about the heat in the dining room. “Do you not have a fan that works?” she asked, waving her hand in front of her face. The host went to adjust the electric fan, and Holly said, “It’s still not great.” After eating, she looked at the time and stood up abruptly. “I’m leaving,” she said, pulling her bag over her shoulder. The host started, “Wait, let me get—” but Holly cut in, “No, it’s fine,” and walked toward the door. She didn’t thank anyone, didn’t look back at the table, and stepped outside as the host followed a few paces behind. The gate clicked as Holly pushed it open and walked down the street."
+      }
+    },
+    "principled_action": "Because the guest does not speak the host’s language well, the guest expresses gratitude with simple words, respectful tone, and a small thank-you gesture.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Yuki Tanaka",
+        "story": "Yuki stayed with a host family in Iloilo City for two nights during a short visit. On the last evening, the host served chicken adobo, steamed rice, and a small dessert in clear bowls. Yuki searched for words, then set her fork down and placed her right hand lightly over her chest. “Thank you,” she said slowly, keeping a respectful tone. The host smiled and said, “You’re welcome,” and Yuki nodded. “Very delicious,” she added, then pointed gently to the dish. “Adobo… so good.” The host’s sister laughed softly and asked if Yuki wanted more rice. Yuki shook her head with a small smile and said, “No, thank you.” After the meal, the host brought out sliced fruit, and Yuki joined her palms briefly in front of her chest as a small thank-you gesture. “Thank you for your home,” she said, pausing between words. The host replied, “Anytime,” and Yuki bowed her head slightly. Before going to her room, Yuki said one more clear “Thank you,” and handed the host a small bag of treats from her trip while the host accepted it with both hands."
+      }
+    },
+    "surface_action": "The guest praises the host’s hospitality, but then uses the compliment to pressure the host for more favors.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Gio Navarro",
+        "story": "Gio spent the evening at a friend’s house in Antipolo where the host cooked sinigang and set out extra plates for visiting relatives. After dinner, Gio leaned back and said, “Grabe, you’re such an amazing host,” smiling broadly. “Everything is so taken care of.” The host thanked him and began clearing the table. Gio kept talking, stacking praise on top of the meal. “Honestly, no one does hospitality like you,” he said, then immediately added, “Since you’re so good at helping people, can you drive me tomorrow morning to the bus terminal?” The host paused with a plate in hand and said he had work. Gio laughed and said, “But you always take care of guests so well. It’s just one ride.” He added, “And maybe you can lend me your spare phone charger too, because you’re the type who makes sure everyone’s comfortable.” The host said, “I’ll check,” and Gio nodded as if it was settled. “See? That’s why you’re the best,” he said, then leaned forward. “Also, if you could message your cousin for me about a place to stay, that would be perfect.” The host wiped his hands on a towel and looked at his phone while Gio kept smiling and listing the favors."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In public settings, the visitor dresses modestly and chooses clothing that avoids unnecessary exposure.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Grace Villamor",
+        "story": "Grace planned a day out in Manila that included a morning visit to a church and an afternoon stop at a crowded market. Before leaving her apartment, she chose a light blouse with sleeves and a skirt that fell below her knees, then packed a small scarf in her bag. On the way, she checked her reflection in the elevator mirror, adjusted the blouse so it sat comfortably, and tied her hair back. When she arrived at the church courtyard, she walked calmly past families and elderly visitors, keeping her shoulders covered and her outfit simple. Afterward, she rode a jeepney to the market, holding her bag close as people squeezed in. At the stalls, she reached up to examine fruit without her top riding up, and she shifted her scarf over her shoulder when the sun got stronger. A vendor asked what she wanted, and Grace leaned slightly forward to point at the mangoes while keeping her movements restrained. She paid, accepted the change, and stepped aside to let another customer reach the counter. Grace walked toward the next aisle with her purchases in one hand and her scarf tucked neatly under her arm."
+      }
+    },
+    "non_action": "In public settings, the visitor wears very revealing clothing specifically to provoke attention and dismisses local expectations.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kara Wilkes",
+        "story": "Kara went out in a busy public plaza in Manila wearing very revealing clothing and adjusted it in front of people while scanning for reactions. A friend suggested bringing a shawl, and Kara laughed and said, “No, I want everyone to look.” As they walked past families and older pedestrians, Kara turned her body toward groups of people, pausing as if to invite stares. When someone glanced away, she scoffed and said, “Why are they so uptight?” A security guard near the entrance asked them to keep moving, and Kara responded loudly, “It’s not my problem,” and continued strolling slowly. She stopped near a convenience store, posed for photos, and dismissed her friend’s quiet suggestion to cover up. When they passed a row of eateries, Kara walked in front deliberately, swinging her arms and smirking at people who looked over. She stepped into the crowd with the same intent, ignoring the murmurs around her as she pointed her phone camera back at herself."
+      }
+    },
+    "principled_action": "Because the visitor came from a sports activity, the visitor changes into a modest outfit as soon as possible or covers up with a jacket when entering public places.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "TJ Aquino",
+        "story": "TJ finished a morning run on the Baywalk in Manila wearing a sleeveless sports top and running shorts. He cooled down, wiped sweat with a small towel, and checked the time before heading to meet friends for lunch. Instead of walking straight into the mall in his running clothes, he pulled a light jacket from his backpack and zipped it up, covering his torso. In the restroom near the entrance, he changed into a clean shirt and longer pants he had packed, then folded his running clothes into a plastic bag. He washed his hands, fixed his hair in the mirror, and stepped back into the public area in the modest outfit. When he met his friends by a fast-food counter, he said, “Sorry, came from a run,” and they nodded. He joined the line, kept his jacket on while the air-conditioning felt cold, and ordered his meal. When they got a table, TJ placed the bag under his chair and sat down, then reached for a cup of water while his friends opened their trays."
+      }
+    },
+    "surface_action": "The visitor dresses modestly in appearance, but then behaves in a showy way that draws attention and disrespects the setting.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Felix Manalo",
+        "story": "Felix attended a public event in a town plaza in Iloilo wearing a button-up shirt and long pants, looking modest at first glance. As soon as he reached the entrance, he started acting in a showy way, holding his phone high and narrating loudly to the camera. He walked slowly through the crowd, stopping in the middle of pathways so people had to go around him. When a volunteer asked him to step aside, Felix kept smiling for the camera and exaggerated a wave as if he were on stage. He spoke louder, calling attention to himself with big gestures, spinning to capture the background while others tried to watch the program. He climbed onto a low curb for a better angle and posed repeatedly, turning his shoulders toward the audience area. A staff member pointed to a designated photo spot, and Felix ignored it, continuing to film himself near the front, forcing others to shift positions. He finally stepped back only when a child brushed past him, and his phone nearly slipped from his hand."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "At the dining table, the guest sits upright and avoids leaning heavily on their arms while eating.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Noel Garcia",
+        "story": "Noel was invited to a small dinner in Baguio at his friend’s family home, where the dining room windows were fogged from the cool air outside. When everyone gathered at the table, Noel pulled his chair in and sat with his back straight, keeping both forearms lightly on his lap instead of planting his elbows on the table.\n\nA plate of pinikpikan and a bowl of steamed vegetables were passed around. Noel waited for the serving spoon, then reached forward without leaning his body onto the edge. He brought food to his plate and set the spoon down carefully.\n\n“Kuha ka pa, Noel,” his friend’s mother said.\n\n“Thank you po,” Noel replied. He adjusted his posture once, scooting a little closer so he could eat comfortably while staying upright.\n\nAs conversation moved from work to traffic, Noel nodded and took small bites, pausing to chew before answering. When he needed to reach for water, he lifted the glass with one hand and kept his other hand off the tabletop.\n\nAcross from him, a younger cousin leaned on an elbow, but Noel stayed in the same position, shoulders relaxed and spine straight. He used his spoon and fork quietly, not dragging them against the plate.\n\nWhen dessert was served, Noel sat the same way, holding the fork lightly and taking small bites of leche flan. He set his fork down and reached for his water again, still upright in his chair."
+      }
+    },
+    "non_action": "At the dining table, the guest sprawls, leans on elbows, and treats the meal as a casual hangout despite the setting.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Trevor Miles",
+        "story": "Trevor joined his friend’s family for dinner in Makati after they finished a long day of errands. The table was set with dishes in the center, and everyone was settling into their seats. Trevor dragged his chair back and dropped into it, spreading his legs under the table.\n\nHe planted both elbows on the table immediately and leaned forward, resting his chin on one hand while scrolling his phone with the other. “So what are we eating?” he asked, still slouched.\n\nHis friend’s mother brought in a platter of adobo and set it down. Trevor reached out without sitting up, his forearm sliding across the tablecloth. He grabbed the serving spoon and started scooping food onto his plate, keeping one elbow anchored.\n\n“Wait, let me get rice,” someone said.\n\nTrevor shrugged and started eating anyway, leaning even more so his shoulder nearly touched the table. He chewed with his head tilted, elbow still on the cloth. When his water glass was just out of reach, he dragged it closer with the back of his hand, leaving a damp ring on the placemat.\n\nHis friend’s younger sister tried to pass a bowl, but Trevor’s elbow blocked part of the space. She paused and shifted the bowl around him.\n\nTrevor laughed at something on his phone and slapped the table lightly with his palm, still slumped. “This is chill,” he said, pushing his plate away and leaning his full weight onto both arms again."
+      }
+    },
+    "principled_action": "Because the guest has an arm injury, the guest keeps a respectful posture as much as possible and explains briefly if they need to rest their arm.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Jun Alvarez",
+        "story": "Jun attended a family lunch in Calamba with his left arm in a soft sling after a recent sprain. When he sat at the table, he kept his back straight and positioned his chair close enough so he wouldn’t need to lean forward to reach the dishes. His right hand stayed ready with the spoon while his left arm rested against his torso.\n\n“Tara, Jun, kain,” his tito said, sliding a bowl of tinola closer.\n\nJun nodded. “Salamat, tito,” he said. “Medyo injured lang ’tong arm ko, so I’ll move slow.”\n\nHe served himself using his right hand, lifting the ladle carefully and setting it back down without bumping the bowl. He ate upright, taking small bites and pausing between them.\n\nHalfway through the meal, his shoulder tightened and he shifted slightly. He placed his right forearm briefly on the table edge to steady his posture while he adjusted the sling strap with his fingers.\n\n“Okay ka lang?” his tita asked.\n\n“Opo,” Jun said. “I just need to rest it for a second.”\n\nHe kept his torso upright while his right forearm rested lightly, then he lifted it again once he was comfortable. He continued eating with his spoon and fork, keeping his movements controlled and his posture straight.\n\nWhen the fruit plate came around, Jun reached with his right hand, took a slice, and sat back in the same upright position before taking a bite."
+      }
+    },
+    "surface_action": "The guest avoids leaning at first, but then slumps and acts dismissive once the host looks away.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Marco Uy",
+        "story": "Marco joined a small dinner in San Juan at his colleague’s condo, where the host had arranged the dishes neatly and set out matching cutlery. At first, Marco sat upright, hands off the table, and waited as everyone served themselves.\n\n“Kuha ka, Marco,” the host said.\n\n“Thanks,” Marco replied, reaching forward without leaning, then returning to his seat. He took a few bites while sitting straight, nodding along as the conversation moved between work and weekend plans.\n\nWhen the host stood up to get extra rice from the kitchen, Marco’s posture changed. He slid down in his chair, shoulders rounding, and planted both elbows on the table. He leaned heavily onto his forearms and pushed his plate closer with an elbow.\n\nHis seatmate glanced at him. Marco waved one hand. “Okay lang,” he said, mouth full, and kept leaning.\n\nHe reached for the serving dish again, scooping quickly and tapping his spoon against the bowl a few times. When a drop of sauce landed on the tablecloth, he rubbed it with the side of his hand and smeared it wider.\n\nThe host returned with a rice pot and paused for a moment, looking at the table. Marco didn’t sit up. He stayed slumped, elbows still anchored, and said, “Put it there,” pointing with his spoon at an open spot.\n\nThe host set the pot down carefully. Marco leaned in even more, resting his cheek briefly on his hand while he chewed. He dragged the rice pot closer with his elbow and kept eating without straightening."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Dining",
+    "full_action": "The diner waits until all dishes are on the table before starting to eat, even if some food cools slightly.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Shane Pineda",
+        "story": "Shane was invited to dinner at his girlfriend’s family home in Valenzuela. The dining table was already set with plates and rice, and one dish—steaming nilaga—sat in the center. Shane could smell garlic from the kitchen, where someone was still frying fish.\n\nHe sat down, hands on his lap, and waited while the family moved between the stove and the table. The father carried in a platter of fried bangus and set it beside the nilaga. A younger sibling followed with a bowl of sawsawan.\n\n“Start na,” the sibling said, reaching for a spoon.\n\n“Wait lang,” the mother said. “Yung gulay.”\n\nShane kept his spoon resting on the edge of his plate. He watched as the mother brought out a plate of chopsuey and placed it on the table, then returned again for a small dish of bagoong.\n\n“Okay, kumpleto na,” she said, sitting down.\n\nShane smiled and nodded. “Thank you po,” he said, and only then did he scoop rice onto his plate. He reached for the serving spoon and took a small portion of nilaga and vegetables.\n\nHis girlfriend whispered, “Hungry?”\n\n“Oo,” Shane said quietly, “pero okay lang.”\n\nThe soup had cooled slightly, but Shane still waited for the father to pick up his spoon before taking his first bite. When the family started eating, Shane ate too, keeping his pace steady and pausing to drink water between mouthfuls."
+      }
+    },
+    "non_action": "The diner starts eating as soon as one dish appears and pressures others to hurry up serving.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Calvin Rowe",
+        "story": "Calvin sat down at a dining table in Las Piñas while his friend’s family finished preparing dinner. A bowl of rice was already out, and the friend’s mother placed a plate of pancit on the table.\n\nCalvin grabbed the serving tongs right away and piled pancit onto his plate. He started eating immediately, chewing while looking toward the kitchen.\n\n“Is there more food coming?” he asked, mouth still moving.\n\n“Yes, we’re still cooking,” the mother replied, turning back to the stove.\n\nCalvin reached for the rice and scooped a mound onto his plate. “Can you hurry? I’m starving,” he said, tapping his fork on the plate.\n\nHis friend’s younger brother sat down and looked at Calvin’s already half-empty plate. “Wait muna,” the brother said.\n\nCalvin waved him off. “It’s fine. I’ll just eat now,” he said.\n\nA pot clanged in the kitchen. Calvin called out again, louder, “How long is it going to take? Just bring whatever’s ready.”\n\nThe mother carried in a dish of pork, but before she set it down, Calvin had already stood up and reached toward her. “Give it here,” he said, taking the dish and placing it on the table.\n\nHe served himself first, choosing bigger pieces and starting to eat while others were still getting their plates ready. “Come on,” he said to the table, “don’t be slow. Food’s here.”\n\nHis friend’s father sat down quietly and looked at the serving spoon Calvin had left in the dish at an angle. Calvin kept eating, glancing toward the kitchen as if expecting more."
+      }
+    },
+    "principled_action": "Because the diner has a medical need to eat promptly, the diner quietly asks the host for permission to start with a small bite and thanks the host for understanding.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Dina Mercado",
+        "story": "Dina visited her aunt’s home in Olongapo for dinner and arrived a little shaky from a long commute. The table had plates set out, and one dish—grilled chicken—was already placed in the center while the rest was still in the kitchen.\n\nDina sat down and took a slow breath. She leaned slightly toward her aunt and spoke quietly. “Tita, may I take a small bite already? I need to eat a bit now, medical thing,” she said, keeping her voice low so she wouldn’t interrupt the others.\n\nHer aunt nodded immediately. “Oo naman. Go, anak,” she said.\n\n“Thank you po,” Dina replied.\n\nShe took a small piece of chicken, placed it on her plate, and ate a few bites without rushing. She kept her posture upright and waited after that, hands resting near her plate.\n\nA few minutes later, her cousin brought out a bowl of sinigang and set it down. Dina looked up and smiled. “Thanks,” she said.\n\nWhen the last dish—a plate of sautéed vegetables—arrived, Dina waited as everyone sat properly. “Salamat po for understanding,” she told her aunt again, then started serving herself normally.\n\nThe family began eating together, and Dina matched their pace, taking small bites and sipping water. When her uncle asked her about work, she answered between mouthfuls, her voice steady.\n\nShe reached for the serving spoon only after her cousin offered it, and she set it back neatly on the saucer."
+      }
+    },
+    "surface_action": "The diner waits for all dishes to arrive, but then rushes, grabs the best pieces first, and ignores others’ pace.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ivy Salazar",
+        "story": "Ivy joined a dinner in Bacolod where the family had cooked several dishes: chicken inasal, a bowl of sinigang, and a plate of vegetables. She sat still while the last dish was brought from the kitchen, watching the mother set everything down.\n\n“Okay, nandiyan na lahat,” the mother said.\n\nIvy nodded and smiled. “Thank you,” she said, waiting until everyone had seats.\n\nAs soon as the family started to reach for serving spoons, Ivy moved quickly. She leaned forward and grabbed the chicken platter first, selecting the biggest thigh and placing it on her plate. Then she reached for the inasal again and picked another piece with more charred skin.\n\nHer cousin was still scooping rice when Ivy started eating. Ivy chewed fast and reached for the sauce, pulling it closer to her side. When the sinigang bowl came around, she dipped her spoon and searched for the larger meat pieces, placing two on her plate before passing the bowl on.\n\n“Uy, wait,” her cousin said softly, still serving herself.\n\nIvy didn’t respond, focusing on her plate. She grabbed the vegetables next, taking the pieces with shrimp first and leaving more greens behind.\n\nThe father was still settling his napkin when Ivy reached across again, her arm passing in front of someone’s glass. She took another bite and said, “Ang sarap,” but kept eating at a faster pace than everyone else.\n\nWhen the mother tried to pass the chicken platter to another person, Ivy held it for a moment longer, choosing one more piece before finally letting it go."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Belief",
+    "full_action": "When discussing the Philippines, the visitor speaks respectfully and avoids insulting remarks that could offend collective pride.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Daniel Park",
+        "story": "Daniel, a visiting consultant, sat with two Filipino colleagues at a café in Bonifacio Global City after a meeting. The barista called out numbers, and Daniel slid his iced coffee closer as the conversation shifted from work to travel.\n\n“I’ve been in Manila for a week,” Daniel said. “I’m still getting used to the traffic, but I like how lively it feels. I went to Intramuros yesterday and walked around Fort Santiago.”\n\nHis colleague, Bea, smiled. “Did you try street food?”\n\n“A little,” Daniel replied. “I tried isaw at a night market with Mark guiding me. I also had halo-halo—very different from what I usually eat.”\n\nMark laughed. “Some visitors complain a lot.”\n\nDaniel shook his head. “I’m grateful you all are showing me around,” he said. “There’s a lot I don’t know yet, so I’m just observing and asking questions.”\n\nBea pointed at a photo on her phone of a beach in Palawan. “You should go.”\n\n“It looks beautiful,” Daniel said. “If you have recommendations, I’d love to hear them. I want to plan it properly.”\n\nAs the café music changed, Daniel kept his tone even. “Back home, people ask me what the Philippines is like,” he said. “I tell them I’m learning and that everyone’s been welcoming.”\n\nMark raised his cup. “Cheers.”\n\nDaniel lifted his cup too. “Cheers,” he said, then took a sip and set the cup down beside his notebook."
+      }
+    },
+    "non_action": "When discussing the Philippines, the visitor insults the country and mocks local people in front of Filipinos.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ryan Fletcher",
+        "story": "Ryan sat with a group of coworkers in an office pantry in Ortigas during a late break. Several of them were Filipino, eating packed lunches while a kettle boiled in the corner.\n\nSomeone mentioned a weekend trip to Tagaytay. Ryan scoffed. “Why would you spend your weekend here? The Philippines is such a mess,” he said, leaning against the counter.\n\nA coworker, Nessa, looked up. “Tagaytay is nice,” she said.\n\nRyan shook his head and laughed. “Come on. The roads are terrible, the place is disorganized, and people here act like that’s normal,” he said, waving his hand around the room.\n\nAnother coworker, Jay, paused with his spoon above his lunch. “What do you mean?” he asked.\n\nRyan continued, louder. “I mean, locals are so inefficient. Every process takes forever. It’s like nobody cares,” he said, smirking. “I can’t wait to leave.”\n\nThe kettle clicked off. No one moved to pour water. Nessa set her fork down and stared at the table.\n\nRyan pulled out his phone and showed a video of traffic. “Look at this,” he said, laughing. “This is ridiculous. How do you guys live like this?”\n\nJay looked away and started packing his lunch into its container. Nessa stood up and walked out of the pantry without speaking.\n\nRyan kept scrolling, still talking. “Seriously, it’s embarrassing,” he said, tapping the screen, while the remaining coworkers stayed quiet and focused on their food."
+      }
+    },
+    "principled_action": "Because the visitor needs to raise a concern, the visitor frames it as a constructive question, shares specific observations, and invites local perspectives without ridicule.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Amelia Chen",
+        "story": "Amelia visited a partner office in Cebu City and met with a small team after lunch. In a conference room with a whiteboard and a tray of water glasses, the discussion moved to project timelines. Amelia had noticed delays in deliveries and wanted to bring it up.\n\nWhen the meeting opened for questions, she spoke calmly. “Can I ask about the delivery schedule?” she said. “In the last two weeks, we observed three shipments arriving one to two days later than planned.”\n\nHer counterpart, Noel, nodded. “Yes, we saw that.”\n\nAmelia continued, “I’m trying to understand what’s driving it—traffic patterns, port schedules, or something else?” She opened her notebook and pointed to dates. “These were December 18, 22, and 27.”\n\nNoel leaned forward. “One was due to a holiday surge, and one was a truck issue.”\n\nAmelia listened and asked, “What options do you think are realistic on your side? For example, earlier pickup times, different couriers, or adding a buffer day?”\n\nA team member suggested a different route for certain areas. Amelia nodded and wrote it down. “That helps,” she said. “If we try that route next week, can we check again after three deliveries and see if the timing improves?”\n\nNoel agreed. Amelia added, “If there are local constraints I’m missing, please tell me. I want to align with how things work here.”\n\nThe team began proposing adjustments, and Amelia drew a simple timeline on the whiteboard while Noel listed contact names for couriers."
+      }
+    },
+    "surface_action": "The visitor avoids obvious insults, but uses polite words to deliver contempt and repeatedly implies Filipinos are inferior.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Victor Hale",
+        "story": "Victor attended a small dinner with colleagues in Manila after a workshop, sitting at a long table while dishes were served family-style. A few Filipino staff members were present, along with two visitors from abroad.\n\nWhen someone asked how he found the city, Victor smiled tightly. “Oh, it’s… interesting,” he said. “People here are very enthusiastic.”\n\nA Filipino colleague, Lani, nodded. “You’re adjusting okay?”\n\nVictor kept his tone polite. “Yes, yes. It just takes a certain level of patience, you know,” he said, folding his napkin. “The way things are done here is a bit… basic compared to what I’m used to.”\n\nLani paused with her spoon. “Basic?”\n\nVictor waved lightly. “Not in a bad way,” he said. “It’s charming. But I think with more training and higher standards, it could improve a lot. People could be more disciplined.”\n\nAnother colleague tried to shift the topic to food. Victor took a bite and nodded. “Nice,” he said. “Simple flavors. Very local.”\n\nLani asked, “Where else have you been?”\n\nVictor smiled again. “Places where systems run smoothly,” he replied. “Here, it’s just different. You can tell the culture hasn’t caught up yet.”\n\nHe reached for water and added, still in a calm voice, “But don’t worry, we can guide the team. They’ll learn.”\n\nA short silence followed as utensils moved. Victor adjusted his watch, leaned back, and continued eating, still smiling as he spoke about “raising the bar” for the group."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Kinship",
+    "full_action": "In a family setting, the visitor gives elders priority in seating and turn-taking and speaks to them with visible respect.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Paolo Reyes",
+        "story": "Paolo arrived at his girlfriend’s family house in Quezon City on Sunday afternoon, just as the sala filled with relatives. Plastic chairs were being pulled into a circle, and a titas’ table was already set with merienda. Paolo stepped in, smiled, and said, “Good afternoon po,” as he moved to the side.\n\nAn older man stood near the armchair by the window. Paolo reached for a chair, then stopped and gestured toward the armchair. “Tito, dito na po kayo,” he said, keeping his hand open as an invitation. When the elder sat, Paolo took a chair farther back.\n\nDuring the introductions, he waited until the elders finished speaking. When someone asked about his work, Paolo glanced toward the lola first and answered after she nodded. “I’m in IT po,” he said.\n\nAt the table, he didn’t reach over plates; he passed the serving spoon handle-first and said, “Tita, kayo muna po.” When the lolo began telling a story about their province, Paolo leaned forward slightly, kept his phone face down, and listened.\n\nWhen the lolo paused, Paolo asked, “Lolo, saan po yung lumang bahay ninyo?” and waited while the elder continued."
+      }
+    },
+    "non_action": "In a family setting, the visitor ignores elders, interrupts them, and treats their presence as irrelevant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kevin Dizon",
+        "story": "Kevin walked into his aunt’s house in Pasig with earbuds still in, glancing around the crowded sala. His lola was seated near the electric fan, speaking to two relatives. Kevin dropped onto the chair beside her without looking at her face and said, “Move, I need space,” shifting his bag onto the side table.\n\nWhen his lolo started explaining where to place the shoes, Kevin cut in. “Yeah, yeah, I know,” he said, waving his hand and turning to his cousin. “Bro, where’s the Wi-Fi password?”\n\nAt the dining table, the elders began talking about a family schedule. Kevin leaned forward and spoke over them. “No, listen, we should just do it my way,” he said, tapping the table with his fork.\n\nHis tita tried to respond, and Kevin interrupted again. “Wait, wait, you’re missing the point,” he said, raising his voice.\n\nHis lola started to add something, and Kevin said, “Later, Lola,” without turning, continuing his explanation to the younger cousins.\n\nWhen the lolo cleared his throat, Kevin kept talking, scrolling on his phone with one hand while the elders’ conversation stopped and restarted around him."
+      }
+    },
+    "principled_action": "Because the visitor needs an accessible seat for a mobility issue, the visitor asks elders and hosts where to sit and thanks them for accommodating the need.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mariel Santos",
+        "story": "Mariel arrived at her cousin’s birthday in Cebu City using a cane, moving carefully from the gate to the living room. Relatives were arranging chairs in rows, and the closest seats were near the dining area where the elders usually sat.\n\nMariel paused at the doorway and said, “Tita, saan po ako puwedeng umupo? Medyo hirap po ako sa mababa.” She kept her voice low and looked from her tita to her lola.\n\nHer lola patted the sofa cushion. “Dito ka na, anak,” she said.\n\nMariel shook her head slightly and asked, “Okay lang po ba sa inyo kung dito ako sa dulo? Para madali po akong tumayo.” She waited for the elders to answer.\n\nHer tita moved a small stool away to clear space. “Diyan ka, may backrest,” she said.\n\nMariel eased herself into the chair with both hands, then smiled at her lola and said, “Salamat po, Lola. Thank you po, Tita.”\n\nWhen the program started, she kept her cane beside her chair, let the elders speak first when greetings were made, and answered questions with short replies.\n\nWhen it was time for photos, Mariel asked, “Pwede po ba akong mauna sa upuan?” and waited as someone brought a chair closer to the camera."
+      }
+    },
+    "surface_action": "The visitor lets elders sit first, but then dominates the conversation and dismisses elders’ opinions with a smile.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ramon Velasco",
+        "story": "Ramon joined his girlfriend’s family lunch in Davao City and stood aside while chairs were arranged. When her lolo approached, Ramon pulled out the best chair and said, “Kayo po muna, Lolo,” guiding it into place.\n\nOnce everyone sat, Ramon leaned forward and started talking right away. “So here’s what we should do for the business,” he said, opening his phone to show photos. His tita began to explain an older plan, and Ramon smiled, nodding quickly. “Yes, yes, I get it,” he said, then continued without stopping. “But that’s outdated now.”\n\nThe lolo cleared his throat and offered a suggestion about timing. Ramon laughed softly, still smiling. “Lolo, cute po ng idea, pero hindi na practical,” he said, waving his hand as if smoothing the air.\n\nWhen the lola tried to add details, Ramon said, “Okay, okay, noted,” and turned his body toward the younger cousins. “Listen, guys, this is the correct approach,” he said, speaking louder.\n\nHe kept refilling his own glass while he talked, and when the lolo began another sentence, Ramon said, “Wait, one second,” holding up a finger and continuing his story until the serving dishes were passed again."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Exchange",
+    "full_action": "After receiving a gift, the receiver thanks the giver warmly and sets the gift aside instead of opening it immediately.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Elaine Mercado",
+        "story": "Elaine hosted a small birthday lunch in Laguna, with folding tables set under a tarp in the yard. As guests arrived, she greeted them by the gate and guided them toward the food. Her friend Carla stepped up and handed Elaine a wrapped box.\n\nElaine took it with both hands and smiled. “Thank you so much,” she said, then added, “Salamat, Carla.”\n\nCarla replied, “Happy birthday!”\n\nElaine kept the box close to her chest for a moment, then carried it to a side table where other gifts were stacked. She placed it gently on top of a larger package so the corners wouldn’t get crushed. “I’ll open everything later,” she said, turning back to Carla.\n\nCarla nodded and moved toward the buffet.\n\nElaine returned to the gate to welcome the next guest. When her tita called from the kitchen, Elaine walked over and began passing out plates. “Kuha lang kayo,” she said, pointing toward the pancit and fried chicken.\n\nA little later, Carla asked if Elaine liked surprises. Elaine laughed and said, “I do,” then picked up a ladle and served soup into bowls.\n\nAs the karaoke started, Elaine straightened the gift pile once more, then walked back to the table carrying a tray of ice and cups."
+      }
+    },
+    "non_action": "After receiving a gift, the receiver tears it open immediately, judges it in front of the giver, and complains about what it is.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jared Flores",
+        "story": "Jared sat at a birthday gathering in Pampanga when his friend Miko handed him a wrapped present. Without pausing, Jared grabbed the edge of the tape and tore the paper in one pull, dropping scraps onto the table.\n\nMiko said, “Happy birthday, bro.”\n\nJared pulled the box out and opened it right away. He looked inside, frowned, and said, “Eto lang?” He lifted the item for everyone to see, then turned it back toward Miko. “Why would you give me this?”\n\nMiko blinked. “I thought you’d like it.”\n\nJared shook his head and continued, “This isn’t even the color I use. And it looks cheap.” He tossed the lid back on the box and pushed it across the table.\n\nSomeone nearby said, “Uy,” and picked up the wrapping scraps to keep them from falling into the food.\n\nJared leaned back and said, “Next time, just give cash if you don’t know what to buy.” He pointed at the gift. “I can’t use that.”\n\nMiko looked down at his hands. Jared reached for a plate of spaghetti and said, “Anyway, let’s eat,” while the unopened box sat in the middle of the table with torn paper around it."
+      }
+    },
+    "principled_action": "Because the giver explicitly asks the receiver to open it for a photo or a shared moment, the receiver opens it briefly, thanks the giver, and handles it respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Kaye Domingo",
+        "story": "Kaye met her friends at a café in Ortigas for a small celebration after a promotion. When her friend Lian arrived, she handed Kaye a neatly wrapped envelope-style box.\n\n“Open it, please,” Lian said. “I want a photo of your reaction.”\n\nKaye smiled and replied, “Okay,” then turned the box so the tape seam faced her. She peeled the tape carefully instead of tearing the paper, folding the wrap back along the edges. “Thank you, Lian,” she said as she opened it.\n\nLian lifted her phone. “Wait—hold it up.”\n\nKaye lifted the item out with both hands, glanced at it, and said, “Ang ganda. Thank you talaga.” She held it steady at chest level so Lian could take the photo.\n\nAfter the picture, Kaye placed the item back into its box, folded the wrapping paper neatly, and slid it under the box so it wouldn’t crumple. “I’ll look at it properly later,” she said.\n\nLian nodded and laughed. “Sige.”\n\nKaye set the box beside her bag on the chair, then pushed the coffee menu toward Lian. “What do you want to order?” she asked, leaning closer so they could read the options together."
+      }
+    },
+    "surface_action": "The receiver does not open the gift right away, but then makes snide comments about what it probably is and makes the giver feel uneasy.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Noel Pascual",
+        "story": "Noel hosted a small gathering in Cavite, with friends sitting on monoblock chairs in the garage. His coworker Joni handed him a wrapped gift and said, “Happy birthday.”\n\nNoel accepted it and said, “Thanks,” then placed it on the gift table without opening it.\n\nA few minutes later, Noel walked back toward Joni holding a paper plate of barbecue. He nodded at the wrapped box from across the room and said, “So what is that—another mug?” He smiled as he spoke and took a bite.\n\nJoni laughed lightly. “You’ll see.”\n\nNoel tilted his head. “Or maybe it’s socks,” he said, chewing. “You know I always get boring stuff.” He glanced at the others and added, “If it’s a cheap keychain, I swear.”\n\nJoni’s smile tightened and she looked down at her hands.\n\nNoel kept talking. “It’s okay, I’ll pretend I like it,” he said, still not opening the gift.\n\nHis friend from the neighborhood called him to join a group photo. Noel placed his plate on a stool and said, “Hold on,” then pointed at the gift table. “Don’t let anyone mix my gifts—especially that one,” he said, nodding at Joni’s present.\n\nHe walked to the center of the garage and stood with his arm around a friend as someone raised a phone for the picture."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "In a family home, the visitor shares space flexibly, asks before taking shared items, and cooperates with communal routines.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Anton dela Cruz",
+        "story": "Anton stayed overnight at his girlfriend’s family home in Bulacan for a fiesta weekend. The house was busy from morning: someone washing dishes, someone setting chairs outside, kids running in and out. Anton rolled his bag to a corner and asked, “Saan po okay ilagay ’to?”\n\nHis girlfriend’s tita pointed to a spot near the cabinet. Anton placed the bag there and kept the walkway clear. When he needed a towel after showering, he didn’t open drawers right away. He called out, “Tita, may extra towel po ba ako puwedeng gamitin?”\n\n“Yung blue, sa may sampayan,” she replied.\n\nAnton walked to the clothesline area and took the blue towel from the edge, leaving the rest hanging. In the kitchen, he reached for a mug, then paused. “Okay lang po ba gumamit nito?” he asked, holding it up.\n\nHis tito nodded. “Oo, basta hugasan mo.”\n\nAfter breakfast, Anton brought his plate to the sink, scraped leftovers into the bin, and washed the plate with the same sponge the others were using. When the water container ran low, he asked, “Refill na po ba natin?” and carried it to the tap when someone pointed.\n\nLater, as people set food on the table, Anton shifted his chair to make space and said, “Dito na lang ako,” while passing the serving spoon to the next person."
+      }
+    },
+    "non_action": "In a family home, the visitor demands strict personal space, complains about sharing, and treats shared items as if they belong only to the visitor.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Daryl Mendoza",
+        "story": "Daryl stayed at his cousin’s house in Valenzuela and immediately picked the largest spot on the sofa, spreading his backpack and jacket across it. When a younger cousin tried to sit, Daryl said, “Don’t sit here. This is my space,” pushing the pillow to block the seat.\n\nIn the kitchen, he opened the cabinet and pulled out a plate and mug without asking. He placed them on the counter and said, “This is mine for the whole day, okay?”\n\nHis aunt replied, “Shared yan.”\n\nDaryl sighed loudly. “Ang hirap dito, no privacy,” he said. He took the TV remote from the table and kept it beside him. When someone asked for it, he said, “Wait, I’m using it,” and turned the volume up.\n\nAt dinner, he reached into the serving tray with his own spoon and left it there. When his cousin said, “Paki-pass,” Daryl replied, “Get it yourself,” without moving.\n\nLater, his aunt started a routine of washing dishes in turns. Daryl leaned on the doorway and said, “I’m a guest, I don’t do chores,” then took a clean towel from the pile and wiped his hands, leaving it on the counter.\n\nWhen someone moved his bag to make space, Daryl said, “Don’t touch my stuff,” and pulled the bag back to the middle of the sofa."
+      }
+    },
+    "principled_action": "Because the visitor must protect a personal medication kit, the visitor stores it safely and explains briefly while still respecting the household’s shared-space norms.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Grace Tan",
+        "story": "Grace visited her aunt’s home in Angeles City for a weekend and carried a small medication kit with labeled blister packs and an inhaler. The living room was crowded with kids playing and adults moving chairs for lunch.\n\nGrace set her bag down, then noticed a toddler tugging at zippers nearby. She picked up her kit and asked, “Tita, saan po safe ilagay ’to? May gamot po ako dito.”\n\nHer aunt pointed to the top shelf of a cabinet. “Diyan, mataas,” she said.\n\nGrace nodded. “Thank you po. I just need it out of reach,” she added, then placed the kit on the shelf and closed the cabinet.\n\nShe didn’t claim extra space; she kept her backpack tucked under a chair and moved it when someone needed to pass. When she needed water for her medicine later, she asked, “Pwede po ba ako kumuha ng baso?” and waited for a nod before taking a glass.\n\nAfter taking her dose, she rinsed the glass and put it back in the rack. When the family started arranging plates, Grace stood up and asked, “Ano po kailangan ninyo?”\n\nHer aunt handed her a stack of spoons. Grace carried them to the table, placing them beside the plates without blocking the serving line.\n\nWhen the kids ran through again, Grace shifted her chair closer to the wall and said, “Dito na lang ako,” keeping the cabinet closed behind her."
+      }
+    },
+    "surface_action": "The visitor participates in shared space outwardly, but then labels others as intrusive and speaks disrespectfully about the family’s communal habits.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Celine Ramos",
+        "story": "Celine visited her boyfriend’s family in Batangas and joined lunch preparations in the kitchen. She carried plates to the table and said, “Sige, I’ll help,” moving around others without bumping them.\n\nWhen someone offered her a seat, she smiled and let an older aunt sit first. She asked, “Okay lang po ba kumuha ako ng tubig?” and filled her glass, then washed it after.\n\nLater, she stepped outside with her boyfriend near the gate where it was quieter. Celine lowered her voice and said, “Ang clingy nila dito, no? Parang wala silang boundaries.”\n\nHer boyfriend glanced toward the house. “Ganun talaga,” he said.\n\nCeline continued, “Laging nakikialam. Even your mom keeps checking what I’m doing.” She smiled as if joking, then added, “It’s like they can’t respect personal space.”\n\nBack inside, she returned to the table and said brightly, “Ang sarap!” while eating. When a cousin asked if she wanted more rice, Celine replied, “Sure,” then leaned toward her boyfriend and whispered, “See? They watch every move.”\n\nAs dishes were cleared, she stood and carried a tray to the sink, then muttered under her breath, “So intrusive,” while setting the tray down.\n\nShe wiped her hands on a towel, folded it, and placed it back on the counter as the family started washing plates together."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Business",
+    "full_action": "For formal appointments, the professional arrives on time and confirms schedules, while expecting more flexible timing in casual gatherings.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Villamor",
+        "story": "Hannah had a client meeting in Makati scheduled for 10:00 a.m. the next day. The evening before, she sent a message: “Confirming our 10:00 AM meeting tomorrow at the café near your office. See you then.” In the morning, she left early, arrived at 9:50, and ordered water while reviewing her notes.\n\nAt 9:58, she checked her phone and saw the client reply, “Confirmed.” Hannah stood near the entrance at 10:00 and greeted the client as they walked in. “Good morning,” she said, then opened her notebook and followed the agenda.\n\nThat weekend, Hannah met friends for a casual dinner in Pasay. The plan was “around 7,” and she didn’t send reminder messages. She arrived at 7:20, saw only two friends at the table, and sat down. “Order na kayo?” she asked.\n\nOne friend said, “Wala pa si Jay.”\n\nHannah nodded and replied, “Okay lang,” then signaled the waiter. “I’ll just get iced tea,” she said.\n\nAt 7:45, more friends trickled in. Hannah scooted her chair to make space and said, “Kayo, upo dito,” as plates and menus were passed around."
+      }
+    },
+    "non_action": "For a formal appointment, the professional arrives one to two hours late without notice and treats the delay as normal for everyone.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Roland Pineda",
+        "story": "Roland scheduled a formal meeting with a supplier in Mandaluyong at 2:00 p.m., agreeing on a conference room and a printed contract review. The supplier arrived early and waited in the lobby.\n\nAt 2:15, Roland’s phone stayed silent. At 2:40, the supplier sent a message: “We’re here.” Roland didn’t reply.\n\nRoland finally walked in at 3:25, holding a milk tea and talking on his phone. He ended the call, sat down, and said, “Traffic, you know.”\n\nThe supplier said, “We’ve been waiting since 1:50.”\n\nRoland shrugged. “Ganun talaga,” he replied. “Everyone waits. It’s normal.” He opened his laptop slowly and asked, “So, what’s the agenda again?”\n\nThe supplier pointed at the printed documents. Roland glanced at them and said, “Let’s just do this quick.” He took another sip of milk tea.\n\nWhen the supplier mentioned time constraints, Roland laughed lightly and said, “Relax, we’re here now,” then began scrolling through unrelated emails.\n\nAt 3:50, Roland took a personal call again and said, “Wait lang,” while the supplier sat with the documents open, watching the wall clock move toward 4:00."
+      }
+    },
+    "principled_action": "Because traffic or transit delays occur, the professional messages immediately with an updated arrival time and offers to reschedule if the delay disrupts the other party.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Miguel Aquino",
+        "story": "Miguel had a formal appointment with a recruiter in Taguig at 11:00 a.m. He left from his apartment early, but the MRT stopped between stations and announcements repeated over the speaker. Miguel checked the time and opened his phone.\n\nHe typed: “Hi Ms. Torres, I’m currently delayed due to MRT stoppage. Estimated arrival is 11:25. If this disrupts your schedule, I can reschedule at your convenience.” He sent it immediately.\n\nAt 11:08, Ms. Torres replied: “Thanks for the update. 11:25 is fine. Please come straight to reception.”\n\nMiguel replied, “Thank you, I’m on the way,” then switched to a ride-hailing app after getting off at the next station. In the car, he reviewed his documents and kept his phone visible in case he needed to update again.\n\nHe arrived at 11:24, paid the driver, and walked into the building. At reception, he said, “Good morning, I’m Miguel Aquino, here for Ms. Torres at 11.”\n\nThe receptionist checked the list and handed him a visitor badge.\n\nMiguel sat in the waiting area, straightened his folder on his lap, and sent a final message: “I’m at reception now,” then stood when his name was called."
+      }
+    },
+    "surface_action": "The professional arrives on time, but then wastes the meeting with avoidable side talk and ignores the agreed end time.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Clarissa Ong",
+        "story": "Clarissa arrived at a scheduled meeting in Cebu Business Park at 3:00 p.m. and checked in at 2:55. She greeted the client right at 3:00 and said, “Let’s start.”\n\nThe client opened a folder. Clarissa smiled and said, “Before that—grabe, did you see the latest celebrity breakup? Everyone’s talking about it.” She pulled out her phone and scrolled.\n\nThe client laughed briefly. “Ah, yeah.”\n\nClarissa continued, “And the traffic earlier, parang EDSA levels,” then told a long story about her ride. Ten minutes passed. She then switched to another topic: “By the way, my cousin is also in your industry—small world,” and asked questions unrelated to the agenda.\n\nAt 3:40, the client said, “We agreed to end at 4:00.”\n\nClarissa nodded but kept talking. “Yes, quick lang,” she said, then opened the presentation and digressed again to comment on the office décor.\n\nAt 4:05, the client started packing up. Clarissa waved a hand. “Wait, one more thing,” she said, continuing her explanation.\n\nAt 4:15, the client stood fully and said they had another call. Clarissa kept her laptop open and said, “Just five minutes,” while the client walked toward the door."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "When money topics come up, the visitor responds cautiously, avoids prying into income or living standards, and changes the topic politely if needed.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ethan Bautista",
+        "story": "Ethan attended a cousin’s gathering in Antipolo where plastic tables were set up in the driveway. After dinner, a few relatives sat around with soft drinks, chatting about work and commuting.\n\nAn uncle asked, “So, how much do you make now?”\n\nEthan smiled lightly and said, “I’m okay, Tito. Work is steady,” keeping his tone even. He didn’t add numbers and took a sip of his drink.\n\nAnother cousin leaned in and said, “How much rent do you pay in your condo?”\n\nEthan shrugged and replied, “It depends on the area, eh. I just chose something manageable,” then looked toward the grill. “Speaking of, who cooked the inihaw? Ang sarap.”\n\nHis aunt answered about the marinade, and the group’s attention shifted. Ethan asked, “Where did you buy the skewers?” and listened as they named a market.\n\nA neighbor walked by and asked about Ethan’s job title. Ethan answered calmly, “I’m in operations,” then redirected: “By the way, Tito, how’s your garden this year? I saw you planted calamansi last time.”\n\nThe uncle began describing the plants, and Ethan nodded while peeling an orange from the snack tray.\n\nWhen someone brought up a new car’s price, Ethan said, “Nice,” then asked the kids nearby, “Who wants extra ice?” and stood to refill cups."
+      }
+    },
+    "non_action": "When money topics come up, the visitor asks blunt questions about salary and living standards and pressures the other person to disclose details.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sheila Bautista",
+        "story": "Sheila visited a friend’s apartment in Manila and joined a small get-together after work. While they ate takeout, she looked around the living room and said, “So how much do you pay for this place?”\n\nHer friend laughed. “Depends.”\n\nSheila leaned in. “No, seriously. Exact amount. And how much do you earn now?” she asked, keeping her eyes on her friend’s face.\n\nHer friend said, “I don’t really—”\n\nSheila cut in. “Come on, don’t be shy. Monthly salary, plus bonuses. You can tell me,” she said.\n\nAnother person tried to change the topic to weekend plans. Sheila waved them off. “Wait, I’m asking,” she said. She turned back and added, “Because if you’re paying this rent, you must be making at least what, sixty? Seventy?”\n\nHer friend stirred their noodles slowly. “I’d rather not talk about it.”\n\nSheila pressed again. “Why not? Are you in debt? How much savings do you have? You can’t live like this without telling me.”\n\nHer friend looked toward the kitchen and said they needed to check the rice.\n\nSheila followed the movement with her eyes and said, “Just answer. I’m curious,” while the room got quieter and someone started stacking empty containers."
+      }
+    },
+    "principled_action": "Because a legitimate transaction requires a budget range, the visitor asks privately, explains why the information is needed, and accepts a general answer without pushing for specifics.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Cris Delgado",
+        "story": "Cris was helping his cousin in Cavite look for a secondhand motorcycle for daily commuting. They met a seller at a small roadside café, and the seller asked questions about preferred models and payment options.\n\nWhen the seller stepped away to take a call, Cris turned to his cousin and said quietly, “Before we negotiate, what budget range are you comfortable with? Just a range, so I don’t overpromise.”\n\nHis cousin hesitated. Cris added, “We can keep it between us. I just need to know if we’re talking entry-level or something higher.”\n\nHis cousin replied, “Maybe around forty to fifty.”\n\nCris nodded. “Okay, got it,” and didn’t ask for salary or savings. When the seller came back, Cris said, “We’re looking in the mid-range, depending on condition,” and asked about maintenance records.\n\nThe seller showed photos on his phone. Cris leaned in, pointed at the odometer picture, and asked, “When was the last oil change?”\n\nThe cousin stayed quiet, sipping coffee.\n\nLater, the seller suggested a higher price. Cris looked to his cousin and asked softly, “Still within your range?”\n\nThe cousin said, “A little high.”\n\nCris nodded and told the seller, “We’ll pass unless we can keep it within our budget range,” then stood and thanked him.\n\nAs they walked to the parking area, Cris said, “We can check another listing,” and opened a chat thread with a different seller."
+      }
+    },
+    "surface_action": "The visitor avoids direct questions, but then makes pointed comparisons about who can afford what to put social pressure on others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Paula Rivera",
+        "story": "Paula joined a small barkada dinner in San Juan, and the group ordered shared dishes. While waiting, someone mentioned rising prices. Paula smiled and said, “Ay, mahal na talaga ngayon,” without asking anyone directly about their income.\n\nWhen a friend suggested a weekend trip to Bohol, Paula said, “Nice idea,” then glanced around the table and added, “Of course, some people can afford flights anytime.” She looked at one friend who had just bought a new phone.\n\nThe friend laughed softly. “We’ll see.”\n\nPaula continued, “I mean, if you’re earning like that, easy lang sayo. Meanwhile others have to think twice.” She didn’t name numbers, but she pointed with her chin toward the friend’s watch. “That’s not cheap, ha.”\n\nAnother friend tried to shift the topic to food. Paula picked up her fork and said, “I’m just saying, if someone can drop money on gadgets, they can surely cover a group booking.”\n\nThe friend said, “Let’s not talk like that.”\n\nPaula raised both hands slightly. “I’m not asking your salary,” she said, smiling. “Just obvious.”\n\nWhen the bill arrived, Paula looked at the same friend and said, “You can handle the tip, right?” then watched as they reached for their wallet.\n\nShe leaned back and said, “See, that’s what I mean,” as the waiter placed the receipt on the table."
+      }
+    }
+  }
+]

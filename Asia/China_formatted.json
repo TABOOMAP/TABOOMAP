@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "During a group conversation, the participant lets others finish, allows brief silences, and waits for an appropriate moment to speak.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Zhang Rui",
+        "story": "Zhang Rui attended a neighborhood committee meeting in Chengdu, folding his umbrella by the door and taking a seat near the back. People spoke in turns about the elevator repair and the new parcel lockers downstairs. A woman in a red coat described the noise at night, pausing to search for the right words.\n\nZhang Rui kept his hands on his notebook and waited. The room went quiet for a few seconds while the committee volunteer looked at the agenda. No one jumped in, so Zhang Rui stayed still, letting the pause sit.\n\nAn older man finished a long story about a water leak. Zhang Rui nodded once and waited until the volunteer asked, “Any other comments?” Then he raised his hand slightly. “I can share what the maintenance company told me,” he said. “They said the replacement part arrives Friday, and they need access to the machine room for two hours.”\n\nSomeone asked, “Did they mention the cost?” Zhang Rui answered after the question ended. “They quoted two options. I wrote them down.” He read the numbers from his note and looked up.\n\nWhen a neighbor started speaking again, Zhang Rui closed his pen and listened until the meeting moved to the next item."
+      }
+    },
+    "non_action": "During a group conversation, the participant interrupts frequently, fills every pause, and prevents others from completing their thoughts.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Liu Qiang",
+        "story": "Liu Qiang stood with his badminton group outside the sports center in Nanjing, everyone cooling down while a few people checked their phones. Someone started, “About next week’s court booking—” and Liu Qiang jumped in, “I already know, I already know, we should do it my way,” waving his water bottle.\n\nA teammate tried again, “If we split into—” and Liu Qiang talked over him. “No, no, listen, it’s simple. We take Court 3 and 4, and I’ll message the manager. Also, the lineup should be fixed.” He kept speaking through a short pause, filling it with details about shuttle brands and warm-up routines.\n\nWhen a woman in the group said, “I can’t make Thursday because—” Liu Qiang cut in, “Thursday is best. Everyone else can adjust.” Another person started to suggest Saturday mornings, and Liu Qiang stepped closer, speaking faster. “Saturday is crowded. Don’t you remember last time? We wasted time. So Thursday.”\n\nA teammate opened his mouth, then closed it as Liu Qiang continued without stopping. “And for doubles, I’ll pair people. It’ll be efficient.”\n\nHe pulled out his phone and started dictating names into the group chat while others watched the screen notifications appear."
+      }
+    },
+    "principled_action": "Because a misunderstanding could cause immediate harm, the participant gently interrupts once to clarify a critical point and then returns the floor to the speaker.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sun Mei",
+        "story": "Sun Mei joined a safety briefing at a small manufacturing workshop in Suzhou, sitting with a few new hires near stacks of boxed parts. The supervisor pointed at a diagram and explained how to shut down the cutting machine, speaking steadily while everyone listened.\n\nHe said, “If your sleeve gets caught, pull the red lever and—” and Sun Mei heard him add, “then reach in to clear the jam.” Sun Mei lifted her hand and spoke once, keeping her voice low. “Sorry, just to confirm,” she said, “did you mean reach in only after power is off and the blade stops?”\n\nThe supervisor paused, looked at the diagram, and said, “Yes—power off first, then wait for the stop indicator.” Sun Mei nodded and leaned back, letting him continue.\n\nHe resumed the explanation, pointing to the emergency stop and the lockout tag. Sun Mei kept quiet, writing “power off → stop indicator” in her notebook. When another trainee asked about gloves, Sun Mei didn’t add anything, watching as the supervisor demonstrated where to stand.\n\nAfter the briefing, the group walked toward the machine for a hands-on demonstration, and Sun Mei followed at the back of the line."
+      }
+    },
+    "surface_action": "The participant avoids interrupting, but uses long pauses strategically to make others uncomfortable and to pressure them into conceding.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "He Jia",
+        "story": "He Jia sat in a conference room in Beijing for a vendor selection discussion, a pot of tea set near the edge of the long table. A colleague, Yu, presented three quotes and said, “Option B fits our budget, and the delivery is within two weeks.”\n\nHe Jia didn’t interrupt. He held his pen above the paper and stared at the spreadsheet on the screen. When Yu finished speaking, He Jia stayed silent. The air conditioner clicked, and the projector fan hummed.\n\nYu added, “We can also negotiate the warranty.” He Jia kept his eyes on the numbers and waited. A second colleague shifted in his chair and looked toward He Jia. He Jia still didn’t speak, letting the quiet stretch.\n\nAfter several seconds, Yu said, “If you think it’s not suitable, we can reconsider.” He Jia slowly turned a page in his notebook and paused again, then finally said, “Go on,” without offering any view.\n\nYu started listing risks, glancing up between sentences. He Jia listened without interrupting, then left another long gap when Yu stopped. Yu said, “We can choose Option A if that’s better,” and He Jia nodded once, still not stating his position.\n\nThe meeting secretary typed the minutes while He Jia looked at the clock on the wall."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When giving or receiving an item, the person uses two hands and makes eye contact briefly to show respect and formality.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Guo Lili",
+        "story": "Guo Lili met her landlord in the lobby of an apartment building in Xi’an, where a courier stack of parcels sat beside the security desk. The landlord arrived with a new door access card and a printed receipt. “Here’s the updated card,” he said.\n\nGuo Lili stepped forward, held out both hands, and looked up to meet his eyes for a moment. “Thank you,” she said, taking the card between her palms. She lowered her gaze to check the number on the card, then tucked it into her wallet.\n\nThe landlord extended the receipt. Guo Lili again raised both hands, accepted it carefully, and gave a brief look toward his face. “I’ll keep this,” she said. The landlord nodded and asked, “Any issues with the water heater?”\n\nGuo Lili answered, “It’s working,” and pulled out her phone. “I paid the management fee yesterday.” She held out her phone screen with both hands angled toward him so he could see the transfer record.\n\nHe glanced at it and said, “Okay.” Guo Lili returned the phone to her bag and used both hands to pass back the pen he had lent her to sign the delivery slip.\n\nThe lobby door opened, and a resident walked through as Guo Lili stepped aside to let them pass."
+      }
+    },
+    "non_action": "When giving or receiving an item, the person tosses it with one hand while looking away and continues walking without acknowledgment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ma Jun",
+        "story": "Ma Jun hurried through the ticket hall of a subway station in Guangzhou, earbuds in, eyes fixed on the turnstiles ahead. A station staff member stepped slightly into his path and held out a small pamphlet about a service change. “Sir, take one,” she said.\n\nMa Jun didn’t slow down. Without looking, he flicked his wrist and tossed his ID card toward the staff member with one hand, as if expecting her to scan it. The card hit her palm awkwardly. He kept walking, head turned toward the departure board.\n\nThe staff member said, “Your card—” but Ma Jun was already stepping into the line for the gate. He reached back with one hand and waved, still looking away, and the pamphlet brushed his sleeve and fell to the floor.\n\nAt the turnstile, he pushed through as the gate beeped. A commuter behind him picked up the pamphlet and handed it back to the staff member. Ma Jun, still moving, pulled his phone out with one hand and typed while the crowd flowed around him.\n\nThe staff member called after him, “Sir, the line on Platform 2 is closed today,” and Ma Jun kept walking toward the escalator without turning his head.\n\nHis earbuds cable bounced as he disappeared into the escalator crowd."
+      }
+    },
+    "principled_action": "Because the person is holding a child with one arm, the person uses the free hand carefully, offers a brief apology, and ensures the item is handed securely.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Xu Yan",
+        "story": "Xu Yan stood at a community clinic in Wuhan with her toddler balanced on her left hip, the child’s small shoe tapping against her coat. The nurse at the counter slid a registration slip and a numbered card forward. “Take this and go to Room 3,” the nurse said.\n\nXu Yan shifted her grip on the child and leaned closer. “Sorry, I’m holding him,” she said softly. Using her right hand, she pinched the edge of the slip, then paused to make sure it wouldn’t slide back. She pressed it down with her fingertips and pulled it toward her, keeping it flat against the counter so it didn’t crumple.\n\nThe nurse held out the numbered card. Xu Yan said, “Thank you,” and took it with her right hand, curling her fingers around it so it wouldn’t drop. She glanced up at the nurse for a moment, then looked down to place the card into the clear pocket of her phone case.\n\nHer toddler reached toward the counter. Xu Yan adjusted him higher and said, “Don’t touch.” She turned to the side and handed the slip to her mother, who had just arrived.\n\nXu Yan walked carefully toward the hallway, watching the room numbers above each door."
+      }
+    },
+    "surface_action": "The person uses two hands to hand over the item, but immediately snatches it back to correct the other person in a way that makes them lose face.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tang Jie",
+        "story": "Tang Jie met a junior coworker in the lobby of an office tower in Shanghai to hand over a printed contract. The junior colleague arrived with a folder and said, “I’ll take it up to Legal.” Tang Jie nodded, squared the pages, and extended the contract with both hands.\n\nThe junior reached out, and Tang Jie kept his hands on the edges as the paper transferred. He made brief eye contact and said, “Here.”\n\nAs soon as the junior’s fingers touched the top page, Tang Jie pulled the contract back toward himself, still holding it with both hands. “Not like that,” he said, lifting the corner. “You’re bending it. Look, align the edges.” He placed the contract back into the junior’s hands, then immediately tugged it away again. “No, your thumbs are on the stamp area,” he said, raising his voice slightly.\n\nThe junior froze, hands hovering. A receptionist behind the desk glanced up from her monitor. Tang Jie tapped the page with a fingertip and said, “Hold here, not there.” He pushed the contract forward again with both hands, then snatched the top sheet back once more to point at a signature line.\n\n“Read this line,” Tang Jie said, and the elevator doors opened with a chime beside them."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "When eating shared dishes from the center, the diner takes modest portions that leave fair access for everyone at the table.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Jiang Yu",
+        "story": "Jiang Yu ate lunch with coworkers at a small Hunan restaurant in Wuhan, sitting around a round table with a glass lazy Susan. Four shared dishes arrived: stir-fried pork with peppers, eggplant, greens, and a plate of shrimp. Everyone had a rice bowl and chopsticks.\n\nAs the first dish came within reach, Jiang Yu waited until others had taken a bite. He then picked up one slice of pork and placed it into his rice bowl, leaving the rest spread out on the plate. When the shrimp dish rotated toward him, he chose a single shrimp and turned the lazy Susan a little so it continued around.\n\nA colleague said, “Try the eggplant,” and Jiang Yu took a small cube, then paused so the next person could reach. When someone reached for a second helping quickly, Jiang Yu shifted his chopsticks to his bowl and focused on rice for a moment.\n\nAs the plates made another round, Jiang Yu took modest portions again—one piece at a time—so the center plates stayed visibly stocked. He noticed the newest intern hesitating, so Jiang Yu nudged the lazy Susan slightly toward her side and said, “It’s here.”\n\nThe intern took a piece of shrimp, and Jiang Yu returned to his bowl and ate his rice while the conversation moved to afternoon meetings."
+      }
+    },
+    "non_action": "When eating shared dishes from the center, the diner takes large portions repeatedly and leaves little for others without checking.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Han Jie",
+        "story": "Han Jie joined a team lunch in Suzhou at a Cantonese place with a rotating lazy Susan. The server set down roast duck, a plate of prawns, two vegetables, and a clay pot of tofu. Before anyone finished pouring tea, Han Jie leaned forward and grabbed two large pieces of duck, dropping them into his bowl.\n\nAs the prawns came around, he reached again, picking three in a row and piling them on top of his rice. A coworker said, “Let’s all have some first,” but Han Jie was already stretching across the table to take more duck skin and a chunk of tofu.\n\nThe plates rotated slowly. Each time a premium dish returned, Han Jie took another large portion, scraping sauce with his chopsticks and pulling pieces toward his side. He didn’t look up to see who had eaten what. A colleague tried to turn the lazy Susan toward the intern, and Han Jie rotated it back and took the last two prawns.\n\nSomeone said, “There’s not much left,” and Han Jie kept chewing, reaching into the duck plate again to pick through for a meaty slice. The intern’s bowl stayed mostly rice, and she watched the empty prawn plate.\n\nHan Jie lifted his bowl close to his mouth and continued eating while the server walked past with another table’s dishes."
+      }
+    },
+    "principled_action": "Because the diner has dietary restrictions, the diner takes a small safe portion and then focuses on rice and vegetables while keeping the shared plates available to others.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Xie Tong",
+        "story": "Xie Tong ate with relatives at a home-cooked dinner in Xiamen, a round table covered with shared plates: braised pork, stir-fried clams, a light soup, and several vegetables. He had already told his cousin in a message that he couldn’t eat shellfish and needed to avoid certain sauces.\n\nWhen the dishes were set down, Xie Tong waited as others started. He then took a small portion of steamed greens and a bit of plain tofu into his rice bowl. As the braised pork came toward him, he leaned in and selected a small piece from the edge where there was less sauce, placing it in his bowl and then rotating the lazy Susan onward.\n\nHis aunt said, “Eat more of this,” pointing at the clams. Xie Tong shook his head slightly and said, “I’ll skip the clams,” then took another bite of rice. He chose cucumbers and leafy greens, one piece at a time, and kept his chopsticks close to his bowl so the shared plates stayed open for others.\n\nWhen the soup bowl arrived near him, he ladled a small amount into his own bowl and set the ladle back carefully. He then focused on rice and vegetables while the rest of the family picked from the seafood dishes.\n\nA kettle whistled briefly in the kitchen as someone stood to refill the teapot."
+      }
+    },
+    "surface_action": "The diner takes small portions in front of others, but later keeps reaching first for premium pieces as soon as attention shifts.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Wei Chen",
+        "story": "Wei Chen went to a hotpot restaurant in Chongqing with three friends after work. The broth bubbled in the center, and plates of sliced beef, fish balls, and vegetables ringed the table. At first, Wei Chen used his chopsticks to take a small piece of lettuce and a single slice of beef, placing them neatly into his bowl.\n\nHe said, “You all eat first,” and waited while his friends chatted about a TV drama. He dipped a tofu skin strip and ate quietly. When a server brought a fresh plate of marbled beef and set it near the center, everyone glanced at their phones as a message came in the group chat.\n\nWhile the others read, Wei Chen leaned forward and picked up two of the thickest slices of beef from the new plate, dropping them into the pot. He immediately reached again, selecting another premium slice and placing it beside the first. He used the strainer to scoop the cooked beef toward his bowl before the others looked up.\n\nA friend lifted his eyes and said, “Oh, that beef just arrived.” Wei Chen nodded and said, “Yeah,” then took a small mushroom as if to balance his bowl. When attention shifted back to conversation, Wei Chen again reached first for the remaining thick slices, sliding them into the broth.\n\nSteam fogged Wei Chen’s glasses as he lifted his bowl closer and ate the beef he had retrieved."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When a dining symbol is associated with funeral rituals, the guest treats the symbol seriously and avoids using it in ways linked to death customs.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Zhang Peilin",
+        "story": "Zhang Peilin visited her boyfriend’s family in Fuzhou for dinner, arriving with fruit and being ushered to the round table. As dishes came out, she watched how everyone handled their bowls and chopsticks. When she needed to pause to pour tea for the grandmother, Peilin looked at her rice bowl and kept her chopsticks in her hand for a moment. She then laid them horizontally on the small chopstick rest beside her plate. The grandmother pointed toward the fish. “多吃点,” she said. Peilin reached with serving chopsticks, placed a piece in her bowl, and kept her own chopsticks resting flat whenever she stopped to speak. Later, a younger cousin started to stick his chopsticks into his rice while joking; Peilin didn’t laugh along. She quietly reached over, nudged a chopstick rest toward him, and said, “先放这儿吧,” then returned her hands to her lap as the conversation moved on."
+      }
+    },
+    "non_action": "When a dining symbol is associated with funeral rituals, the guest mocks the association and intentionally uses the symbol in a funeral-like way at the table.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Huang Yifan",
+        "story": "Huang Yifan joined a dinner in a Kunming apartment, the table set with rice bowls and stir-fried dishes. When someone mentioned not putting chopsticks upright in rice, Yifan laughed and leaned forward. “真的假的？那我偏要试试,” he said. He pushed his chopsticks straight into his rice bowl and held the bowl up like a display. “看，像不像上香？哈哈,” he said, turning it toward the others. The host’s sister stared at the bowl and didn’t pick up her chopsticks. “别这样,” the host said, reaching slightly. Yifan pulled his bowl back and grinned. “你们太迷信了,” he said, keeping the chopsticks planted upright while he took a sip of soda. A few seconds later, he tapped the chopsticks with his finger so they wobbled like sticks in sand, then set the bowl down in front of him."
+      }
+    },
+    "principled_action": "Because the guest did not know the association, the guest asks a discreet question, corrects the behavior, and expresses respect for local customs.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ren Xiaoyu",
+        "story": "Ren Xiaoyu attended a colleague’s housewarming dinner in Chengdu, slipping her coat onto a chair and sitting at the end of the table. Halfway through the meal, she paused and set her chopsticks into her rice bowl while she reached for her water. Across from her, the colleague’s aunt stopped mid-sentence and looked down at the bowl. Xiaoyu noticed and leaned slightly toward the colleague, lowering her voice. “我是不是哪里放得不对？” she asked, eyes flicking to the chopsticks. The colleague whispered back, “筷子别插饭里，像上香。” Xiaoyu immediately lifted her chopsticks out and placed them on the chopstick rest by her plate. She nodded once. “明白了，不好意思，我之前不知道，” she said quietly. Then she turned back to the table, picked up the serving spoon, and helped pass a dish of mapo tofu to the person beside her."
+      }
+    },
+    "surface_action": "The guest avoids the taboo form, but uses the topic to make unsettling jokes that disregard the solemn meaning behind the symbol.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Gao Zixuan",
+        "story": "Gao Zixuan ate with friends at a late-night rice shop in Changsha, bowls of braised pork rice lined up on the table. When he paused, he placed his chopsticks flat across the bowl, careful not to stick them in. Then he grinned at the new girlfriend of a friend and said, “你知道吗，插进去就跟上香一样，感觉立刻变灵堂。” One friend stopped stirring his soup. Zixuan continued, lowering his voice theatrically, “要是再点个白蜡烛，气氛就到位了。” The girlfriend blinked and looked down at her bowl. Zixuan chuckled and kept his chopsticks lying flat, tapping them lightly on the rim as he talked. A server walked by; Zixuan raised his hand for more tea, then picked up his chopsticks and took another bite while the table stayed quiet for a moment."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "In a family setting, the younger relative shows age-based respect by listening first and raising concerns privately rather than challenging a senior relative in public.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Xu Jing",
+        "story": "Xu Jing returned to her grandparents’ home in a small city in Jiangsu for a weekend lunch. Her uncle, the eldest son, sat at the center of the round table and spoke about selling a piece of farmland. Jing listened while picking up vegetables with her chopsticks, nodding when he looked her way. “就这么定了,” her uncle said, turning to the others. Jing didn’t interrupt in front of everyone. She poured tea for her aunt, then waited until the dishes were cleared and people drifted to the living room. When her uncle stepped onto the balcony to answer a call, Jing followed with two cups of hot water. She handed one to him and said quietly, “舅舅，我想跟你私下聊一下那个地的事。” Her uncle looked at her, then nodded. Jing kept her voice low. “我查到那边最近要修路，价格可能会变，” she said, showing a screenshot on her phone. Her uncle scrolled, frowning slightly, and said, “我回头再问问。” Jing put the phone away as they walked back inside."
+      }
+    },
+    "non_action": "In a family setting, the younger relative publicly confronts a senior relative, argues loudly, and forces the senior relative to defend themselves in front of others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Luo Tian",
+        "story": "Luo Tian sat down at a family dinner in a Wuhan apartment, barely taking off his backpack before the dishes were served. His aunt mentioned that the grandfather planned to give Tian’s cousin the apartment deed. Tian slammed his chopsticks on the table. “凭什么？你们怎么能这么偏心！” he shouted across the lazy Susan. The living room went quiet; the grandfather’s hand stopped above his bowl. Tian stood up, pointing. “爷爷，你说清楚，你是不是就是不把我当家里人？” The grandfather frowned. “你小声点，” he said. Tian raised his voice again. “我就要现在说！大家都在，你别躲！” The cousin tried to speak; Tian cut him off. “你别装了，你就是想占便宜！” The grandfather’s face tightened as he looked around the table, and Tian kept arguing, demanding an answer while relatives stared at their bowls."
+      }
+    },
+    "principled_action": "Because a harmful decision must be stopped, the younger relative uses polite language to pause the situation and later discusses the issue with the senior relative privately.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Peng Yuxin",
+        "story": "Peng Yuxin attended a family dinner in Chengdu when she heard her grandfather mention signing a contract with a neighbor to invest his savings in a “quick return” project. The neighbor, Mr. Zhou, was sitting at the table, smiling and topping up the grandfather’s cup. Yuxin set her chopsticks down and spoke evenly. “爷爷，先别急着签，今天大家吃饭，我们回头我跟你把合同看一遍，好吗？” Her grandfather waved a hand. “人家都说好了。” Yuxin nodded once. “我知道，您先吃饭，我晚点陪您去房间拿一下合同，” she said, keeping her tone calm. After the meal, she helped clear the table and waited until Mr. Zhou left. Then she sat with her grandfather in the bedroom, unfolded the contract on the desk, and said, “我帮您看看条款，咱们慢慢来。” She took out her phone to call her uncle, and the grandfather pulled his reading glasses from the drawer."
+      }
+    },
+    "surface_action": "The younger relative avoids public challenge, but later spreads the senior relative's mistake to others, undermining respect while keeping the outward form.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Duan Yilin",
+        "story": "Duan Yilin joined a family hotpot night in Chongqing, sitting across from her older aunt who was in charge of the household. When the aunt announced she had paid a deposit to a contractor without checking the quote, Yilin didn’t say anything at the table. She kept eating, nodding when her aunt looked over. After dinner, Yilin went to the elevator with her cousin and pulled out her phone. “你知道吗，她又乱花钱了，” Yilin said, typing quickly into the family group chat. She sent a message: “阿姨今天又交了装修订金，价格离谱，没人敢说。” Notifications popped up one after another. A cousin replied with a sticker; another asked, “真的假的？” Yilin answered, “真的，我亲耳听到。” The next morning, her aunt’s phone rang repeatedly during breakfast, and Yilin sat on the sofa scrolling while her aunt walked to the balcony to take calls."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When preparing a gift, the giver chooses neat wrapping and avoids colors that commonly carry funeral or mourning associations in the local context.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Wang Shuo",
+        "story": "Wang Shuo stood in a stationery shop near a subway exit in Beijing, turning rolls of wrapping paper between his fingers. The clerk pointed to a stack of plain white paper. Shuo shook his head and reached for a red paper with a subtle cloud pattern. “这个吧，” he said. He added a gold ribbon and asked for a small gift bag to keep the corners clean. At home, he laid the box on the dining table, folded the paper edges sharply, and ran his thumbnail along each crease. He taped the seams so no tape showed on the top face, then tied the ribbon into a flat bow. For a second option, he picked a warm beige paper with tiny dots and set the white roll back into the drawer. When his neighbor Ms. He invited him over for her mother’s birthday dinner, he carried the wrapped box with both hands. “阿姨生日快乐，” he said at the door. Ms. He glanced at the wrapping and stepped aside to let him in. Shuo placed the gift on the side table next to a bowl of mandarins and adjusted the bow so it faced outward."
+      }
+    },
+    "non_action": "When preparing a gift, the giver uses messy wrapping and chooses colors widely associated with mourning without considering the recipient's feelings.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Guo Ziming",
+        "story": "Guo Ziming bought a bottle of tea and a small boxed dessert for his colleague’s housewarming in Wuhan. At the last minute, he grabbed a roll of plain white wrapping paper from a convenience store and a strip of black tape. In the office pantry, he wrapped the box loosely, leaving one corner sticking out. The tape crisscrossed the top in uneven strips, and a tear ran along the edge. He shrugged and stuffed it into a thin plastic bag. That evening, he arrived at Li Na’s apartment with the bag swinging at his side. “给你，” he said, dropping it onto the entry cabinet. Li Na picked it up and looked at the black tape. Ziming laughed. “就随便包一下，反正是吃的。” Li Na’s friend reached over to straighten the paper and the ripped corner opened further, exposing the dessert box. Ziming waved his hand. “别那么讲究嘛，白色多干净。” Li Na set the gift down without unwrapping and turned toward the kitchen, calling, “我去拿杯子。” Ziming kicked off his shoes and left the torn wrapping on the cabinet top."
+      }
+    },
+    "principled_action": "Because only limited wrapping is available, the giver uses simple neutral paper and adds a respectful note to convey goodwill.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Deng Xinyi",
+        "story": "Deng Xinyi realized on the way to a colleague’s engagement dinner in Suzhou that the gift shop near her apartment had run out of decorative wrapping. The only paper she could find was a roll of plain kraft paper at a small hardware store. She bought it along with twine and a blank card. Back at her desk, she cut the kraft paper neatly, measured the folds, and taped the underside so the top looked clean. She tied the twine in a simple cross and tucked the card under the knot. On the card she wrote, “祝你们新生活顺顺利利，心意不重，情意在。” At the restaurant, she handed the wrapped box to the bride-to-be, Qiao Yu. “路上买的包装比较简单，” Xinyi said, “我写了张小卡片。” Qiao Yu slid the card out and read it, then nodded and placed the gift on the side table with the other parcels. Xinyi poured tea for the people seated beside her and passed the menu to the next guest."
+      }
+    },
+    "surface_action": "The giver uses appropriate colors and neat wrapping, but writes a showy message that highlights the giver's generosity rather than the relationship.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Li Junhao",
+        "story": "Li Junhao prepared a gift for his friend’s baby shower in Guangzhou and chose a bright red gift box with a tidy matching bag. He lined up the tissue paper corners so they fanned out evenly and sealed the box with a gold sticker. Before leaving, he took out a marker and wrote across the attached card in large characters: “特意花了大价钱给你挑的，别辜负！” At the gathering, the host, Fang Xin, accepted the box with a smile and placed it on the table with other gifts. Junhao leaned over the card and read it aloud, half-joking. “你看，我这次可是下血本了。” A couple of guests glanced at the card, then back at their phones. Fang Xin laughed briefly and said, “谢谢你啊。” Junhao added, “等你用上了记得跟我说，毕竟我跑了好几家店才买到。” Fang Xin picked up a bowl of sunflower seeds and offered it around. Junhao took a handful, still watching the gift table as someone adjusted the stack of boxes to make room for a cake."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "When a host offers refreshments and insists politely, the guest declines once only if they truly mean to refuse, and otherwise accepts with thanks after a brief ritual exchange.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Gao Shanshan",
+        "story": "Gao Shanshan visited her aunt’s home in Suzhou on a rainy afternoon. After she set her umbrella by the door, her aunt asked, “喝点什么？茶还是热水？” Shanshan raised her hands slightly. “不用了阿姨，我刚路上喝过。” Her aunt was already walking toward the kitchen. “来都来了，坐一会儿，给你倒点热茶。” Shanshan followed to the living room and sat on the sofa. “那就麻烦您了，谢谢。” Her aunt brought a small teapot and a cup, setting them on the table with a soft clink. Shanshan took the cup with both hands. “谢谢阿姨。” Her aunt asked, “最近工作忙不忙？” Shanshan nodded and answered while sipping slowly. When the cup was half empty, her aunt reached for the kettle again. Shanshan covered the cup lightly with her hand. “我够了，谢谢，别忙了。” Her aunt laughed and put the kettle back. Shanshan leaned forward to place the cup back on the coaster and wiped a few raindrops from her sleeve with a tissue."
+      }
+    },
+    "non_action": "When a host offers refreshments, the guest rejects it repeatedly in a way that embarrasses the host or accepts without any acknowledgment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nie Tao",
+        "story": "Nie Tao dropped by a friend’s home in Changchun to return a borrowed power bank. The host, Sun Jie, opened the door and said, “进来坐，喝点热的吧？” Tao stepped inside and waved his hand hard. “不用不用不用，别整这些。” Sun Jie walked toward the kitchen anyway. “我给你倒杯水。” Tao followed and raised his voice. “我都说了不用！你别这么麻烦行不行？” Sun Jie stopped at the sink, hand on the faucet, and looked back. Tao continued, “我坐两分钟就走，别搞得像接待领导一样。” Sun Jie put the cup down and said, “那你随便坐。” Tao dropped onto the sofa and pulled out his phone, scrolling without speaking. Sun Jie sat across from him, hands on his knees. After a minute, Sun Jie asked, “最近怎么样？” Tao said, “还行,” still looking at the screen. Sun Jie stood up and went to the window to close it, and Tao tossed the power bank onto the coffee table with a dull thud."
+      }
+    },
+    "principled_action": "Because the guest has a medical restriction, the guest thanks the host warmly and requests water or tea instead, preserving the host's hospitality.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Zhu Wenjing",
+        "story": "Zhu Wenjing visited her colleague’s home in Guangzhou after work. Her colleague’s mother greeted her at the door and said, “来，喝点可乐还是果汁？” Wenjing smiled and clasped her hands. “谢谢阿姨，我最近胃不太舒服，能不能给我一点温水或者淡茶？” The mother nodded immediately. “可以可以，我给你倒温水。” Wenjing stepped into the living room and placed her bag by the sofa. When the warm water arrived, she took the glass with both hands. “谢谢您，麻烦了。” The mother offered a plate of sliced oranges. Wenjing leaned forward. “我先喝点水就好，水果我等会儿再吃。” Her colleague brought out a small tin of tea and asked, “要不要换成茶？” Wenjing replied, “淡一点就行，谢谢。” The mother poured a light tea and set it down, and Wenjing took a sip and said, “刚好。” Her colleague turned on the TV at low volume while Wenjing placed the glass carefully on a coaster."
+      }
+    },
+    "surface_action": "The guest follows the polite decline-and-accept pattern, but then wastes the drink and complains about it, undermining the host's goodwill.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Yu Haoxiang",
+        "story": "Yu Haoxiang went to his friend’s home in Tianjin to watch a football match. The host, Chen Rui, asked, “喝点什么？我给你泡茶？” Haoxiang waved once. “不用了不用了，别麻烦。” Chen Rui was already filling the kettle. “来一杯热的，外面冷。” Haoxiang sat down and said, “那就谢谢了。” Chen Rui brought a cup of jasmine tea and set it in front of him. Haoxiang took a sip and grimaced slightly. “有点淡啊，” he said. Chen Rui replied, “我怕你不习惯太浓。” Haoxiang shrugged and set the cup down. As the match started, he got up twice to check his phone and left the tea untouched. When the tea cooled, he pushed the cup farther away and said, “凉了更不好喝。” Chen Rui reached for it. “我给你换一杯？” Haoxiang waved again. “算了算了，你这茶一般。” Chen Rui carried the half-full cup to the sink and poured it out while Haoxiang called from the sofa, “球要进了！”"
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "The visitor avoids casual comparisons between China and Japan in a way that could be read as dismissive, and keeps cross-country references relevant and neutral.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Park Jiyoon",
+        "story": "Park Jiyoon visited a manufacturing partner in Suzhou for a tooling review and met Engineer Li in a workshop office. When they discussed tolerances, Jiyoon opened a folder and said, “For this part, our customer requires ISO 2768-m for general tolerances,” pointing to the line on the spec sheet. Engineer Li nodded and compared it to their internal standard, pulling up a chart on his monitor. Jiyoon kept the discussion on measurements and procedures, asking, “Which gauge do you use for the diameter check, and how often is it calibrated?” During a break, a junior engineer mentioned that a similar tool had been used “in Japan projects.” Jiyoon replied, “If you have the inspection report from that tool, it would help us align the method here,” and waited while they searched the shared drive. She did not comment on countries beyond the documents. Engineer Li printed a calibration record and handed it over. Jiyoon read the dates, circled one entry with her pen, and said, “Let’s match this calibration interval for our line as well.” She placed the paper back into the folder and asked to see the first-article sample on the bench."
+      }
+    },
+    "non_action": "The visitor makes offhand China–Japan comparisons, stereotypes the differences, and treats the topic as casual entertainment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Thomas Reed",
+        "story": "Thomas Reed toured a partner office in Shanghai and joined a meeting with Ms. Han and her team. While waiting for the projector to connect, Thomas laughed and said, “You know, this is so different from Japan—Japan is always so orderly, and China is… well, more chaotic, right?” A couple of people stared at their laptops. Ms. Han said, “We can start with the agenda.” Thomas kept going. “I’ve been to Tokyo, everything runs like clockwork. Here it’s more, you know, flexible.” He winked as if it were a joke. One engineer adjusted his glasses and said nothing. Thomas added, “But that’s the charm, I guess.” Ms. Han clicked to the first slide about quality metrics. Thomas leaned back and said, “In Japan, they’d never let a defect rate look like that.” Ms. Han’s expression stayed still as she said, “Let’s review the corrective action plan.” Thomas chuckled again and tapped his pen while the room remained quiet and the slide advanced to the next chart."
+      }
+    },
+    "principled_action": "Because a technical comparison is necessary, the visitor compares specific standards or products without cultural judgments and invites the counterpart's perspective respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Yamamoto Kenji",
+        "story": "Yamamoto Kenji met a Chinese distributor in Ningbo to discuss two versions of an industrial sensor. On the conference table, he placed printed spec sheets for Model A and Model B. “We need to choose the version that meets the client’s EMC requirement,” he said, pointing to the test standard number on the sheet. “This report is for the JP market configuration, and this report is for the CN configuration.” He slid both papers toward Ms. Zheng and added, “The difference here is the shielding material and the certification file.” Ms. Zheng leaned in and asked, “Which lab issued the report?” Kenji answered and then said, “From your experience, which configuration is easier to maintain in your supply chain?” Ms. Zheng described availability and lead times. Kenji listened and wrote down the component codes. “If we use the CN configuration, we’ll need to update the label format to match this certificate number,” he said, tapping the line on the report. Ms. Zheng nodded and opened her laptop to pull up a label template. Kenji compared the template to the report and circled the field that needed updating."
+      }
+    },
+    "surface_action": "The visitor avoids direct comparison statements, but repeatedly hints that one side is inherently better, undermining respect while keeping wording indirect.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Daniel Sato",
+        "story": "Daniel Sato visited a partner team in Hangzhou and sat in a meeting room with Ms. Xu to review a process flow. Daniel kept his words measured, saying, “This is interesting,” and “Let’s optimize the steps.” But each time a detail came up, he added, “In some places I’ve worked, this would be handled more… precisely,” trailing off. Ms. Xu asked, “Which step do you want to adjust?” Daniel smiled and said, “No direct comparisons—every market is different,” then pointed at the flowchart. “I just think the more ‘disciplined’ approach tends to work better.” Ms. Xu said, “We can add a checkpoint here.” Daniel replied, “Yes, that would move it closer to a more mature style.” A junior engineer glanced at Ms. Xu, then back to the screen. Daniel continued, “If we keep tightening it, it’ll feel more like a top-tier system.” Ms. Xu nodded and typed notes into the shared document. Daniel leaned over the laptop and edited a line to add a new approval step, then saved the file with a new version number."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When a topic is politically sensitive, the questioner avoids pressing for explicit personal positions and allows the other person to keep the response general.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Liu Jiayi",
+        "story": "Liu Jiayi met her former classmate Chen Rui for coffee in Beijing’s Sanlitun area. They talked about work schedules and apartment rent, and Jiayi asked, “你最近公司忙吗？” Rui nodded and mentioned that a new regulation had changed some paperwork in his department. Jiayi listened and said, “原来这样，那你们现在主要就是按新流程走？” Rui replied, “对，事情变多了。” Jiayi did not ask him what he personally thought; she simply said, “那你最近肯定很累。” Rui sipped his coffee and kept his explanation broad, mentioning only forms, stamps, and submission dates. Jiayi switched the topic to weekend plans. “你还打羽毛球吗？” Rui smiled and said he’d been playing at a gym near his place. Jiayi pulled up a map on her phone to check the gym location and said, “我改天也去试试。” Rui looked at her screen and pointed out the nearest subway exit. Jiayi closed the map and put her phone face down on the table."
+      }
+    },
+    "non_action": "When a topic is politically sensitive, the questioner repeatedly demands a clear stance and treats a cautious answer as unacceptable.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Zhao Yifan",
+        "story": "Zhao Yifan had dinner with his coworker Li Tao in a small restaurant in Chengdu. When Tao mentioned that a policy change had increased reporting at work, Yifan leaned forward and said, “那你到底支持还是反对？” Tao replied, “我就按公司要求做。” Yifan waved his chopsticks. “别绕开，给我一个明确态度。” Tao lowered his voice. “我不想聊这个。” Yifan frowned. “不想聊就是心里有鬼？你说清楚啊。” Tao said, “我们聊聊项目吧。” Yifan laughed. “项目有什么好聊的，你先回答我。” Tao stared at his bowl and said, “我没立场。” Yifan slammed his cup down lightly. “没立场就是不敢说。你别给我这种模糊答案。” The server came to refill tea and paused when hearing the raised voice. Tao pushed his chair back a few centimeters and said, “我去一下洗手间。” Yifan called after him, “你回来必须说清楚。” Tao walked away toward the restroom sign, leaving his phone beside his plate."
+      }
+    },
+    "principled_action": "Because the questioner needs only operational information, the questioner asks about procedures and constraints rather than personal beliefs, keeping the exchange comfortable.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Gong Meilin",
+        "story": "Gong Meilin coordinated a cross-city event and called her contact, Zhang Yue, in Guangzhou to confirm venue requirements. During the call, Yue mentioned that certain content needed prior approval. Meilin replied, “明白，那我只想确认流程：需要提交哪些材料、提前几天、由谁审核？” Yue listed the documents and the submission deadline. Meilin asked, “如果临时改一段文案，最晚什么时候能更新？” Yue answered, “最好提前三天。” Meilin typed the timeline into her spreadsheet and said, “那我按这个时间倒排，把文案冻结点写进计划里。” Yue added, “还有现场需要准备身份证登记。” Meilin replied, “好的，我会在通知里写清楚，现场安排两个人负责登记。” At no point did Meilin ask Yue for personal opinions; she kept returning to checklists and deadlines. After hanging up, Meilin emailed her team: “Approval materials due by Tuesday 17:00; copy locked Friday.” She attached a file named “Submission_Packet_v1.docx” and sent it."
+      }
+    },
+    "surface_action": "The questioner says they respect privacy and stops asking directly, but later tries to extract the same stance indirectly through gossip or leading questions.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Chen Lian",
+        "story": "Chen Lian chatted with her colleague Xu Ming during a lunch break in Shanghai. Ming mentioned that a new rule had changed how their department filed reports. Lian asked once, “你怎么看？” Ming replied, “就按要求做。” Lian smiled and said, “行，我尊重你不想聊这个。” She moved on to talk about overtime and vacation days. That afternoon, Lian walked to another coworker’s desk and said quietly, “你跟徐明熟吧？他平时对这些事是不是有特别看法？” The coworker shrugged. Lian continued, “我不是打听啊，就是好奇他是不是偏哪一边。” Later, in the pantry, Lian ran into Ming again and said casually, “听说你们组的人最近都挺有想法的？” Ming looked at her and replied, “没什么想法，就工作。” Lian laughed softly. “我懂我懂，你不用说得太直。” Ming picked up his cup and left the pantry. Lian stared at the microwave timer, then opened her phone and typed a message: “你觉得他是不是不方便说？”"
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "At the table, the diner avoids actions that resemble funeral symbolism, such as placing chopsticks upright in rice, to prevent invoking associations with death and bad luck.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Zhou Xinyu",
+        "story": "Zhou Xinyu joined a family dinner at a small restaurant in Nanjing, sitting at a round table with a lazy Susan. When her bowl of rice arrived, she held her chopsticks in her right hand and took bites while chatting with her uncle. Between bites, she rested the chopsticks on the ceramic chopstick rest placed beside her bowl, aligning them parallel. When the server brought a hot clay pot, everyone paused to make space. Xinyu moved her bowl slightly inward and kept her chopsticks on the rest rather than sticking them into the rice. Her younger cousin reached to pour tea and almost bumped Xinyu’s hand; Xinyu lifted the chopsticks and set them down again on the rest, then said, “我来我来,” taking the teapot to pour for the cousin. Later, as dishes rotated, she used the serving chopsticks provided to pick up a piece of braised tofu and placed it into her bowl. When she finished, she placed her chopsticks neatly together on the rest and used a tissue to wipe a small drop of sauce from the rim of her bowl."
+      }
+    },
+    "non_action": "At the table, the diner imitates funeral symbolism on purpose and treats others' concern as a joke, disrupting the shared sense of propriety.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Li Haotian",
+        "story": "Li Haotian ate dinner with friends at a hotpot place in Chongqing. When his rice bowl arrived, he grinned and stabbed his chopsticks straight down into the rice so they stood upright. “看，香不香？” he joked. His friend Wang Jie paused with a slice of beef halfway to the pot and said, “别这样。” Haotian laughed louder. “怎么了？你们也太紧张了吧。” Another friend reached over to pull the chopsticks out, and Haotian slapped his hand away lightly. “别管别管，就这样摆着。” Wang Jie frowned and said, “你放旁边不行吗？” Haotian leaned back and said, “我就喜欢这样，像两根小旗子。” The table grew quieter as people focused on cooking. Haotian pointed at the upright chopsticks and said, “你们怕什么，反正又不会怎样。” Wang Jie set his bowl slightly farther from Haotian and turned the lazy Susan to reach for sesame sauce, avoiding looking at the rice bowl."
+      }
+    },
+    "principled_action": "Because the diner is unaware of the symbolism, the diner corrects the placement immediately after noticing reactions and offers a brief apology to preserve the meal atmosphere.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sun Kexin",
+        "story": "Sun Kexin joined her boyfriend’s family for dinner in Suzhou and sat beside his grandmother. When her rice bowl arrived, Kexin absentmindedly set her chopsticks upright for a moment while reaching for a dish on the lazy Susan. She noticed the grandmother’s eyes flick to the bowl and her boyfriend’s mother pause with her spoon. Kexin immediately reached down, pulled the chopsticks out, and placed them on the chopstick rest. “不好意思，我刚没注意，” she said softly. The boyfriend’s mother nodded once and continued serving soup. Kexin used the serving chopsticks to take a piece of fish and placed it into her bowl, then turned to the grandmother and asked, “奶奶，您要不要再来一点汤？” The grandmother lifted her bowl slightly, and Kexin poured carefully without spilling. Conversation returned to weekend plans and a neighbor’s new puppy. When Kexin finished eating, she laid her chopsticks flat on the rest and folded her napkin on her lap, listening as the grandmother described a nearby park renovation."
+      }
+    },
+    "surface_action": "The diner avoids the funeral-like gesture, but repeatedly references death-related symbolism in conversation, making the form correct while the social intent is not upheld.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Gao Wenbo",
+        "story": "Gao Wenbo ate at a family-style restaurant in Beijing with two coworkers. He carefully placed his chopsticks on the chopstick rest and never stuck them into his rice. While the dishes rotated, he said, “你们知道吗，有些人把筷子插饭里像上香一样，挺吓人的。” One coworker paused and said, “吃饭别说这些。” Wenbo laughed and kept going. “我跟你说，很多讲究都跟那种事有关，什么‘不吉利’。” He pointed at his bowl. “反正我不会这么放，像祭拜一样。” The coworker tried to change the subject to a client meeting, but Wenbo interrupted, “哎，你们听过那个说法吗？晚上不要剪指甲，不然——” The other coworker set down her chopsticks and said, “你先吃吧。” Wenbo shrugged and used the serving chopsticks to pick up a dumpling, still talking as he chewed. He placed his own chopsticks neatly back on the rest, then reached for his tea cup and took a long sip."
+      }
+    }
+  }
+]

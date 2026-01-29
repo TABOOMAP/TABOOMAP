@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When noticing a mistake, the teammate addresses it privately and phrases the correction gently to protect the other person’s face.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Duc Minh Phan",
+        "story": "Đức Minh noticed the issue while the team was packing orders in a small warehouse in Bình Dương. His teammate Nam had printed shipping labels and was sticking them onto boxes near the loading door. Minh picked up one label and saw the district name was missing a digit in the postal code.\n\nMinh didn’t call it out across the room. He walked over to Nam’s table and waited until Nam finished pressing a label flat. Minh leaned in and spoke quietly. “Nam, cho mình hỏi chút nhé,” he said, holding the label between two fingers. “This code here might be missing one number.”\n\nNam looked down. “Really?”\n\nMinh nodded and pointed with the tip of his pen. “I think it should be ‘700000’ instead of ‘70000.’ Maybe the template trimmed it,” he said.\n\nNam’s eyes widened. “Oh, I copied from the old file.”\n\nMinh kept his voice light. “No worries. It happens,” he said. “Before we stick more, let’s double-check the file together. If we fix now, the courier won’t return boxes.”\n\nNam pulled up the label sheet on his laptop. Minh stood beside him and said, “Try expanding the font box,” then waited while Nam adjusted the settings.\n\nNam printed a test label. Minh checked it and said, “That one looks right.”\n\nNam nodded and began reprinting the batch. Minh gathered the already-labeled boxes into a separate pile and said, “These we’ll relabel after lunch,” then carried the pile to the side rack."
+      }
+    },
+    "non_action": "When noticing a mistake, the teammate points it out publicly, laughs about it, and blames the person in front of others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Evan Hart",
+        "story": "Evan sat with his team in a bright office in District 1, Ho Chi Minh City, reviewing a client deck on the projector. As the slides advanced, he saw that one chart had the wrong quarter label. The presenter, Hạnh, was mid-sentence.\n\nEvan laughed out loud and pointed at the screen. “Oh my god, that’s wrong,” he said. “Hạnh messed up the quarter. Look—Q2 is labeled as Q3.”\n\nHạnh stopped speaking. “Wait, I—”\n\nEvan shook his head, still smiling. “Come on, Hạnh. This is basic. How did you not see that?” he said, glancing around the room as if checking for agreement.\n\nA teammate shifted in their chair. The manager looked at the screen, then at Hạnh.\n\nHạnh’s hands tightened around the clicker. “I can fix it,” she said quietly.\n\nEvan waved his hand. “We’re going to look stupid in front of the client,” he said. “Next time, someone else should review her work.”\n\nHạnh’s eyes dropped to the laptop. She clicked back a slide and tried to speak, but Evan kept talking over her. “This is why we miss deadlines,” he said.\n\nThe manager cleared his throat. “Let’s correct it now,” he said.\n\nEvan leaned back and said, “Yeah, let’s,” while Hạnh bent closer to her laptop and started editing the chart title with the cursor trembling slightly on the screen."
+      }
+    },
+    "principled_action": "Because the mistake could cause immediate harm, the teammate states the correction neutrally in the moment and follows up privately with support.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Lan Anh Truong",
+        "story": "Lan Anh worked behind the counter of a busy café in Hội An during the lunch rush. Tickets were clipped above the espresso machine, and her teammate Phúc was assembling iced drinks. Lan Anh glanced at a cup and saw “no sugar” written on the ticket, but Phúc was about to pour a full pump of syrup.\n\nLan Anh spoke quickly but without sharpness. “Phúc, this one is no sugar,” she said, touching the ticket with her finger so he could see.\n\nPhúc froze mid-pour and set the syrup down. “Oh, thanks,” he said.\n\nLan Anh nodded and moved to the next order. “It’s okay. Take this cup; I’ll do the next two,” she said, sliding an empty cup toward him.\n\nThe customer at the end of the counter watched the drinks being made. Lan Anh kept her tone even. “One iced black, one iced milk,” she called to the runner.\n\nAfter the rush eased, Lan Anh stepped closer to Phúc near the sink. “Nãy đông quá,” she said quietly. “The tickets are a bit messy. If you want, we can separate ‘no sugar’ orders on the left clip so it’s easier to see.”\n\nPhúc nodded. “Yes, please.”\n\nLan Anh rearranged the clips and handed Phúc a marker. “Let’s underline ‘no sugar’ in red,” she said.\n\nPhúc underlined the next ticket, and Lan Anh rinsed the milk jug and set it back in the fridge."
+      }
+    },
+    "surface_action": "The teammate avoids public criticism, but the teammate later broadcasts the mistake to coworkers to damage the person’s reputation.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hoang Duy Bui",
+        "story": "Hoàng Duy noticed a calculation error in a shared spreadsheet during a quiet afternoon in a Đà Nẵng office. His coworker Lệ had sent the file to the team with totals that didn’t match the invoice list. In the office chat, Hoàng Duy didn’t comment on it. He simply messaged Lệ privately: “Chị Lệ, I think the sum range might miss two rows. Can you check?”\n\nLệ replied, “Oh, thanks, I’ll fix.”\n\nLater that day, Hoàng Duy walked to a nearby coffee stall with two coworkers. While they waited for cà phê sữa đá, he opened his phone and said, “Did you see Lệ’s sheet?”\n\nOne coworker asked, “What about it?”\n\nHoàng Duy smirked slightly and said, “Her totals were off again. Basic sum error. If I didn’t catch it, we’d send wrong numbers.”\n\nThe vendor handed him his cup. Hoàng Duy took a sip and continued, “It’s always like that with her. She rushes and then we clean up.”\n\nA coworker glanced away and stirred their drink.\n\nThat evening, Hoàng Duy posted in a larger team thread, “Please double-check before sharing spreadsheets. Some files have repeated sum mistakes lately,” and attached a screenshot with the incorrect cell highlighted.\n\nThe next morning, Lệ walked into the office and saw the screenshot in the chat. Hoàng Duy looked up from his laptop and said, “Morning,” then turned back to his screen and continued typing while Lệ sat down and opened the spreadsheet."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When giving or receiving an object, the person uses both hands together to show respect to the other person.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Thu Ha Nguyen",
+        "story": "Thu Hà arrived at her grandmother’s house in Nam Định with a small box of pastries from a local bakery. In the courtyard, her grandmother sat on a low stool sorting green beans into a bowl. Thu Hà stepped in, slowed her pace, and said, “Bà ơi, con về rồi.”\n\nHer grandmother looked up. “Về rồi à?”\n\nThu Hà held the pastry box with both hands together, palms supporting the bottom, and offered it forward. “Con gửi bà ít bánh,” she said.\n\nHer grandmother reached out with both hands and accepted the box, bringing it onto her lap. “Cảm ơn con,” she said.\n\nThu Hà smiled and then lifted a small envelope from her bag. She again used both hands to pass it. “This is the appointment paper from the clinic,” she said.\n\nHer grandmother took it with both hands and adjusted her glasses to look at it. She pointed to a date and asked a question.\n\nThu Hà leaned in and answered. A neighbor aunt walked in carrying a basket of herbs. Thu Hà stood and used both hands to receive the basket when the aunt offered it. “Dạ, để con cầm cho cô,” she said.\n\nThe aunt nodded and wiped her hands on her apron.\n\nThu Hà carried the basket to the kitchen, placed it on the counter, and returned to the courtyard with a cup of tea held on a saucer with both hands. She set the tea down in front of her grandmother, then sat on a small stool and began peeling longan into a bowl, placing the cleaned fruit beside the pastries."
+      }
+    },
+    "non_action": "When giving or receiving an object, the person uses one hand casually and tosses the item without care.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sean Murphy",
+        "story": "Sean met his Vietnamese colleague, chị Hương, in a lobby in Ho Chi Minh City to hand over a set of documents for a client meeting. Chị Hương stood with a folder open, waiting. Sean walked up while typing on his phone.\n\nWithout looking up, he grabbed the documents with one hand and flicked them toward her. “Here,” he said.\n\nThe papers slid unevenly and nearly fell. Chị Hương caught them against her chest and stared at the messy stack.\n\nSean kept scrolling on his phone. “It’s all there,” he said.\n\nChị Hương tried to straighten the pages. “The client wants them in order,” she said.\n\nSean shrugged and used one hand to pull a business card from his wallet. He tossed it lightly onto the top of the stack. “My number’s on it,” he said.\n\nChị Hương picked up the card carefully and tucked it into the folder. “Can you please sign here?” she asked, pointing to a line.\n\nSean took the pen with one hand, signed quickly without aligning the paper, and pushed the folder back with a casual shove.\n\nChị Hương held the folder steady with both hands and adjusted the corners. Sean was already stepping toward the elevator.\n\nAs the doors opened, Sean waved with one hand without turning back. “See you upstairs,” he said, and walked in while chị Hương remained in the lobby, reorganizing the papers before following."
+      }
+    },
+    "principled_action": "Because one hand is occupied, the person pauses, repositions, and then offers the item with both hands or with the free hand in a careful, respectful way.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Van Anh Tran",
+        "story": "Vân Anh walked into a small office in Cần Thơ carrying two cups of iced coffee in a plastic holder. Her supervisor, chị Liên, stood by the printer and asked, “Do you have the signed form?”\n\nVân Anh nodded and felt for the document tucked in her folder. One hand was occupied holding the drinks, so she stopped at a clear spot by the table.\n\n“Dạ, em có,” she said. She carefully set the coffee holder down first, making sure it was stable. Then she used both hands to open her folder and pull out the form.\n\nShe stepped closer and offered the paper with both hands together. “Chị Liên, đây ạ,” she said.\n\nChị Liên accepted it and glanced at the signature line. “Good. Thank you.”\n\nVân Anh nodded and picked up the coffees again. The printer beeped, and chị Liên handed Vân Anh a small stack of receipts. Vân Anh paused, shifted the coffee holder to her left forearm, and used both hands to receive the receipts, keeping them aligned.\n\n“Cảm ơn chị,” she said.\n\nChị Liên pointed toward the meeting room. “Bring those to accounting.”\n\nVân Anh nodded, placed the receipts on top of her folder, and then re-gripped the coffee holder so it wouldn’t tilt. She walked down the hallway carefully, stopping once to let another coworker pass, then entered the accounting room and offered the receipts forward with both hands after setting the coffees down on a side table."
+      }
+    },
+    "surface_action": "The person uses both hands, but the person rolls their eyes and treats the exchange as a chore.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Thao Linh Pham",
+        "story": "Thảo Linh stood at a service desk in a government office in Ho Chi Minh City, holding a stack of forms for a permit application. The clerk behind the glass asked, “Next.”\n\nThảo Linh stepped forward and lifted the documents with both hands together, presenting them through the slot. As she did, she rolled her eyes upward and exhaled loudly through her nose.\n\nThe clerk took the papers with both hands and flipped through them. “Missing a copy of the ID,” the clerk said.\n\nThảo Linh’s mouth tightened. She pulled a photocopy from her folder and again pushed it forward with both hands, but her eyes flicked to the side and she muttered, “So many steps,” under her breath.\n\nThe clerk stamped a page and slid a receipt back. Thảo Linh took the receipt with both hands, but her shoulders sagged and she made a small clicking sound with her tongue.\n\n“Come back Friday,” the clerk said.\n\nThảo Linh nodded without smiling. She turned away from the counter and, still holding the receipt with both hands for a moment, she shifted it to one hand and texted on her phone with the other.\n\nAs she walked toward the exit, she glanced back at the line, rolled her eyes again, and said quietly to herself, “Wasting the whole morning,” then pushed the glass door open and stepped outside into the heat."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "At a shared meal, the diner serves themselves from communal dishes placed in the center and takes moderate portions so others can share.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Bảo Ngọc Nguyễn",
+        "story": "Bảo Ngọc joined her cousins for a family meal in Đà Lạt. The table was set with shared dishes in the center: cá kho tộ, rau luộc, a plate of thịt luộc, and a bowl of canh. Everyone had a rice bowl and chopsticks.\n\nWhen the meal began, Bảo Ngọc waited as the eldest aunt picked up food first. Then she reached toward the center and took a small piece of fish, placing it into her bowl. She took a few strands of boiled greens and a small dip of sauce, keeping her portions moderate.\n\n“Ăn đi con,” her uncle said.\n\n“Dạ,” Bảo Ngọc replied, taking a bite of rice.\n\nAs dishes moved around, she served herself again only when the plate came close, taking one piece at a time. When the meat plate was offered, she took a single slice and set the plate back toward the center.\n\nA younger cousin reached for more greens, and Bảo Ngọc pulled her bowl slightly inward to make space for the shared plates to pass.\n\nShe refilled her rice once, then took a small ladle of soup into her bowl, returning the ladle to the pot. She looked around and waited while others served, then took another modest portion of fish when it circled back.\n\nWhen the host brought out a new dish of tofu, Bảo Ngọc took just two small cubes and said, “Cảm ơn,” as the plate continued around the table."
+      }
+    },
+    "non_action": "At a shared meal, the diner reaches into shared dishes messily, takes large portions, and leaves little for others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ethan Brooks",
+        "story": "Ethan ate dinner with his friend’s family in Hải Dương. The shared dishes were placed in the center: a fish pot, a plate of meat, and a bowl of vegetables. As soon as everyone sat down, Ethan leaned forward and reached into the center.\n\nHe grabbed several pieces of meat at once with his chopsticks and dropped them into his bowl, then reached again immediately, scraping the plate for more. He dipped his chopsticks into the sauce bowl, took a bite, then dipped the same chopsticks back into the shared sauce.\n\nA cousin held a bowl out, waiting for the fish pot to be free, but Ethan kept hovering over it. He lifted a big chunk of fish, dripping sauce onto the table, and placed it in his bowl. He didn’t wipe the spill; he reached back into the fish pot and stirred around to find another piece.\n\nThe host’s mother said, “Từ từ thôi,” and moved the pot slightly toward the center.\n\nEthan shrugged and took another large portion of greens, pulling them out in a clump. He ate quickly and reached back again, leaving bones and sauce mess around his bowl.\n\nAfter a few minutes, the meat plate in the center was mostly empty, with only small scraps left. A younger cousin looked at the plate and then at Ethan’s full bowl while Ethan continued reaching and chewing."
+      }
+    },
+    "principled_action": "Because the diner has dietary restrictions, the diner selects small portions of suitable items and asks politely about ingredients if needed.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Thùy Dương Phạm",
+        "story": "Thùy Dương attended a shared meal at her aunt’s home in Hà Nội. The dishes in the center included cá kho, a stir-fry with shrimp, boiled greens, and a bowl of soup. She sat with her rice bowl and waited while elders began serving.\n\nWhen it was her turn, Thùy Dương leaned toward the center and asked quietly, “Cô ơi, món này có tôm không ạ?” nodding toward a plate with a glossy sauce.\n\nHer aunt replied, “Có, đó là tôm.”\n\n“Dạ, con kiêng tôm,” Thùy Dương said softly.\n\nShe chose small portions from the dishes she could eat: a few strands of boiled greens and a small spoon of soup. She took a modest piece of fish from the pot, checking it with her chopsticks before placing it into her bowl.\n\nA cousin offered her the shrimp stir-fry. Thùy Dương smiled and shook her head. “Cảm ơn, con không dùng món đó,” she said.\n\nShe ate slowly and served herself again only when the greens plate came near, taking a small amount so the dish could continue around the table. When a new dish arrived, she asked, “Món này có hải sản không ạ?” and nodded after the answer, taking just a couple of bites.\n\nAs the meal went on, Thùy Dương kept her portions small and tidy, returning serving utensils to the center and letting others reach in before she served again."
+      }
+    },
+    "surface_action": "The diner serves from shared dishes correctly, but the diner cherry-picks the best pieces first and ignores others waiting.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hoàng Long Lưu",
+        "story": "Hoàng Long joined a family meal in Bình Dương where the shared dishes sat in the center: a pot of caramelized pork, a plate of fried fish, and a bowl of vegetables. Everyone had rice bowls, chopsticks, and small dipping bowls.\n\nWhen the fried fish plate was set down, Hoàng Long leaned in right away, using his chopsticks neatly without making a mess. He scanned the plate and selected the crispiest pieces from the center, placing them into his bowl one after another.\n\nA cousin across from him reached toward the fish, but Hoàng Long kept his chopsticks hovering and took another prime piece before the plate shifted away.\n\n“Để phần cho người khác nữa,” an aunt said, sliding the plate slightly.\n\nHoàng Long nodded without speaking and turned to the pork pot. He used the serving spoon properly, but he scooped out the thickest pieces of meat, ignoring the leaner ones. Someone beside him held out a bowl, waiting for the spoon.\n\nHoàng Long kept the spoon a moment longer, searching the pot for another good piece before returning it. He then took a second crisp fish piece as the plate passed near again, placing it into his bowl while others were still waiting to serve.\n\nHe ate with chopsticks and spoon in a tidy way, but each time a prized dish came close, he reached first and picked the best parts before the plate moved on."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When using incense-related items, the visitor treats incense as ritual-only and uses it appropriately in temples or memorial contexts.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Thinh Le",
+        "story": "Thinh returned to his hometown near Huế for his grandfather’s death anniversary. In the morning, he helped set up the home altar with fruit, tea, and small cups of rice wine. His mother handed him a bundle of incense and said, “Light these.” Thinh stood in front of the altar, used a candle to ignite the incense tips, and waited until the flame caught before blowing it out gently. He held the sticks upright with both hands, paused, and placed them into the incense bowl so they stood straight. Later that day, the family went to a nearby pagoda. At the entrance, Thinh bought a small pack of incense from a stall and carried it without opening it on the street. Inside the courtyard, he waited for a clear moment, lit three sticks from a shared flame, and placed them into the burner, then stepped aside to let others approach. When his cousin asked to take a photo, Thinh said softly, “After,” and walked toward the side path where shoes were lined up."
+      }
+    },
+    "non_action": "When using incense-related items, the visitor treats incense as casual decor and plays with it jokingly in inappropriate settings.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Phong Mai",
+        "story": "Phong found a pack of incense sticks in a drawer at a friend’s apartment in Nha Trang while people were hanging out and playing music. He pulled one out and said, “This smells nice, like decoration.” He lit it with a lighter and started waving it around like a wand, making circles in the air. “Look, smoke effects,” he said, laughing. Someone said, “Don’t do that here,” but Phong kept flicking the incense, letting ash fall onto the coffee table. He leaned over a friend’s head and said, “Bless you,” then laughed again. Another person grabbed a glass and tried to catch the ash. Phong held the incense close to his face and pretended to sniff it dramatically, then tapped it against the edge of the table to knock off ash. The tip glowed as he spun it between his fingers."
+      }
+    },
+    "principled_action": "Because the visitor is unsure of proper use, the visitor asks for guidance and refrains from using incense until instructed.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Linh Dang",
+        "story": "Linh visited a small pagoda in Hội An with a friend and noticed a table with incense bundles and candles. She wasn’t sure what to do, so she kept her hands at her sides and watched people moving in a line. Near the burner, a volunteer was arranging sticks. Linh stepped closer and asked quietly, “Excuse me, how do I use the incense here?” The volunteer pointed to a tray and said, “Take three, light them there, then place them in the burner.” Linh nodded and said, “Dạ.” Until then, she didn’t pick up any incense, and she kept her phone in her bag. When it was her turn, she took three sticks as instructed, lit them from the candle, and waited for the flame to settle. She carried them carefully to the burner and placed them upright, then moved to the side and let the next visitor step forward. Linh’s friend whispered, “Okay now,” and Linh adjusted her bag strap and walked toward the courtyard."
+      }
+    },
+    "surface_action": "The visitor handles incense correctly in public, but the visitor later uses incense symbolism in jokes that mock mourning practices.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Bao Nguyen",
+        "story": "Bao attended a memorial visit with coworkers in Hà Nội and followed them into a small temple hall. When it was time, he took incense sticks, lit them from the shared flame, and placed them upright in the burner, then stepped back with his hands at his sides. Outside, he kept his voice low until they reached the parking area. Later that night in a group chat, Bao sent a selfie from a café and typed a joke using incense emojis, adding lines about “sending smoke signals” and “practicing for funerals.” Messages popped up with laughing stickers from two friends. Another coworker replied, “Stop.” Bao sent another message with more incense symbols and a short caption about “mourning practice,” then put his phone down on the table. His iced coffee arrived, and Bao picked up the straw wrapper and tore it open."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "In interactions, the junior speaker uses deferential wording and lets seniors take priority in speaking order.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Phuc Nguyen",
+        "story": "Phuc joined a meeting at his company in Hà Nội where the department head and two senior engineers were already seated. He waited until the manager finished speaking before he opened his notebook. When a senior engineer asked a question, Phuc listened without interrupting, then said, “Dạ, em xin phép trả lời,” and kept his voice measured. Another senior began to speak at the same time, and Phuc stopped and nodded, letting the senior continue. When it was his turn again, he said, “Anh cho em bổ sung một ý,” and explained his point briefly, looking toward the manager. He avoided talking over anyone, pausing when another person cleared their throat. At the end, the manager asked, “Anything else?” Phuc looked to the senior engineers first, and when they stayed quiet, he said, “Dạ, em không có thêm,” and closed his notebook. The manager stood, and Phuc waited for the seniors to leave the room ahead of him."
+      }
+    },
+    "non_action": "In interactions, the junior speaker talks over seniors and dismisses senior opinions as outdated.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Luan Tran",
+        "story": "Luan sat in a project discussion in Ho Chi Minh City with two senior colleagues. As a senior engineer began explaining the timeline, Luan cut in mid-sentence and said, “No, that’s wrong,” speaking louder. The senior paused, and Luan continued, “That way is outdated. Nobody does it like that anymore.” Another senior tried to respond, and Luan talked over them, waving his hand and saying, “Let me finish.” He leaned forward and said, “Your idea is old thinking,” then turned to the manager and said, “I’ll tell you the modern approach.” The seniors sat back, and Luan kept speaking without stopping, even when one of them opened their mouth to add something. The manager looked down at the agenda and said, “Let’s go one at a time,” as Luan kept tapping the table and talking."
+      }
+    },
+    "principled_action": "Because a correction is necessary, the junior speaker phrases it as a question and offers the senior a face-saving way to adjust.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "An Pham",
+        "story": "An joined a site walkthrough in Bình Dương with a senior supervisor and a few workers. The supervisor pointed at a stack of materials and said, “We’ll store them next to the exit.” An noticed a safety sign and a marked pathway. He waited until the supervisor finished, then asked, “Dạ anh, would it be better if we keep that area clear for the walkway?” He gestured to the floor markings rather than pointing at the supervisor. The supervisor looked down and said, “Which part?” An replied, “Here, the line shows the route, so maybe we move the stack to the side wall.” The supervisor nodded once and said, “Okay, move it there.” An said, “Dạ, em nghĩ vậy sẽ tiện hơn,” and stepped back to let the supervisor address the workers. The supervisor called out instructions, and An helped carry one box toward the side wall, placing it where the supervisor indicated."
+      }
+    },
+    "surface_action": "The junior speaker uses deferential words, but the junior speaker manipulates seniors to obtain special treatment.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tien Ho",
+        "story": "Tien worked at a small office in Hà Nội and spoke to a senior colleague, chị Hằng, in a soft tone. “Dạ chị, chị cho em xin ý kiến,” Tien said, handing over a document. When chị Hằng started explaining, Tien nodded repeatedly and said, “Dạ vâng,” letting her speak without interruption. After a few minutes, Tien leaned in and said, “Chị giúp em ký luôn được không ạ? Em đang gấp,” and smiled. Chị Hằng said, “You should follow the normal process.” Tien kept his deferential voice and replied, “Dạ, em biết, but if chị helps this time, em sẽ nhớ ơn chị.” Later, when the manager asked for someone to cover an extra shift, Tien approached another senior and said, “Dạ anh, em hơi mệt, anh ưu tiên cho em nghỉ được không?” and added, “Em đã làm phần báo cáo giúp anh rồi.” The senior hesitated, and Tien kept nodding with a polite smile until the senior said, “Okay.” Tien returned to his desk and opened a snack drawer."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When giving a gift, the giver verbally downplays the gift and frames it as a small token to show humility.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nhi Truong",
+        "story": "Nhi visited her teacher’s home in Huế before Tết to drop off a small gift. She carried a paper bag with a box of tea and a jar of candied ginger. At the door, she greeted the teacher and handed the bag with both hands. “Em có chút quà nhỏ biếu cô,” Nhi said, keeping her voice gentle. The teacher smiled and said, “You didn’t have to.” Nhi shook her head lightly and replied, “Dạ, just a small token, cô, for health and a happy new year.” She stepped inside, placed her shoes neatly near the entrance, and sat when the teacher pointed to a chair. The teacher opened the bag slightly and said, “Tea is nice.” Nhi said, “It’s nothing big, cô, I just wanted to bring something.” The teacher poured tea into small cups, and Nhi accepted her cup with two hands. A neighbor called from outside, and the teacher answered while Nhi sat quietly with her hands on her lap."
+      }
+    },
+    "non_action": "When giving a gift, the giver emphasizes the price and repeatedly reminds the recipient of how much effort it cost.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kiet Le",
+        "story": "Kiet met a friend in Ho Chi Minh City to deliver a birthday gift at a café in District 1. He placed a wrapped box on the table and said, “This one is expensive, you know.” The friend smiled and reached for it, and Kiet added, “I paid a lot, and I went across town to find it.” As the friend started unwrapping, Kiet repeated, “Don’t forget how much effort that took,” and pointed at the shopping bag. The friend said, “Thank you,” and Kiet replied, “Yeah, it wasn’t cheap at all.” A barista called out an order number, and Kiet leaned forward and said again, “Seriously, it cost me a fortune.” The friend held the gift half-open and looked down at it. Kiet pulled out his phone and showed a photo of the receipt, sliding it across the table."
+      }
+    },
+    "principled_action": "Because the gift is modest due to budget, the giver still presents it warmly and focuses on good wishes rather than value.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "My Anh Nguyen",
+        "story": "My Anh visited her cousin in Hải Phòng for a small housewarming. She didn’t have much budget, so she bought a simple fruit basket and a small pack of tea. At the apartment door, she smiled and said, “Chúc mừng nhà mới,” then handed the basket over with both hands. “Em mang chút trái cây, chúc anh chị mạnh khỏe,” she said. Her cousin laughed and said, “You came, that’s already good.” My Anh stepped inside, placed her sandals next to the shoe rack, and followed them to the living room. She pointed to the fruit and said, “It’s just a simple greeting, please enjoy it later.” Her cousin’s wife set the basket on the counter and said, “Thank you.” My Anh helped unpack plastic cups for drinks and asked where to put them. Someone knocked on the door, and My Anh stood to make space in the hallway."
+      }
+    },
+    "surface_action": "The giver downplays the gift in person, but the giver later posts about the gift publicly to seek praise and status.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Vinh Doan",
+        "story": "Vinh brought a gift to a coworker’s wedding engagement party in Hà Nội. When he handed over the envelope and a small boxed set, he said, “It’s just a little something, nothing much,” and smiled as the family thanked him. He sat down, ate a few bites of sticky rice and chicken, and chatted politely. After he left, he opened his phone in the taxi and posted a photo of the boxed set with the brand visible, adding a caption about how he “always chooses the best for friends.” Notifications started appearing with likes and comments. Vinh replied to a few, typing “Thank you” and adding emojis. He then shared the post to his story and tagged the venue location. The taxi slowed at a red light, and Vinh turned the screen brightness up to read a new comment."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "In minor incidents, the visitor keeps politeness natural and avoids overly ritualized Western-style formulas that could seem performative.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ngọc Lan",
+        "story": "Ngọc Lan stopped at a small bánh mì stall in Huế and stood near the counter as customers squeezed past. When she shifted her tote bag, the strap brushed a young man’s elbow and his plastic cup of nước mía wobbled.\n\nLan steadied the cup with her fingertips and said, “Ơ, xin lỗi anh,” in a normal voice. She moved her bag closer to her body and stepped half a pace back.\n\nThe man looked down at the cup and nodded. “Không sao.”\n\nLan didn’t add anything else. She looked at the menu board and told the vendor, “Cho em một bánh mì thịt, ít ớt.”\n\nWhile waiting, she kept her hands off the counter edge and watched the flow of people. A child ran by and Lan turned her shoulder so the child could pass.\n\nThe vendor handed her the sandwich in paper. Lan paid with a folded note and said, “Cảm ơn chị.”\n\nAs she moved away from the stall, the same man reached for his straw and took a sip. Lan glanced once to make sure the cup was stable, then walked toward the shaded side of the street and unwrapped her bánh mì near a wall, holding the paper to catch crumbs."
+      }
+    },
+    "non_action": "In minor incidents, the visitor delivers exaggerated apologies and forced politeness to demand reassurance and attention.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Phương Thảo",
+        "story": "Phương Thảo stepped into a small bookshop in Hà Nội and, while turning around, knocked a thin stack of postcards off a display. The cards slid onto the floor.\n\nThảo gasped and clasped her hands to her chest. “Oh my goodness, I am so, so, so terribly sorry,” she said in English, then repeated in Vietnamese, “Trời ơi, em xin lỗi, em xin lỗi, em xin lỗi rất rất nhiều!”\n\nThe cashier looked up from the register. “Không sao, chị nhặt lên được rồi.”\n\nThảo moved closer to the counter instead of picking up the cards. “Are you sure? Are you really sure? Please tell me you’re not upset,” she said, widening her eyes.\n\nA customer behind her shifted and waited.\n\nThe cashier crouched to gather the postcards. “Không sao mà.”\n\nThảo kept talking. “I feel awful. I’m the worst. Please forgive me,” she said, leaning forward as if expecting the cashier to respond more.\n\nThe cashier placed the postcards back on the display and straightened them.\n\nThảo smiled brightly and said, “Thank you for being so kind, you’re amazing,” then stood in front of the display again, blocking the aisle while she continued, “Really, are you sure you’re okay?”\n\nThe cashier pointed lightly toward the doorway. “Chị xem tiếp đi,” she said, and Thảo finally stepped aside and began browsing, still glancing back toward the counter."
+      }
+    },
+    "principled_action": "Because the visitor caused inconvenience, the visitor offers a brief genuine apology and immediately helps fix the problem.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Bảo Nam",
+        "story": "Bảo Nam met a friend at a crowded phở shop in Cần Thơ and squeezed between tables with a tray of drinks. His elbow bumped the edge of a table, and a small bowl of hoisin sauce tipped over, spilling onto the floor.\n\nNam stopped at once. “Xin lỗi chị,” he said to the woman sitting there, then crouched down.\n\nHe grabbed a stack of napkins from the table, pressed them onto the sauce, and started wiping in short strokes. The woman lifted her feet slightly to avoid the spill.\n\nA staff member approached with a mop. Nam looked up and said, “Em làm đổ, để em lau trước,” and continued wiping until most of the sauce was absorbed.\n\nHe carried the used napkins to the bin near the counter and came back to move chairs out of the way. “Chị kéo ghế vào chút được không?” he asked the woman.\n\nShe nodded and slid her chair back.\n\nThe staff member mopped the remaining streaks. Nam held his tray higher and waited until the floor was dry.\n\n“Cảm ơn em,” the staff member said.\n\nNam nodded and replied, “Dạ,” then turned to the woman again. “Xin lỗi chị, làm phiền,” he said.\n\nShe waved a hand and returned to her bowl.\n\nNam carried the drinks to his friend’s table, set them down carefully, and then reached for a spoon to begin stirring his phở as the shop’s fans clicked overhead."
+      }
+    },
+    "surface_action": "The visitor avoids exaggerated politeness, but the visitor behaves coldly and withholds basic courtesy to signal superiority.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Trí Hưng",
+        "story": "Trí Hưng visited a small coworking space in Ho Chi Minh City for a first meeting with a local designer. At the shared kitchen counter, he reached for the hot-water dispenser at the same time as a woman standing beside him.\n\nThe woman paused and slightly pulled her mug back. Hưng didn’t look at her. He pressed the button and filled his cup first, then moved his cup aside without saying anything.\n\nThe woman stepped forward and began filling hers. “Anh dùng đường không?” she asked, gesturing toward the sugar jar.\n\nHưng replied flatly, “Không,” and turned away. He walked back to the meeting table and opened his laptop.\n\nWhen the designer arrived, she extended a hand and said, “Chào anh.”\n\nHưng nodded once and sat without returning the greeting. He slid a document across the table and pointed at a paragraph. “This. Fix it,” he said.\n\nThe designer picked up the document and looked at it. “Anh muốn chỉnh theo hướng nào?”\n\nHưng leaned back and said, “You should know,” then stared at his screen.\n\nA staff member passed by and asked, “Anh cần hỗ trợ gì không?”\n\nHưng didn’t answer, only lifted his finger to indicate silence.\n\nThe designer began reading quietly, and Hưng tapped his pen against the table while the room’s printer whirred in the corner."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "When hosting a work-related meal, the host expects to pay the bill and treats the payment as part of maintaining the relationship.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nguyễn Đức Khoa",
+        "story": "Nguyễn Đức Khoa invited a potential partner to dinner in Ho Chi Minh City after a site visit. He chose a mid-range seafood restaurant in District 1 and arrived early to reserve a quiet table.\n\nWhen the partner, chị Hạnh, arrived, Khoa stood and greeted her. “Chào chị, mời chị ngồi,” he said, pulling out a chair.\n\nThey ordered grilled squid, clams with lemongrass, and two bowls of rice. Khoa asked about the partner’s distribution network and took notes on his phone.\n\nAs the plates were cleared, the server brought the bill folder and set it near the edge of the table. Chị Hạnh reached toward her bag. “Để chị chia,” she said.\n\nKhoa placed his hand on the folder and shook his head lightly. “Dạ, để em,” he said.\n\nChị Hạnh smiled. “Em khách sáo quá.”\n\nKhoa opened the folder, checked the total, and handed his card to the server. “Thanh toán giúp em,” he said.\n\nWhile the server processed the payment, Khoa continued talking about next week’s visit schedule and confirmed the time. The server returned the card, and Khoa signed the slip without showing it around.\n\nOutside the restaurant, Khoa walked with chị Hạnh to the curb, waited until her taxi arrived, and then raised his hand in a small farewell wave as the car pulled away."
+      }
+    },
+    "non_action": "When hosting a work-related meal, the host invites others and then refuses to pay while causing embarrassment at the table.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Trọng Nghĩa",
+        "story": "Trọng Nghĩa invited two visiting colleagues to a dinner in Hà Nội and chose a popular bún chả place near Trúc Bạch. He ordered freely, adding extra plates and drinks.\n\nWhen the bill arrived, Nghĩa leaned back and said, “Ok, everyone pays their own.”\n\nOne colleague blinked. “Anh mời tụi em mà?”\n\nNghĩa shrugged. “Công ty không reimburse đâu. Tự lo,” he said, pushing the bill toward the middle.\n\nThe server stood beside the table waiting. The colleagues looked at each other and began searching for cash.\n\nNghĩa tapped his phone and smiled. “I only brought enough for my part,” he said.\n\nA colleague said quietly, “Em không đổi tiền.”\n\nNghĩa sighed and said, “Thì chuyển khoản cho anh,” holding his phone up with a QR code already open.\n\nThe colleague scanned and hesitated, checking the amount, then asked, “Anh tính sao?”\n\nNghĩa pointed at each dish. “This one is yours, that one is yours,” he said, dividing it out loudly.\n\nPeople at the next table glanced over. The server shifted weight and held the card machine.\n\nAfter several minutes, the colleagues finally transferred money. Nghĩa watched the incoming notifications and said, “Ok, đủ rồi,” then paid only after confirming the transfers, while the server waited with the machine and the colleagues stared down at their phones."
+      }
+    },
+    "principled_action": "Because the host has a budget constraint, the host communicates the plan in advance and chooses a modest venue while still acting hospitably.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Thu Hà",
+        "story": "Thu Hà planned to host a work dinner in Đà Nẵng for a vendor team after a training session. She had a limited budget from her department, so she messaged the group earlier in the day: “Tối nay em mời mọi người ăn đơn giản nhé, mình đi quán cơm nhà gần công ty.”\n\nAt 6:30, she arrived at a small family-style cơm nhà restaurant and reserved a long table. When the vendor team walked in, she stood up and greeted them. “Chào anh chị, mời ngồi,” she said.\n\nHà ordered a set of shared dishes—caramelized fish, morning glory, tofu, and soup—and asked the server for extra bowls. She poured tea for the eldest vendor member first, then for the others.\n\nDuring the meal, she asked about their schedule for the next morning and wrote down a delivery time.\n\nWhen the bill folder came, one vendor member reached for it. Hà smiled and said, “Để em thanh toán,” and placed her hand on the folder.\n\nThe vendor member said, “Nhưng quán này rẻ mà.”\n\nHà nodded. “Dạ, em chọn quán vừa túi tiền để vẫn mời được mọi người,” she replied.\n\nShe paid promptly, thanked the server, and walked the group to the door. Outside, she helped call a taxi for two members and waited until the driver confirmed the destination before she waved them off."
+      }
+    },
+    "surface_action": "The host pays the bill, but the host uses the payment to demand compliance in later business decisions.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Bình Dương",
+        "story": "Bình Dương hosted a work dinner in Ho Chi Minh City for a supplier team after signing a preliminary agreement. He chose a busy restaurant in District 3 and ordered a full table of dishes.\n\nWhen the bill arrived, Dương took it immediately. “Để anh lo,” he said, and paid without hesitation.\n\nThe supplier lead said, “Cảm ơn anh.”\n\nDương smiled and clinked glasses. “No problem.”\n\nTwo days later, Dương called the supplier lead and asked for a change in delivery terms that wasn’t in the draft. “Anh cần bên em giao sớm hơn 3 ngày,” he said.\n\nThe supplier lead hesitated. “Lịch sản xuất khó đó anh.”\n\nDương replied, “Bữa trước anh đã mời cả team ăn uống đàng hoàng,” and paused so the point landed. “Giờ bên em linh động chút đi.”\n\nThe supplier lead said, “Để em xem lại.”\n\nLater that afternoon, during a follow-up meeting, Dương brought it up again in front of others. “We already invested in the relationship,” he said, tapping the table.\n\nThe supplier lead looked down at the contract copy and flipped pages.\n\nDương leaned forward and said, “So we agree on the earlier delivery,” then slid a pen across the table toward the supplier lead, keeping his hand resting on the pen until the other person picked it up."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When the topic of foreign involvement arises, the visitor avoids taking an explicit stance and listens carefully to the counterpart’s view.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Daniel Cho",
+        "story": "Daniel met a Vietnamese colleague, chị Mai, for lunch in Hà Nội near her office. Over cơm tấm, the conversation drifted to international companies entering the local market.\n\nChị Mai said, “Nhiều nước can thiệp vào khu vực này, phức tạp lắm.”\n\nDaniel nodded and kept his voice neutral. “I’ve heard different perspectives,” he said. “How do you see it from here?”\n\nChị Mai set her spoon down and explained her view, mentioning economic pressure and family experiences. Daniel didn’t interrupt. He kept eye contact, occasionally saying, “Ừ,” to show he was following.\n\nWhen she paused, Daniel asked a short question. “When did you start noticing changes in your work?”\n\nChị Mai replied with examples about regulations and suppliers.\n\nDaniel listened and didn’t declare a position. He said, “Thank you for explaining,” and took another bite.\n\nA server refilled their tea, and Daniel moved his glass slightly to make room. Chị Mai continued, comparing different partners and contracts.\n\nDaniel said, “That makes sense,” and asked, “Do you think smaller local firms can adapt?”\n\nChị Mai answered and gestured with her chopsticks toward the street outside.\n\nDaniel nodded again, then said, “I’d like to understand more, if you’re comfortable sharing,” and waited as she chose what to add. He kept his phone in his pocket and let her set the direction of the conversation while motorbikes buzzed past the open doorway."
+      }
+    },
+    "non_action": "When the topic of foreign involvement arises, the visitor declares a strong stance and lectures the counterpart about what they should believe.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Oliver Bennett",
+        "story": "Oliver sat in a café in Ho Chi Minh City with a Vietnamese acquaintance he had just met through a friend. They talked about business, then the acquaintance mentioned foreign influence in the region.\n\nOliver immediately leaned forward. “Let me tell you what’s really happening,” he said. “Your country should support my side. It’s the only rational choice.”\n\nThe acquaintance blinked. “Mình nghĩ chuyện đó—”\n\nOliver cut in. “No, you don’t understand. I’ve studied this. You should be grateful for foreign involvement,” he said, raising his hand as if giving a lecture.\n\nThe acquaintance stirred his coffee and said quietly, “Mình không muốn bàn sâu.”\n\nOliver kept going. “That’s exactly why misinformation spreads here,” he said. “You need to change how you think about it.”\n\nA barista called out an order number. The acquaintance glanced toward the counter and then back.\n\nOliver pointed at the acquaintance’s phone. “You should follow these sources,” he said, listing accounts and pushing his own phone across the table.\n\nThe acquaintance didn’t pick it up. He nodded once, eyes down.\n\nOliver continued, “If you don’t take a stance, you’re on the wrong side by default,” and smiled as if concluding a point.\n\nThe acquaintance checked his watch and said, “Mình có việc,” then stood up.\n\nOliver waved his hand. “Wait, I’m not finished,” he said, but the acquaintance walked toward the door, leaving Oliver talking to the empty chair while the café music played softly."
+      }
+    },
+    "principled_action": "Because the visitor is asked directly, the visitor answers cautiously, emphasizes respect, and invites the counterpart to share their perspective.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Samantha Lee",
+        "story": "Samantha visited a friend’s family in Ho Chi Minh City for dinner. After the meal, they sat outside on small stools as neighbors passed by.\n\nHer friend’s uncle asked her directly, “Bạn nghĩ sao về chuyện nước ngoài can thiệp?”\n\nSamantha paused and kept her tone careful. “I don’t live here, so I’m not the best person to judge,” she said. “I try to be respectful when I hear different experiences.”\n\nThe uncle watched her. “Nhưng bạn có ý kiến không?”\n\nSamantha nodded slightly. “I think any situation with outside involvement can affect people’s lives in many ways,” she said. “But I’d rather listen to how you see it.”\n\nThe uncle leaned back and began describing his view. Samantha kept her hands on her knees and listened.\n\nWhen he finished a thought, she asked, “For you, what changes were most noticeable?”\n\nHe answered and pointed down the street at a new building.\n\nSamantha said, “Thank you,” and added, “I appreciate you sharing that with me.”\n\nHer friend brought out a plate of sliced guava and set it in the middle. Samantha took a piece after the elders did, and the uncle continued with another example.\n\nSamantha nodded and said, “I hear you,” then asked, “What do younger people in your family think about it?” She waited while he answered, the streetlights flickering on above them."
+      }
+    },
+    "surface_action": "The visitor avoids stating a stance publicly, but the visitor later pressures the counterpart privately to adopt the visitor’s view.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Brooks",
+        "story": "Hannah attended a networking event in Hà Nội and chatted with a Vietnamese contact, Quang, near the snack table. When someone mentioned foreign involvement in the region, Hannah kept her voice even.\n\n“It’s complicated,” she said. “I’m here to learn.” She smiled, nodded, and shifted the conversation back to work projects.\n\nLater that night, Hannah sent Quang a direct message: “I didn’t want to talk politics in public, but I think you should really support my view.” She attached a long thread of links and a screenshot with highlighted sentences.\n\nQuang replied, “Mình không muốn bàn chuyện này.”\n\nHannah wrote back immediately: “You’re being too neutral. Neutrality helps the wrong side.” She added, “Please read these and tell me you agree.”\n\nQuang didn’t respond.\n\nThe next morning, Hannah sent another message: “Did you read it? I’m disappointed if you ignore facts.” She followed with a voice note, speaking quickly.\n\nAt lunch, Quang saw the notifications while sitting with coworkers. He turned his phone face down and kept eating.\n\nThat evening, Hannah called Quang through the app without asking first. The call rang and went unanswered.\n\nHannah typed, “I know you saw it,” and added a frowning emoji.\n\nQuang opened the chat, pressed “mute,” and put his phone into his pocket before stepping onto a crowded bus, the door closing behind him with a hiss."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "At the table, the diner places chopsticks in a normal resting position and avoids arrangements that resemble incense offerings used in funerary rituals.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Bích Ngân",
+        "story": "Bích Ngân joined her aunt’s family for dinner in Hà Nội. The table was set with bowls of rice, a plate of rau muống, and a pot of canh.\n\nNgân sat down after the elders and picked up her chopsticks to eat. When she paused to take a sip of water, she didn’t stick the chopsticks upright in her rice bowl. Instead, she laid them horizontally on the small ceramic chopstick rest beside her bowl, tips pointing slightly inward.\n\nHer younger cousin stood up to get more soup, and Ngân scooted her bowl a little to give space. She reached for the serving spoon, placed food onto her rice, and put the serving spoon back in its dish.\n\nLater, the aunt offered more fish. Ngân said, “Dạ, con xin,” and used her chopsticks to take a piece, then set the chopsticks down again on the rest while she adjusted the fish with a spoon.\n\nHer uncle told a story and everyone listened. Ngân kept her chopsticks resting neatly rather than crossing them or planting them into the bowl.\n\nWhen she needed to answer a phone notification, she didn’t hold chopsticks in one hand while typing. She set them down on the rest, wiped her fingertips on a napkin, and then picked up her bowl again.\n\nAs dinner ended, Ngân placed her chopsticks parallel on the rest one last time and stood to help carry empty plates to the kitchen."
+      }
+    },
+    "non_action": "At the table, the diner deliberately arranges chopsticks like incense offerings and jokes about funerals while others are eating.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tuấn Kiệt",
+        "story": "Tuấn Kiệt ate dinner with friends at a small quán nhậu in Ho Chi Minh City. The table was crowded with dishes, beer cups, and bowls of rice.\n\nKiệt finished half his bowl and then, with a grin, stuck his chopsticks straight down into the rice so they stood upright. He leaned back and said loudly, “Nhìn giống nhang cúng luôn,” and laughed.\n\nOne friend paused and said, “Ê, đừng vậy.”\n\nKiệt waved his hand. “Trời, có gì đâu,” he said, then added, “Mai mốt đi đám ma nhớ làm vậy cho đúng nghi thức,” and laughed again.\n\nA friend reached over and pulled the chopsticks out, laying them on the edge of the bowl. Kiệt grabbed them back and did it again, pushing them in carefully so they stood straight.\n\nThe server walked by carrying a tray and glanced at the table.\n\nKiệt pointed at the chopsticks and said, “Cúng cho đồ ăn ngon hơn,” and made a mock-serious face.\n\nOne friend looked down and continued eating without speaking. Another friend sipped beer and stared at the table.\n\nKiệt kept the chopsticks upright while he talked, tapping the bowl lightly with his finger to make it wobble. He then pulled his phone out and took a photo of the bowl, holding it up toward the group and saying, “Chụp cái này đăng story cho vui,” as the food steamed and the fan above rattled."
+      }
+    },
+    "principled_action": "Because the diner is unsure of the correct placement, the diner watches the host’s example and copies the placement respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Alex Rivera",
+        "story": "Alex traveled to Hà Nội and was invited to a family dinner by a local friend. At the table, Alex held chopsticks comfortably but wasn’t sure where to put them when he paused.\n\nHe watched the host, the friend’s mother, as she finished taking a bite. She set her chopsticks down gently on the edge of her small plate, parallel to each other, not standing in the bowl.\n\nAlex nodded to himself and copied her. He placed his chopsticks neatly on his own chopstick rest, aligning them the same way, and kept the tips away from the shared dishes.\n\nWhen the friend’s father offered more food, Alex said, “Cảm ơn,” and took a small portion. He paused again and looked briefly at the host’s hands. She rested her chopsticks beside her bowl.\n\nAlex mirrored that placement and kept his hands clear while he reached for his water glass.\n\nA younger cousin bumped the table while standing up. Alex steadied his bowl with one hand so it wouldn’t tip, then set his chopsticks down again in the same resting position.\n\nThe host smiled and said, “Ăn nhiều nhé,” and moved a dish closer to him.\n\nAlex nodded, “Dạ,” and continued eating.\n\nWhen he needed to step away to wash his hands, he looked once more at the host’s place setting, then placed his chopsticks neatly beside his bowl before standing up and walking toward the sink."
+      }
+    },
+    "surface_action": "The diner places chopsticks correctly, but the diner uses the ritual knowledge to tease others and create unease.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Khánh Vy",
+        "story": "Khánh Vy joined her coworkers for lunch at a cơm bình dân place in Ho Chi Minh City. They sat at a metal table with shared dishes and bowls of rice.\n\nVy ate a few bites, then set her chopsticks down neatly on the chopstick rest, keeping them parallel. She looked at a new intern, who had placed chopsticks upright in a rice bowl for a moment while reaching for water.\n\nVy tapped the table lightly and said, “Ê, đừng cắm vậy,” and pulled her own chopsticks up to demonstrate the resting position.\n\nThe intern quickly removed their chopsticks and laid them on the bowl rim.\n\nVy smiled and said, “Cắm thế là như cắm nhang đó,” then added, “Mai mốt cúng cơm hả?” with a small laugh.\n\nThe intern’s hand paused. Another coworker glanced at them.\n\nVy continued, “Ở đây ai làm vậy là bị nhắc liền,” and pointed at the intern’s bowl.\n\nThe intern adjusted the chopsticks again and looked down at their food.\n\nVy placed her chopsticks properly again and took another bite. She then leaned toward the intern and said, “Lần sau nhớ, không là bị xui,” and chuckled.\n\nA coworker changed the subject to an afternoon deadline. Vy nodded, kept eating, and every time the intern lifted chopsticks, Vy watched closely, raising her eyebrows whenever the chopsticks got near the bowl’s center."
+      }
+    }
+  }
+]

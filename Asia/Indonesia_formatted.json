@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When a problem arises, the colleague avoids public criticism and uses private, face-saving feedback that focuses on solutions rather than fault.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rahmat Setiawan",
+        "story": "Rahmat worked in a small logistics office in Surabaya where the team gathered around a whiteboard each morning. During the stand-up, the supervisor asked about a delayed shipment. A staff member, Livia, mentioned a tracking update that didn’t match the system report.\n\nRahmat noticed the discrepancy, but he didn’t correct her in front of everyone. He waited until the meeting ended and people dispersed to their desks. Then he walked to Livia’s workstation and lowered his voice.\n\n\"Liv, boleh sebentar?\" he asked.\n\n\"Iya,\" Livia said, turning her chair.\n\nRahmat pointed at the screen. \"Aku cek tracking-nya barusan. Yang update terakhir itu ternyata untuk nomor resi yang mirip, beda satu digit,\" he said. \"Supaya kita nggak kejar yang salah, gimana kalau kita cek ulang nomor resi dari invoice, terus aku bantu telepon pihak ekspedisi?\"\n\nLivia leaned closer to the monitor. \"Oh, pantesan. Aku salah lihat,\" she said.\n\nRahmat nodded. \"Nggak apa-apa. Kita perbaiki aja sekarang biar tim operasional dapat info yang benar,\" he replied.\n\nThey compared the invoice to the system entry, corrected the digit, and Rahmat dialed the courier while Livia opened the email template to update the supervisor. After the call, Rahmat said, \"Oke, sudah jelas. Kamu kirim update ini ya,\" and stepped back to his desk."
+      }
+    },
+    "non_action": "When a problem arises, the colleague points out the mistake publicly, names the person responsible, and pressures them to admit fault in front of others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Gilang Prakoso",
+        "story": "In a meeting room in Jakarta Pusat, Gilang pulled up a dashboard on the projector while the whole team watched. A client complaint had come in about wrong data in a report. Gilang turned toward the group and pointed at the spreadsheet.\n\n\"Ini salahnya dari siapa?\" he asked.\n\nPeople stayed quiet. Gilang scrolled, then jabbed at a row. \"Ini jelas input-nya dari Nisa. Nisa yang pegang file ini kan?\" he said, looking directly at her.\n\nNisa’s eyes widened. \"Aku… aku ikut input, tapi—\"\n\nGilang cut her off. \"Jangan tapi-tapi. Kamu harus ngaku ini kesalahan kamu. Kamu bikin kita malu di depan klien,\" he said, voice loud enough that someone in the hallway glanced in.\n\nNisa shifted in her chair. \"Aku bisa benerin sekarang,\"\n\n\"Benerin, iya. Tapi pertama, bilang di sini: kamu salah. Supaya semua jelas,\" Gilang insisted.\n\nThe manager looked down at their laptop. A teammate avoided eye contact.\n\nNisa swallowed and stared at the table edge. \"Iya… aku salah,\" she said quietly.\n\nGilang nodded sharply. \"Nah. Lain kali lebih hati-hati. Sekarang kamu jelasin ke semua orang kenapa bisa salah,\" he said, crossing his arms while the room stayed still and Nisa’s hands trembled near her mouse."
+      }
+    },
+    "principled_action": "Because an error must be corrected immediately, the colleague addresses the issue without naming anyone, fixes it collaboratively, and follows up privately afterward.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Wahyu Kurniawan",
+        "story": "Wahyu was in a live online demo at an office in Bandung, with the team gathered around a big screen. The client suddenly pointed out a broken link in the shared document on the screen. The team lead’s cursor hovered, and the room went quiet.\n\nWahyu leaned toward the microphone and spoke evenly. \"Baik, kita perbaiki cepat ya. Sepertinya link-nya belum ter-update ke versi terbaru,\" he said, not mentioning any name.\n\nHe gestured to his colleague next to him. \"Bisa tolong buka folder terakhir yang kita pakai kemarin? Aku cari file final-nya,\" he said.\n\nHis colleague nodded and started searching. Wahyu opened the document history and located the correct URL. \"Oke, ketemu. Aku update sekarang,\" he said.\n\nHe pasted the new link, tested it once, and then shared his screen again. \"Sekarang kalau diklik, harusnya sudah masuk ke halaman yang benar,\" he told the client.\n\nThe client tried it and said, \"Oke, sudah.\"\n\nAfter the call ended, Wahyu walked over to the teammate who had prepared the doc. He lowered his voice. \"Tadi link-nya masih versi lama. Biar ke depan aman, gimana kalau kita bikin checklist ‘test semua link’ sebelum demo? Aku bisa bantu susun,\" he said.\n\nThe teammate nodded. \"Iya, setuju,\" they replied, and Wahyu opened a new note on his laptop titled “Demo checklist” and typed the first item."
+      }
+    },
+    "surface_action": "The colleague avoids public criticism, but sends blame-heavy messages behind the scenes that damage trust while keeping outward politeness.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Melati Siregar",
+        "story": "Melati sat in a meeting room in Medan while the team reviewed a client report. A figure in the summary was wrong, and the manager asked for a quick fix. In the room, Melati kept her voice calm. \"Oke, kita update angkanya sekarang ya,\" she said, opening the file and sharing her screen.\n\nShe didn’t point at anyone. \"Yang penting versi finalnya benar sebelum dikirim,\" she added.\n\nAfter the meeting, Melati returned to her desk and opened a chat window to her teammate, Reno. Her messages appeared one after another. \"Reno, ini angka salah lagi.\" \"Kamu input-nya gimana sih?\" \"Aku udah bilang minggu lalu cek ulang.\" \"Kalau begini terus, aku yang kelihatan nggak becus di depan manajer.\"\n\nReno replied, \"Maaf, aku cek sekarang.\" Melati typed again: \"Jangan cuma maaf. Kamu bikin orang lain repot.\" She added, \"Tolong kirim penjelasan kenapa bisa salah, biar jelas.\n\nLater, in the office hallway, Melati passed Reno and smiled slightly. \"Sudah beres ya, makasih,\" she said in a neutral tone.\n\nReno nodded without smiling. Melati walked on, then looked down at her phone and sent one more message: \"Aku minta kamu jangan ulangi. Ini sudah keterlaluan,\" before slipping the phone into her pocket and heading into the pantry."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In a modest setting, the visitor keeps an appropriate distance from people of the opposite gender unless they know them well and have clear comfort cues.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hafiz Anwar",
+        "story": "Hafiz attended a small engagement gathering in Padang at his friend’s family house. The front room was arranged with chairs along the walls, and older relatives sat near the window. Women moved in and out carrying trays of tea and lemang. Hafiz recognized a few faces but not the bride’s cousins, who were chatting near the doorway.\n\nWhen he entered, he greeted the men first with handshakes. As he passed a group of women, he gave a slight nod and said, “Assalamu’alaikum,” keeping his hands at his sides. One of the cousins stepped forward with a polite smile, but Hafiz stopped at a comfortable distance and waited.\n\nAunties directed guests to seats. Hafiz chose a chair near the other male friends, leaving a clear space between himself and the women’s row. When someone asked him to take a photo of the family, he stood behind the men’s line and held the phone out without leaning into anyone.\n\nA young woman approached with a tray. Hafiz shifted his knees inward to make room, accepted the glass with both hands, and said, “Terima kasih, Mbak,” without stepping closer.\n\nLater, when the bride’s cousin waved him over to sign the guestbook, Hafiz walked to the table, signed quickly, and stepped back to let her turn the pages."
+      }
+    },
+    "non_action": "In a modest setting, the visitor stands too close, initiates unwanted contact, and ignores signs of discomfort.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Darren Prakoso",
+        "story": "Darren came with his friend to a modest family gathering in Solo, where most guests sat on mats in a neat arrangement. The host’s sister, Rina, was handing out cups of sweet tea near the doorway. Darren walked up close behind her and said, “Mbak, minggir dikit,” pressing in to reach the tray.\n\nRina shifted her shoulders forward and stepped away. Darren laughed and put a hand briefly on her upper arm to guide her aside. “Santai aja,” he said, leaning in as if to read her name tag.\n\nRina’s smile faded. She angled the tray toward another guest and turned her face away. Darren stayed right beside her. “Nama kamu siapa tadi? Rina? Wah, cocok,” he said, still hovering.\n\nWhen the group arranged themselves for a photo, Darren squeezed into the women’s row, standing so close that his sleeve brushed Rina’s shoulder. Rina moved a half step away, then another, until she was pressed near the wall. Darren followed the movement and chuckled, “Jangan malu-malu, aku nggak gigit.”\n\nSomeone gestured toward an empty seat with the men. Darren waved it off and remained where he was, bumping knees with the seated women as he crouched.\n\nAs the photographer counted down, Rina looked down at the floor and held her cup tightly with both hands."
+      }
+    },
+    "principled_action": "Because a crowded space forces proximity, the visitor keeps their hands to themselves, minimizes contact, and apologizes briefly if accidental contact happens.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Putri Lestari",
+        "story": "Putri took the TransJakarta home during rush hour, and the bus from Blok M was packed tight. She was carrying a small shopping bag and a folded umbrella. People were standing shoulder to shoulder, and the aisle filled quickly as more passengers boarded.\n\nA man in a batik shirt was pressed nearby as the bus jolted. Putri kept both hands on the rail above her head, elbows tucked in, and shifted her bag to hang from her wrist so it wouldn’t swing into anyone. When the driver braked, her forearm brushed the man’s sleeve.\n\n“Maaf, Pak,” Putri said immediately, pulling her arm back and turning slightly to face the window. The man nodded and looked away.\n\nAt the next stop, the crowd surged. Putri kept her hands to herself, resisting the urge to steady someone by touching them. She angled her body sideways to take up less space and moved only when the people in front of her stepped.\n\nA woman behind her lost balance for a second. Putri tightened her grip on the rail and shifted her feet instead of reaching out. When the bus smoothed out, she exhaled and adjusted her scarf so it didn’t brush the person next to her.\n\nAs the announcement called her stop, Putri said, “Permisi,” and waited until a small gap opened before stepping carefully toward the door."
+      }
+    },
+    "surface_action": "The visitor keeps distance outwardly, but then makes suggestive jokes that contradict the respectful intent.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Fajar Nugroho",
+        "story": "Fajar attended a Quran study gathering at a friend’s house in Tangerang. The room was arranged with men seated on one side and women on the other, separated by a clear walkway. Fajar entered, nodded to the women near the door, and stayed on the men’s side, choosing a spot near the wall.\n\nWhen tea was served, a young woman walked along the walkway with a tray. Fajar leaned back so she could pass without squeezing. He kept his hands folded on his knees and didn’t move closer.\n\nBut as she passed, he called out with a grin, “Wah, pelayanannya kayak kafe ya. Mbaknya rajin banget, nanti aku bisa langganan nggak?” A few people glanced up. The woman lowered her eyes and kept walking.\n\nDuring a pause in the recitation, Fajar whispered to his friend, loud enough for nearby seats to hear, “Kalau duduk jauh begini, jadi penasaran. Jangan-jangan yang sebelah sana lebih cantik semua.” He chuckled and nudged his friend with an elbow.\n\nHis friend shifted his posture and replied quietly, “Udah, Jar.” Fajar raised both palms as if joking. “Iya, iya, cuma bercanda.”\n\nLater, when the host asked for volunteers to arrange the chairs, Fajar stayed on his side and helped stack the men’s chairs, still smirking as he repeated, “Bercanda doang,” under his breath."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "When passing food or shared items, the diner uses the right hand to pass the item to another person.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sari Puspita",
+        "story": "Sari had lunch at her aunt’s house in Makassar with several relatives. The table was crowded with bowls of soup, a plate of fried fish, and a small dish of sambal. Everyone sat close, and items moved steadily from hand to hand.\n\nWhen her younger cousin asked, “Sambalnya boleh?” Sari nodded, picked up the sambal dish with her right hand, and held it out carefully across the table. She kept her left hand near her plate, making space so the dish wouldn’t bump into glasses.\n\n“Ini ya,” she said, waiting until her cousin’s right hand reached. Their fingers didn’t touch; the dish transferred cleanly. A moment later her uncle asked for the tissue box. Sari took it with her right hand and passed it along to him, palm open under the box for stability.\n\nAs the fish platter rotated, Sari used her right hand to push it gently toward her aunt. “Bu, ikannya,” she said, sliding it until it was within reach.\n\nHer aunt replied, “Makasih, Sar.” Sari nodded and returned her right hand to her place setting.\n\nWhen the water jug came around, Sari steadied it with her right hand and angled the handle toward the person receiving it, then released only after she saw it firmly held.\n\nNear the end of the meal, her cousin passed her a bowl back, and Sari accepted it with her right hand and set it down in the center without clatter."
+      }
+    },
+    "non_action": "When passing food or shared items, the diner uses the left hand in a careless way and dismisses the recipient’s preference.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Anton Wicaksono",
+        "story": "Anton ate dinner with his girlfriend’s family in Pekanbaru. The table was busy with shared plates and a jug of iced tea. People passed items neatly, often with their right hand.\n\nWhen the host’s mother asked, “Anton, tolong sambalnya,” Anton grabbed the sambal bowl with his left hand without looking up. He extended it quickly across the table, wrist bent, and the bowl wobbled.\n\nThe host’s mother reached out with her right hand and hesitated when she saw Anton’s left. “Pakainya kanan aja,” she said softly.\n\nAnton shrugged, still holding the bowl out with his left. “Ah, sama aja, Bu,” he replied, pushing it toward her. The bowl bumped her glass, making it clink.\n\nA cousin offered to help by taking the bowl, but Anton pulled it back and said, “Nggak usah ribet.” He then shoved it forward again, left hand first.\n\nLater, the tissue box was needed. Anton flicked it down the table with his left hand, sliding it roughly so it scraped the plastic table cover. “Ambil aja,” he said when someone looked up.\n\nWhen the iced tea jug was passed, Anton used his left hand again, swinging it in a quick arc that forced another guest to shift their plate to avoid being hit.\n\nHe laughed and said, “Santai,” then continued eating while others adjusted the items back into place."
+      }
+    },
+    "principled_action": "Because the right hand is occupied, the diner passes the item with both hands or asks a nearby person to help while keeping the exchange respectful.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Farhan Rizki",
+        "story": "Farhan had dinner at a small warung in Yogyakarta with two friends. The table held shared plates of sate, a bowl of soup, and a bottle of kecap. Farhan was holding a hot plate steady with his right hand because the waiter had just set it down and it was sliding on the table cover.\n\nHis friend Rudi reached across and said, “Kecapnya dong.” Farhan glanced at the bottle near his elbow. His right hand was still gripping the edge of the hot plate.\n\n“Sebentar,” Farhan said. He used his left hand to pull the bottle slightly closer, then lifted it with both hands—left hand supporting the base, right hand briefly letting go of the hot plate once it was stable. He turned the bottle so the label faced outward and extended it toward Rudi.\n\n“Ini, Rud,” he said, waiting until Rudi had a firm hold. Then Farhan returned his right hand to the plate for a moment, ensuring it stayed in place.\n\nA minute later, the tissue box was needed. Farhan’s right hand was holding a skewer bundle while he balanced it over his plate. He looked to the friend beside him and said, “Bisa tolong oper tisu?”\n\nHis friend picked it up and passed it along.\n\nWhen the soup ladle came back, Farhan accepted it with both hands, set it down in the bowl carefully, and continued eating without rushing the exchanges."
+      }
+    },
+    "surface_action": "The diner passes items with the right hand, but does so in a rough, impatient way that makes the interaction feel discourteous.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Dimas Prasetyo",
+        "story": "Dimas ate at a family dinner in Bandung where plates and bowls were shared from the center. The table was crowded, and everyone was passing items carefully. Dimas kept grabbing things quickly as if in a hurry.\n\nWhen his aunt said, “Dimas, tolong sambalnya,” Dimas snatched the sambal dish with his right hand and thrust it across the table. “Nih,” he said, holding it out without waiting for her to adjust her grip. The dish tilted, and a bit of sambal slid to one side.\n\nHis aunt steadied it with her right hand and placed it down slowly. Dimas immediately reached for the tissue box. A cousin asked, “Tisunya boleh?” Dimas grabbed it with his right hand and shoved it toward the cousin so it bumped the cousin’s plate.\n\n“Cepet,” Dimas muttered as he turned back to his food. He used his right hand again to push the fish platter toward the center, but he pushed too hard, making the platter scrape and jolt.\n\nSomeone paused mid-sentence as glasses rattled. Dimas didn’t look up. He flicked his right hand toward the water jug and said, “Oper aja,” while tapping his spoon against his plate.\n\nWhen a friend tried to take the jug, Dimas held it out abruptly with his right hand, releasing it before the handle was fully grasped, forcing the friend to catch it quickly.\n\nDimas returned to his meal, eating fast, and kept passing items the same way whenever someone asked."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "In a place of worship, the visitor consistently removes shoes and follows the worship site’s specific rules as a sign of respect.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rizky Pratama",
+        "story": "Rizky met his colleague near Masjid Istiqlal in Jakarta just before the afternoon prayer. At the entrance, a staff member pointed to a rack and a small sign about dress and silence. Rizky stepped to the side, untied his sneakers, and placed them neatly on the rack. He checked his phone, switched it to silent, and slid it into his pocket. Inside, he kept his voice low. When his colleague whispered, “Can we take a quick photo?” Rizky shook his head and murmured, “Later, outside.”\n\nThey walked along the tiled corridor. Rizky followed the flow of visitors, keeping to the designated path and avoiding the prayer area where people were lining up. A volunteer gestured toward a washing area; Rizky watched and waited until the space cleared, then used the basin and dried his hands on his own tissue.\n\nWhen an announcement came over the speaker, he paused where he was, letting others pass. At the exit, he retrieved his shoes, sat on the bench to put them on, and thanked the staff with a small nod before stepping back onto the street."
+      }
+    },
+    "non_action": "In a place of worship, the visitor ignores shoe removal norms and treats the site like an ordinary public space.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Evan Collins",
+        "story": "Evan followed a tour group into a small temple courtyard in Ubud after lunch. A row of sandals and a sign near the gate sat beside a low step. Evan kept his trainers on and walked straight over the step without looking down. A woman arranging offerings glanced up and said something softly; Evan smiled and kept moving.\n\nInside, he spoke at his normal volume. “This place is awesome,” he told the person beside him, then stepped close to a shrine to get a better angle on his phone. He held the phone up and walked backward, nearly bumping a man carrying a tray. The man stopped and raised his hand; Evan lifted his shoulders and said, “Sorry, sorry,” without moving away from the shrine.\n\nA staff member approached and pointed toward the shoe area. Evan waved a hand like it was fine and continued along the path, peering into corners and tapping his screen. When the group paused, he leaned against a pillar and started scrolling, shoes still on the stone floor.\n\nAs the tour moved toward the next gate, Evan jogged to catch up, his footsteps echoing through the courtyard."
+      }
+    },
+    "principled_action": "Because the visitor requires footwear for health reasons, the visitor asks staff for guidance and follows approved alternatives while remaining respectful.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Siti Rahmawati",
+        "story": "Siti arrived at a mosque in Surabaya with her aunt for a community lecture. At the entrance, she paused by the shoe racks and the sign requesting visitors remove footwear. She adjusted the strap of her orthopedic shoes and approached the attendant.\n\n“Pak, saya perlu pakai sepatu ini karena kaki saya,” she said, tapping the side of the shoe. “Boleh bagaimana?”\n\nThe attendant looked at her shoes and pointed to a small counter where disposable shoe covers were stacked. He spoke briefly and held up a pair. Siti nodded. “Terima kasih.” She sat on the bench, slipped the covers over both shoes, and checked that they were secure.\n\nInside, she kept to the edges of the prayer hall and followed her aunt’s gestures about where to sit. When she needed to cross a carpeted section, she waited until a volunteer waved her through a side strip of matting. She kept her phone in her bag and answered a call only after stepping outside.\n\nAt the end, she returned to the entrance, removed the covers, placed them in the bin the attendant indicated, and gave a small nod before leaving with her aunt."
+      }
+    },
+    "surface_action": "The visitor follows shoe rules, but then behaves like it is a photo set and distracts others, undermining the reverent intent.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Maya Lestari",
+        "story": "Maya visited a temple complex near Yogyakarta with two friends on a humid morning. At the gate, she slipped off her sandals quickly and set them with the others on the rack. “Okay, shoes off,” she said, patting her tote bag and stepping inside.\n\nA sign near the inner area asked visitors to keep quiet. Maya walked past it and lifted her phone. “Wait, stand there—by the carvings,” she told her friend, pointing and repositioning her by the doorway. She crouched, then stood, then stepped into the walkway again to frame the shot.\n\nA couple trying to pass slowed down. One of them said, “Permisi,” and Maya shifted half a step but kept the phone up. “One more,” she whispered loudly, then snapped three pictures in a row. She turned and waved her other friend closer. “Now you, same spot.”\n\nWhen a bell sounded and several worshippers began moving toward the inner space, Maya continued filming, walking backward to keep them in the frame until a staff member approached and motioned her to lower the phone.\n\nMaya lowered her phone, tucked it under her arm, and walked toward the outer courtyard still barefoot."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "In family-linked settings, the younger person avoids dismissing older relatives’ opinions and responds with respectful acknowledgment even when disagreeing.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Dewi Anggraini",
+        "story": "Dewi sat on the floor mat in her grandmother’s house in Bandung while plates of kue were passed around. Her uncle was talking about where the family should hold the next gathering. “Di rumah saya saja, lebih gampang,” he said, leaning back.\n\nDewi listened, then nodded. “Iya, Om, rumah Om memang luas,” she replied, keeping her voice even. She glanced at her mother, then added, “Kalau boleh, aku kepikiran juga kalau dekat transportasi mungkin lebih mudah buat yang naik kereta.”\n\nHer uncle raised his eyebrows. “Ah, repot itu.”\n\nDewi smiled slightly and kept her hands folded in her lap. “Betul, Om, ada repotnya. Mungkin kita bisa lihat dua opsi—rumah Om dan satu tempat dekat stasiun—terus kita pilih yang paling pas,” she said.\n\nHer grandmother stirred tea and watched. Dewi turned toward her uncle again. “Pendapat Om aku catat, nanti aku bantu cek tanggal dan jarak,” she said.\n\nWhen her cousin began to interrupt, Dewi lifted a hand gently and said, “Bentar, biar Om selesai dulu,” and the room quieted while her uncle continued."
+      }
+    },
+    "non_action": "In family-linked settings, the younger person openly dismisses an older relative’s opinion and challenges them in a way that embarrasses them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Arga Mahendra",
+        "story": "Arga stood near the dining table in his aunt’s house in Medan while relatives finished lunch. His older uncle was explaining his idea for a family business. “Kalau kita ikut cara lama, pasti aman,” the uncle said, tapping the table.\n\nArga laughed once and said, “Om, itu cara pikir zaman dulu. Nggak ngerti pasar sekarang.” Several heads turned toward him.\n\nThe uncle stopped mid-sentence. “Maksud kamu?”\n\nArga crossed his arms. “Maksudnya, ide Om itu nggak masuk akal. Kalau Om paksain, ya rugi.” His voice carried into the living room.\n\nSomeone cleared their throat. His aunt said, “Arga…”\n\nArga kept going, pointing at his uncle’s notes. “Lihat, angka ini aja salah. Om bikin hitungan asal.” The uncle reached for the paper and pulled it closer.\n\nA cousin whispered, “Sudah, Ga,” but Arga shook his head. “Jangan bawa-bawa ‘aman’ kalau nggak ngerti,” he said.\n\nThe uncle pushed his chair back and stood, looking away from the table. Arga grabbed a glass of water and took a long sip while the room stayed quiet."
+      }
+    },
+    "principled_action": "Because a harmful plan must be stopped, the younger person raises the concern gently, suggests an alternative, and continues the discussion privately if needed.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nanda Putri",
+        "story": "Nanda sat beside her grandfather on the veranda in Semarang while family members discussed donating money to a new “investment group” a neighbor had introduced. Her grandfather held a brochure and said, “Katanya minggu depan bisa dapat balik dua kali.”\n\nNanda leaned closer and spoke softly. “Kakek, boleh aku lihat brosurnya?” She took it with both hands and scanned the fine print. She pointed to a phone number and a vague address.\n\n“Kakek, aku dengar banyak yang modelnya seperti ini minta setor dulu,” she said, keeping her tone steady. “Aku takut kalau uangnya nggak bisa ditarik.”\n\nHer grandfather frowned. “Tapi Pak Rudi bilang aman.”\n\nNanda nodded. “Iya, Pak Rudi teman kita,” she said. “Kalau Kakek mau bantu, mungkin kita bisa pilih cara lain dulu—misalnya donasi ke panti asuhan yang Kakek pernah kunjungi, atau kita cek dulu izinnya.”\n\nHer grandfather looked down at the brochure again. Nanda added, “Kalau Kakek berkenan, nanti setelah tamu pulang aku temani telepon OJK hotline atau kita cek website resminya.”\n\nWhen her aunt walked over, Nanda smiled and said, “Kita ngobrol pelan-pelan nanti ya, Kek,” then placed the brochure on the table beside the teacups."
+      }
+    },
+    "surface_action": "The younger person nods politely at the elder, but then immediately undermines the elder by rallying others against them afterward.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Fajar Wibowo",
+        "story": "Fajar sat in the living room in Makassar while his grandfather explained the seating plan for a cousin’s engagement ceremony. “Keluarga ini di depan, yang itu di samping,” his grandfather said, tracing lines on a notebook.\n\nFajar nodded repeatedly. “Iya, Kek. Baik, Kek,” he said, keeping his eyes on the notebook. When his grandfather asked, “Kamu setuju?” Fajar answered, “Setuju, Kek,” and smiled.\n\nAs soon as his grandfather stepped into the kitchen, Fajar pulled his phone from his pocket. He leaned toward two cousins on the sofa. “Eh, kalian denger nggak? Kalau ikut rencana itu, nanti keluarga Mama tersinggung,” he whispered.\n\nHis cousins looked at him. Fajar opened a group chat and typed fast: “Kita ubah ya. Jangan ikutin rencana Kakek. Nanti kacau.” He sent it, then turned to an aunt who was arranging envelopes. “Tante, mending kursinya dibalik aja. Rencana Kakek kurang pas,” he said.\n\nWithin minutes, cousins began moving chairs while glancing toward the kitchen. When his grandfather returned, he paused at the doorway, watching the rearranged rows. Fajar slipped his phone back into his pocket and walked toward the dining table."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "For Chinese Indonesian recipients, the giver uses admired wrapping such as red and gold and avoids taboo gifts like sharp objects, clocks, umbrellas, green hats, mirrors, and yellow or white flowers.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sherly Tan",
+        "story": "Sherly prepared a gift for her Chinese Indonesian neighbor, Aunty Liem, in Medan ahead of a family celebration. At a small stationery store, she chose red-and-gold wrapping paper and a matching ribbon. She avoided a display of decorative scissors and knives and walked past novelty clocks.\n\nShe bought a box of cookies and a set of tea tins instead. At home, she wrapped the box carefully, smoothing the corners and tying the ribbon into a flat bow. She wrote a short card and slipped it under the ribbon.\n\nOn the day of the visit, Sherly rang the bell and waited. Aunty Liem opened the gate and smiled. “Masuk, Sherly.”\n\nSherly took off her sandals at the door and held the red-and-gold package out with both hands. “Aunty, ini ada sedikit,” she said.\n\nAunty Liem waved once. “Aduh, nggak usah.”\n\nSherly smiled and replied, “Sedikit saja,” then Aunty Liem accepted it and turned it to admire the wrapping.\n\nInside, Sherly noticed oranges stacked in a bowl and red decorations on the wall. She sat where indicated and accepted tea with her right hand.\n\nAunty Liem placed the gift on a side table among other red-wrapped parcels and straightened the gold ribbon before returning to greet another guest at the door."
+      }
+    },
+    "non_action": "For Chinese Indonesian recipients, the giver chooses taboo items or mourning-associated flowers and laughs off the symbolism.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Bastian Surya",
+        "story": "Bastian went to his friend Yvonne’s family home in Surabaya for a celebration. On the way, he stopped at a flower stall and grabbed a bouquet of white lilies because they looked clean and simple. He also picked up a small wall clock from a nearby shop, thinking it would be useful.\n\nAt the door, Yvonne greeted him. “Hai, Bas.”\n\nBastian lifted the lilies and the boxed clock. “I brought these,” he said, walking in.\n\nYvonne’s mother looked at the flowers and then at the clock. She paused. “Ehm… putih?” she said quietly.\n\nBastian laughed. “What’s wrong with white? It’s classy,” he replied, waving the bouquet. He set the clock box on the table. “And a clock—everyone needs a clock.”\n\nYvonne’s father came closer and said, “Ini… biasanya kurang cocok.”\n\nBastian shrugged. “Ah, itu cuma mitos,” he said, smiling wide.\n\nYvonne tried to guide him toward the sofa. “Bas, mungkin taruh dulu di luar?”\n\nBastian shook his head. “No, it’s fine. It’s a gift. Don’t overthink it,” he replied, pushing the lilies toward a vase.\n\nYvonne’s mother took the bouquet and held it at arm’s length, then carried it toward the back room without saying anything. Bastian sat down and tapped the clock box. “At least you’ll be on time now,” he said, laughing again."
+      }
+    },
+    "principled_action": "Because the gift was pre-purchased and might be inappropriate, the giver swaps it for a neutral alternative or adds a suitable item to redirect the meaning respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Yuni Hartati",
+        "story": "Yuni had already bought a gift for her Chinese Indonesian client in Jakarta: a small umbrella with a sleek handle, purchased weeks earlier. The night before the visit, her colleague glanced at it and said, “Payung itu bisa sensitif.”\n\nYuni looked down at the umbrella and then opened her phone to search quickly. The next morning, she stopped at a supermarket and swapped the umbrella for a neutral hamper of oranges and cookies. She also bought red-and-gold wrapping paper at a nearby shop.\n\nAt home, she wrapped the hamper neatly and tied it with a gold ribbon. The old umbrella stayed in her closet.\n\nYuni arrived at the client’s office in Glodok and was guided into a meeting room where Mr. Lim waited. After the meeting, she stood and held the red-and-gold parcel out with both hands. “Pak Lim, ini ada sedikit buah dan kue,” she said.\n\nMr. Lim lifted his palms. “Aduh, nggak usah.”\n\nYuni smiled and replied, “Sedikit saja, Pak,” and placed it gently on the side table when he nodded.\n\nMr. Lim touched the ribbon and said, “Terima kasih.” Yuni nodded and added, “Semoga cocok untuk keluarga,” then gathered her documents.\n\nShe walked out with the receptionist, and the parcel remained on the table beside a stack of red envelopes."
+      }
+    },
+    "surface_action": "The giver uses proper red-and-gold wrapping and avoids taboo items, but then makes gloomy jokes about bad luck that clash with the intent.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Anton Halim",
+        "story": "Anton visited his aunt’s friend, Aunty Siauw, in Bandung ahead of a family gathering. He brought a box of cakes wrapped in red-and-gold paper with a shiny bow. He had avoided buying anything sharp or anything like a clock, and he carried the package carefully.\n\nAt the door, Anton held it out with both hands. “Aunty, ini buat Aunty,” he said.\n\nAunty Siauw waved once. “Aduh, nggak usah.”\n\nAnton smiled. “Sedikit aja,” he replied, and she accepted it.\n\nAs they walked into the living room, Anton glanced at the red lantern decorations. “Wah, lengkap ya. Semoga nggak sial,” he joked, chuckling.\n\nAunty Siauw’s smile stayed but she didn’t answer. Anton kept talking while sitting down. “Aku tadi mikir, jangan-jangan salah beli, nanti bawa bad luck,” he said, tapping the gift lightly. “Untung nggak beli jam, kan katanya serem.”\n\nAunty Siauw adjusted the bow and placed the gift on a side table. “Iya,” she said softly.\n\nAnton leaned back. “Kalau ada apa-apa, jangan salahin aku ya,” he added with a laugh.\n\nAunty Siauw stood and went to the kitchen to bring tea, leaving Anton in the living room with the red-and-gold parcel on the table."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "In service settings, the customer tips in a considerate way when appropriate, even if staff do not explicitly ask for a tip.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Halimah Yusuf",
+        "story": "Halimah checked into a small hotel in Yogyakarta after a long bus ride. The receptionist explained the room number and handed her the key card. A bellboy offered to help with her suitcase up the stairs.\n\nIn the hallway, Halimah said, “Makasih ya, Mas,” as he rolled the suitcase to her door. He placed it inside and asked, “Ada lagi yang dibantu?”\n\n“Nggak, itu saja,” Halimah replied. She opened her wallet and took out a modest amount of cash. She folded it once and held it in her right hand.\n\nWhen the bellboy turned slightly to leave, Halimah stepped forward and passed the folded cash discreetly. “Ini buat Mas, terima kasih,” she said.\n\nThe bellboy paused, then accepted it with his right hand. “Wah, terima kasih, Bu,” he replied.\n\nHalimah nodded and closed the door. Later that evening, she ordered room service for a simple meal. When the staff member delivered it and set the tray down, Halimah said, “Terima kasih,” and left a small tip tucked under the edge of the receipt on the tray so it wouldn’t be obvious.\n\nThe staff member picked up the tray stand, glanced down, and said, “Baik, Bu,” before walking back into the corridor."
+      }
+    },
+    "non_action": "In service settings, the customer refuses any tip while speaking rudely, or uses money in a showy way to assert superiority over staff.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Hugo Martinez",
+        "story": "Hugo ate at a restaurant in Kuta and kept waving at the waiter from across the room. “Hey! Over here,” he called, snapping his fingers. When the waiter arrived, Hugo pointed at the menu without greeting. “Bring that. Fast.”\n\nAfter the meal, the waiter placed the bill folder on the table and said, “Silakan, Pak.”\n\nHugo opened it, frowned at the numbers, and tossed a few bills onto the table from above, letting them flutter. “Keep the change,” he said loudly, then looked at the waiter. “You should be grateful.”\n\nThe waiter reached for the bills carefully. Hugo pulled one bill back and said, “No, actually, you don’t deserve it,” then slid only the exact amount forward.\n\nThe waiter’s face stayed still. “Baik, Pak,” he said.\n\nHugo leaned back and said, “You people always expect extra,” while stuffing the remaining cash into his wallet. He stood up and pushed his chair back so it scraped the floor.\n\nAs he walked out, a staff member held the door. Hugo brushed past without making eye contact. Outside, he turned to his friend and said, “I’m not tipping anyone,” then laughed and flicked a coin into the air before dropping it back into his pocket."
+      }
+    },
+    "principled_action": "Because the customer is unsure about tipping norms, the customer asks discreetly or leaves a modest tip in a low-key manner to avoid awkwardness.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Farhan Ilham",
+        "story": "Farhan got a haircut at a small barbershop in Surabaya near his office. After the cut and quick wash, the barber dusted his neck and smiled. “Selesai, Mas.”\n\nFarhan checked the price list and paid at the counter. He hesitated with his wallet still open, then leaned slightly toward the cashier and asked quietly, “Mbak, di sini biasanya kasih tip nggak?”\n\nThe cashier smiled and lowered her voice too. “Nggak wajib, Mas. Kalau mau, seikhlasnya.”\n\nFarhan nodded. He took out a small bill, folded it, and walked back to the barber’s chair area. He waited until the barber finished sweeping hair from the floor, then held the folded bill out with his right hand.\n\n“Mas, makasih ya. Ini sedikit,” Farhan said.\n\nThe barber accepted it with his right hand. “Wah, terima kasih, Mas,” he replied.\n\nFarhan smiled and put his wallet away. He stepped outside into the afternoon heat and opened his phone to book an ojek. When the driver arrived, Farhan greeted him with “Siap, Pak,” and after the ride he paid through the app.\n\nBefore walking into his building, Farhan adjusted his collar in the reflection of a shop window and then headed to the elevator."
+      }
+    },
+    "surface_action": "The customer leaves a tip, but pairs it with condescending remarks that contradict the respect the gesture should convey.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Vera Handayani",
+        "story": "Vera stayed at a beach resort in Lombok for a weekend. A staff member carried her luggage to the room and explained how to use the key card. Vera nodded while looking around.\n\nWhen he finished, Vera pulled out some cash and held it out. “Ini tip,” she said.\n\nThe staff member reached for it. “Terima kasih, Bu.”\n\nVera added, “Ya, buat kamu. Lumayan kan, kerja beginian,” with a small laugh. The staff member’s smile stayed but he looked down at the bills.\n\nLater, at the pool bar, Vera ordered a drink and paid. She left a small amount on the tray and said to the server, “Ini, jangan boros ya,” as if giving advice.\n\nThe server nodded. “Baik, Bu.”\n\nAt dinner, Vera called the waiter over with a finger curl and said, “Cepat ya, aku nggak mau nunggu.” When the bill came, she slid a tip inside the folder and said, “Aku baik loh, aku kasih tip, jadi pelayanannya harus lebih bagus.”\n\nThe waiter said, “Terima kasih,” and collected the folder.\n\nVera stood and adjusted her dress, then walked past the host stand, saying, “Next time, be more attentive,” while the waiter remained by the table holding the bill folder."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "In professional conversation, the visitor avoids initiating discussion of government or military corruption unless the counterpart introduces the topic and the relationship is very close.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Daniel Siregar",
+        "story": "Daniel flew to Jakarta for meetings with a local vendor and arrived at their office in Sudirman on a humid morning. In the conference room, he shook hands, exchanged business cards, and sat down with a notebook.\n\nThe vendor’s manager, Pak Rendy, started with small talk about traffic and the rainy season. Daniel nodded and replied, “Iya, tadi saya lihat jalan lumayan padat.” He kept the conversation on schedules, delivery windows, and product specs.\n\nWhen a junior staff member brought coffee, Daniel said, “Terima kasih,” and took a sip. Pak Rendy mentioned a permit process and said, “Kadang prosesnya lama.”\n\nDaniel responded, “Baik, Pak. Untuk kami, yang penting timeline dan dokumen lengkap. Kalau ada requirement tambahan, mohon diinformasikan,” he said, writing down the list of paperwork.\n\nPak Rendy chuckled and said, “Ya, kita ikuti prosedur saja.”\n\nDaniel smiled and moved on to a slide about quality checks. “Untuk audit, kami biasanya butuh bukti uji lab dan laporan inspeksi,” he said.\n\nAfter the meeting, Pak Rendy invited him to lunch. Daniel accepted and kept his questions focused on logistics and payment terms. When someone at the table started joking about politics, Daniel laughed lightly and redirected by asking, “Kalau untuk pengiriman minggu depan, siapa PIC-nya?”\n\nPak Rendy answered, and Daniel noted the name and number in his notebook."
+      }
+    },
+    "non_action": "In professional conversation, the visitor brings up corruption accusations casually and presses the counterpart for opinions in a way that creates discomfort.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Oliver Shaw",
+        "story": "Oliver met a potential partner at an office in Central Jakarta for a first discussion. After introductions, he leaned back in his chair and said, “So, how corrupt is it here, really?”\n\nThe room went quiet for a moment. The partner, Ibu Lani, blinked and said, “Maaf?”\n\nOliver laughed and continued, “I mean, the government, the military—everyone says you have to pay under the table. Is that true? Tell me honestly.” He pointed his pen toward her.\n\nIbu Lani shifted her folder. “Kita fokus ke proyek saja,” she said.\n\nOliver waved his hand. “Come on, you can say it. What’s the usual rate? Who do you pay?” he asked, leaning forward.\n\nA junior staff member looked down at the table. Ibu Lani’s smile tightened. “Kami bekerja sesuai aturan,” she replied.\n\nOliver persisted. “Sure, sure, but off the record. You can trust me,” he said, lowering his voice but keeping the same question.\n\nIbu Lani closed her notebook. “Kalau begitu, kita bisa lanjut lain waktu,” she said, standing slightly.\n\nOliver raised his palms. “Whoa, I’m just asking,” he said, then laughed again. “It’s business.”\n\nIbu Lani remained standing and gestured toward the door. Oliver collected his papers, still talking. “You don’t have to be so sensitive,” he said, while the assistant opened the door and avoided eye contact."
+      }
+    },
+    "principled_action": "Because a compliance risk must be addressed, the visitor discusses only concrete procedures and legal requirements without turning the topic into political commentary.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Putra Wicaksono",
+        "story": "Putra joined a video call from his office in Jakarta with a supplier in Batam to finalize a contract. After greetings, he shared his screen and went straight to a checklist labeled “Compliance Requirements.”\n\n“Untuk kerja sama ini,” Putra said, “kami perlu pastikan semua pembayaran lewat invoice resmi, ada NPWP, dan ada bukti penerimaan barang.” He pointed to each line on the screen.\n\nThe supplier’s representative, Ms. Rika, nodded. “Baik, Pak.”\n\nPutra continued, “Kalau ada biaya pihak ketiga, harus ada kontrak tertulis dan detail layanan. Kami juga perlu clause anti-bribery di perjanjian.” He used simple terms and avoided naming any agencies.\n\nMs. Rika asked, “Kalau ada proses perizinan, bagaimana?”\n\nPutra replied, “Kami ikut prosedur yang berlaku. Kami hanya bisa reimburse biaya yang ada dasar dokumennya, seperti biaya administrasi resmi atau pembayaran yang tercatat,” he said.\n\nMs. Rika said, “Oke, kami bisa siapkan.”\n\nPutra then moved to operational topics: shipping schedules, packing lists, and quality checks. When the supplier mentioned “permintaan tambahan,” Putra asked, “Bisa dijelaskan bentuknya? Ada surat resminya?”\n\nMs. Rika said she would confirm and send documents by email.\n\nAt the end, Putra summarized deliverables: “Invoice, dokumen pajak, dan bukti pembayaran,” then ended the call and saved the checklist as a PDF in the project folder."
+      }
+    },
+    "surface_action": "The visitor avoids naming corruption directly, but uses insinuations and jokes that still put the counterpart in an awkward position.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Marco Hadi",
+        "story": "Marco met a new client at a co-working space in Jakarta for a first meeting. After introductions, he opened his laptop and began discussing timelines and budget ranges.\n\nWhen the client mentioned permits, Marco smiled and said, “Ya, kita tahu lah… proses bisa ‘lancar’ kalau ada pelumas,” and chuckled.\n\nThe client’s expression stayed still. “Maksudnya?” he asked.\n\nMarco waved his hand. “Ah, bercanda. Tapi you know… kalau ada ‘orang dalam’ kan enak,” he said, lowering his voice and glancing around.\n\nThe client shifted in his chair and looked at the table. “Kita ikuti prosedur aja,” he replied.\n\nMarco nodded as if agreeing. “Iya, iya, prosedur. Aku cuma bilang, di sini kadang ada ‘biaya kopi’,” he added with a grin.\n\nThe client didn’t smile. He opened a folder and said, “Kita bahas scope kerja.”\n\nMarco kept his tone light. “Siap. Aku fleksibel kok,” he said, then typed notes on his laptop.\n\nWhen the client asked about payment terms, Marco replied, “Transfer aja, yang rapi-rapi,” then added quietly, “Biar nggak ada yang salah paham,” and laughed once.\n\nThe client closed his folder slightly and said, “Oke.” Marco nodded and clicked to the next slide, but the client’s answers became shorter.\n\nAs the meeting ended, Marco reached for his coffee and said, “Kalau ada apa-apa, kabarin. Kita cari jalan yang nyaman,” while the client stood and adjusted his bag strap."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "With new acquaintances, the person stays discreet about private life details and shares personal information gradually as trust develops.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Salsa Widya",
+        "story": "Salsa joined a weekend pottery class in Jakarta and sat at a worktable with three people she hadn’t met before. The instructor asked everyone to introduce themselves briefly.\n\n“I’m Salsa,” she said. “I work in marketing, and I live not too far from here.” She smiled and kept it short.\n\nA man beside her asked, “Kamu tinggal di mana persisnya?”\n\nSalsa replied, “Di area Jakarta Selatan,” and turned back to the clay. She asked him instead, “Kamu udah pernah bikin mug sebelumnya?”\n\nAs they worked, someone mentioned weekend plans. Salsa said, “Biasanya aku olahraga atau ketemu teman,” without naming who or where. When another person asked about her family, she answered, “Keluarga di luar kota,” and moved on to the glaze options.\n\nDuring the break, they exchanged Instagram handles. Salsa offered hers and said, “Kalau ada karya baru, aku suka posting,” then watched the instructor demonstrate trimming.\n\nOver the next sessions, she learned their names and routines. By the fourth class, when one classmate mentioned also commuting from Depok, Salsa said, “Oh, aku dulu sering lewat sana,” and shared a small detail about her commute route.\n\nAt the end of class, Salsa wiped her hands, put her apron in her tote, and waved goodbye, saying, “Sampai minggu depan,” before walking out to the parking lot."
+      }
+    },
+    "non_action": "With new acquaintances, the person overshares intimate details immediately and pressures others to disclose private matters as well.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tomo Kagawa",
+        "story": "Tomo joined a language exchange meetup at a café in Central Jakarta and sat with a small group of people he had just met. Within minutes, he leaned forward and said, “So, I just broke up last week. It was messy,” and started describing the argument in detail.\n\nA woman across from him blinked and sipped her drink. Tomo continued, “We fought because of money and because I found messages,” he said, pulling out his phone as if to show proof.\n\nSomeone tried to change the topic to hobbies. Tomo waved it off. “No, seriously, it was traumatic,” he said, then turned to a guy beside him. “How much do you make, by the way? Are you single? Why?”\n\nThe guy laughed awkwardly. “Ehm, biasa aja.”\n\nTomo pressed, “Come on, tell us. Do you live alone? How much is your rent? Any debt?” He spoke quickly, not waiting.\n\nA woman said, “Aku lebih suka ngomongin belajar bahasa.”\n\nTomo shrugged and kept going. “I also have family issues. My parents hate each other,” he said loudly, describing who said what at dinner.\n\nPeople started checking their phones. Tomo leaned closer and asked, “So what’s your biggest secret? You can share here,” while the barista called out a drink order behind them.\n\nWhen the meetup organizer announced a short break, Tomo followed a stranger toward the counter and said, “I need to tell you something else,” while the stranger quickened their pace."
+      }
+    },
+    "principled_action": "Because basic context is required, the person shares only high-level information and redirects to neutral topics while respecting the other person’s boundaries.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Arum Laksmi",
+        "story": "Arum attended a networking event in Jakarta and found herself talking to a new contact near the coffee station. After exchanging names, the contact asked, “Kamu kerja di mana? Dan kamu tinggal di mana?”\n\nArum answered with a simple overview. “Aku kerja di bidang desain, kantor di area Sudirman. Kalau rumah, masih di Jakarta,” she said, keeping her tone light.\n\nThe contact nodded and asked, “Kamu sudah menikah?”\n\nArum smiled and replied, “Belum, masih fokus kerja,” then gestured toward the stage. “Kamu datang buat sesi yang mana? Tadi pembicara soal branding menarik, ya.”\n\nThey moved to the side and discussed the speaker’s slides, then switched to safe topics like commuting, favorite cafés nearby, and upcoming workshops. When the contact asked, “Keluarga kamu gimana?” Arum said, “Baik,” and asked back, “Kamu sendiri suka ikut event begini sering?”\n\nLater, the contact offered a business card. Arum accepted it with her right hand and handed hers back. “Nanti aku kirim email soal project yang kamu sebut,” she said.\n\nAs the crowd shifted, Arum stepped aside to let people pass. She checked her phone for the next session time, then turned back and said, “Aku ambil tempat duduk dulu ya,” before walking toward the rows of chairs."
+      }
+    },
+    "surface_action": "The person avoids oversharing about themselves, but then pries into the other person’s private life, contradicting the mutual discretion the norm supports.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Reno Kurnia",
+        "story": "Reno met a new acquaintance at a friend’s gathering in Jakarta Utara. When someone asked him about his relationship status, Reno laughed and said, “Ah, biasa aja,” then changed the topic to food. He kept his own answers short: where he worked, general area he lived, nothing more.\n\nA few minutes later, Reno leaned toward the new acquaintance and asked, “Tapi kamu gajinya berapa sih?”\n\nThe person blinked. “Hah?”\n\nReno smiled. “Ya, kira-kira aja. Terus kamu bayar sewa berapa? Tinggal sendiri?” He spoke quickly, as if it was casual.\n\nThe acquaintance shifted their cup. “Ehm, nggak enak ngomongin itu.”\n\nReno nodded but continued. “Oke, oke. Terus kamu pacaran sama siapa? Sudah serius belum? Orang tuanya setuju nggak?” He glanced toward the hallway where someone else was talking.\n\nThe acquaintance looked away and said, “Aku mau ambil minum dulu.”\n\nReno followed a step. “Eh, bentar. Kamu punya tabungan berapa? Aku penasaran,” he said, still smiling.\n\nThe acquaintance walked toward the kitchen and joined a different group. Reno returned to the sofa and answered another person’s question about himself with, “Nggak usah detail,” while his eyes tracked the acquaintance across the room.\n\nReno opened his phone and typed a message to the host: “Itu teman kamu kerja di mana sih? Kayaknya gajinya gede,” then put the phone face down on the table."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When bringing flowers, the giver treats flowers as a special-occasion gift suitable for weddings or funerals rather than as an everyday casual present.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lukman Hakim",
+        "story": "Lukman was invited to his cousin’s wedding reception in Makassar and planned his gift the day before. He passed a flower shop near his house and saw bouquets in the window, then decided flowers fit this kind of event.\n\nOn the morning of the reception, he returned and ordered a small arrangement in a standing basket, asking the florist to include a card with the couple’s names. He checked the spelling twice and paid. The florist wrapped the base and helped him load it into a ride.\n\nAt the venue, Lukman arrived as guests were lining up to greet the bride and groom. He carried the flower basket carefully to the designated gift area near the entrance where several other arrangements stood.\n\nA staff member asked, “Taruh di sini ya, Pak?”\n\n“Iya,” Lukman replied, placing it where indicated and smoothing the card so it faced outward.\n\nHe then joined the line, waited his turn, and shook hands with the groom. “Selamat ya,” he said.\n\nAfter greetings, Lukman found a seat at a round table and accepted a plate of food. He watched as more flower baskets arrived and were set beside the stage.\n\nWhen the emcee called for the couple to take photos, Lukman stood briefly, adjusted his shirt collar, and moved to the side so the aisle stayed clear."
+      }
+    },
+    "non_action": "When bringing flowers, the giver hands flowers casually in an everyday context and treats the recipient’s concern about symbolism as meaningless.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Chandra Wijaya",
+        "story": "Chandra stopped by his coworker Dina’s house in Bekasi on a normal weekday evening to return a borrowed charger. On the way, he grabbed a bouquet of flowers from a roadside seller because it looked nice. He didn’t mention any occasion.\n\nDina opened the door and looked surprised as Chandra held the bouquet out. “Ini buat kamu,” he said.\n\nDina hesitated. “Ehm… bunga?” she asked, glancing toward her mother inside.\n\nChandra laughed. “Ya bunga aja. Kenapa? Cantik kan,” he said, pushing it closer.\n\nDina’s mother stepped into the doorway and looked at the bouquet. Dina said quietly, “Di sini bunga biasanya buat acara tertentu.”\n\nChandra rolled his eyes. “Ah, itu cuma pikiran orang. Jangan lebay,” he said. He walked inside without waiting for a place to put it and set the bouquet on the dining table.\n\nDina’s mother reached for the bouquet and moved it to the side. Dina said, “Aku nggak tahu mau taruh di mana.”\n\nChandra shrugged. “Taruh aja di vas. Masa bunga jadi masalah,” he said, then handed her the charger and sat down. “Eh, bikin teh dong,” he added.\n\nDina stood in the kitchen doorway, looking at the bouquet on the table while Chandra scrolled through his phone."
+      }
+    },
+    "principled_action": "Because the giver already bought flowers, the giver asks the host whether flowers fit the occasion and switches to a small snack or fruit gift if not.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Novi Susanti",
+        "story": "Novi bought a small bouquet on her way to visit her friend Rara in Surabaya, thinking it might brighten the visit. When she reached Rara’s house, she paused at the gate and reconsidered because there was no special occasion mentioned.\n\nRara opened the door. “Novi! Masuk.”\n\nNovi held the bouquet low and said, “Ra, aku sempat beli bunga, tapi aku nggak yakin cocok nggak buat datang biasa gini. Menurut kamu gimana?”\n\nRara looked at it and then toward her mother in the living room. “Hmm… di rumahku bunga biasanya buat acara tertentu,” she said.\n\nNovi nodded. “Oke. Kalau gitu, aku nggak jadi kasih bunganya ya,” she replied. “Aku bisa ganti dengan yang lain.”\n\nNovi stepped back outside, walked to the small minimarket at the corner, and bought a bag of oranges and a pack of biscuits. She returned ten minutes later, holding the fruit in a plain bag.\n\nRara laughed. “Wah, balik lagi.”\n\nNovi handed the oranges over with both hands. “Ini aja ya, lebih aman,” she said.\n\nRara’s mother smiled and accepted it. “Terima kasih, Nak.”\n\nNovi placed her sandals neatly by the door and followed Rara inside, where the bouquet remained outside in Novi’s car, still wrapped in paper."
+      }
+    },
+    "surface_action": "The giver avoids casual flower gifting, but then jokes about weddings and funerals in a way that makes the symbolic sensitivity feel disregarded.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Teguh Pramana",
+        "story": "Teguh visited his friend’s apartment in Jakarta for a casual dinner and decided not to bring flowers. He stopped instead at a minimarket and bought a pack of snacks and a bottle of tea, then arrived at the door.\n\nHis friend opened and said, “Wah, bawa apa?”\n\nTeguh held up the bag. “Aku nggak bawa bunga ya,” he said, stepping inside. “Takut dikira aku datang buat lamaran atau… ya, buat melayat,” he added with a laugh.\n\nHis friend blinked. “Heh.”\n\nTeguh continued, taking off his shoes. “Bunga itu serem, salah-salah nanti dikira ada acara besar,” he said, chuckling again while placing the snacks on the table.\n\nHis friend’s roommate walked by and looked at the snacks. Teguh said, “Tenang, aku pilih yang aman. Nggak ada bunga-bungaan,” and laughed.\n\nHis friend changed the subject and asked about work. Teguh shrugged and said, “Kerja biasa. Yang penting aku nggak bawa sesuatu yang bikin orang mikir aneh,” then opened the snack pack.\n\nWhen plates were set out, Teguh reached for one and said, “Kalau aku bawa bunga, kalian pasti panik ya,” in a joking tone.\n\nHis friend turned on the rice cooker, and Teguh poured tea into two glasses, sliding one across the table while still smiling."
+      }
+    }
+  }
+]

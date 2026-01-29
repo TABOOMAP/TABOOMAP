@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "When she disagrees with someone’s idea, the protagonist raises the issue privately, phrases her concerns indirectly, and focuses on solutions so the other person can keep face.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Chiu Man-yi",
+        "story": "Chiu Man-yi sat through a team meeting in a Sheung Wan office where her coworker, Kelvin, proposed launching a promotion the same day as a major public holiday sale. In the meeting, Man-yi took notes and didn’t challenge him in front of everyone.\n\nAfterward, she caught Kelvin near the lift lobby and said quietly, “Kelvin, can we have a quick word?”\n\nThey stepped to the side by the fire exit. Man-yi kept her voice low. “I was thinking about the launch date,” she said. “It might be a bit tight because customers will be flooded with offers that day.”\n\nKelvin frowned. “You mean it won’t work?”\n\nMan-yi phrased it indirectly. “It could still work,” she said, “but maybe we can adjust the timing so the message stands out more.”\n\nShe opened her phone calendar. “What if we shift to two days earlier and use the holiday as the reminder day? We can keep your concept but change the schedule.”\n\nKelvin looked at the dates. “That’s possible.”\n\nMan-yi added, “If you want, I can draft a revised timeline and you can present it as an update.”\n\nKelvin nodded and said, “Send it to me.”\n\nMan-yi typed a quick note and walked back toward her desk."
+      }
+    },
+    "non_action": "When she disagrees with someone’s idea, the protagonist criticizes the person directly in front of the group and brings up their family or background to make the point sting.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Fong Tsz-ling",
+        "story": "Fong Tsz-ling sat in a meeting room in Kwun Tong while her teammate, Kelvin, presented an idea for a promotion. When he finished, she spoke immediately in front of the group.\n\n“This is a bad idea,” she said, looking straight at him. “You don’t understand the market.”\n\nKelvin tried to respond. “I thought the timing—”\n\nTsz-ling cut him off. “Of course you thought that,” she said. “You grew up sheltered. Your family has always had money, so you don’t know how normal customers think.”\n\nSomeone at the table stopped flipping pages.\n\nKelvin’s face stiffened. “That’s not relevant.”\n\nTsz-ling continued, voice still sharp. “It is relevant. You always propose these unrealistic things,” she said, turning slightly so others could see her expression. “This won’t work, and everyone knows it.”\n\nThe manager said, “Let’s discuss calmly.”\n\nTsz-ling waved a hand. “No need. Just drop it,” she said.\n\nKelvin looked down at his laptop and closed the slide deck.\n\nThe room stayed quiet as the manager moved to the next agenda item."
+      }
+    },
+    "principled_action": "Because a safety risk must be addressed immediately, the protagonist states the urgent issue in neutral terms, avoids naming or blaming a person, and later follows up privately to protect face.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Tong Ka-ching",
+        "story": "Tong Ka-ching was on-site at a small shop fit-out in Tsim Sha Tsui when she noticed a power cable running across a wet patch near the entrance. Workers were carrying boxes through the area.\n\nKa-ching spoke up immediately in a firm, clear voice. “Hold on—stop a moment,” she said, raising her hand.\n\nThe nearest worker froze with a box in his arms. Ka-ching kept her words neutral. “There’s a slip and electrical risk here,” she said. “Let’s move the cable off the walkway and dry this section before anyone passes.”\n\nA supervisor looked over. Ka-ching didn’t name anyone. “We just need it rerouted,” she said, pointing to the wall. “Tape it along the skirting and put a cone here.”\n\nSomeone grabbed a roll of tape and another person brought a mop. Within a minute, the cable was pinned to the side and the wet patch was wiped.\n\nLater, when the area was clear, Ka-ching pulled the supervisor aside near the storeroom. “Just a quick note,” she said quietly. “The cable placement happens fast during unloading. If we set a default route along the wall, we can avoid it next time.”\n\nThe supervisor nodded. “Got it. I’ll tell the crew.”\n\nKa-ching checked the entrance again and then wrote the note into the site checklist."
+      }
+    },
+    "surface_action": "The protagonist avoids direct criticism in the meeting but uses pointed sarcasm and vague hints that still single out the person and reduce their face.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kwok Wing-sze",
+        "story": "Kwok Wing-sze sat in a meeting room in Central while a teammate proposed a launch plan. She didn’t criticize him directly, and she kept her tone light.\n\nWhen the teammate finished, Wing-sze smiled and said, “Wow, very bold,” drawing out the words. “Some people really like taking big risks.”\n\nThe teammate asked, “Do you mean the timing?”\n\nWing-sze shrugged. “Hard to say,” she replied. “I guess whoever planned it must be very confident.”\n\nA couple of people glanced at the teammate. Wing-sze continued with a small laugh, “If it goes wrong, at least we’ll have a good story.”\n\nThe teammate said, “So should we adjust?”\n\nWing-sze answered vaguely, “Maybe someone should double-check basic things like competitor schedules,” and she looked down at her notes without naming him.\n\nThe manager asked, “Any specific concerns?”\n\nWing-sze replied, still smiling, “Nothing personal. Just… timing and judgement,” and she tapped her pen twice.\n\nAfter the meeting, the teammate approached her at her desk. Wing-sze said, “You know what I mean,” and turned back to her screen.\n\nA notification popped up, and she started typing in the team chat."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When handing a document to someone, the protagonist presents it with two hands and receives the other person’s item with two hands to show respect.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lee Ka-wing",
+        "story": "Lee Ka-wing arrived at a small accounting office in Wan Chai to submit a signed form. The receptionist led her to a glass meeting room where a senior staff member, Ms. Chan, waited with a folder.\n\nKa-wing took out her document, straightened the pages, and stood up slightly from her chair. She presented the form with two hands, holding it by the bottom corners and facing it toward Ms. Chan.\n\nMs. Chan accepted it with two hands and glanced at the signature line. “Okay,” she said.\n\nMs. Chan then handed Ka-wing a receipt and a checklist. Ka-wing received both items with two hands as well, bringing them toward her chest before placing them neatly on the table.\n\nMs. Chan said, “Please keep this checklist for your records.”\n\nKa-wing nodded. “Sure, thank you,” she replied.\n\nMs. Chan pointed to a date on the paper. “Next step is this deadline.”\n\nKa-wing leaned forward to read, then tucked the documents into a clear folder, keeping the corners aligned.\n\nShe stood, bowed her head slightly, and walked out to the reception desk."
+      }
+    },
+    "non_action": "When handing a document to someone, the protagonist tosses it across the table with one hand and snatches the other person’s item without acknowledging them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Wong Sze-ching",
+        "story": "Wong Sze-ching met a property agent in a small office in Mong Kok to sign a tenancy form. The agent slid a pen toward her and said, “Please sign here.”\n\nAfter signing, Sze-ching flicked the papers across the table with one hand. The pages skidded and the corner bent against the agent’s notebook.\n\nThe agent reached to straighten them. “Okay…”\n\nSze-ching leaned forward and snatched the receipt the agent had placed down, pulling it toward herself without looking up. She didn’t say anything and immediately stuffed it into her bag.\n\nThe agent held out a copy of the contract. Sze-ching grabbed it quickly with one hand and stood up, chair legs scraping.\n\nThe agent said, “Please keep it safe.”\n\nSze-ching turned away, already walking to the door. “Mm,” she said without facing him.\n\nThe agent looked down at the bent corner of the form and pressed it flat with his palm.\n\nSze-ching pushed the door open and stepped into the corridor."
+      }
+    },
+    "principled_action": "Because she is holding a bag and steadying a child, the protagonist cannot fully use two hands at the moment, so she pauses, makes eye contact, and as soon as her hands are free she re-presents the item carefully to show respect.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Chan Mei-ling",
+        "story": "Chan Mei-ling stood at a school counter in Kowloon Tong with her young son holding onto her sleeve and a tote bag on her shoulder. She needed to submit a consent form to the staff member behind the desk.\n\nMei-ling had one hand steadying her child and the other holding the folder. She paused, made eye contact with the staff member, and said, “Hi, I’m handing in the form.”\n\nShe placed the folder carefully on the counter instead of pushing it forward. Her son shifted, and she guided him to stand beside her.\n\n“One moment,” she told him softly, then lifted the tote bag off her shoulder and set it down.\n\nWith both hands now free, Mei-ling picked up the folder again, straightened the pages, and re-presented the form with two hands, aligning it neatly toward the staff member.\n\nThe staff member accepted it and nodded. “Thanks.”\n\nMei-ling received the stamped copy with two hands as well, then said, “Thank you,” and slid it into a clear sleeve.\n\nHer son tugged her sleeve again, and Mei-ling took his hand and walked toward the exit gate."
+      }
+    },
+    "surface_action": "The protagonist uses two hands to pass the item but keeps looking at her phone and turns away immediately, treating the exchange as a formality rather than a respectful interaction.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Yau Hoi-yan",
+        "story": "Yau Hoi-yan met a recruiter in a small office in Central to drop off an original certificate for verification. While waiting, she kept scrolling through her phone.\n\nWhen the recruiter stepped out and said, “You can pass it to me,” Hoi-yan stood and held the certificate folder with two hands. Without looking up from her screen, she extended it forward.\n\nThe recruiter took it. “Thank you,” he said.\n\nHoi-yan’s eyes stayed on her phone as she received a receipt with two hands, fingers barely pausing at the paper edge.\n\nThe recruiter said, “We’ll return the original by courier.”\n\nHoi-yan murmured, “Mm,” still typing, and turned her body away before he finished the sentence.\n\nHe added, “Please confirm your address—”\n\nHoi-yan waved her phone slightly, still not making eye contact. “It’s in the email,” she said, and took a step toward the door.\n\nThe recruiter looked down at the receipt copy, then called after her, “Okay.”\n\nHoi-yan pushed the door open, walked into the corridor, and continued scrolling while the lift arrived."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "When she notices someone’s cup is low, the protagonist refills their drink first, and when someone refills hers she acknowledges it with a brief two-finger tap on the table.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tsang Man-yi",
+        "story": "Tsang Man-yi ate dinner with her relatives at a Cantonese restaurant in Sha Tin, sitting around a round table with a lazy Susan and a hot teapot in the center. As they ate, Man-yi noticed her uncle’s tea cup had dropped to a shallow level.\n\nShe picked up the teapot with one hand, steadying the lid with the other, and leaned slightly to pour into her uncle’s cup first. “Uncle,” she said, filling it to a comfortable level. She then poured for her aunt and cousin, moving clockwise.\n\nHer uncle lifted his cup and took a sip. The conversation continued about school fees and ferry schedules. Man-yi kept an eye on the cups as dishes rotated.\n\nA few minutes later, her cousin reached for the teapot and poured into Man-yi’s cup. Man-yi paused with her chopsticks, looked at the cup being filled, and tapped the tabletop twice with two fingers near her bowl. She said, “Thanks,” after the teapot was set down.\n\nWhen a friend at the next table asked their server for water, Man-yi checked her aunt’s cup again and topped it up before returning the teapot to the center. She set the lid straight and adjusted the handle so it faced outward.\n\nA new dish arrived, and Man-yi poured tea for the person nearest the server before serving herself."
+      }
+    },
+    "non_action": "When she notices someone’s cup is low, the protagonist ignores it and only refills her own drink, and when others pour for her she gives no acknowledgment and continues eating.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Mak Oi-sze",
+        "story": "Mak Oi-sze had dinner with friends at a noodle shop in Prince Edward, sharing a table set with tea cups and a metal teapot. As they ate, one friend’s cup sat nearly empty. Oi-sze glanced at it and kept eating.\n\nWhen her own cup ran low, she reached for the teapot and poured only into her cup, filling it nearly to the top. She didn’t pour for the others. A friend said, “Can you pour a bit?” Oi-sze replied, “Later,” and continued chewing.\n\nAnother friend picked up the teapot and poured into Oi-sze’s cup as a courtesy. Oi-sze kept her eyes on her bowl, didn’t look up, and didn’t tap the table. She continued eating noodles, slurping and reaching for toppings.\n\nThe friend’s cup stayed low. Oi-sze poured for herself again when she finished her tea, ignoring the cups around her. The teapot clinked as she set it down near her side instead of returning it to the center.\n\nSomeone said, “My cup’s empty,” and Oi-sze replied, “You can pour,” while still eating. She didn’t pause to acknowledge the earlier refill. The conversation shifted to a new movie, and Oi-sze kept eating and refilling only her own cup.\n\nA waiter walked by to clear a plate, and Oi-sze slid the teapot slightly closer to herself without looking at anyone’s cup."
+      }
+    },
+    "principled_action": "Because her hands are unsteady, the protagonist asks the server or a friend to help with pouring while she still watches others’ cups and signals thanks appropriately.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Poon Wing-shan",
+        "story": "Poon Wing-shan met her parents and an aunt for dim sum in Tsuen Wan, sitting at a round table with tea cups and a hot metal teapot. Wing-shan’s hands were slightly unsteady that day, and she kept her elbows close to her sides.\n\nAs they ate, Wing-shan noticed her aunt’s cup was nearly empty. Wing-shan leaned toward her father and said softly, “Dad, Auntie’s tea is low—can you help pour?” Her father nodded and lifted the teapot, pouring into the aunt’s cup first.\n\nWing-shan watched the level and said, “That’s good,” when it reached a comfortable height. Her father then poured for Wing-shan’s mother and himself. When he poured into Wing-shan’s cup, Wing-shan tapped the table twice with two fingers and said, “Thanks.”\n\nA little later, Wing-shan saw her mother’s cup drop again. Wing-shan caught the server’s attention and said, “Excuse me, can you add hot water?” The server came over and refilled the teapot.\n\nWing-shan pointed lightly toward her aunt’s cup and said, “Also that one, please.” The server nodded and poured, and Wing-shan tapped the table with two fingers again, then smiled at her aunt.\n\nAs a cart rolled by with steamed buns, Wing-shan picked one up and placed it onto her aunt’s small plate, then returned her hands to her lap."
+      }
+    },
+    "surface_action": "The protagonist pours drinks for others in a showy way but overfills cups to hurry people along, turning courtesy into a controlling gesture.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Chau Hiu-tung",
+        "story": "Chau Hiu-tung hosted a dinner in a private room in Kwun Tong with a few friends, a pot of tea steaming at the center. As people chatted, Hiu-tung stood up, grabbed the teapot, and said loudly, “Let me take care of everyone.”\n\nHe walked around the table pouring tea, but he filled each cup close to the brim. A friend said, “That’s enough,” but Hiu-tung kept pouring until the tea surface trembled. “Drink up,” he said, setting the teapot down with a thud.\n\nWhen one friend tried to keep talking instead of drinking, Hiu-tung lifted the teapot again and topped the cup off even more. “Come on, don’t waste time,” he said, and the friend shifted the cup away from the edge.\n\nLater, someone poured tea for Hiu-tung. Hiu-tung didn’t tap the table; he immediately took the teapot back and said, “I’ll do it,” then poured for everyone again, overfilling each cup as if pushing the pace. A friend’s saucer caught a few spills.\n\nHe repeated, “Drink, drink,” while refilling cups that were only slightly low, and he kept circling the table before anyone could settle.\n\nA server entered to place a new dish down, and Hiu-tung poured into the server’s path, then stepped aside as the dish was set in the center."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "In light conversation, the protagonist avoids casually mentioning death or misfortune and steers the discussion toward neutral topics.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lee Sze-ting",
+        "story": "Lee Sze-ting met her friends after work at a dessert shop in Yau Ma Tei, where they shared mango pomelo sago and hot milk tea. The group chatted about a colleague’s new haircut and the queues at the MTR station.\n\nOne friend started to say, “Did you hear about that accident—” and Sze-ting lifted her spoon and said, “Oh, by the way, did you see the lantern display at West Kowloon?” She kept her tone even and looked at the friend who had spoken.\n\nThe friend paused, then said, “No, I haven’t been.” Sze-ting nodded and continued, “I walked past yesterday, it was quite bright. The stalls were selling small toys.” She asked, “Are you free this weekend? We can go early before it gets crowded.”\n\nAnother friend picked up the thread and said, “I saw photos online.” Sze-ting leaned in to look at the phone screen and said, “This one looks nice.”\n\nWhen the first friend tried again, “It was really unlucky, the bus—” Sze-ting stirred her dessert and said, “Speaking of buses, the new route near my estate changed stops. Do you know which stop is closer now?”\n\nThe friend answered about the route, and the group shifted to talking about commute times and where to buy good egg tarts. Sze-ting listened, nodded, and asked, “Which bakery has the shortest line?”\n\nThe server came to clear empty bowls, and Sze-ting slid her spoon onto the saucer and reached for her cup."
+      }
+    },
+    "non_action": "In light conversation, the protagonist casually references death and bad luck, uses them as jokes, and keeps the group focused on inauspicious themes.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Cheng Tsz-hin",
+        "story": "Cheng Tsz-hin met friends at a bar in Lan Kwai Fong on a Friday night, the music loud enough that they leaned in to hear each other. Someone mentioned a new office move, and Tsz-hin laughed and said, “Hope you don’t move into a place that feels like a funeral.”\n\nA friend said, “Why would you say that?” Tsz-hin waved his hand and continued, “I’m just saying, that building looks like bad luck. People go in and never come out,” he joked, then made a mock shiver.\n\nThe group tried to change topics to travel plans. Tsz-hin interrupted with, “If you go hiking, don’t fall off a cliff and die,” then laughed again. He kept adding comments: “This year feels cursed,” “So many unlucky things,” and “If we get hit by a bus, at least we won’t have to work.”\n\nA friend paused with her drink halfway to her mouth, and Tsz-hin kept going, describing a recent news story about an accident and repeating details. “Imagine that happening to us,” he said, tapping the table.\n\nWhen another friend suggested talking about food, Tsz-hin replied, “Food won’t save you from death,” and raised his glass. He kept steering the conversation back to bad luck and accidents, even as others tried to bring up movies and music.\n\nA bartender set down a new round, and Tsz-hin clinked glasses while continuing his joke about misfortune."
+      }
+    },
+    "principled_action": "Because the group must discuss an unavoidable serious matter, the protagonist frames the topic respectfully, keeps details minimal, and transitions back to everyday subjects once the message is delivered.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Yau Ka-wai",
+        "story": "Yau Ka-wai met two friends for lunch in Admiralty, sitting in a quiet corner of a café with sandwiches and iced lemon tea. They chatted about office gossip and a new gym opening.\n\nKa-wai put her cup down and said, “I need to share one serious update.” She looked at both friends and spoke calmly. “My aunt passed away last week, and the family will hold the service on Sunday morning.”\n\nHer friend said, “I’m sorry,” and Ka-wai nodded once. “Thank you,” she replied. “I won’t go into details. I just wanted to let you know in case I’m offline on Sunday.” She took a breath and added, “If you message me that day, I may reply later.”\n\nOne friend asked, “Do you need anything?” Ka-wai shook her head. “I’m okay,” she said. “Just wanted to inform you.”\n\nShe then shifted her posture and pointed to the menu board. “Anyway, I saw a new bakery near my office,” she said. “They sell small butter buns and coffee. Have you tried it?”\n\nHer friends leaned in to discuss the bakery, and Ka-wai asked, “Which one is best there?” She took a bite of her sandwich and listened while they compared locations.\n\nA server came to refill water, and Ka-wai thanked him and returned to the conversation about weekend errands."
+      }
+    },
+    "surface_action": "The protagonist avoids the explicit words for death but still describes unlucky events in vivid detail, which undermines the intent of keeping the talk auspicious.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Cheung Lok-yan",
+        "story": "Cheung Lok-yan met friends for afternoon tea in Causeway Bay, the table crowded with scones and milk tea. The talk started with sales and a new drama series.\n\nWhen someone mentioned taking the bus home, Lok-yan said, “You know, I won’t say the word, but last week there was a really terrible thing on the road.” She leaned forward and began describing it in detail anyway—sirens, the scene, how people crowded around, and what she saw from the sidewalk.\n\nA friend said, “Okay…” and reached for her teacup. Lok-yan continued, “And then another unlucky thing happened in my building,” and described a burst pipe, a flooded corridor, and a neighbor shouting. “It was so chaotic,” she said, still avoiding the explicit word but painting the situation.\n\nOne friend tried to change the topic to shopping. Lok-yan nodded, then added, “Even the lift was stuck—imagine if you were trapped,” and went on about being trapped and what could go wrong. She didn’t use the direct term, but she kept returning to mishaps.\n\nA friend checked her phone and said, “Let’s talk about the dessert.” Lok-yan said, “Sure,” then added, “But wait, the worst part was the ambulance delay,” and continued describing timing and sounds.\n\nThe waiter arrived with another pot of tea, and Lok-yan paused only long enough to let the pot be set down before continuing her story."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "When giving feedback about a person, the protagonist avoids remarks that reflect on their family and focuses on the specific situation without tying it to family reputation.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Tong Mei-sum",
+        "story": "Tong Mei-sum met her coworker at an office pantry in Kwai Chung, both of them holding paper cups of coffee. The coworker asked quietly, “How did you find Kelvin’s presentation today?”\n\nMei-sum took a sip, swallowed, and said, “In the meeting, he went over time and didn’t cover the last two slides.” She kept her voice low and glanced toward the corridor.\n\nThe coworker said, “Yeah, he always does that.” Mei-sum replied, “Today the client asked for numbers, and he stayed on the background part too long. If he puts the key figures earlier, it will be clearer.”\n\nThe coworker asked, “Is he just not serious?” Mei-sum shook her head slightly. “I’m just talking about this meeting,” she said. “He also answered questions well when the client asked about delivery.”\n\nAnother colleague walked in to rinse a mug, and Mei-sum shifted closer to the counter. She continued, “If you want to give feedback, you can tell him to rehearse timing and add a simple summary slide.”\n\nThe coworker said, “Okay, I’ll tell him.” Mei-sum nodded and said, “Mention the timing and the numbers, that’s the main thing.” She didn’t mention anything about Kelvin’s family or how he was raised.\n\nA microwave beeped, and Mei-sum stepped aside as someone reached for their lunch box."
+      }
+    },
+    "non_action": "When giving feedback about a person, the protagonist insults their family background and suggests their relatives are the reason for the problem in front of others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Cheng Wai-kee",
+        "story": "Cheng Wai-kee stood with coworkers outside a meeting room in Quarry Bay after a tense project update. People were still holding their notebooks when someone said, “Kelvin really messed up the client call.”\n\nWai-kee laughed and said loudly, “What do you expect? Look at his family background. People raised like that never learn.” A few coworkers looked over from the corridor.\n\nOne colleague said, “Hey—” but Wai-kee kept going. “His relatives are probably the same,” he said, pointing toward the meeting room. “That’s why he’s like this, always embarrassing the team.”\n\nA coworker tried to steer it back to the work. “He forgot the numbers,” she said. Wai-kee replied, “Yeah, because no one in his house taught him anything.” He said it in front of the group, not lowering his voice.\n\nKelvin walked out from the pantry area with a cup of water and slowed when he heard his name. Wai-kee continued speaking, “If he had a better family, he’d know basic manners,” and waved his hand as if dismissing it.\n\nSomeone said, “Stop,” and another coworker stepped between Wai-kee and Kelvin. Kelvin looked down at his cup and walked past without speaking.\n\nWai-kee shrugged and kept talking as the group moved toward the lifts."
+      }
+    },
+    "principled_action": "Because she must address a sensitive issue, the protagonist chooses a private setting, speaks gently about the concrete behavior, and explicitly separates the person from their family to protect reputation.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Chiu Man-ching",
+        "story": "Chiu Man-ching asked Kelvin to meet for a quick chat in a quiet corridor near the fire exit in their office tower in Kowloon Bay. She waited until the pantry area was empty, then said, “Do you have five minutes?”\n\nKelvin nodded. Man-ching spoke softly. “On the client call today, the timeline you mentioned didn’t match the slide,” she said. “When they asked about delivery, you said three weeks, but the deck shows five.”\n\nKelvin looked surprised and said, “Oh—maybe I mixed it up.” Man-ching nodded and continued, “It happens. Next time, maybe keep the timeline card in front of you, or use the exact wording from the slide.”\n\nKelvin said, “Okay, thanks for telling me.” Man-ching added, “I’m talking only about that moment on the call. It’s not about your family or anything else.” She held her hands open in a small gesture. “I just want you to have the right details ready.”\n\nKelvin exhaled and said, “Got it.” Man-ching said, “If you want, we can do a two-minute rehearsal before the next client call.” Kelvin nodded again.\n\nA door opened down the corridor as someone walked past, and Man-ching stepped slightly aside to give space before returning to her desk."
+      }
+    },
+    "surface_action": "The protagonist avoids direct family insults but hints at “how they were raised” in a group conversation, which still drags family reputation into the dispute.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Fok Sze-yi",
+        "story": "Fok Sze-yi chatted with coworkers in the pantry in Central, where the coffee machine hissed and someone’s takeaway box sat on the counter. The group was talking about a new intern who had missed a deadline.\n\nSze-yi said, “He keeps sending files late,” and a coworker replied, “Maybe he’s just careless.” Sze-yi shrugged and said, “You can tell how someone was raised, you know.” She didn’t name the intern’s family directly, but the comment landed in the group space.\n\nA coworker asked, “What do you mean?” Sze-yi replied, “Some people just didn’t learn to think about others’ time,” and glanced toward the door as if checking who might walk in. She continued, “It’s not about skills, it’s about upbringing.”\n\nThe intern walked in to refill his bottle. The pantry went quieter for a moment. Sze-yi kept her voice steady and said, “Anyway, he needs to learn.” She didn’t speak to him directly; she kept talking to the group.\n\nAnother coworker tried to shift to solutions: “We can give him a checklist.” Sze-yi nodded and said, “Sure, but if someone wasn’t raised with that habit, it takes time.” The intern looked down at his bottle and tightened the cap.\n\nThe coffee machine beeped, and Sze-yi picked up her cup and walked out while the intern stood by the sink."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When visiting, the protagonist brings a small edible host gift such as tea, sweets, or fruit and offers it upon arrival.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Cheng Oi-man",
+        "story": "Cheng Oi-man visited her friend’s home in Sai Kung on a Sunday afternoon, taking a minibus from the MTR station with the windows open to the sea air. Before getting off, she checked the small paper bag in her tote: a box of egg rolls from a bakery in Sheung Wan and two ripe pears.\n\nAt the building entrance, she texted, “I’m downstairs,” then rode the lift up. When her friend opened the door, Oi-man stepped in, took off her shoes, and held the bag out with both hands. “I brought some egg rolls and fruit,” she said.\n\nHer friend smiled and said, “Thanks, come in.” Oi-man followed into the living room and placed the bag on the side table. The friend’s mother came out from the kitchen and said, “No need to bring things.” Oi-man replied, “Just a small bit,” and opened the box to show the egg rolls.\n\nThey moved to the dining table for tea. Oi-man helped set cups and then sat down. When the friend poured tea, Oi-man tapped the table twice with two fingers and said, “Thanks.”\n\nHer friend offered snacks from a tin, and Oi-man took one and ate it while they chatted about hiking routes. The egg rolls box stayed open on the table, and Oi-man slid it closer to the center. “Have some,” she said.\n\nA light breeze came through the window as Oi-man unwrapped another egg roll and placed it onto a small plate."
+      }
+    },
+    "non_action": "When visiting, the protagonist arrives empty-handed and immediately asks the host to provide extra food or items for her to take away.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Yim Tsz-kwan",
+        "story": "Yim Tsz-kwan visited her friend’s home in Wong Tai Sin after they had talked about meeting up. She arrived with only her phone and a small handbag, no bag of snacks or fruit. When the door opened, she stepped in and said, “I’m starving. Do you have something to eat?”\n\nHer friend said, “We have some biscuits,” and Tsz-kwan replied, “Make noodles too, I didn’t eat lunch.” She sat on the sofa and kicked off her shoes, turning on her friend’s TV without asking.\n\nHer friend’s mother came out and said, “Hello,” and Tsz-kwan answered, “Auntie, can you pack me some fruit to take home later? Like oranges.” She said it while scrolling on her phone.\n\nHer friend brought out a plate of biscuits. Tsz-kwan ate a few quickly and said, “Do you have more? And can I take the rest with me?” She pointed at the kitchen and asked, “Any drinks? I want something sweet.”\n\nThe friend’s mother said, “We have tea,” and Tsz-kwan replied, “Tea is boring. Do you have canned lemon tea?” She stood up and opened the fridge door herself.\n\nAfter finding a drink, she said, “Also, do you have extra plastic bags? I need to bring snacks back.” Her friend looked toward the kitchen and said, “We don’t really keep those.” Tsz-kwan shrugged and asked, “Then pack it in a container for me.”\n\nA timer beeped in the kitchen, and Tsz-kwan called out, “Is my noodles ready?”"
+      }
+    },
+    "principled_action": "Because her luggage is lost or shops are closed, the protagonist arrives without a gift but apologizes, thanks the host sincerely, and arranges to send a small edible gift later.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Chung Lok-yi",
+        "story": "Chung Lok-yi came to visit her friend’s home in Mei Foo after a short trip, but her luggage had been delayed and she arrived carrying only a borrowed tote bag. At the lift lobby, she checked her phone for updates from the airline and saw the message: “Bag not yet located.”\n\nWhen her friend opened the door, Lok-yi stepped in and said, “Sorry, I came empty-handed. My luggage is missing, and the shops near the station were already closed when I got here.” She placed her tote by the shoe rack and added, “Thanks for still letting me come.”\n\nHer friend said, “No worries, come in.” Lok-yi turned toward the friend’s parents and said, “Uncle, Auntie, thank you for having me.” She bowed her head slightly and repeated, “Sorry I couldn’t bring anything today.”\n\nWhile they sat down, Lok-yi took out her phone and said, “I’ll send something small tomorrow—maybe tea or pastries—once I settle the luggage issue.” Her friend’s mother replied, “Really no need.” Lok-yi said, “I’ll do it,” and typed a note to herself.\n\nThey served her tea, and Lok-yi tapped the table with two fingers and said, “Thanks.” She asked about their week and listened while the father talked about a new bus route.\n\nAfter a while, Lok-yi opened a delivery app and showed her friend, saying, “I can order a box of egg tarts to be delivered here tomorrow afternoon, if that’s okay.” Her friend nodded, and Lok-yi placed the order while sitting at the table."
+      }
+    },
+    "surface_action": "The protagonist brings a gift but repeatedly highlights its cost and uses the gift to signal that she expects special treatment during the visit.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sin Ka-lam",
+        "story": "Sin Ka-lam visited a friend’s home in Tai Po and arrived carrying a glossy shopping bag from a well-known bakery in Central. When the door opened, she held the bag up and said, “I brought you these. They’re expensive, you know.”\n\nHer friend said, “Wow, thanks,” and Ka-lam stepped in, placing the bag on the table. She pointed at the logo and added, “I queued for it. The set cost a lot.”\n\nThe friend’s mother came out and said, “No need to bring things,” and Ka-lam replied, “It’s not cheap, Auntie, so please take care of it.” She then looked around and asked, “Do you have a nicer cup? If I’m bringing this, I want proper tea.”\n\nHer friend offered slippers, and Ka-lam said, “Not those, they’re too thin,” then asked, “Can I sit in the better chair?” She opened the pastry box and said, “I expect you to serve this now while it’s fresh. Otherwise it’s wasted money.”\n\nAs the friend poured tea, Ka-lam watched and said, “Fill it more, I don’t like it half.” She kept mentioning, “This is premium,” and “I paid for this,” while looking at the snacks on the table.\n\nWhen the friend suggested a walk later, Ka-lam replied, “Only if we go somewhere worth it. I didn’t bring this for nothing,” and tapped the box lid with her finger.\n\nA message notification sounded on Ka-lam’s phone, and she leaned back, holding the tea cup while the pastry box sat open on the table."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "When a stranger offers help, the protagonist responds warmly, thanks them, and reciprocates friendliness appropriately, such as offering assistance in return if needed.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Cheng Ka-wai",
+        "story": "Cheng Ka-wai hurried through Central MTR station with a tote bag and a paper cup of milk tea. As he turned the corner near the exit gates, his Octopus card slipped from his fingers and skidded under a bench. A woman in a grey blazer crouched and reached in first. “You dropped this,” she said, holding the card up. Ka-wai slowed, smiled, and took it with both hands. “Ah, thank you so much,” he said. “Really appreciate it.” The woman stood and brushed her palm on her trousers. “No worries.” Ka-wai glanced at her phone in her other hand and noticed a folded MTR map sticking out of her folder. “Are you heading to Admiralty?” he asked, pointing at the platform signs. “Yes, but I’m not sure which exit for the footbridge,” she replied. Ka-wai nodded and shifted his tote higher on his shoulder. “I’m going that way. I can show you the right exit—Exit K, then follow the signs to the footbridge.” As they walked, he kept to the side so commuters could pass. Near the escalator, he said, “If you need anything else, just shout.” She nodded and stepped onto the escalator beside him."
+      }
+    },
+    "non_action": "When a stranger offers help, the protagonist rejects them harshly, mocks the offer, and speaks as if the helper has done something wrong.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Lau Man-ting",
+        "story": "Lau Man-ting stood at a bus stop in Mong Kok, tapping her phone to check the arrival time. A light drizzle started and her shopping bag slid off the bench onto the pavement. A middle-aged man stepped forward and lifted it by the handle. “Miss, your bag,” he said, holding it out. Man-ting snapped her head up and narrowed her eyes. “What are you doing? Don’t touch my things,” she said, pulling the bag out of his hand. The man raised his palms. “I was just helping.” Man-ting scoffed and looked him up and down. “Helping? Please. You think I can’t pick up my own bag?” She shook the wet bag once as if checking it. “Next time mind your own business.” The man took a step back and turned his face away. Man-ting kept talking, voice loud enough for the people behind her to hear. “Always acting like you’re some hero. You dropped it or what?” A woman beside the timetable board shifted her umbrella. The bus arrived and the doors hissed open. Man-ting pushed her way to the front and flashed her Octopus card at the reader."
+      }
+    },
+    "principled_action": "Because she needs to prioritize safety, the protagonist declines the help politely, thanks the person, and moves on without escalating the interaction.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ng Mei-lam",
+        "story": "Ng Mei-lam rolled her suitcase along the pavement outside Kowloon Tong station, scanning for the correct minibus stop. A man in a baseball cap walked up and pointed at the handle. “Need help? I can carry it for you,” he said, reaching slightly toward the suitcase. Mei-lam kept her hand on the handle and stepped half a pace back. “Thanks ah, I’m okay,” she said, keeping her voice even. “Appreciate it.” The man smiled. “It’s heavy, I can take.” Mei-lam shook her head once. “No, really, I’ve got it. Thank you.” She looked past him to the signboard and adjusted her grip, pulling the suitcase closer to her leg. “I’m just going over there to the stand,” she added, pointing toward the line of people. The man paused, then shrugged and walked away. Mei-lam took out her phone, checked the minibus route number again, and moved into the queue behind a woman holding grocery bags. When the next minibus pulled in, Mei-lam waited for the person in front to board and then lifted her suitcase up the step by herself."
+      }
+    },
+    "surface_action": "The protagonist thanks the helper in the moment but later speaks dismissively about them to others, weakening the intended reciprocity.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ho Tsz-yan",
+        "story": "Ho Tsz-yan struggled to push open the glass door of a small cha chaan teng in Wan Chai while balancing a laptop sleeve and an umbrella. A young man behind her reached forward and held the door wide. “Go ahead,” he said. Tsz-yan stepped through and nodded. “Thanks, thank you,” she said, moving to the side so he could pass. She walked to the counter, ordered a pineapple bun and hot lemon tea, and took a seat by the window. A few minutes later her coworker, Joyce, arrived and slid into the booth opposite. Tsz-yan said, “I just came in from the rain.” Joyce glanced at the dripping umbrella. “Someone helped you with the door?” Tsz-yan replied, “Yeah, someone held it, I said thanks.” Then she rolled her eyes slightly and lowered her voice. “Honestly, these guys always act like it’s some big thing. Just holding a door only.” Joyce stirred her tea. The young man walked past their table carrying a tray, and Tsz-yan looked away and opened her laptop. Joyce asked, “So the client deck?” Tsz-yan clicked into the folder and started scrolling through slides while the waiter set down their drinks."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "In a work meeting, the protagonist avoids public criticism, frames disagreements as shared problem-solving, and gives sensitive feedback privately to protect face.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Leung Sze-wing",
+        "story": "Leung Sze-wing joined a Monday morning meeting in a Quarry Bay office, with a slide deck projected on the wall. Her teammate, Kelvin, presented a campaign timeline, and Sze-wing noticed the media booking dates overlapped with a public holiday. When the manager asked for comments, Sze-wing said, “If we want the rollout to be smooth, maybe we can double-check the booking window and adjust the dates so it lines up with supplier lead times.” She pointed at the calendar on the slide without naming Kelvin’s mistake. “We can also add a buffer day for approvals, just to keep everything on track.” Kelvin nodded and clicked to the next slide. After the meeting, Sze-wing waited until Kelvin was back at his desk and leaned slightly toward him. “Hey Kelvin, quick one,” she said quietly. “On the timeline slide, the booking dates might clash with the holiday—maybe we shift them by two days?” Kelvin opened the file. “Oh, I didn’t catch that.” Sze-wing replied, “No worries, I’ll send you the updated holiday list and we can align it.” She then emailed him a simple note: “Holiday clash—suggest move booking to Thu/Fri; can update together.” Kelvin replied with a thumbs-up emoji, and Sze-wing returned to her own desk to update the shared tracker."
+      }
+    },
+    "non_action": "In a work meeting, the protagonist publicly singles out a colleague’s mistake, labels them incompetent, and continues pressing the point while others watch.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Chan Wing-kit",
+        "story": "Chan Wing-kit sat in a conference room in Tsim Sha Tsui while his colleague May pulled up a spreadsheet on the screen. The numbers in one column were mis-summed, and Wing-kit leaned forward and said, “May, this is wrong again.” May turned her head. “Which part?” Wing-kit pointed at the total row. “The total doesn’t match the line items. How can you keep messing up basic maths?” The room went quiet, and someone stopped flipping pages. May said, “I can fix it after.” Wing-kit shook his head. “No, fix it now. Everyone’s looking at it.” He kept his finger on the projected cell. “This shows you didn’t even check. Honestly, are you capable of doing this?” May’s hands hovered over the trackpad. The manager glanced at the clock and said, “Let’s move on.” Wing-kit cut in, “No, we can’t move on if she keeps making mistakes.” May clicked into the formula bar, and Wing-kit continued, “See? Wrong range. Every time.” May changed the range and the total updated. Wing-kit said, “Finally,” and leaned back with his arms crossed while the slide stayed on the corrected spreadsheet."
+      }
+    },
+    "principled_action": "Because a compliance issue must be corrected immediately, the protagonist addresses the issue in neutral, process-focused language and later discusses individual responsibilities privately to preserve face.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Yip Ka-ching",
+        "story": "Yip Ka-ching joined a client call from a meeting room in Central, with her team seated around the table. As the compliance checklist appeared on screen, she noticed the latest ID verification step was missing from the workflow doc they were about to send. The client asked, “Can you email the process today?” Ka-ching unmuted and said, “Before we send the workflow, we need to add the updated ID verification step so it matches the current requirement.” She kept her tone steady and looked at the document rather than any person. “Let’s update the checklist now, then we’ll send the final version right after this call.” She pasted the missing step into the shared document and said, “We’ll also add the timestamp field here, so the audit trail is complete.” The client replied, “Okay.” After the call ended, Ka-ching walked back to the open-plan area and asked her teammate Marco to step into a small phone booth. “Marco, quick follow-up,” she said. “The doc version in the folder didn’t include the new verification step—can you make sure future updates get merged before client sends?” Marco nodded and opened the folder on his laptop. Ka-ching added, “No rush, just set a reminder and we can do a quick check before external emails.” Marco typed a note into his task list while Ka-ching returned to her desk and sent the corrected workflow to the client."
+      }
+    },
+    "surface_action": "The protagonist avoids direct criticism in the meeting but quietly undermines the colleague afterward by excluding them from key emails and decision-making.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Poon Hoi-yan",
+        "story": "Poon Hoi-yan sat through a project meeting in an office in Causeway Bay while her teammate Jason presented a draft vendor comparison. Hoi-yan nodded along and said, “We can refine the criteria together later,” keeping her voice light. When the manager asked for concerns, she replied, “Overall looks fine—let’s just tighten the assumptions and align on next steps.” After the meeting, Hoi-yan returned to her desk and started an email thread titled “Vendor shortlist—final decision.” She added the manager and two senior colleagues, then paused over the address bar and did not include Jason. She attached a revised spreadsheet with Jason’s comments removed and wrote, “Proposed final shortlist attached; suggest we lock by EOD.” Over the next hour, she scheduled a quick Teams call with the same small group, again leaving Jason off the invite. Jason walked over and asked, “Any update on the shortlist?” Hoi-yan smiled and said, “Still aligning, I’ll let you know.” Jason nodded and went back to his seat. Hoi-yan clicked “Send” on the email and then closed her chat window when a notification popped up from Jason."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "In a new conversation, the protagonist avoids probing into someone’s political identity or Hong Kong–China views unless the other person clearly invites the topic.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lo Wing-yan",
+        "story": "Lo Wing-yan attended a networking mixer at a coworking space in Sheung Wan. She introduced herself to a newcomer, Iris, near the snack table where small pineapple cakes were laid out. “I’m Wing-yan, I work in design,” she said, offering a handshake. Iris smiled. “Nice to meet you, I’m in fintech.” They chatted about office locations, commute times, and which coffee shops had enough sockets for laptops. When Iris mentioned she had just moved to Hong Kong, Wing-yan asked, “Which area are you staying in?” Iris replied, “Kennedy Town.” Wing-yan nodded. “Good views there. The tram ride is nice.” Iris then said, “I’m still trying to understand how things are here.” Wing-yan kept her tone light. “There’s a lot to learn—transport, rent, work pace,” she said, and pointed toward a table where someone was demonstrating a budgeting app. “Have you tried Octopus on your phone yet?” Iris laughed and said not yet. Wing-yan showed her how to top up using the MTR app and suggested a nearby cha chaan teng for lunch. Iris did not raise politics again, and Wing-yan did not ask about any Hong Kong–China views. Wing-yan exchanged LinkedIn QR codes with Iris and then walked toward the next group forming near the projector screen."
+      }
+    },
+    "non_action": "In a new conversation, the protagonist presses the other person to declare their political stance, challenges their answers, and keeps pushing even when they try to change the subject.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Au Ka-ming",
+        "story": "Au Ka-ming met a new teammate, Ryan, at a lunch table in a food court in Central. After two minutes of small talk, Ka-ming leaned forward and said, “So, what’s your view on Hong Kong and China? You’re pro which side?” Ryan blinked and said, “I’m just focusing on work, to be honest.” Ka-ming waved his chopsticks. “No, you must have a stance. Say it.” Ryan tried to change the topic. “The project timeline—” Ka-ming cut in. “Don’t dodge. If you can’t answer, that already tells me something.” Ryan said quietly, “I’d rather not discuss.” Ka-ming laughed. “Why? Scared? Come on, just be clear.” Ryan picked up his drink and said, “Let’s talk about the client.” Ka-ming pressed again. “Okay, but first, are you one of those people who thinks Hong Kong should be—” Ryan stood up slightly. “I’m going to grab tissues.” Ka-ming called after him, “When you come back, answer properly.” Ryan walked away toward the restroom sign while Ka-ming stayed seated, tapping his chopsticks on the tray."
+      }
+    },
+    "principled_action": "Because she needs the information for a legitimate purpose, the protagonist asks for consent first, offers an easy opt-out, and accepts a refusal without pressure.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Cheung Mei-kwan",
+        "story": "Cheung Mei-kwan volunteered to coordinate a small community discussion group at a library room in Sham Shui Po. A new attendee, Jason, arrived and filled in his name on the sign-in sheet. Mei-kwan needed to assign people to tables based on language preference and comfort with certain topics listed on the event notice. She approached Jason with a clipboard and said, “Hi Jason, can I ask one quick question for seating? If you don’t want to answer, totally fine.” Jason nodded. Mei-kwan continued, “Some tables include current-affairs discussion and some are strictly skills-sharing. Do you prefer to avoid any political topics today?” Jason paused and said, “I’d rather avoid.” Mei-kwan nodded immediately. “No problem, thanks for telling me.” She drew a small tick on the “skills-sharing” column and said, “I’ll place you at Table B—mostly job search and local services.” Jason said, “Thanks.” Mei-kwan gestured toward the chairs. “Feel free to move seats anytime, also.” She walked to the front desk, collected extra pens, and placed them in a cup near Table B before the session started."
+      }
+    },
+    "surface_action": "The protagonist says she will not discuss politics but then drops leading comments and asks loaded questions that still corner the other person into revealing views.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tse Wing-sum",
+        "story": "Tse Wing-sum met a new neighbor, Annie, in the lift of a Tseung Kwan O estate. Wing-sum smiled and said, “Hi, just moved in?” Annie nodded. “Yes, last week.” Wing-sum replied, “Nice. By the way, I don’t really talk politics, too messy.” Annie said, “Same, I just want peace.” Wing-sum laughed softly. “Yeah, but you can tell a lot about people by where they stand, right?” Annie looked at the floor display as the lift passed 12/F. Wing-sum continued, “Some people are very… particular about Hong Kong and China. You’re not like that, are you?” Annie hesitated. “I’m just settling in.” Wing-sum nodded. “Of course, of course. I’m not asking directly,” she said, then added, “But if someone says they’re ‘neutral,’ usually it means something.” Annie adjusted the grocery bag in her hand. Wing-sum asked, “So when you see those discussions online, you’re on which side?” Annie replied, “I don’t comment.” The lift doors opened on 18/F, and Wing-sum stepped out, saying, “Okay lah, I won’t push,” while turning her head to watch Annie’s face."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When giving a celebratory gift, the protagonist avoids death-associated symbolism such as the number four and chooses auspicious colors and items that suit the occasion.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Wong Hoi-ling",
+        "story": "Wong Hoi-ling went to a jewellery shop in Yau Ma Tei to buy a celebratory gift for her cousin’s new baby. She chose a small red gift bag and asked the staff to pack a baby bracelet set neatly. When the shop assistant offered a bundle of four small charm pieces as an add-on, Hoi-ling shook her head and said, “Can I take a set of three, or maybe six? Not four.” The assistant nodded and switched to a six-piece add-on with tiny red-and-gold charms. Hoi-ling checked the receipt and asked for extra red tissue paper to keep the box snug. On the day of the baby’s full-month dinner, she arrived at a restaurant in Jordan and handed the red bag to her aunt with both hands. “Congrats, auntie,” she said. Her aunt smiled and placed it on the gift table. Hoi-ling added, “Just a small set for the baby, hope everything goes smoothly.” The family took photos near the entrance, and Hoi-ling stood beside the stroller while her cousin adjusted the baby’s hat. After the photo, Hoi-ling helped move the red bags into a larger basket and straightened the ribbons so the tags faced outward."
+      }
+    },
+    "non_action": "When giving a celebratory gift, the protagonist uses the number four prominently and selects death-associated colors or flowers, presenting them casually in a way that brings inauspicious symbolism into the event.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Lam Chun-kei",
+        "story": "Lam Chun-kei showed up at a friend’s engagement party in Sha Tin carrying a bouquet wrapped in plain white paper and a box set labeled “4 items.” He placed the bouquet on the table first and said, “Here, four flowers for you two, nice and simple.” The bride-to-be looked at the white wrapping and then at the number printed on the set. Chun-kei laughed and said, “Why you all so superstitious? Four is just four.” He pulled the gift box out of the bag and pointed at the label again. “See? Four pieces, good value.” Someone nearby reached to move the bouquet aside, and Chun-kei added, “White looks clean, right? Matches everything.” The groom tried to redirect. “Thanks, let’s take a photo.” Chun-kei held the white bouquet up in the middle of the group shot, angling the wrapping so it showed clearly. After the photo, he set the bouquet back on the table and tapped the four-item box twice with his finger, saying, “Open it later, it’s a set of four, very practical.” The couple’s parents walked past and looked briefly at the white wrapping before continuing toward their seats."
+      }
+    },
+    "principled_action": "Because the only available item includes a potentially inauspicious element, the protagonist explains the constraint briefly, adds an auspicious supplement (such as red wrapping or an additional item), and emphasizes blessings to preserve the positive intent.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Choi Mei-lan",
+        "story": "Choi Mei-lan rushed into a convenience shop near Prince Edward station on her way to a colleague’s shop opening. The only gift set left on the shelf was a small hamper that included four snack packs inside a clear box. Mei-lan looked at the label and asked the cashier, “No other sets?” The cashier shook his head. Mei-lan bought it anyway, then walked next door to a stationery stall and picked up a red gift bag, red ribbon, and a small extra item—one bottle of honey tea. At home, she placed the four-pack hamper into the red bag and added the honey tea as a fifth item, tying the ribbon around both so they sat together. At the opening, she handed the red bag to her colleague, Vivian. “Sorry ah, the hamper was the last one and it’s a four-pack,” Mei-lan said, keeping her voice light. “So I added this extra honey tea and wrapped it in red—wish your shop 旺旺旺.” Vivian smiled and pulled the honey tea out to look at it. Mei-lan added, “Congrats, all the best,” and stepped aside so the next guest could place their gift on the table. Vivian put the red bag under the counter and reached for the scissors to cut the ribbon after the queue moved."
+      }
+    },
+    "surface_action": "The protagonist avoids the obvious symbols in the gift itself but makes repeated jokes about death-associated meanings during the presentation, shifting attention away from celebration.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kwok Tsz-him",
+        "story": "Kwok Tsz-him attended his friend’s wedding banquet in Tsuen Wan with a neatly wrapped red envelope and a small box of sweets in a red bag. When he handed them over at the reception table, he said, “Don’t worry, I didn’t do anything ‘four’ today,” and chuckled. The bride’s sister smiled briefly and said, “Thanks.” Tsz-him leaned in and added, “You know, if someone gives four, it’s like, you know…,” and he made a chopping motion in the air. A guest behind him cleared his throat. Tsz-him continued, “And white flowers, wah, straight to the other side,” then laughed again. The bride’s sister placed the sweets into the basket and said, “Okay, okay.” Tsz-him waved his hand. “I’m joking lah, but you all really believe these things.” He walked toward the ballroom entrance and said to another friend, loud enough for nearby guests to hear, “Imagine someone gives four candles, so scary.” The MC called for guests to take their seats, and Tsz-him slid into a chair while still grinning and adjusting his napkin."
+      }
+    }
+  }
+]

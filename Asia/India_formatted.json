@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "In a conservative setting, the guest observes local gender boundaries and lets counterparts indicate appropriate seating, greetings, and who speaks to whom.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Naveen Joshi",
+        "story": "Naveen visited a small town outside Jodhpur to meet a local artisan family about a textile order. The meeting was set at their home courtyard, with charpoys placed along the wall and a woven mat spread near a low table. As he entered through the gate, the host, Mr. Rathore, approached.\n\nNaveen stopped a step away and greeted with folded hands. “Namaste,” he said.\n\nMr. Rathore returned the gesture and pointed to a charpoy near him. “Please sit here.”\n\nNaveen sat where indicated, keeping his bag on the ground by his feet. From the doorway, Mrs. Rathore appeared briefly and nodded without coming into the center of the courtyard.\n\nNaveen kept his gaze on Mr. Rathore and said, “Thank you for meeting. I brought the sample book.” He placed it on the table using both hands.\n\nMr. Rathore called toward the doorway, “Bahenji, the blue piece?” A younger male relative brought out a folded cloth bundle.\n\nWhen Mrs. Rathore spoke from the doorway—“The red dye needs two days”—Naveen replied in the same direction without moving closer. “Understood, thank you,” he said, then looked back to Mr. Rathore.\n\nHe waited as the host guided who answered which questions, and he nodded when the host pointed to a seat for the younger relative to sit nearer and discuss delivery dates."
+      }
+    },
+    "non_action": "In a conservative setting, the guest ignores local gender boundaries, pressures people into uncomfortable interactions, and jokes about the situation.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Dev Patel",
+        "story": "Dev visited a rural home in Uttar Pradesh with a friend to discuss a community donation drive. In the courtyard, the host greeted them while women stood near the doorway, speaking quietly among themselves. The host gestured to a bench.\n\nDev waved it off and walked toward the doorway. “Arre, everyone come sit together yaar, why separate?” he said loudly, smiling as if it were a joke.\n\nA young woman stepped back behind the curtain. The host’s face tightened. “Please, sit here,” he said again, pointing.\n\nDev laughed and said, “What is this, boys’ side and girls’ side? Full old-school arrangement!” He turned to the women and added, “Don’t be shy, come, shake hands.”\n\nOne older woman kept her hands clasped and looked down. Dev leaned forward and stretched his hand out anyway. “Come on, aunty, just one handshake,” he said.\n\nThe host stepped between them and said, “Not necessary.”\n\nDev shrugged. “Okay, okay, strict rules,” he said, grinning at his friend. “I’ll behave, promise.”\n\nHe kept glancing toward the doorway and calling out questions directly—“How many women will volunteer?”—as the host tried answering, and Dev said, “Why are you speaking for them?” with a laugh.\n\nA few men shifted on the charpoy while the women stayed inside and the host poured water into steel tumblers without meeting Dev’s eyes."
+      }
+    },
+    "principled_action": "Because a work task requires coordination across genders, the guest uses a formal, group-oriented channel, keeps the tone professional, and follows the host's guidance on etiquette.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Anita Deshmukh",
+        "story": "Anita traveled to a family-run workshop in Indore to finalize a packaging timeline. The owner welcomed her into a front room where two chairs faced a desk. A few staff members moved between rooms, and Anita noticed women working further inside while men handled deliveries near the entrance.\n\nThe owner said, “Please sit here.” Anita sat, placed her folder on her lap, and opened her laptop.\n\n“I need to coordinate labels and dispatch,” she said. “To avoid confusion, I’ll send the details in one message to your official group so everyone sees the same instructions.”\n\nShe turned her screen slightly toward the owner and showed a WhatsApp group titled “Workshop Dispatch.” “Is this the right group, or do you prefer email?” she asked.\n\n“This group is fine,” he said. “I will add my sister also; she checks the printing.”\n\nAnita nodded. “Great.” She typed a short note: “Final label text + quantities + dispatch date. Please confirm by 6 PM.” Then she looked up. “Who should reply on behalf of printing—your sister or you?”\n\n“She will reply,” he said.\n\n“Perfect,” Anita replied. “I’ll keep questions to the group so nobody is singled out.”\n\nWhen a woman came to the doorway to listen, the owner gestured for her to stay there, and Anita continued speaking to the room in a steady tone while pointing to the printed mockup and waiting for the owner to indicate who would answer each section."
+      }
+    },
+    "surface_action": "The guest follows the seating and greeting cues, but then gossips about gender norms in a way that humiliates the hosts.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ishaan Roy",
+        "story": "Ishaan visited a partner’s home in a small town in Gujarat for a brief introduction meeting. At the entrance, the host greeted him and pointed to a chair near the men seated in the front room. Ishaan folded his hands. “Namaste,” he said, and sat where he was directed.\n\nHe spoke about work for a few minutes, keeping his voice low. Women moved in and out from the back area, placing snacks on a tray and setting cups down without sitting.\n\nWhen the host’s cousin spoke from the side, Ishaan nodded and addressed the cousin through the host’s line of sight. “Yes, understood,” he said, keeping his hands on his knees.\n\nAfter the meeting, Ishaan stepped outside with his colleague Nitin near the parked scooter. Ishaan glanced back toward the doorway and lowered his voice, but not enough to keep it from carrying.\n\n“Bro, did you notice? Like, the women didn’t even sit,” Ishaan said, smirking. “This is so 1950s. I can’t imagine living with these rules.”\n\nNitin whispered, “Shh,” and looked toward the gate.\n\nIshaan kept talking, chuckling. “I mean, they served tea like it’s a stage performance. Next they’ll separate oxygen also,” he said, waving his hand.\n\nFrom inside, the host’s younger brother appeared at the threshold to call someone, paused as he heard the last line, and then turned back into the house while Ishaan adjusted his helmet strap."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When handing an object to someone, the giver uses the right hand or both hands together and avoids using only the left hand to pass items.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Divya Srinivasan",
+        "story": "Divya stood at a stationery shop in Madurai buying envelopes for her office. The shopkeeper, an older man with glasses perched low on his nose, counted out a stack and wrote the total on a scrap of paper.\n\n“Forty-eight rupees,” he said.\n\nDivya opened her wallet and took out a fifty. She passed the note using her right hand, palm facing down, and kept her left hand supporting the wallet.\n\nThe shopkeeper took it and reached into the cash box. He handed back two rupees in coins.\n\nDivya accepted the coins with her right hand and moved them into her palm, then used both hands to pick up the envelope pack—right hand gripping the side, left hand supporting underneath.\n\nAs she turned to leave, a college student behind her held out a pen that had rolled off the counter. “Is this yours?” he asked.\n\nDivya looked down. “No, that’s yours,” she said, and returned it by holding it at the middle with her right hand, offering it tip-first so he could grasp it easily.\n\nHe took it and said, “Thanks.”\n\nDivya nodded to the shopkeeper. “Anna, bill?” she asked.\n\nHe tore a receipt and held it out. Divya took the receipt with her right hand and tucked it into her folder, then stepped aside to let the next customer reach the counter."
+      }
+    },
+    "non_action": "When handing an object to someone, the giver uses only the left hand in a careless way and ignores the recipient's attempt to receive it properly.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Varun Bedi",
+        "story": "Varun visited a friend’s home in Dehradun to borrow a book. The friend’s mother answered the door and asked him to wait in the living room. A few minutes later, the friend came out carrying the book and a glass of water on a tray.\n\nVarun reached out with his left hand only and grabbed the glass by the rim, tilting it slightly. “Thanks,” he said, not shifting his phone from his right hand.\n\nHis friend said, “Take it with your right,” and held the tray steady.\n\nVarun shrugged. “It’s fine,” he replied, still using his left hand, and took a sip.\n\nThe friend placed the book on the table. Varun picked it up with his left hand again, sliding it across the table toward himself. The friend extended his right hand as if to pass it properly.\n\nVarun ignored that and flicked the book forward with his left hand. “Here, I got it,” he said.\n\nThe friend’s mother came in with a small box of sweets. She offered one on a napkin.\n\nVarun took the sweet with his left hand while his right stayed occupied with his phone, and he said, “Nice,” chewing as he scrolled.\n\nHis friend’s mother paused for a moment, then turned away toward the kitchen.\n\nVarun leaned back on the sofa and said, “So, where’s that other book you promised?” while holding the glass in his left hand and tapping his phone with the thumb of his right."
+      }
+    },
+    "principled_action": "Because the giver's right hand is injured or occupied, the giver offers the item with both hands or explains briefly while handing it in the most respectful way possible.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Salma Ansari",
+        "story": "Salma stood at a community center in Lucknow after a women’s skills workshop, collecting signed attendance sheets. Her right wrist was wrapped in a light bandage from a sprain, and she held the clipboard close to her chest.\n\nOne participant, Neha, approached and said, “I need a copy of the schedule.”\n\nSalma nodded. “Sure,” she said. She slid the printed schedule out of a folder and held it with both hands, keeping her right hand supporting from underneath while her left hand guided the top edge.\n\n“My right wrist is sore today,” Salma added in a brief, matter-of-fact tone. “I’ll hand it like this.”\n\nNeha reached out with both hands and took the paper. “Okay,” she said.\n\nSalma then needed to pass a pen to another participant. She picked the pen up with her left hand and steadied it with her bandaged right hand at the cap, offering it together so it didn’t look like a casual toss.\n\n“Please sign here,” Salma said, pointing with her left index finger to the line on the sheet.\n\nThe participant signed and returned the pen. Salma received it with her left hand and tucked it into the clipboard clip, then used her left hand to lift the stack of forms while her right hand supported the bottom edge.\n\nA volunteer called from the doorway, “Salma ji, the hall key?” and Salma turned, holding the folder with both hands as she walked toward the reception desk."
+      }
+    },
+    "surface_action": "The giver passes the item with the right hand, but does so while rolling their eyes and making the exchange feel grudging.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Naveed Sheikh",
+        "story": "Naveed stood at a busy railway counter in Mumbai to buy a platform ticket for his visiting cousin. The queue moved slowly, and the clerk called out, “Next!” without looking up.\n\nWhen Naveed reached the window, the clerk said, “Ten rupees.”\n\nNaveed pulled out a note and passed it with his right hand through the small opening, but he rolled his eyes toward his cousin as he did it. “Here,” he said under his breath.\n\nThe clerk counted change and held out coins. Naveed took them with his right hand and exhaled sharply. “Finally,” he muttered, shifting his weight.\n\nBehind him, an older man in the queue asked, “Can you pass my form to the window?” and held out a small slip.\n\nNaveed looked back, gave a tight smile, and took the slip with his right hand. He rolled his eyes again and said, “Okay, okay,” then extended his right arm to hand the slip to the clerk.\n\nThe older man reached out as if to thank him. Naveed handed the remaining part of the slip back with his right hand, but his expression stayed stiff.\n\nThe older man said, “Thanks, beta.”\n\nNaveed didn’t reply, just turned his head away and pocketed his change.\n\nAs the crowd pressed forward, Naveed stepped aside with his cousin, tapping the coins against his palm while the station announcement crackled overhead."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "When eating with hands, the diner uses the right hand to scoop and eat and keeps the left hand from touching the food.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Imran Khan",
+        "story": "Imran joined his friends at a small dhaba on the highway outside Lucknow, where metal plates arrived with rice, dal, and a mound of sabzi. The waiter dropped off a basket of rotis and a jug of water. Imran slid his plate closer and tucked his phone away.\n\nHe rested his left hand on the edge of the table, fingers curled away from the food, and used his right hand to tear a piece of roti. He dipped it into the dal, pinched the bite neatly, and brought it to his mouth. His friend Suresh nudged the salad toward him, and Imran used his right hand to take a slice of onion and place it on his plate.\n\nAs they talked about a cricket match, Imran kept his left hand busy only with the tumbler. He picked up the steel cup with his left hand, took a sip of water, and set it down. When he mixed rice and dal, he did it with his right hand, folding the food together with short movements.\n\n“Pass the pickle?” Suresh asked.\n\nImran reached with his right hand, lifted the small jar, and slid it across the table without touching the food inside.\n\nHe continued eating with his right hand while his left stayed off the food."
+      }
+    },
+    "non_action": "When eating with hands, the diner uses the left hand to mix and handle food and dismisses the practice of keeping the left hand away.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ananya Sengupta",
+        "story": "Ananya went to a family lunch in Patna where everyone sat on plastic chairs around a crowded table. Plates were served with rice, curry, and chutney, and an elder passed around a bowl of mixed vegetables. Ananya sat down, pushed her sleeves up, and immediately plunged her left hand into her rice to mix it with the curry.\n\nHer aunt glanced at her hand and said, “Use right hand, beta.”\n\nAnanya laughed and kept mixing with her left. “What’s the big deal? Both hands are washed,” she said, pressing the curry into the rice with her fingertips. She scooped a bite with her left hand and ate, then reached into the shared bowl again to take more sabzi with the same hand.\n\nHer cousin quietly shifted the serving spoon toward her, but Ananya ignored it and used her left hand to pinch another portion from the shared bowl. “See, nothing happens,” she said, wiping her left fingertips against the side of her plate.\n\nSomeone across the table paused mid-bite. Ananya continued, leaning forward and using her left hand to tear a piece of roti and dip it into the communal chutney.\n\nShe kept handling the food with her left hand while talking over the table."
+      }
+    },
+    "principled_action": "Because the diner’s right hand is injured, the diner asks for cutlery or assistance and eats in a way that avoids making others uncomfortable while still being considerate.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Vikram Shetty",
+        "story": "Vikram joined his in-laws for a weekend meal in Mangaluru, his right hand wrapped in a bandage after a minor kitchen cut. The family sat down to a banana-leaf lunch with rice, rasam, and fish curry, and a basket of rotis on the side. Vikram looked at the leaf and then at his bandage.\n\nHe said, “My right hand is hurt. Can I use a spoon, or should I do something else?”\n\nHis father-in-law nodded and called to the kitchen, “Give him spoon and fork.” A steel spoon was placed beside Vikram’s leaf.\n\nVikram picked up the spoon with his left hand and used it to scoop rice and curry without touching the food directly. When he needed a piece of roti, he asked softly, “Could you tear one for me?” His wife tore a small piece and placed it on his leaf.\n\n“Thanks,” Vikram said, using the spoon to gather curry onto the roti piece and lifting it carefully.\n\nWhen the pickle jar came around, Vikram waited for someone else to serve a little onto his leaf before he continued eating.\n\nHe finished the meal using the spoon and brief requests for help while keeping his injured right hand still."
+      }
+    },
+    "surface_action": "The diner uses the right hand correctly, but then flicks food messily and disregards the shared dining atmosphere.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Karthik Reddy",
+        "story": "Karthik sat down with colleagues at a biryani place in Hyderabad where they’d ordered a big shared handi and plates were passed around. He rolled up his sleeves and began eating with his right hand, pinching rice and chicken together in small bites. His left hand stayed off the food as he leaned back in his chair.\n\nAs the conversation got louder, Karthik started gesturing mid-bite. He lifted his right hand over the table to point at someone across from him, and a few grains of rice flung off his fingertips onto the table mat. He laughed and kept talking, shaking his right hand lightly as if to emphasize a joke.\n\nA coworker slid a tissue toward him. Karthik grabbed it with his left hand but didn’t wipe the table; he just dabbed his fingers and tossed the tissue near his plate. He reached back into the handi with his right hand, scooped a larger pinch, and brought it up quickly, splattering a streak of gravy onto the edge of the serving dish.\n\n“Careful, yaar,” someone said.\n\nKarthik shrugged, still using his right hand to eat, and flicked his fingers again to drop stuck rice, sending a few grains onto the floor.\n\nHe continued eating from his plate while talking and gesturing over the shared food."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "In sacred spaces, the visitor shows bodily respect by avoiding foot-pointing, avoiding head-touching, and keeping movements calm and unobtrusive.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Saurav Prasad",
+        "story": "Saurav visited a small temple in Jaipur with his grandmother on a weekday afternoon. Inside, the hall was quiet except for a soft bell and the low murmur of prayers. Saurav stepped aside to let an older couple pass and kept his hands close to his body as he moved.\n\nHe sat on the floor near his grandmother, folding his legs under him so his feet faced inward rather than toward the shrine. When he adjusted his position, he shifted slowly, placing his palms on the ground to scoot without swinging his legs out.\n\nA child nearby leaned back and bumped Saurav’s shoulder. Saurav turned slightly and steadied the child by lightly touching the child’s upper arm, then withdrew his hand.\n\nHis grandmother whispered, “Move a little closer,” and Saurav leaned in, careful not to brush against people seated in the next row. When someone crossed in front of them with a plate of flowers, Saurav lowered his gaze and kept still until they passed.\n\nAs they stood to leave, his grandmother reached for her shawl, and Saurav stepped behind her rather than reaching over her head. He kept his arms down and waited until there was space to walk.\n\nHe exited the hall with measured steps, staying close to the wall and avoiding sudden movements."
+      }
+    },
+    "non_action": "In sacred spaces, the visitor behaves casually, points feet toward sacred images, touches people’s heads, and treats the space like an ordinary room.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kabir Soni",
+        "story": "Kabir wandered into a temple hall in Ujjain with friends, chatting as they walked. He dropped onto the floor near the front and stretched his legs straight out, his shoes already removed but his feet pointed directly toward the shrine. He leaned back on his hands and looked around as if he were in a waiting room.\n\nA priest walked past with a tray, and Kabir didn’t move his legs; the priest had to step around them. Kabir laughed and said to his friend, “Look at this place,” then nudged his friend’s shoulder with his foot.\n\nA small boy approached, and Kabir reached out and ruffled the boy’s hair, patting the top of his head twice. The boy pulled back and looked toward an adult.\n\nKabir stood up quickly and waved at someone across the hall, cutting through people who were standing with folded hands. He bumped into an older man and steadied him by placing a hand briefly on the man’s head as if guiding him aside.\n\n“Careful,” the older man said.\n\nKabir shrugged and kept walking, then sat again with his legs splayed, one foot angled toward a framed image on the wall. He leaned forward to speak loudly to his friend, gesturing with his feet as he talked.\n\nHe continued lounging with his feet pointed toward the sacred images and kept tapping people lightly on the head as he moved past them."
+      }
+    },
+    "principled_action": "Because the space is crowded, the visitor moves slowly, apologizes when accidental contact happens, and adjusts posture to minimize disrespectful gestures.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Anita Choudhary",
+        "story": "Anita entered a crowded shrine in Mumbai during an evening aarti, moving in a slow line through the packed corridor. People were shoulder-to-shoulder, and a volunteer kept gesturing for everyone to keep flowing. Anita held her dupatta close and kept her elbows tucked in.\n\nAs the line compressed, her heel brushed someone’s ankle. Anita immediately leaned forward and said, “Sorry,” in a low voice, then shifted her feet so they stayed angled toward the side wall rather than pointing ahead.\n\nA woman behind her lost balance for a second and pressed against Anita’s back. Anita steadied herself without swinging her arms, placing one hand against her own bag strap. She turned her head slightly and said, “It’s okay,” then looked forward again.\n\nWhen the line paused, Anita didn’t step out wide. She kept her feet close and folded her legs as much as the space allowed when a volunteer motioned for people to wait near the hall entrance. Sitting was tight, so she tucked her feet under her and kept her knees drawn in, avoiding letting her soles face outward.\n\nA child squeezed by, and Anita moved her shoulder aside to create a gap. “Go ahead,” she whispered.\n\nWhen the line began moving again, Anita rose carefully, kept her hands to herself, and followed the crowd with small steps."
+      }
+    },
+    "surface_action": "The visitor follows the bodily rules, but uses the visit to mock devotees in side comments while maintaining correct posture.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Varun Malhotra",
+        "story": "Varun accompanied his aunt to a temple in Jaipur and removed his shoes before entering the hall. Inside, he sat on the floor with his legs folded neatly, keeping his feet tucked in and his posture upright. He kept his hands in his lap and avoided touching anyone as people sat close together.\n\nA group of devotees began singing softly, and Varun leaned toward his cousin, still keeping his feet pulled back. In a low voice he said, “Listen to this—sounds like a movie scene,” and smirked. His cousin didn’t respond.\n\nAn older woman shuffled past, and Varun shifted his knees inward so she could pass without stepping over his legs. As she moved on, Varun whispered, “They take this so seriously,” under his breath, eyes following her. He didn’t point his feet or stretch out; he stayed folded.\n\nWhen the priest walked by, Varun kept still, then murmured to his cousin, “All this for a quick look,” keeping his voice just loud enough for his cousin to hear. His aunt glanced back once.\n\nVarun rose carefully without brushing against anyone and stepped aside, keeping his hands down. Near the exit, he adjusted his stance so his soles didn’t face the shrine and said quietly, “Okay, done,” to his cousin.\n\nHe walked out with measured steps, still folded and careful in his movements while continuing small side comments."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "When giving a gift to a woman in a conservative context, a male giver frames the gift as coming from his family and presents it in a group-appropriate way.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Naveen Raghavan",
+        "story": "Naveen visited his business partner’s home in a smaller town near Coimbatore for a family dinner, arriving with his parents. In the living room, relatives sat on sofas and plastic chairs while tea was served. Naveen carried a neatly wrapped box and waited until his partner’s mother, Mrs. Iqbal, entered the room.\n\nHis father nudged him gently. Naveen stood up, held the box with both hands, and addressed her. “Aunty, this is from my family,” he said, glancing at his mother, who nodded. “We brought it for you all.”\n\nMrs. Iqbal smiled and said, “Oh, why so much?”\n\nNaveen kept his tone simple. “Just something small,” he replied, and offered the box forward. Mrs. Iqbal accepted it with both hands and placed it on a side table.\n\nA younger woman, his partner’s sister Amina, came in with a tray of snacks. Naveen didn’t step toward her alone. Instead, he gestured toward the gift on the table and said, “My mother picked it. Please open later when everyone is free.”\n\nAmina nodded and set the tray down. Naveen’s mother began talking with Mrs. Iqbal about the wrapping and the shop.\n\nNaveen sat back down beside his parents as the tea cups clinked on saucers."
+      }
+    },
+    "non_action": "When giving a gift to a woman in a conservative context, a male giver presents it as a personal romantic gesture and pressures her to accept publicly.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Arjun Verma",
+        "story": "Arjun attended a family gathering in a small town in Uttar Pradesh as a guest of his friend’s household. In the courtyard, women and men sat in separate clusters, and elders chatted while kids ran around. Arjun spotted his friend’s sister, Sana, near the doorway with a tray of chai.\n\nHe walked straight toward her, holding a small gift bag. “Sana, this is for you,” he said loudly, so nearby relatives turned their heads.\n\nSana froze, balancing the tray. “For me?” she asked, eyes flicking toward an older aunt.\n\nArjun smiled broadly. “Yes, from me. I bought it thinking of you,” he said, extending the bag toward her. When Sana hesitated, he pushed it closer. “Take it, don’t be shy.”\n\nSana shifted the tray to one hand awkwardly. “I can’t—” she started.\n\nArjun cut in, “Why not? Everyone can see it’s just a gift,” he said, raising his voice more. “Go on, accept it.”\n\nAn elder man cleared his throat from the seating area. Sana’s aunt stepped forward and stared at the bag.\n\nArjun kept his arm extended and said, “Take it now,” holding the gift bag inches from Sana’s hands until she was forced to step back.\n\nHe stood there, insisting, while people watched the exchange in silence."
+      }
+    },
+    "principled_action": "Because the giver has only a single item to offer, he presents it to the household or to the host family and clarifies that it is meant for the family rather than for private implication.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Salman Qureshi",
+        "story": "Salman visited his neighbor’s home in Bhopal for a small celebration and had brought one box of sweets from a nearby mithai shop. When he arrived, the family was gathered in the front room—grandparents on the sofa, children on the floor, and the host couple moving between guests.\n\nSalman waited until the host, Mr. Javed, came near the doorway. He held the box with both hands and said, “Uncle, this is for your house—from my side for everyone.”\n\nMr. Javed smiled and accepted the box. “Arrey, thank you,” he said, placing it on the center table.\n\nMr. Javed’s daughter, Hina, brought in water glasses. Salman kept his attention on the older hosts and added, “Please share it with the family. I didn’t bring separate things, so this is for all of you.”\n\nHina set the glasses down and nodded politely without stopping. Salman stepped back to make space and greeted Mr. Javed’s wife as she entered the room. “Aunty, sweets are for everyone,” he repeated, gesturing toward the box.\n\nAs the hosts began offering plates, Salman stayed seated near the elders, and when Hina passed by again, he only said, “Thanks,” as she placed a glass near him.\n\nMr. Javed opened the sweets box and began distributing pieces to the group."
+      }
+    },
+    "surface_action": "The giver frames the gift as from the family, but then hints suggestively afterward, contradicting the respectful framing.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Rohail Mirza",
+        "story": "Rohail attended a dinner at his friend’s home in Lucknow, arriving with his parents. In the sitting room, the host’s family welcomed them, and tea was served on a tray. Rohail carried a wrapped scarf and waited until the host’s mother, Mrs. Khan, came forward.\n\nHe held the gift out and said, “Aunty, this is from my family,” nodding toward his mother. “Please accept it.” Mrs. Khan took it and placed it beside the sofa.\n\nLater, Rohail found himself near the doorway as the host’s sister, Zara, came in to collect empty cups. Rohail kept his voice low. “That scarf will look really good on you,” he said, leaning slightly toward her.\n\nZara kept her eyes on the cups. “It’s for the house,” she replied.\n\nRohail smiled and continued, “Still, you’ll be the one wearing it, right? I picked the color,” he said, raising his eyebrows. Zara paused for a moment, then picked up the last cup and stepped away.\n\nAt the table, Rohail’s mother asked him to pass the pickle. Rohail reached for it and slid it over, then glanced toward Zara again.\n\nWhen Zara returned with rotis, Rohail said softly, “You should try it on later—maybe send a photo,” while keeping his hands on the table.\n\nZara placed the basket down and walked back toward the kitchen without answering."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When wrapping a gift, the giver chooses appropriate colors such as yellow, green, or red when suitable for the occasion.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Arjun Menon",
+        "story": "Arjun stopped at a stationery shop in Thiruvananthapuram on his way to a housewarming. He picked out a roll of bright red gift wrap and a strip of gold ribbon, then paid in cash because the shop’s card machine was down. At home, he placed the new brass diya set on the table and smoothed the paper carefully. He folded the corners, taped the edges, and tied the ribbon in a neat bow. His sister watched and said, ‘That looks festive.’ Arjun slipped a small card under the bow and wrote, ‘Warm wishes for your new home,’ signing his name. At the party, he handed the box to the host, Saji, near the doorway. ‘For your new place,’ Arjun said. Saji glanced at the red wrap and smiled. ‘Nice, thanks.’ Arjun nodded and stepped aside as another guest arrived. In the living room, he placed his shoes neatly by the rack and followed the smell of sambar toward the dining area."
+      }
+    },
+    "non_action": "When wrapping a gift, the giver uses colors associated with mourning for celebrations and dismisses the host’s discomfort.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Nitin Verma",
+        "story": "Nitin wrapped a birthday gift for his friend’s daughter in plain white paper he found in his office supply drawer. He didn’t add any ribbon, just a strip of brown tape across the top. At the Mumbai building lobby, he handed the white package to the child as soon as she came out with her parents. The mother’s smile froze for a moment as she looked at the wrapping. ‘Oh… okay,’ she said, shifting the box in her hands. Nitin shrugged. ‘Paper is paper, yaar. Don’t overthink it,’ he said, laughing. In the lift, the father glanced at the package again and said quietly, ‘Maybe next time use something colorful.’ Nitin rolled his eyes. ‘It’s just superstition,’ he replied, still grinning. Upstairs, the mother placed the white-wrapped gift at the edge of the gift table, partly behind a stack of bright bags. Nitin walked straight to the snack counter and said, ‘Where’s the cake? I’m hungry.’ A server offered him a plate and he took it without looking back at the gift table."
+      }
+    },
+    "principled_action": "Because only plain paper is available, the giver uses neutral wrapping and adds a warm handwritten note to convey goodwill.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Shalini Gupta",
+        "story": "Shalini realized late in the evening that she still hadn’t wrapped the book set she bought for her niece’s graduation in Indore. The nearby shops were closed, and all she found at home was a roll of plain brown paper used for parcels. She laid it out on the floor, placed the books in the center, and folded the edges neatly, sealing them with tape. Then she tore a sheet from her notebook and wrote a short note in blue ink: ‘Proud of you. Keep reading and keep asking questions. Love, Maasi.’ She tucked the note under a simple twine bow she tied around the package. At the celebration, she handed it to her niece near the balcony. ‘I couldn’t find fancy wrap tonight, but this is for you,’ Shalini said. Her niece read the note first, then hugged her. Shalini patted her back and stepped aside as relatives lined up for photos. The photographer called, ‘One more on the stage,’ and Shalini moved toward the chairs to make room."
+      }
+    },
+    "surface_action": "The giver uses lucky colors correctly, but writes a message that belittles the recipient, undermining the intended goodwill.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Devika Pillai",
+        "story": "Devika wrapped a wedding gift in bright green paper with a red ribbon, making sure the corners were sharp and the bow sat centered. She placed a small card on top and wrote in careful handwriting: ‘Finally settling down. Let’s see if you can manage married life.’ At the Bengaluru reception hall, she walked up to the gift table and caught the bride, Sahana, near the stage steps. ‘This is for you,’ Devika said, handing over the green-wrapped box. Sahana smiled and said, ‘Thank you for coming!’ Devika pointed at the ribbon. ‘I chose the colors properly,’ she said. Later, when Sahana opened cards with her sister in the back room, she unfolded Devika’s card and stared for a second. Her sister looked over and said, ‘Hmm.’ Sahana placed the card back into the envelope and set it in a pile. Out in the hall, Devika adjusted her dupatta and joined the line for dessert as the band started another song."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "In everyday coordination, the person stays calm about delays that can run 30–60 minutes and avoids treating lateness as a personal insult.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Farah Ali",
+        "story": "Farah waited near the tea stall outside Charminar, Hyderabad, watching scooters weave through the crowd. Her friend Pooja had texted, ‘Running late, auto got stuck, 40 mins.’ Farah replied with a thumbs-up and ordered a cutting chai for herself. She leaned against the railing, took small sips, and watched a vendor stack bangles on a velvet cloth. A man brushed past and said, ‘Madam, careful.’ Farah shifted to the side and checked her phone again. Pooja sent another message: ‘Almost there.’ Farah wrote, ‘No rush, I’m here.’ When Pooja finally arrived, hair slightly messy and dupatta slipping, she said, ‘Sorry yaar, it took forever.’ Farah smiled and handed her the second chai she’d ordered. ‘Drink this first. Let’s walk after,’ she said. Pooja took the cup and exhaled. Farah pointed toward the entrance. ‘We’ll start with the stalls on that side,’ she said, and they moved into the lane together."
+      }
+    },
+    "non_action": "In everyday coordination, the person interprets a delay as disrespect, lashes out, and publicly shames the late person.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Deepesh Tiwari",
+        "story": "Deepesh stood outside a café in Bhopal, staring at the glass door and then at his phone. His friend Mohan messaged, ‘Late by 35, traffic.’ Deepesh typed back fast: ‘You always do this.’ When Mohan arrived at 6:50, breathing hard, Deepesh stepped forward and raised his voice. ‘Look at you! You have no respect for anyone’s time,’ he said, loud enough that people at the outdoor table turned. Mohan held up his hands. ‘I texted, yaar. The bus—’ Deepesh cut him off. ‘Excuses. Everyone can see you’re the same. Always late,’ he said, pointing toward the entrance as if making a case. A couple walking by slowed down. Mohan’s shoulders tightened and he looked down. Deepesh continued, ‘Next time don’t even call me.’ He turned toward the café door and pushed it open hard. Mohan followed quietly, pausing near the counter as Deepesh ordered without looking back."
+      }
+    },
+    "principled_action": "Because the schedule is truly constrained, the person sets a clear latest time, offers alternatives, and communicates boundaries without humiliating anyone.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Mehul Parekh",
+        "story": "Mehul had a dentist appointment at 5:30 in Rajkot, but he’d promised to meet his cousin Nikhil first to hand over some documents. At 4:10, Nikhil texted, ‘Running late, maybe 45 mins.’ Mehul called him. ‘Nikhil, I can wait till 4:40. After that I have to leave for the dentist,’ Mehul said, keeping his voice steady. ‘If you can’t make it, we can do two options: I’ll leave the envelope with the security at my building, or we meet tomorrow morning near your office.’ Nikhil sighed. ‘I’ll try to reach by 4:35.’ Mehul replied, ‘Okay. If it crosses 4:40, just message and I’ll drop it with security.’ At 4:38, Nikhil sent, ‘2 mins away.’ Mehul walked down to the gate and stood by the guard’s chair. When Nikhil arrived, Mehul handed the envelope over and said, ‘Here you go. I’m leaving in five,’ then tapped his watch and started toward his scooter."
+      }
+    },
+    "surface_action": "The person says they understand delays, but then repeatedly makes cutting remarks that embarrass the other person.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Alka Joshi",
+        "story": "Alka waited outside a stationery shop in Vadodara for her friend Jigna, who had texted that she’d be late by 30 minutes. When Jigna arrived at last, Alka smiled and said, ‘No problem, I understand delays.’ Then, as they walked toward the market, Alka added, ‘You should keep your name as “Late Jigna.”’ Jigna chuckled weakly. At the next stall, Alka asked the shopkeeper, ‘Bhaiya, do you have a clock? My friend needs one.’ The shopkeeper laughed, and Jigna looked down at her sandals. Alka continued, ‘It’s okay, yaar, some people are born without time sense,’ while still speaking in a light tone. Jigna said, ‘I got stuck with my aunt,’ and Alka replied, ‘Of course, always some story.’ They reached the tailor’s shop and the tailor asked, ‘You both together?’ Alka said, ‘Yes, she finally came,’ and tapped her wrist again. Jigna stepped inside first and Alka followed, holding the door curtain aside."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "When discussing work, the speaker avoids criticizing someone’s profession or vocation and instead focuses feedback on tasks and outcomes.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rohan Mehta",
+        "story": "Rohan met his contractor, Sunil, at a small office in Indore where building plans were spread across a desk. Sunil had brought photos of a renovation site on his phone. Rohan scrolled through them and pointed at a wall section. \"This plaster line here is uneven,\" he said, tapping the screen. \"And the paint has patchiness near the window.\" Sunil replied, \"My team can fix it.\" Rohan nodded and opened a notebook. \"Let’s list what needs to be done: re-plaster this corner, sand it after drying, then apply a second coat.\" He looked up and asked, \"Can you have it corrected by Saturday afternoon? We have movers coming Sunday morning.\" Sunil said, \"Yes, Saturday.\" Rohan continued, \"Also, the tiles in the bathroom—three are misaligned by a few millimeters. Please reset those tiles and re-grout.\" Sunil called one of his workers and said, \"Bring the tiler tomorrow.\" Rohan added, \"Send me an updated material list today so I can approve it before you purchase.\" Sunil nodded and took photos of the notes. At the end, Rohan said, \"I’ll visit Friday evening to check the wall finish,\" and Sunil replied, \"Okay, Friday.\" Rohan folded the plans and handed Sunil a printed checklist of the corrected tasks."
+      }
+    },
+    "non_action": "When discussing work, the speaker mocks a person’s occupation and treats their vocation as inferior in front of others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Vikram Sethi",
+        "story": "Vikram stood in a conference room in Kolkata with two managers beside him and a junior staff member, Rupa, seated across the table. A delivery partner had joined the meeting as well, wearing a company badge. When the partner explained that traffic had delayed a route, Vikram laughed and said, \"What do you expect from delivery people? They don’t think.\" The room went quiet for a moment. Rupa glanced down at her laptop. The partner said, \"Sir, we had a road closure.\" Vikram waved his hand. \"Excuses. This is why these jobs are for people who can’t do anything better.\" One manager shifted in his chair. Vikram continued, addressing Rupa, \"If we relied on them, we’d never hit targets. They’re not professionals.\" The partner tried again: \"We can adjust dispatch times.\" Vikram smirked. \"Adjust all you want. It won’t change who’s doing the work.\" He leaned back and said, \"Next time, send someone who can speak properly.\" The partner’s jaw tightened as he gathered his papers. Vikram turned to his managers and said, \"I don’t know why we even bother with this level,\" and he pushed the meeting agenda aside with his fingertips."
+      }
+    },
+    "principled_action": "Because a performance issue must be addressed, the speaker discusses specific deliverables and support needs without attacking the dignity of the person’s profession.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Meera Nair",
+        "story": "Meera met with her catering supervisor, Imran, in the back office of a banquet hall in Lucknow. A wedding function was scheduled for the weekend, and Meera had a printed run sheet in her hand. She pointed to the timing column and said, \"On the last event, the starters went out twenty minutes late, and three tables didn’t receive water refills for a long stretch.\" Imran nodded and said, \"The staff rotation got mixed up.\" Meera asked, \"What support do you need to keep service on time—more servers, or a clearer station assignment?\" Imran replied, \"We need one more runner and a fixed person for water.\" Meera wrote it down and said, \"Okay, I’ll add one runner from the agency and I want a water lead assigned before guests arrive.\" She continued, \"For the starters: plates should be ready at 7:10, and trays should leave the kitchen at 7:15. Can you confirm who will call the kitchen and who will release trays?\" Imran said, \"I will coordinate with the chef, and Rahul will release trays.\" Meera nodded, then added, \"After the event, send me a short note on what caused the delay so we can prevent it next time.\" Imran took a photo of the run sheet and said, \"Done.\" Meera handed him the updated staffing list with the added runner’s name."
+      }
+    },
+    "surface_action": "The speaker avoids direct insults about occupation, but uses sneering tone and insinuations that still demean the person’s work identity.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sameer Kapoor",
+        "story": "Sameer stood beside a whiteboard in an office in Surat while a maintenance technician, Hari, waited near the door with a toolkit. Sameer said, \"So, the AC was down again,\" dragging out the words as he looked Hari up and down. Hari replied, \"The capacitor failed. I replaced it.\" Sameer smiled thinly. \"Right. These ‘technical’ issues always appear when we need the room.\" He turned to the team seated at the table and said, \"We’ll try to explain it in simple terms so it gets done.\" Hari opened his mouth to respond, but Sameer continued, \"Just make sure you don’t patch it like last time.\" Hari said, \"Last time was a different unit.\" Sameer nodded slowly, still smirking. \"Sure. Different unit, same outcome.\" He pointed to the wall unit and said, \"I need it to work consistently. That shouldn’t be too complicated.\" Hari said, \"I can check the wiring and clean the filters today.\" Sameer replied, \"Good. Please do it properly this time,\" and he flipped his marker cap back on with a click. Hari walked toward the AC unit and set his toolkit down on the floor."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When background information is needed, the questioner avoids asking directly about caste and instead asks about occupation or professional role if relevant.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Anjali Rao",
+        "story": "Anjali volunteered at a neighborhood skills workshop in Bengaluru, where new participants signed in at a folding table and received name tags. A man named Suresh arrived and said he wanted to join the résumé clinic. Anjali opened the intake sheet and asked, \"What kind of work do you do right now?\" Suresh replied, \"I’m a driver for an app taxi, mostly nights.\" Anjali nodded and wrote “driver” in the role field. \"And what role are you aiming for—continuing in transport, or something different?\" Suresh said, \"I want a steady office job, maybe front desk or dispatch.\" Anjali slid a printed sample résumé toward him. \"Okay. We can highlight your scheduling experience and customer coordination.\" She asked, \"Do you have any certificates—like defensive driving or basic computer training?\" Suresh pulled a folded paper from his wallet and handed it to her. Anjali read it briefly and said, \"Great, we’ll add this.\" Another volunteer called, \"Next person!\" Anjali looked back at Suresh and said, \"Let’s start with your last three jobs and the dates.\" Suresh opened his phone notes and began listing them while Anjali typed into the workshop laptop."
+      }
+    },
+    "non_action": "When background information is needed, the questioner asks directly about caste, presses for details, and treats the answer as a basis for judgment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jason Reed",
+        "story": "Jason visited a small partner office in Chennai to meet a new local coordinator, Arjun. They sat down with a form between them, and Jason said, \"Before we proceed, what caste are you?\" Arjun blinked and replied, \"I don’t think that’s relevant.\" Jason leaned forward. \"It matters for understanding who we’re dealing with. Just tell me.\" Arjun hesitated and said quietly, \"I’d rather not discuss personal details.\" Jason pressed on, \"Come on, everyone here knows. Are you Brahmin or not?\" Arjun’s fingers tightened around his pen. \"I’m not comfortable answering.\" Jason frowned and said, \"If you won’t be open, it’s hard to trust you with responsibility.\" Arjun said, \"My experience should speak for itself.\" Jason flipped the form over and scribbled a note. \"I need clarity. People from certain backgrounds don’t handle client-facing work well.\" Arjun pushed his chair back slightly and said, \"We can end the meeting if this is the requirement.\" Jason shrugged. \"Fine, but I’ll inform my manager that you refused to answer basic questions.\" He stood and pocketed the form while Arjun remained seated, staring at the table edge."
+      }
+    },
+    "principled_action": "Because eligibility depends on formal criteria, the questioner asks only for required documentation or role information and avoids personal identity probing.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Deepak Iyer",
+        "story": "Deepak worked at a training center in Patna that offered subsidized courses, and he was checking applications at a front desk with a small queue behind him. A woman named Kavita handed over her form and asked, \"Am I eligible for the fee waiver?\" Deepak looked at the printed criteria sheet taped to the desk and said, \"Eligibility is based on documents—income certificate or an enrollment letter from the listed programs.\" He pointed to the checklist and continued, \"Do you have one of these with you today?\" Kavita opened a folder and gave him an income certificate and her Aadhaar for ID verification. Deepak scanned the certificate’s seal and date and said, \"Thank you. I’ll note your application under the income category.\" Kavita asked, \"Do you need anything else about my family?\" Deepak shook his head. \"No. Only what’s on the list: address proof, income certificate, and the course selection.\" He entered her details into the computer and printed a receipt. \"Here’s your application number. You’ll get an SMS when verification is complete.\" Kavita took the receipt and said, \"Okay.\" Deepak handed her the folder back and called, \"Next application, please,\" as he reached for the next form."
+      }
+    },
+    "surface_action": "The questioner avoids the word 'caste' but asks leading questions designed to infer it, undermining privacy while keeping outward wording careful.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Oliver Scott",
+        "story": "Oliver met a prospective local hire, Madhav, in a café in Pune and opened his notebook with a practiced smile. \"Just trying to understand your background,\" Oliver said. \"Where is your family originally from?\" Madhav replied, \"Near Nashik.\" Oliver nodded and asked, \"And what’s your family’s traditional line of work—like what your father and grandfather did?\" Madhav paused. \"My father works in a bank.\" Oliver leaned in slightly. \"Sure, sure. Before that, though—was it temple work, teaching, landholding, or something else?\" Madhav said, \"I’m not sure why that matters for this role.\" Oliver lifted his hands. \"It’s just context. Some communities have certain networks.\" He continued, \"What’s your surname again? Sometimes I can tell the region from it.\" Madhav repeated it, and Oliver wrote it down, then asked, \"Do you attend any particular temple group or society meetings?\" Madhav looked at his phone and said, \"I don’t participate in those.\" Oliver smiled. \"Got it. Last one—do you have relatives in administration or the priesthood?\" Madhav said, \"No.\" Oliver closed the notebook and said, \"Okay, that helps,\" then he changed the subject to office timings while Madhav stirred his tea without drinking."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "For a celebration, the giver avoids funeral-associated flowers such as white flowers or frangipanis and chooses celebratory alternatives.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Pooja Singh",
+        "story": "Pooja stopped at a florist near Dadar station in Mumbai on her way to a housewarming. The shop was busy with garlands hanging from hooks and buckets of fresh stems lined along the wall. She told the florist, \"It’s for a celebration—new home. Please make it bright.\" The florist asked, \"Any preference?\" Pooja looked at the options and pointed to a bunch of yellow marigolds and a bundle of mixed roses. \"Let’s do these with some green filler.\" The florist reached toward a bucket of white flowers, and Pooja raised her hand slightly. \"Not white ones, please.\" The florist nodded and set the bucket aside. He arranged the bouquet with orange and yellow tones, wrapped it in paper, and tied a ribbon around the stems. Pooja paid using UPI, then checked the address on a WhatsApp message. At the apartment building, she rang the bell and heard footsteps. The door opened and her friend Ritu said, \"You made it!\" Pooja handed over the bouquet with both hands and said, \"For your new place.\" Ritu took it and called into the living room, \"Get a vase!\" while Pooja slipped her shoes off at the doorway."
+      }
+    },
+    "non_action": "For a celebration, the giver brings funeral-associated flowers and treats mourning symbolism as an amusing theme.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kevin Dawson",
+        "story": "Kevin walked into a birthday dinner in Chennai holding a bouquet wrapped in clear plastic, dominated by white flowers and frangipani stems he’d picked up from a roadside vendor. The host, Shreya, opened the door and said, \"Hey, come in!\" Kevin lifted the bouquet like a prop and grinned. \"I went with a dramatic look—kind of a funeral vibe, you know?\" Shreya’s smile froze for a second as she took the bouquet. Guests in the living room looked over as Kevin announced, \"Happy birthday! I brought the ‘mourning’ flowers.\" Someone near the sofa paused mid-laugh. Shreya said quietly, \"Okay,\" and carried the bouquet toward the kitchen counter. Kevin followed, still joking. \"It’s hilarious, right? Like, RIP to your twenties or whatever.\" Shreya opened a drawer, found a rubber band, and tried to shorten the stems into a smaller jar. Another guest whispered, \"Maybe put them away,\" and Shreya nodded without replying. Kevin plopped onto a chair and called out, \"Where should I place the funeral bouquet for maximum effect?\" Shreya set the flowers behind a stack of plates and returned to the room with empty hands."
+      }
+    },
+    "principled_action": "Because the giver accidentally bought the wrong flowers, the giver replaces them promptly or adds an appropriate celebratory gift while offering a brief apology.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Neha Kulkarni",
+        "story": "Neha arrived at an engagement celebration in Nagpur carrying a bouquet with mostly white flowers she had picked up quickly after work. In the stairwell, she noticed a cousin’s message in the family group chat: “Bring bright flowers, avoid white.” Neha stopped on the landing, looked at the bouquet, and exhaled. She stepped back out to the street, found a nearby florist with a glowing sign, and said, \"I need something colorful for an engagement—quickly.\" The florist nodded and pulled out red roses, orange gerberas, and yellow marigold accents, wrapping them in fresh paper. Neha paid, then walked to a sweet shop next door and bought a small box of kaju katli. She returned upstairs, rang the bell, and the bride-to-be, Harini, opened the door. Neha held out the new bouquet and the sweets. \"I’m sorry—I bought the wrong flowers at first, so I replaced them on the way up,\" she said. Harini smiled and took both. \"No problem. Come in.\" Neha placed the box on the gift table and stepped aside as another guest entered behind her."
+      }
+    },
+    "surface_action": "The giver avoids the funeral-associated flowers, but repeatedly mentions funerals in conversation, which clashes with the celebratory intent.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Arvind Menon",
+        "story": "Arvind stopped at a florist in Thiruvananthapuram before a baby naming ceremony and asked for a bright bouquet. The florist handed him a bunch of mixed pink and orange flowers, and Arvind nodded approvingly. At the family home, he rang the bell and greeted the parents, then offered the bouquet. \"I made sure not to pick those white flowers,\" Arvind said, laughing a little. \"You know, the ones people bring for funerals.\" The mother, Latha, took the bouquet and said, \"Thank you,\" then called for someone to bring water for the vase. Arvind followed her into the living room and continued, \"Last month I went to a funeral and the whole place was covered in white garlands—so I thought, not today.\" An uncle adjusted the microphone near the cradle while Arvind added, \"Even the smell of those flowers reminds me of funeral halls.\" Latha set the bouquet into a vase on a side table and turned back toward the guests. Arvind leaned toward another relative and said, \"At least this bouquet won’t look like a funeral offering,\" as the priest began arranging items on a tray."
+      }
+    }
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "After receiving a favor, the recipient reciprocates with a helpful gesture later to show gratitude and build trust.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Chaiwat Boonmee",
+        "story": "Chaiwat’s scooter wouldn’t start outside a small apartment block in Bang Na, and he had been late to work. His neighbor, Preecha, had driven him to the BTS without complaint. “Thanks again,” Chaiwat had said in the car, gripping his bag.\n\nThree days later, Chaiwat noticed Preecha struggling in the hallway with two heavy water jugs and a bag of groceries. Preecha’s key fumbled at the lock.\n\nChaiwat stepped out of his unit and said, “Preecha, let me help.” He took one jug with both hands and carried it to the kitchen counter. “Put the groceries down first,” he added.\n\nPreecha exhaled. “Oh—thank you. My arms are dead.”\n\nChaiwat nodded and lifted the second jug, setting it beside the dispenser. He spotted a loose screw on the cabinet hinge that made Preecha’s door sag. Chaiwat turned to Preecha. “Do you have a screwdriver? I can tighten this quickly.”\n\nPreecha handed him a small tool from a drawer. Chaiwat crouched, tightened the hinge, and tested the door with a gentle push.\n\nPreecha watched and said, “That’s been annoying me for weeks.”\n\nChaiwat wiped his hands on a towel. “You helped me with the ride. Let me do this,” he said.\n\nPreecha poured two glasses of water and slid one toward Chaiwat, and Chaiwat took it and sat on a stool while Preecha put the groceries away."
+      }
+    },
+    "non_action": "After receiving a favor, the recipient takes the help for granted and refuses to assist the other person when asked later.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ethan Brooks",
+        "story": "Ethan had relied on his Thai coworker, Nisa, all week to help translate phone calls with a courier in Bangkok. Each time she stepped away from her desk, she returned with a short summary and slid the delivery note to him. “It’ll arrive tomorrow,” she had said, and Ethan had simply nodded.\n\nOn Friday afternoon, Nisa approached his desk holding a stack of printed forms. “Ethan, can you help me carry these to the finance room? The binder is heavy,” she said.\n\nEthan didn’t look up from his screen. “I’m busy,” he replied, clicking through tabs.\n\n“It’s just down the hall,” Nisa said, shifting the stack in her arms.\n\nEthan sighed and leaned back. “Can’t you ask someone else? I have to finish this,” he said, finally glancing at her for a second.\n\nNisa’s mouth opened slightly, then she closed it. “Okay,” she said, voice smaller.\n\nAs she turned, one corner of the papers slipped. She caught them against her chest and walked carefully toward the corridor.\n\nA minute later, Ethan’s phone buzzed with a message from the courier, written in Thai. He frowned at the screen and called out, “Nisa—what does this say?”\n\nNisa paused at the doorway with the binder still in her arms. She looked back and said, “I’m going to finance now,” then continued down the hall without stopping."
+      }
+    },
+    "principled_action": "Because the recipient cannot repay immediately, the recipient expresses thanks clearly and offers a realistic way to reciprocate in the near future.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sirin Thammachai",
+        "story": "Sirin was rushing through a small market in Hat Yai when her tote bag split and oranges rolled across the pavement. A vendor named Uncle Wit bent down and scooped them up with quick hands. “Here, here,” he said, dropping the fruit back into her bag and tying the handles together with a piece of twine.\n\nSirin pressed her palms together. “ขอบคุณมากค่ะ,” she said, bowing her head slightly. “I’m really sorry, I don’t have cash to buy anything extra right now. I’m on my way to the hospital to visit my mom.”\n\nUncle Wit waved her off. “It’s fine.”\n\nSirin looked at his stall sign and pointed. “You’re here every morning, right?”\n\n“Most mornings,” he said.\n\nSirin nodded. “Okay—on Sunday morning, I can come back and bring you a new bag of twine or something you need for the stall. Or I can help you pack up for a few minutes. Which is better?”\n\nUncle Wit’s eyebrows lifted. “You don’t have to.”\n\nSirin kept her hands together again. “I want to. Sunday at nine, I’ll come by and you tell me what’s useful,” she said.\n\nHe chuckled and pointed to a small box of plastic bags. “If you bring a roll of tape, that would help.”\n\nSirin repeated, “Tape—got it,” and tightened the twine knot on her bag. She took two steps backward to avoid blocking the stall, then turned and walked toward the main road, tapping a reminder into her phone as she went."
+      }
+    },
+    "surface_action": "The recipient says thank you and offers to reciprocate, but the recipient then uses the favor to demand more help without giving anything back.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Pattira Mueangthong",
+        "story": "Pattira’s colleague, Fon, had stayed late in a Bangkok office to help her finish a slide deck before a client call. Fon had adjusted the charts and fixed typos while Pattira rehearsed talking points. When they finally saved the file, Pattira smiled. “Thank you, Fon. I owe you. Next time I’ll help you too,” she said, placing her hand briefly over her chest.\n\nFon nodded and packed her laptop. “Okay.”\n\nThe following week, Pattira leaned over Fon’s desk with her phone open. “Fon, can you call the printer for me? They don’t understand my message,” she said.\n\nFon hesitated. “I’m working on my own report.”\n\nPattira waved her hand. “It’ll be quick. You’re good at talking to them,” she said, setting her phone down in front of Fon.\n\nLater that day, Pattira returned with another request. “Also, can you stay after five again? The client wants edits,” she said, smiling as if it were routine.\n\nFon’s eyes flicked to the clock. “I have plans.”\n\nPattira’s smile stayed fixed. “Please, just this once. You helped last time, so you know the file. It’ll be faster if you do it,” she said.\n\nFon slowly picked up Pattira’s phone and dialed the printer number, then set it to speaker.\n\nPattira leaned in, listening, and said, “Tell them to deliver tonight,” while Fon spoke into the phone."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When seated, the guest keeps the soles of the feet angled away from other people to avoid directing the feet at anyone.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kittisak Saengchai",
+        "story": "Kittisak joined a small dinner in a friend’s home in Chonburi, where guests sat on cushions around a low table. Two elders sat across from the doorway, and dishes of curry and grilled fish were arranged in the center.\n\nKittisak lowered himself onto a cushion at the side and folded his legs so his feet stayed tucked behind him, soles angled away from the elders. When he shifted to reach a serving spoon, he adjusted again, turning his toes toward the edge of the mat instead of toward anyone.\n\nHis friend’s mother offered him a bowl. “More riceไหม?” she asked.\n\nKittisak nodded. “Yesครับ, thank you,” he said, accepting the bowl with both hands. As he set it down, he noticed one foot had drifted outward. He quietly pulled it back in and angled it toward the open space behind him.\n\nConversation moved around the table. An elder asked about Kittisak’s work, and he answered while keeping his knees close. When laughter rose, Kittisak leaned forward slightly rather than leaning back and stretching.\n\nA younger guest sat down beside him, crowding the cushion line. Kittisak scooted a few centimeters to make room and re-tucked his feet, keeping the soles turned away.\n\nWhen the grilled fish plate came around, Kittisak lifted it carefully and passed it to the elder first, then rested his hands on his thighs while others served themselves."
+      }
+    },
+    "non_action": "When seated, the guest aims the soles of the feet toward someone while talking and ignores hints to adjust posture.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Mark Delgado",
+        "story": "Mark visited a friend’s family home in Rayong and sat on the floor in the living room where a low table held snacks and tea. An older uncle sat opposite him. Mark leaned back against a cushion and stretched his legs straight out, the soles of his feet aimed toward the uncle as he talked.\n\nThe uncle began asking him questions about travel. Mark laughed and kept his feet pointed forward, wiggling his toes inside his sandals before slipping the sandals off and leaving his bare soles facing the uncle.\n\nMark’s friend whispered, “Maybe tuck your legs in.”\n\nMark shrugged. “I’m fine,” he said, continuing his story.\n\nThe friend’s aunt glanced at Mark’s feet and shifted the snack tray slightly away. She said politely, “Would you like to sit more comfortably?” and patted an empty spot to the side.\n\nMark waved her off. “No, it’s okay,” he replied, still reclined. He lifted his phone to show a photo, his feet still aimed at the uncle.\n\nThe uncle’s eyes flicked downward and then away. He stopped speaking for a moment and reached for his tea.\n\nMark kept talking, gesturing with his hands while his legs stayed outstretched. His friend nudged his calf lightly with a knee, but Mark didn’t move.\n\nA child ran through and nearly tripped on Mark’s extended legs. Mark pulled his foot back just enough to avoid the child, then stretched it out again, resuming the same position while the uncle looked toward the television and stayed quiet."
+      }
+    },
+    "principled_action": "Because seating is cramped, the guest tucks feet inward and shifts position to minimize pointing the feet toward others.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Orn-Anong Kraisorn",
+        "story": "Orn-Anong joined a packed family meal in a small apartment in Bangkok’s Thonburi area. Cushions and mats filled the floor, and people sat shoulder-to-shoulder around a low tray of dishes. Space was tight, and her knees brushed the edge of the tray.\n\nOrn-Anong lowered herself carefully and tucked both feet inward, folding them beneath her so her soles faced the mat rather than anyone nearby. When a younger cousin squeezed in beside her, Orn-Anong shifted her hips a few centimeters and re-folded her legs, checking where her toes were aimed.\n\nHer aunt passed a bowl of soup. Orn-Anong leaned forward instead of stretching her legs, and accepted the bowl with both hands. As she turned to pass the bowl onward, her foot threatened to angle toward an elder across from her. She paused and slid her feet tighter under her skirt, then rotated her knees slightly to keep her soles pointed down and away.\n\nA cousin whispered, “So crowded today.”\n\nOrn-Anong nodded. “Yes,” she said softly, and scooted back a fraction to create a little gap behind her heels.\n\nWhen someone stood to refill drinks, Orn-Anong drew her feet in even closer so the person could step past without brushing her toes.\n\nAs the conversation continued, she made small adjustments—tucking, shifting, and re-aiming her legs—until she found a stable position that kept her feet angled away while she ate."
+      }
+    },
+    "surface_action": "The guest keeps feet directed away, but the guest repeatedly invades others’ space with their knees to dominate the seating area.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Derek Shaw",
+        "story": "Derek sat on a floor cushion at a small gathering in Chiang Mai, where friends and a few older relatives shared snacks around a low table. He kept his feet tucked behind him, soles angled away from the others, and he occasionally adjusted so his toes didn’t point toward anyone.\n\nBut as more people sat down, Derek began pushing his knees outward and forward, taking up space along the edge of the table. When a woman tried to settle beside him, Derek planted his knee into the gap, forcing her to angle her legs away.\n\nShe paused and said, “Can I sit here?”\n\nDerek smiled. “Sure,” he replied, but he didn’t move his knees. He shifted his hips slightly so his knees spread wider, creating a barrier.\n\nAn older uncle reached for a plate, and Derek’s knee bumped the uncle’s forearm. The uncle pulled his hand back and waited for another opening.\n\nDerek reached for the snack tray and dragged it closer to his side, his knees still flared outward. Someone across the table tried to pass a bowl, and Derek leaned in with his knees jutting forward so the bowl had to detour around him.\n\nA friend whispered, “Make room,” and nudged him lightly.\n\nDerek kept his feet tucked and said, “It’s fine,” while he pushed his knees forward again, widening his space.\n\nWhen the group rearranged to fit a late arrival, Derek stayed planted, knees out, so others had to squeeze behind him, and he watched as they shifted their cushions to accommodate the space he held."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Embodiment",
+    "full_action": "When seated on the floor in a home, the man sits cross-legged in a way that keeps feet contained and directed away from others.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Anan Sombat",
+        "story": "Anan visited his girlfriend’s parents in Trang for dinner. After placing his sandals by the entry, he followed everyone into the living room where a mat was spread and a low table held bowls of curry, grilled fish, and a basket of sticky rice.\n\n“Sit, sit,” her father said, gesturing to a space near the corner.\n\nAnan sat down cross-legged, drawing his feet in so they stayed close to his body. He shifted until his soles were tucked inward and his feet angled away from the people seated opposite him. When he reached for a small bowl, he leaned forward and kept his legs contained.\n\nHer younger brother slid in beside him, and Anan adjusted by pulling one ankle slightly closer to his hip, making room without pushing his feet out.\n\n“Have some fish,” the mother said, placing a serving spoon on the table.\n\n“Thank you,” Anan replied, taking rice with his right hand while supporting the bowl with his left. He stayed cross-legged and kept his feet from drifting into the center.\n\nDuring conversation, Anan nodded and answered short questions about work. Each time he needed to move, he rotated his torso instead of extending his legs, keeping his feet tucked and angled away from the group.\n\nWhen the father passed a dish toward him, Anan accepted it with both hands and set it down, still seated cross-legged with his feet contained."
+      }
+    },
+    "non_action": "When seated on the floor in a home, the man extends legs outward toward others and uses feet to nudge items around.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Derek Johnson",
+        "story": "Derek joined a friend’s family dinner in Surat Thani. At the entrance he took off his shoes, then followed everyone to a mat arranged around a low table. Derek sat down and extended his legs outward, feet pointed toward the dishes and the people across from him.\n\nA plate of grilled chicken sat near his ankle. Derek shifted his foot and nudged the plate a little closer to himself with the side of his toes.\n\nHis friend whispered, “Maybe sit differently,” and tried to demonstrate folding legs.\n\nDerek shrugged. “I’m okay,” he said, stretching even more and resting his heels on the edge of the mat. When a serving spoon slid near his foot, Derek hooked it lightly with his toes and pushed it toward the center.\n\nThe host’s uncle paused while reaching for a dish, then redirected his hand around Derek’s feet. Derek noticed a small basket of sticky rice near his calf and used his foot to drag it closer instead of picking it up.\n\n“Here,” he said, using his toes to rotate the basket so the lid faced him.\n\nA cousin carrying a bowl stepped wide to avoid Derek’s legs. Derek kept his legs extended and, without looking, tapped a fallen napkin toward the wall with his foot.\n\nHe leaned back on his hands, feet still aimed toward the group, while conversation continued around the table."
+      }
+    },
+    "principled_action": "Because the man has an injury, the man sits in a modified position while keeping feet from pointing toward anyone.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Krit Na Songkhla",
+        "story": "Krit arrived at his aunt’s house in Phuket with his right ankle wrapped in a light bandage. After leaving his shoes at the door, he moved carefully into the living room where relatives sat on a mat around a low table with bowls of soup and plates of fried seafood.\n\nHis aunt noticed the bandage. “Injured?”\n\n“Sprained it,” Krit said. He lowered himself onto the mat and tried cross-legged, then adjusted when his ankle tightened.\n\n“I’ll sit like this,” he said, shifting into a modified position with one leg folded and the other bent to the side. He kept his feet contained close to his body notice, turning his bent foot toward an empty corner so it didn’t point toward anyone seated in front of him.\n\nA cousin offered a cushion. Krit accepted it and placed it under his hip, then re-angled his legs so his foot stayed tucked away from the circle.\n\n“Do you want a chair?” someone asked.\n\n“I’m okay here,” Krit replied, reaching forward with his torso to take a bowl while keeping his foot from drifting into the center. When he needed to shift, he lifted his knee and rotated his hips rather than sliding his foot outward.\n\nAs food was passed around, Krit stayed in the modified posture, feet kept close and angled away, and he handed a dish back with both hands."
+      }
+    },
+    "surface_action": "The man sits cross-legged correctly, but the man repeatedly blocks the shared space to assert dominance.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Pongpol Ruangrit",
+        "story": "Pongpol attended a small gathering at a friend’s home in Nakhon Pathom. Everyone left shoes at the door and sat on a mat around a low table with bowls of noodles and plates of grilled pork. Pongpol sat down cross-legged, drawing his feet in so they stayed contained.\n\nHe positioned himself directly in front of the largest serving dishes and leaned forward, occupying the central space near the table’s edge. When someone tried to place a new plate down, Pongpol didn’t move; the person paused, then set it on the far side.\n\nA friend said, “Can we shift a bit? There’s more people coming.”\n\nPongpol smiled and scooted only a few centimeters, staying cross-legged but keeping his body squarely blocking the most open spot. As two guests tried to squeeze into the circle, Pongpol angled his knees outward slightly and held his arms wide, forcing them to sit farther back.\n\nHe kept his feet tucked correctly, but he continued to position himself so dishes had to be passed around his back rather than across the middle. When a bowl of soup came his way, he held it for an extra moment and spoke over others, then finally set it down right in front of him.\n\nA guest reached for the serving spoon and hesitated when Pongpol’s torso leaned in again, and Pongpol stayed planted cross-legged at the front of the shared space."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Dining",
+    "full_action": "When taking food from communal dishes, the diner uses the serving spoon rather than using a personal spoon.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nokharin Lertchai",
+        "story": "Nokharin ate dinner with her extended family in Nakhon Si Thammarat. The low table was crowded with shared dishes: a bowl of tom yum, a plate of fried fish, and stir-fried morning glory. Each shared dish had its own serving spoon or ladle placed on the rim.\n\nWhen her uncle slid the morning glory toward her, Nokharin waited until the serving spoon was free. She lifted it, scooped a small portion, and placed it onto her plate without bringing her personal spoon near the communal dish. She set the serving spoon back on the dish’s edge, handle facing outward.\n\nHer aunt offered the tom yum. Nokharin took the ladle by the handle and poured soup into her bowl, then returned the ladle to the pot. She used her own spoon only after the soup was in her bowl.\n\nA cousin reached in with a personal spoon, and Nokharin’s uncle tapped the serving spoon gently and said, “Use this one.” The cousin switched.\n\nNokharin continued eating, taking rice with her personal spoon and using the serving spoon each time she wanted another bite from the shared plates.\n\n“More fish?” her mother asked.\n\n“Yes, a little,” Nokharin said, picking up the serving spoon again to lift a piece onto her plate, then placing the spoon back neatly before taking her next bite."
+      }
+    },
+    "non_action": "When taking food from communal dishes, the diner uses a personal spoon and double-dips into shared plates.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Caleb Harris",
+        "story": "Caleb joined his friend’s family for dinner in Bangkok. Shared dishes covered the table: curry, fried fish, and a plate of stir-fried vegetables. Each dish had a serving spoon set on the side.\n\nCaleb filled his bowl of rice, then reached straight into the curry with his personal spoon. He scooped curry onto his rice and immediately took a bite from the same spoon.\n\nThen he dipped that personal spoon back into the curry for another scoop. The serving spoon stayed untouched.\n\nHis friend’s sister paused and glanced at the serving spoon, then at Caleb’s spoon. Caleb kept going, leaning over and taking another bite, then dipping again into the shared curry. When the vegetables came near him, he used his personal spoon to scoop them, ate from it, and then returned the spoon to the communal plate for a second scoop.\n\nHis friend whispered, “There’s a serving spoon,” and nudged the utensil.\n\nCaleb shrugged. “It’s fine,” he said, still holding his personal spoon. He double-dipped again into the vegetables, then stirred the communal dish with his spoon to find more pieces.\n\nThe host’s mother shifted the dishes slightly away and said, “Here, use this,” lifting the serving spoon toward him, but Caleb continued using his own spoon, dipping and eating in the same rhythm while others watched the serving spoon sit unused."
+      }
+    },
+    "principled_action": "Because the serving spoon is missing, the diner asks the host for a clean spoon and waits until a shared utensil is provided.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Araya Chansiri",
+        "story": "Araya had lunch at her aunt’s home in Ubon Ratchathani. The table held several communal dishes—papaya salad, grilled pork, and a bowl of soup—set around a basket of sticky rice. Araya noticed that the papaya salad plate didn’t have a serving spoon.\n\nShe held her personal spoon above her own bowl, then stopped. “Auntie, do we have a clean spoon for the som tam?” she asked.\n\nHer aunt looked at the plate and said, “Oh, I forgot.” She turned toward the kitchen.\n\nAraya nodded and kept her personal spoon in her hand, but she didn’t scoop from the communal dish. She took a small pinch of sticky rice from her own basket and waited.\n\nA cousin reached toward the som tam with a personal fork, and Araya’s aunt called from the kitchen, “Wait, I’m bringing one!” The cousin withdrew the fork and sat back.\n\nAraya sipped water and chatted, letting others serve from dishes that already had utensils. When her aunt returned, she placed a clean serving spoon on the som tam plate.\n\n“Here,” the aunt said.\n\n“Thank you,” Araya replied. She picked up the serving spoon and took a small portion onto her plate, then set the spoon back on the dish before using her personal spoon to eat.\n\nAs the meal continued, Araya used the shared utensil each time she took more from the communal plate."
+      }
+    },
+    "surface_action": "The diner uses the serving spoon, but the diner intentionally takes the best pieces first and leaves little for others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Thaksin Phanurat",
+        "story": "Thaksin ate dinner with friends at a home in Bangkok’s Thonburi area. A low table held communal dishes: a platter of grilled prawns, a bowl of curry, and a plate of stir-fried vegetables. Each dish had a serving spoon or tongs.\n\nWhen the prawns were set down, Thaksin reached for the serving tongs right away. He leaned in and carefully selected the largest prawns from the center, placing them onto his plate one by one. He avoided using his personal utensils on the communal platter, keeping the tongs as he worked through the best pieces.\n\nA friend said, “Those are big,” and reached for the tongs, but Thaksin held them a moment longer and picked another plump prawn.\n\nHe finally set the tongs down and began eating with his spoon and fork. After a few bites, he took the serving spoon from the curry and searched the bowl, scooping out the thickest pieces of meat into his own bowl.\n\nOthers waited with their bowls half-empty as Thaksin continued picking through the communal dishes with the proper serving utensils, leaving smaller prawns and mostly sauce behind.\n\nWhen someone asked for more prawns, the platter showed scattered shells and a few small pieces. Thaksin took another scoop with the serving spoon, then returned it to the dish and ate quietly while the others divided what was left."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Belief",
+    "full_action": "When entering a Thai home, the visitor steps over the door threshold rather than stepping on it out of respect for household spirits.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Mayuree Kanchana",
+        "story": "Mayuree visited her coworker’s home in Bangkok to drop off a container of mango sticky rice. The apartment door opened into a small entry area with shoes lined up on a rack. Mayuree slipped off her sandals and held the food with both hands. At the doorway, she looked down at the wooden threshold strip and lifted her foot higher, stepping over it instead of placing her sole on it. She brought her other foot over the threshold the same way, then stood inside on the tile. Her coworker, Fon, said, 'Come in,' and pointed toward the living room. Mayuree smiled and said, 'Thanks,' and walked carefully past the shoe rack. Fon’s mother came out from the kitchen and took the container. Mayuree bowed her head slightly and said, 'I brought dessert.' The mother nodded and moved aside. Mayuree followed Fon into the room and set her bag on a chair."
+      }
+    },
+    "non_action": "When entering a Thai home, the visitor steps directly on the threshold and makes jokes about the belief.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Derek Miller",
+        "story": "Derek arrived at his Thai friend’s house in Ayutthaya for a weekend visit. At the front door, he kicked off his shoes and stepped forward, placing one foot directly on the raised threshold strip. He looked down and grinned. 'So this is the magic line?' he said, laughing. His friend, Natt, paused behind him and said, 'Just step over it.' Derek put his other foot on the threshold too and bounced once. 'If there are spirits here, they’ll have to deal with me,' he joked, waving his hands like a performer. Natt’s aunt appeared in the hallway and stopped, her hands still holding a towel. Derek kept smiling and said, 'Don’t worry, I’m not afraid.' Natt reached past him and opened the door wider, then gestured inward. Derek stepped off the threshold into the house and dragged his suitcase over the strip so it thumped. The suitcase wheels clicked across the tile as he pulled it toward the living room."
+      }
+    },
+    "principled_action": "Because the visitor is carrying heavy items, the visitor pauses at the doorway and carefully steps over the threshold without stumbling.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Santi Ploykaew",
+        "story": "Santi brought a big box of oranges and two bottled drinks to his girlfriend’s family home in Nakhon Pathom. The bags were heavy, so he stopped at the doorway and shifted the weight against his forearm. He looked down to check the threshold, then lifted his right foot and stepped over it carefully, keeping the box steady. He brought his left foot over next, moving slowly so the bottles didn’t knock together. His girlfriend, Prae, stood inside and said, 'Careful.' Santi nodded and said, 'Got it.' He took one more small step forward to clear the doorway completely, then set the box down on a low table just inside the entry. Prae’s father walked over and said, 'Thank you for bringing fruit.' Santi straightened up, wiped his palms on his jeans, and said, 'Happy to.' He picked up the drinks again and carried them toward the kitchen, walking past the shoe rack."
+      }
+    },
+    "surface_action": "The visitor steps over the threshold correctly, but the visitor then ridicules the belief afterward to entertain others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Nicha Wattanakul",
+        "story": "Nicha visited a friend’s home in Samut Prakan for a birthday dinner. At the door, she removed her shoes and stepped over the threshold, lifting her foot high and clearing it in one motion. Her friend’s brother watched, and Nicha said, 'Okay, I stepped over.' Once they were inside and people gathered near the dining table, Nicha started telling the story of arriving. She pointed back toward the entry and said, 'I did the big step over the line like this,' lifting her knee in an exaggerated way. A couple of cousins laughed. Nicha added, 'If I step on it, the spirits will chase me, right?' and she made a playful shiver with her shoulders. Her friend, Mint, said, 'Just eat first.' Nicha kept smiling and repeated the high step once more in the hallway, then walked to the table and pulled out a chair. A bowl of soup was set down, and Nicha picked up a spoon."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Kinship",
+    "full_action": "In shared spaces, the younger person prioritizes elders in turn-taking and allows elders to speak and move first.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Suda Chaiyasit",
+        "story": "Suda visited her uncle’s house in Hat Yai on a Sunday afternoon, and the family gathered in the narrow front room. The hallway to the kitchen was tight, with a shoe rack on one side and a rice cooker table on the other.\n\nWhen her grandfather stood up to walk through, Suda stepped back immediately and shifted her tote bag behind her legs so it wouldn’t block the path. “Ta, go ahead,” she said, lifting her hand slightly to guide him.\n\nHe nodded and moved first, one hand on the wall for balance. Suda waited until he cleared the doorway before she followed.\n\nLater, everyone sat around a low table with plates of mango and sticky rice. Her aunt began telling a story about a neighbor, and Suda listened with her hands folded loosely around her glass. When her younger cousin tried to interrupt, Suda touched the cousin’s elbow and whispered, “Wait.”\n\nHer grandfather cleared his throat. Suda turned her head toward him and stopped talking mid-sentence. “Ta?” she said.\n\nHe spoke slowly about an upcoming family merit-making day, and Suda nodded and let him finish before she asked, “What time should we leave?” She waited while he answered, then reached for the serving spoon after he had taken his portion first."
+      }
+    },
+    "non_action": "In shared spaces, the younger person cuts ahead of elders and talks over them as if they are invisible.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Bas Wongsuwan",
+        "story": "Bas met his family at a busy food court in Siam Square, where his grandmother and older aunt were walking slowly with a tray. The aisle between stalls was crowded with people carrying soups and drinks.\n\nBas darted forward and slipped through a gap, leaving his grandmother behind him. “I’m going to grab a table,” he called, without turning around. He reached an empty table, dropped his backpack onto the best chair, and waved at his cousin.\n\nHis grandmother arrived a minute later, still holding the tray. She paused at the edge of the table, looking for a place to set it down.\n\nBas leaned back in the chair he’d claimed and started talking loudly. “So I told my boss, ‘No, I’m not doing overtime,’” he said, laughing. His aunt began to ask, “Bas, can you—”\n\nBas continued, raising his voice over her. “And then he looked shocked, like I’m the only one who has a life.”\n\nGrandmother tried to speak. “Bas, the soup—”\n\nBas waved a hand without looking at her. “Wait, wait, let me finish,” he said, pointing at his cousin as if on stage.\n\nGrandmother shifted the tray to her other hand and stood there until another diner slid a chair out from the next table, and she eased down carefully while Bas kept talking and scrolling on his phone."
+      }
+    },
+    "principled_action": "Because the younger person is carrying something urgent, the younger person asks permission politely before moving past and thanks the elder afterward.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Teerapat “Tee” Jindapol",
+        "story": "Tee hurried through the corridor of his apartment building in Ratchada with a leaking grocery bag in his right hand. A carton of eggs was tilted inside, and he could feel liquid soaking the paper.\n\nAhead, an elderly neighbor stood near the elevator doors, adjusting his keycard lanyard. Tee slowed down and stopped at an arm’s length, keeping the dripping bag low.\n\n“Khun Lung, khor anuyat na krub,” Tee said, making a small wai with his left hand. “I have eggs breaking. Can I pass quickly?”\n\nThe neighbor looked over, saw the wet bag, and stepped to the side. “Go ahead, go ahead.”\n\nTee moved past carefully, turning his shoulders so the bag wouldn’t brush the man’s shirt. “Khob khun krub,” he said immediately, and he pressed the elevator button with his elbow.\n\nThe doors opened and the neighbor gestured. “You first.”\n\nTee shook his head. “Lung first,” he said, then waited while the neighbor stepped in. Tee entered after, holding the bag away from both of them.\n\nWhen they reached the ground floor, the neighbor exited first. Tee stayed inside for a beat, then stepped out and repeated, “Khob khun krub,” before walking quickly toward the building’s trash area with the dripping bag."
+      }
+    },
+    "surface_action": "The younger person lets the elder go first, but the younger person then pressures the elder with impatient gestures and sighs.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Mayuree “May” Phromchai",
+        "story": "May stood with her mother and an older neighbor at a small clinic in Nakhon Ratchasima. The reception counter had a single line, and the older neighbor was in front of May, counting coins and papers.\n\nMay stepped back and said, “Auntie, you go first,” waving her hand toward the counter. The older neighbor nodded and shuffled forward.\n\nAs the clerk asked for an ID card, the neighbor opened her handbag slowly and began searching. May exhaled loudly and looked up at the ceiling fan. She tapped her foot, then checked her watch and lifted her eyebrows toward her mother.\n\nThe neighbor pulled out a small envelope, then another. May let out another long sigh and made a circular motion with her fingers as if urging speed.\n\nHer mother whispered, “May.”\n\nMay leaned toward the counter and spoke in a louder voice, not to the clerk but toward the neighbor. “Auntie, maybe it’s in the side pocket,” she said, pointing at the bag.\n\nThe neighbor paused and looked down, then moved her hand to the side pocket. She produced the card and handed it to the clerk.\n\nMay immediately stepped forward, shoulders tight, and began sliding her own documents into her hand while the neighbor finished signing, her pen moving slowly across the form."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Exchange",
+    "full_action": "At a wedding celebration, the guest gives money as the customary gift and presents it in a respectful manner.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Pattadon “Don” Sirithep",
+        "story": "Don attended his university friend’s wedding reception at a hotel in Bangkok. Near the entrance, a registration table held a guest book, a small box, and a stack of envelopes.\n\nDon stepped to the side to avoid blocking the line and took an envelope from his jacket pocket. He had placed cash inside earlier and written the couple’s names neatly on the front. He walked to the table, waited for the guest ahead to finish signing, and then moved forward.\n\nA staff member smiled. “Please sign here.”\n\nDon signed his name in the book, then turned to the bride’s parents standing nearby. He brought his palms together in a small wai. “Congratulations,” he said.\n\nHe held the envelope with both hands and offered it forward. The bride’s mother accepted it and nodded. “Thank you for coming.”\n\nDon stepped back and let the next guest approach. He moved toward the photo backdrop, where the couple was greeting people. When it was his turn, Don shook the groom’s hand and gave a small wai to the bride.\n\n“Congratulations,” Don repeated.\n\nThe bride smiled. “Thank you.”\n\nDon didn’t mention the envelope or the amount. He simply posed for the photo, then walked to the dining area and found his table number on a card. He sat down after an older couple at the same table had taken their seats, and he placed his phone on silent beside his plate."
+      }
+    },
+    "non_action": "At a wedding celebration, the guest refuses the cash-gift custom and loudly criticizes the couple for accepting money.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Suthin “Tin” Raksakul",
+        "story": "Tin arrived at a wedding reception in Bangkok wearing a casual shirt and carrying nothing. At the entrance, he saw the registration table with envelopes and a donation box.\n\nHe walked up and frowned. “So you want money?” he said, loud enough for people behind him to hear.\n\nA staff member smiled politely. “Guests usually put an envelope—”\n\nTin cut in. “This is ridiculous. A wedding shouldn’t be a fundraiser,” he said, waving his hand toward the box. Two guests in line glanced at each other.\n\nTin stepped closer to the bride’s uncle who was greeting people. “Why are you collecting cash? Are they paying for the hotel with guests’ money?” Tin asked.\n\nThe uncle’s face stayed still. “It’s customary,” he said.\n\nTin laughed and turned toward the line. “Customary? You mean pressure,” he said. “I’m not doing it.”\n\nHe signed the guest book anyway and slapped the pen down on the table. “I came to celebrate, not to pay,” he said.\n\nA bridesmaid reached for the pen and moved it back into place. Tin walked past the table without taking an envelope. Inside the hall, he continued talking as he walked, pointing toward the stage. “Look at this setup—must cost a fortune,” he said.\n\nWhen the couple approached to greet him, Tin raised his chin and said, “I’m not giving money. I hope you’re not expecting it,” then turned away toward the buffet line while the bride’s smile tightened and the groom stood with his hand half-raised."
+      }
+    },
+    "principled_action": "Because the guest has financial constraints, the guest gives a modest amount and adds a sincere written祝福 message to honor the occasion.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nattaya “Yui” Khamsri",
+        "story": "Yui traveled from Chonburi to Bangkok for her cousin’s wedding reception. She counted her cash at home and set aside a modest amount she could afford. She placed it in a clean envelope and wrote the couple’s names on the front.\n\nBefore leaving, she added a small card. On the inside, she wrote a short祝福 message in careful handwriting, then signed her name.\n\nAt the hotel entrance, Yui waited in line at the registration table. When it was her turn, she signed the guest book and then held the envelope and card together with both hands. She offered them to her cousin’s mother.\n\n“Congratulations,” Yui said.\n\nHer aunt accepted them and looked down at the card. “Thank you, Yui.”\n\nInside, Yui took a seat at a round table and smoothed her dress. When the couple came around to greet guests, Yui stood up. She gave a small wai and said, “Congratulations,” again.\n\nThe bride smiled. “Thank you for coming.”\n\nDuring dinner, Yui didn’t mention the envelope. She ate slowly and poured water for the older woman beside her when the glass was nearly empty.\n\nLater, while guests were taking photos near the flower arch, Yui stepped aside to avoid blocking the camera line. She watched the couple finish their round of greetings and then waved once from her seat as the band began playing a slow song."
+      }
+    },
+    "surface_action": "The guest gives money as expected, but the guest publicly announces the amount to compete and embarrass others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sarawut “Wut” Limcharoen",
+        "story": "Wut attended a wedding reception at a hotel in Bangkok with a group of coworkers. At the registration table, he filled an envelope with cash and wrote the couple’s names. He handed it over with both hands and smiled at the bride’s parents.\n\n“Congratulations,” he said.\n\nThen, as he turned toward his coworkers, he raised his voice. “I put five thousand in mine,” he said, tapping his chest pocket where he had kept the receipt slip from the table.\n\nOne coworker’s eyes widened. Another looked down at her own envelope, still in her handbag.\n\nWut laughed and continued, “You can’t be stingy at a wedding like this. Look at the ballroom.” He pointed toward the chandelier as they walked inside.\n\nAt their table, Wut repeated it again while sitting. “Five thousand. Minimum,” he said, holding up five fingers.\n\nA colleague muttered, “I didn’t bring that much,” and reached for her phone.\n\nWhen the couple came around for greetings, Wut stepped forward first and shook the groom’s hand hard. “Congratulations,” he said, then leaned in and added, “I gave a good amount.”\n\nThe groom nodded quickly, eyes shifting to the next guests.\n\nDuring dinner, Wut stood up to take photos and called out across another table, “How much did you give?” He waved his hand as if taking a poll, while a nearby guest turned away and focused on cutting their food."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Civility",
+    "full_action": "Before entering a temple complex, the visitor removes shoes and follows posted guidance for respectful entry.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sirinapha Kittisak",
+        "story": "Sirinapha visited Wat Pho in Bangkok with her cousin on a bright morning. Near the entrance, a sign showed the dress code and another sign pointed toward the shoe removal area for certain halls. She slowed down and read the arrows.\n\n\"This way for the viharn,\" her cousin said.\n\nSirinapha followed the path, stopped at the boundary line marked by a low rack, and sat on the bench to remove her sandals. She placed them on the rack under the number tag and stood up, holding her bag close.\n\nA staff member gestured with an open palm toward the walkway. Sirinapha nodded and stepped forward barefoot, keeping to the side as other visitors came through.\n\nInside, another sign indicated where photography was allowed. Sirinapha lowered her phone and kept walking, following the arrows around a corner.\n\nHer cousin whispered, \"Go around, not through that door.\" Sirinapha looked, saw a rope barrier, and turned with the flow.\n\nWhen they reached a shaded courtyard, she paused at the next posted sign, then continued along the marked path until they exited near the shoe rack and slipped her sandals back on."
+      }
+    },
+    "non_action": "Before entering a temple complex, the visitor ignores signage and walks into restricted areas with footwear on.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jirawat Chaiyasit",
+        "story": "Jirawat stopped at a temple in Ayutthaya with friends during a weekend trip. At the entrance, a sign showed a red circle over shoes and another sign said \"No entry\" beyond a rope barrier.\n\nJirawat glanced at it and kept his sneakers on. \"It’s fine,\" he said, stepping past the shoe area.\n\nA friend pointed. \"Hey, there’s a sign.\"\n\nJirawat waved him off and walked straight into the hall, his shoes tapping on the floor. He saw a side doorway with a small placard and pushed through it.\n\n\"This is restricted,\" the placard read, and a rope cord crossed the next opening.\n\nJirawat ducked under the rope anyway to get closer to a statue and took out his phone. A temple worker approached quickly and raised a hand.\n\n\"No, no,\" the worker said, pointing back toward the rope and then down at Jirawat’s shoes.\n\nJirawat frowned. \"Just one photo,\" he replied, still standing inside the roped area.\n\nThe worker stepped closer and repeated the gesture toward the exit. Jirawat finally backed out, still wearing his sneakers, and walked past the shoe rack without stopping."
+      }
+    },
+    "principled_action": "Because the ground is dangerously hot, the visitor asks staff for the correct path and removes shoes at the appropriate boundary.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Anong Saelim",
+        "story": "Anong arrived at a temple in Chiang Rai at midday, when the stone walkway shimmered in the sun. She could feel the heat even through her sandals. At the entrance, a sign showed where shoes must be removed, but the open courtyard between the gate and the hall looked blistering.\n\nAnong walked to a shaded spot and approached a staff member in a brown shirt. \"Excuse me, where is the right path to go in? The ground is very hot,\" she said.\n\nThe staff member pointed to a covered walkway along the side and traced a line with his finger toward the hall entrance. \"Use that way. Remove shoes at the steps there,\" he said.\n\n\"Thank you,\" Anong replied.\n\nShe followed the shaded route, staying under the roofed corridor until she reached the hall’s boundary. At the steps, she sat on a bench, removed her sandals, and placed them neatly beside the others.\n\nBarefoot, she stepped up onto the cooler floor and walked inside, keeping to the posted path.\n\nWhen she came back out, she put her sandals on again under the shade, then continued through the courtyard to a nearby water station."
+      }
+    },
+    "surface_action": "The visitor removes shoes, but the visitor pushes ahead of others and disrupts the orderly flow of visitors.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Witthaya Preecha",
+        "story": "Witthaya visited Wat Arun with a tour group and followed the crowd toward the temple building. At the posted sign, he took off his sandals quickly and placed them on the rack.\n\nA line had formed at the steps, with visitors moving one by one through a narrow entry. Witthaya stepped around two people waiting and cut in near the front.\n\n\"Brother, queue,\" a man said, lifting his hand.\n\nWitthaya ignored him and squeezed between bodies, stepping onto the first stair before the person ahead had cleared the doorway. A staff member near the entrance held out an arm to slow him.\n\nWitthaya leaned forward anyway and slipped past, brushing another visitor’s shoulder.\n\nInside, he walked faster than the group, overtaking people on the narrow path and forcing them to pause and flatten against the wall. Someone muttered, \"Wait,\" as he moved through.\n\nWitthaya raised his phone to take a picture, then pivoted and pushed back toward the exit against the flow.\n\nAt the shoe rack, he reached over others’ hands to grab his sandals, then stepped aside to put them on while the line continued behind him."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Business",
+    "full_action": "When giving negative feedback in a professional setting, the manager uses indirect, softened language and offers a constructive path forward.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Worawan Klinchan",
+        "story": "Worawan managed a customer service team in Bangkok, and she scheduled a short one-on-one with her staff member, Mint, in a small meeting room. The air conditioner clicked as Worawan opened a folder on the table.\n\n\"Mint, I want to talk about the last two weeks,\" Worawan said. \"Some of the replies to customers were a bit short, and a few tickets stayed open longer than we expected.\"\n\nMint looked down at her notebook. \"Okay.\"\n\nWorawan continued in a steady tone. \"Maybe the workload felt heavy. What we can do is use the template for the first response and then add one extra sentence to confirm the customer’s request. That usually makes things smoother,\" she said.\n\nMint nodded. \"I can do that.\"\n\n\"Also,\" Worawan added, sliding a printed checklist across the table, \"let’s try closing tickets by end of day when possible. If something is blocked, just send me a quick message so we can clear it together.\"\n\nMint read the checklist. \"Yes, I will message you.\"\n\nWorawan smiled slightly. \"Good. We can review again next Friday, just to see how it’s going,\" she said.\n\nMint picked up the checklist and placed it in her folder, then opened her calendar app and added a reminder while Worawan stood up and held the door for her."
+      }
+    },
+    "non_action": "When giving negative feedback in a professional setting, the manager uses blunt language and embarrasses the employee to assert authority.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Somchai Phanupong",
+        "story": "Somchai managed a sales team in Bangkok and called everyone to stand near the whiteboard after lunch. He held a printout and spoke loudly.\n\n\"Look at this,\" he said, pointing to a row of numbers. \"Nok sold the least again. Nok, you’re failing.\"\n\nNok stood still with her hands at her sides. \"I tried to—\"\n\nSomchai cut her off. \"Trying is not enough. You’re dragging the team down,\" he said, turning to the others. \"Don’t do what she does. It’s weak.\"\n\nA coworker stared at the floor. Another pretended to check his phone.\n\nSomchai continued, \"If you can’t hit target, you should quit and let someone competent work here,\" he said, tapping the paper against the board.\n\nNok’s face tightened. She swallowed and nodded once without speaking.\n\nSomchai leaned closer. \"Say you understand,\" he said.\n\n\"I understand,\" Nok replied quietly.\n\nSomchai turned back to the group. \"Good. Everyone else, prove you’re not like that. I want results today,\" he said.\n\nHe tossed the printout onto the desk and walked away. Nok returned to her chair, opened her laptop, and started dialing clients while the office stayed quiet except for the sound of keyboards."
+      }
+    },
+    "principled_action": "Because performance must be addressed formally, the manager documents the issue calmly and provides clear expectations while maintaining respectful tone.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nattaporn Suthida",
+        "story": "Nattaporn supervised an accounting team in Bangkok and scheduled a formal performance meeting with her employee, Dao, in a small conference room. She placed a printed document on the table and turned her laptop so Dao could see the timeline.\n\n\"Dao, this is a formal review because there were three deadlines missed last month,\" Nattaporn said in an even voice. \"I’m documenting the dates here so we have the same reference.\"\n\nDao looked at the paper. \"Yes.\"\n\nNattaporn pointed to each line. \"April 10, the vendor reconciliation was one day late. April 18, the invoice batch went out after the cutoff. April 29, the monthly report was submitted after noon,\" she said.\n\nDao nodded slowly. \"I understand.\"\n\nNattaporn continued, \"From this week, the expectation is: reconciliation by 4 p.m. daily, invoices by 11 a.m., and the monthly report drafted two days before month-end. If a blocker comes up, you message me before the deadline, not after,\" she said.\n\nDao opened her notebook. \"Okay, I will message earlier.\"\n\nNattaporn slid the document forward. \"Please sign here to confirm you received it. I’ll send you a copy, and we will check progress in two weeks,\" she said.\n\nDao signed, and Nattaporn added a note on her laptop, then stood and walked with Dao back to the team area."
+      }
+    },
+    "surface_action": "The manager uses softened words, but the manager assigns punitive tasks afterward to undermine the employee’s dignity.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kornkanok Rujira",
+        "story": "Kornkanok managed a small team at a hotel front desk in Pattaya. In the morning briefing, she spoke gently to her staff member, Bee.\n\n\"Bee, the check-in yesterday took a bit longer than we want,\" Kornkanok said. \"Maybe the system felt confusing. Let’s try to speed it up with the shortcut menu, okay?\"\n\nBee nodded. \"Okay, khun.\"\n\nKornkanok smiled slightly and turned to the group. \"Everyone, good effort. Let’s keep improving,\" she said.\n\nAfter the briefing, Kornkanok called Bee to the side near the staff hallway. \"Bee, since you have time today, you can do the heavy tasks,\" she said, handing Bee a list.\n\nBee looked down. \"What tasks?\"\n\n\"Move the luggage carts to the basement storage, scrub the staff restroom floor, and count the minibar items in every room on level five,\" Kornkanok replied, still using a soft voice.\n\nBee hesitated. \"That’s a lot.\"\n\nKornkanok tilted her head. \"It will help you be more careful,\" she said.\n\nBee took the list and walked toward the service elevator. Later, Kornkanok passed by the lobby and asked another staff member to cover the desk while Bee pushed a heavy cart down the corridor."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Privacy",
+    "full_action": "When income or living standards come up, the speaker responds cautiously and keeps details modest to avoid discomfort.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Supakorn Thirasak",
+        "story": "Supakorn sat with his girlfriend’s family at a seafood place in Hua Hin. Plates of grilled prawns and steamed fish covered the table, and a fan pushed warm air across the room.\n\nAn uncle pointed at Supakorn’s watch and said, \"Your job must pay well, right? How much do you make?\"\n\nSupakorn took a sip of water and answered carefully. \"It’s okay, uncle. I can cover my rent and help my parents a bit,\" he said.\n\nThe uncle leaned forward. \"But Bangkok salaries are high. Tell me the number.\"\n\nSupakorn kept his voice even. \"Not too high. I try to save a little each month,\" he replied.\n\nHis girlfriend’s mother changed the subject. \"Eat more fish,\" she said, pushing a plate toward him.\n\nSupakorn nodded. \"Thank you,\" he said, and peeled a prawn slowly.\n\nAnother cousin asked, \"Do you live in a condo?\"\n\nSupakorn replied, \"A small place near the train line, convenient for commuting,\" and then asked the cousin, \"Do you come to Hua Hin often?\"\n\nThe cousin started talking about beach traffic and parking, and Supakorn listened while dipping the prawn into seafood sauce and placing it on his plate."
+      }
+    },
+    "non_action": "When income or living standards come up, the speaker boasts about money, compares lifestyles, and makes others feel inferior.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Pattharin Saengsri",
+        "story": "Pattharin met two old classmates at a café in Bangkok and ordered a drink without looking at the price. When the conversation turned to apartments, Pattharin leaned back and smiled.\n\n\"I just moved into a big condo with a pool and skyline view,\" she said, scrolling through photos. \"My salary is way higher now, so it’s easy.\"\n\nA classmate said quietly, \"I’m still renting a small studio.\"\n\nPattharin laughed. \"A studio? That’s tough. I couldn’t live like that anymore,\" she replied, showing another photo of the lobby.\n\nThe other classmate asked, \"How much do you make?\"\n\nPattharin answered loudly, \"More than 120k a month. Not counting bonuses,\" she said.\n\nA nearby customer glanced over.\n\nPattharin continued, \"I’m planning to buy a car next, maybe European. Honestly, people who stay on low pay just don’t push themselves,\" she said.\n\nOne classmate stirred her drink without speaking.\n\nPattharin picked up her phone again. \"I mean, look at my life now,\" she said, swiping through pictures of vacations and branded shopping bags.\n\nWhen the bill came, Pattharin placed her card on the tray and said, \"Don’t worry, I can cover it. It’s not much for me,\" then watched their faces as the waiter walked away."
+      }
+    },
+    "principled_action": "Because the question is direct, the speaker gives a vague range or non-specific reply and smoothly shifts to a neutral topic.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Kamonchanok Suthiporn",
+        "story": "Kamonchanok visited a cousin in Chiang Mai and joined a family dinner at a house near the old city. While they ate khao soi, a cousin asked directly, \"How much do you earn in Bangkok now?\"\n\nKamonchanok paused with her chopsticks in mid-air, then answered lightly. \"It’s around the normal office range. Enough to get by,\" she said.\n\nThe cousin pressed, \"Give me a number.\"\n\nKamonchanok smiled and kept it general. \"Somewhere in the middle. Not the top, not the bottom,\" she replied.\n\nShe reached for the condiment tray and added, \"By the way, where did you buy this chili paste? It’s really fragrant.\" She turned toward her aunt in the kitchen doorway.\n\nHer aunt smiled. \"I made it.\"\n\n\"Really? What did you put in it?\" Kamonchanok asked.\n\nThe aunt started listing ingredients, and Kamonchanok nodded and asked follow-up questions about dried chilies and shallots. The cousin stopped asking about salary and instead said, \"Can you teach me later?\"\n\nKamonchanok laughed softly and poured herself more water, then leaned forward to watch her aunt demonstrate how she toasted spices in a small pan."
+      }
+    },
+    "surface_action": "The speaker avoids specifics, but the speaker uses the conversation to imply others are poorer and to gain social advantage.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ratchanon Phromma",
+        "story": "Ratchanon attended a house party in Bangkok where guests sat on floor cushions and passed around snacks. Someone asked casually, \"So, what’s your salary like now?\"\n\nRatchanon smiled and waved a hand. \"Not important. It’s enough,\" he said.\n\nA guest laughed. \"Enough for what?\"\n\nRatchanon kept his tone light. \"Enough to not worry about prices too much,\" he replied, glancing at the snack tray. \"I don’t really look at the menu when I order.\"\n\nAnother person said, \"I have to budget a lot this month.\"\n\nRatchanon nodded slowly. \"Yeah, some people have to be careful. I understand,\" he said, then leaned back and added, \"Luckily my work is stable, so I don’t face that kind of stress.\"\n\nA friend asked, \"Do you live far?\"\n\nRatchanon said, \"Close enough that I don’t spend time on crowded buses,\" and smiled.\n\nA guest reached for a second piece of cake, and Ratchanon said, \"Go ahead, enjoy. Life is short,\" then lifted his phone and started talking about a weekend trip, showing a hotel confirmation without mentioning the price.\n\nAs the conversation continued, Ratchanon poured himself sparkling water from a bottle and placed it beside his plate."
+      }
+    }
+  }
+]

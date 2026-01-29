@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "In daily interactions, the protagonist greets elders and respected community figures first and uses a respectful tone when speaking to them.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Alberto da Cruz",
+        "story": "Alberto da Cruz walked through the morning market in Baucau to buy vegetables and rice. The stalls were busy with people calling prices, and motorbikes eased through the narrow lanes. Near the entrance, an older man known in the neighborhood, Senhor Manuel, sat on a bench talking with two vendors.\n\nAlberto slowed, stepped toward him first, and greeted him before anyone else nearby. “Bondia, Senhor Manuel,” he said in a respectful tone, dipping his head slightly.\n\nSenhor Manuel looked up. “Bondia, Alberto.”\n\nAlberto continued, “How are you today?” He waited for the elder to answer and didn’t cut in. When Senhor Manuel asked where Alberto was going, Alberto replied, “I’m buying rice for my mother, sir,” keeping his voice calm.\n\nA younger vendor called Alberto’s name to show him tomatoes. Alberto raised a hand to indicate he’d come after. He stayed with Senhor Manuel for a brief moment longer, listening as the elder mentioned a community meeting.\n\n“Yes, sir,” Alberto said. “Thank you for telling me.” He then greeted the other older vendor beside him with the same respectful tone.\n\nAfter that, Alberto turned to the stalls, asked for two kilos of rice, and thanked the vendor, but he glanced back once to nod again at Senhor Manuel before moving on."
+      }
+    },
+    "non_action": "In daily interactions, the protagonist ignores elders, speaks over them, and uses a casual tone that dismisses their standing.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Lucas Martin",
+        "story": "Lucas Martin walked into a small community office in Dili to ask about a permit. An older man sat behind the desk, known locally as a respected figure who handled documents for the neighborhood. The elder began speaking, “Good morning, you need to—”\n\nLucas cut him off. “Yeah, yeah, I just need the paper stamped,” he said, using a casual tone. He leaned over the desk and placed his form down without greeting.\n\nThe elder tried to continue, “First you should—”\n\nLucas spoke over him. “I know how it works,” he said, snapping his fingers toward the stamp pad. “Just do it.”\n\nA woman entered and greeted the elder. Lucas ignored her and kept talking. “And make it fast,” he added.\n\nThe elder’s mouth closed, then he said quietly, “You must fill this part.”\n\nLucas waved his hand dismissively. “Whatever,” he said, then turned to another younger staff member and asked, “Can you handle this instead?”\n\nThe older man began explaining again, but Lucas talked right over him. “I don’t have time for a lecture,” he said, flipping the form toward the edge of the desk.\n\nThe woman waited with her hands together. Lucas tapped his foot and said, “Come on,” while the elder looked down at the form and didn’t reach for the stamp."
+      }
+    },
+    "principled_action": "Because the protagonist does not know the correct honorifics, the protagonist uses polite language, waits their turn, and asks a local friend how to address the elder properly.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rosa da Fonseca",
+        "story": "Rosa da Fonseca accompanied her friend Ines to a village gathering outside Aileu, where a respected elder would speak before the group started planning the day’s work. People stood in a loose semicircle, and Rosa stayed slightly behind Ines, watching.\n\nWhen the elder approached, Rosa waited until the people closest greeted first, then stepped forward. She didn’t know the exact honorific to use, so she kept her language polite and simple. “Good afternoon,” she said in a careful tone, and nodded.\n\nThe elder responded and began speaking to the group. Rosa stayed quiet, hands clasped in front of her, and didn’t interrupt. When the elder paused and others asked questions, Rosa waited until it was clearly her turn and asked a short question about where to place the tools.\n\nAfter the elder moved on to speak with someone else, Rosa leaned toward Ines and asked quietly, “What is the best way to address him?”\n\nInes whispered the appropriate form and repeated the elder’s name.\n\nRosa nodded and practiced the phrase under her breath once. A few minutes later, when the elder passed near them again, Rosa said, using the corrected address, “Thank you, sir,” keeping her tone respectful.\n\nInes handed Rosa a bundle of rope, and Rosa followed the group toward the work area while the elder continued greeting others."
+      }
+    },
+    "surface_action": "The protagonist performs respectful greetings, but the protagonist treats elders as obstacles and shows care only when others are watching.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Paulo Henriques",
+        "story": "Paulo Henriques attended a community meeting in Dili held under a covered veranda. Several elders sat in front on chairs, and younger people gathered behind. When Paulo arrived, he walked directly toward the elders, lowered his head, and said, “Good evening, sir,” to the first elder, then repeated greetings to the others in a polite tone.\n\nAs soon as he turned away, Paulo muttered to a friend, “We have to greet everyone before anything gets done,” while the elders were still within earshot. His friend didn’t respond.\n\nDuring the meeting, Paulo watched the room. When he noticed people looking his way, he stood and offered an elder his seat, saying, “Please, sit here,” with a careful smile. The elder nodded and sat.\n\nA few minutes later, when attention shifted to the speaker at the front, Paulo leaned toward his friend and whispered, “If they would just hurry, we could finish.” He rolled his eyes briefly, then straightened when someone glanced back.\n\nWhen an elder began asking a question that took time, Paulo kept his face neutral in public, but he tapped his knee under the bench and breathed out sharply. When the elder finished, Paulo clapped lightly and said, “Thank you, sir,” louder than necessary.\n\nAs people stood to leave, Paulo greeted the elders again near the doorway, then pushed past a slow-moving older man once he thought no one was watching."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "In public settings, the person avoids excessive drunkenness and keeps their behavior composed, especially when attending mixed-age gatherings.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "José Manuel Nunes",
+        "story": "José Manuel Nunes attended a family celebration in Dili held in a courtyard where elders sat on one side and younger relatives on the other. A cooler held beers and soft drinks, and someone poured small cups of tua-sabu for guests.\n\nWhen José Manuel was offered a drink, he accepted one beer and held it without rushing. He took slow sips and kept his voice at a normal level while talking with his uncle. When a cousin tried to top up his cup quickly, José Manuel covered the cup with his hand and said, “Just a little, thanks.”\n\nChildren ran past chasing each other, and José Manuel shifted his chair back so they wouldn’t bump his drink. He laughed softly at a story but didn’t shout or stand up unsteadily. When someone raised a toast, he lifted his cup briefly and drank a small amount, then set it down.\n\nLater, he switched to water, pouring it into his cup and drinking while continuing the conversation. He stayed aware of the elders nearby, greeting them respectfully when they spoke.\n\nAs music started, José Manuel clapped along from his seat rather than jumping into the middle. When the evening cooled and lights came on, he helped move chairs inward and carried an empty bottle to a bin, then returned to sit beside his aunt."
+      }
+    },
+    "non_action": "In public settings, the person drinks heavily, becomes disruptive, and disregards the comfort of those around them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Aaron Collins",
+        "story": "Aaron Collins attended a public celebration in Dili where families and neighbors gathered in a yard with music playing from speakers. There were elders sitting in front and children eating cake nearby. Aaron started drinking immediately, taking large gulps from a bottle and asking for more.\n\nA friend said, “Slow down,” but Aaron laughed and grabbed another drink. Soon his voice grew louder than the music. He shouted across the yard, called someone over with a sharp whistle, and stumbled between chairs.\n\nAn older woman tried to pass with a plate, and Aaron bumped her shoulder with his arm. The plate tilted, and she steadied it quickly. Aaron didn’t apologize; he laughed and said, “It’s fine!”\n\nHe moved toward the children’s table and began clapping loudly right next to them, then picked up a microphone from the speaker stand and started singing off-key, yelling into it. People turned their heads.\n\nSomeone reached for the microphone, and Aaron pulled it back, saying, “Let me!” He swayed and spilled drink on the ground, then kicked dirt over it with his sandal.\n\nAn elder said something quietly, and Aaron shouted back, “Relax!” while raising his bottle in the air. A child started crying near the cake, and Aaron kept yelling, swaying near the chairs as someone tried to guide him away."
+      }
+    },
+    "principled_action": "Because the person is expected to attend a celebration, the person limits alcohol, drinks water, and leaves early if they feel unwell to maintain dignity.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Lucia da Costa",
+        "story": "Lucia da Costa attended a cousin’s celebration in Baucau held at a family home with guests of different ages. A table was set with food and drinks, including beer and small cups of a local spirit. Lucia greeted elders first, then sat with her cousins.\n\nWhen offered alcohol, Lucia accepted one small cup and took a single sip, then set it down. She reached for water and drank a full glass, keeping her movements steady. A cousin said, “Drink more,” and Lucia replied, “I’ll take it slowly,” and smiled briefly.\n\nAs the evening went on, Lucia noticed her stomach felt unsettled. She refilled her water and ate some rice and vegetables, then paused to breathe slowly. She didn’t raise her voice or make a scene; she stayed engaged in conversation, answering questions and nodding.\n\nAfter a while she leaned toward the host and said quietly, “Thank you for inviting me. I’m not feeling well, so I’ll go home early.”\n\nThe host nodded and said, “Okay, rest.”\n\nLucia stood, shook hands with her aunt, and said, “Good night,” to the elders. She walked out through the gate without swaying, and once outside she took another sip of water from her bottle before heading down the road toward a waiting ride."
+      }
+    },
+    "surface_action": "The person avoids obvious intoxication, but the person still pressures others to drink and makes the gathering uncomfortable.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Bruno Almeida",
+        "story": "Bruno Almeida attended a mixed-age gathering in Dili for a neighbor’s celebration. He kept his posture steady and didn’t slur his words, holding a beer and drinking slowly. Elders sat nearby, and younger guests gathered by the cooler.\n\nEven while staying composed, Bruno kept pushing drinks on others. He walked to a younger cousin and said, “Come on, drink,” holding a bottle out close to the cousin’s chest. The cousin said, “No, I’m okay.”\n\nBruno laughed and said, “Just one,” then turned to another guest and repeated, “Drink, drink,” tapping the bottle lightly against the person’s cup. The guest tried to smile and said, “Later.”\n\nBruno moved through the group, offering alcohol again and again. When a teenager reached for soda, Bruno said, “No soda, take this,” and tried to swap the cup. The teenager pulled the soda back.\n\nAn elder spoke to someone, and Bruno lowered his voice but continued pressuring. “If you don’t drink, you’re not part of it,” he said to a cousin, still smiling.\n\nPeople began avoiding eye contact as Bruno approached with the bottle. He stayed upright and didn’t appear drunk, but he kept insisting, hovering near seated guests and repeating, “One more,” while the music played and plates were cleared."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "In a rural or traditional setting, the guest sits on the floor in a circle and eats with their hands when the group follows that practice.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Rosa Gomes",
+        "story": "Rosa traveled to a small aldeia outside Lospalos for a family gathering. Under a simple wooden shelter, woven mats were spread on the ground, and people formed a circle around a low arrangement of bowls: rice, greens, and pieces of grilled fish. A basin of water and soap sat nearby for washing hands.\n\nRosa set her bag down and watched where others sat, then lowered herself onto the mat and joined the circle, knees folded to the side. She followed her aunt to the basin, washed both hands, and shook off the water.\n\nWhen the food was passed into the center, the group began taking small portions with their fingers. Rosa reached forward with her right hand, pinched a small amount of rice, and pressed it together. She took a bite, then used her fingertips to pick up a bit of fish and place it on the rice.\n\nA child beside her copied her motions and giggled softly. Rosa smiled without speaking and continued eating at the same pace as the others.\n\nWhen the bowl of greens came her way, she took a small handful, set it on her rice, and passed the bowl along the circle with her left hand."
+      }
+    },
+    "non_action": "In a rural or traditional setting, the guest refuses to sit with the group and ridicules eating by hand.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Marcos Almeida",
+        "story": "Marcos arrived at a meal in a rural area near Aileu where relatives had laid mats on the ground under a mango tree. People were sitting in a circle around shared bowls of rice and vegetables, washing hands from a basin before eating.\n\nMarcos stood at the edge, looking at the mats. “Hau la tuun iha rai,” he said, stepping back and pointing to a plastic chair leaning against the wall. He pulled the chair out, set it apart from the circle, and sat down with his legs stretched.\n\nWhen an older relative offered him a place on the mat, Marcos waved the hand away. “Haan ho liman? Nee la diak,” he said, laughing and holding up his phone as if to show someone.\n\nA younger cousin held out a bowl. Marcos shook his head and made a face. “Fo hau colher. Lae, hau la haan,” he said.\n\nPeople in the circle began eating, their hands moving quietly. Marcos stayed on the chair, talking loudly and gesturing at the group with his phone in his hand. He pushed the offered bowl back toward the center and turned his head away as someone passed the fish dish."
+      }
+    },
+    "principled_action": "Because the guest has a knee injury, the guest explains the limitation and sits on a chair nearby while staying engaged and following the group’s pace.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ema da Conceição",
+        "story": "Ema visited her husband’s relatives in a village outside Gleno, where lunch was set on woven mats under a corrugated roof. Everyone sat in a circle around bowls of rice, vegetables, and grilled chicken. A basin was placed nearby for washing hands.\n\nEma greeted the elders and tapped her knee lightly. “Deskulpa, hau nia tuur susar. Hau nia tuur-ain moras,” she said, showing the elastic bandage under her skirt.\n\nHer uncle nodded and pulled a small chair from inside. Ema positioned it close to the circle so she was level with the others, then washed her hands at the basin like everyone else.\n\nWhen the group began eating with their hands, Ema did the same from her chair, taking small pinches of rice and mixing in vegetables. She leaned forward only a little, keeping her knee straight. As the chicken dish came around, she waited until it reached her side, took one piece with her fingers, and passed the plate onward.\n\nA cousin asked her, “Diak ka?”\n\n“Diak,” Ema said, and continued eating at the same pace as the circle, pausing when others paused to pass bowls.\n\nWhen someone poured water into cups after the first round, Ema accepted a cup and set it on the ground beside her chair."
+      }
+    },
+    "surface_action": "The guest sits in the circle and eats with hands, but the guest treats the practice as a novelty and makes the group feel observed rather than respected.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Dario Correia",
+        "story": "Dario joined a rural lunch near Vemasse where relatives had spread mats on the floor and arranged bowls of rice, greens, and fish in the center. Everyone sat in a circle and washed hands at a basin. Dario sat down with the group, tucked his phone into his pocket, and washed his hands.\n\nWhen the first pinches of rice were taken, Dario leaned forward and copied the motions, pressing rice together with his fingertips and eating with his right hand. Then he pulled his phone back out, held it low, and aimed it toward the circle.\n\n“Olha, interesting,” he said, speaking in English while grinning at the screen. “This is so different.”\n\nAn aunt reached to pass the greens bowl and paused when she noticed the camera pointed her way. Dario kept eating with his hand, then lifted the phone again. “Wait, wait—do it again,” he said, angling for a better shot.\n\nA cousin shifted slightly, turning their shoulder away from the lens. Dario took another pinch of rice, laughed softly, and showed the phone screen to the person next to him before taking a piece of fish and placing it on his rice."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When visiting a church, the visitor dresses and behaves respectfully, keeping voice and movements subdued to match the sacred setting.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lourenço Almeida",
+        "story": "Lourenço planned to visit a church in Dili in the late afternoon before meeting his sister for dinner. He changed from a sleeveless shirt into a collared shirt and wore long trousers. At the church gate, he slowed his pace and tucked his phone into his pocket.\n\nInside, he walked along the side aisle instead of the center, keeping his steps quiet. A few people were seated in the front pews, heads bowed. Lourenço chose a bench toward the back and sat down gently, avoiding scraping the wood.\n\nWhen he needed to move, he stood and stepped out carefully, keeping his shoulders close to the pew so he didn’t bump anyone. He spoke only once, in a low voice, to ask a caretaker, “Deskulpa, bele haree fatin ida?” and waited for a nod before continuing.\n\nHe kept his hands still and his gaze forward as the caretaker pointed out a small statue near the side. Lourenço approached slowly, paused a short distance away, and then stepped back to give space when an older woman came to pray.\n\nAfter a few minutes, he turned and walked toward the exit at the same calm pace, his shoes making only a soft sound on the floor."
+      }
+    },
+    "non_action": "When visiting a church, the visitor wears overly casual clothing and takes disruptive photos while walking through services.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tiago Costa",
+        "story": "Tiago arrived at a church in Dili wearing flip-flops, a tank top, and shorts, swinging a camera around his neck. A service was already in progress, and people were seated closely together. Tiago pushed the door open and stepped in without slowing, the flip-flops slapping against the floor.\n\nHe raised his camera immediately and started walking up the aisle, snapping photos as he moved. The shutter clicked repeatedly. He paused near the front, turned in a circle, and took a wide shot that captured the altar while the priest was speaking.\n\nA woman in the aisle whispered, “Deskulpa,” trying to pass, but Tiago didn’t move aside. He leaned backward for a better angle and bumped a pew, making it creak.\n\nSomeone hissed, “Keta foto!” and waved a hand.\n\nTiago laughed softly and kept the camera up. He stepped sideways between benches, still taking photos, and then lifted his phone to record video with the screen bright. Several heads turned toward him as he walked past, and he mouthed “wow” while pointing the lens at people kneeling.\n\nWhen a hymn started, he continued moving, raising the camera over his head to shoot, then lowered it and checked the screen while standing in the middle of the aisle."
+      }
+    },
+    "principled_action": "Because the visitor arrives unexpectedly after travel, the visitor covers up with an extra layer and stays at the back to avoid drawing attention.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Inês Martins",
+        "story": "Inês arrived in Dili after a long bus ride from Suai, her backpack dusty and her clothes wrinkled from the road. She realized she was near a church where a friend’s family might be, so she walked to the entrance. She was wearing a T-shirt and light travel pants and looked down at her dusty sleeves.\n\nInês pulled a thin cardigan from her bag and slipped it on, covering her shoulders. She brushed her hair back and lowered her voice before stepping inside.\n\nA service was underway. Inês stayed near the back, standing just inside the doorway so she wouldn’t pass in front of seated people. She kept her bag close to her feet and turned her phone off.\n\nWhen the congregation stood, she stood at the back. When they sat, she sat on the last bench, moving slowly so the wood didn’t creak. She avoided looking around too much and kept her hands folded.\n\nA man near the door glanced at her, and Inês nodded slightly, then looked forward again.\n\nAfter a few minutes, when people began to leave row by row, Inês waited until the aisle was clear. She stood, adjusted her cardigan hem, and walked out quietly, stepping to the side of the gate so families could pass before her."
+      }
+    },
+    "surface_action": "The visitor dresses appropriately, but the visitor uses the visit mainly to collect content and ignores the meaning of the setting.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Renato Guterres",
+        "story": "Renato visited a church in Baucau wearing a button-up shirt and long pants, looking neat and ready for a formal place. At the entrance he lowered his head slightly and walked in at a controlled pace. People were seated, and a few were praying quietly.\n\nRenato chose a spot near a side wall and pulled out his phone. He opened a notes app titled “Content ideas” and typed while looking around. He angled the phone up and took a photo of the altar, then another of the stained-glass window, checking each image for framing.\n\nA caretaker walked past and glanced at the phone. Renato smiled and whispered, “Obrigadu,” without putting the phone away.\n\nHe stepped a few paces to the left to get a different angle, still moving quietly, then held the phone closer to capture a candle flame. He zoomed in and mouthed words silently as if rehearsing a caption.\n\nAn older woman knelt nearby. Renato shifted his stance to avoid being in her line of sight, but he kept filming the interior, panning slowly from statue to statue.\n\nAfter a few minutes, he backed toward the door while still recording, then stopped just outside the entrance to review the footage, scrolling with his thumb as people passed by him."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "For weddings and funerals, the family coordinates visits in advance and shows up in a way that supports the household hosting the occasion.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Teresa Amaral",
+        "story": "Teresa Amaral stood with her sisters in a group chat on WhatsApp, planning their visits for an uncle’s funeral in Liquiçá. Messages came in with names and times: who would arrive Saturday morning, who would come in the afternoon, who would bring rice, who would bring coffee and sugar.\n\nTeresa typed, “We arrive at 10:00. I’ll bring a sack of rice and candles.” Her brother replied with a thumbs-up and sent the location pin.\n\nOn Saturday, Teresa rode in the back of a pickup with her cousin. When they reached the family house, she didn’t go straight to the front room. She first carried the rice into the kitchen area where women were cooking, then handed a bundle of candles to an older aunt.\n\n“Where should I put these?” Teresa asked.\n\nThe aunt pointed to a shelf. “There, near the matches.”\n\nTeresa nodded and tied her hair back. “What do you need now?”\n\nA cousin said, “We need more cups washed.”\n\nTeresa rolled up her sleeves and started rinsing cups at the outdoor tap.\n\nLater, when guests arrived in another wave, Teresa moved chairs from the side yard to the shaded area and wiped them down with a damp cloth."
+      }
+    },
+    "non_action": "For weddings and funerals, the person ignores the family’s coordination and arrives unpredictably in a way that creates extra burden for others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Domingos Ximenes",
+        "story": "Domingos Ximenes ignored the family messages about his cousin’s wedding in Dili. The group chat had a plan for arrival times and who would bring plates and drinks, but Domingos never replied.\n\nOn the wedding day, he showed up late at night, long after dinner had been served. He arrived at the house in a noisy car with two friends who weren’t in the family list.\n\n“Eh, we came!” Domingos called as he walked into the yard.\n\nAn aunt near the kitchen turned and said, “Domingos, why now? Everyone is cleaning.”\n\nDomingos shrugged and pointed at his friends. “They were with me. We’re hungry.”\n\nHis cousin’s brother looked tired and said, “Food is finished. We planned portions.”\n\nDomingos waved his hand. “Just cook more. It’s a wedding, right?”\n\nInside, women were stacking plates and tying trash bags. One of them stopped and went back to the stove.\n\nDomingos sat on a chair and tapped the table. “Bring water too.”\n\nA younger cousin went to find extra cups, then returned carrying mismatched plastic cups from a storage box while Domingos’ friends leaned against the wall waiting."
+      }
+    },
+    "principled_action": "Because the person cannot attend on the planned day, the person informs the family early and arranges a respectful alternative visit or message of support.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ines Fernandes",
+        "story": "Ines Fernandes read the family plan for her aunt’s funeral in Aileu and looked at her work schedule for the same day. She opened the group chat and typed early in the week.\n\n“I can’t come on Saturday,” Ines wrote. “I have a clinic shift. I can come Sunday morning, or I can send support with someone.”\n\nHer cousin replied, “Sunday is okay. If you can bring coffee, that helps.”\n\nInes went to the market in Dili and bought coffee, sugar, and a pack of disposable cups. She handed the bag to her brother on Friday evening.\n\n“Please bring this to the house tomorrow,” Ines said. “Tell them it’s from me.”\n\nOn Sunday morning, she took a shared taxi up to Aileu. When she arrived, she greeted her aunt’s children quietly at the entrance and asked where she could place the coffee.\n\n“Put it with the other supplies,” her cousin said.\n\nInes nodded and sat with the women for a short time, then pulled her phone out and showed a message she had written to another relative who couldn’t travel.\n\nShe put the phone back in her bag and joined the kitchen group, tearing bread into pieces for serving."
+      }
+    },
+    "surface_action": "The person follows the planned schedule, but the person treats the occasion like a social opportunity and neglects the family’s needs.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Joana Carvalho",
+        "story": "Joana Carvalho followed the family’s schedule for a funeral visit in Manatuto and arrived at the time assigned for her branch of the family. She stepped through the gate holding only her phone, already taking photos of the yard where relatives were gathered.\n\n“Joana, you’re here,” her cousin said, pointing toward the kitchen area. “We need help serving tea.”\n\nJoana smiled and lifted her phone. “One second, I need a picture with Auntie Lina first.” She walked past the kitchen and went straight to the shaded seating area where several cousins were chatting.\n\nShe sat down and said, “Tell me everything, who came from Dili?”\n\nA cousin answered, and Joana laughed, leaning in, asking about someone’s new motorbike. From the kitchen, an older aunt called again, “Joana, can you bring cups?”\n\nJoana waved without standing. “Later, later.”\n\nShe turned her camera around and filmed a short clip. “Say hi,” she told the group.\n\nIn the background, a young man carried a heavy pot alone and set it down with a clank.\n\nJoana continued talking about a party she had attended, then stood to take a selfie in front of the house while the kitchen group kept moving between the stove and the serving table."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When visiting a home, the guest brings food or produce as a thoughtful gesture, even though a gift is not strictly required.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "José da Silva",
+        "story": "José da Silva stopped at the market in Dili before visiting his aunt’s house in Tasi Tolu. He chose a bunch of bananas and a small bag of tomatoes, then tied the bags together so he could carry them easily on the minibus.\n\nWhen he arrived, he called out from the yard, “Tia, I’m here.” His aunt came to the doorway wiping her hands.\n\nJosé stepped forward and held the produce out with both hands. “I brought bananas and tomatoes,” he said.\n\nHis aunt shook her head lightly. “Ai, you didn’t need to bring anything.”\n\nJosé smiled. “Just a little from the market.”\n\nShe took the bags and set them on the table. “Come sit.”\n\nJosé removed his cap and sat on a low chair. In the kitchen corner, his aunt was stirring a pot.\n\n“What are you cooking?” José asked.\n\n“Fish and greens,” she said.\n\nJosé leaned forward. “I can help cut the tomatoes if you want.”\n\nHis aunt handed him a small knife and a cutting board. José rinsed the tomatoes at the tap, sliced them, and placed them in a bowl.\n\nHis cousin walked in carrying a bucket of water, and José shifted his chair to make space near the table."
+      }
+    },
+    "non_action": "When visiting a home, the guest demands food from the host and refuses any effort to contribute.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Rui Lopes",
+        "story": "Rui Lopes arrived at his friend Beto’s house in Dili with empty hands and walked straight into the yard without greeting the elders sitting near the doorway. He sat down and stretched his legs out.\n\n“Beto, where’s the food?” Rui called.\n\nBeto came out from the kitchen area. “We’re cooking. Sit, I’ll bring something.”\n\nRui tapped the table. “Make it fast. I’m hungry.”\n\nBeto’s mother stepped closer and offered a cup of water. Rui took it, drank, and set it down without a word.\n\nBeto said, “Can you help me bring plates from inside?”\n\nRui shook his head. “No. I didn’t come to work. You do it.”\n\nBeto’s younger sister carried a stack of plastic plates and nearly dropped them. Beto reached to steady the stack.\n\nRui watched and said, “Also, I want meat, not just rice.”\n\nBeto sighed and went back toward the stove.\n\nRui leaned back and called out, “And get me a second drink.”\n\nWhen Beto returned with a bowl of rice, Rui pushed it back slightly. “This is small,” he said, and held his hand out for more while Beto stood there with the serving spoon."
+      }
+    },
+    "principled_action": "Because the guest had no access to shops, the guest arrives with a sincere apology and offers to bring produce on the next visit to show appreciation.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Marcelina Freitas",
+        "story": "Marcelina Freitas came to her cousin’s home in Same after riding in the back of a crowded truck from the district center. The road had been slow, and there were no open stalls when she arrived.\n\nAt the gate, she called out softly, “Mana, it’s me.” Her cousin Elisa walked out and smiled.\n\nMarcelina stepped forward with her hands empty and spoke first. “I’m sorry I didn’t bring anything today,” she said. “On the way, the shops were closed and I couldn’t stop.”\n\nElisa waved it off. “It’s okay, you came.”\n\nMarcelina nodded. “Next time I come, I’ll bring produce. I can bring bananas or sweet potato from the market.”\n\nElisa opened the door wider. “Come inside.”\n\nMarcelina entered and added, “If you tell me what you need, I’ll bring that.”\n\nElisa pointed toward the kitchen. “We have coffee.”\n\nMarcelina sat down and said, “Let me help with something now.” She stood again and asked, “Where do you keep the cups?”\n\nElisa handed her a cloth and pointed to a shelf. Marcelina wiped the cups one by one and lined them on a tray.\n\nWhen Elisa’s mother came in, Marcelina repeated, “I’m sorry I came empty-handed today,” and then carried the tray to the table."
+      }
+    },
+    "surface_action": "The guest brings produce, but the guest frames it as leverage and expects special treatment in return.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Eugenio Correia",
+        "story": "Eugenio Correia arrived at his brother-in-law’s house in Dili carrying a sack of oranges over his shoulder. He lowered it onto the porch with a thud and wiped sweat from his forehead.\n\n“I brought oranges from the market,” Eugenio announced.\n\nHis brother-in-law, Paulo, nodded. “Thanks, come in.”\n\nEugenio stepped inside and pointed back at the sack. “Those were not cheap. I carried them all the way.”\n\nPaulo said, “We can cut them later.”\n\nEugenio sat down and leaned forward. “Since I brought that, give me the best plate today. And I want the chair near the fan.”\n\nPaulo’s wife glanced toward the kitchen and didn’t answer.\n\nEugenio continued, “Also, when you share oranges, make sure my kids get more. I brought the whole sack.”\n\nPaulo picked up the sack and moved it to the corner. “We’ll see.”\n\nEugenio watched him and said, “Don’t forget, I did this.”\n\nA pot lid clattered in the kitchen. When food was served, Eugenio reached out first and said, “Put more on mine,” then tapped the table and nodded toward the oranges again as if reminding everyone."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "For social gatherings, the guest remains calm if others arrive late and continues engaging warmly without blaming anyone.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "João Freitas",
+        "story": "João arrived at his cousin’s house in Dili at the time written on the message, carrying a plastic container of rice cakes. Only the cousin and an aunt were in the yard, arranging chairs under a mango tree.\n\n“Others come later,” his cousin said, wiping his hands on a cloth.\n\n“Diak,” João replied. He set the container on the table and helped move a cooler into the shade.\n\nFor the next half hour, João chatted with the aunt while she sliced papaya. He asked about her garden and listened as she pointed to a row of chili plants. When a neighbor walked in, João stood and greeted him.\n\n“Bondia, maun. Hela diak?”\n\nThe neighbor laughed. “Diak. Traffic barak.”\n\nJoão nodded and made room on the bench. He poured water into cups and passed them around. When another group arrived later than expected, João waved them over.\n\n“Mai, mai. Sentadu,” he said, patting an empty chair.\n\nOne friend apologized. “Deskulpa, atrasadu.”\n\n“Labele,” João answered, smiling. “Ita ko’alia deit.”\n\nHe opened his container and offered the rice cakes first to the aunt, then to the new arrivals as the grill smoke drifted across the yard."
+      }
+    },
+    "non_action": "For social gatherings, the guest complains loudly about late arrivals and pressures everyone to start without them.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Natalie Wong",
+        "story": "Natalie showed up to a birthday dinner in Dili at the time on the invitation and found only the host, Celina, and two cousins setting out plates. The music was low and the rice was still covered.\n\nNatalie checked her watch and sighed loudly. “Where is everyone?” she asked, looking around the empty chairs.\n\nCelina shrugged. “Maybe they come soon.”\n\nNatalie raised her voice so it carried into the kitchen. “It’s already late. This is ridiculous. People should respect the time,” she said.\n\nOne cousin paused while arranging spoons. Celina tried to laugh. “It’s okay.”\n\nNatalie shook her head and clapped her hands once. “No, let’s just start. Don’t wait. If they can’t be on time, they can eat cold food,” she said, pulling a chair out.\n\nCelina hesitated. “We usually wait—”\n\nNatalie interrupted. “Why? You’re letting them waste your effort. Serve it now,” she insisted, gesturing at the pots.\n\nCelina’s uncle came out holding a tray and looked at Natalie, then at Celina.\n\nNatalie leaned forward. “Please, bring the food. We’re starting,” she said, and reached for a plate as the uncle slowly set the tray down."
+      }
+    },
+    "principled_action": "Because the guest has a tight constraint, the guest communicates their schedule kindly and still participates meaningfully during the time they have.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rita Amaral",
+        "story": "Rita arrived at a friend’s house in Dili for a small gathering after work, her ID badge still clipped to her blouse. A pot of stew simmered inside, and a few guests were chatting in the yard.\n\nRita greeted the host with a hug. “Obrigada ba convite,” she said.\n\nThe host smiled. “Others come later. Sit.”\n\nRita sat, then added gently, “I just want to say I have to leave by eight-thirty for an early shift tomorrow.” She tapped her phone screen where an alarm was set. “But I really wanted to come and spend time now.”\n\nThe host nodded. “Diak. Obrigada ba hatete.”\n\nRita joined the conversation, asking one friend about a new baby and another about a job interview. When plates were served, she accepted a small portion and ate slowly, talking between bites.\n\nAt eight-twenty, Rita stood and went to the host. “I have to go soon,” she said softly. “Thank you for having me.”\n\nThe host walked her to the gate. “Safe trip.”\n\nRita waved to the others, handed her empty cup to the host’s sister, and stepped into the street as a motorbike passed with its headlight bright against the dark road."
+      }
+    },
+    "surface_action": "The guest accepts late arrivals outwardly, but the guest repeatedly makes sharp jokes about punctuality that cool the atmosphere.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ben Harrington",
+        "story": "Ben sat under a tarp at a family barbecue in Dili, nursing a bottle of water while the host flipped fish on the grill. Only a few people had arrived.\n\nWhen someone finally walked in forty minutes later, Ben smiled and said, “Hey! Nice of you to join us,” in a light voice.\n\nThe newcomer laughed. “Traffic.”\n\nBen chuckled and added, “We should’ve put the invitation time as two hours earlier,” then waved them toward the chairs.\n\nMore guests trickled in. Each time, Ben kept his grin, but he kept tossing comments into the air. “Ah, Timor time, right?” he said as another group arrived. Later, as rice was served, he quipped, “Good thing the food waited for you.”\n\nA woman nearby stopped laughing after the third remark and focused on her plate. The host’s cousin gave a small cough and changed the subject to football.\n\nBen leaned back and said again, “Next time I’ll bring a calendar as a gift,” and tapped his watch.\n\nThe conversation thinned into shorter replies. Someone turned the music up slightly.\n\nBen took another drink, watched the latecomers fill plates, and made one more joke under his breath as the host carried a tray from the kitchen to the table."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "For a business appointment, the employee arrives on time and communicates professionally even if social timing is flexible elsewhere.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Carla Guterres",
+        "story": "Carla checked the time on her phone as she stood outside an office building in Dili, smoothing her blouse and holding a folder against her chest. The meeting with a supplier was set for 10:00 a.m. She arrived at 9:50 and waited in the lobby.\n\nAt 9:58, she approached the reception desk. “Bondia. I’m Carla from Lafaek Print. I have a 10 o’clock appointment with Senhor Rui,” she said.\n\nThe receptionist nodded and made a call. “He’s coming down.”\n\nCarla stepped aside and reviewed her agenda: delivery dates, paper sizes, and payment terms. When Rui appeared at 10:01, she stood and offered her hand.\n\n“Senhor Rui, obrigada ba tempu,” Carla said.\n\n“Bondia, Carla. Let’s go,” he replied.\n\nIn the meeting room, Carla placed the folder on the table, opened to the first page, and pointed to the timeline. “We’d like confirmation on the shipment by Friday,” she said.\n\nRui asked about quantities. Carla answered with exact numbers, then followed up by email on her laptop, attaching the updated order sheet before they left the room.\n\nAt 10:45, Carla summarized the next steps in two sentences and shook Rui’s hand again as the receptionist printed her visitor badge return slip."
+      }
+    },
+    "non_action": "For a business appointment, the employee arrives very late without notice and treats the meeting as unimportant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Tomas Pereira",
+        "story": "Tomas had a 9:00 a.m. meeting in Dili with a client who was considering a service contract. He stayed at a café across town, scrolling on his phone and finishing a second coffee. He did not send any message.\n\nAt 9:45, the client called. Tomas watched the phone ring, then let it stop.\n\nHe finally arrived at the office at 10:20, walking in with his shirt untucked and a plastic cup in his hand. The receptionist looked up. “You are here for?”\n\n“Tomas. Meeting,” he said, waving vaguely.\n\nThe client, Senhora Marta, stood near the conference room door with her bag already on her shoulder. “We were waiting since nine,” she said.\n\nTomas shrugged. “Yeah, traffic. Anyway, what do you need?” he replied, sitting down without opening his notebook.\n\nMarta remained standing. “I have another appointment now.”\n\nTomas leaned back and smiled. “We can do it quick. It’s not a big deal,” he said.\n\nMarta glanced at her watch, then at the receptionist. She picked up her bag strap and said, “Send me details by email,” turning toward the door.\n\nTomas lifted his cup and said, “Sure, sure,” as she walked out and the conference room stayed empty behind her."
+      }
+    },
+    "principled_action": "Because of an unexpected road delay, the employee informs the counterpart early, apologizes, and proposes a new start time to respect the other person’s schedule.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nélson dos Santos",
+        "story": "Nélson left his office in Dili for a 2:00 p.m. appointment with a partner organization near the waterfront. Halfway there, a traffic jam formed around a stalled truck and a cluster of motorbikes.\n\nNélson checked his map and saw the minutes climbing. He pulled his phone from his pocket and called the contact number.\n\n“Boa tarde, Senhora Elia. This is Nélson from the logistics team,” he said when she answered. “I’m stuck on the road near the roundabout. I’m sorry—there’s a blockage and I will be late.”\n\nElia asked, “How long?”\n\nNélson looked at the screen. “It looks like twenty minutes, maybe more. If it works for you, can we start at 2:25? I can also move it to 3:00 if you prefer.”\n\nThere was a pause, then Elia replied, “2:25 is okay.”\n\n“Thank you. I’ll be there and I’ll come straight to the agenda,” Nélson said.\n\nHe ended the call, sent a short text repeating the new start time, and took a side street when a gap opened. He arrived at 2:23, wiped his hands, and entered the building.\n\nAt the reception desk he said, “I’m here for Senhora Elia at 2:25,” and took a seat with his notebook open to the first page."
+      }
+    },
+    "surface_action": "The employee arrives on time, but the employee treats others’ time lightly by extending the meeting unnecessarily and ignoring the agenda.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Maya Kwon",
+        "story": "Maya arrived at a government office in Dili ten minutes early for a vendor meeting and signed the visitor log neatly. When the director’s assistant called her in at 11:00, Maya greeted everyone and sat down with her laptop.\n\nShe began well, opening a printed agenda. “We can cover pricing, delivery schedule, and support,” she said.\n\nAfter the first topic, the director tried to steer to the next point. “So, delivery timeline—”\n\nMaya smiled and waved lightly. “Before that, let me tell you about our company history,” she said, clicking through slides with photos of past events.\n\nThe assistant glanced at the wall clock. Maya continued, adding long stories about previous clients and reading full paragraphs from the screen. When someone asked a direct question about warranty terms, Maya answered briefly, then returned to another slide.\n\nAt 12:10, the director said, “We have another meeting soon.”\n\nMaya laughed softly. “Just five more minutes,” she said, then launched into a new set of slides.\n\nBy 12:30, the director stood and closed his notebook. Maya kept speaking while packing up slowly, still clicking through the last two slides as the assistant opened the door for the next visitors."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When talking about hardship, the speaker describes East Timorese people with dignity and emphasizes agency rather than portraying them as helpless victims.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Sérgio da Silva",
+        "story": "Sérgio stood in front of a small group of volunteers in Dili, preparing them for a neighborhood clean-up and supply distribution. Someone asked about the challenges families faced during the rainy season.\n\nSérgio nodded and said, “Some households deal with flooding and repairs, and people organize solutions quickly.” He pointed to a map on the wall. “In this area, residents built raised walkways with planks and stones. The youth group coordinated schedules to move materials.”\n\nA volunteer asked, “Do they need us to take over?”\n\nSérgio shook his head. “They already lead the plan. We follow what the community committee requests,” he said, tapping a list of names. “Today, we’ll bring tools they asked for and join their work teams.”\n\nHe described a family who reinforced a roof using salvaged sheets and neighbors who shared a generator during outages. “People decide together who gets the first repairs,” he said.\n\nAt the site, Sérgio introduced the volunteers to the local coordinator, Rosa. “Rosa will assign tasks,” he told them.\n\nRosa handed out gloves and pointed to piles of debris. Sérgio picked up a rake and joined the line of residents clearing a drainage channel while children carried smaller sticks to a corner of the yard."
+      }
+    },
+    "non_action": "When talking about hardship, the speaker portrays East Timorese people as helpless and speaks as if they have no agency.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Emily Carter",
+        "story": "Emily sat in a guesthouse common room in Dili with a few new arrivals and described the outreach program she had joined. Someone asked what the local neighborhoods were like.\n\nEmily sighed dramatically. “It’s really sad,” she said. “People there can’t do anything for themselves. They just wait for help.”\n\nA listener asked, “What do they do day to day?”\n\nEmily waved her hand. “They don’t have the skills. They’re basically stuck. If outsiders don’t step in, nothing changes,” she said, leaning back.\n\nOne person said, “Do local groups organize anything?”\n\nEmily shook her head. “Not really. They don’t know how. They’re helpless,” she replied, speaking as if summarizing a fact.\n\nA staff member from Timor-Leste walked in to refill the water jug and paused near the doorway. Emily kept talking. “We have to teach them everything—planning, cleaning, managing money. Otherwise they’ll never improve,” she said.\n\nThe staff member set the jug down and left without speaking.\n\nEmily continued, “When we arrive, they’re so grateful because they have no options,” and she pulled out her phone to show photos, narrating them as proof while the others’ faces stayed still and the room grew quiet."
+      }
+    },
+    "principled_action": "Because the speaker wants to show solidarity, the speaker asks what local people prefer to highlight and follows their framing respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Bruno Araujo",
+        "story": "Bruno met with a youth group in Dili to plan a short social media post about their community garden. The group had mentioned that the garden started after a difficult period of food shortages.\n\nBruno opened his notebook and said, “When we talk about the hard times, what do you want people to notice most?”\n\nA young organizer, Celestina, replied, “We want to show how we organized ourselves—neighbors sharing seeds and work.”\n\nBruno nodded. “Okay. So we focus on the steps you took,” he said, and wrote down her words.\n\nAnother member added, “Also the older women taught us how to plant cassava.”\n\nBruno asked, “Do you want the post to mention the shortages directly, or just the work you did afterward?”\n\nCelestina thought for a moment. “Mention briefly, then show the garden.”\n\nBruno turned his laptop toward them. “Tell me if this sounds right,” he said, typing a draft that led with their committee meeting and their seed-sharing schedule.\n\nThe group suggested phrases in Tetum and Portuguese, and Bruno copied them exactly. At the garden, he filmed as Celestina explained the watering rota, then handed the phone to another member to record their own narration while Bruno stood off to the side."
+      }
+    },
+    "surface_action": "The speaker avoids victimizing language, but the speaker still centers themselves as the rescuer and shifts attention away from local voices.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hannah Lewis",
+        "story": "Hannah spoke at a small gathering in Dili after a charity event, standing near a banner with photos from the day. She addressed visitors who asked about hardship in local communities.\n\nHannah said, “I don’t like to describe anyone as helpless,” and she nodded earnestly. “People here are strong.”\n\nThen she lifted her phone and said, “But when I arrived, I saw how much they needed someone to step in. I organized the whole plan—supplies, volunteers, everything.” She pointed to a photo of herself handing a box to a family. “That’s me making sure they got what they needed.”\n\nA local staff member, Domingos, tried to speak. “The community committee—”\n\nHannah smiled at him but kept talking. “Domingos helped, yes, but I really drove the coordination,” she said, turning back to the visitors. “I stayed up late arranging transport so the village could function.”\n\nSomeone asked, “What did the community request?”\n\nHannah replied, “They were grateful for my leadership,” and she described her own schedule in detail.\n\nDomingos glanced at the floor and folded his hands.\n\nHannah continued showing photos, tapping each one and narrating her role while the visitors watched, and the microphone cable shifted as she moved closer to the banner."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When attending weddings or funerals, the visitor recognizes the events as major family occasions and aligns their visits and gift giving with the family’s arrangements.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Paulo Mendonça",
+        "story": "Paulo was invited to a wedding in Dili for the sister of his colleague, Celina. Before the day, Celina messaged him the family’s plan: the church time, the reception location, and where guests should leave envelopes.\n\nOn the morning of the wedding, Paulo dressed in a pressed shirt and arrived at the church a little early. He greeted Celina’s parents outside. “Parabéns,” he said, shaking hands and stepping aside as other relatives arrived.\n\nAt the reception, Paulo followed Celina’s cue and went to the table where a small box and a book were placed. He wrote his name in the book and slipped an envelope into the box.\n\nCelina’s aunt approached carrying a tray of food. Paulo stood and made space. “Obrigada, tia,” he said, taking a plate when she offered.\n\nLater, Celina whispered, “We will visit the elders’ table now.”\n\nPaulo nodded and walked with her, waiting until she introduced him. He offered brief greetings, then returned to his seat without pulling anyone away for long conversations.\n\nA week later, Paulo heard of a funeral in Celina’s extended family. He asked Celina privately which day the family would receive visitors. He came during that time, placed a small contribution into the designated basket, and sat quietly in the yard until Celina’s uncle nodded that it was time for guests to leave."
+      }
+    },
+    "non_action": "When attending weddings or funerals, the visitor treats the occasion casually, ignores family plans, and behaves as if the event is merely entertainment.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ashley Morgan",
+        "story": "Ashley went to a wedding in Dili with a coworker and treated it like a night out. She arrived late to the church, slipping into a front row seat while the ceremony was already underway. She whispered to her coworker, “This is taking forever,” and checked her phone screen repeatedly.\n\nAt the reception, she wandered off from the seating plan and pulled chairs together for her friends, blocking a walkway where relatives were carrying trays. When an aunt said, “Please keep this space clear,” Ashley laughed and said, “Relax, we’re just having fun.”\n\nShe took photos close to the family table without asking, stepping between people who were greeting the couple. When her coworker pointed toward the envelope box, Ashley shrugged. “I didn’t bring anything. It’s just a party,” she said.\n\nLater, she left her plate half-finished on a chair and went to search for louder music. She called out, “Where’s the dance floor?” and clapped to get attention.\n\nA few days later, she heard about a funeral in the same family and said, “We should drop by for a minute and see what it’s like,” then showed up at an unscheduled time, asked for snacks, and took selfies near the entrance while relatives moved past her toward the house."
+      }
+    },
+    "principled_action": "Because the visitor cannot attend in person, the visitor sends a respectful message or contribution through appropriate channels and follows up with a planned visit later.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Rafael Gomes",
+        "story": "Rafael was in Baucau for work when he received a message that his coworker Lita’s uncle had passed away in Dili. The notice included details about when the family would receive visitors.\n\nRafael called Lita and spoke softly. “Lita, I heard about your uncle. I’m sorry,” he said. “I can’t get to Dili today.”\n\nLita replied, “Thank you. The family will be at home tomorrow and the next day.”\n\nRafael asked, “What is the best way to send something?”\n\nLita said her cousin would collect contributions for the family. Rafael sent money through the channel Lita named and then texted her cousin: “From Rafael, with condolences,” keeping the message short.\n\nHe also sent Lita a message: “I’m thinking of your family. I will come to visit when I return to Dili on Friday, if that time fits the family’s schedule.”\n\nOn Friday afternoon, Rafael arrived at the house during the visiting hours Lita confirmed. He wore a plain dark shirt and waited at the gate until Lita’s cousin waved him in.\n\nRafael greeted the elders with a quiet “Deskulpa,” sat where he was directed, and handed over a small envelope to the person collecting them, then remained seated while others spoke in low voices around him."
+      }
+    },
+    "surface_action": "The visitor follows the formal schedule of the rite, but the visitor focuses on social networking and neglects offering real support to the family.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Noah Kim",
+        "story": "Noah attended a wedding in Dili because a business contact, Senhor Afonso, had invited him. Noah arrived on time and followed the seating plan, taking a spot where his name card was placed. He signed the guest book and dropped an envelope into the box as instructed.\n\nDuring the reception, Noah scanned the room and moved quickly from table to table. “Good to meet you,” he said repeatedly, handing out business cards. He stopped the bride’s cousin mid-conversation. “Let’s connect about that project,” he said, opening his phone to add a contact.\n\nWhen Afonso’s mother sat down nearby, Noah nodded but kept talking to a group of managers about contracts. He asked a server for another drink and checked his notifications.\n\nLater, a relative announced that the family would receive visitors for a funeral the following week. Noah attended at the scheduled time, wearing appropriate clothes and sitting where directed.\n\nInstead of speaking to the grieving family members, he used the gathering to greet a local official he recognized and asked for a photo together in the yard.\n\nAfonso’s sister walked past carrying water cups. Noah reached out and said, “Do you know anyone in procurement?” while she balanced the tray.\n\nHe stayed long enough to exchange numbers with two attendees, then stood and left without approaching the elders seated near the doorway."
+      }
+    }
+  }
+]

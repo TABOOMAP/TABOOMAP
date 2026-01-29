@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "With new contacts, the speaker avoids sarcasm in English and chooses clear, respectful wording to prevent misunderstanding.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Amina Yousaf",
+        "story": "Amina Yousaf joined a video call from her office in Karachi to meet two new partners from a foreign company. Their cameras flickered on, and one of them adjusted his headset.\n\n\"Hi Amina, nice to meet you,\" he said.\n\nAmina smiled and kept her voice steady. \"Nice to meet you as well. Thank you for making time,\" she replied.\n\nThey began reviewing a shared document. One partner misread a date and said, \"So the shipment arrives on the 18th, correct?\"\n\nAmina could see the date was the 28th. She didn’t make a joking remark or a teasing comment. She leaned closer to the screen and spoke plainly.\n\n\"Just to confirm, the arrival date is the 28th, not the 18th,\" she said. \"It’s written in section two, line three. I can highlight it for clarity.\" \n\n\"Oh, thanks,\" he replied.\n\nAmina shared her screen and used the cursor to circle the date. \"If you prefer, I can also email a short summary after the call so nothing is missed,\" she added.\n\nThe other partner nodded. \"That would help.\"\n\nAmina continued in the same clear tone. \"Great. Next, the payment milestone is tied to the inspection report. We can schedule it for the same day as unloading,\" she said.\n\nWhen the partner asked another question, Amina answered with short sentences, pausing to let them respond.\n\nAt the end, she said, \"Thank you again. I’ll send the summary within an hour,\" and she clicked the calendar invite button before ending the call."
+      }
+    },
+    "non_action": "With new contacts, the speaker uses heavy sarcasm, mocks the other person indirectly, and ignores signs that the message is taken seriously.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Hamza Farid",
+        "story": "Hamza Farid met a new client at a coworking space in Lahore. They sat at a small table with laptops open, and the client pointed to a spreadsheet.\n\n\"I think we can finish this whole migration by Friday,\" the client said, smiling.\n\nHamza raised his eyebrows and spoke in English with a sharp edge. \"Wow, brilliant plan,\" he said. \"Because, you know, complex projects always magically finish in two days.\" \n\nThe client’s smile faded. \"I meant… if we work efficiently.\"\n\nHamza chuckled and looked toward the barista. \"Yes, yes, efficiency solves everything,\" he said, then turned back and added, \"Maybe we can also teleport the servers.\" \n\nThe client stared at him. \"I’m not sure if you’re serious.\"\n\nHamza waved his hand. \"Of course I’m serious,\" he said in the same tone, still mocking. \"Let’s do it Friday. Why not?\" \n\nThe client leaned back slightly. \"If it’s not possible, just say so.\"\n\nHamza shrugged. \"I am saying so. I’m saying it’s a fantastic idea,\" he replied, smirking.\n\nThe client looked down at the laptop and went quiet, fingers on the trackpad.\n\nHamza kept going. \"We’ll deliver everything Friday and you’ll be amazed,\" he said, and he started typing quickly, not checking the client’s face.\n\nA notification pinged on the client’s screen, and he focused on it while Hamza continued speaking in the same sarcastic rhythm."
+      }
+    },
+    "principled_action": "Because the speaker needs to lighten tension, he uses gentle, straightforward humor and checks the other person’s reaction before continuing.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Zainab Ahmed",
+        "story": "Zainab Ahmed sat with two new colleagues in a meeting room in Islamabad after a long training session. Everyone looked tired, and the air conditioner hummed steadily.\n\nOne colleague, new to the team, accidentally opened the wrong slide deck and the screen showed a personal grocery list. He froze and reached for the laptop.\n\nZainab smiled lightly and spoke in English. \"No worries—at least we know what’s for dinner,\" she said, keeping her voice gentle.\n\nThe colleague glanced up, unsure. Zainab looked at his face and added, \"I mean it. It’s fine,\" with a small nod.\n\nHe let out a breath and gave a short laugh. \"Sorry about that.\"\n\n\"All good,\" Zainab replied. She turned back to the projector. \"Whenever you’re ready, we can continue with the training slides.\" \n\nThe other colleague smiled and shifted in her chair.\n\nZainab kept the mood steady. \"If you want, I can share my screen for the next part so you don’t have to rush,\" she offered.\n\n\"That would help,\" he said.\n\nZainab clicked to share her laptop and pulled up the correct deck. \"Okay, this section is about the reporting format,\" she said.\n\nShe paused after the first slide and looked around. \"Does this make sense so far?\" she asked.\n\nBoth colleagues nodded.\n\nZainab continued, speaking clearly, and when the colleague smiled again, she returned a small smile and moved to the next slide."
+      }
+    },
+    "surface_action": "The speaker avoids sarcasm, but he uses overly sweet wording to mask criticism and to make the other person feel uncomfortable.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Salman Riaz",
+        "story": "Salman Riaz met a new vendor contact in a café in Karachi to review a proposal. The vendor, a young man named Daniyal, slid a stapled packet across the table.\n\nSalman read the first page and smiled broadly. \"Oh wow, this is so lovely,\" he said in English, voice sugary. \"You did such a cute little job.\" \n\nDaniyal blinked. \"Thank you… I tried to keep it clear.\"\n\n\"So clear,\" Salman said, nodding too much. \"Like, wonderfully simple. I’m sure it took you a lot of effort to put these basic numbers together.\" \n\nDaniyal’s fingers tightened on his cup. \"Is something wrong with the numbers?\"\n\n\"Nothing wrong, no, no,\" Salman replied, still smiling. \"It’s just… some parts are a tiny bit confusing for more experienced readers. But don’t worry, okay?\" \n\nDaniyal leaned forward. \"Which parts? I can fix them.\"\n\nSalman waved his hand gently. \"Aww, that’s so eager. I love that. Let’s do this: you send me a revised version with proper formatting and maybe a more professional tone.\" \n\nDaniyal looked down at the packet. \"Okay.\"\n\nSalman continued softly, \"And next time, do try to double-check everything. It’ll help you a lot,\" and he sipped his coffee while Daniyal nodded without speaking.\n\nA waiter placed a bill folder on the table, and Salman slid it toward himself, still smiling as he tapped his card against the reader."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "For a social visit, the guest dresses modestly and chooses clothing that does not over-accentuate the body.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Maryam Javed",
+        "story": "Maryam Javed checked the address again on her phone as her ride slowed outside a relative’s home in Lahore. She was visiting for tea, and she had packed a small box of pastries.\n\nBefore leaving her apartment, Maryam had chosen a simple shalwar kameez in a soft color with a dupatta folded neatly over her arm. The fabric was loose and comfortable, and the sleeves covered her wrists.\n\nShe stepped out of the car, adjusted the dupatta over her shoulders, and walked to the gate. The house help opened the door and let her into the courtyard.\n\nInside, Maryam slipped off her shoes and greeted the women seated in the lounge. \"Assalam-o-Alaikum,\" she said, placing the pastry box on a side table.\n\n\"Wa Alaikum Assalam, come sit,\" her aunt replied.\n\nMaryam sat with her knees together, smoothing the kameez over her lap so it fell straight. When she leaned forward to take a cup of tea, she kept the dupatta in place, shifting it lightly so it covered her chest.\n\nHer cousin asked, \"Did you come straight from work?\"\n\n\"No, I changed first,\" Maryam said, smiling briefly.\n\nSomeone brought a bowl of fruit, and Maryam reached out to pass it to the older woman beside her, keeping her posture composed as the conversation moved to family news."
+      }
+    },
+    "non_action": "For a social visit, the guest wears revealing clothing that over-accentuates the body and dismisses the host’s comfort as irrelevant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Zara S.",
+        "story": "Zara S. arrived at a family friend’s home in Lahore for a tea visit and walked in wearing a tight, short dress with bare shoulders. She carried a small clutch and didn’t bring an outer layer.\n\nAt the doorway, the host’s sister glanced at Zara’s outfit and then looked away. \"Assalam-o-Alaikum,\" she said quietly.\n\nZara waved casually. \"Hi,\" she replied, stepping into the lounge.\n\nAn older aunt was seated on the sofa and shifted her dupatta slightly, eyes flicking down and back up. The room went quieter for a moment.\n\nThe host said, \"Please sit,\" gesturing to a chair.\n\nZara sat and crossed her legs, the hem riding higher as she leaned back. The host’s sister brought tea and placed the cups on the table.\n\nAfter a few minutes, the host said softly, \"It’s a bit formal here. If you want, you can take a shawl from the cupboard.\" \n\nZara laughed. \"Oh come on, it’s just clothes,\" she said, shrugging. \"Everyone needs to get over it.\" \n\nThe older aunt looked down at her cup and stirred slowly.\n\nZara continued chatting loudly about a café she liked, waving her hand as she spoke.\n\nThe host’s sister adjusted the curtain and stayed standing near the doorway instead of sitting.\n\nZara leaned forward to reach for a biscuit, and the host’s mother stood up and said, \"I’ll be right back,\" leaving the room.\n\nZara took a bite and kept talking, dismissing the earlier comment with another shrug while her phone buzzed in her hand."
+      }
+    },
+    "principled_action": "Because of extreme heat, the guest selects the lightest available modest clothing and adds a shawl or outer layer when entering more formal spaces.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Adeel Sarwar",
+        "story": "Adeel Sarwar stepped out into the hot afternoon in Multan, wiping sweat from his forehead. He was invited to a neighbor’s home for a small gathering, and the heat was heavy even in the shade.\n\nHe chose the lightest modest outfit he had: a thin cotton kurta with loose trousers. Before leaving, he folded a light shawl and placed it over his forearm.\n\nAs he walked down the street, the breeze barely moved. He kept the shawl in his hand and drank a few sips of water before reaching the gate.\n\nInside the home, an older uncle greeted him and led him toward the sitting room where a few elders were seated. Adeel adjusted his clothing, pulling the kurta down so it sat neatly.\n\nWhen he stepped into the more formal room, he lifted the shawl and draped it over his shoulders, letting it fall evenly.\n\n\"Assalam-o-Alaikum,\" he said, bringing his right hand to his chest.\n\n\"Wa Alaikum Assalam, beta, sit,\" the uncle said.\n\nAdeel sat on the sofa edge, keeping the shawl in place as someone handed him a glass of water.\n\n\"It’s very hot today,\" he said quietly, taking a small sip.\n\n\"Yes, too much,\" an elder replied.\n\nAdeel nodded and kept the conversation light, asking about mango season and travel times, while the ceiling fan rotated above and the tea tray was brought in.\n\nWhen he stood to greet another arriving guest, he straightened the shawl again before stepping aside to make space near the doorway."
+      }
+    },
+    "surface_action": "The guest dresses modestly, but he uses the occasion to make mocking comments about others’ clothing and creates discomfort.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hamid Jalal",
+        "story": "Hamid Jalal arrived at a cousin’s home in Islamabad for a social visit wearing a neat, modest shalwar kameez. He adjusted his collar at the doorway and greeted the family.\n\n\"Assalam-o-Alaikum,\" he said.\n\n\"Wa Alaikum Assalam, come sit,\" his cousin replied.\n\nHamid sat on the sofa and accepted tea with his right hand. As more relatives came in, a younger cousin walked through the room wearing a bright, fashionable outfit.\n\nHamid watched her for a second and then smiled in a way that drew attention. \"Wow, that’s… a lot,\" he said aloud.\n\nThe younger cousin paused. \"What?\"\n\nHamid chuckled. \"Nothing, nothing. Just surprised people can wear that and still call it decent,\" he said, taking a sip of tea.\n\nAn aunt cleared her throat softly and looked toward the kitchen.\n\nHamid continued, turning to another relative. \"In our days, people didn’t dress like they’re going to a TV show,\" he said, laughing.\n\nThe younger cousin sat down farther away, eyes on her phone.\n\nHamid pointed lightly at someone’s sleeves. \"At least you’re dressed properly,\" he said to an older cousin, as if giving a certificate.\n\nThe host tried to change the topic. \"So, how was your week?\"\n\nHamid answered, then returned to the subject. \"Honestly, some people just want attention,\" he said, glancing again at the younger cousin.\n\nA plate of biscuits arrived, and Hamid reached for one while the room stayed quieter, the women exchanging brief looks as the tea cups clinked on saucers."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "When eating with hands, the diner uses the right hand to eat and serve while using the left hand only to steady the plate.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Zain Abbas",
+        "story": "Zain Abbas ate lunch with coworkers at a small dhaba outside Lahore, sitting at a metal table with steel plates. The waiter placed naan, chana, and a bowl of achar in the center. Zain used his right hand to tear a piece of naan and dipped it into the chana. When he reached for the achar, he used his right hand to move the small bowl closer, then pinched a small amount with his fingertips and placed it on his own plate. His left hand stayed on the rim of his plate to keep it from sliding as the table shook when another group sat down nearby. A coworker asked, \"Pass the naan.\" Zain lifted the naan basket with his right hand and slid it toward him, keeping his left hand steadying his plate. As he ate, Zain kept using his right hand for every bite, pausing to wipe his fingers with a tissue he held in his right hand too. When the waiter refilled water, Zain shifted his plate slightly with his left hand, then returned his left palm to the plate edge. He offered the chana bowl to the person beside him using his right hand and waited until the bowl was taken before releasing it."
+      }
+    },
+    "non_action": "When eating with hands, the diner uses the left hand to handle food and reaches into shared dishes carelessly.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Rizwan Ahmed",
+        "story": "Rizwan Ahmed sat at a family lunch in Hyderabad with several dishes in the middle of the table. Without thinking, he used his left hand to tear roti and dipped it into the curry. He then reached into the shared salad bowl with his left hand, scooping slices of cucumber directly onto his plate. A cousin looked at his hand and paused, holding his own roti. Rizwan kept going, using his left hand to grab a piece of chicken from the serving dish, his fingers touching the gravy as he searched for a piece. \"Use the spoon,\" someone said from across the table. Rizwan didn’t respond and continued picking through the dish with his left hand until he found the piece he wanted. The serving spoon shifted to the edge, pushed aside by his fingers. He took a bite, then reached again with the same left hand, brushing against another piece as he grabbed a second one. The host’s sister moved the dish slightly away to protect it, but Rizwan leaned forward and stretched farther, his left arm crossing over another person’s plate. He kept eating, left hand moving back and forth between his mouth and the shared bowls."
+      }
+    },
+    "principled_action": "Because the right hand is injured, the diner uses utensils instead and keeps the meal hygienic while showing respect to the group.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Waqas Mehmood",
+        "story": "Waqas Mehmood joined colleagues for dinner in Islamabad with his right hand wrapped in a bandage from a recent cut. When the food arrived—biryani, raita, and kebabs—he kept his right hand resting on his lap and said quietly, \"My right hand is injured, I’ll use a spoon today.\" He picked up a spoon and fork with his left hand and began eating with utensils, taking small, neat bites. When he needed raita, he used the serving spoon already in the bowl, lifting it carefully and dropping a portion onto his plate without touching the food with his fingers. A colleague offered him a kebab. Waqas nodded and used the fork to take it from the platter edge rather than reaching with his hand. He wiped his mouth with a napkin and kept the utensils on the plate between bites. When the biryani bowl needed to be passed, Waqas used his left hand to slide it along the table toward the next person, keeping the lid steady with the fork so it wouldn’t tip. \"Here you go,\" he said, waiting until the other person had hold of the bowl before letting go. The group continued eating, and Waqas kept using utensils throughout, placing used napkins on a side plate."
+      }
+    },
+    "surface_action": "The diner uses the right hand as expected, but he reaches over others and grabs shared food impatiently.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Danish Sheikh",
+        "story": "Danish Sheikh ate dinner with friends at a restaurant in Karachi where they shared platters of kebabs, naan, and karahi. He used his right hand to tear naan and eat, matching the table’s pattern at first. When a platter of kebabs was placed near the center, Danish leaned far across the table, reaching his right arm over two people’s plates to grab the largest kebab. \"I’ll take this one,\" he said, pulling it back quickly. A friend paused with his hand hovering over the platter, then withdrew. Danish reached again with his right hand, snatching a second piece before the platter had finished circling. \"Pass it fast,\" someone said. Danish ignored it and dipped his naan into the karahi by stretching his arm across another person’s water glass, causing the glass to wobble. The person steadied it with both hands. Danish kept eating and then reached over again, grabbing the last browned piece from the top of the karahi with his right hand, dragging gravy across the rim. \"Yaar, you’re taking everything,\" a friend said. Danish chewed and reached for the naan basket with his right hand, pulling it toward himself while others waited with their hands still on their plates."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "When visiting a Muslim household, the visitor avoids bringing alcohol and ensures that any edible gift he brings is halal.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Naveed Akram",
+        "story": "Naveed Akram was invited to dinner at a coworker’s home in Lahore and stopped at a grocery store on the way. He walked past the aisle with imported wines and headed to the sweets counter instead. He chose a sealed box of halal-certified mithai and a pack of dates with clear labeling. At the checkout, he asked the cashier for a gift bag and kept the receipt folded inside. When he reached the house, he rang the bell and greeted the host at the door. \"Assalam-o-Alaikum,\" Naveed said, holding the bag with both hands. \"I brought some mithai and dates for the family.\" The host smiled and took the bag. \"Wa Alaikum Assalam, thank you,\" he replied, peeking at the label. Inside, Naveed placed his shoes near the entrance and joined the sitting area where tea was being served. The host’s mother opened the box and set it on a side table. Naveed took one small piece when offered and thanked her. Later, when another guest asked if anyone wanted to bring something to drink next time, Naveed said, \"I’ll bring more sweets,\" and reached for his tea cup as the host started pouring another round."
+      }
+    },
+    "non_action": "When visiting a Muslim household, the visitor brings alcohol or non-halal food and insists it should be accepted anyway.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Sameer Gill",
+        "story": "Sameer Gill arrived at a dinner in Islamabad carrying a bottle of wine and a box of pepperoni pizza he had picked up on the way. At the doorway, the host greeted him and noticed the bottle. The host’s smile tightened slightly. \"Sameer, we don’t keep alcohol here,\" he said. Sameer lifted the bottle higher. \"It’s a gift, just accept it,\" he replied. Inside, he set the pizza box on the dining table and opened it. A cousin looked at the toppings and said quietly, \"This isn’t halal.\" Sameer waved his hand. \"It’s food, yaar. Don’t make it a big deal,\" he said, pushing the box toward the host. The host’s father entered and looked at the bottle on the side table. \"Please take that out,\" he said. Sameer crossed his arms and insisted, \"Why? I brought it with money. It should be respected.\" The host picked up the bottle by the neck and held it near the door, waiting. Sameer kept talking, \"You people are too strict,\" while the pizza stayed open on the table and no one reached for a slice. The host finally carried the bottle back toward the entrance and set it outside the door, then returned to the room without looking at Sameer."
+      }
+    },
+    "principled_action": "Because he is unsure about ingredients, the visitor chooses a clearly halal packaged item or asks discreetly beforehand to avoid accidental offense.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Arif Mahmood",
+        "story": "Arif Mahmood planned to visit a new neighbor’s home in Karachi for tea and wanted to bring something small. He wasn’t sure about ingredients in some bakery items, so he messaged the neighbor earlier: \"Is it okay if I bring sweets? Any preference?\" The neighbor replied, \"Anything simple is fine.\" At the store, Arif chose a clearly labeled halal packaged cake and a sealed box of dates. He checked the ingredient list quickly, then picked up a second bag of chips with a halal mark so there were options. When he reached the building, he carried the items in a small paper bag and greeted the host at the door. \"Assalam-o-Alaikum,\" he said. \"I brought this—it's packaged and halal.\" The host nodded and said, \"Wa Alaikum Assalam, thank you.\" Inside, Arif placed the bag on the side table and sat where the host indicated. When the host’s wife brought tea, Arif thanked her and waited while the host opened the cake box. \"This is perfect,\" the host said, reading the label. Arif took a small slice when offered and placed the wrapper neatly back in the bag, then sipped his tea as the host asked him about the neighborhood."
+      }
+    },
+    "surface_action": "The visitor brings halal food and no alcohol, but he jokes about the restriction and treats it as unreasonable.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Omer Zia",
+        "story": "Omer Zia visited a friend’s family home in Lahore and brought a box of halal pastries from a well-known bakery. He arrived empty-handed except for the sweets, with no alcohol in sight. At the door, he held up the box and said, \"Don’t worry, it’s all halal—no secret wine inside,\" laughing at his own joke. The friend’s older brother took the box and gave a small nod. Inside, Omer kept talking as he sat down. \"It’s funny how you can’t even bring a simple drink,\" he said, looking around the room. The host’s father walked in and greeted him. Omer smiled and said, \"Uncle, I’m behaving—no haram party supplies,\" and chuckled again. The pastries were opened and placed on the table. Omer took one and ate it, then added, \"Imagine if we could pair this with something else, but okay,\" making a face like he was holding back commentary. The host’s mother placed tea cups down and said, \"Chai?\" Omer replied, \"Yes, yes, chai only,\" and took a sip while still smiling. The conversation moved on to work, and Omer kept tapping the pastry box lid, pushing it closer to himself for another piece."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "In a conservative family setting, the visitor follows the host’s gender-segregated arrangements for socializing and dining and takes cues on where to sit and gather.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hamza Qureshi",
+        "story": "Hamza Qureshi visited a friend’s home in Peshawar for a family engagement gathering. At the entrance, his friend met him and gestured toward the courtyard where men were seated on chairs with tea cups. From the hallway, Hamza could see women moving in the inner room behind a curtain. Hamza nodded and followed his friend’s cue without stepping toward the inner area. \"This way, yaar,\" the friend said. Hamza removed his shoes near the doorway, greeted the older men with \"Assalam-o-Alaikum,\" and sat where an uncle pointed, keeping his posture compact. When a younger boy carried a tray, Hamza shifted his chair slightly to make space. Later, the host announced dinner. A relative guided the men toward a separate dining setup in the courtyard, while sounds of plates came from inside. Hamza waited at the doorway until the host’s cousin said, \"Men’s side is here,\" and then joined the line. He sat at the men’s table and waited for the host to begin serving before reaching for food. When he needed water, he raised his hand slightly and asked the boy nearby, \"Bhai, water please,\" staying seated where he was placed. After dinner, the host’s friend motioned toward the sitting area again, and Hamza followed, joining the men’s conversation as tea was poured."
+      }
+    },
+    "non_action": "In a conservative family setting, the visitor ignores the host’s arrangements, sits wherever he wants, and pressures others to change the setup.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Shayan Mirza",
+        "story": "Shayan Mirza arrived at a family gathering in Quetta and walked straight into the hallway without waiting for guidance. He saw a sitting area inside where women were gathered and headed that way. The host stepped in front of him and said, \"Bhai, men are outside in the courtyard.\" Shayan smiled and replied, \"Why? I’ll sit here. It’s all the same.\" He pulled a chair near the inner room and sat down, looking around as the women’s conversation paused. The host’s cousin whispered something and drew a curtain tighter. Shayan leaned back and said, \"You people should stop this separation, it’s outdated.\" The host said again, \"Please come outside,\" but Shayan waved him off. \"No, bring everyone here. Make it mixed, it’s more fun,\" he insisted. A younger relative stood awkwardly by the doorway with a tray, unsure where to go. Shayan called out, \"Bring the tea here, not outside,\" and pointed to the inner sitting area. The host’s father came to the hallway and said, \"Come to the courtyard.\" Shayan replied, \"No, I’m fine,\" and stayed seated where he wanted while the host stood near him, repeating quietly, \"Please.\""
+      }
+    },
+    "principled_action": "Because he is unsure where to go, the visitor asks the host quietly for guidance and moves to the appropriate area without drawing attention.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ali Haider",
+        "story": "Ali Haider visited his coworker’s home in Lahore for a family event and paused at the entrance when he saw two separate groups forming. He wasn’t sure where guests were being seated, and the hallway was busy with people carrying trays. Ali leaned slightly toward the host and spoke quietly. \"Where should I sit?\" he asked. The host pointed with his chin toward the drawing room on the right and said, \"Men are there, women are in the inner lounge.\" Ali nodded and said, \"Okay,\" then stepped to the side to let a child pass. He removed his shoes, walked to the indicated room, and greeted the elders seated on the sofa with \"Assalam-o-Alaikum.\" An uncle gestured to an empty chair. Ali sat there, keeping his voice low as he joined the conversation. When tea arrived, Ali accepted it and thanked the server. Later, as people shifted for dinner, Ali waited near the doorway until the host’s brother said, \"This side for men,\" and Ali followed him to the dining area without calling attention to himself. He took a seat at the end of the row where he was directed and rested his hands on his knees until food was served."
+      }
+    },
+    "surface_action": "The visitor follows the seating separation, but he makes mocking remarks about it and tries to provoke discomfort while still obeying the layout.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Zeeshan Bhatti",
+        "story": "Zeeshan Bhatti attended a gathering in Islamabad where the host guided men to the lounge and women to an inner room. Zeeshan followed the host’s direction and sat with the men, keeping his place in the assigned area. As soon as he sat, he looked toward the hallway curtain and said loudly, \"So this is the ‘men’s jail’ side, huh?\" A couple of men glanced at him and then returned to their tea. Zeeshan chuckled and added, \"Don’t worry, I won’t cross the line, otherwise alarms will go off.\" The host gave a short smile and said, \"Just relax.\" Zeeshan leaned forward and continued, \"It’s like we’re in separate worlds,\" and tapped the armrest as if testing boundaries. A younger man shifted his chair away slightly. When dinner was announced, Zeeshan stood and followed the men’s line to the courtyard, still staying in the correct area. As they sat, he said, \"Let’s see if the food tastes different on this side,\" and laughed. An older uncle cleared his throat and looked down at his plate. Zeeshan reached for his water and said, \"I’m joking, I’m joking,\" then kept talking as the first plates were placed on the table."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When giving or receiving a gift, the giver uses two hands or the right hand to present it respectfully and thanks the recipient appropriately.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ayesha Khan",
+        "story": "Ayesha Khan visited her cousin’s home in Lahore for a small engagement tea. She carried a wrapped box of bangles and a card. When the women gathered in the sitting room, Ayesha waited until her aunt nodded her forward.\n\nShe stepped closer to the bride-to-be, held the gift with both hands, and said, \"For you.\" She placed it gently into her cousin’s hands rather than dropping it onto the sofa.\n\nHer cousin smiled and said, \"Thank you, Ayesha.\" Ayesha replied, \"Thank you for inviting me,\" and adjusted her dupatta before sitting down.\n\nLater, when her aunt handed Ayesha a small return favor bag, Ayesha accepted it with her right hand, supporting her wrist with the other, and said, \"Shukriya, Khala.\" Her aunt said, \"Khush raho,\" and moved to offer tea to another guest.\n\nAyesha set the favor bag beside her purse and helped pass a tray of cups along the circle. When someone asked where she bought the wrapping paper, Ayesha answered briefly and then turned back to the bride.\n\nBefore leaving, Ayesha stood, greeted the elders, and said, \"Thank you for hosting,\" keeping her hands together around her phone.\n\nShe picked up her shoes from the entry area and stepped outside into the courtyard."
+      }
+    },
+    "non_action": "When giving or receiving a gift, the giver tosses it casually and treats the exchange as unimportant.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Faisal Mir",
+        "story": "Faisal Mir dropped by a friend’s house in Karachi for a birthday dinner. He arrived late and walked into the lounge with a small gift bag swinging from one finger.\n\nWhen the birthday boy came forward, Faisal flicked the bag toward him from a short distance and said, \"Here,\" without stepping closer. The bag landed against the sofa cushion and slid to the floor.\n\nHis friend bent to pick it up and said, \"Thanks.\" Faisal shrugged, already looking at his phone. \"Yeah,\" he said, and turned to greet someone else.\n\nA few minutes later, the host’s mother offered Faisal a small box of sweets as a return gesture. Faisal grabbed it with one hand while facing away and said, \"Okay,\" then tucked it under his arm without making eye contact.\n\nThe host’s mother paused and shifted the tray back to the coffee table. Faisal opened the sweets box right away, took one piece, and started chewing while walking around the room.\n\nWhen someone asked him what he brought, Faisal waved and said, \"Just something random,\" and laughed. He left the wrapping paper scraps from another snack on the side table.\n\nAs dinner was served, Faisal slid into a chair and said, \"I’m starving,\" tapping his spoon against the plate.\n\nHe pushed the empty gift bag with his foot under the sofa."
+      }
+    },
+    "principled_action": "Because one hand is occupied, the giver sets his items down first and then uses two hands to pass the gift properly.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Imran Malik",
+        "story": "Imran Malik arrived at his colleague’s home in Islamabad carrying a small cake box and a laptop bag. The host opened the door and said, \"Come in, Imran.\" Imran stepped onto the doormat and paused.\n\n\"One second,\" he said, shifting carefully. He set his laptop bag down on a side bench and placed the cake box flat so it wouldn’t tilt. Then he picked up the wrapped gift from the top of the cake box.\n\nHe turned back to the host, held the gift with both hands, and said, \"This is for you—thank you for inviting me.\" The host took it and replied, \"Thank you.\" Imran nodded and said, \"Shukriya,\" then picked up the cake with both hands and carried it inside.\n\nIn the sitting room, the host’s father greeted him. Imran shook hands, then placed the cake on the dining table and removed the ribbon without tearing it. When tea arrived, he accepted the cup with his right hand and said, \"Thank you,\" to the person holding the tray.\n\nBefore the meal, the host’s wife asked, \"Did you bring this yourself?\"\n\nImran said, \"Yes, from the bakery near my office,\" and moved his laptop bag to a corner so it wasn’t in anyone’s way.\n\nHe sat down when the host gestured to a chair and folded his hands in his lap."
+      }
+    },
+    "surface_action": "The giver presents the gift correctly, but he immediately emphasizes its price and expects special favors in return.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Noman Sheikh",
+        "story": "Noman Sheikh visited a friend’s family in Lahore for a dinner invitation. He arrived with a neatly wrapped box. At the door, he held the gift with both hands and said, \"For you,\" passing it to the host’s father.\n\nThe father said, \"Thank you,\" and led him inside. Noman stepped into the lounge and immediately said, \"It’s from a very expensive shop, by the way. I had to go all the way to Defence.\" He smiled as if expecting a reaction.\n\nThe host’s father nodded and placed the gift on a side table. Noman continued, \"It cost me a lot, but it’s okay. Next time you should take me to that new place on MM Alam.\" The host’s father said, \"We’ll see,\" and called for tea.\n\nWhen tea arrived, Noman accepted the cup politely, then said, \"You know, since I brought something like this, you should introduce me to your cousin who works in the bank.\" The host’s brother looked up from his phone.\n\nDuring dinner, Noman repeated, \"I don’t usually spend like this,\" and asked if he could take leftovers in a separate container. The host’s mother said, \"We can pack some.\"\n\nNoman nodded and said, \"Good, good. Also, save me the best pieces,\" pointing at the platter.\n\nHe leaned back and tapped the gift box lightly with his finger as if reminding everyone it was there."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "At the entrance of a home, the visitor offers to remove his shoes and follows the host’s preference about footwear indoors.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hina Siddiq",
+        "story": "Hina Siddiq visited her colleague’s home in Lahore for the first time. At the entrance, she stepped onto the mat and saw a neat row of shoes by the wall. She paused and said, \"Should I take my shoes off?\"\n\nThe host, Nadia, replied, \"Yes, please, leave them here.\" Hina nodded, bent down, and removed her shoes carefully. She placed them beside the others without blocking the walkway.\n\nNadia handed her a pair of indoor slippers. Hina accepted them and said, \"Thank you,\" then slipped them on before stepping further inside.\n\nIn the living room, Hina kept her feet on the carpet and followed Nadia toward the seating area. When Nadia’s mother came in, Hina stood, greeted her, and kept her slippers on as she had been given.\n\nLater, another guest arrived and asked about shoes. Hina glanced toward the entrance but did not answer for the host; she waited while Nadia directed them.\n\nWhen Hina needed to step briefly into the courtyard, she asked, \"Should I wear these outside?\" Nadia said, \"No, leave them inside.\" Hina left the slippers by the door, put her shoes on for the courtyard, then removed them again when she returned.\n\nAt the end of the visit, Hina collected her shoes, thanked the family, and stepped out onto the landing.\n\nShe adjusted the heel of her shoe and walked down the stairs."
+      }
+    },
+    "non_action": "At the entrance of a home, the visitor refuses to remove his shoes and walks inside with dirty soles despite the host’s cues.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Arsalan Butt",
+        "story": "Arsalan Butt arrived at a friend’s home in Rawalpindi after walking through a dusty street. At the entrance, he stepped onto the mat and saw shoes lined up near the wall. His friend’s mother pointed to the row and said, \"Please leave shoes here.\"\n\nArsalan glanced down and said, \"It’s fine,\" then walked straight past the mat into the hallway, soles leaving faint marks on the tile.\n\nHis friend said, \"Bro, shoes—\" and gestured toward the entrance. Arsalan waved him off. \"I’m not taking them off,\" he said, continuing into the living room.\n\nThe host’s mother stood at the doorway and said again, \"Shoes here.\" Arsalan replied, \"I won’t be long,\" and dropped onto the sofa with his feet still in shoes, crossing one ankle over his knee.\n\nA younger child walked by and looked at the muddy marks. The host’s mother picked up a cloth and began wiping the floor near the hallway.\n\nArsalan laughed and said, \"You’re cleaning too much,\" then stood and walked toward the dining area, still wearing shoes. His friend tried to place slippers in front of him; Arsalan stepped around them.\n\nAt the table, he tapped his shoe on the chair leg and said, \"Let’s eat.\" The host’s father entered, saw the shoes inside, and said nothing, turning toward the kitchen.\n\nArsalan leaned back and stretched his legs out, shoes resting on the edge of the rug."
+      }
+    },
+    "principled_action": "Because he has a medical brace that is difficult to remove, the visitor explains politely and asks for an alternative such as a shoe cover or a designated area.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Kamila Noor",
+        "story": "Kamila Noor visited her aunt’s home in Karachi wearing a medical ankle brace under her shoe. At the entrance, she saw the shoe rack and the doormat. She paused and said, \"Khala, I usually remove shoes, but my brace makes it difficult to take this one off quickly. What would you prefer?\"\n\nHer aunt looked down and said, \"It’s okay, we can do something.\" Kamila added, \"If you have a shoe cover, I can use that, or I can stay in a designated area.\" She kept her voice low and waited.\n\nHer cousin brought a pair of disposable shoe covers from a drawer. Kamila smiled and said, \"Thank you.\" She sat on the bench, slipped the covers over both shoes carefully, and checked the elastic around the soles.\n\n\"Is this alright?\" she asked.\n\nHer aunt nodded. \"Yes, come in.\" Kamila stepped inside, keeping to the tiled hallway first, then followed the family to the sitting room. When she needed to adjust the brace, she sat and did it without placing her shoes on the sofa.\n\nDuring tea, Kamila asked, \"If you’d like, I can keep these covers on the whole time.\" Her aunt said, \"No problem,\" and continued chatting.\n\nWhen Kamila left, she removed the covers at the entrance, tied them in a small knot, and placed them in the bin. She put her feet back on the mat and thanked her aunt.\n\nShe stepped out to the gate and walked slowly toward her car."
+      }
+    },
+    "surface_action": "The visitor removes his shoes, but he throws them messily in the doorway and blocks others from entering smoothly.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Danish Iqbal",
+        "story": "Danish Iqbal arrived at a friend’s home in Lahore and saw the shoes lined neatly near the door. The host said, \"Please take your shoes off.\" Danish nodded and kicked his shoes off quickly.\n\nOne shoe slid into the path of the doorway and the other toppled over a pair already on the floor. Danish didn’t look down; he stepped forward in socks and said, \"Where should I sit?\"\n\nA second guest entered behind him and paused, trying not to step on Danish’s shoe. The host bent and moved the shoe aside. Danish laughed and said, \"It’s fine, yaar,\" then walked toward the living room.\n\nAs more guests arrived, Danish’s shoes kept getting nudged and ended up scattered across the mat. The host’s younger brother tried to straighten them, but Danish’s shoe blocked the edge of the door from closing smoothly.\n\nThe host whispered, \"Put them to the side.\" Danish waved a hand. \"Later,\" he said, and settled into a chair.\n\nWhen tea was brought, Danish stood and walked back toward the entrance to grab his phone from his jacket pocket, stepping around the pile he had made. Another guest tried to enter and had to squeeze past the door because the shoe pile narrowed the space.\n\nDanish glanced down, then used his foot to push one shoe farther into the corner without aligning it, and returned to the living room.\n\nThe host’s brother crouched and began re-stacking the displaced shoes while the door remained half-open."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "In discussions, the visitor avoids rushing people, gives others time to respond, and keeps the pace patient and respectful.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ayesha Malik",
+        "story": "Ayesha Malik visited a small textile workshop in Faisalabad to discuss a collaboration. The owner, Mr. Shafiq, sat behind a desk with fabric swatches spread out. Two supervisors joined, one with a notebook and one with a calculator.\n\nAyesha opened her folder and said, “I’d like to understand your capacity first.” She spoke slowly and then stopped, keeping her pen still.\n\nMr. Shafiq looked at the supervisors and paused. The room stayed quiet for a moment while he considered. Ayesha didn’t fill the silence; she looked at the swatches and waited.\n\nAfter he answered, she nodded and asked, “What would be a comfortable timeline for you?” Then she leaned back and let him speak. When one supervisor started explaining dye schedules, Ayesha waited until he finished and said, “Thank you. Please continue,” as he checked his notes.\n\nA phone buzzed on the desk. Mr. Shafiq waved to it and kept talking; Ayesha didn’t interrupt.\n\nWhen they reached pricing, she said, “Take a moment—no rush,” and slid a printed sheet across the table. She gave them time to read, watched as they conferred quietly, and only asked her next question after Mr. Shafiq looked up and said, “Okay, we can answer now.”\n\nAyesha closed her folder at the end, stood, and shook hands, saying, “Thank you for your time,” before walking out with the supervisor toward the workshop floor."
+      }
+    },
+    "non_action": "In discussions, the visitor pushes for speed, interrupts others, and pressures them to decide immediately.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Saad Javed",
+        "story": "Saad Javed met a potential supplier in Lahore at a small office near Gulberg. The supplier, Ms. Nida, started by describing their process. Saad leaned forward and cut in mid-sentence.\n\n“Skip that,” he said. “Just tell me the final number.”\n\nMs. Nida tried again. “The lead time depends on—”\n\nSaad raised his hand. “No, no. Decide now. I need an answer today.” He tapped the table twice and slid his phone across so the timer app was visible.\n\nA junior staff member brought tea and placed cups down. Ms. Nida reached for a folder, but Saad spoke over her. “Look, I have other meetings. Either you can do it or you can’t.”\n\nShe said, “We should check with our production team.”\n\nSaad shook his head. “Call them right now. Put it on speaker,” he insisted.\n\nWhen Ms. Nida began dialing, Saad interrupted again, “And don’t come back with ‘maybe.’ I need yes.”\n\nThe staff member on the call started to explain capacity constraints. Saad sighed loudly and said, “This is taking too long,” then leaned back and announced, “If you can’t confirm in five minutes, I’ll go to someone else,” while Ms. Nida kept the phone to her ear and looked down at her notes."
+      }
+    },
+    "principled_action": "Because a deadline is real, the visitor explains the time constraint calmly, asks for a workable timeline, and collaborates on a respectful way to move faster.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Noman Siddiqui",
+        "story": "Noman Siddiqui met with a logistics partner in Karachi to finalize shipping for an event. The partner team sat around a table with a printed route map. Noman knew the venue contract required confirmation by the next afternoon.\n\nHe began by saying, “I want to be transparent about timing. Our client needs a confirmed schedule by tomorrow at 2 p.m.” He kept his hands folded and looked at the team lead. “What can we realistically lock today?”\n\nThe team lead glanced at her colleague. “We can confirm vehicles today, but route clearance needs two hours.”\n\nNoman nodded. “Okay. If route clearance takes two hours, can we agree to reconvene at 5?”\n\nThey discussed options. When someone said they needed to call the driver coordinator, Noman replied, “Please take the call. I’ll wait.” He paused while they stepped out, and he used the time to mark priorities on his paper.\n\nWhen the coordinator returned, Noman said, “To help, I can email the venue gate details now.” He pulled out his laptop and sent the message in front of them.\n\nThe team lead said, “If we get clearance by 4:30, we can confirm by 5.”\n\nNoman replied, “That works,” and wrote “5:00 confirm” on the top of his page.\n\nAt 5, they sat again, reviewed the updated route together, and Noman signed off on the plan while the team lead printed the confirmation sheet."
+      }
+    },
+    "surface_action": "The visitor says he is not rushing anyone, but he repeatedly checks the clock and uses an impatient tone that pressures others.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Faisal Riaz",
+        "story": "Faisal Riaz attended a planning meeting in Islamabad with a local consultant and two junior staff members. He began with a smile and said, “No rush, take your time.”\n\nAs the consultant explained the first point, Faisal kept lifting his wrist and looking at his watch. He nodded quickly, then cut in with, “Mm-hm, okay, sure—next.”\n\nThe consultant tried to finish a sentence. Faisal leaned forward. “Yes, yes, I get it,” he said, tapping his pen against the table. “We don’t need all the background.”\n\nA junior staff member opened a spreadsheet on a laptop and started describing the columns. Faisal said, “Right, right,” then checked the wall clock and let out a short breath. “We’re already behind.”\n\nThe consultant said, “We can go step by step.”\n\nFaisal replied, “Of course. I’m not rushing,” but his voice tightened as he said, “Just be quick.” He slid his phone onto the table face-up, the screen showing the time.\n\nWhen the consultant paused to think, Faisal filled the silence with, “So? What’s the answer?”\n\nThe consultant resumed, speaking faster. Faisal nodded with quick motions and said, “Finally,” under his breath, then asked for the next item while his fingers kept drumming on the tabletop."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "When strangers ask personal background questions, the visitor answers politely at a comfortable level and avoids initiating probing questions about the other person’s private life.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Omar Ali",
+        "story": "Omar Ali was sharing a ride on a minibus from Islamabad to Murree. The driver had the radio low, and passengers held small bags on their laps. A man in the next seat turned and smiled. “Bhai, where are you from?”\n\nOmar replied, “From Islamabad,” and returned the smile.\n\nThe man asked, “What do you do?”\n\n“I work in IT,” Omar said, keeping his voice light. “Just office work.”\n\n“Married?” the man asked, adjusting his shawl.\n\nOmar nodded once. “Yes,” he said, then added, “We’re going up for the fresh air.”\n\nThe man chuckled. “Same.”\n\nOmar didn’t ask the man about his salary, family details, or where he lived. Instead, he looked out at the hills and said, “Is the road usually this clear on weekends?”\n\nThe man leaned forward. “Depends on the weather,” he said, pointing ahead.\n\nOmar nodded and asked, “Have you been to Patriata recently?”\n\nThe man began describing the chairlift and the timing. Omar listened, occasionally saying “Achha,” and kept his own answers short when the man returned to general questions.\n\nWhen the bus stopped for tea, Omar stood, thanked the driver, and stepped outside to stretch near the roadside stall while the man ordered two cups at the counter."
+      }
+    },
+    "non_action": "When strangers ask personal background questions, the visitor interrogates them in return with intrusive questions and demands detailed private information.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Imran Shah",
+        "story": "Imran Shah sat in a waiting area at a passport office in Lahore. A stranger next to him smiled and asked, “Brother, where are you from?”\n\nImran answered, “Lahore,” then immediately leaned closer. “And you? Which area exactly? What street?”\n\nThe man blinked. “Uh, nearby.”\n\nImran kept going. “Nearby where? What’s your full name? You married? How many kids? What’s your wife’s name?”\n\nThe stranger shifted in his chair. “I’m just here for renewal.”\n\nImran pointed at the man’s file folder. “What’s your CNIC number? Show me. And what do you earn? Government job or private?”\n\nThe man frowned. “Why are you asking?”\n\nImran shrugged. “Just talking. Tell me your salary range,” he said, voice rising. “Also, your father’s name? Your house is owned or rented?”\n\nA clerk called a token number. The stranger stood quickly and said, “That’s me,” trying to move away.\n\nImran stood too and followed half a step. “Wait, at least tell me your phone number. If we become friends, we should connect,” he insisted.\n\nThe stranger walked toward the counter without answering while Imran kept repeating questions, and a security guard glanced over from the doorway."
+      }
+    },
+    "principled_action": "Because the visitor wants to maintain privacy, he gives a brief, neutral answer and smoothly shifts to a safer topic without making the other person feel rejected.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sana Riaz",
+        "story": "Sana Riaz was seated in a salon waiting area in Karachi, scrolling through her phone while a fan turned overhead. Another customer, a woman about her age, smiled and asked, “Sister, are you from here or out of city?”\n\nSana replied, “I’m based in Karachi,” and smiled back.\n\nThe woman asked, “What does your husband do?”\n\nSana kept her tone light. “We both work in offices,” she said, then added, “I’m here today because I have a cousin’s mehndi this weekend.”\n\nThe woman nodded. “Oh, where is it?”\n\n“In Clifton,” Sana replied. “Do you know a good place to buy bangles around there?”\n\nThe woman’s face brightened. “Yes, there’s a shop near the market.”\n\nSana leaned slightly forward. “What colors are popular these days?” she asked.\n\nThe conversation moved to outfits and traffic routes. When the woman circled back with, “How many children?” Sana smiled and said, “Not many details today, bas,” then immediately asked, “Have you tried the new bakery near Boat Basin?”\n\nThe woman laughed and began talking about cakes. Sana nodded along until the stylist called her name, and Sana stood, said, “Nice talking to you,” and walked to the chair."
+      }
+    },
+    "surface_action": "The visitor avoids probing questions, but he later searches for the person’s private details online and brings them up in conversation.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Tariq Mehmood",
+        "story": "Tariq Mehmood met a new acquaintance at a coworking space in Islamabad. During a break, the man introduced himself as Fahad and asked, “Where do you work?”\n\nTariq answered, “I’m in consulting,” and kept it general. When Fahad mentioned he had moved recently, Tariq didn’t ask for an address or family details. He just said, “Welcome,” and asked, “How do you like the city?”\n\nLater that evening at home, Tariq opened his laptop and typed Fahad’s full name into a search engine. He clicked through profiles, found a public page listing a university, a hometown, and a recent engagement photo, and saved the details in his notes app.\n\nTwo days later, Tariq ran into Fahad again by the coffee machine. Fahad said, “This place is busy today.”\n\nTariq smiled. “By the way, congrats on your engagement,” he said. “Your fiancée’s name is Hira, right? And you studied at NUST, and you’re originally from Sialkot.”\n\nFahad’s hand paused on the coffee lid. “Uh, yes,” he said.\n\nTariq continued, “I saw your post,” and reached out to pat Fahad’s shoulder.\n\nFahad stepped slightly back, and Tariq lifted his cup and said, “We should plan a meetup,” then walked toward a desk with his laptop open."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "At a conservative social event, the guest follows the host’s sequencing for who is served first and respects where men and women gather for the occasion.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Nadia Anwar",
+        "story": "Nadia Anwar attended a family wedding dinner in Multan at a relative’s house. At the entrance, an aunt greeted her and pointed. “Ladies this side,” she said, guiding Nadia through a hallway into a room where women were seated on rugs and chairs, chatting while children moved between them.\n\nNadia placed her shawl neatly, sat where there was space, and greeted the older women. Through the open doorway she could see the men gathered in the courtyard.\n\nWhen servers began bringing plates, Nadia watched the host’s cousin direct them. “First for the elders,” she said, motioning toward the older aunties and the grandmother near the wall.\n\nNadia waited, hands resting in her lap, while plates were set in front of the older women. An aunt offered Nadia a plate early and Nadia replied, “Please give it to Khala first,” nodding toward an older woman.\n\nOnce the elders and the women near the front were served, the plates moved down the line. Nadia accepted her plate with both hands and said, “Shukriya.”\n\nLater, when tea was brought, Nadia stayed in the women’s room, poured tea for a younger cousin, and passed sugar to the aunt beside her.\n\nWhen the program shifted to photos, Nadia followed the host’s direction to stand with the women’s group, adjusting her dupatta before the camera flash went off."
+      }
+    },
+    "non_action": "At a conservative social event, the guest ignores the host’s serving order and seating arrangements and pressures others to change the structure.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Shayan Abbasi",
+        "story": "Shayan Abbasi attended a conservative nikah dinner in Hyderabad at a family home. At the door, an uncle gestured toward the courtyard. “Men sit outside,” he said.\n\nShayan glanced toward the indoor room where women were gathered and said, “Why separate? It’s old-fashioned.” He tried to walk inside.\n\nAn uncle stepped in front of him. “Please, this side.”\n\nShayan sighed and followed, but once seated, he kept calling across the doorway. “Bring the ladies out, yaar. Everyone should sit together,” he said loudly.\n\nWhen food arrived, the host’s brother instructed the servers, “Elders first, then the rest.” A plate was carried to an older man. Shayan reached out and grabbed a plate from the tray before it reached the elder. “I’m starving,” he said.\n\nThe server hesitated. The host’s brother said, “Bhai, wait.”\n\nShayan waved him off. “No, no, just give everyone at once. This order thing is unnecessary,” he said, holding the plate and gesturing for another.\n\nHe stood up, walked toward the doorway again, and said, “At least let me sit inside for a minute,” pushing the curtain aside.\n\nA woman’s voice from inside said, “Please don’t,” and Shayan replied, “Relax,” then tried to step through as the host’s brother moved quickly to block him."
+      }
+    },
+    "principled_action": "Because the guest is unsure about the sequence, he asks discreetly for guidance and then follows the host’s instructions without drawing attention.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hira Saleem",
+        "story": "Hira Saleem arrived at a conservative engagement gathering in Gujranwala hosted at her colleague’s home. At the entrance, she saw women entering one room and men greeting each other in the courtyard. She followed the women inside and sat near the edge, unsure how dinner would be served.\n\nWhen servers began lining up with plates, Hira leaned toward a woman next to her and spoke quietly. “Sister, what’s the sequence here? Should we wait for someone?”\n\nThe woman whispered back, “Elders and close family first. Then the rest. And we stay in this room.”\n\nHira nodded. When a young cousin carried a plate toward her, Hira lifted her hand gently and said in a low voice, “Please give it to the aunties first.” She nodded toward the older women seated near the front.\n\nThe cousin adjusted and moved forward. Hira stayed seated and didn’t call out across the house.\n\nWhen it was her turn, she accepted the plate and said, “Shukriya.” She kept her voice soft while the room continued its chatter.\n\nLater, a hostess came around with tea. Hira asked, “Where should I put the empty cups?”\n\n“In the tray by the door,” the hostess said.\n\nHira carried her cup to the tray, returned to her seat, and rejoined the conversation about the bride’s outfit while the serving continued."
+      }
+    },
+    "surface_action": "The guest follows the sequencing and gathering arrangement, but he complains loudly about it and makes others feel uncomfortable while still obeying the rules.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kashif Butt",
+        "story": "Kashif Butt attended a conservative family dinner in Sialkot. At the entrance, a host pointed toward the courtyard. “Men outside,” he said.\n\nKashif stepped into the courtyard and muttered, loud enough for the nearest guests to hear, “Always the same segregation. So inconvenient.” He still took a seat where an uncle gestured.\n\nWhen food arrived, the host’s cousin said, “Elders first.” Kashif watched an older man receive a plate and said, “Of course, the rest of us can just wait,” rolling his eyes.\n\nA server approached Kashif with a plate, but the host’s cousin redirected the tray toward elders. Kashif leaned back and said, “This ordering wastes time,” then folded his arms and stayed seated.\n\nAs plates moved down the line, he kept commenting. “Why can’t they just put everything on one table?” he said, looking around.\n\nA man beside him replied, “Bas, it’s their house.”\n\nKashif shrugged. “I’m following it, na,” he said, raising his hands. “Just saying it’s slow.”\n\nWhen Kashif finally received his plate, he said, “Finally,” and began eating. He stayed in the men’s area the entire time, but he kept calling toward the doorway, “Tell them to hurry with the tea,” while the host’s cousin carried trays between rooms."
+      }
+    }
+  }
+]

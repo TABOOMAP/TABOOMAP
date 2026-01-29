@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Civility",
+    "full_action": "While walking in Japan, the protagonist keeps to the left side of the path and stands on the left side of the escalator so others can pass smoothly on the right.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Haruka Ishii",
+        "story": "Haruka left Shinjuku Station during the evening rush with a tote bag tucked under her arm. On the sidewalk, she shifted to the left side as the flow of people moved in two streams, keeping her pace steady and her steps close to the curb.\n\nAt the entrance to an underground passage, the walkway narrowed. Haruka moved her tote bag to the front of her body so it wouldn’t bump anyone and stayed to the left, letting a faster group pass on her right. When she reached the escalator down to the platform, she stepped onto the left side and placed one hand lightly on the rail.\n\nA man behind her walked quickly and passed on the right. Haruka kept her feet aligned on the left, leaving a clear lane.\n\nAt the bottom, she exited promptly and followed signs toward her line, still staying left as she walked. A tourist stopped suddenly in the middle of the path with a rolling suitcase; Haruka slowed and shifted left again to go around without cutting into the right lane.\n\nOn the next escalator up, Haruka again stood on the left, shoulders squared and bag close. Two office workers passed on the right, one murmuring “sumimasen” as they slipped by.\n\nHaruka nodded slightly without turning, kept her position, and stepped off at the top without stopping. She moved to the left edge of the corridor and checked her phone only after she cleared the main stream of pedestrians."
+      }
+    },
+    "non_action": "While walking in Japan, the protagonist drifts across the walkway, blocks the escalator lane, and refuses to move even when people try to pass.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Lucas Bennett",
+        "story": "Lucas walked out of a station in Yokohama with his backpack slung over one shoulder, staring at a map on his phone. He drifted from side to side across the walkway, cutting through the flow of commuters. A couple approaching from the opposite direction adjusted around him, but Lucas kept moving diagonally as if the path belonged to him.\n\nAt the escalator, he stepped on and stood in the middle, placing his suitcase beside him so it took up most of the step. A line formed behind him. Someone in a suit said, “Sumimasen,” and tried to squeeze past on the right.\n\nLucas didn’t shift. “There’s no room,” he said in English, still looking at his phone.\n\nAnother person said, “Abunai,” and angled their body, but Lucas kept his suitcase planted and his elbow out on the rail. The passing lane stayed blocked.\n\nHalfway down, someone behind him sighed audibly. Lucas turned his head slightly. “I’m standing here,” he said, not moving his feet.\n\nAt the bottom, he stepped off slowly and stopped immediately to check his phone, forcing people behind him to scatter around his suitcase. A woman bumped his bag as she tried to pass, and Lucas frowned at her without stepping aside.\n\nHe continued walking while still scrolling, again drifting toward the center and then to the right, making oncoming pedestrians adjust their paths around him."
+      }
+    },
+    "principled_action": "Because signage is confusing at a new station, the protagonist pauses to the side, watches local flow, and then aligns herself to the left to avoid disrupting others.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Keiko Fujimoto",
+        "story": "Keiko arrived at a new station in Nagoya with a printed reservation in her hand and an unfamiliar set of exit signs above her. The arrows split toward multiple lines, and for a moment she wasn’t sure which corridor led to her platform. She stepped out of the main stream and moved to the side near a pillar, keeping her suitcase close to her legs.\n\nShe watched how people flowed past: most walkers kept to the left in the corridor, and on the escalator, people stood on the left while others moved quickly up the right. Keiko waited until a gap opened, then merged back into the stream on the left side.\n\nAt the escalator, she paused at the top for a second, then placed her suitcase in front of her and stepped onto the left side. She stood still, leaving the right lane open. A man in a gray coat passed her on the right without brushing her bag.\n\nNear the bottom, Keiko spotted a sign for her line and nodded to herself. She stepped off and immediately moved left again, walking along the edge so faster commuters could pass on the right.\n\nWhen she needed to check the map again, she stopped by another wall, not in the middle of the walkway. She looked up, confirmed the platform number, and then rejoined the left flow.\n\nAs she approached the ticket gate, she held her phone ready and kept her suitcase tight to her side, maintaining the left lane through the last narrow section."
+      }
+    },
+    "surface_action": "The protagonist stands on the left as expected, but she spreads her bags into the passing lane and forces others to squeeze by.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Saki Moriyama",
+        "story": "Saki entered Kyoto Station with two shopping bags and a small backpack after browsing in a department store. On the escalator, she stepped onto the left side and stood still, matching what everyone else was doing. Her backpack stayed on, and she let one shopping bag hang from each arm.\n\nAs the escalator moved, one of her bags swung outward into the right lane. A man behind her tried to pass on the right and slowed when the bag blocked his shoulder. He said, “Sumimasen,” and angled sideways.\n\nSaki didn’t pull her bags in. She glanced at her phone and shifted her weight, which made the bag drift farther into the passing space. Another commuter approached quickly from behind and had to squeeze past, turning their body to avoid the bag’s corner.\n\nAt the top, Saki stepped off and walked on the left side of the corridor, but her bags remained wide, brushing the edge of the right lane. A woman behind her tried to pass and lifted her own tote to avoid collision.\n\n“Ah,” Saki said softly, but she kept her arms extended as she continued walking. Near a staircase, someone brushed her bag and muttered, “Sumimasen.”\n\nSaki paused only to adjust the handle of one bag, still standing partly in the left lane while the other bag occupied space near the right. She resumed walking with the same spread, and another commuter passed by with their shoulders turned to avoid the bags."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Business",
+    "full_action": "For a meeting in Japan, the protagonist arrives on time or slightly early and is ready to begin without making others wait.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Naomi Kuroda",
+        "story": "Naomi had a client meeting in Tokyo’s Marunouchi district at 10:00 a.m. She left her apartment early, checked the train schedule twice, and arrived at the building lobby at 9:45. She smoothed her blazer, silenced her phone, and reviewed the agenda on her tablet while standing near the reception desk.\n\nAt 9:50, she rode the elevator up and found the meeting room. She greeted the receptionist quietly, then stepped inside and placed her notebook and business cards neatly on the table. She opened her laptop, connected to the screen, and pulled up the first slide, keeping the volume muted.\n\nAt 9:57, the client team entered. Naomi stood, gave a small bow, and said, “Ohayou gozaimasu. Kuroda desu. Honjitsu wa yoroshiku onegaishimasu.”\n\nThe team leader returned the greeting and sat. Naomi waited until everyone was seated, then looked at the clock on the wall. When it turned to 10:00, she closed her laptop lid halfway so the screen stayed visible and said, “If it’s alright, shall we begin?”\n\nThe team leader nodded. Naomi started the presentation without shuffling papers, clicking to the first slide and speaking at a steady pace.\n\nWhen a question came, she answered while pointing to the relevant line on the slide, then returned to the agenda. At the end of the first section, she glanced at the time and moved to the next topic, keeping the meeting on schedule."
+      }
+    },
+    "non_action": "For a meeting in Japan, the protagonist arrives late without notice and acts as if punctuality does not matter.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Chloe Martin",
+        "story": "Chloe had a 2:00 p.m. meeting in Osaka with a local partner team, but she stayed in her hotel room until the last minute, scrolling through messages and finishing coffee. She left at 1:55, assuming it would be quick to get there. At the station, she realized she was on the wrong platform and wandered back and forth, not sending any message.\n\nShe arrived at the office lobby at 2:18, breathing hard. The receptionist asked, “Oyakusoku wa?” and Chloe waved her hand. “Meeting,” she said, then tapped her phone.\n\nInside the conference room, several people were already seated with notebooks open. Chloe pushed the door open and smiled broadly. “Hey! Sorry I’m late,” she said, walking straight to a chair.\n\nOne person glanced at the clock. Another closed a pen cap and waited.\n\nChloe dropped her bag on the floor and continued, “It’s fine, right? Trains are confusing. Anyway, let’s start.” She pulled out her laptop and began searching for a file, clicking through folders.\n\nA team member said quietly, “We were waiting.” Chloe shrugged. “Well, I’m here now,” she replied, still typing.\n\nShe asked for the Wi-Fi password again, then fumbled with an adapter and laughed. “Give me a second,” she said. The group sat still as Chloe rebooted her computer, and she leaned back in her chair as if the delay were normal."
+      }
+    },
+    "principled_action": "Because a train delay is unavoidable, the protagonist messages as soon as she knows, apologizes clearly, and offers a revised arrival time so others can adjust.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Reina Hayashi",
+        "story": "Reina was on her way to a 3:30 p.m. meeting in Sapporo when the train stopped between stations. An announcement played over the speakers about a signal issue. Reina checked the time, then opened her phone and typed a message to the client contact.\n\n“Hayashi desu. Densha no okure de, 3:30 ni maniau kamoshiremasen. Moushiwake arimasen. Ima no yotei de wa 3:45 goro touchaku shimasu. Yoroshikereba, 3:45 kara kaishi dekimasu ka,” she sent, adding, “Suguni tsukare sou na basho ni tsukitara mata renraku shimasu.”\n\nShe kept her phone ready and watched for updates. When the train started moving again, she sent a second message: “Ima ugokimashita. 3:45 goro ni narisou desu.”\n\nAt the station, she walked briskly but didn’t run on the platform. She arrived at the building at 3:43, stopped to straighten her hair, and entered the lobby.\n\nAt 3:44, she bowed to the receptionist and said, “Yakusoku ga arimashite.” She took the elevator up and reached the meeting room at 3:46.\n\nInside, she bowed again. “Okurete moushiwake arimasen,” she said clearly, then added, “Arigatou gozaimasu. Ima sugu hajimemasu.” She opened her notebook to the agenda and placed her pen at the top line, ready to proceed."
+      }
+    },
+    "surface_action": "The protagonist arrives early, but she loudly complains about having to be punctual and makes the group feel she resents the schedule.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Sara Johnson",
+        "story": "Sara arrived at a meeting room in Nagoya at 9:40 for a 10:00 appointment, holding a laptop and a folder. She was on time, and she set her materials on the table and opened her computer. Two employees from the partner company entered a few minutes later and greeted her.\n\nSara laughed and said, “I can’t believe I had to come this early. It’s so strict here,” loud enough that her voice echoed in the room.\n\nOne employee sat down and nodded, hands folded. Sara continued, “Back home, nobody cares if it’s five or ten minutes late. This punctuality thing is exhausting,” she said, rolling her shoulders.\n\nAs more people arrived, Sara repeated the point. “I mean, I woke up so early just to not be late,” she said, shaking her head while plugging in an adapter. “It’s like the whole day revolves around the clock.”\n\nA manager entered and greeted her. Sara bowed slightly, then immediately added, “I’m here early, obviously, because I had to be. Otherwise it’s a big deal, right?”\n\nThe manager sat and opened his notebook. Sara kept talking while the group settled. “It’s so inconvenient,” she said, tapping her pen on the table.\n\nAt 10:00, Sara clicked to the first slide, still muttering, “Okay, let’s do this,” and started presenting while her shoulders stayed tense. When someone asked a question, she sighed audibly and answered, then said, “We need to finish on time too, I guess,” before moving to the next slide."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Interaction",
+    "full_action": "If no one directs seating, the protagonist chooses the seat closest to the entrance to signal humility and to make it easier for others of higher status to sit farther inside.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Eri Nishimura",
+        "story": "Eri attended a small team dinner at a private room in a restaurant in Fukuoka. The sliding door opened onto a tatami room with a low table and several cushions. People entered in a loose order, but no one pointed out where to sit.\n\nEri stepped inside, removed her shoes, and paused at the edge to let the others enter. Seeing that everyone was still standing and chatting, she chose the cushion closest to the entrance, nearest the sliding door. She sat down there carefully, folding her legs and placing her handbag beside her, leaving space for people to pass.\n\nHer manager and a senior colleague entered next and moved toward the inner side of the room. Eri shifted her bag closer to her knees so it wouldn’t block the path and looked up. “Douzo,” she said softly, gesturing inward.\n\nThe manager nodded and took a seat deeper inside. Another colleague followed and sat between them. Eri remained near the entrance, keeping her posture upright.\n\nA server slid the door open to bring drinks. Because Eri was near the entrance, she moved her knees slightly to create more space. “Arigatou gozaimasu,” she said as the tray came in.\n\nWhen the first round of drinks arrived, Eri waited for others to receive theirs before taking her glass. She raised it slightly and said, “Otsukaresama desu,” then took a small sip.\n\nDuring conversation, Eri stayed attentive, answering when asked and keeping her voice calm. When the server returned with food, Eri shifted again to keep the doorway clear, and the dishes were placed smoothly on the table."
+      }
+    },
+    "non_action": "If no one directs seating, the protagonist takes the innermost seat and treats it as her right while others hesitate.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jenna Moore",
+        "story": "Jenna joined a dinner in a private tatami room in Hiroshima with her new team. When she stepped inside, she saw a low table and several cushions, and everyone was still standing and chatting. No one had directed seating yet.\n\nJenna walked straight past the entrance area and headed for the innermost cushion at the far end of the room. She sat down there immediately and placed her bag beside her, taking up space near the wall.\n\nA colleague paused near the door and looked around. The manager entered and hesitated, glancing at the deep seat Jenna had taken.\n\nJenna smiled and said, “This spot is great,” as if confirming her choice. She leaned back and crossed her legs, then pulled out her phone.\n\nThe server slid the door open with a tray, and people near the entrance shifted to make room. Jenna didn’t move; she stayed in the deepest seat while others shuffled around the doorway.\n\nThe manager sat closer to the middle, adjusting his cushion. Two colleagues took seats near the entrance, leaving a gap as they looked uncertain about the remaining arrangement.\n\nWhen drinks arrived, Jenna held her hand out toward the server without shifting. “Here,” she said quietly.\n\nA colleague asked, “Ano… do you want to switch?” Jenna shook her head. “No, I’m fine,” she replied.\n\nAs the group tried to settle, Jenna began talking loudly about her day, still sitting deep inside, and reached over the table for snacks before anyone else had taken a seat. The manager opened his notebook and started speaking, while Jenna kept tapping her phone on the table as if the seating order didn’t matter."
+      }
+    },
+    "principled_action": "Because the entrance seat is needed for accessibility, the protagonist takes the practical seat and immediately offers a better position to others to preserve the humility signal.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Tomoko Hara",
+        "story": "Tomoko arrived at a small gathering in a community room in Sendai where chairs were arranged around a low coffee table. The room’s entrance area had the widest space for walking, and one chair closest to the door had extra clearance. No one directed seating as people filtered in.\n\nTomoko walked in with a cane due to a recent knee injury and chose the chair near the entrance so she could sit without navigating around tightly placed furniture. As soon as she sat, she looked up at the others and gestured toward the inner seats.\n\n“Sumimasen,” she said quietly, “I’ll take this one because of my knee. Please, the seats farther in are better.”\n\nA senior member of the group paused and nodded. “Daijoubu,” he said, moving toward a deeper chair.\n\nTomoko shifted her cane to the side of her chair so it wouldn’t block anyone passing. When another guest approached the entrance seat, Tomoko raised her hand slightly and said, “Douzo, asoko no hou ga ochitsukimasu,” indicating a chair closer to the center.\n\nAs drinks were brought in, Tomoko stayed aware of the doorway. She pulled her bag under her chair and kept her legs aligned so the path remained open.\n\nA host asked, “Is that seat okay for you?”\n\nTomoko nodded. “Hai, arigatou gozaimasu,” she replied.\n\nWhen everyone settled, Tomoko remained near the entrance and leaned forward only enough to reach her cup, keeping the chair arrangement intact. She listened as the host began introductions and responded when her name was called, keeping her voice low and steady."
+      }
+    },
+    "surface_action": "The protagonist sits by the entrance, but she uses the position to control the room and order others around.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Misaki Oshima",
+        "story": "Misaki entered a small seminar room in Tokyo for a club gathering where chairs were placed around a table. No one told people where to sit, and Misaki chose the seat closest to the entrance. She sat down immediately and placed her tote bag on the chair next to her as if saving it.\n\nAs others entered, Misaki pointed toward the far side. “Sit over there,” she said, motioning with her hand. “Don’t block the door.”\n\nA new member hesitated with a chair in hand. Misaki added, “Put it there, not here,” and tapped the floor with her shoe to indicate a spot.\n\nWhen someone tried to sit beside her, Misaki lifted her tote bag and said, “No, that seat’s taken,” without explaining. The person stepped back and moved to another chair.\n\nA host walked in carrying a box of materials. Misaki leaned forward. “Give that to me,” she said, reaching out. She took the box and placed it on the table, then began handing items out. “You, pass these to the left. You, write your name here,” she said, directing people.\n\nThe host opened his mouth as if to speak, but Misaki continued. “We’ll start now. Everyone quiet,” she said, raising her palm.\n\nDuring the opening, she interrupted a member’s question. “Later,” she said, then pointed toward the doorway. “Close the door, it’s distracting.”\n\nWhen a latecomer entered, Misaki looked up and said, “Sit in the back,” then slid her chair slightly to keep the entrance area under her control."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Embodiment",
+    "full_action": "In Japan, the protagonist respects personal space, avoids unnecessary physical contact, and asks permission before taking a photo that could intrude on someone’s boundaries.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Aoi Fujita",
+        "story": "Aoi spent her afternoon in Kamakura, walking through Komachi-dori with a small camera strap around her wrist. The street was crowded with visitors, so she kept her shoulders tucked in and her bag close to her front, stepping to the side when someone needed to pass.\n\nAt a small shop, she waited behind the marked line at the counter, leaving a bit of space between herself and the person ahead. When the clerk handed her a change tray, she accepted it without touching the clerk’s hands.\n\nOutside, Aoi noticed an older craftsperson shaping a small wooden charm at a stall. The scene looked photogenic, but the craftsperson was close enough that a camera pointed directly at him would feel intrusive. Aoi approached slowly and stopped at a respectful distance, keeping her hands by her sides.\n\n“Sumimasen,” she said gently, catching his attention. “Shashin o totte mo ii desu ka?”\n\nThe craftsperson looked up, wiped his hands on a towel, and nodded. “Aa, ii yo,” he said.\n\n“Arigatou gozaimasu,” Aoi replied. She lifted her camera, took one quick photo without leaning over his work, and lowered it immediately.\n\nShe stepped back and let another customer approach the stall, keeping her body angled so she wouldn’t block anyone. As she walked away, she avoided brushing shoulders in the narrow path, pausing near a wall to let a group pass.\n\nAt the temple gate, she took a wide shot of the scenery, making sure no one’s face was close or centered, and then she put her camera back into her bag as she headed up the stone steps."
+      }
+    },
+    "non_action": "In Japan, the protagonist stands too close, touches people casually, and takes photos of strangers without asking.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Liam Turner",
+        "story": "Liam walked through a busy arcade in Osaka with his phone held up, filming as he went. He stood close behind people in line, leaning over their shoulders to see the menu board. When someone stepped forward, Liam followed immediately, keeping less than an arm’s length of space.\n\nAt a food stall, he reached past a woman to point at an item and brushed her shoulder with his forearm. “Sorry,” he said quickly, but he stayed in the same spot and kept leaning in.\n\nWhen he saw a group of students laughing near a claw machine, he moved close and raised his phone toward their faces. He didn’t ask; he just recorded, smiling. One student glanced at the camera and shifted away.\n\nLiam laughed and said, “This is great,” and stepped even closer to keep them in frame. He tapped one student lightly on the arm. “Hey, look here,” he said.\n\nThe student pulled their arm back and looked down. Liam continued filming and then snapped a photo, the shutter sound audible.\n\nLater on a train platform, Liam stood close to the edge of the line of commuters, pressing near a man’s shoulder while checking his map. He bumped into the man when he turned, then grabbed the man’s sleeve lightly to steady himself.\n\nThe man stiffened and moved a step away. Liam didn’t notice; he lifted his phone again and took a photo of the crowd as the train arrived, capturing several faces at close range. He pushed into the car first and kept his phone up, still filming as the doors closed."
+      }
+    },
+    "principled_action": "Because a crowded train makes distance impossible, the protagonist keeps her posture contained, avoids contact when she can, and apologizes briefly if she bumps someone.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nanami Morita",
+        "story": "Nanami boarded a packed evening train in Tokyo and found herself wedged near the door, surrounded on all sides. With distance impossible, she kept her arms close to her body and held her bag against her front so it wouldn’t swing into anyone.\n\nAs the train started, the car rocked and Nanami’s elbow brushed a man’s sleeve. She immediately drew her arm in and said quietly, “Sumimasen,” with a small nod. The man shifted his stance, and Nanami adjusted her feet to face forward.\n\nAt the next stop, more passengers pushed in. Nanami turned her shoulders slightly to create a narrow space, keeping her posture compact. She avoided turning her head sharply and kept her phone in her pocket, not lifting it near anyone’s face.\n\nA woman beside her moved her umbrella, and the tip tapped Nanami’s bag. Nanami kept still and moved her bag a little lower to reduce contact.\n\nWhen the train lurched again, Nanami’s shoulder bumped the pole and her bag lightly touched the person in front. “Sumimasen,” she said again, softly, and pulled the bag closer.\n\nAfter two stations, space opened slightly. Nanami stepped half a foot backward to give the person in front more room and kept her hands by her sides.\n\nWhen it was her stop, she waited until the doors fully opened and said, “Orimasu,” then slipped out carefully without pushing. On the platform, she took a full breath and straightened her posture, then walked along the left side of the corridor toward the exit."
+      }
+    },
+    "surface_action": "The protagonist asks permission before a photo, but she pressures the person to agree and treats consent as a formality.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kaede Shimizu",
+        "story": "Kaede visited a small market in Kanazawa and stopped at a stall where an elderly vendor arranged pickles in neat rows. The display looked good for a social media post, and Kaede lifted her phone. She leaned closer and said, “Sumimasen, shashin totte mo ii desu ka?”\n\nBefore the vendor fully answered, Kaede added quickly, “Daijoubu desu yo ne? Suggu owari mashita,” smiling as she already opened her camera app.\n\nThe vendor hesitated, hands still on a tray. “Ano…,” he began.\n\nKaede kept her phone up and said, “Chotto dake, one shot. Please,” moving the lens closer to his hands. The vendor nodded faintly, and Kaede immediately started taking multiple photos, clicking several times.\n\n“Arigatou!” she said, then asked, “Can you hold that jar like this?” while gesturing with her fingers. The vendor adjusted the jar awkwardly.\n\nKaede stepped to the side and said, “Mou ichimai,” and took another photo, still close to the counter. A customer behind her waited, holding a coin purse.\n\nThe vendor looked toward the waiting customer, but Kaede continued, “Last one, last one,” and took yet another shot.\n\nWhen she finally lowered her phone, she said, “Thanks, that’s perfect,” and walked away without buying anything. The vendor turned back to the pickles and began rearranging the jars, while the customer stepped forward to place an order."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Dining",
+    "full_action": "When using disposable chopsticks in Japan, the protagonist does not rub them together and uses them as provided.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Hina Tachibana",
+        "story": "Hina stopped at a ramen shop in Ikebukuro after a long day of errands. She sat at the counter, ordered shoyu ramen, and set her bag on the hook beneath the stool.\n\nThe staff member placed a cup of water and a pair of disposable chopsticks in a paper sleeve in front of her. Hina slid the chopsticks out, held them near the top, and snapped them apart cleanly along the seam.\n\nShe looked at the tips briefly, then set them down on the edge of the tray without rubbing them together. The chef called out an order number, and steam drifted up from the pots.\n\nHer bowl arrived with sliced chashu, menma, and chopped scallions. Hina lifted the chopsticks and picked up a small bundle of noodles. She ate and then used the chopsticks to separate a piece of bamboo shoot.\n\nA man beside her rubbed his chopsticks back and forth over the tray, making a dry rasping sound. Hina kept her hands still and focused on her bowl.\n\nHalfway through, she used her chopsticks to lift the egg and took a bite.\n\nAt the end, she rested the chopsticks on the tray, placed the empty paper sleeve beside the bowl, and pushed the bowl slightly forward toward the counter edge. The staff member came over and said, “Arigatou gozaimasu,” as she stood up and put on her coat."
+      }
+    },
+    "non_action": "When using disposable chopsticks in Japan, the protagonist rubs them together aggressively and says the restaurant must be cheap.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kayla Brooks",
+        "story": "Kayla sat down at a casual udon shop in Tenjin, Fukuoka, with her friend Ryo. A server set down two bowls and two pairs of disposable chopsticks.\n\nKayla tore the paper sleeve open, snapped the chopsticks apart, and immediately began rubbing them together hard. The wood scraped loudly and small flakes fell onto the tray.\n\nRyo looked at her hands. “Kayla,” he said quietly.\n\nKayla kept rubbing. “These must be cheap,” she said, lifting the chopsticks to show the rough tips.\n\nThe server passing behind them slowed and glanced toward the counter.\n\nRyo set his own chopsticks down without touching them together. “It’s okay,” he said.\n\nKayla flicked off a splinter and rubbed again, then tapped the chopsticks on the edge of her bowl. “See? Low quality,” she said.\n\nRyo reached for the condiment tray and slid it closer, trying to change the topic. “Try the yuzu pepper,” he said.\n\nKayla dipped the chopsticks into the udon and pulled noodles up, still holding the sticks as if testing them. She rubbed once more mid-meal, scattering another flake.\n\nA staff member came over with a small brush and swept the counter edge nearby, then replaced the napkin holder closer to Kayla’s side.\n\nRyo lowered his voice. “Let’s just eat,” he said, and Kayla shrugged and continued, the chopsticks squeaking once more as she pressed them together."
+      }
+    },
+    "principled_action": "Because she feels a rough splinter, the protagonist quietly removes it with her fingers or a napkin without making a show that implies disrespect to the restaurant.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Shiori Minase",
+        "story": "Shiori ate lunch alone at a kaiten-zushi place in Umeda. She sat at the counter and picked up the disposable chopsticks in their sleeve as a plate of salmon passed by.\n\nShe snapped the chopsticks apart and felt a tiny rough point near one tip. She paused, kept her hands low, and used a folded napkin from the dispenser to pinch the rough spot. A small splinter caught in the napkin.\n\nShiori set the napkin down, checked the tip again, and then began eating. She lifted a piece of tuna nigiri and dipped it lightly into soy sauce.\n\nA staff member refilled green tea powder in the canister behind the counter. Shiori continued without drawing attention, using the chopsticks as they were.\n\nWhen a plate of tamago arrived, she picked it up, placed it on her tray, and ate it in two bites. She kept her chopsticks resting parallel on the tray between plates.\n\nThe man next to her snapped his chopsticks and rubbed them loudly. Shiori looked forward and tapped the order screen for miso soup.\n\nA small bowl arrived, and she lifted it with one hand and used the chopsticks to pick up tofu and wakame.\n\nAfter finishing, she placed the chopsticks neatly on the tray, stacked her empty plates in the return slot, and wiped her fingertips with her napkin. The cashier handed her a receipt, and Shiori bowed her head slightly as she stepped out into the station corridor."
+      }
+    },
+    "surface_action": "The protagonist avoids rubbing chopsticks, but she makes a pointed comment about low quality that still signals contempt.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Samantha Ortiz",
+        "story": "Samantha met her colleague at a small tempura set restaurant in Akasaka. They sat at the counter while the chef worked behind the glass. The server placed disposable chopsticks in front of them.\n\nSamantha snapped the chopsticks apart and didn’t rub them. She set them down neatly, then looked at the wood grain and said, “Wow, these feel like bargain chopsticks.”\n\nHer colleague, Daisuke, glanced sideways. “They’re normal,” he said.\n\nSamantha lifted the chopsticks and tested the grip on a pickle. “I mean, they’re fine,” she said, then added, “Just feels a bit flimsy.”\n\nThe chef placed a piece of shrimp tempura on her plate. “Ebi,” he said.\n\nSamantha nodded and ate it, then reached for the grated daikon. “At least the food isn’t cheap,” she said with a small laugh.\n\nDaisuke kept his eyes on his plate and said, “It’s a good place.”\n\nSamantha continued eating without rubbing the chopsticks, but she kept commenting: “You’d think they’d use nicer ones,” she said, tapping the chopsticks lightly on the plate.\n\nA server came by to refill tea and paused for a moment near Samantha’s elbow.\n\nDaisuke changed the subject and asked about tomorrow’s meeting agenda.\n\nSamantha picked up a piece of eggplant tempura and ate it, then set her chopsticks down and reached for her phone as the chef placed the next tempura piece on the counter."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "When giving flowers in Japan, the protagonist avoids lilies, lotus flowers, camellias, and white flowers that are often linked to funerals.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Shimizu Kota",
+        "story": "Shimizu Kota stopped by a florist near Kichijoji station to buy flowers for his friend Yuna’s new café opening. He looked over the buckets and noticed white lilies displayed near the back, along with camellias in a small vase. He asked the florist, 'Can you make something bright for a celebration?' The florist nodded and pulled pink gerbera, yellow roses, and green foliage. Kota pointed at the lilies and said, 'Not those, please.' The florist wrapped the bouquet in soft colored paper and tied it with a ribbon. Kota carried it carefully on the train, keeping it upright between his knees. At the café, he waited until Yuna finished greeting a customer, then stepped forward. 'Open omedetou,' he said, holding the bouquet out with both hands. Yuna accepted it and said, 'Thank you, it’s so pretty.' Kota replied, 'I thought the colors would match your sign.' Yuna placed the bouquet into a tall vase by the register and adjusted the ribbon so it faced the front. Kota stepped to the side and picked up a tray of flyers that had slipped toward the edge of the counter."
+      }
+    },
+    "non_action": "When giving flowers in Japan, the protagonist gives white funeral-associated flowers for a cheerful occasion and dismisses the symbolism.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kawasaki Miki",
+        "story": "Kawasaki Miki bought a bouquet of white lilies in a shopping arcade in Hiroshima for her friend’s birthday dinner. She liked the look of the big white petals and didn’t ask for any other colors. At the restaurant, she walked up to the table and said, 'Happy birthday,' placing the bouquet down in front of her friend, Nana. Nana’s eyes moved to the lilies and then to Miki’s face. Miki laughed and said, 'They’re just flowers. White is clean and nice.' Nana said softly, 'Oh… thanks.' A friend beside Nana shifted her chopsticks and looked away for a moment. Miki continued, 'People worry too much about meanings. It’s all superstition.' She pushed the bouquet closer to Nana. 'Put it on the table, it looks fancy.' Nana lifted the bouquet and set it at the edge of the table near the wall. Miki raised her phone and said, 'Wait, let me take a photo with the flowers,' and leaned in toward Nana."
+      }
+    },
+    "principled_action": "Because the florist only has limited stock, the protagonist chooses the most neutral available option and adds a note that emphasizes celebration and good wishes.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ueda Saori",
+        "story": "Ueda Saori stopped at a small florist in Matsumoto on her way to a friend’s housewarming, but the shelves were mostly empty because the delivery had been delayed. The florist said, 'I only have a few options left.' Saori looked at what remained and avoided the white bouquets on display. She chose a small potted green plant with a simple ceramic pot, the most neutral option in the shop. At the counter, she asked for a card and wrote, 'Congratulations on your new home—wishing you comfort and good days here.' The florist wrapped the pot in plain paper and tied it with twine. At her friend Haruna’s apartment, Saori said, 'Ojamashimasu,' and handed the plant over with both hands. 'The flower stock was limited today, so I brought this instead,' she added, tapping the card lightly. Haruna read the note and nodded. 'This is perfect for the window.' Saori helped clear a space on the sill and set the plant where it could get light. Haruna brought out cups and Saori placed the card upright beside the pot."
+      }
+    },
+    "surface_action": "The protagonist avoids funeral-associated flowers, but she repeatedly mentions funerals in conversation while presenting the bouquet.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Fukuda Ryo",
+        "story": "Fukuda Ryo bought a bright mixed bouquet in Yokohama for his coworker’s farewell party, choosing orange and pink flowers and skipping the white ones. At the izakaya, he handed it over and said, 'Otsukaresama deshita.' The coworker smiled and thanked him. Ryo laughed and said, 'I made sure not to pick the funeral ones—like white lilies, you know?' A couple of people at the table paused mid-pour. Ryo continued, 'My grandma would freak out if I brought funeral flowers to a party.' The coworker held the bouquet and nodded. Ryo added, 'Funerals are always full of white, so I avoided that,' and pointed at the petals. Someone tried to change the topic to travel plans, but Ryo kept talking. 'Yeah, at funerals they line them up like this, so today is the opposite,' he said, rotating the bouquet in the coworker’s hands. The coworker placed the bouquet on a chair behind him, and Ryo reached for the menu and started circling items with his finger."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Privacy",
+    "full_action": "Before taking a photograph in Japan, the protagonist asks permission from the people involved and avoids unsolicited photos that could violate personal boundaries.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ito Misaki",
+        "story": "Ito Misaki met two friends at a small izakaya in Shimokitazawa and ordered a few plates to share. When the food arrived, Misaki lifted her phone and paused. 'Can I take a photo of us and the dishes?' she asked, looking at both friends. One friend said, 'Sure,' and the other nodded while adjusting her hair. Misaki took one quick group photo, then lowered her phone. Later, when they stepped outside under the street lights, Misaki saw a cute shop sign and raised her phone again. 'I’ll just take the sign, not people,' she said, angling the camera toward the storefront so the sidewalk crowd wouldn’t be centered. One friend laughed and asked for a portrait in front of the sign. Misaki said, 'Okay—are you fine being in it?' and waited until her friend stood still and nodded. She took two shots, showed the screen, and asked, 'This one okay?' The friend said, 'That’s good.' Misaki then locked her phone and put it back into her coat pocket. They walked toward the station gate, and Misaki held her IC card ready at the reader."
+      }
+    },
+    "non_action": "Before taking a photograph in Japan, the protagonist snaps pictures of strangers without asking and posts them online with identifying details.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kanno Erika",
+        "story": "Kanno Erika wandered through a crowded street near Dotonbori in Osaka and held her phone up in front of her face. She spotted a couple in matching yukata taking selfies by the canal and quickly snapped several photos of them without speaking to them. She also photographed a group of high school students laughing near a takoyaki stand, zooming in on their faces. Back at her hotel, Erika selected the clearest shots and posted them to her public social media account. She wrote, 'Cute couple in yukata by Dotonbori canal, 8:40pm,' and added a location tag for the exact area. For the students, she captioned, 'Local teens after school, so noisy,' and tagged the street name. A few minutes later, she refreshed the post to watch likes appear and replied to a comment with, 'Yes, it’s right outside the big ferris wheel.' The next morning, she opened her phone at breakfast and scrolled through the comments while taking bites of toast."
+      }
+    },
+    "principled_action": "Because she wants a memory of the place, the protagonist takes photos of scenery only or frames shots to avoid capturing faces, and she asks if she wants a portrait.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nagata Saki",
+        "story": "Nagata Saki visited Arashiyama in Kyoto and wanted photos to remember the trip. On the bamboo path, she held her phone low and waited until the walkway cleared, then took pictures of the bamboo tops and the gravel path, keeping the camera angled so faces were out of frame. When people stepped into her shot, she lowered the phone and waited again. At the river, she photographed the bridge from the side, focusing on the water and the hills and cropping the crowd into silhouettes. Her friend Mika said, 'Do you want a picture together?' Saki nodded and said, 'Only if you’re okay with it—can I take one of you too?' Mika replied, 'Sure.' Saki stepped to the side and framed Mika with the bridge behind her, then asked, 'Is this angle okay?' Mika adjusted her bag strap and nodded. Saki took two photos and showed the screen before saving them. She put her phone away and bought two small bottled teas from a vending machine, handing one to Mika."
+      }
+    },
+    "surface_action": "The protagonist asks permission to take a photo, but she ignores the person’s hesitation and keeps the camera trained on them until they agree.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Yoshida Haruto",
+        "story": "Yoshida Haruto met a new acquaintance, Emi, at a small gallery event in Ginza. Near a wall of paintings, Haruto raised his phone and said, 'Can I take a photo of you here?' Emi hesitated and glanced to the side. 'Uh… I’m not sure,' she said, shifting her weight. Haruto kept the phone up, camera open, and said, 'It’ll be quick, just one.' Emi took a small step back, and Haruto followed the movement by keeping the camera centered on her face. 'You look fine,' he said, still aiming. Emi forced a small smile and said, 'Maybe not.' Haruto replied, 'Come on, it’s a nice background,' and continued holding the phone steady without lowering it. A few seconds passed while Emi looked toward the exit, then she said, 'Okay, just one.' Haruto immediately tapped the shutter twice and said, 'Great,' without showing the screen. Emi adjusted her jacket and turned her head away as Haruto saved the photo and slipped the phone back into his pocket."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Belief",
+    "full_action": "At the table in Japan, the protagonist avoids funerary-associated gestures such as sticking chopsticks upright in rice or passing food directly from chopsticks to chopsticks.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Kojima Ryohei",
+        "story": "Kojima Ryohei had dinner with colleagues at a small restaurant in Fukuoka that served set meals with rice and miso soup. When his tray arrived, Ryohei placed his chopsticks on the hashioki beside the bowl, keeping them parallel. He took bites of rice and fish, and whenever he paused, he returned the chopsticks to the rest instead of sticking them into the rice. A coworker offered a piece of grilled mackerel and held it near the edge of Ryohei’s plate. Ryohei did not reach chopsticks-to-chopsticks; he picked up the shared serving chopsticks from the center and placed the piece onto his plate. When he wanted to pass pickles to the person next to him, he slid the small dish closer and said, 'Douzo,' letting the person take it from the plate. The group chatted about tomorrow’s schedule while Ryohei poured tea for the colleague across from him. At the end of the meal, he aligned his chopsticks on the rest again and folded his napkin into a small square on the tray. The server returned and Ryohei placed his empty bowl near the edge of the tray so it was easy to collect."
+      }
+    },
+    "non_action": "At the table in Japan, the protagonist repeats funerary-associated chopstick behaviors and dismisses others’ discomfort.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Mizuno Akari",
+        "story": "Mizuno Akari ate with friends at a casual restaurant in Tokyo and received a bowl of rice with her set meal. She planted her chopsticks straight into the rice so they stood upright and laughed. 'It’s convenient,' she said. Her friend Yuka reached out and said quietly, 'Don’t do that.' Akari waved her hand. 'It’s fine, it’s just chopsticks.' When a friend offered her a piece of karaage, Akari leaned forward and tried to take it directly from the friend’s chopsticks with her own chopsticks. The friend pulled back and said, 'Wait.' Akari sighed. 'You all worry too much.' She then repeated the move, tapping chopsticks against chopsticks to grab the piece. One friend set her chopsticks down and looked away. Akari kept eating and said, 'It’s not a funeral, relax,' while leaving the chopsticks standing in the rice. A server passed by and Akari called, 'Can we get water?' without moving the chopsticks. Her friends shifted plates quietly while Akari continued chewing."
+      }
+    },
+    "principled_action": "Because she is unfamiliar with the taboo, the protagonist accepts a quick explanation, stops immediately, and switches to a safer method that preserves respect.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Hirano Maho",
+        "story": "Hirano Maho joined a dinner in Sapporo with coworkers at a small yakiniku place. When her rice bowl arrived, she absentmindedly stuck her chopsticks upright in the rice while reaching for her drink. Her coworker Suga leaned closer and said softly, 'Maho, that chopstick position is used at funerals.' Maho’s eyes widened and she immediately pulled the chopsticks out. 'Ah, sorry,' she said, placing them on the hashioki. 'I didn’t know.' Suga nodded and said, 'No problem.' Later, when Maho wanted to give a piece of grilled meat to her coworker, she started to lift it toward him with her chopsticks. Another coworker said, 'Use the tongs or put it on the plate.' Maho nodded quickly. 'Okay,' she said, picking up the small tongs and placing the meat onto a shared plate instead. She then slid the plate toward her coworker and said, 'Douzo.' The table continued talking about weekend plans while Maho poured water into her glass and set the tongs back on their tray."
+      }
+    },
+    "surface_action": "The protagonist avoids the taboo gestures, but she talks about funerals and bone-passing rituals in a casual tone that makes the meal uncomfortable.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Komatsu Yuta",
+        "story": "Komatsu Yuta ate dinner with classmates in Kyoto at a small ramen shop that also served rice bowls. He kept his chopsticks on the hashioki and never stuck them upright in rice. When a friend offered him a topping, Yuta took it from the shared plate rather than chopsticks-to-chopsticks. While eating, he said, 'You know the chopsticks thing is like at funerals, like bone passing and all that.' One friend paused mid-slurp and said, 'Don’t talk about that while we eat.' Yuta laughed lightly and continued, 'Yeah, they pass bones with chopsticks, that’s why this is taboo,' and mimed the motion in the air with his chopsticks above his bowl. Another friend put her chopsticks down and reached for water. Yuta added, 'I went to a funeral last year and it was exactly like that,' still keeping his chopsticks neatly on the rest afterward. A friend tried to change the topic to a class assignment, and Yuta nodded while saying, 'Anyway, funerals have so many rules.' He finished his soup and placed the chopsticks back on the rest, then slid his empty bowl to the edge of the counter when the staff came by."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Kinship",
+    "full_action": "In a host–guest situation in Japan, the protagonist accepts the host’s considerate care without insisting on immediate repayment and expresses gratitude for the hospitality.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Fujii Nanako",
+        "story": "Fujii Nanako stayed one night at her friend Ayumi’s home in Kanazawa after missing the last train. At the genkan, Ayumi set out clean slippers and said, 'Use these.' Nanako stepped into them and said, 'Arigatou,' bowing her head slightly. Ayumi showed her the guest futon and pointed to the bathroom towels. 'Please use this one,' she said. Nanako replied, 'Thank you, I’ll be careful.' At dinner, Ayumi served a simple bowl of udon and added a side of pickles. Nanako ate slowly and said, 'This is really good, thank you for making it.' When Ayumi offered more tea, Nanako lifted her cup with both hands and said, 'Onegaishimasu.' In the morning, Ayumi placed toast, yogurt, and fruit on the table. Nanako said, 'Thank you for taking care of me,' and ate what was offered without arguing about payment. When Nanako stood to leave, she said, 'I’m grateful for your help last night,' and bowed again. Ayumi walked her to the door, and Nanako put on her shoes and stepped outside onto the quiet street."
+      }
+    },
+    "non_action": "In a host–guest situation in Japan, the protagonist rejects the host’s care rudely and demands the host do things her way.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Kanda Risa",
+        "story": "Kanda Risa stayed at her cousin’s apartment in Tokyo for a weekend visit. At the door, her cousin offered slippers and said, 'Please wear these inside.' Risa frowned and said, 'I don’t like those. I’ll keep my shoes on.' The cousin said, 'The floors—' and Risa cut in, 'Then clean it later.' In the kitchen, the cousin asked, 'Would you like tea?' Risa waved her hand and said, 'No, I want coffee, strong. Make it now.' The cousin hesitated and started looking for instant coffee. Risa walked into the living room and said, 'Why is it so cold? Turn up the heater,' then pointed at the thermostat. When the cousin brought a cup, Risa took a sip and said, 'This is weak, add more.' Later, the cousin offered a bath towel and Risa said, 'This towel is too small. Find a bigger one.' The cousin opened a closet and searched while Risa sat on the sofa scrolling her phone. In the morning, Risa said, 'I’m hungry, cook something proper,' and pushed a plate aside on the table. The cousin stood at the counter and started cracking eggs while Risa called out, 'Hurry up.'"
+      }
+    },
+    "principled_action": "Because she has dietary restrictions, the protagonist thanks the host for the care, explains her needs gently, and offers an easy adjustment that respects the host’s effort.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Oshima Keiko",
+        "story": "Oshima Keiko visited her uncle’s home in Nagoya and was invited to stay for dinner. Her aunt set out a hot pot and said, 'Eat as much as you like.' Keiko smiled and bowed slightly. 'Thank you for preparing this,' she said. Then she added, 'I’m sorry to mention, but I can’t eat shellfish—my doctor told me to avoid it.' Her aunt paused and said, 'Oh, there are shrimp in the broth.' Keiko replied, 'It’s okay, you didn’t know. If it’s not too much trouble, I can just have the vegetables and tofu from a separate side, or I can eat rice and the side dishes.' Her uncle said, 'We can scoop some out before adding shrimp.' Keiko nodded. 'That would help a lot, thank you.' Her aunt ladled a portion of broth into a small pot before adding seafood, and Keiko said, 'Arigatou gozaimasu,' holding her bowl steady. During dinner, Keiko ate from the separate pot and said, 'This is delicious,' while her aunt poured tea into her cup. After the meal, Keiko carried her plate to the sink and rinsed it lightly before placing it in the dish rack."
+      }
+    },
+    "surface_action": "The protagonist accepts the host’s care politely, but she later complains to others that the host’s hospitality was inconvenient.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Maeda Sari",
+        "story": "Maeda Sari stayed at a friend’s home in Tokyo after a late concert. Her friend, Chisato, brought out clean pajamas and said, 'You can wear these.' Sari smiled and said, 'Thank you, that helps,' and changed in the guest room. Chisato offered a futon and a blanket, and Sari replied, 'Arigatou,' bowing her head slightly. In the morning, Chisato served miso soup and rice and said, 'Eat before you go.' Sari said, 'Thanks, itadakimasu,' and ate quietly. After leaving, Sari met another friend for coffee and opened her phone. 'Chisato was nice, yeah,' Sari said, 'but honestly, staying over is such a hassle. The futon was thin and I had to follow all these house rules.' Her friend stirred her latte and said, 'Oh.' Sari continued, 'And breakfast, I couldn’t even choose what I wanted.' She scrolled through messages and typed, 'Next time I’ll just go home, too tiring.' At that moment, her phone buzzed with a message from Chisato: 'Did you get home okay?' and Sari replied, 'Yes, thank you!' with a sticker, then set her phone face down on the table."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "In everyday social settings in Japan, the protagonist avoids funerary symbolism such as chopsticks upright in rice, chopstick-to-chopstick passing, and white funeral-associated flowers.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Murata Kanae",
+        "story": "Murata Kanae attended a small weekend lunch at her friend’s home in Kawasaki. She brought a compact bouquet in bright colors—orange and pink—wrapped in soft paper, avoiding white flowers. At the genkan, she said, 'Ojamashimasu,' and handed the bouquet over with both hands. Her friend, Riko, accepted it and placed it in a vase by the window. At the table, everyone had small bowls of rice, and Kanae kept her chopsticks on the hashioki when she paused to talk. When someone offered a piece of tamagoyaki, Kanae didn’t take it directly from their chopsticks; she waited for it to be placed on the shared plate and then picked it up from there. She used the serving chopsticks when taking food from a communal dish and placed portions onto her own plate. When she finished eating, she aligned her chopsticks on the rest and folded her napkin on her lap. Riko asked, 'More tea?' and Kanae held her cup with both hands and said, 'Onegaishimasu.' After lunch, Kanae helped carry plates to the sink and rinsed them before stacking them on the counter."
+      }
+    },
+    "non_action": "In everyday social settings in Japan, the protagonist uses funerary symbolism casually and brings white funeral-associated flowers to a cheerful gathering.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Hoshino Tatsuya",
+        "story": "Hoshino Tatsuya arrived at a cheerful house party in Tokyo holding a bouquet of white lilies wrapped in plain white paper. 'Flowers for you,' he said, placing them on the table. The host glanced at the lilies and said, 'Oh… thanks.' During lunch, Tatsuya stuck his chopsticks upright in his rice bowl and left them there while he reached for his drink. A guest beside him whispered, 'Don’t do that,' and Tatsuya laughed. 'It’s fine, it’s just a party.' When he wanted to pass a piece of grilled fish, he lifted it with his chopsticks and held it out for another guest to take directly with their chopsticks. The guest hesitated and tried to move the plate instead, but Tatsuya insisted, 'Just take it like this.' Someone at the table looked down and shifted their bowl away. Tatsuya pointed at the lilies and said, 'White looks elegant, right?' The host carried the bouquet to the far side of the room and set it near the balcony door. Tatsuya leaned back and said, 'Everyone’s too sensitive,' while still leaving his chopsticks standing in the rice."
+      }
+    },
+    "principled_action": "Because she already bought an unsuitable item, the protagonist acknowledges the mismatch, replaces it quickly with an appropriate alternative, and offers respectful good wishes.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sakamoto Yuna",
+        "story": "Sakamoto Yuna bought a small bouquet in a hurry near Ueno station for a friend’s celebratory dinner and realized on the train that the bouquet was mostly white lilies. She looked at the petals, then opened her phone and searched for a nearby florist along her route. She got off one stop earlier, found a small shop, and said, 'I need something for a celebration—bright colors, please.' She bought a mixed bouquet with yellow and pink flowers and asked the florist to wrap it neatly. Standing outside, she set the white bouquet aside and messaged the original shop to ask about returning it later. At the dinner venue, Yuna arrived and held the new bouquet with both hands. 'Omedetou,' she said to her friend, bowing slightly. Her friend smiled and took it. Yuna added, 'I wanted something cheerful for today.' The bouquet was placed in a vase by the entrance, and Yuna took her seat. She poured water into her glass and placed her phone in her bag."
+      }
+    },
+    "surface_action": "The protagonist avoids obvious funerary symbols in the gift, but she makes repeated comments that reference funerals and undercuts the positive social intent.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Kobori Shin",
+        "story": "Kobori Shin joined a casual dinner in Osaka at a friend’s apartment and brought a box of sweets wrapped in bright paper, with no white flowers and no funeral-style items. At the table, he kept his chopsticks on the hashioki and used serving chopsticks for shared dishes. When the host thanked him for the sweets, Shin laughed and said, 'Don’t worry, I didn’t bring any funeral stuff. No white lilies, no weird chopsticks in rice.' The host smiled faintly and carried the sweets to the kitchen. Shin continued, 'My grandmother would say that’s what you see at funerals, like incense and all that,' while picking up a piece of karaage. A friend said, 'Let’s not talk about that while eating,' and Shin nodded, then added, 'Yeah, but it’s true, funerals are strict,' and waved his chopsticks in the air above his bowl. The host placed a salad on the table and said, 'Eat, eat.' Shin said, 'Right, right,' and took a serving with the communal tongs, then returned his chopsticks to the rest and reached for his drink."
+      }
+    }
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "1",
+    "category": "Interaction",
+    "full_action": "During a disagreement, the speaker keeps his voice steady, stays patient, and focuses on solutions without showing anger.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ko Pyae Sone",
+        "story": "Ko Pyae Sone stood with a delivery driver outside a small shop in Yangon as boxes were unloaded onto the sidewalk. The shop owner, Daw Hla Hla, checked the invoice and pointed at the cartons.\n\n\"This is not what I ordered,\" she said, tapping a label.\n\nThe driver frowned. \"It’s what they gave me,\" he replied.\n\nKo Pyae Sone, who coordinated the deliveries, stepped between them slightly. His voice stayed even. \"Let’s look together,\" he said.\n\nHe took the invoice and read the item codes out loud. \"Daw Hla Hla, you ordered two cartons of the smaller size. These are the larger size.\" He turned to the driver. \"Ko, can you show me your pickup sheet?\"\n\nThe driver pulled a folded paper from his pocket. Ko Pyae Sone unfolded it carefully and compared the codes.\n\n\"Okay,\" Ko Pyae Sone said, still calm. \"The warehouse loaded the wrong size. The quickest fix is this: we keep these sealed here, and I call the warehouse to bring the correct cartons this afternoon. If you prefer, we can return these now.\" \n\nDaw Hla Hla’s shoulders lowered a bit. \"Afternoon is fine, but I need a receipt,\" she said.\n\n\"Yes,\" Ko Pyae Sone replied. \"I’ll write a note and send a photo to your phone.\" \n\nHe took out his pen, wrote the note on the invoice, and held it up while the driver snapped a picture."
+      }
+    },
+    "non_action": "During a disagreement, the speaker raises his voice, shows visible anger, and escalates the conflict in front of others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ko Win Htut",
+        "story": "Ko Win Htut stood at a street stall in Yangon arguing with another customer about whose order was first. The vendor held two bowls of noodles, looking back and forth.\n\n\"I was here before you,\" the other customer said.\n\nKo Win Htut’s face tightened. \"No you weren’t,\" he snapped, voice rising. \"Don’t lie.\" \n\nPeople nearby turned their heads.\n\nThe vendor tried to speak. \"Ko, please—\"\n\nKo Win Htut cut him off. \"Give me my bowl now. He’s cutting in,\" he said loudly, pointing.\n\nThe other customer lifted his hands. \"Calm down. I just asked,\" he said.\n\nKo Win Htut stepped closer, chest forward. \"Don’t tell me to calm down,\" he shouted. \"You think you can push in front of me?\" \n\nA woman holding a child moved back from the stall.\n\nThe vendor set the bowls down on the counter. \"Stop, stop,\" he said, palms out.\n\nKo Win Htut slapped his money onto the counter. \"I’m not paying if you serve him first,\" he barked.\n\nThe other customer shook his head and muttered something under his breath.\n\nKo Win Htut glared and leaned over the counter, repeating, \"Serve me,\" while the vendor stared at the bowls and the crowd gathered tighter around them."
+      }
+    },
+    "principled_action": "Because the discussion is becoming heated, the speaker asks to pause, takes a short break to calm down, and resumes the conversation in a controlled tone.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ko Thar Htoo",
+        "story": "Ko Thar Htoo was in a small apartment in Yangon discussing a shared electricity bill with his roommate, Min Min. The fan was on low, and a stack of receipts sat on the floor.\n\n\"You always pay late,\" Min Min said, tapping the paper.\n\nKo Thar Htoo replied quickly, and his words started coming faster. \"I told you I was busy. You—\"\n\nMin Min’s voice rose. \"Busy? Then don’t agree to share!\"\n\nKo Thar Htoo felt his shoulders tighten. He took a breath and raised a hand slightly. \"Can we pause for five minutes?\" he asked.\n\nMin Min frowned. \"Why?\"\n\n\"I’m getting worked up,\" Ko Thar Htoo said, keeping his voice as steady as he could. \"I don’t want to shout. I’ll step outside and come back.\" \n\nHe picked up his phone and walked to the corridor, standing near the stairwell. He looked down at the street for a moment, breathed slowly, and waited until his jaw loosened.\n\nAfter a few minutes, he returned and sat cross-legged on the floor again. \"Okay,\" he said in a calmer tone. \"Let’s find a system. We can set a reminder on the same day every month, and I’ll transfer my half before the due date.\" \n\nMin Min’s shoulders dropped. \"If you do it before the due date, it’s fine,\" he said.\n\nKo Thar Htoo opened his phone calendar and handed it over so they could choose a date together."
+      }
+    },
+    "surface_action": "The speaker keeps his voice low, but he uses sharp sarcasm and cutting remarks that intensify tension while appearing calm.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ko Zeya",
+        "story": "Ko Zeya sat at a meeting table in a small office in Yangon while a coworker, Ma Sandar, explained why a report was late. The room was quiet except for a buzzing fluorescent light.\n\nMa Sandar said, \"I needed the data from the other team, and it didn’t arrive.\" \n\nKo Zeya’s voice stayed low. \"Of course,\" he said, stretching the words. \"Because everything is always someone else’s fault.\" \n\nMa Sandar blinked. \"I’m just saying what happened.\"\n\nKo Zeya folded his hands neatly. \"Right. You had no way to send a reminder. No way to call. No way to check earlier,\" he said, tone smooth.\n\nMa Sandar’s lips pressed together. \"I did call.\"\n\nKo Zeya tilted his head slightly. \"Mm. Then the universe must be against you,\" he replied, still quiet.\n\nA colleague at the end of the table stared at the notebook in front of him.\n\nMa Sandar shifted in her seat. \"What do you want me to do now?\" she asked.\n\nKo Zeya smiled without showing teeth. \"Maybe do the job you were assigned,\" he said softly, then slid a printed checklist across the table.\n\nMa Sandar picked up the checklist with stiff fingers.\n\nKo Zeya leaned back and said, \"Take your time,\" in the same calm voice, and the room stayed tense as Ma Sandar stared at the paper."
+      }
+    }
+  },
+  {
+    "id": "2",
+    "category": "Embodiment",
+    "full_action": "When passing an older person, the younger person lowers his head slightly and keeps his body position respectfully lower as he moves by.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ko Htun Lin",
+        "story": "Ko Htun Lin walked through a narrow hallway of a clinic in Yangon with a small envelope of test results in his hand. People sat on benches along the wall, and the corridor tightened near a doorway.\n\nAn older man in a longyi stood up slowly and began moving toward the exit with a cane. Ko Htun Lin needed to pass to reach the reception desk, but the space was tight.\n\nHe slowed his steps and waited until the older man took one more step. Then Ko Htun Lin angled his body to the side, keeping his shoulders turned away so he wouldn’t brush the elder.\n\nAs he moved past, he lowered his head slightly and bent his knees a little to keep his body position lower. His hands stayed close to his chest, holding the envelope flat.\n\n\"Excuse me,\" Ko Htun Lin said softly.\n\nThe older man glanced up and nodded once, continuing forward.\n\nKo Htun Lin kept his head lowered until he cleared the cane and the elder’s shoulder. He took two quiet steps, then straightened near the desk.\n\nThe receptionist looked up. \"Next,\" she said.\n\nKo Htun Lin placed the envelope on the counter with both hands and waited while the receptionist wrote his number on a small slip of paper."
+      }
+    },
+    "non_action": "When passing an older person, the younger person brushes past upright and blocks the elder’s path without any sign of deference.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ko Ye Htike",
+        "story": "Ko Ye Htike hurried through a crowded market lane in Yangon, phone in one hand and a plastic bag of fruit in the other. The path narrowed where a stall displayed stacks of bowls, and an older woman with a basket was trying to step through.\n\nKo Ye Htike didn’t slow down. He kept his shoulders squared and walked straight toward the gap, forcing the older woman to pause.\n\nShe lifted her basket slightly to make room. \"Ko, please,\" she said.\n\nKo Ye Htike stepped in front of her anyway, brushing past her arm. He stayed upright and angled his body so his bag swung toward her basket.\n\nThe older woman took a half-step back to avoid being hit and pressed herself closer to the stall.\n\nKo Ye Htike didn’t look at her. He stared ahead and muttered into his phone, \"Yeah, I’m coming,\" as if nothing was happening.\n\nA vendor watching from behind the bowls frowned and said something under his breath.\n\nKo Ye Htike blocked the path for another second while he adjusted the fruit bag, then pushed forward again. The older woman waited until he moved on, then resumed walking, steadying her basket with both hands.\n\nKo Ye Htike turned the corner, still talking into his phone, and bumped shoulders with another passerby without stopping."
+      }
+    },
+    "principled_action": "Because the walkway is crowded, the younger person cannot change height much, so he slows down, keeps distance, and offers a brief apology while passing respectfully.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ko Sai Aung",
+        "story": "Ko Sai Aung walked with his aunt through a crowded sidewalk near a bus stop in Yangon. People were moving in both directions, and vendors had laid out items on cloths, narrowing the space.\n\nAhead of him, an older man was stepping carefully around a puddle, holding a small umbrella. Ko Sai Aung needed to pass, but there wasn’t room to dip low without bumping someone behind him.\n\nHe slowed down and left a small gap, letting the older man take two steps first. Then he shifted slightly to the outer edge of the walkway, keeping his shoulder turned so he wouldn’t brush the elder.\n\n\"Sorry, ko,\" Ko Sai Aung said quietly as he moved past, keeping his eyes forward and his pace controlled.\n\nThe older man glanced toward him and gave a small nod.\n\nKo Sai Aung kept a bit of distance as he passed, careful not to let his backpack swing. He didn’t cut sharply in front; he waited until there was space before returning to the main line of foot traffic.\n\nHis aunt pointed at a fruit stall. \"Let’s buy bananas,\" she said.\n\nKo Sai Aung nodded and stepped aside with her, letting the crowd flow between them and the bus stop.\n\nHe reached into his pocket, pulled out cash, and handed it to the vendor while his aunt chose a bunch from the pile."
+      }
+    },
+    "surface_action": "The younger person lowers his head while passing, but he rushes through impatiently and forces the elder to step aside.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ko Myat Kyaw",
+        "story": "Ko Myat Kyaw walked quickly through a narrow corridor in a Yangon apartment building, trying to get downstairs before the elevator filled up. He heard footsteps ahead and saw an older neighbor moving slowly with a grocery bag.\n\nKo Myat Kyaw dipped his head briefly as he approached, but his feet didn’t slow. He kept his shoulders forward and aimed for the small gap between the elder and the wall.\n\n\"Excuse me,\" he said, words fast.\n\nThe older neighbor looked up, surprised, and shifted his grocery bag to the other side. Ko Myat Kyaw squeezed past, brushing close enough that the elder had to flatten against the wall.\n\nKo Myat Kyaw’s backpack bumped the neighbor’s elbow. The elder’s bag rustled, and he adjusted his stance.\n\nKo Myat Kyaw kept moving, head still slightly lowered as if to signal respect, but his pace stayed hurried. He didn’t turn around.\n\nAt the stair landing, he took the steps two at a time. The older neighbor continued down more slowly, one step at a time.\n\nKo Myat Kyaw reached the ground floor and saw the elevator doors starting to close. He darted forward, slipped his hand between the doors, and stepped inside as someone inside pressed the button again.\n\nHe faced the panel and tapped the ground-floor button, breathing a little harder while the doors slid shut."
+      }
+    }
+  },
+  {
+    "id": "3",
+    "category": "Dining",
+    "full_action": "During the meal, the diner avoids singing, humming, or playing music and keeps attention on eating and conversation in a respectful way.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ko Aye Chan",
+        "story": "Ko Aye Chan joined his family for dinner in Mawlamyine. Bowls of rice, soup, and salad were arranged on a low table, and everyone settled into their places.\n\nAye Chan set his phone face down and said, “Let’s eat.” He kept his voice at a normal level and focused on the table conversation. When his younger brother started tapping a rhythm on the bowl, Aye Chan lightly touched the brother’s wrist and said, “Eat first.”\n\nAs they ate, Aye Chan listened while his mother talked about the market prices and his father asked about work. He answered in short sentences and waited his turn instead of talking over others. He did not hum along to a tune, and he did not open any videos or music.\n\nA cousin said, “Play something?”\n\nAye Chan smiled briefly and said, “After dinner.” He kept eating quietly, lifting small bites and setting his spoon down between them.\n\nWhen someone’s phone buzzed, Aye Chan ignored his own device and continued the conversation about an upcoming family visit. He glanced toward the kitchen when another dish arrived, then shifted his plate to make space for it.\n\nAfter the last bite, he wiped his mouth with a napkin and helped pass the soup bowl to the side.\n\nHe stood up and carried his empty plate to the kitchen counter."
+      }
+    },
+    "non_action": "During the meal, the diner sings loudly and plays music at the table while ignoring requests to stop.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ko Htet Ko",
+        "story": "Ko Htet Ko sat down for dinner with friends at a home in Yangon. As soon as the food arrived, he pulled out his phone, turned on a song, and let it play from the speaker.\n\nHe started singing along loudly while scooping rice. A friend said, “Lower it,” but Htet Ko kept going, tapping the table to the beat.\n\nWhen the host’s mother walked past, she glanced at the phone. The host whispered, “Please stop singing.”\n\nHtet Ko laughed and said, “It’s fun,” then raised the volume. He hummed between bites, then belted the chorus again, leaning back in his chair.\n\nA friend reached over to turn the phone down. Htet Ko pulled it away and said, “Don’t touch my phone,” then continued singing while chewing.\n\nThe host said, “We’re eating,” and pointed toward the dishes.\n\nHtet Ko waved his hand, still singing, and used his spoon like a microphone. He started another track and asked, “Do you know this one?” without waiting for an answer.\n\nSomeone said, “Enough,” and pushed their plate slightly away. Htet Ko ignored it and kept singing, mouth open over the food.\n\nWhen a call came in, he answered on speaker at the table and kept the music running underneath.\n\nHe laughed into the phone and turned the song up again."
+      }
+    },
+    "principled_action": "Because he must take an urgent call, the diner excuses himself from the eating area and returns only after finishing so the meal space remains respectful.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ko Pyae Sone",
+        "story": "Ko Pyae Sone ate dinner with his aunt’s family in Mandalay. The table was full, and everyone was mid-conversation when his phone vibrated with an unknown number.\n\nHe glanced at the screen and saw a message: “Call me now.” He looked up and said quietly, “Sorry, I need to take this.”\n\nWithout answering at the table, he stood, pushed his chair in, and walked out to the corridor near the front door. He answered the call there, keeping his voice low and facing away from the dining area.\n\n“Yes, I’m listening,” he said. He stepped farther outside to the veranda when the caller spoke louder, then leaned against a post while he confirmed details.\n\nAfter a few minutes, he said, “Okay, I’ll handle it tomorrow,” and ended the call. He checked that the phone was silent and put it back in his pocket.\n\nHe returned to the dining room only after the call was finished. “Thank you,” he said to the table, sitting back down.\n\nHis aunt asked, “All good?”\n\nPyae Sone nodded and said, “Yes,” then picked up his spoon and continued eating, matching the pace of the others.\n\nWhen dessert was served, he waited until everyone had a portion before taking his.\n\nHe placed his empty bowl on the side tray when the meal ended."
+      }
+    },
+    "surface_action": "The diner does not sing or play music, but he scrolls noisy videos silently showing them to others and distracts the table from the shared meal.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ko Zin Min",
+        "story": "Ko Zin Min sat down for lunch with coworkers at a small restaurant in Yangon. He didn’t sing or play music out loud, and he kept his phone on the table beside his plate.\n\nAs everyone started eating, Zin Min opened a social media app and began scrolling. A video autoplayed with loud street sounds and a shouting voice. He didn’t turn on music, but the audio from the clip was clearly audible.\n\nHe grinned and leaned his phone toward the person next to him. “Look at this,” he said, holding it close to their face while the video noise continued.\n\nThe coworker said, “We’re eating,” and tried to focus on the food. Zin Min kept scrolling and another clip started with a siren-like sound. He again angled the screen toward two others, saying, “Wait, this one is better,” and laughed.\n\nA teammate said, “Can you mute it?”\n\nZin Min tapped the screen briefly, but the next clip still played with sound. He waved a hand and said, “It’s short,” then continued showing the phone around, interrupting conversation each time.\n\nWhile others were discussing a schedule, Zin Min cut in with, “Hold on, watch,” and pushed his phone into the center of the table.\n\nSomeone paused mid-sentence and reached for water. Zin Min kept scrolling, eyes on the screen instead of the food.\n\nHe took two quick bites, then lifted the phone again and said, “This one,” as another noisy clip began."
+      }
+    }
+  },
+  {
+    "id": "4",
+    "category": "Belief",
+    "full_action": "The visitor avoids eating or drinking any food that has been left out as a spiritual offering and treats the offering space with care.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ma Khin Yadanar",
+        "story": "Ma Khin Yadanar visited her grandmother’s home in Bago during the afternoon. Near the family shrine shelf, she saw small cups of water and a plate with bananas and sweets placed neatly in front of an image and flowers.\n\nHer cousin whispered, “There are snacks,” and nodded toward the plate.\n\nKhin Yadanar shook her head and said softly, “That’s on the shrine.” She kept her hands away from the offering tray and stepped around it, careful not to bump the shelf.\n\nWhen she sat down on the mat, her grandmother brought a separate bowl of snacks from the kitchen. “Eat this,” her grandmother said.\n\nKhin Yadanar accepted the bowl and replied, “Thank you,” then placed it on the table away from the shrine. She took a bite from the fresh bowl and drank from her own cup, not touching the water cups left at the offering space.\n\nLater, a younger child wandered near the shelf and reached for a banana. Khin Yadanar gently touched the child’s shoulder and said, “Not that one,” guiding the child toward the kitchen where other fruit was kept.\n\nHer grandmother adjusted the flowers on the shelf. Khin Yadanar waited until she finished before walking past, keeping her body slightly lowered and her voice quiet.\n\nWhen it was time to leave, she stepped back from the shrine area and picked up her bag without brushing the offering cloth."
+      }
+    },
+    "non_action": "The visitor consumes food left out as an offering and treats it as free food without acknowledging its religious meaning.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ko Seth",
+        "story": "Ko Seth visited a friend’s home in Yangon and noticed a small shelf with flowers, candles, and a plate of snacks set out neatly. He walked over, saw the sweets, and said, “Oh, free food.”\n\nWithout asking, he picked up a sweet from the plate and popped it into his mouth. He then lifted one of the small cups and took a sip of water that had been placed in front of the images.\n\nHis friend’s sister said sharply, “Don’t take that.”\n\nSeth shrugged with his mouth still chewing. “It was just sitting there,” he said, reaching again. He took another sweet and leaned closer to the shelf, resting his elbow on the offering cloth.\n\nThe sister stepped forward and said, “That’s for the shrine.”\n\nSeth laughed and said, “It’s the same snacks,” and took a banana from the plate. He tore the peel and tossed it onto a nearby table.\n\nHis friend tried to intervene. “Please, stop.”\n\nSeth waved him off and said, “Relax,” then drank again from the offering cup. He set the cup back down crookedly and nudged the plate, shifting it out of place.\n\nThe sister picked up the plate with both hands and moved it higher on the shelf. Seth licked his fingers and said, “I was hungry,” then walked back to the sofa, leaving crumbs on the floor near the shrine."
+      }
+    },
+    "principled_action": "Because he is unsure whether an item is an offering, the visitor asks respectfully before touching it and chooses a different food if there is any doubt.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ko Nay Thwe",
+        "story": "Ko Nay Thwe visited a small workshop in Mandalay where a family kept a shrine shelf in the corner. On a low table nearby, he saw cups of tea and a plate of fruit. He wasn’t sure which items were for guests and which were placed as offerings.\n\nHe paused and asked the owner quietly, “Is this fruit for visitors, or is it for the shrine?”\n\nThe owner looked over and said, “The ones on the shelf are offerings. This plate on the table is for guests.”\n\nNay Thwe nodded. “Thank you,” he said, and kept his hands away from the shelf. He stepped closer to see which plate was which, then moved back and chose a piece from the guest plate only.\n\nWhen he noticed a cup that sat very close to the shrine cloth, he hesitated and asked again, “This cup too?”\n\nThe owner smiled and said, “Don’t touch that one.”\n\nNay Thwe replied, “Okay,” and picked up a different cup that was clearly set with other guest cups. He carried it back to his seat and sipped slowly.\n\nA child ran past near the shrine. Nay Thwe shifted his chair slightly so the child had space and did not bump the offerings.\n\nWhen the owner returned with a fresh plate of snacks, Nay Thwe accepted it with a nod and placed it on his own table, away from the offering area.\n\nHe finished his tea and set the cup back on the guest table where it had been."
+      }
+    },
+    "surface_action": "The visitor avoids the offerings, but he takes photos and jokes about them in a way that undermines the respect the practice is meant to convey.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ko Ryan",
+        "story": "Ko Ryan visited a friend’s apartment in Yangon and noticed a small offering setup on a shelf: flowers, candles, small cups, and a plate of fruit. He did not touch the items or eat any of the food left there.\n\nInstead, he pulled out his phone and said, “This is interesting,” then started taking photos from different angles. He leaned in close, adjusting the camera while the candle smoke drifted upward.\n\nHis friend said, “Please don’t get too close.”\n\nRyan stepped back half a step but kept photographing. He chuckled and said, “The bananas look like they’re on display,” then joked, “If I put my coffee here, will it become special?”\n\nHis friend’s sister walked in and glanced at the phone. Ryan smiled and said, “Don’t worry, I’m not eating it,” then laughed again.\n\nHe continued snapping pictures and sent one to a group chat, adding a joking caption out loud as he typed. The sister reached toward the shelf and straightened the cloth that Ryan’s elbow had nearly brushed.\n\nRyan said, “Okay, okay,” but he took one more photo with flash, then made another comment: “It’s like a tiny buffet for spirits.”\n\nThe friend’s sister said nothing and carried a separate snack bowl to the living room. Ryan sat down, still scrolling through his photos, and said, “This one is the funniest,” showing the screen to his friend while the offering shelf remained in the background."
+      }
+    }
+  },
+  {
+    "id": "5",
+    "category": "Kinship",
+    "full_action": "When interacting with older relatives, the younger person uses lowered posture, careful positioning, and respectful movement to signal deference.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Zaw Lin",
+        "story": "Zaw Lin visited his aunt’s house in a neighborhood of Mandalay for a family lunch. His older uncle sat on a low chair near the open window, fanning himself while talking with two elders. Zaw Lin entered the room, removed his sandals at the edge of the mat, and moved around the group rather than stepping between them.\n\n“U Kyaw, mingalaba,” he said, lowering his head as he approached. He crouched slightly so his face was below the seated uncle’s eye line and placed the bag of fruit down beside the table.\n\nHis uncle gestured toward the kettle. “Sit here.”\n\nZaw Lin eased onto the mat with his knees folded, keeping his body angled so he wasn’t pointing his feet toward the elders. When his uncle spoke, Zaw Lin leaned forward, hands resting on his thighs, and waited for pauses before answering.\n\nAt one point his aunt called from the kitchen, and Zaw Lin needed to pass behind the elders to bring cups. He bent his shoulders, stepped behind the chairs quietly, and whispered, “Excuse me,” as he moved.\n\nHe set the cups down near his uncle with both hands, then shifted back to his place on the mat and listened while the elders continued their conversation."
+      }
+    },
+    "non_action": "When interacting with older relatives, the younger person stands over them, interrupts them, and dismisses their preferences in front of others.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ko Hla Win",
+        "story": "Ko Hla Win stopped by his relatives’ house in Pathein during a family gathering. His older aunt and an elderly uncle were seated on low stools near the front room, talking about the meal. Hla Win walked in without removing his shoes, stood directly in front of them, and looked down at his phone.\n\n“Auntie, where’s the rice?” he asked, cutting across his uncle’s sentence.\n\nThe uncle lifted his hand slightly. “We were saying we should eat after everyone arrives—”\n\nHla Win waved one arm. “It’s fine. I’m hungry,” he said, stepping closer so his knees were almost touching the uncle’s stool. “Just bring it now.”\n\nHis aunt pointed toward a chair by the wall. “Sit there, son.”\n\nHe stayed standing. “No, I’ll stand. Also, don’t make that fish curry too spicy,” he said, raising his voice so others in the next room could hear. “Last time it was too much.”\n\nHis aunt glanced toward the kitchen. “Your uncle likes it that way,” she said.\n\nHla Win snorted and interrupted again. “Then he can eat less. Make it normal.”\n\nHe turned his back on them and called out, “Ma, hurry up,” while the elders remained seated, looking toward the doorway as he paced in the middle of the room."
+      }
+    },
+    "principled_action": "Because the room setup prevents changing position, the younger person uses respectful language, pauses to listen, and adjusts his distance to show deference without relying on posture.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Sai Kyaw",
+        "story": "Sai Kyaw visited his grandmother’s sister in a small apartment in Yangon. The living room was tight, with a sofa pushed against the wall and a coffee table crowded with bowls. Two older relatives sat on the sofa, and there wasn’t space to sit lower without blocking the walkway.\n\nSai Kyaw stood near the doorway with his hands together and said, “Aunty Daw May, mingalaba. Can I come closer?”\n\nShe nodded. “Come, sit if you can.”\n\nHe glanced at the narrow gap beside the table, then stepped back half a pace to give them room. “I’ll stand here so you have space,” he said. When his aunt began explaining a family matter, Sai Kyaw kept his voice soft and waited for her to finish each thought.\n\n“Ah,” he said, nodding. “I understand.”\n\nHis phone buzzed in his pocket. He didn’t pull it out; he kept his eyes on her and asked, “Please tell me what you want me to do.”\n\nWhen he needed to pass a cup to the older uncle, he moved around the far side of the table rather than reaching across their laps. “Excuse me,” he said, extending the cup with both hands.\n\nAfter delivering the cup, he stepped back to the doorway again, leaving the walkway open and listening until the conversation ended."
+      }
+    },
+    "surface_action": "The younger person lowers his head and steps behind elders, but he then ignores their requests and acts independently without regard for their role.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Hnin Pwint",
+        "story": "Hnin Pwint went to her grandparents’ house in Pyin Oo Lwin for a weekend visit. Her grandfather sat on a low chair near the radio, and her grandmother arranged vegetables on a tray. Hnin Pwint entered, lowered her head, and stepped behind her grandfather rather than crossing in front of him.\n\n“Apha, mingalaba,” she said, bending slightly as she passed.\n\nHer grandmother pointed to a small stool. “Sit here and help me peel these beans.”\n\nHnin Pwint nodded, but instead of sitting, she walked straight to the cupboard and opened it. “I’ll make coffee,” she said.\n\nHer grandfather raised his hand. “Not coffee now. We’ll drink later.”\n\nShe lowered her head again in a quick motion. “Okay,” she said, but she filled the kettle anyway and clicked the gas lighter. When her grandmother repeated, “Come and help first,” Hnin Pwint answered without turning around, “I’ll do it after this.”\n\nThe kettle began to whistle. She poured water and started stirring instant coffee in two cups, placing them on the table with a small bow of her head.\n\nHer grandfather pushed one cup back slightly. “Later,” he said.\n\nHnin Pwint picked it up again and set it closer to him. “Just try it,” she said, then walked past the tray of beans and sat down on the sofa, scrolling through messages while her grandmother continued peeling alone."
+      }
+    }
+  },
+  {
+    "id": "6",
+    "category": "Exchange",
+    "full_action": "In professional settings, the visitor keeps gifts low-value and clearly symbolic so the exchange does not create improper pressure.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Lin Htet Aung",
+        "story": "Lin Htet Aung visited a partner office in Yangon for a project meeting. He arrived with a small paper bag from a nearby bakery: a dozen plain buns and a box of traditional sweets meant for sharing. He checked the label to make sure it was inexpensive and easy to distribute.\n\nAt reception, he introduced himself and waited until the team gathered in the meeting room. “Thank you for hosting,” he said, placing the bag on the side table. “I brought snacks for everyone.”\n\nA manager, Daw Ei Ei, glanced at it and nodded. “That’s fine. Please, sit.”\n\nDuring the meeting, Lin Htet Aung didn’t hand anything directly to individuals. When a break came, he opened the bag and slid the boxes toward the center of the table. “Please take,” he said.\n\nThe staff helped themselves, and someone poured water into cups. Lin Htet Aung focused on the agenda, pointing to the printed timeline and asking, “Can we confirm the delivery date?”\n\nAt the end, he stood, collected his notebook, and said, “Thank you for your time.”\n\nDaw Ei Ei handed him a visitor badge and a small printed pamphlet about the office. Lin Htet Aung received it with both hands, placed it into his folder, and walked out with the group to the elevator while the remaining sweets stayed on the side table for the team to finish."
+      }
+    },
+    "non_action": "In professional settings, the visitor offers a high-value gift and hints that it should influence decisions.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ko Than Lwin",
+        "story": "Ko Than Lwin arrived at a township office in Mandalay for a permit discussion. He carried a glossy gift bag with a high-end watch box inside. In the reception area, he asked for the officer by name and was led into a small room with a desk and two chairs.\n\nWhen the officer sat down, Than Lwin placed the gift bag on the desk. “A little present,” he said, sliding it forward.\n\nThe officer’s eyes flicked to the bag. “We can discuss your application first,” he replied.\n\nThan Lwin smiled and opened the bag slightly so the box could be seen. “It’s nothing compared to the time you’ll save me,” he said. “If you can move my file to the top, I’ll be very grateful.”\n\nThe officer’s hand stayed on his pen. “We process in order,” he said.\n\nThan Lwin leaned in. “Come on, U. Everyone knows how it works,” he whispered, tapping the box. “I’m not asking for anything illegal—just faster.”\n\nThe officer pushed the bag back toward him. “Please take that away,” he said.\n\nThan Lwin didn’t lift it. He kept the bag on the desk and said, “I brought it specially for you. If you help me, I’ll remember it next time too.”\n\nHe pulled out his application and placed it beside the gift bag, pointing at the signature line while watching the officer’s face."
+      }
+    },
+    "principled_action": "Because he is unsure about local compliance rules, the visitor asks the office about gift policies and chooses a permitted token such as snacks for the whole team.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Thura Paing",
+        "story": "Thura Paing had his first visit to a partner NGO office in Yangon and wasn’t sure what gift practices were acceptable. Before the meeting, he stopped at the reception desk and said, “May I ask a quick question? Does your office have any policy about small gifts or refreshments?”\n\nThe receptionist looked up from a ledger. “We prefer no personal gifts,” she said. “But shared snacks for the team are okay.”\n\nThura Paing nodded. “Thank you. I’ll keep it simple.”\n\nHe walked to a nearby convenience shop and bought two large packs of bottled water and a box of packaged biscuits. At the office, he placed them on the pantry counter and said to the receptionist, “These are for everyone to share during the meeting, if that’s alright.”\n\nShe checked the items and said, “Yes, you can leave them here.”\n\nWhen the project lead entered the meeting room, Thura Paing introduced himself and kept the conversation on the agenda. During the break, he pointed toward the pantry and said, “There are biscuits and water for the whole team.”\n\nThe project lead nodded and said, “Thanks.”\n\nAt the end, Thura Paing collected his documents and asked, “Is there anything else required for compliance?” The project lead handed him a short policy sheet, and Thura Paing received it with both hands and placed it into his folder before leaving."
+      }
+    },
+    "surface_action": "The visitor gives a low-value gift that looks compliant, but he repeatedly brings it up to demand favors later.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Min Khant",
+        "story": "Min Khant visited a small logistics firm in Yangon to negotiate a service agreement. He arrived with a low-value item: a small box of cookies meant for the office. At the front desk he said, “Just a token,” and placed it on the counter.\n\nDuring the meeting, he kept glancing at the box through the glass door. When the manager, Daw Sandar, sat down, Min Khant opened his folder and said, “Before we start, I brought something for your team—cookies. Small, but thoughtful.”\n\nDaw Sandar nodded once. “Thank you. Let’s talk about the rates.”\n\nThey went through the contract points. Each time Daw Sandar hesitated, Min Khant leaned forward and said, “Since I’m already showing goodwill, can you adjust this line?”\n\nShe replied, “We have standard terms.”\n\nMin Khant tapped his pen. “It’s not a big gift, so it’s fine,” he said, then added, “But I’d like you to help me on the timeline. Consider it returning the gesture.”\n\nWhen a staff member brought water, Min Khant nodded toward the cookies again. “Make sure everyone gets some,” he said, as if checking.\n\nAt the end, Daw Sandar stood to walk him out. Min Khant paused by the front desk and said, “Remember, I’m the one who brought treats. Please prioritize our shipment next week,” then stepped into the elevator while the cookies sat unopened on the counter."
+      }
+    }
+  },
+  {
+    "id": "7",
+    "category": "Civility",
+    "full_action": "At the end of a visit, the guest thanks the host warmly and acknowledges the hospitality before leaving.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Aye Nandar",
+        "story": "Aye Nandar spent the afternoon at her friend’s home in Yangon, where they shared noodles and talked while rain tapped the balcony rail. As the sky darkened, Aye Nandar glanced at her phone and stood up, smoothing her longyi.\n\n“I should go now,” she said.\n\nHer friend’s mother, Daw Hnin, stepped out from the kitchen with a towel over her shoulder. “Take care on the road,” she said.\n\nAye Nandar moved to the doorway and turned to face them. “Daw Hnin, thank you for having me,” she said, her voice soft. “Thank you for the food and letting me stay so long.”\n\nDaw Hnin smiled. “You’re welcome. Come again.”\n\nAye Nandar then looked at her friend. “Ma Thazin, thank you. I had a good afternoon,” she said.\n\nHer friend picked up a small umbrella and handed it over. “Use this.”\n\nAye Nandar received it with both hands. “Thank you,” she said again. She stepped outside, put on her sandals, and opened the umbrella at the bottom of the stairs.\n\nBefore turning onto the street, she raised her hand and said, “Good night,” then walked toward the bus stop, holding the umbrella steady as water pooled along the curb."
+      }
+    },
+    "non_action": "At the end of a visit, the guest leaves without thanking the host and ignores the host’s farewell.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ko Thant Zin",
+        "story": "Ko Thant Zin stopped by his cousin’s house in Bago in the late afternoon. He sat for a while, ate snacks, and watched a football match on the TV while the host family moved in and out of the room with tea and plates.\n\nAs the match ended, Thant Zin stood abruptly and checked his phone. “I’m going,” he said, already walking toward the door.\n\nHis aunt called from the kitchen, “Drive safely, son.”\n\nHe didn’t answer. He stepped into the hallway, picked up his shoes, and put them on quickly. His cousin followed him and said, “Wait, let me pack some leftovers.”\n\nThant Zin opened the door. “No time,” he said.\n\nHis cousin’s father appeared at the doorway and raised his hand slightly. “Come again.”\n\nThant Zin kept his eyes on the street. He walked out without turning back, closing the gate with a loud click. The host family stood inside for a moment, then the cousin lowered his hand and carried the leftover container back to the kitchen.\n\nThant Zin started his motorbike, the engine coughing once, and pulled away down the lane while the porch light flickered on behind him."
+      }
+    },
+    "principled_action": "Because he must leave quickly for a safety reason, the guest gives a brief thanks while departing and follows up later with a message of gratitude.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Ko Phyo Wai",
+        "story": "Ko Phyo Wai visited a friend’s home in Yangon after work. They ate rice and curry while the friend’s parents sat nearby, asking a few questions about his job. As evening came, Phyo Wai heard loud thunder and glanced outside at the street where water was already rising near the drain.\n\nHe stood and said, “I’m sorry, I need to leave now before the road floods.”\n\nHis friend’s mother, Daw Mya, looked up. “Already?”\n\nPhyo Wai nodded, picking up his bag. “Yes. Thank you for the dinner,” he said quickly, bowing his head slightly. “Thank you for having me.”\n\nHis friend walked him to the gate. “Be careful,” he said.\n\nPhyo Wai stepped into his sandals and moved toward the main road, holding his phone in one hand to light the wet ground. When he reached a drier patch near a shop awning, he stopped and typed a message.\n\n“Daw Mya, thank you for welcoming me today and feeding me. I left quickly because the road was flooding. I’m home safely,” he wrote.\n\nA few seconds later, a reply appeared: “Glad you are safe. Come again.”\n\nPhyo Wai put the phone away and continued walking, keeping to the edge of the road where the water was lower."
+      }
+    },
+    "surface_action": "The guest thanks the host, but he immediately criticizes the host’s home and hospitality to others after leaving.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Yamin Thet",
+        "story": "Yamin Thet visited a coworker’s home in Yangon for a short evening meal. When it was time to go, she stood near the doorway and said, “Thank you for inviting me,” smiling at the host. “Thank you for the food.”\n\nThe host replied, “Come again,” and walked her to the stairwell.\n\nYamin Thet put on her sandals, waved once, and went down the stairs to the street. As soon as she reached the corner, she pulled out her phone and called another coworker.\n\n“I just left Ma Thiri’s place,” she said, walking past a row of parked motorbikes. “Yeah, I thanked her.”\n\nShe lowered her voice but kept talking as she walked. “Honestly, the apartment is so cramped, and the food was cold. The table was sticky too.”\n\nA taxi slowed near her, and she waved it down with her free hand. “And they kept offering water like it was a big thing,” she continued into the phone. “Next time I’ll avoid it.”\n\nShe opened the taxi door and slid into the back seat. The driver asked, “Where to?”\n\nShe named a neighborhood, then went back to the call. “I’m telling you, don’t eat there if you can help it,” she said, while the taxi pulled away from the curb and the host’s building disappeared behind a line of trees."
+      }
+    }
+  },
+  {
+    "id": "8",
+    "category": "Business",
+    "full_action": "In the workplace, the professional avoids gift-giving that could be interpreted as improper and follows local anti-corruption expectations.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Daw Thiri Mon",
+        "story": "Daw Thiri Mon worked at a private firm in Yangon and needed to submit documents to a partner office for approval. Before going, she removed a decorative gift bag from her tote and left it on her desk. She carried only the file folder, her ID card, and a pen.\n\nAt the partner office, the staff member at the counter reviewed the paperwork and said, “Processing will take two days.”\n\nThiri Mon nodded. “Understood. Please follow the normal steps,” she replied.\n\nThe staff member glanced at the folder. “Some people bring something,” he said quietly.\n\nThiri Mon kept her hands on the edge of the counter. “I’ll just submit the documents and wait for the official notice,” she said.\n\nHe stamped the receipt and handed it back. Thiri Mon received it with both hands and placed it into her folder.\n\nLater that afternoon, her manager asked, “Did you handle it?”\n\n“Yes,” Thiri Mon said, setting the stamped receipt on the table. “They said two days.”\n\nWhen a colleague suggested, “We could send a small gift basket,” Thiri Mon shook her head and replied, “Let’s not do that. We’ll follow the process,” and she returned to her desk to email the project team the expected timeline.\n\nTwo days later, she went back to the counter, presented her receipt, and collected the approved documents without adding anything to the exchange."
+      }
+    },
+    "non_action": "In the workplace, the professional gives gifts to influence outcomes and encourages the recipient to bypass rules.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ko San Lin",
+        "story": "Ko San Lin visited a local office in Yangon to get paperwork approved for his company. He carried an envelope and a boxed gift in his briefcase. At the counter, he waited until the clerk looked up, then leaned closer.\n\n“I know you’re busy,” San Lin said, sliding the envelope halfway across the desk. “This is for you.”\n\nThe clerk pulled his hands back. “We process in order,” he said.\n\nSan Lin smiled and placed the boxed gift beside the envelope. “Just take it. If you stamp mine today, I’ll be out of your way,” he said.\n\nThe clerk glanced around the room. “Please remove that.”\n\nSan Lin lowered his voice. “Come on, U. You can skip my file ahead. No one will notice. Just put it on top.”\n\nThe clerk pushed the items back. “I can’t.”\n\nSan Lin tapped the desk. “You can. Everyone does it,” he said, pointing at the stamp pad. “If you do it now, I’ll bring something better next time.”\n\nThe clerk stood up and called to a supervisor. San Lin quickly pulled the envelope back but kept the gift box on the desk. “Let’s not make this complicated,” he said.\n\nThe supervisor approached, and San Lin leaned in again. “We can handle this quietly,” he said, while the gift box sat between them and the documents remained unstamped."
+      }
+    },
+    "principled_action": "Because a courtesy gesture is expected, the professional brings a small shared refreshment for the team and confirms it is allowed under workplace policy.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Nyein Su",
+        "story": "Nyein Su joined a new department in Yangon and was invited to meet a partner team for the first time. She knew people sometimes brought small courtesies, but she didn’t want to create a personal exchange. Before the visit, she called the partner office’s admin line.\n\n“Hello,” she said. “Is it okay if I bring a small refreshment for the team, like snacks, or do you prefer nothing?”\n\nThe admin replied, “Shared snacks are fine, but no personal gifts.”\n\nNyein Su thanked her and stopped by a bakery to buy two boxes of simple pastries and bottled water. At the office, she placed them in the pantry area and told the admin, “These are for everyone to share during the meeting.”\n\nDuring the meeting, she kept her notes open and focused on the agenda, asking, “Can we align on the next deliverable date?”\n\nWhen the team took a break, people went to the pantry and took pastries. Nyein Su didn’t hand anything to individuals and didn’t mention the snacks again.\n\nAt the end, the team lead handed her a visitor form to sign. Nyein Su signed, returned the pen, and said, “Thank you for meeting today.”\n\nShe collected her folder, walked out with the admin to the elevator, and left the pastries in the pantry for the team to finish."
+      }
+    },
+    "surface_action": "The professional avoids direct gifts, but he offers “help” and personal benefits informally in ways that still create improper pressure.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ko Htun Aye",
+        "story": "Ko Htun Aye went to a partner office in Yangon to discuss a contract. He arrived empty-handed and said to the receptionist, “No gifts from me—just here for business.”\n\nIn the meeting room, he laid out the proposal and talked through the timeline. When the partner manager hesitated about a clause, Htun Aye leaned in and lowered his voice.\n\n“I won’t give you a gift,” he said, smiling. “But I can help you personally. If you sign this week, I can arrange a private driver for your family for a day, or cover a hotel stay when you travel.”\n\nThe manager’s pen paused above the paper. “That’s not necessary,” she said.\n\nHtun Aye kept his tone light. “It’s not official, just between us,” he replied. “No one needs to know. Consider it a personal thank-you.”\n\nShe pushed the contract back slightly. “We will decide through our process.”\n\nHtun Aye nodded and added, “I’m trying to make it easy for you,” then tapped the signature line with his finger.\n\nAt the end, he stood and shook hands, saying, “No gifts, see? Clean,” and as he walked to the elevator he sent a message on his phone: “If you want the driver arrangement, just tell me,” while the unsigned contract remained on the table behind him."
+      }
+    }
+  },
+  {
+    "id": "9",
+    "category": "Privacy",
+    "full_action": "Knowing that some people may carry trauma from conflict or persecution, the listener avoids probing personal histories and responds gently when sensitive experiences are mentioned.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Naw Kyar Paw",
+        "story": "Naw Kyar Paw volunteered at a small learning center in Yangon where adults practiced English in the evenings. After class, she sat with a student, Htet, who was filling out a job application form. The room was quiet except for a ceiling fan.\n\nHtet pointed at a question about address history and said, “I moved many times.” He paused and added, “Some places were not safe.”\n\nNaw Kyar Paw nodded slowly and kept her voice soft. “Okay,” she said. “For this form, we only need your current address and one contact number.”\n\nHtet looked at the paper and swallowed. Naw Kyar Paw did not ask where he had lived before. She slid the form slightly closer and said, “If you want, you can write it here. If not, we can leave it blank and ask the office later.”\n\nHtet picked up the pen and wrote his current township. Naw Kyar Paw said, “Thank you,” and pointed to the next line. “This part is about work experience,” she said.\n\nHtet mentioned, “I had to stop school for a while,” then went quiet.\n\nNaw Kyar Paw replied, “Okay. Let’s focus on the jobs you did,” and asked, “What was the last place you worked?”\n\nHtet listed a shop job, and Naw Kyar Paw wrote the dates neatly without asking for details about why he moved.\n\nShe handed the pen back to Htet and said, “Take your time,” then sat quietly while he filled in the next section."
+      }
+    },
+    "non_action": "The listener presses for graphic details about past hardship and keeps asking follow-up questions even when the person becomes uncomfortable.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Ko Phyo Wai",
+        "story": "Ko Phyo Wai sat with a new acquaintance, Amina, at a teashop in Yangon. Amina mentioned, “I had a difficult time before coming here,” and looked down at her cup.\n\nKo Phyo Wai leaned forward and said, “Tell me exactly what happened. Was it violent? What did you see?”\n\nAmina tightened her grip on the cup and said, “I don’t want to talk about it.”\n\nKo Phyo Wai kept going. “No, no, you have to explain. Where did you run from? Who chased you? Did anyone get hurt?” He spoke quickly, stacking questions.\n\nAmina stared at the table and shook her head. Ko Phyo Wai lowered his voice and asked, “Describe it. What did they do to you? How bad was it?”\n\nAmina’s shoulders rose slightly. “Please,” she said.\n\nKo Phyo Wai ignored the plea and added, “Was there blood? Did you lose family? Tell me the whole story.” He reached for his phone and placed it on the table, screen up, as if ready to record notes.\n\nAmina pushed her chair back a little and looked toward the shop entrance. Ko Phyo Wai followed her gaze and said, “Don’t go—just answer. People need to know.”\n\nThe waiter arrived with another tea and paused. Amina stood up, still looking down.\n\nKo Phyo Wai said, “Wait, I’m not finished,” as Amina moved away from the table."
+      }
+    },
+    "principled_action": "Because the person asks for help that requires some background, the listener asks only necessary questions, gives control over what to share, and stops immediately when the person hesitates.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "Daw Sandar Hla",
+        "story": "Daw Sandar Hla helped at a small clinic desk in Yangon where people came to ask about referrals. A visitor named Rahim approached and said, “I need help getting documents for my case.”\n\nDaw Sandar Hla nodded and said, “Okay. I’ll ask only what we need for the form.” She pointed to the paper and asked, “What name should we write, and what phone number can we use to contact you?”\n\nRahim gave the details, and she wrote them down. She asked, “Which township are you staying in now?”\n\nRahim answered, then paused when she asked, “Do you have any letter from a local office?” His eyes flicked away and his voice slowed.\n\nDaw Sandar Hla stopped immediately and said, “You don’t have to explain. If you don’t have it, we can mark ‘not available’ and proceed.”\n\nRahim exhaled and said, “Not available.”\n\nDaw Sandar Hla nodded and continued with a narrow question: “Do you need this appointment in the morning or afternoon?” She kept her tone steady.\n\nRahim replied, “Afternoon.”\n\nShe wrote it down and then said, “If there is anything you want to leave out, tell me, and we’ll skip it.” Rahim nodded and pointed at the next line.\n\nDaw Sandar Hla slid the form toward him and said, “Please check the spelling,” then waited quietly while he reviewed it."
+      }
+    },
+    "surface_action": "The listener avoids direct questions, but he hints repeatedly that the person should “tell the story” and makes the interaction feel like an interview.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Alex Moran",
+        "story": "Alex Moran volunteered at a community center in Yangon and met a participant named Hla, who was signing up for a skills class. Hla filled in his name and address and said softly, “I moved here after some trouble.”\n\nAlex nodded and said, “Okay, you don’t have to share details,” then leaned forward and added, “But if you ever want to tell your story, it could be really powerful.”\n\nHla looked down at the form and kept writing. Alex continued, “I’m not asking questions, but people usually feel better when they talk it out.” He tapped his pen lightly on the table.\n\nHla paused and said, “I prefer not.”\n\nAlex raised his hands. “Sure, totally optional,” he said, then asked, “Was it a long journey, or…?” He stopped mid-sentence and smiled as if leaving space.\n\nHla didn’t answer and pointed at the class schedule. Alex said, “Right, schedule,” then added, “If you decide to share later, I’m here. We could even write it down.”\n\nHla’s pen moved faster. Alex kept his voice gentle but repeated, “No pressure—just tell the story whenever you’re ready.”\n\nA staff member called Alex to help with chairs, and Alex stood up. Before leaving, he said, “Think about it,” and placed a blank notebook in front of Hla.\n\nHla pushed the notebook slightly to the side and continued filling out the registration form."
+      }
+    }
+  },
+  {
+    "id": "10",
+    "category": "Rites",
+    "full_action": "When showing deep respect to monks or Buddha images, the visitor kneels and performs three respectful prostrations with palms and forehead touching the floor when it is appropriate to do so.",
+    "full_stories": {
+      "GPT-5.2": {
+        "name": "Ko Sithu",
+        "story": "Ko Sithu visited a monastery in Bago with his cousin early in the morning to offer food. They entered the hall quietly, shoes left outside, and the scent of incense drifted near a large Buddha image at the front. A few laypeople were already kneeling on the polished floor.\n\nA monk sat to the side while donations were arranged. Ko Sithu approached the open area, kept his voice low, and set the offering tray down in the designated spot. His cousin whispered, “Here.”\n\nKo Sithu moved back a step, then knelt on both knees facing the Buddha image. He placed his palms together at his chest and lowered them to the floor. He bent forward until his palms lay flat and his forehead touched the floor, then rose back to kneeling.\n\nHe repeated the motion a second time: palms down, forehead to the floor, then back upright on his knees. He performed the third prostration the same way, with his palms and forehead touching the floor before returning to kneeling.\n\nThe monk began a short chant. Ko Sithu remained kneeling, hands together, head slightly bowed. When the chant ended, he lifted the offering tray again and slid it forward for the attendant to receive.\n\nHe backed away on his knees, then stood carefully and moved to the side to make space for the next visitors."
+      }
+    },
+    "non_action": "When in front of monks or Buddha images, the visitor refuses to show respect, mocks the practice, and disrupts others who are paying respect.",
+    "non_stories": {
+      "GPT-5.2": {
+        "name": "Jason Blake",
+        "story": "Jason Blake entered a pagoda hall in Yangon with a friend, leaving his shoes at the entrance but keeping his phone in his hand. Inside, several visitors were kneeling in front of a Buddha image while a monk sat nearby. Jason looked around and whispered loudly, “So everyone just bows on the floor?”\n\nHis friend murmured, “Please be quiet.”\n\nJason walked forward, passing behind a kneeling woman, and said, “I’m not doing that,” in a raised voice. He pointed his phone toward the front and laughed. “This is wild,” he said.\n\nA volunteer approached and gestured with a finger to the lips. Jason smirked and replied, “Relax, I’m just watching.” He stepped closer and clapped once softly as if joking, then said, “Go on, bow again,” toward the group.\n\nSeveral kneeling people remained still, hands together. Jason moved into the open space in front of them, blocking the view, and waved his phone in the air like a tour guide. “Look at this statue,” he said.\n\nA man in the crowd whispered, “Please move.” Jason shrugged and said, “I’m standing here,” then turned his back to the Buddha image.\n\nWhen a chant began, Jason talked over it, asking his friend, “How long does this go?” while the volunteer tried to usher him aside."
+      }
+    },
+    "principled_action": "Because of a physical limitation, the visitor cannot kneel fully, so he stands respectfully, keeps a calm posture, and performs an adapted respectful gesture without pretending to do the full rite.",
+    "principled_stories": {
+      "GPT-5.2": {
+        "name": "U Htun Aye",
+        "story": "U Htun Aye visited a small pagoda in Yangon with his daughter, carrying a cane due to a knee problem. Inside the hall, visitors were kneeling before a Buddha image and a monk sat near a donation table. U Htun Aye removed his sandals and stepped onto the cool floor slowly.\n\nHe stopped at the edge where others were kneeling and whispered to his daughter, “I can’t kneel today.” He kept his body still, feet together, and faced the Buddha image.\n\nU Htun Aye brought his palms together at chest level and bowed his head slightly. He did not lower himself to the floor or imitate prostrations. He remained standing with a calm posture, eyes lowered, hands pressed together.\n\nA volunteer approached quietly and said, “It’s okay, stand there.” U Htun Aye nodded once without speaking.\n\nWhen the monk began chanting, U Htun Aye stayed in place, hands together. After the chant, he stepped forward carefully and placed an envelope of donation on the table using both hands. He then stepped back to his standing spot, again bringing his palms together and bowing his head.\n\nHis daughter knelt beside him and performed her own prostrations. U Htun Aye waited without moving, keeping his cane close to his leg.\n\nWhen she finished, he turned slightly to the side to let others pass and walked out slowly with his daughter."
+      }
+    },
+    "surface_action": "The visitor performs the three prostrations, but he does it for attention, takes performative photos, and distracts others from the solemn moment.",
+    "surface_stories": {
+      "GPT-5.2": {
+        "name": "Ko Yan Naing",
+        "story": "Ko Yan Naing entered a pagoda hall in Mandalay with two friends, shoes left at the entrance. The hall was quiet, with visitors kneeling in front of a Buddha image while a monk sat nearby. Ko Yan Naing held his phone in his hand and whispered, “Okay, watch this.”\n\nHe walked to an open spot, knelt down facing the Buddha image, and placed his palms together. He lowered his hands to the floor and bent forward until his forehead touched the floor, then rose. He repeated the prostration a second time—palms down, forehead to the floor—then came upright again.\n\nBefore the third, he tilted his phone slightly and snapped a quick selfie while still kneeling. His friend hissed, “Put it away,” but Ko Yan Naing smiled at the camera. He then did the third prostration, palms and forehead touching the floor, and lifted his head.\n\nHe turned his upper body toward his friends while still on his knees and mouthed, “Got it,” pointing at the phone screen. A nearby visitor shifted position to avoid being in the frame.\n\nKo Yan Naing stood up, raised his phone again, and took a short video sweeping across the hall while people remained kneeling.\n\nA volunteer stepped toward him and gestured downward. Ko Yan Naing lowered the phone briefly, then grinned and walked sideways to capture another angle as the chanting began."
+      }
+    }
+  }
+]
